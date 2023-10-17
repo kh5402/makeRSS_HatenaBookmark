@@ -25,33 +25,38 @@ def main():
         ET.SubElement(channel, "description").text = description
         ET.SubElement(channel, "link").text = "https://example.com"
 
-    # スクレイピング処理
-    while url:
-        response = requests.get(url)
-        html_content = response.text
+        # 初期ページ番号と最終ページ番号
+        start_page = 1
+        end_page = 100
+        current_page = start_page
 
-        article_pattern = re.compile(r'<h3 class="entrylist-contents-title">[\s\S]*?<a href="([^"]+)"[\s\S]*?title="([^"]+)"[\s\S]*?<\/a>[\s\S]*?<li class="entrylist-contents-date">([^<]+)<\/li>[\s\S]*?<p class="entrylist-contents-description" data-gtm-click-label="entry-info-description-href">([\s\S]+?)<\/p>')
+        # スクレイピング処理
+        while url and current_page <= end_page:
+            response = requests.get(url)
+            html_content = response.text
+
+            article_pattern = re.compile(r'<h3 class="entrylist-contents-title">[\s\S]*?<a href="([^"]+)"[\s\S]*?title="([^"]+)"[\s\S]*?<\/a>[\s\S]*?<li class="entrylist-contents-date">([^<]+)<\/li>[\s\S]*?<p class="entrylist-contents-description" data-gtm-click-label="entry-info-description-href">([\s\S]+?)<\/p>')
         
-        channel = root.find("channel")
+            channel = root.find("channel")
         
-        for match in article_pattern.findall(html_content):
-            link, title, date, description = match
+            for match in article_pattern.findall(html_content):
+                link, title, date, description = match
 
-            if link in existing_links:
-                continue
+                if link in existing_links:
+                    continue
 
-            new_item = ET.SubElement(channel, "item")
-            ET.SubElement(new_item, "title").text = title
-            ET.SubElement(new_item, "link").text = link
-            ET.SubElement(new_item, "pubDate").text = date
-            ET.SubElement(new_item, "description").text = description
+                new_item = ET.SubElement(channel, "item")
+                ET.SubElement(new_item, "title").text = title
+                ET.SubElement(new_item, "link").text = link
+                ET.SubElement(new_item, "pubDate").text = date
+                ET.SubElement(new_item, "description").text = description
 
-        # 次のページへ
-        next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
-        if next_page_match:
-            url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
-        else:
-            url = None
+            # 次のページへ
+            next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
+            if next_page_match:
+                url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
+            else:
+                url = None
 
     # XMLを出力
     xml_str = ET.tostring(root)
