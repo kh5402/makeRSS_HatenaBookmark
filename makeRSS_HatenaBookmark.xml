@@ -3370,5 +3370,11 @@
       <pubDate>2023/10/17 22:12</pubDate>
       <description>3つの要点 ✔️ 大規模言語モデルで観察される創発を検証 ✔️ LLMの創発は評価指標が見せる幻影である可能性を示唆 ✔️ LLM以外のモデルにおいて特定の評価指標を用いることで意図的に実際には発生していない創発を再現することに成功 Are Emergent Abilities of Large Language Models a Mirage? written by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo (Submitted on 28 Apr 2023 (v1), last revised 22 May 2023 (this version, v2)) Comments: Published on arxiv. Subjects: Artificial Intelligence (cs.AI); Machine Learning (</description>
     </item>
+    <item>
+      <title>これ誰?　伊藤園がCMにAIタレント起用　日本初、SNSで話題（毎日新聞） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/585411c4e361d34e88f63ed73791f0cb5d95c856</link>
+      <pubDate>2023/10/17 10:48</pubDate>
+      <description>この記事を3行でまとめると.. Turingでは1年以上前から完全自動運転に自然言語処理が必要と考えてきた 自動運転におけるロングテールなデータに対して、LLMの一般常識に基づく判断能力が必要 Chat-GPTをきっかけにLLMを自動運転に利用する研究が盛り上がってきている TuringのBrain Researchチームの棚橋です。Brain Researchチームでは、中長期的に自動運転においてキーとなるコア技術の開発を行っています。最近ではVision LanguageモデルのフレームワークとしてHeronをリリースしました。なぜ自動車を製造する会社が、LLMの開発を行っているのでしょうか。 Turingでは1年以上前から自動運転における複雑な文脈理解には自然言語が必要であると主張してきました。今年の7月にはLLMで実際の車を動かしてみるプロジェクトをデモとして公開しました。このデモ</description>
+    </item>
   </channel>
 </rss>
