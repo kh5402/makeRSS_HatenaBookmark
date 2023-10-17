@@ -46,8 +46,12 @@ def main():
             ET.SubElement(new_item, "pubDate").text = date
             ET.SubElement(new_item, "description").text = description
 
-        # 次のページ（今回は省略）
-        url = None  # 例えば、次のページがあればここで更新する
+        # 次のページへ
+        next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
+        if next_page_match:
+            url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
+        else:
+            url = None
 
     # XMLを出力
     xml_str = ET.tostring(root)
