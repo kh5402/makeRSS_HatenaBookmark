@@ -3010,5 +3010,296 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aac558a175c20867caeee7c3d510861a3d71b20e/height=288;version=1;width=512/https%3A%2F%2Fdc.watch.impress.co.jp%2Fimg%2Fdcw%2Flist%2F1530%2F505%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Kaggleコンペ（LLM Science Exam）の振り返りと上位解法まとめ</title>
+      <link>https://zenn.dev/nishimoto/articles/aff1fba9c75c34</link>
+      <pubDate>2023/10/16 14:21</pubDate>
+      <description>10月15日の夜、大阪府のAI「大ちゃん」が「大阪万博は中止」と回答した事例が複数投稿されました</description>
+    </item>
+    <item>
+      <title>OpenAIのGPTシリーズとBedrockのClaudeをコスト比較してみた - Qiita</title>
+      <link>https://qiita.com/minorun365/items/fbbd26a71b4e72fc883c</link>
+      <pubDate>2023/10/16 22:03</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。10月9日（月）〜10月15日（日）〔2023年10月第3週〕のトップ30です*1。 順位 タイトル 1位 保存版！使っている専門通販サイト :: デイリーポータルZ 2位 パレスチナ問題がわかる ハマスとイスラエル 対立のわけ - #クロ現 取材ノート - NHK みんなでプラス 3位 イスラエルによって徹底封鎖されたガザ地区恐怖の15年｜ARAB NEWS 4位 慢性人員不足の負のスパイラルあるある - やしお 5位 お前らはまったくパパ活女子の実態をわかっていない 6位 なぜ藤井聡太は八冠制覇できたのか？ | 白鳥士郎のページ 7位 ｢藝大に落ち､就職もせず､栄養失調で横たわっていた｣75歳の&amp;quot;水彩画おじいちゃん&amp;quot;に170万人が癒されるワケ まわりと自分を比べなくていい | PRESIDEN</description>
+    </item>
+    <item>
+      <title>不安感受性が高い人ほど「運動を避ける傾向」があると判明 - ナゾロジー</title>
+      <link>https://nazology.net/archives/136570</link>
+      <pubDate>2023/10/17 07:40</pubDate>
+      <description>1. はじめに ついに ChatGPT-4V が使えるようになりました！ これまでGUIを作成するときには、ChatGPT に 「まず左上にテキストボックスがあって、その右にボタンがあって...」 とちまちま指示する必要があったのですが、GPT-4V により画像を渡せるようになります。 この記事では、ChatGPT-4V を使うと GUI 作成がどのくらい楽になるのかを検証してみたいと思います！ 作成するGUIはこちらのものです。 2. GPT-4V の読み取り精度の確認 2.1. 日本語のポンチ絵 まず、元の記事で使用した日本語のポンチ絵を渡して、どのように読み取れるのかを確認します。 GUIの各要素の位置はなんとなく読み取れている感じがしますが、日本語の読み取り精度はあまり高くないようです。 2.2. 英語のポンチ絵 先ほどのポンチ絵を英語に変換してみます（左下だけ詳しく書き直しました</description>
+    </item>
+    <item>
+      <title>コンサルティング会社でやっていた「超シビアな勉強会」の話。</title>
+      <link>https://blog.tinect.jp/?p=83742</link>
+      <pubDate>2023/10/17 07:50</pubDate>
+      <description>顧客や取引先による著しい迷惑行為「カスタマーハラスメント（カスハラ）」。激高する客を生成AI（人工知能）で再現するなど、スタートアップが先端技術で研修や抑止するサービスを広げる。心理的な負担で離職が起きると、コールセンター業界では1人あたり80万円超の損失が出るとの試算もある。働き手が足りない中、デジタル技術での解決策に迫る。「インターネットがつながらないんだよ!　早く直せ!」パソコンの画面</description>
+    </item>
+    <item>
+      <title>ChatGPTを使って、文字コードの理解と記述の負担を軽減できるのか　「日本語と認識しているUnicodeの範囲」「括弧の検出」「新字体への変換」を調査してみた</title>
+      <link>https://logmi.jp/tech/articles/329484</link>
+      <pubDate>2023/10/16 23:08</pubDate>
+      <description>皆様どうもこんにちは。外資系ITコンサルタント企業のクラウド・エンジニアリング部門でマネージャーをしている中川伸一（@shinyorke）と申します。本業ではSRE（Site Reliability Engineering）として勤務する一方、個人活動としてブログ「Lean Baseball」およびPyCon JPやDevelopers Summit（デブサミ）等のイベントで、技術・キャリア・野球データサイエンスに関する情報を定期的に発信しています。 私は仕事およびチーム選びの視点として、現職を含めて「自分がやりたいこと・興味あることを仕事とする」「自分が納得できるチームと出会う」の2点を重視しており、自分自身のキャリアにおいて 常に目標・ビジョンを持つ その目標が実現できるよう、チームやポジションを求めて環境を変える（転職を含む） プレーヤーかマネージャーかといった役割にこだわらず、仕事</description>
+    </item>
+    <item>
+      <title>NTTデータが「生成AIありき」のSI、コード変換の作業工数を7割削減の効果も</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02613/101300003/</link>
+      <pubDate>2023/10/17 07:02</pubDate>
+      <description>米Microsoft傘下のLinkedInは10月16日（現地時間）、約668人の人員を削減すると発表した。エンジニアリング、製品、人材、財務部門が影響を受ける。 Microsoftが7月に発表した4～6月期決算では、LinkedInの売上高の伸びは5％。伸びは8四半期連続で鈍化している。 Microsoftは1月、1万人の従業員削減を発表した。LinkedInは5月にも716人を削減している。 LinkedInは公式ブログで、「われわれは、組織構造を適応させ、意思決定を合理化する一方で、将来に向けた戦略的優先事項への投資を継続し、会員と顧客に価値を提供し続ける」と述べた。 同社は米OpenAIのGPT採用のツールなどに注力している。 関連記事 Googleもだました？　LinkedInに氾濫する偽役員や偽社員、企業も対応に苦慮 転職活動や企業の人材採用などに幅広く使われているビジネス向け</description>
+    </item>
+    <item>
+      <title>GoogleのAIを使って著作権問題が発生したら…Googleが対応いたします！</title>
+      <link>https://www.gizmodo.jp/2023/10/google-will-help-if-ai-lands-you-in-copyright-trouble.html</link>
+      <pubDate>2023/10/17 01:54</pubDate>
+      <description>日本における小中学生の不登校は増え続けており、文部科学省調査によると2022年度の小中学生の不登校者数は過去最多の29万9048人でした。 これにはコロナ禍での活動制限による影響だけでなく、以前から問題視されてきた「いじめ」や「交友関係への不安」などが関係しています。 こうした不登校問題に取り組むべく、熊本市教育委員会は、不登校生徒が「分身ロボ」を使って授業に参加できるよう計画しています。 この珍しい取り組みは世界的にも注目されており、人々はテクノロジーの介入がどのような結果をもたらすのか興味を抱いています。 目次 熊本市では「不登校でも分身ロボで授業に参加」できる!? 熊本市では「不登校でも分身ロボで授業に参加」できる!? Credit:Canva 熊本市は以前から不登校生徒への支援を続けてきました。 例えば、オンラインによる学習支援によって、生徒は自宅から自分のペースで学んでいくことが</description>
+    </item>
+    <item>
+      <title>[初心者向け]AWS LambdaでOpenAI API のFunction Callingを試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/aws-lambda-function-calling/</link>
+      <pubDate>2023/10/17 07:45</pubDate>
+      <description>Amplifyで開発工数を削減できる理由 Amplifyを使えば、「インフラ構築工数」「バックエンド構築工数」「フロントエンド構築工数」の削減が可能です。それぞれについて詳しく説明します。 インフラ構築工数の削減 まず、Amplifyのアプリケーションサーバー自体がサーバーレスアーキテクチャのため、インフラエンジニアによるプロビジョニングが不要となります。ただし、Amplify CLIを通じてのサービスの立ち上げは最低限必要となることに注意しましょう。 また、ミドルウェアレベルの物理サーバー管理もAWS側で実施可能です。アクセス過多が発生した際のスケーラビリティの管理や、ミドルウェアのセキュリティ管理（例：各種ミドルウェアのアップデートや脆弱性診断など）からエンジニアが解放されるため、工数削減につながります。 バックエンド構築工数の削減 コマンドラインでバックエンドを構築できるインターフェ</description>
+    </item>
+    <item>
+      <title>慶應義塾大学 機械学習基礎02 コーディング</title>
+      <link>https://speakerdeck.com/keio_smilab/keio-univ-intro-to-ml-02-coding</link>
+      <pubDate>2023/10/14 08:57</pubDate>
+      <description>最近、弊社で画像処理の案件が増えているらしく、学生時代に研究でかじっていた私にドンピシャな案件がやってきています。 そこで、画像処理を少しでも知ってもらうように、今回は画像処理の基本であるOpenCVのライブラリを使って簡単な画像処理を実施していきたいと思います。 準備 今回はPythonを使用して、画像処理を行います。Pythonが使用できる環境を用意してください。 ライブラリはOpenCVを使用します。Pythonがインストール出来たら下記のコマンドでライブラリをインストールしてください。</description>
+    </item>
+    <item>
+      <title>AIのスゴさを実感できるGoogle Pixel 8 ProとPixel 8の「ベストテイク」と「音声消しゴムマジック」を使ってみた＆Pixel 7からのカメラの進化もチェック</title>
+      <link>https://gigazine.net/news/20231016-pixel-8-pro-camera-ai/</link>
+      <pubDate>2023/10/16 21:59</pubDate>
+      <description>This paper provides a survey of the emerging area of Large Language Models (LLMs) for Software Engineering (SE). It also sets out open research challenges for the application of LLMs to technical problems faced by software engineers. LLMs&amp;#39; emergent properties bring novelty and creativity with applications right across the spectrum of Software Engineering activities including coding, design, requir</description>
+    </item>
+    <item>
+      <title>今と昔の「プログラミング」は何が全然違うのか？　新時代をもたらす劇的変化</title>
+      <link>https://techtarget.itmedia.co.jp/tt/news/2310/16/news05.html</link>
+      <pubDate>2023/10/16 13:21</pubDate>
+      <description>神奈川県相模原市は10月13日、国産の生成AIサービスを業務に導入する方針を発表した。NECと協定を締結し、まずは同社開発の生成AIサービスを共同で検証する。相模原市は「市が調べた範囲では、自治体での国産生成AIの導入は初」という。 利用用途は、文書作成や要約、アイデア出しなどを想定。「市の独自環境を作れれば、相模原市で設定している公文書の作成ルールを学ばせることもできる。そうすれば議会での答弁のもととなる文書の作成も行えるのでは」（同市） これまで自治体では、横須賀市などが米OpenAIのAIチャットサービス「ChatGPT」のAPIを導入するなど、海外産の生成AIサービスを導入する事例が多かった。相模原市でも6月ごろまで、ChatGPTをベースにした国産サービスを利用していたが「入力内容を本当に学習しないのか」などサイバーセキュリティ上の懸念が抜けなかったという。 そこで「国産AIであ</description>
+    </item>
+    <item>
+      <title>Google、生成AIユーザーの著作権侵害の訴訟リスクを補償</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1539294.html</link>
+      <pubDate>2023/10/16 12:03</pubDate>
+      <description>インテルがデスクトップPC向け最新プロセッサ 第14世代 Intel Core プロセッサーファミリーの6製品を発表しました。 当初のラインナップは最上位のCore i9-14900Kを筆頭に、ゲーマーやクリエーター、ストリーマーのなかでも特に高い性能を求める、いわゆるエンスージアスト向けのオーバークロック対応製品。 デスクトップ向けでは世界最速の6GHzブーストクロック、アプリごとの処理を最適化するインテルAPOといった技術により、競合のAMD最上位プロセッサ比のゲーミング性能で最大23%上回る「究極のゲーミング・プラットフォーム」を謳います。 オーバークロック対応モデルの一部では、既存のIntel Extreme Tuning Utility の新機能としてAIアシストに対応。インテルが構築したAIモデルにより、ステップバイステップでユーザーごとのシステム構成や特性といった「伸びしろ」</description>
+    </item>
+    <item>
+      <title>MicrosoftとAdobeが推進する「AI透かし」はどのように機能するのか</title>
+      <link>https://gigazine.net/news/20231016-content-credentials-ai-images/</link>
+      <pubDate>2023/10/16 17:43</pubDate>
+      <description>ホーム AI論文解説, メンタルヘルス・心理学, 大規模言語モデル GPT-4をセラピストとして実行し、「認知の歪み」を診断させるためのフレームワーク『Diagnosis of Thought (DoT)』と実行プロンプト GPT-4をセラピストとして実行し、「認知の歪み」を診断させるためのフレームワーク『Diagnosis of Thought (DoT)』と実行プロンプト 2023/10/16 AI論文解説 メンタルヘルス・心理学 大規模言語モデル AIDB Research マイページに保存最終更新日：2023/10/16 近年、精神療法の領域でAIの活用に注目が集まっています。そんな中、カーネギーメロン大学などの研究者らによって新たなフレームワーク『Diagnosis of Thought (DoT)』が考案されました。このフレームワークは、LLMによって人々の「認知の歪み」を診断</description>
+    </item>
+    <item>
+      <title>生成AIとクリエイターはどう共存するのか　アドビが考える透明性と法律【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/1539225.html</link>
+      <pubDate>2023/10/16 08:54</pubDate>
+      <description>あなたはグラフィックデザイナーで、クライアントの目を引くプレゼンテーションを作成する際、Googleの「Duet AI」機能を使って画像を生成したとする。後になってあるイラストレーターが、スライドの画像のうち1枚が自分が作成したものに酷似していると主張し、あなたを著作権侵害で訴えた。このような場合、Googleはあなたを擁護してくれるという。 Googleは米国時間10月13日、「Google Cloud」と「Workspace」のユーザーが、生成AIの使用に関連して知的所有権侵害で訴えられた場合、補償をすると発表した。 生成AIの使用による著作権侵害は現在、議論の的となっている。Microsoftなどの企業も、今回のGoogleと同様の意向を表明している。 Microsoftは9月、Copilot Copyright Commitmentを発表し、同社の「Copilot」サービスを使った</description>
+    </item>
+    <item>
+      <title>AI生成画像検出システムがイスラエルとパレスチナの戦争の写真を「ニセモノ」と誤判定、専門家はAIで生成したものではないと指摘</title>
+      <link>https://gigazine.net/news/20231016-ai-images-detectors-discredit-real-war/</link>
+      <pubDate>2023/10/16 16:51</pubDate>
+      <description>生成AI業界は、来年は「冷たいシャワー」を浴びるだろうと、ある分析会社が警告している。サービスを運営するコストが企業に打撃を与え始めることがその理由だ。 生成AIが2023年最大のテクノロジーであることは間違いないが、分析会社CCS Insightは、今年の盛り上がりは2024年にはコストとリスク計算という厳しい現実に取って代わられると予測している。 CCS Insightの主席アナリスト、レオ・ジェビーは、「今年もうすでに、転換期の予兆は出ています」と語る。「今年の初めの段階では、生成AIに関する会話は、テクノロジーの約束に対する興奮やそれが実現すること、私たちにもたらされる素晴らしいものの話ばかりでした」。 しかし、大規模にAIを運用するための、何百万、何千万ものクエリーを実行するための膨大なコストが、企業を圧迫し始めているため、そうしたコストがいずれ消費者や企業に転嫁されることになる</description>
+    </item>
+    <item>
+      <title>メタがGAFAMの中で異質の｢AI戦略｣を貫く真意</title>
+      <link>https://toyokeizai.net/articles/-/707846</link>
+      <pubDate>2023/10/16 10:50</pubDate>
+      <description>東京工業大学の畠山歓助教と早川晃鏡教授らは、米オープンＡＩが開発した大規模言語モデル「ＧＰＴ―４」の化学研究への適用可能性を調査整理した。論文レベルの先端知識を持ってはいないが、有機分子の物性を分子構造で説明することができた。ＧＰＴ―４の化学者としての能力を整理したことになる。専門知識を学んだ大規模言語モデルの構築で研究が加速すると指摘する。 認識と分析、予測、計画の四つの課題をＧＰＴ―４に与えて現在の実力を整理した。例えば２種類の化合物を指定して酸化還元電位の大小を説明させると、分子が持つ官能基の性質を挙げて分子全体の特性を説明できた。大規模言語モデルに含まれる化学知識から推論できた。大学院レベルに相当する。 一方で論文レベルの知識を問うと誤答が多く、物性の予測誤差も大きい。専門知識に特化した大規模言語モデルやデータ駆動の研究手法と組み合わせると研究を効率化できる可能性がある。 【関連記</description>
+    </item>
+    <item>
+      <title>Typechat はどのようにプロンプトを生成してコードを実行するか</title>
+      <link>https://zenn.dev/mizchi/articles/typechat-code-generation</link>
+      <pubDate>2023/10/16 09:46</pubDate>
+      <description>最新の調査によれば、働く人の90％は、AI（人工知能）によって自分の仕事の生産性が高まったと感じているという。4人に1人は日常的にAIを使っており、働く人の73％は、週に少なくとも一度はAIを使用する。 人事関連ソフトウェア会社のLeapsome（リープサム）と、世論調査会社YouGov（ユーガブ）が行なったこの調査は、AI時代の生産性、文化、コミュニケーションをめぐるインサイトを提供するものだ。しかし、AIに求められているのは、職場での効率向上の支援だけではない。人工的なつながりを提供するオンラインプラットフォームや検索エンジンがある今、AIは仕事上の生産性向上だけでなく、友情やそれ以上のものを得る上でも、多くの人の役に立っている。 我々がAIと「個人的な絆」を結ぶとしたらそれは、私たちがなんらかの一線を越えてしまったということなのだろうか？　あるいは、仕事に関しても、他者との関係に関し</description>
+    </item>
+    <item>
+      <title>死去した声優がAIで復活 『サイバーパンク2077』 遺族の許可得て | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/66686</link>
+      <pubDate>2023/10/15 18:02</pubDate>
+      <description>Pythonにはライブラリが沢山あります。ライブラリとは便利な機能を持ったプログラムを集めたものを言い、このライブラリを上手く使うことで色々なことを実現できます。 今回はこのライブラリを用途別で図解にまとめました。 Pythonでプログラムを組む際の参考になりましたら幸いです。 ※簡単にまとめているだけなので、詳しい中身は公式ドキュメント等をご確認ください。 機械学習 機械学習 ⊃ 深層学習という包含関係です。 ざっくり言うと、特定のタスク（分析の方向性が明確）に対して予測できるのが機械学習で、より複雑なデータも処理できるのが深層学習です。 ただし深層学習はその分、学習に要する時間やデータは多くなります。 データ分析 データ分析には必須と言っていいほどのライブラリです。 Numpyはデータの前処理、matplotlib・seabornはデータの可視化に使います。 業務効率化 Pythonは</description>
+    </item>
+    <item>
+      <title>画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/85706b6af98249e03e7efd2b6ef14b00b38e1017</link>
+      <pubDate>2023/10/16 12:59</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。第16回目はアップルが初登場。マルチモーダルのLLM「Ferret」を投入しました。合わせて5つの論文をまとめました。 生成AI論文ピックアップ画像内の形や場所を言葉で説明するAI「Ferret」　Apple含む研究者らが開発 画像から高品質なコードを生成できるオープンソースのAIモデル「LLaVA-1.5」　Microsoft含む研究者らが開発 低解像度画像の学習だけで、高品質な高解像度画像（4K）を生成　中国テンセント含む研究者ら「ScaleCrafter」開発 ブラウザ上で可能　5枚ほどの顔写真からAI顔写真を生成するWebUIプラグイン「EasyPhoto」</description>
+    </item>
+    <item>
+      <title>LLM を組み込んだチャットアプリケーションを写経しながら実装できる「ChatGPT/LangChain によるチャットシステム構築［実践］入門」を読んだ - kakakakakku blog</title>
+      <link>https://kakakakakku.hatenablog.com/entry/2023/10/16/085525</link>
+      <pubDate>2023/10/16 09:07</pubDate>
+      <description>はじめに 最近、下記の記事にある、クラウド型コンタクトセンターサービスであるAmazon Connectと、高度な自然言語モデルを備えたフルマネージド型チャットボットであるAmazon Lexを組み合わせて、コールセンター向けAIチャットボットを構築する機会がありました。 【RAG】Amazon BedrockとConnect、Kendraを利用し、社内情報や社外の最新情報などの取り込んだデータをもとに回答するコールセンター向けAIチャットボットを構築してみた Amazon BedrockのClaudeとAmazon Connectを利用し、電話で色々な質問に答えてくれるコールセンター向けAIチャットボットを構築してみた Connectと組み合わせてLexを採用する際、ユーザーからの音声入力について、以下の３つの仕様が理解できていなかったため、ドキュメントや実際に試しながら確認しましたので</description>
+    </item>
+    <item>
+      <title>Personalize your generative AI applications with Amazon SageMaker Feature Store | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/</link>
+      <pubDate>2023/10/07 02:00</pubDate>
+      <description>本書籍を全ての章を読み思ったこと。それはこの一冊があればとりあえず入門から今抑えなければならないことは大体網羅できる。そう感じました。 ChatGPT、正確にはOpen AIとLangChain本の紹介となります。私が知るにLangChainとOpen AIを用いたチャットシステム構築の本格的な実践入門書籍としては初になるんじゃないでしょうか。 今回は、そんな書籍のレビューと実際に書籍通りチャットシステム構築をする中で感じたこと、さらなるチューニングについてをご紹介していきます。 紹介する書籍 2023年10月18日発売(書籍/電子)の「ChatGPT/LangChainによるチャットシステム構築［実践］入門」になります。 下記にリンクを貼っておきますので、興味を持たれた方はぜひチェックをお願いします 著者の紹介 本書籍なのですが、今LLM界隈でも情報のキャッチアップとアウトプットの先頭に</description>
+    </item>
+    <item>
+      <title>バフェット氏やベゾス氏のクローンを生成、生成AIを活用したクローン化技術の最新動向</title>
+      <link>https://www.sbbit.jp/article/cont1/124902</link>
+      <pubDate>2023/10/16 06:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f0c4c52da6021e75de10af00a67371a55aee07e0/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1539%2F218%2Fmicrosoft_edge.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>◆ BingAI でアニメ少女: Open ブログ</title>
+      <link>http://openblog.seesaa.net/article/501106290.html</link>
+      <pubDate>2023/10/15 23:38</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6540f3703ba8556792779d01426a56c227c00ce/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1539%2F219%2F03.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている (1/3)</title>
+      <link>https://ascii.jp/elem/000/004/162/4162823/</link>
+      <pubDate>2023/10/16 07:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9f726568b4efb9112e5042c84770f9b60654c50c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1536%2F506%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Protecting customers with generative AI indemnification | Google Cloud Blog</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification</link>
+      <pubDate>2023/10/14 07:27</pubDate>
+      <description>2023 年に大規模言語モデルは多数発表されていますが、どれを選べばよいかは依然として曖昧です。その理由の一つにユースケースと評価方法のミスマッチがあると考えています。例えば、営業メールの草案を生成するモデルを選ぶとき、質問回答データセットの評価結果がどれだけ意味があるかは不透明です。誰かにメールを書いてもらいたいとき、東海道新幹線の速度について知っていることを基準にするか ? という話です。 本記事では、マッキンゼーが公開した The state of AI in 2023 から生成系 AI の企業利用が盛んな領域について示唆を得て、大規模言語モデル評価の方向性を提案します。日本の AI 導入効果は米国の 7 分の 1 程度しかないといわれており、生成系 AI のインパクトは限定的になると見込んでいます。生成系 AI の応用を加速するにはカスタマイズが必要な汎用モデルだけでなく、ユースケ</description>
+    </item>
+    <item>
+      <title>Google Cloud、AI機能搭載のPostgreSQL互換ソフトウェア「AlloyDB Omni」正式版リリース</title>
+      <link>https://www.publickey1.jp/blog/23/google_cloudaipostgresqlalloydb_omni.html</link>
+      <pubDate>2023/10/15 23:35</pubDate>
+      <description>HashiCorpは米サンフランシスコにおいて現地時間10月11日と12日の2日間、年次イベント「HashiConf 2023」を開催しました。 1日目の基調講演で、インフラ構成ツールであるTerraformの新機能として、生成AIによるモジュールテストの自動生成機能や、同じく生成AIによって構成ファイルのエラーの検出などを可能にするバリデーション機能をStudico Code上で実現する機能などが発表されました。 HashiCorp共同創業者兼CTOのArmon Dadga……</description>
+    </item>
+    <item>
+      <title>炭化したパピルス巻物内の単語をAIモデルで解読　「ベスビオ火山チャレンジ」で初の賞金</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/15/news038.html</link>
+      <pubDate>2023/10/15 10:01</pubDate>
+      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 ✕</description>
+    </item>
+    <item>
+      <title>【ChatGPTのおすすめプラグイン一覧】猛者達が選んだ最強プラグインの使い方39選 | WEEL</title>
+      <link>https://weel.co.jp/media/plugin-list</link>
+      <pubDate>2023/10/15 18:04</pubDate>
+      <description>「誰も傷つかない」をコンセプトとした『DYSTOPIA』というSNSが先日リリースされました。『DYSTOPIA』では、AIによる投稿の検閲によって、「誰も傷つかない」SNSを実現するとしています。しかし、このSNSには２つの問題があります。1つ目は差別的な投稿が放置されている点です。2つ目は、AIによって自動で変換された投稿に対し、ユーザーが責任を問われるおそれがある点です。これらの問題が解決されるまで、『DYSTOPIA』の利用は控えたほうがよいでしょう。 サービス開始から3日で5万ユーザー「誰も傷つかない」という『DYSTOPIA』のコンセプトは、SNSでの誹謗中傷やヘイトスピーチが問題視されるなかで注目を集めています。ユーザー数は、9月24日のサービス開始から3日で5万人を超えたと公式アカウントが発表しました。また、めざましテレビや、AbemaNews、TOKYO FMなどでも取り</description>
+    </item>
+    <item>
+      <title>数に頼らない官僚改革は可能</title>
+      <link>https://anond.hatelabo.jp/20231012205920</link>
+      <pubDate>2023/10/15 18:12</pubDate>
+      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 ✕</description>
+    </item>
+    <item>
+      <title>多様なエージェント同士を討論させることで、GPT-4を超える性能を引き出すフレームワークが登場！</title>
+      <link>https://ai-scholar.tech/articles/agent-simulation/reconcile</link>
+      <pubDate>2023/10/14 13:01</pubDate>
+      <description>加藤公一（はむかず） @hamukazu 「LTO（Linear Tape-Open）テープの持ち込みによって処理するようにした。」 キター！ xtech.nikkei.com/atcl/nxt/news/… 2023-10-11 21:17:52 加藤公一（はむかず） @hamukazu Kimikazu Kato, ソフトバンク株式会社。博士（情報理工学）。修士は数学（代数幾何学）。にゃーんと鳴く狂犬と呼ばれている。DMは全員に開放中。 著書「機械学習のエッセンス」：bit.ly/mlessence 、監修「機械学習図鑑」bit.ly/mlzukan linkedin.com/in/kimikazukato リンク 日経クロステック（xTECH） 全銀システムの大規模障害、中継コンピューター2台ともに不具合で冗長構成が機能せず 2023年10月10日午前8時30分ごろに発生した「全国銀</description>
+    </item>
+    <item>
+      <title>ChatGPTのFunction CallingでUIを動的レンダリングしたら楽しかった</title>
+      <link>https://zenn.dev/yutakobayashi/articles/function-call-dynamic-ui</link>
+      <pubDate>2023/10/14 13:39</pubDate>
+      <description>米マイクロソフトは「Microsoft Mesh」のプレビュー版を10月に公開することを明らかにしました。同社のコラボレーションツール「Microsoft Teams」から利用でき、3D空間でのWeb会議などが可能です。対応ハードはPC、および「Meta Quest」シリーズです。 開発者向けのツールキット「Mesh toolkit」も提供され、Unityを用いて3D空間をカスタマイズできるようになります。同社は2022年3月に「Teams」の月間アクティブユーザー数が2億7,000万人に達したと発表しており、膨大な既存ユーザーが「Mesh」の各機能をどれだけ利用するかに注目です。 本ニュースの詳細はこちら： マイクロソフト、「Teams」から使えるメタバース「Microsoft Mesh」プレビュー版を10月公開 https://www.moguravr.com/microsoft-me</description>
+    </item>
+    <item>
+      <title>Googleマップに実装間近、「イマーシブビュー」が画期的な理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/66669</link>
+      <pubDate>2023/10/14 20:44</pubDate>
+      <description>エヴァンゲリオンのラッピングが施された冷凍ケーキの自動販売機が2023年7月から羽田空港などに設置されています。「FABEX 関西 2023」の会場を歩いていたところ、羽田空港に設置されてるものと同じエヴァンゲリオン自動販売機が展示されていたので、撮影しまくってみました。また、プロテインを水と混ぜた状態で提供してくれる自動販売機も展示されていたので、内側の機構まで詳しく撮影してみました。 ［ファベックス関西］［関西デザート・スイーツ＆ベーカリー展］ https://kansai.fabex.jp/ FABEXの会場で大量の自動販売機が並ぶアイナスのブースを発見。 これが「エヴァンゲリオン自動販売機」です。黒・紫・緑のカラーリングがエヴァンゲリオン初号機を連想させます。 左側面には渚カヲルと碇シンジのイラストが描かれていました。 右側面にはアスカと綾波レイも描かれています。 正面には大型のデ</description>
+    </item>
+    <item>
+      <title>AIが「黒人の医師が白人の子供を救う画像」の生成を拒否するのはなぜ？ | 根深き「白人の救世主」というバイアス</title>
+      <link>https://courrier.jp/news/archives/340999/</link>
+      <pubDate>2023/10/14 14:24</pubDate>
+      <description>Gartner、「生成AIのハイプ・サイクル：2023年」を発表－2026年までに、企業の80%以上は生成AIのAPIを使用して、生成AIに対応したアプリケーションを本番環境に展開するようになる ガートナージャパン株式会社 (本社：東京都港区、以下Gartner) は、2026年までに、80%以上の企業が生成AIのAPIやモデルを使用して、生成AIに対応したアプリケーションを本稼働環境に展開するようになるとの見解を発表しました (グローバルでは2023年10月11日に発表しています)。これは、2023年の5%未満からの大幅な増加になります。 ディスティングイッシュト バイス プレジデントのアルン・チャンドラセカラン (Arun Chandrasekaran) は次のように述べています。「生成AIはCレベル幹部の最優先課題となっています。ファウンデーション・モデルの範囲を超え、新たなツールに</description>
+    </item>
+    <item>
+      <title>新たな超高率機械学習トランジスタがAIのエネルギー消費量を99％削減する | TEXAL</title>
+      <link>https://texal.jp/2023/10/14/new-ultra-high-rate-machine-learning-transistors-reduce-ai-energy-consumption-by-99/</link>
+      <pubDate>2023/10/14 13:43</pubDate>
+      <description>OpenStatus - ステータスページ App Router Turborepo Drizzle Clerk tRPC Tailwind shadcn/ui LLM Report - OpenAI モニタリング App Router Prisma NextAuth shadcn/ui Stripe Dub - URL 短縮 App Router Turborepo Prisma NextAuth Tailwind Stripe slug - URL 短縮 Prisma NextAuth tRPC Tailwind Cal.com - 日程調整 Turborepo Prisma NextAuth tRPC Tailwind Taxonomy - ブログ App Router Prisma NextAuth Tailwind Rowy - ローコード GUI Firebase Dorf -</description>
+    </item>
+    <item>
+      <title>現状の生成AI技術に関する、利用者、運用者、行政・立法、開発・研究者へのSF作家クラブの提言 | 日本SF作家クラブ公式Webサイト</title>
+      <link>https://sfwj.jp/news/statement-on-current-generative-ai-technologies-japanese-edition/</link>
+      <pubDate>2023/10/14 23:05</pubDate>
+      <description>プロンプトで指示しても指示通りの画像が出力されないことがあります。例えば「青い髪で白い帽子と赤いシャツの女性」を生成してみましょう。プロンプトは「girl , white hat , blue hair , red shirt」です。 白い帽子と指定したのに帽子が赤く、シャツも赤だけでなく白が混ざっています。このようにプロンプトの指示と色が入れ替わる現象は、かなりの頻度で発生します。 前回の記事で取り上げたネガティブプロンプトや単語の強調を用いることで、より意図に近づけることは可能ですが、今回はさらに確実な方法を紹介します。それがimg2imgです。img2imgは画像を読み込ませて、それをもとに画像を生成する方法です。 読み込ませる画像として、下記の図を用意してみました。Googleスライドの基本図形を組み合わせただけのもので、「なんとか人に見えるかな」という程度のシンプルなものです。白</description>
+    </item>
+    <item>
+      <title>「Ameba」、家事の悩みを気軽に相談できる「Ameba家事ラクAI」をリリース</title>
+      <link>https://www.cyberagent.co.jp/news/detail/id=29411</link>
+      <pubDate>2023/10/11 19:24</pubDate>
+      <description>Googleが2023年10月12日(木)に発売したスマートフォン「Google Pixel 8」と「Google Pixel 8 Pro」が前モデルから進化した最大のポイントは、Pixel 7シリーズのTensor G2から演算能力が桁違いに向上し、AI機能に一層の磨きをかけたTensor G3へのアップグレードです。GIGAZINE編集部では、そんなPixel 8とPixel 8 Proを発売日当日に購入しているので、そのパワーを確かめるべくPixel 7やPixel 7 Proと一緒にベンチマークテストを実施して性能を比較してみました。 Google Pixel 8: Google AI で毎日をもっと便利に - Google ストア https://store.google.com/jp/product/pixel_8 Google Pixel 8 Pro: Google AI と</description>
+    </item>
+    <item>
+      <title>チェーンソーの音探知、アマゾンを伐採から守るAI ブラジル</title>
+      <link>https://www.afpbb.com/articles/-/3484126</link>
+      <pubDate>2023/10/14 10:45</pubDate>
+      <description>本当に速いミニ四駆ができちゃった。インテルCPUをミニ四駆化した結果2023.10.13 17:00Sponsored by インテル株式会社 ワタナベダイスケ ｢かっとべ、ジーオン（Xeon® ）！｣ サーバーやワークステーション、スーパーコンピューターで用いられる｢インテル® Xeon® スケーラブル・プロセッサー｣。 これまでギズモードでは、このプロセッサーをモンスターカーに例えてイラスト化。さらにイラストをモデルにしたオリジナル・ミニ四駆｢Intel Xeon FL Custom｣を制作して、Xeonのすごさを伝え続けてきました。 さて。ミニ四駆にまでなったところで、みなさんが気になっているのは｢あのゴテゴテしたミニ四駆は本当にちゃんと走れるのか？｣ということではないでしょうか。 そんな疑念の声を吹き飛ばすように爆走する｢Intel Xeon FL Custom｣のサーキット走行を</description>
+    </item>
+    <item>
+      <title>AIが変えるゲーム開発　生成物責任などガイドライン急務 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC0677G0W3A900C2000000/</link>
+      <pubDate>2023/10/13 08:23</pubDate>
+      <description>YouTubeで言葉のカベが消えそう。アドビの｢多言語化｣技術には夢がある2023.10.13 12:009,385 山本勇磨 現在LAで開かれているAdobe（アドビ）のカンファレンス｢Adobe MAX｣を取材中なのですが、現地でとても面白い技術が発表されました。 その技術の名は｢Project Dub Dub Dub｣。dubは｢吹き替える｣という意味なのですが、AIを使って動画クリップを本人の声で、多言語に吹き替える技術なんです。 現地で行なわれたデモでは、Adobe MAXの会場にいる数千人がその凄さに歓喜。ぜひデモのようすをご覧ください。 これは半端ない…全YouTuberが海外対応できてしまう🤯 日本語の動画クリップから多言語化する｢Project Dub Dub Dub｣#AdobeMAX#MAXSneakspic.twitter.com/Rd6HisOHS3 — ギズモ</description>
+    </item>
+    <item>
+      <title>テレビ業界で受けたセクハラは、もはやホラーの領域だった。</title>
+      <link>https://blog.tinect.jp/?p=83718</link>
+      <pubDate>2023/10/13 07:58</pubDate>
+      <description>Copilot in Windowsを無効化する 対話型AI機能「Copilot in Windows」の一般提供が開始された。原稿執筆時点ではプレビュー版であるが、Windows 11の設定やアプリの起動などが可能になっている。便利な面もあるものの、企業においては人工知能（AI）利用による著作権侵害などの問題が解決しておらず、積極的な利用は避けたいというところもあるだろう。そのような場合、グループポリシーなどでCopilotを無効化するとよい。その方法を紹介しよう。 Windows 11 Trends「Windows 11「Copilot in Windows」期待を込めたはじめの一歩」で紹介したように、Windows 11 2022 Update（バージョン22H2）に更新プログラムを適用すると、順次、対話型AI機能「Copilot in Windows（以下、Copilot）」が有効</description>
+    </item>
+    <item>
+      <title>【Zephyr 7B Alpha】HuggingFaceがLlama 2を超えるLLMを出したので、比較レビューしてみた | WEEL</title>
+      <link>https://weel.co.jp/media/zephyr-7b-alpha</link>
+      <pubDate>2023/10/13 15:50</pubDate>
+      <description>米Google（グーグル）は米国時間2023年10月12日、生成AI（人工知能）に関連して著作権侵害で顧客企業が訴えられた場合、その損害などを補償すると発表した。対象となるのはクラウドサービスである「Google Cloud」と、ビジネス向けグループウエア「Google Workspace」の顧客だ。 生成AIの学習に使ったデータと、生成AIによる出力の双方について法的リスクを補償する。第三者が提起した訴訟が、トレーニングデータによるものなのか、AIが生成した出力に関するものなのかを問わず、「著作権を理由に異議申し立てをされた場合、潜在的な法的リスクについてはグーグルが責任を負う」と表明した。顧客が意図的に第三者の権利を侵害するために使用した場合は補償の対象外となる。 補償の対象機能・サービスは以下の7つだ。（1）GmailやGoogle Docsのテキスト生成やGoogle Slides</description>
+    </item>
+    <item>
+      <title>BPStudy#194〜生成AIによる要件定義・システムの説明 (2023/10/31 19:30〜)</title>
+      <link>https://bpstudy.connpass.com/event/298306/</link>
+      <pubDate>2023/10/10 11:49</pubDate>
+      <description>こんにちは。技術広報を担当している @a.kato です。 2023年9/28(金)に開催された「SRE NEXT 2023」に、クラウドサインはダイヤモンドスポンサーとして協賛しました。 記事を書くまでがカンファレンスということで、遅ればせながらレポートを作成いたしました。 今回は、当日の様子と登壇者からのコメント、そしてセッションについてお届けします！ creators.bengo4.com スポンサーセッション クラウドサイン SREチームの上田が、『開発者がインフラ設計や運用に参加したら信頼性が上がった話~CloudWatch Evidently~』というテーマで登壇しました。 speakerdeck.com 上田のコメント SREチームの上田です。ご視聴いただいた皆様ありがとうございました！ 当初は技術的な話題だけに焦点を当てる予定でしたが、話し合いの過程で「SREとは何か」を考</description>
+    </item>
+    <item>
+      <title>プロンプトの「効きやすい / 効きにくい」 これってモデルの性能にも言えますか？</title>
+      <link>https://speakerdeck.com/sakusakumura/xiao-kinikui-koretutemoderunoxing-neng-nimoyan-emasuka</link>
+      <pubDate>2023/10/13 12:09</pubDate>
+      <description>世界中が注目するAIって実は金食い虫。どこも黒字化に大苦戦中2023.10.13 12:307,117 Lucas Ropek - Gizmodo US ［原文］ （ そうこ ） 2023年、テック業界で最もアツい存在となったのは間違いなくAIでしょう。 去年の暮れからじわじわきて、今年に入って一般層にまで爆発的にその存在感を示しました。ChatGPTの威力が大きい。一部のテック企業はAIフルコミットで爆進中ですが、開発と利益はまた別の話。 AI機能が続々登場し、新たなモデル開発が進む一方、AIビジネスで利益を出す難しさを、Wall Street Journal紙が報じています。 お金を溶かし続けるMicrosoftAIに特に大きなコミットメントをしているのがMicrosoft（マイクロソフト）。数十億ドルをパートナーであるOpenAIに投資しています。 OpenAIといえばChatGPT</description>
+    </item>
+    <item>
+      <title>「生成AIのハイプ・サイクル」2023年版をガートナーが公開　LLMやプロンプトエンジニアリングは「過度な期待のピーク」に</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/13/news107.html</link>
+      <pubDate>2023/10/13 13:25</pubDate>
+      <description>大規模言語モデル (LLM) は日進月歩で進化しており、日本語の理解能力についても多くの言語モデルがしのぎを削っています。先日PFNからも、日英2言語を併せた能力で世界トップレベルの性能を示す言語モデルPLaMo-13Bを公開*しました。 一方で、LLMを実際のタスクに適用する場合には、事前学習モデルやファインチューニングによる改善もさることながら、プロンプトの違いが性能を大きく左右します。本稿ではプロンプトを自動的にチューニングすることによって、LLMの能力を最大限に引き出し、与えられた課題の精度をどこまで高められるのかを検証します。 * 本稿で解説するプロンプトチューニング技術は、PLaMo-13B公開時の性能評価には用いていません。 プロンプトエンジニアリングについて LLMを使ったチャットシステムでは、ユーザーからの問い合わせ内容を改変してLLMに入力することがあります。例えば、図</description>
+    </item>
+    <item>
+      <title>『サイバーパンク2077： 仮初めの自由』では亡くなった声優のキャラクターボイスをAIで実装、遺族の許可と協力のもと実現 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2023/10/13/135003.html</link>
+      <pubDate>2023/10/13 13:26</pubDate>
+      <description>chat.openai.com 上でマークアップを試行錯誤するための Chrome 拡張を試作してみた。 例えば html+preview のコードブロックを見つけるとその隣に HTML として挿入する。後述するが React Component もプレビューできる。 📎 をクリックすると展開したHTMLを画像としてクリップボードに入れることができる。 いい感じにコードを生成してくれるプロンプトのサンプル集はここに置いてる なぜ作ったか GPT-4 はそこそこ賢いコードを生成できるのだが、細かい修正は行うにはやはりプレビューしながら対話的に行う必要がある。 また、人間がその結果を言語化するより、生成されたHTMLを画像入力として修正プロンプトに使うのが精度がでる。 (備考: まだChatGPT Plus の一部ユーザーに開放されてない機能) react-component の生成: ts</description>
+    </item>
+    <item>
+      <title>社内情報検索システムで用いられるRAGの4つの実装方法</title>
+      <link>https://speakerdeck.com/mkazutaka/she-nei-qing-bao-jian-suo-sisutemudeyong-irareruragno4tunoshi-zhuang-fang-fa</link>
+      <pubDate>2023/10/13 19:27</pubDate>
+      <description>LINEヤフーは10月13日、AIプログラミング補助ツール「GitHub Copilot for Business」を同社のエンジニアリング業務に導入すると発表した。開発業務に関わる全エンジニア約7000人が対象。テスト導入の結果、コーディング時間を約1～2時間削減できたという。 同社では6月から8月にかけて、LINEとヤフーのエンジニア約550人を対象にGitHub Copilotのテスト導入を実施。試験導入後、対象者へのアンケートやGitHub上の記録を分析したところ、エンジニア1人当たりのコーディング時間を約1～2時間削減できた他、GitHub上では一部作業の効率が10～30％向上していたという。業務効率化の傾向が見られたことから、正式導入に至った。 著作権侵害などを防ぐために、全利用対象者に対して、利用に関するeラーニングの受講を必須化し、リスク意識の向上も図った。GitHub C</description>
+    </item>
+    <item>
+      <title>富士通、生成AIで開発効率30倍　1カ月の作業を1日で - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC118H10R11C23A0000000/</link>
+      <pubDate>2023/10/11 20:50</pubDate>
+      <description>ChatGPTが画像対応して、画像からいろいろなコードが生成できて楽しいことになっていましたが、同じようなことをおうちで動かせるLLaVAが出ていたので試してみました。 GPUはVRAM 12GBあれば十分、8GBはギリギリという感じ。 LLaVA-1.5 先週、LLaVAのバージョンアップ版、LLaVA-1.5が出てました。 🚀 LLaVA-1.5 is out! Achieving SoTA on 11 benchmarks, with simple mods to original LLaVA! Utilizes merely 1.2M public data, trains in ~1 day on a single 8-A100 node, and surpasses methods that use billion-scale data. 🔗https://t.co/y0k</description>
+    </item>
+    <item>
+      <title>Google検索、画像・文章の生成AIを試験提供</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1538828.html</link>
+      <pubDate>2023/10/13 14:05</pubDate>
+      <description>キーワードベースで情報収集をしているという下記の記事を読みました。私も似たようなことをしているのですがキーワードは使わない方法でニュースの収集をしていて、そのほうがLLMを活用できていると思うのでその方法を紹介します。 forest.watch.impress.co.jp キーワードではなく自分の目的や関心を伝える 以前私が手動でやっていたのはRSSリーダーにサイトを登録して、記事のタイトルと概要を読んで気になる記事を開いて読むということでした。こういうときに人間はキーワード検索をしていません。何をしているかというと自分の目的や関心があって、それに関連する記事をピックアップするということです。それと同じようなことをさせようというのが今回紹介する方法です。 ポイントは今回の場合は私の所属する会社について情報をプロンプトで与え、それに関連するニュースが何かをLLMに考えさせることです。 今回の</description>
+    </item>
   </channel>
 </rss>
