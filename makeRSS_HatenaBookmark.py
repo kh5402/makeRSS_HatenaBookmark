@@ -12,6 +12,8 @@ def main():
     url = "https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92"
     output_file = "makeRSS_HatenaBookmark.xml"
 
+    print(f"初期URL: {url}")  # デバッグ用
+
     # 既存のRSSフィードを読む
     existing_links = set()
     if os.path.exists(output_file):
