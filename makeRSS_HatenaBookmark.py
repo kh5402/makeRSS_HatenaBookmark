@@ -5,6 +5,9 @@ from xml.dom import minidom
 import os
 
 def main():
+
+    print("スクリプト開始！")  # デバッグ用
+    
     # 初期設定
     url = "https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92"
     output_file = "makeRSS_HatenaBookmark.xml"
@@ -32,6 +35,9 @@ def main():
 
         # スクレイピング処理
         while url and current_page <= end_page:
+
+            print(f"現在のページ：{current_page}")
+            
             response = requests.get(url)
             html_content = response.text
 
@@ -60,6 +66,8 @@ def main():
             else:
                 url = None
 
+            current_page += 1  # ページ番号を更新
+
     # XMLを出力
     xml_str = ET.tostring(root)
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
@@ -67,6 +75,8 @@ def main():
     
     with open(output_file, "w") as f:
         f.write(xml_pretty_str)
+
+    print("スクリプト終了！")  # デバッグ用
 
 if __name__ == "__main__":
     main()
