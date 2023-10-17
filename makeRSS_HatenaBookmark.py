@@ -32,7 +32,7 @@ def main():
 
     # 初期ページ番号と最終ページ番号
     start_page = 1
-    end_page = 48
+    end_page = 5
     current_page = start_page
 
     # スクレイピング処理
