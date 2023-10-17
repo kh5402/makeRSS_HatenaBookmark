@@ -27,7 +27,7 @@ def main():
 
         # 初期ページ番号と最終ページ番号
         start_page = 1
-        end_page = 100
+        end_page = 10
         current_page = start_page
 
         # スクレイピング処理
@@ -52,7 +52,9 @@ def main():
                 ET.SubElement(new_item, "description").text = description
 
             # 次のページへ
-            next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
+            #next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
+            next_page_match = re.search(r'<a href="(/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92\?page=\d+)" class="js-keyboard-openable">', html_content)
+
             if next_page_match:
                 url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
             else:
