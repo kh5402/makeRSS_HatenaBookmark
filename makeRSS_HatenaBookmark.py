@@ -41,6 +41,12 @@ def main():
             print(f"現在のページ：{current_page}")
             
             response = requests.get(url)
+            print(f"HTTPステータスコード: {response.status_code}")  # デバッグ用
+            
+            if response.status_code != 200:
+                print("リクエスト失敗！😱")
+                break
+                
             html_content = response.text
 
             article_pattern = re.compile(r'<h3 class="entrylist-contents-title">[\s\S]*?<a href="([^"]+)"[\s\S]*?title="([^"]+)"[\s\S]*?<\/a>[\s\S]*?<li class="entrylist-contents-date">([^<]+)<\/li>[\s\S]*?<p class="entrylist-contents-description" data-gtm-click-label="entry-info-description-href">([\s\S]+?)<\/p>')
