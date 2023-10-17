@@ -30,51 +30,50 @@ def main():
         ET.SubElement(channel, "description").text = description
         ET.SubElement(channel, "link").text = "https://example.com"
 
-        # 初期ページ番号と最終ページ番号
-        start_page = 1
-        end_page = 100
-        current_page = start_page
+    # 初期ページ番号と最終ページ番号
+    start_page = 1
+    end_page = 100
+    current_page = start_page
 
-        # スクレイピング処理
-        while url and current_page <= end_page:
+    # スクレイピング処理
+    while url and current_page <= end_page:
 
-            print(f"現在のページ：{current_page}")
-            
-            response = requests.get(url)
-            print(f"HTTPステータスコード: {response.status_code}")  # デバッグ用
-            
-            if response.status_code != 200:
-                print("リクエスト失敗！😱")
-                break
-                
-            html_content = response.text
-
-            article_pattern = re.compile(r'<h3 class="entrylist-contents-title">[\s\S]*?<a href="([^"]+)"[\s\S]*?title="([^"]+)"[\s\S]*?<\/a>[\s\S]*?<li class="entrylist-contents-date">([^<]+)<\/li>[\s\S]*?<p class="entrylist-contents-description" data-gtm-click-label="entry-info-description-href">([\s\S]+?)<\/p>')
+        print(f"現在のページ：{current_page}")
         
-            channel = root.find("channel")
+        response = requests.get(url)
+        print(f"HTTPステータスコード: {response.status_code}")  # デバッグ用
         
-            for match in article_pattern.findall(html_content):
-                link, title, date, description = match
+        if response.status_code != 200:
+            print("リクエスト失敗！😱")
+            break
+            
+        html_content = response.text
 
-                if link in existing_links:
-                    continue
+        article_pattern = re.compile(r'<h3 class="entrylist-contents-title">[\s\S]*?<a href="([^"]+)"[\s\S]*?title="([^"]+)"[\s\S]*?<\/a>[\s\S]*?<li class="entrylist-contents-date">([^<]+)<\/li>[\s\S]*?<p class="entrylist-contents-description" data-gtm-click-label="entry-info-description-href">([\s\S]+?)<\/p>')
+    
+        channel = root.find("channel")
+    
+        for match in article_pattern.findall(html_content):
+            link, title, date, description = match
 
-                new_item = ET.SubElement(channel, "item")
-                ET.SubElement(new_item, "title").text = title
-                ET.SubElement(new_item, "link").text = link
-                ET.SubElement(new_item, "pubDate").text = date
-                ET.SubElement(new_item, "description").text = description
+            if link in existing_links:
+                continue
 
-            # 次のページへ
-            #next_page_match = re.search(r'<a href="([^"]+)" class="js-keyboard-openable">[\s\S]*?次のページ[\s\S]*?<\/a>', html_content)
-            next_page_match = re.search(r'<a href="(/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92\?page=\d+)" class="js-keyboard-openable">', html_content)
+            new_item = ET.SubElement(channel, "item")
+            ET.SubElement(new_item, "title").text = title
+            ET.SubElement(new_item, "link").text = link
+            ET.SubElement(new_item, "pubDate").text = date
+            ET.SubElement(new_item, "description").text = description
 
-            if next_page_match:
-                url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
-            else:
-                url = None
+        # 次のページへ
+        next_page_match = re.search(r'<a href="(/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92\?page=\d+)" class="js-keyboard-openable">', html_content)
 
-            current_page += 1  # ページ番号を更新
+        if next_page_match:
+            url = 'https://b.hatena.ne.jp' + next_page_match.group(1)
+        else:
+            url = None
+
+        current_page += 1  # ページ番号を更新
 
     # XMLを出力
     xml_str = ET.tostring(root)
