@@ -3526,5 +3526,17 @@
       <pubDate>2023/10/16 02:38</pubDate>
       <description>新人を育成するときに、まず有効なのは現場での指導、いわゆるOJTです。 が、同時にOff-JT、いわゆる座学である「研修」や「勉強会」なども合わせて行うと、OJTの効果が高まることを、経験的に知っている人も多いでしょう。 私が在籍していたコンサルティング会社でも、上の２つの教育は併用されており、それぞれに目的がありました。 OJTは純粋に、お客さんのプロジェクトを進めるためのスキルを教える場所。 そして、Off-JTである勉強会は、そのスキルを「標準化」する場所でした。 コンサルティング会社における標準化というと、何やら難しげに感じるかもしれませんが、非常に単純で、以下の３点からなります。 １．現場の属人的な技術を「ツール」に落とし込むこと ２．ツールの使い方を新人に指導すること ３．既存のツールの改善をすること ここでいう「ツール」とは、例えば 「提案書のテンプレート」 「顧客向けの勉強</description>
     </item>
+    <item>
+      <title>Sansan LabsのLLM活⽤から考えるLLMプロジェクトの要点整理 / LLM Project Essentials from Sansan Labs&amp;#39; LLM Use</title>
+      <link>https://speakerdeck.com/sansan_randd/llm-project-essentials-from-sansan-labs-llm-use</link>
+      <pubDate>2023/10/18 20:39</pubDate>
+      <description>背景 Twitter で予想外にいいねをたくさん頂いていたため解説記事として出します。 OpenAI の API を活用してその会社のサービスに沿った SQL を返してくれる slack bot を開発しました。主に「OpenAI の API でものを作ってみたい人」「slack bot を簡単に開発したいと思っている人」「Cloudflare Workers に手を出したいと思っている人」などが対象の記事です。 作るものとしては、以下の 2 つです。 slack bot OpenAI に対してリクエストを送るバックエンド 今回使うモデルは gpt-3.5-turbo になります。単純に prompt としてデータベースの DDL を与えてあげれば bot が精度の高い SQL を返してくれるのではないかと考え作成しました。着想から設計、実装、リリースまで 5 時間ほどで出来たのですごく便</description>
+    </item>
+    <item>
+      <title>NVIDIA、Stable Diffusionを倍速にするTensorRT。新ドライバで対応</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1540197.html</link>
+      <pubDate>2023/10/18 19:45</pubDate>
+      <description>kirimin.hatenablog.com の続き的な。 ブログを2つに分ける必要性についていつも考えて微妙な気持ちになる。 スキル 最近はWebフロントエンドを中心に仕事してる。(Next.js) バックエンドも少しやってる。(NestJS) 右も左も分からないという感じのまま、一人でWebアプリのフロントを一通り実装したりした。 一応求められている機能を実装することはなんとか出来ている。最近はChatGPTやGitHubCopilotもあるし、局所的な課題はまあなんとか解決出来る。ReactやNext.jsの基礎もまあ一通りは学習してる。(すぐに忘れてしまうため人に聞かれてもすぐに答えられないような知識の濃度だが) ただ、フロントエンドでのコーディングや設計のベストプラクティスだとか、Web環境の細かい仕様といった部分はなかなか一人ではキャッチアップ出来ない。いや、多分賢い人は出来る</description>
+    </item>
   </channel>
 </rss>
