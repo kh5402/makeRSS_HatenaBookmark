@@ -3670,5 +3670,17 @@
       <pubDate>2023/10/19 07:25</pubDate>
       <description>皆さん、StreamingLLMというLLM用のアプリケーションをご存知ですか？ LLMで無限に入力ができることを可能にしたツールなんです！LLMを日々使い倒している弊社としては、衝撃のツールなんですよ。 GitHubでも4500超えのスターを獲得しており、徐々に注目が集まっています。AIオタクであれば、知らなかったなんてことないですよね。 このStreamingLLMを使えば、対話型でLLMを動かすことができ、モデルが質問の都度、リアルタイムで応答を生成してくれます。 というわけで、今回はStreamingLLMの使い方や、実際に使ってみた感想などをご紹介します。 この記事を最後まで読むと、StreamingLLMを使いこなすことができ、LLMとのリアルタイムの会話も可能になります！ ぜひ最後までご覧ください！ StreamingLLMの概要 StreamingLLMは「400万以上のト</description>
     </item>
+    <item>
+      <title>人物の「不自然さ」を極限まで取り除いて超リアルな画像を生成する『HyperHuman（ハイパーヒューマン）』 | AIDB</title>
+      <link>https://aiboom.net/archives/56844</link>
+      <pubDate>2023/10/18 17:24</pubDate>
+      <description>従来の課題 LLMはSTEM（科学、技術、工学、数学）や知識ベースの質問応答（Knowledge QA）、多段階推論（Multi-Hop Reasoning）など、複雑なタスクでの使用が増加しています。しかし、これらの高度なタスクにおいて、LLMは中間の推論ステップでの正確性は必ずしも十分ではない場合があります。 既存のプロンプト技術、例えばChain-of-Thought（CoT）プロンプトなどは、中間の推論ステップでの正確性を確かに向上させるものの、分野によっては精度が足りない場合もあります。 簡単に言えば、現在のLLMは「考える過程」でしばしば間違いを犯し、その結果として誤った結論に至る可能性があります。例えば、科学的な問題解決において、LLMは正確なデータ解釈ができない場合があり、それが誤った結論を導く可能性があります。 本記事の関連研究：LLMが真の推論能力を発揮するには時折「一</description>
+    </item>
+    <item>
+      <title>ChatGPT対抗の本命「Claude 2」ついに日本でも利用可能に（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/782754d5524c0b75f3139626a73a692e98439585</link>
+      <pubDate>2023/10/18 17:26</pubDate>
+      <description>ProductResearchCareersCompanyNewsTerms of ServicePrivacy PolicyResponsible Disclosure PolicyComplianceThis site is protected by reCAPTCHA Enterprise. The Google Privacy Policy and Terms of Service apply.</description>
+    </item>
   </channel>
 </rss>
