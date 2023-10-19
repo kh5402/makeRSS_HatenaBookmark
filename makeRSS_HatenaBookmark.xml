@@ -3706,5 +3706,11 @@
       <pubDate>2023/10/19 10:54</pubDate>
       <description>みなさんこんにちは、グループ研究開発本部 AI研究開発室のK.Fです。 これまで、Intel MacでVirtualBox + Vagrantを利用してCentOS 7の仮想(VM)環境を利用していたのですが、Apple Silicon MacにPCを乗り換えたので、代替方法がないか調査してみました。 結論 Ubuntu 22.04/aarch64 on multipass -&amp;gt; CentOS 7/x86_64 on vagrant + libvirt が最もよい 動作は少し遅いと感じることがあるが、x86_64をエミュレートしているので本番との環境差分が少なくなってうれしい 1. はじめに 筆者の環境 MacBook Pro 14 inch, M2 Pro, 32GB RAM MacOS Ventura 13.4.1 なるべくこれまで使ってきたVagrantfileを変更したくないので、</description>
     </item>
+    <item>
+      <title>ChatGPTなど｢生成AI｣会社への導入で一番大切な事</title>
+      <link>https://toyokeizai.net/articles/-/705845</link>
+      <pubDate>2023/10/17 19:19</pubDate>
+      <description>従来の課題 LLMはSTEM（科学、技術、工学、数学）や知識ベースの質問応答（Knowledge QA）、多段階推論（Multi-Hop Reasoning）など、複雑なタスクでの使用が増加しています。しかし、これらの高度なタスクにおいて、LLMは中間の推論ステップでの正確性は必ずしも十分ではない場合があります。 既存のプロンプト技術、例えばChain-of-Thought（CoT）プロンプトなどは、中間の推論ステップでの正確性を確かに向上させるものの、分野によっては精度が足りない場合もあります。 簡単に言えば、現在のLLMは「考える過程」でしばしば間違いを犯し、その結果として誤った結論に至る可能性があります。例えば、科学的な問題解決において、LLMは正確なデータ解釈ができない場合があり、それが誤った結論を導く可能性があります。 本記事の関連研究：LLMが真の推論能力を発揮するには時折「一</description>
+    </item>
   </channel>
 </rss>
