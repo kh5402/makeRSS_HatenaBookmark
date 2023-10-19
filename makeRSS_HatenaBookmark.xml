@@ -3736,5 +3736,35 @@
       <pubDate>2023/10/19 11:38</pubDate>
       <description>みなさんこんにちは、グループ研究開発本部 AI研究開発室のK.Fです。 これまで、Intel MacでVirtualBox + Vagrantを利用してCentOS 7の仮想(VM)環境を利用していたのですが、Apple Silicon MacにPCを乗り換えたので、代替方法がないか調査してみました。 結論 Ubuntu 22.04/aarch64 on multipass -&amp;gt; CentOS 7/x86_64 on vagrant + libvirt が最もよい 動作は少し遅いと感じることがあるが、x86_64をエミュレートしているので本番との環境差分が少なくなってうれしい 1. はじめに 筆者の環境 MacBook Pro 14 inch, M2 Pro, 32GB RAM MacOS Ventura 13.4.1 なるべくこれまで使ってきたVagrantfileを変更したくないので、</description>
     </item>
+    <item>
+      <title>AIで作った女の子のイラストが凄い不安になる「AIは物理を理解しているわけではない」</title>
+      <link>https://togetter.com/li/2244065</link>
+      <pubDate>2023/10/20 01:25</pubDate>
+      <description>ホーム AI論文解説, 大規模言語モデル LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』 LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』 2023/10/19 AI論文解説 大規模言語モデル AIDB Research マイページに保存最終更新日：2023/10/19 大規模言語モデル（LLM）は、質問応答、翻訳、テキスト要約など、さまざまなNLPタスクで優れた性能を発揮しています。しかし、モデルはしばしば正確な事実知識を捉えるのが難しく、根拠のない回答を生成することあります。この問題を解決するために、Amazonなどの研究者らが『Graph Neural Prom</description>
+    </item>
+    <item>
+      <title>NVIDIAとFoxconnが提携して自動運転EV・自律機械・言語モデルの開発を加速するデータセンター「AIファクトリー」建造計画を発表</title>
+      <link>https://gigazine.net/news/20231019-nvidia-foxconn-ai-factory/</link>
+      <pubDate>2023/10/19 19:45</pubDate>
+      <description>ゲームだけでなくAI・機械学習分野でも広く用いられるGPUのうち、特に性能の高いNVIDIAのA100、H100、RTX 4090などのアメリカからの輸出に規制がかかっています。この影響により中国メーカーのシェアが拡大し、NVIDIAなど既存のメーカーの株価が下落するなどの混乱が見られています。 Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Semiconductor Manufacturing Equipment, and Supercomputing Items to Countries of Concern.pdf (PDFファイル)https://www.bis.doc.gov/index.php/documents/about-bis/newsroom/press-releases/</description>
+    </item>
+    <item>
+      <title>「ChatGPT」、ウェブブラウジング機能が正式リリース--有料版ユーザー限定で</title>
+      <link>https://japan.cnet.com/article/35210469/</link>
+      <pubDate>2023/10/19 17:33</pubDate>
+      <description>「GitHub Copilot 導入時に考えたセキュリティのあれこれ」というタイトルで登壇したのは、freee株式会社のただただし氏。タイミー社主催の「GitHub Copilotで拓く開発生産性」で、「GitHub Copilot 」を全社一斉導入する際に考えるべきセキュリティリスクについて発表しました。 freee株式会社 PSIRT マネージャーのただただし氏 ただただし氏：freee株式会社のただただしと申します。 今日は、「GitHub Copilot 導入時に考えたセキュリティのあれこれ」ということで、Copilotのセキュリティリスクについて語るわけですが、考えてみたら、GitHubの中の人を前にこんなことをしゃべるのは相当大胆な話だと思います。最後にいいことで締めるのでちょっと我慢してください。 自己紹介をいたします。ただただしと申します。PSIRTという組織でマネージャー</description>
+    </item>
+    <item>
+      <title>中国がAIで知的財産を盗んでいるとアメリカなど5カ国の「ファイブ・アイズ」が異例の警告</title>
+      <link>https://gigazine.net/news/20231019-five-eyes-summit-chinas-theft-intellectual-property/</link>
+      <pubDate>2023/10/19 16:05</pubDate>
+      <description>企業・組織に属している方向けの ChatGPT の社会・ビジネスへの影響を考えるお話です。 人とComputerの在り方が大きく変わったこれらも交えて。それらが周囲にあふれ出すその日のために、今はしっかりと Prompt の仕方を学んでおきたいものです。そのためのサンプルも幾つか継続して提示しています - とある人の、変わってしまった日常の一部 - なぜ?何が? ChatGPT で変わるのか? - Plugin の可能性 - Code Interpreter の可能性 - Copilot の可能性</description>
+    </item>
+    <item>
+      <title>Baiduが大規模言語モデル「Ernie 4.0」を発表、全ての点でGPT-4に匹敵する実力を持つ</title>
+      <link>https://gigazine.net/news/20231018-baidu-ernie-4-0/</link>
+      <pubDate>2023/10/19 07:03</pubDate>
+      <description>NECが生成AI（人工知能）分野で攻勢をかけている。「GPT-4」を上回る日本語処理性能を持った独自の大規模言語モデル（LLM）を開発し、社内外で活用を始めた。利用から半年たたずに様々な成果が出てきた。さらに多くのユーザーが利用できるようにオンプレミス向けのハードウエアも手がける。新たなアーキテクチャーを採用したLLMの研究開発も進める。 NECは2023年7月に生成AIサービス「NEC Generative AI Service」の提供を開始した。同サービスの特徴は、生成AIに関してワンストップで顧客にサービスを提供することである。NECの独自LLMを利用可能にするほか、プロンプトの作成や質問管理などを支援するソフトウエアをフレームワークとして提供する。加えて、LLM活用に向けたコンサルティングや教育、環境構築などを行う。 LLMの利用環境として、クラウドやデータセンター、オンプレミス用</description>
+    </item>
   </channel>
 </rss>
