@@ -3613,5 +3613,20 @@
       <pubDate>2023/10/17 10:03</pubDate>
       <description>普通の映像から“動いている3Dシーン”をリアルタイム生成できる「4D Gaussian Splatting」【研究紹介】 2023年10月18日 山下 裕毅 先端テクノロジーの研究を論文ベースで記事にするWebメディア「Seamless/シームレス」（https://shiropen.com/）を運営。 華中科技大学とHUAWEIに所属する研究者らが発表した論文「4D Gaussian Splatting for Real-Time Dynamic Scene Rendering」は、2Dの映像から動的な3Dシーンをリアルタイムで生成する手法を提案する研究である。この技術は2D映像から動くキャラクターの3Dモデルや動的な3Dシーン全体を生成し、単一の視点だけでなく、多くの異なる視点から3Dシーンを閲覧することができる。 ▲高解像度の動的な3Dシーンでも、高品質の表示を維持しながらリアルタイ</description>
     </item>
+    <item>
+      <title>ChatGPT、最新の情報も検索可能に Microsoftと連携 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN190GI0Z11C23A0000000/</link>
+      <pubDate>2023/10/19 08:40</pubDate>
+      <description>スタンフォード大学HAIは、AI基盤モデルの透明性評価システム「FMTI」と、このシステムで評価したOpenAIやMetaなど10社の透明性ランキングを発表した。 米スタンフォード大学Human-Centered AI Institute（HAI）は10月18日（現地時間）、AIの基盤モデルを公開している10社の透明性を評価するスコアリングシステム「Foundation Model Transparency Index」（FMTI）を公開した。 基盤モデルとは一般に、教師なし学習で大量の生データでトレーニングされたAIニューラルネットワークを指す。例えば米OpenAIのGPT-4や、米Googleの「PaLM 2」などで、それぞれChatGPTやBardを介して一般人も利用している。 HAIの基盤モデル研究センター（CRFM）のリシ・ボンマサニ氏は、基盤モデル分野の企業の透明性が低下してい</description>
+    </item>
+    <item>
+      <title>AIによって作られた数十言語の音声によりニューヨーク市長が有権者に多言語話者だと思わせているという指摘</title>
+      <link>https://gigazine.net/news/20231018-eric-adams-deepfake-robocall/</link>
+      <pubDate>2023/10/18 22:49</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a39e0977d4159d74a734d414cbdc4970a49411a3/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1539%2F963%2F002.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
