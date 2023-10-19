@@ -3682,5 +3682,11 @@
       <pubDate>2023/10/18 17:26</pubDate>
       <description>ProductResearchCareersCompanyNewsTerms of ServicePrivacy PolicyResponsible Disclosure PolicyComplianceThis site is protected by reCAPTCHA Enterprise. The Google Privacy Policy and Terms of Service apply.</description>
     </item>
+    <item>
+      <title>調査レポート：通信業界における生成系AIの活用、課題、そして未来 | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/survey-adoption-barriers-and-the-future-of-generative-ai-in-the-telco-industry/</link>
+      <pubDate>2023/10/18 10:07</pubDate>
+      <description>従来の課題と背景 人物画像生成の困難性 人物を画像生成する際には、多くの課題が存在しています。代表的なものが、非現実的なポーズや不自然な部分（手足など）が生成される問題です。生成モデルが人体の解剖学的な認識が不足しているために起こる現象です。 既存モデルの限界 既存のモデルは、構造に対する一貫性がない人物を生成する傾向があります。技術的な要因としては、不安定な訓練、モデルサイズの小ささなども存在します。 また既存のデータセットは、解像度が低い、多様性に欠ける、または規模が不十分など、多くの問題があります。これが高品質なモデルの訓練を妨げているとも考えられています。 また、最近その性能が高い評価を受けているDALL•E3は「リアルすぎる人物画像」はあえて出力を限定する方針も表明しています。そのような背景もあり、極めてリアルな人物の画像を生成したい場合に、どのモデルがベストなのかは明確ではない</description>
+    </item>
   </channel>
 </rss>
