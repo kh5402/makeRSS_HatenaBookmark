@@ -3700,5 +3700,11 @@
       <pubDate>2023/10/18 21:57</pubDate>
       <description>Amazon Web Services ブログ 調査レポート：通信業界における生成系AIの活用、課題、そして未来 調査に参加した通信事業者の半数が今後2年以内の生成系AIの活用を計画し、生成系AIへの支出が現在の最大6倍に拡大すると予測 AWS通信およびエッジクラウド担当 チーフテクノロジストIshwar Parulkar（イシュワール・パルルカー） 生成系AIは、あらゆる場で活用され、すべての産業に大きなインパクトをもたらすとAWSは考えています。生成系AIは機械学習の普及に続く新たな波であり、通信業界を含む業界で、お客様体験や多様なビジネスアプリケーションを革新する可能性を秘めています。 AWSは、通信業界における生成系AIへの展望や論調、活用状況に対する理解を深めるため、戦略コンサルティング企業であるAltman Solonと協力し、北米、西欧、アジア太平洋地域の通信事業者の幹部10</description>
     </item>
+    <item>
+      <title>ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年10月バージョン-</title>
+      <link>https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-10yue-baziyon</link>
+      <pubDate>2023/10/19 10:54</pubDate>
+      <description>みなさんこんにちは、グループ研究開発本部 AI研究開発室のK.Fです。 これまで、Intel MacでVirtualBox + Vagrantを利用してCentOS 7の仮想(VM)環境を利用していたのですが、Apple Silicon MacにPCを乗り換えたので、代替方法がないか調査してみました。 結論 Ubuntu 22.04/aarch64 on multipass -&amp;gt; CentOS 7/x86_64 on vagrant + libvirt が最もよい 動作は少し遅いと感じることがあるが、x86_64をエミュレートしているので本番との環境差分が少なくなってうれしい 1. はじめに 筆者の環境 MacBook Pro 14 inch, M2 Pro, 32GB RAM MacOS Ventura 13.4.1 なるべくこれまで使ってきたVagrantfileを変更したくないので、</description>
+    </item>
   </channel>
 </rss>
