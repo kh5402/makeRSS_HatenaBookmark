@@ -3583,5 +3583,11 @@
       <pubDate>2023/10/18 17:59</pubDate>
       <description>NECの自社製大規模言語モデル（LLM）が、テクノロジー展示会「CEATEC 2023」（10月17～20日、幕張メッセ）で初の一般公開となった。会場から2時間程度たった正午ごろには、ブースに十数人程度の人だかりができる様子も。 NECの自社製大規模言語モデル（LLM）が、テクノロジー展示会「CEATEC 2023」（10月17～20日、幕張メッセ）で初の一般公開となった。会場ではChatGPTのように使える利用環境「NEC Generative AI Framework」での動作を披露。会場から2時間程度たった正午ごろには、ブースに十数人程度の人だかりができる様子も見られた。 現地では、デモとして質問文にAIがテキストで返答する様子を公開。例えば「横浜のおすすめのレストランをMarkdownの表形式で教えてくれる？」という質問には、以下のように回答していた。返答にかかった時間は十数秒程度</description>
     </item>
+    <item>
+      <title>AWSのコード生成AI「CodeWhisperer」、生成モデルのカスタマイズが可能に。社内の独自ライブラリやAPIを生成コードに組み込める新機能がプレビュー公開</title>
+      <link>https://www.publickey1.jp/blog/23/awsaicodewhispererapi.html</link>
+      <pubDate>2023/10/19 07:49</pubDate>
+      <description>はじめに AWS LambdaでOpenAIのWhisper APIを試してみました。 OpenAIには音声データから文字起こししてくれる「Whisper」という音声認識モデルがあり、WhisperをAPIの形で呼び出すWhisper APIが存在します。日本語ももちろん対応してます。 今回は、AWS LambdaがS3バケットに保存された音声データを元にWhisper APIで文字起こしして、精度を確認してみたいと思います。 OpenAIアカウントAPIキーの発行 OpenAIアカウント作成後、APIキーの発行をします。 APIキーの発行は、アカウントの View API keys をクリックします。 Create new secret key をクリックすると、API keyが発行されますので、コピーしておきます。 S3バケット 拡張子がwavの音声ファイルをS3バケットに保存しました</description>
+    </item>
   </channel>
 </rss>
