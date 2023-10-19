@@ -3589,5 +3589,29 @@
       <pubDate>2023/10/19 07:49</pubDate>
       <description>はじめに AWS LambdaでOpenAIのWhisper APIを試してみました。 OpenAIには音声データから文字起こししてくれる「Whisper」という音声認識モデルがあり、WhisperをAPIの形で呼び出すWhisper APIが存在します。日本語ももちろん対応してます。 今回は、AWS LambdaがS3バケットに保存された音声データを元にWhisper APIで文字起こしして、精度を確認してみたいと思います。 OpenAIアカウントAPIキーの発行 OpenAIアカウント作成後、APIキーの発行をします。 APIキーの発行は、アカウントの View API keys をクリックします。 Create new secret key をクリックすると、API keyが発行されますので、コピーしておきます。 S3バケット 拡張子がwavの音声ファイルをS3バケットに保存しました</description>
     </item>
+    <item>
+      <title>GPT-4やLlama 2の透明性をスタンフォード大HAIが評価　トップはMetaでOpenAIは3位</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/19/news101.html</link>
+      <pubDate>2023/10/19 09:56</pubDate>
+      <description>ニューヨーク市のエリック・アダムス市長が、本来は自分が話すことができないスペイン語やイディッシュ語などを用いたロボコール(自動音声通話)を有権者にかけて、まるで多言語を扱えるように思わせていたという指摘が行われています。 S.T.O.P. Condemns Eric Adams’ Deepfake Robocalls, Calls ‘Responsible AI’ Plan ‘Deeply Irresponsible’ — S.T.O.P. - The Surveillance Technology Oversight Project https://www.stopspying.org/latest-news/2023/10/16/stop-condemns-eric-adams-deepfake-robocalls-calls-responsible-ai-plan-deeply-ir</description>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>https://claude.ai/login?returnTo=%2F</link>
+      <pubDate>2023/10/06 18:00</pubDate>
+      <description>Home VOCALOID・歌声合成・音声合成 人の歌声をVOCALOIDに！歌声変換プラグイン、VOCALO CHANGER PLUGINをヤマハが発売開始 10月18日、ヤマハがVOCALO CHANGER PLUGIN（ボカロ・チェンジャー・プラグイン）なるWindows/Mac用のVST3およびAudioUnits対応のプラグインのダウンロード販売を開始しました。これは人が歌った歌声をVOCALOIDの合成音声に変換することができるプラグイン。打ち込みを必要とせず、より簡単にVOCALOIDの歌声を作ることができるユニークなプラグインです。昨年発売されたVOCALOID6に搭載されていたVOCALO CHANGERという機能をプラグインとして切り出した格好ですが、単なる切り出しではなく、リアルタイムでの変換が可能になったり、操作可能なパラメータが追加されるなど、かなりパワーアップし</description>
+    </item>
+    <item>
+      <title>脳でトラウマ記憶がつくられる仕組みの一端分かった 生理学研究所などマウス実験で解明 | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」</title>
+      <link>https://scienceportal.jst.go.jp/newsflash/20231017_n01/</link>
+      <pubDate>2023/10/17 20:12</pubDate>
+      <description>igaです。 ポケモンsleepを継続していますが、カビゴン評価がマスターになれません。 ChatGPTが見たり、聞いたり、話したりできるようになる、と言われている「GPT-4 with vision (GPT-4V)」が使えるようになったので、早速使ってみたいと思います。 openai.com 今回は、データベースのテーブル関連図を画像ファイルでもらった想定で、画像からテーブルのDDLが生成できるかを確認してみます。 やりたいこと 以下のような、テーブルの関連図とサンプルデータが描かれた画像ファイルをもらいました。 この画像ファイルをChatGPT-4に渡して、SQLのDDLが生成できるか確認します。 画像を解釈できるか確認する いきなりDDLを作らせる前に、まずは画像ファイルに書かれたテーブル構造を、マークダウンで出力してもらいます。 プロンプトの入力欄の左に絵のアイコン（画像の赤で囲</description>
+    </item>
+    <item>
+      <title>ChatGPTとPythonで学ぶ k近傍法 - Qiita</title>
+      <link>https://qiita.com/maskot1977/items/8e4ccd4f3e2efe1b0adc</link>
+      <pubDate>2023/10/17 10:03</pubDate>
+      <description>普通の映像から“動いている3Dシーン”をリアルタイム生成できる「4D Gaussian Splatting」【研究紹介】 2023年10月18日 山下 裕毅 先端テクノロジーの研究を論文ベースで記事にするWebメディア「Seamless/シームレス」（https://shiropen.com/）を運営。 華中科技大学とHUAWEIに所属する研究者らが発表した論文「4D Gaussian Splatting for Real-Time Dynamic Scene Rendering」は、2Dの映像から動的な3Dシーンをリアルタイムで生成する手法を提案する研究である。この技術は2D映像から動くキャラクターの3Dモデルや動的な3Dシーン全体を生成し、単一の視点だけでなく、多くの異なる視点から3Dシーンを閲覧することができる。 ▲高解像度の動的な3Dシーンでも、高品質の表示を維持しながらリアルタイ</description>
+    </item>
   </channel>
 </rss>
