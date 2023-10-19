@@ -3640,5 +3640,35 @@
       <pubDate>2023/10/19 12:03</pubDate>
       <description>ホンダは、アメリカのGM＝ゼネラルモーターズと共同で3年後の2026年に自動運転タクシーのサービスを始める計画を明らかにしました。運転手のいない車両を使って東京都内の一部のエリアでサービスを開始します。 発表によりますと、ホンダとアメリカのGM＝ゼネラルモーターズ、それにアメリカで自動運転サービスを提供するGMの子会社は、2024年前半に合弁会社を設立し、2026年に自動運転タクシーのサービスを始める計画です。 特定の条件のもとで完全自動運転を行うレベル4の技術で、運転手のいない6人乗りの車両を使うということです。 まずは、東京都内の一部のエリアに限って、走行ルートを定めずに目的地を自由に指定できるサービスを始める計画です。 数十台規模でサービスを開始し、そのあと、500台規模の車両を導入し、エリアの拡大も目指すとしています。 レベル4の自動運転は、全国各地で自治体などを中心に、小型バスな</description>
     </item>
+    <item>
+      <title>Apple Silicon (M1/M2)MacでのVagrant+VirtualBoxの代替手段 - GMOインターネットグループ グループ研究開発本部</title>
+      <link>https://recruit.gmo.jp/engineer/jisedai/blog/alternative-vagrant-virtualbox/</link>
+      <pubDate>2023/10/19 11:33</pubDate>
+      <description>日本語を含む多言語対応のLLM（大規模言語モデル）の開発は、韓国SK Telectom（SKT）との協力で行っている。 Claude 2にユーザーのデータをSKTと共有するのか尋ねたところ、「個人情報などの機密データはSKTと共有せず、AIの学習や改善のために必要最小限のデータのみを共有する方針です。」との答えだった。 Claude 2へのアクセスはこちらから可能だ。 関連記事 GPT-4やLlama 2の透明性をスタンフォード大HAIが評価　トップはMetaでOpenAIは3位 スタンフォード大学HAIは、AI基盤モデルの透明性評価システム「FMTI」と、このシステムで評価したOpenAIやMetaなど10社の透明性ランキングを発表した。 AI企業のAnthropicに韓国SKTが1億ドルの追加出資　日本語にも対応の多言語LLM共同開発 元OpenAIのエンジニアらが創業したAI企業An</description>
+    </item>
+    <item>
+      <title>ホンダ 2026年に自動運転タクシーサービス 都内の一部で開始へ | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231019/k10014230111000.html</link>
+      <pubDate>2023/10/19 11:50</pubDate>
+      <description>チャットAI「Claude」は人間の学者に匹敵する能力を持つとされるほどの性能を備えており、ChatGPTのライバルとみなされています。そんなClaudeが日本でも利用可能になったので、実際にClaudeを使う方法や性能をまとめてみました。 Now users in all supported countries can access both our free experience and Claude Pro to boost their productivity and get more done.— Anthropic (@AnthropicAI) ◆Claudeのアカウント作成手順 Claudeを使うには無料のアカウントを作成する必要があるので、まずは以下のリンクをクリックしてアカウント作成画面にアクセスします。 Claude https://claude.ai/login アカ</description>
+    </item>
+    <item>
+      <title>「Android 14」はアップデート一択。期待していい機能をまとめました | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2310-android-14-best-new-features/</link>
+      <pubDate>2023/10/19 08:26</pubDate>
+      <description>ニューヨーク市のエリック・アダムス市長が、本来は自分が話すことができないスペイン語やイディッシュ語などを用いたロボコール(自動音声通話)を有権者にかけて、まるで多言語を扱えるように思わせていたという指摘が行われています。 S.T.O.P. Condemns Eric Adams’ Deepfake Robocalls, Calls ‘Responsible AI’ Plan ‘Deeply Irresponsible’ — S.T.O.P. - The Surveillance Technology Oversight Project https://www.stopspying.org/latest-news/2023/10/16/stop-condemns-eric-adams-deepfake-robocalls-calls-responsible-ai-plan-deeply-ir</description>
+    </item>
+    <item>
+      <title>AI学習を高速化するプロセッサーや1000億パラメーターの大規模言語モデルなどが目を見張るPreferred Networks【CEATEC 2023】</title>
+      <link>https://internet.watch.impress.co.jp/docs/event/1539963.html</link>
+      <pubDate>2023/10/18 11:16</pubDate>
+      <description>AWSのコード生成AI「CodeWhisperer」、生成モデルのカスタマイズが可能に。社内の独自ライブラリやAPIを生成コードに組み込める新機能がプレビュー公開 Amazon Web Services（AWS）は、コメントやコードの一部からAIがコードを自動生成してくれるサービス「Amazon CodeWhisperer」の新機能として、生成モデルをカスタマイズし、社内の独自ライブラリやAPIなども生成されるコードに組み込むことができる新機能をプレビュー公開しました。 下記はAWS CEO Adam Selipsky氏のツイート。 Exciting news! Amazon CodeWhisperer’s new customization capability is now available in preview! The new feature helps customers to</description>
+    </item>
+    <item>
+      <title>AWS Lambda でOpenAI の Whisper API を 認識精度の改善も含めて試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/aws-lambda-openai-whisper-api/</link>
+      <pubDate>2023/10/19 07:25</pubDate>
+      <description>皆さん、StreamingLLMというLLM用のアプリケーションをご存知ですか？ LLMで無限に入力ができることを可能にしたツールなんです！LLMを日々使い倒している弊社としては、衝撃のツールなんですよ。 GitHubでも4500超えのスターを獲得しており、徐々に注目が集まっています。AIオタクであれば、知らなかったなんてことないですよね。 このStreamingLLMを使えば、対話型でLLMを動かすことができ、モデルが質問の都度、リアルタイムで応答を生成してくれます。 というわけで、今回はStreamingLLMの使い方や、実際に使ってみた感想などをご紹介します。 この記事を最後まで読むと、StreamingLLMを使いこなすことができ、LLMとのリアルタイムの会話も可能になります！ ぜひ最後までご覧ください！ StreamingLLMの概要 StreamingLLMは「400万以上のト</description>
+    </item>
   </channel>
 </rss>
