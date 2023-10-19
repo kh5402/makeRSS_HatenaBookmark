@@ -3718,5 +3718,23 @@
       <pubDate>2023/10/19 21:01</pubDate>
       <description>企業・組織に属している方向けの ChatGPT の社会・ビジネスへの影響を考えるお話です。 人とComputerの在り方が大きく変わったこれらも交えて。それらが周囲にあふれ出すその日のために、今はしっかりと Prompt の仕方を学んでおきたいものです。そのためのサンプルも幾つか継続して提示しています - とある人の、変わってしまった日常の一部 - なぜ?何が? ChatGPT で変わるのか? - Plugin の可能性 - Code Interpreter の可能性 - Copilot の可能性</description>
     </item>
+    <item>
+      <title>LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』 | AIDB</title>
+      <link>https://aiboom.net/archives/57018</link>
+      <pubDate>2023/10/19 23:26</pubDate>
+      <description>NVIDIAとFoxconn(鴻海精密工業)がAIの開発に特化したデータセンターを共同で構築していることを明らかにしました。両社は構築中のデータセンターを「AIファクトリー」と呼称しています。 NVIDIA Partners With Foxconn to Build Factories and Systems for the AI Industrial Revolution | NVIDIA Newsroom https://nvidianews.nvidia.com/news/nvidia-partners-with-foxconn-to-build-factories-and-systemsfor-the-ai-industrial-revolution New EV Cargo Van Unveiled At Hon Hai Tech Day 2023, Focusing CDMS</description>
+    </item>
+    <item>
+      <title>「RTX 4090」などの中国への輸出規制でNVIDIAやIntelなどに大打撃</title>
+      <link>https://gigazine.net/news/20231019-america-gpu-restrict-china-nvidia/</link>
+      <pubDate>2023/10/19 19:18</pubDate>
+      <description>OpenAIは、ChatGPTでインターネットにリアルタイムでアクセスして、情報源へのダイレクトリンクを表示できるウェブブラウジング機能を、米国時間9月27日付の「X」（旧Twitter）への投稿で発表していた。ただしこの時点では、この追加機能は「ChatGPT Plus」と「ChatGPT Enterprise」に加入している有料版ユーザーにのみ、ベータ版という形で提供されていた。 これにより、有料版ユーザーはChatGPTをベータモードに切り替えることで、2021年9月以前の情報にしかアクセスできないという制限から解放されていた。 OpenAIは10月17日、ブラウジング機能がベータ版から移行したことをリリースノートで明らかにした。これにより、ブラウジング機能にアクセスするのにベータモードに切り替える必要がなくなり、有料版ユーザーにとっての使い勝手が向上した。 有料版ユーザーが行うべき</description>
+    </item>
+    <item>
+      <title>NECが独自LLMで早くも成果、「GPT-4」上回る日本語性能</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/08488/</link>
+      <pubDate>2023/10/19 11:38</pubDate>
+      <description>みなさんこんにちは、グループ研究開発本部 AI研究開発室のK.Fです。 これまで、Intel MacでVirtualBox + Vagrantを利用してCentOS 7の仮想(VM)環境を利用していたのですが、Apple Silicon MacにPCを乗り換えたので、代替方法がないか調査してみました。 結論 Ubuntu 22.04/aarch64 on multipass -&amp;gt; CentOS 7/x86_64 on vagrant + libvirt が最もよい 動作は少し遅いと感じることがあるが、x86_64をエミュレートしているので本番との環境差分が少なくなってうれしい 1. はじめに 筆者の環境 MacBook Pro 14 inch, M2 Pro, 32GB RAM MacOS Ventura 13.4.1 なるべくこれまで使ってきたVagrantfileを変更したくないので、</description>
+    </item>
   </channel>
 </rss>
