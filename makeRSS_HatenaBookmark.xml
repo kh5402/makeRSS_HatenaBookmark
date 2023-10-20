@@ -3790,5 +3790,17 @@
       <pubDate>2023/10/19 19:01</pubDate>
       <description>近年は生成AIテクノロジーの発達により、誰かの声をAIに学習させてスピーチを読ませたり歌わせたりすることが技術的に可能になっており、2023年4月にはカナダのラッパー・Drakeの声でThe Weekndの「heart on my sleeve」を歌わせる動画が登場して話題を呼びました。そんな中、YouTubeが「ミュージシャンの声を使った動画を作成するためのAIツール」のリリースに向け、メジャーレーベルと協議していると報じられました。 YouTube Is Developing an AI Tool to Help Creators Sound Like Musicians – Billboard https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/ YouTube</description>
     </item>
+    <item>
+      <title>GAFAMのAIスタートアップ買収が急減　23年まだ2社 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC11AZS0R11C23A0000000/</link>
+      <pubDate>2023/10/20 05:57</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 米スタンフォード大学、米ノースウェスタン大学、米コーネル大学に所属する研究者らが発表した論文「Can large language models provide useful feedback on research papers？ A large-scale empirical analysis」は、大規模言語モデル（LLM）が研究論文の査読を行えるかを調査した研究報告である。この検証のため、論文の査読を自動で行うシステムと、LLMによる査読コメントと人間による査読コメントとの間の共通点を探るシステムを開発した。 学術雑誌に投稿される研究</description>
+    </item>
+    <item>
+      <title>自動文字起こしサービスである、OpenAIの「Whisper API」とAWSの「Amazon Transcribe」の精度を比較してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-whisper-api-amazon-transcribe/</link>
+      <pubDate>2023/10/20 07:14</pubDate>
+      <description>骨しゃぶり @honeshabri この画像はChatGPTで作ったわけだが、ChatGPTを使った遊びは他にもある。お姉ちゃんになってもらうとか。気になる人はこの記事を読んで。 honeshabri.hatenablog.com/entry/One-chan… 2023-10-18 17:24:10</description>
+    </item>
   </channel>
 </rss>
