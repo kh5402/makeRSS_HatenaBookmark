@@ -3766,5 +3766,17 @@
       <pubDate>2023/10/19 07:03</pubDate>
       <description>NECが生成AI（人工知能）分野で攻勢をかけている。「GPT-4」を上回る日本語処理性能を持った独自の大規模言語モデル（LLM）を開発し、社内外で活用を始めた。利用から半年たたずに様々な成果が出てきた。さらに多くのユーザーが利用できるようにオンプレミス向けのハードウエアも手がける。新たなアーキテクチャーを採用したLLMの研究開発も進める。 NECは2023年7月に生成AIサービス「NEC Generative AI Service」の提供を開始した。同サービスの特徴は、生成AIに関してワンストップで顧客にサービスを提供することである。NECの独自LLMを利用可能にするほか、プロンプトの作成や質問管理などを支援するソフトウエアをフレームワークとして提供する。加えて、LLM活用に向けたコンサルティングや教育、環境構築などを行う。 LLMの利用環境として、クラウドやデータセンター、オンプレミス用</description>
     </item>
+    <item>
+      <title>「GPT-4」は論文の査読ができるか？　米スタンフォード大らが検証　参加者の80％以上「AI査読は有益」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/19/news072.html</link>
+      <pubDate>2023/10/20 08:24</pubDate>
+      <description>自動文字起こしサービスである、OpenAIの「Whisper API」とAWSの「Amazon Transcribe」の精度を比較してみた はじめに 今回は、OpenAIのWhisper APIとAmazon Transcribeという2つの音声文字起こしサービスを試し、それぞれの精度を比較してみました。 Amazon Transcribeは、音声をテキストに変換する自動音声認識サービスです。 ストリーミングとバッチ処理のどちらでも文字起こしが可能です。 攻撃的な言葉を指定すると、Amazon Transcribeがそれらの言葉を文字起こしから自動的に削除する語彙フィルタリングなどの機能もあります。 Amazon Transcribeの詳細は、下記の記事をご参考ください。 OpenAIには音声をテキストに変換する「Whisper」という音声認識モデルがあり、WhisperをAPIの形で呼び</description>
+    </item>
+    <item>
+      <title>kaggle LLMコンペ　上位解法まとめ</title>
+      <link>https://zenn.dev/yume_neko/articles/7347ba6b081e93</link>
+      <pubDate>2023/10/20 00:27</pubDate>
+      <description>近年は生成AIテクノロジーの発達により、誰かの声をAIに学習させてスピーチを読ませたり歌わせたりすることが技術的に可能になっており、2023年4月にはカナダのラッパー・Drakeの声でThe Weekndの「heart on my sleeve」を歌わせる動画が登場して話題を呼びました。そんな中、YouTubeが「ミュージシャンの声を使った動画を作成するためのAIツール」のリリースに向け、メジャーレーベルと協議していると報じられました。 YouTube Is Developing an AI Tool to Help Creators Sound Like Musicians – Billboard https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/ YouTube</description>
+    </item>
   </channel>
 </rss>
