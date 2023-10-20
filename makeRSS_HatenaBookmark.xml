@@ -3802,5 +3802,17 @@
       <pubDate>2023/10/20 07:14</pubDate>
       <description>骨しゃぶり @honeshabri この画像はChatGPTで作ったわけだが、ChatGPTを使った遊びは他にもある。お姉ちゃんになってもらうとか。気になる人はこの記事を読んで。 honeshabri.hatenablog.com/entry/One-chan… 2023-10-18 17:24:10</description>
     </item>
+    <item>
+      <title>AWSでの法令に則ったログ設計及び実装/分析 - Adwaysエンジニアブログ</title>
+      <link>https://blog.engineer.adways.net/entry/2023/10/20/140000</link>
+      <pubDate>2023/10/20 14:16</pubDate>
+      <description>生成AI（人工知能）ブームにもかかわらず、米テック大手5社「GAFAM」によるAIスタートアップの買収が2023年に入って急減している。テック大手に対する独占禁止法上の規制強化の動きに加え、最近のリスク回避ムードも重なり、二の足を踏んでいる。ただ、AIの大きな将来性をにらみ、買収ではなく出資の形で規制を避けながら取り組みを強化する会社もある。「ビッグテック」と呼ばれる米グーグル、米アマゾン・ドッ</description>
+    </item>
+    <item>
+      <title>AWS 内で大規模言語モデルを利用できる Amazon Bedrock を使って作る RAG アプリケーション - クックパッド開発者ブログ</title>
+      <link>https://techlife.cookpad.com/entry/bedrock</link>
+      <pubDate>2023/10/19 14:06</pubDate>
+      <description>米IBMは10月18日（現地時間）、生成AIに関するサービスの強化に向け、米Amazon Web Servicesとの連携を拡大すると発表した。自社のAIプラットフォーム「watsonx」の機能をAWS上で提供するという。 まずはwatsonxのサービスのうち、データプラットフォーム「watsonx.data」を、AWSのフルマネージドサービスとして提供する。2024年までにはAI実行環境「watsonx.ai」やAIガバナンス機能「watsonx.governance」もAWSで利用可能にするという。 すでにAWSを活用して提供している自社サービスに、生成AIによる新機能を追加する方針も示した。例えば、AWSを活用したコンタクト向けセンターサービスでは、会話内容を要約・分類する機能を生成AIで拡張するという。 コンサルタントの育成も強化する。AWSが提供する学習プログラムなどを利用。20</description>
+    </item>
   </channel>
 </rss>
