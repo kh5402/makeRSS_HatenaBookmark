@@ -3784,5 +3784,11 @@
       <pubDate>2023/10/19 11:34</pubDate>
       <description>中国の検索大手Baiduが、2023年10月17日に北京で開かれたカンファレンス「Baidu World 2023」のなかで、自社のAIモデル「Ernie」の最新版である「Ernie 4.0」を発表しました。Baiduは発表に際し「Ernie 4.0はOpenAIのGPT-4に匹敵する性能を持つ」と述べています。 百度直播-百度世界大会2023-百度直播 https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=8607025935&amp;amp;source=world Chinese Baidu unveils Ernie 4.0 AI model, claims that it rivals GPT-4 | AP News https://apnews.com/article/baidu-china-artificial-erni</description>
     </item>
+    <item>
+      <title>The State of WebAssembly 2023</title>
+      <link>https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html</link>
+      <pubDate>2023/10/19 19:01</pubDate>
+      <description>近年は生成AIテクノロジーの発達により、誰かの声をAIに学習させてスピーチを読ませたり歌わせたりすることが技術的に可能になっており、2023年4月にはカナダのラッパー・Drakeの声でThe Weekndの「heart on my sleeve」を歌わせる動画が登場して話題を呼びました。そんな中、YouTubeが「ミュージシャンの声を使った動画を作成するためのAIツール」のリリースに向け、メジャーレーベルと協議していると報じられました。 YouTube Is Developing an AI Tool to Help Creators Sound Like Musicians – Billboard https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/ YouTube</description>
+    </item>
   </channel>
 </rss>
