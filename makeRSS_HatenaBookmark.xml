@@ -3943,5 +3943,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f4cdadcf28577d4b4638a852cc1acf4f16b04b95/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1540%2F694%2Fyajiuma-watch_1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>NVIDIA、ロボットに“高速ペン回し”も教えるGPT-4搭載AI「Eureka」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/21/news052.html</link>
+      <pubDate>2023/10/21 08:03</pubDate>
+      <description>OpenAIが提供するChatGPT Visionは画像の認識や分析に長けた機能 （要：$20/月のChatGPT Plusアカウント） 例えば、バグが起こっている様子をスクショして送れば、AIがソースコードの問題箇所を検出し、訂正したコードを送ってくれる ほかには手書きの文字を読み込んでテキストデータにしたり、画像を認識してその状況を文章化したりといった使い方も可能 場合によってはプロンプトがほぼ必要ないことも</description>
+    </item>
+    <item>
+      <title>公開しているモデル・コーパス・ツール</title>
+      <link>https://llm-jp.nii.ac.jp/release/</link>
+      <pubDate>2023/10/20 17:57</pubDate>
+      <description>はじめに この記事では、3日間でテック記事のAI要約・翻訳メディアをつくる個人開発で利用した OpenAI API LangChain の具体的な実装と利用コストについて触れていきます。 OpenAI APIとLangChainとは... OpenAI API OpenAI APIは、OpenAIという人工知能の研究・開発・普及を目的とした団体が提供するAPIです。このAPI は、自然言語とコードの理解または生成を必要とするタスクに利用することができます。 LangChain OpenAIが提供するGPT-3のような大規模言語モデル（Large Language Model: LLM）を利用してサービスの開発をしたいときに、「あるとうれしい機能」が集まったライブラリです。 この記事の目的 OpenAI API を使った記事の要約とFunction Callingの紹介 LangChain</description>
+    </item>
   </channel>
 </rss>
