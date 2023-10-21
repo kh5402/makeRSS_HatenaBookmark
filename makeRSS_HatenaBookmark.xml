@@ -3991,5 +3991,23 @@
       <pubDate>2023/10/21 16:07</pubDate>
       <description>個人開発としてOpen-Interpreterは、この生成AIブームの中、多くの開発者にインパクトを与えています。 今まで出来れば良かったと思っていた、アイデアからプログラム作成、実行まで実施してくれるフリーツールの一つだからです。 Open-Interpreterのハッカーソンが行われていましたので、今回はその作品群を眺めていきます。 Open-Interpreter作成者もハッカーソンの審査員として登場しています。 今回は、Open-Intepreterを使用したプログラムをいくつかピックアップして紹介していきます。 Open-Sourcere 2600 Books Sorted for Multi-Agent Creation Electerpreter Open-Interpreter Electron APP CodeBaseBuddy AISmartTask Open Inte</description>
     </item>
+    <item>
+      <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい</title>
+      <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
+      <pubDate>2023/10/21 01:03</pubDate>
+      <description>米NVIDIAは10月20日（現地時間）、ロボットに高速な“ペン回し”や引き出しの開閉など、複雑なスキルを自律的に教えるAIエージェント「Eureka」（ユリイカあるいはエウレカ）を発表した。 NVIDIAは、米OpenAIのGPT-4搭載のEurekaのライブラリを公開し、強化学習研究用の物理シミュレーションリファレンスアプリケーション「Nvidia Isaac Gym」で実験できるようにしている。Isaac Gymは、3Dツールとアプリを構築するための開発プラットフォームNvidia Omniverseで利用できる。 Eurekaによるロボット教育の大まかな流れは、まずGPT-4と生成AIを使って、強化学習のためにロボットに報酬を与えるコードを作成する。Isaac GymのGPU高速化シミュレーションを使って報酬候補の大規模なバッチの品質を評価し、より効率的なトレーニングを実現する。そ</description>
+    </item>
+    <item>
+      <title>【イラストAI】ノイズやテクスチャを使って描き込み量をめちゃくちゃに増やそう！1/4｜御月望未（みつきのぞみ）</title>
+      <link>https://note.com/mitsukinozomi/n/n500c7a9ea195</link>
+      <pubDate>2023/10/21 00:12</pubDate>
+      <description>東京都営地下鉄の駅のホームドア設置率が来年2月までに100％になる。4路線のうち、多くの私鉄が乗り入れる浅草線が最後の難関だったが、スマートフォンでおなじみの技術を生かし、数十億円と見積もられた車両改修費を抑え、低コストで全駅設置にこぎ着けた。その技術とは―。（三宅千智）</description>
+    </item>
+    <item>
+      <title>Cursor - The AI-first Code Editor</title>
+      <link>https://cursor.sh/</link>
+      <pubDate>2023/10/13 22:22</pubDate>
+      <description>大阪府が9月、高齢者の孤独解消を目的に導入した生成AI（人工知能）「チャットGPT」を使った会話サービス「大ちゃんと話す」で、2025年大阪・関西万博は「中止なの？」と質問すると、「そうやね、残念やけど中止やって」などと回答するケースがあることが分かった。府は「必ずしも正確な回答をするわけではないことは知ってほしい」と話している。 サービスは無料通信アプリ「LINE（ライン）」の公式アカウント「おおさか楽なび」で提供。人間でいうと10歳程度の知能の持ち主という設定で、関西弁でしゃべる柴犬（しばいぬ）「大ちゃん」と会話のキャッチボールが楽しめる。 記者が「大阪・関西万博は中止ですか」と問いかけると、大ちゃんは「残念やけど中止になったんや」と回答。「いつあるの」との質問には、「開催日は決まっていないけど、2025年以降に開催される予定だよ」と答えた。府によると、こうした回答は大ちゃんが肯定的な</description>
+    </item>
   </channel>
 </rss>
