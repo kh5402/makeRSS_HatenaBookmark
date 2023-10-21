@@ -3928,5 +3928,20 @@
       <pubDate>2023/10/20 18:15</pubDate>
       <description>生成AI（人工知能）がいよいよパソコン（PC）のブラウザーやスマートフォンのアプリを飛び越えて、物理的な世界につながろうとしている──。米アマゾン・ドット・コムは米国時間2023年9月20日、音声アシスタントの「Alexa（アレクサ）」に生成AIを搭載すると発表。文脈を理解し、遅延のない会話を実現する。単にAIへの指示がテキストから音声に変わっただけではない。スマートスピーカーなどを通じてAIが</description>
     </item>
+    <item>
+      <title>息を止めてすれ違うのも意外とあり!?すれ違いの感染リスクは「通過後5秒以内」がピーク！ - ナゾロジー</title>
+      <link>https://nazology.net/archives/136928</link>
+      <pubDate>2023/10/20 23:26</pubDate>
+      <description>国立情報学研究所（NII）は10月20日、パラメータ数130億の大規模言語モデル（LLM）「LLM-jp-13B」を公開した。初期段階のモデルだが、アカデミアや産業界の研究開発に資するため、コーパスやツールなどを含めてすべてオープンにする。 公開したLLMの学習データ量は合計約3000億トークン。うち日本語は約1450億トークン（mC4／Wikipedia）、英語は約1450億トークン（The Pile／Wikipedia）、プログラムコード約100億トークン。 計算資源としては、大学や研究機関が共同運営する仮想化環境・データ活用社会創成プラットフォーム「mdx」を12ノード活用。モデル構築にはMicrosoftのDeepSpeedを、モデル構築時の監視やログの保存には、モデル開発プラットフォームのWeights＆Biasesを利用した。 NIIが主宰するLLM勉強会（LLM-jp）で7月</description>
+    </item>
+    <item>
+      <title>OpenAIの最新画像生成AI「DALL-E 3」が有料版の「ChatGPT」で利用可能に／従来よりもプロンプトに対して忠実に出力</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1540828.html</link>
+      <pubDate>2023/10/20 18:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f4cdadcf28577d4b4638a852cc1acf4f16b04b95/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1540%2F694%2Fyajiuma-watch_1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
