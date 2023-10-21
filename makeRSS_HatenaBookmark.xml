@@ -3892,5 +3892,35 @@
       <pubDate>2023/10/20 18:19</pubDate>
       <description>皆さんは「サン・ベレク石板（Saint-Bélec slab）」という歴史的遺物をご存知でしょうか。 これは1900年にフランス北西部ブルターニュ地方で見つかった石碑で、約4000年前の青銅器時代のものであることが分かっています。 一方で、120年以上前に見つかっていたにも関わらず、今日まで詳しい調査がほとんどされてきませんでした。 そんな中、フランスの西ブルターニュ大学（UBO）およびフランス国立科学研究センター（CNRS）の最新調査により、サン・ベレク石板は失われた遺構のありかを示す”宝の地図”である可能性が浮上したのです。 考古学者らは今、この地図をもとに宝探しをするというインディ・ジョーンズの世界に飛び込もうとしています。 目次 4000年前の地図「サン・ベレク石板」の発見史「失われた秘宝」のありかを示す地図の可能性大 4000年前の地図「サン・ベレク石板」の発見史 Credit:</description>
     </item>
+    <item>
+      <title>AIの進化が止まらない→スクショを送るだけでゲームも作れる、バグも修正できる、宿題もやってくれる、認証システムも……</title>
+      <link>https://togetter.com/li/2243624</link>
+      <pubDate>2023/10/20 22:56</pubDate>
+      <description>はじめに この記事では、3日間でテック記事のAI要約・翻訳メディアをつくる個人開発で利用した OpenAI API LangChain の具体的な実装と利用コストについて触れていきます。 OpenAI APIとLangChainとは... OpenAI API OpenAI APIは、OpenAIという人工知能の研究・開発・普及を目的とした団体が提供するAPIです。このAPI は、自然言語とコードの理解または生成を必要とするタスクに利用することができます。 LangChain OpenAIが提供するGPT-3のような大規模言語モデル（Large Language Model: LLM）を利用してサービスの開発をしたいときに、「あるとうれしい機能」が集まったライブラリです。 この記事の目的 OpenAI API を使った記事の要約とFunction Callingの紹介 LangChain</description>
+    </item>
+    <item>
+      <title>NII、130億パラメータのLLM構築　コーパスなども全公開　「今後の研究に資するため」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/20/news136.html</link>
+      <pubDate>2023/10/20 17:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e47fc86c283f9d80e2a022e4923e123f5f43a2e8/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1540%2F828%2F20231020-1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Amazon、アレクサに生成AI　人格備えリアルの司令塔に - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC184VY0Y3A011C2000000/</link>
+      <pubDate>2023/10/20 07:57</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/85cb22d567263dc9779c8b743bae7ac42a68f05a/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1540%2F827%2F04.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>減酒宣言した多量飲酒者の末路</title>
+      <link>https://blog.tinect.jp/?p=83783</link>
+      <pubDate>2023/10/18 08:06</pubDate>
+      <description>生成AI（人工知能）をシステム構築に活用する取り組みが進んできた。ソースコードの自動生成やテストの効率化、運用自動化などカバー範囲は広く、省力化や品質向上といった成果を上げている。今回はシステムモダナイズを中心に活用を進める米IBMの取り組みを見よう。 第1回の記事 AWS・MS・Googleが生成AIでシステム構築支援、ソフト開発全般で効率化競う 第2回の記事 NTTデータが「生成AIありき」のSI、コード変換の作業工数を7割削減の効果も IBMは2023年8月、同社メインフレーム「IBM Z」上のCOBOLアプリをJavaへ高速変換可能な「IBM watsonx Code Assistant」を発表した。同社の生成AIを活用し、COBOLコードのリファクタリングや変換、検証などを行う。日本IBM テクノロジー事業本部メインフレーム事業部シニアメインフレームテクニカル・セールスの金元隆志</description>
+    </item>
   </channel>
 </rss>
