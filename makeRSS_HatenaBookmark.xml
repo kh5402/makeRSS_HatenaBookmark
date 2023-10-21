@@ -3979,5 +3979,11 @@
       <pubDate>2023/10/21 05:00</pubDate>
       <description>OpenAIが提供するChatGPT Visionは画像の認識や分析に長けた機能 （要：$20/月のChatGPT Plusアカウント） 例えば、バグが起こっている様子をスクショして送れば、AIがソースコードの問題箇所を検出し、訂正したコードを送ってくれる ほかには手書きの文字を読み込んでテキストデータにしたり、画像を認識してその状況を文章化したりといった使い方も可能 場合によってはプロンプトがほぼ必要ないことも</description>
     </item>
+    <item>
+      <title>SHIFT AI、生成AIを実務で活用するための「生成AIカオスマップ2023」をビジネス＋ITに公開</title>
+      <link>https://codezine.jp/article/detail/18523</link>
+      <pubDate>2023/10/17 11:26</pubDate>
+      <description>Home VOCALOID・歌声合成・音声合成 人の歌声をVOCALOIDに！歌声変換プラグイン、VOCALO CHANGER PLUGINをヤマハが発売開始 10月18日、ヤマハがVOCALO CHANGER PLUGIN（ボカロ・チェンジャー・プラグイン）なるWindows/Mac用のVST3およびAudioUnits対応のプラグインのダウンロード販売を開始しました。これは人が歌った歌声をVOCALOIDの合成音声に変換することができるプラグイン。打ち込みを必要とせず、より簡単にVOCALOIDの歌声を作ることができるユニークなプラグインです。昨年発売されたVOCALOID6に搭載されていたVOCALO CHANGERという機能をプラグインとして切り出した格好ですが、単なる切り出しではなく、リアルタイムでの変換が可能になったり、操作可能なパラメータが追加されるなど、かなりパワーアップし</description>
+    </item>
   </channel>
 </rss>
