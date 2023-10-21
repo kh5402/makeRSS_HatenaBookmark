@@ -4033,5 +4033,11 @@
       <pubDate>2023/10/20 18:39</pubDate>
       <description>GPT活用が当たり前になりましたが、メモの取り方も劇的に変わります。 ・専属AIとの会話の中でナレッジを記録 ・AIに聞けばいつでも過去の記録を呼び起こせる ・過去の記録に基づきAIが提案や示唆をくれる 今までメモ帳に書いていたアイデアはたくさんあるはず。 今後は自身のAIに向けてメモをつぶやいていくだけで、自分のナレッジを結集した独自のAIアシスタントが築けてしまうんです。 今回はその方法をご紹介します！ ※ 本記事は文中で紹介するサービス「miibo」を開発する、株式会社miiboの提供でお送りします。 成果物運用イメージはこんな感じです。 最近、ベクトルDB記録機能をつけたAIをmiiboで作って、 メモしたいことは全部AIに話しかけて覚えさせてる。 うろ覚えのことを会話で引き出せるし、メモをもとにした相談やTODOリスト作成なんかもできる。 もうちょい実験してニーズありそうだったら</description>
     </item>
+    <item>
+      <title>【WordPress】OpenAIからのクローラーをrobots.txtでブロックしてみた【プラグイン】 - ネタフル</title>
+      <link>https://netafull.net/wordpress/0139199.html</link>
+      <pubDate>2023/10/20 17:39</pubDate>
+      <description>個人開発としてOpen-Interpreterは、この生成AIブームの中、多くの開発者にインパクトを与えています。 今まで出来れば良かったと思っていた、アイデアからプログラム作成、実行まで実施してくれるフリーツールの一つだからです。 Open-Interpreterのハッカーソンが行われていましたので、今回はその作品群を眺めていきます。 Open-Interpreter作成者もハッカーソンの審査員として登場しています。 今回は、Open-Intepreterを使用したプログラムをいくつかピックアップして紹介していきます。 Open-Sourcere 2600 Books Sorted for Multi-Agent Creation Electerpreter Open-Interpreter Electron APP CodeBaseBuddy AISmartTask Open Inte</description>
+    </item>
   </channel>
 </rss>
