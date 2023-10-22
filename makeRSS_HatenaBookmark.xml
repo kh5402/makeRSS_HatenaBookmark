@@ -4084,5 +4084,11 @@
       <pubDate>2023/10/22 18:55</pubDate>
       <description>自己紹介 こういう者です。 詳しくは固定ツイートをご覧ください。 Mojo🔥とは PythonのシンプルさとRustのスピードとメモリの安全性を組み合わせた、新しいプログラミング言語。 Pythonの35000倍速いとされており、Pythonの弱点である「遅さ」を補うと期待されている。また、書き方もPythonと似ているので移行もしやすいです。 そんな言語が2023年10月19日より、Appleシリコン搭載Macに対応したとのことで、早速触ってみました。 Mojoのセットアップ このページの案内に沿って進めるだけです。 ここでは僕が詰まった箇所も加えて解説します。 あ、環境構築にはそんなに詳しくないのでChatGPT大先生に聞きながら進めました。いつもありがとう。 ターミナルで使えるようにする 1. Homebrewのインストール HomebrewとはMacOS上で動作するパッケージ管理</description>
     </item>
+    <item>
+      <title>basic incomeっていつになったら導入されるん？</title>
+      <link>https://anond.hatelabo.jp/20231022173603</link>
+      <pubDate>2023/10/22 17:36</pubDate>
+      <description>By Ruian Duan and Daiping Liu October 16, 2023 at 1:38 AM Category: Malware Tags: Advanced URL Filtering, Cobalt Strike, Cortex XDR, Decoy Dog malware, DNS security, dns tunneling, DNSTT, FinCounter, next-generation firewall, VPN This post is also available in: English (英語) 概要 本稿は、DNS (ドメイン ネーム システム) のトンネリング技術が野生で (in the wild) どのような理由と方法で利用されているのかに関する研究をご紹介します。またこの研究結果に基づいて、トンネリング ドメインをツールやキャンペーン</description>
+    </item>
   </channel>
 </rss>
