@@ -4045,5 +4045,38 @@
       <pubDate>2023/10/21 19:21</pubDate>
       <description>GPT活用が当たり前になりましたが、メモの取り方も劇的に変わります。 ・専属AIとの会話の中でナレッジを記録 ・AIに聞けばいつでも過去の記録を呼び起こせる ・過去の記録に基づきAIが提案や示唆をくれる 今までメモ帳に書いていたアイデアはたくさんあるはず。 今後は自身のAIに向けてメモをつぶやいていくだけで、自分のナレッジを結集した独自のAIアシスタントが築けてしまうんです。 今回はその方法をご紹介します！ ※ 本記事は文中で紹介するサービス「miibo」を開発する、株式会社miiboの提供でお送りします。 成果物運用イメージはこんな感じです。 最近、ベクトルDB記録機能をつけたAIをmiiboで作って、 メモしたいことは全部AIに話しかけて覚えさせてる。 うろ覚えのことを会話で引き出せるし、メモをもとにした相談やTODOリスト作成なんかもできる。 もうちょい実験してニーズありそうだったら</description>
     </item>
+    <item>
+      <title>Pythonの35000倍速い新言語 Mojo🔥 を使ってみた【セットアップ編】 - Qiita</title>
+      <link>https://qiita.com/mohki7/items/b09d5c3d4a10e333d060</link>
+      <pubDate>2023/10/21 22:18</pubDate>
+      <description>「Mistral」「Llama 2」「Vicuna」などオープンソースの大規模言語モデルを簡単にローカルで動作させることが可能なアプリ「Ollama」の公式Dockerイメージが登場したので、早速使い勝手を試してみました。 Ollama is now available as an official Docker image · Ollama Blog https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image Ollamaで動作可能な大規模言語モデルの代表例は下記の通り。リストの全体についてはOllamaの公式サイトで確認することができます。 モデルパラメーターサイズDownloadMistral7B4.1GBollama run mistralLlama 27B3.8GBollama run ll</description>
+    </item>
+    <item>
+      <title>「機械学習」という技術で価値を創出する技術 〜プロダクト開発に機械学習を応用する際に考えること〜.pdf / techniques-to-create-values-with-ml-layerx-at-wi2</title>
+      <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-at-wi2</link>
+      <pubDate>2023/10/21 17:49</pubDate>
+      <description>｢AI界のiPhone｣を作りたいOpenAI2023.10.21 08:007,887 Kevin Hurler - Gizmodo US ［原文］ （ 福田ミホ ） もっと自然にAIとやりとりできるようなデバイスを。 AIチャットボットのChatGPTを開発したOpenAIが、Appleの伝説的デザイナーのジョナサン・アイブ氏と一緒に極秘ハードウェア開発か？という件に進展がありました。 OpenAIのサム・アルトマンCEOがインタビューの中で、AIデバイスへの興味があることを認めつつ、｢スマートフォンと競合するつもりはない｣と発言したんです。 ただ、最終的にはスマホの代わりになるようなものを生み出そうとしているのかもしれませんね。 まだどのアイデアも初期段階っぽい経済メディア、Insiderによれば、アルトマン氏はWall Street Journalのイベント、Tech Liveに登</description>
+    </item>
+    <item>
+      <title>GoogleがAIとGoogleマップを用いて赤信号での停止を30％減らすプロジェクト「Green Light」を進めている</title>
+      <link>https://gigazine.net/news/20231020-google-ai-reduce-stops-red-traffic-lights/</link>
+      <pubDate>2023/10/20 19:26</pubDate>
+      <description>GPT活用が当たり前になりましたが、メモの取り方も劇的に変わります。 ・専属AIとの会話の中でナレッジを記録 ・AIに聞けばいつでも過去の記録を呼び起こせる ・過去の記録に基づきAIが提案や示唆をくれる 今までメモ帳に書いていたアイデアはたくさんあるはず。 今後は自身のAIに向けてメモをつぶやいていくだけで、自分のナレッジを結集した独自のAIアシスタントが築けてしまうんです。 今回はその方法をご紹介します！ ※ 本記事は文中で紹介するサービス「miibo」を開発する、株式会社miiboの提供でお送りします。 成果物運用イメージはこんな感じです。 最近、ベクトルDB記録機能をつけたAIをmiiboで作って、 メモしたいことは全部AIに話しかけて覚えさせてる。 うろ覚えのことを会話で引き出せるし、メモをもとにした相談やTODOリスト作成なんかもできる。 もうちょい実験してニーズありそうだったら</description>
+    </item>
+    <item>
+      <title>【Amazon Bedrock】AWSサービスのみを使ったシンプル構成のRAGアプリを作ってみた - NRIネットコムBlog</title>
+      <link>https://tech.nri-net.com/entry/aws_bedrock_rag_app</link>
+      <pubDate>2023/10/19 22:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/85cb22d567263dc9779c8b743bae7ac42a68f05a/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1540%2F827%2F04.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>自称ぎゃるなのでGitHubも可愛くしたい‼️🥺💖</title>
+      <link>https://zenn.dev/risako070310/articles/1f0bc9f7544bb4</link>
+      <pubDate>2023/10/17 01:10</pubDate>
+      <description>Anthropicは10月16日、同社が公開するAIチャットボット「Claude 2」の公開範囲を日本を含む世界95の国と地域に拡大したことを明らかにした。 Anthropicは10月16日（現地時間）、同社が公開するAIチャットボット「Claude 2」の公開範囲を日本を含む世界95の国と地域に拡大したことを明らかにした。 リストにEU加盟国なし We’re rolling out access to https://t.co/RxKnLNNcNR to more people around the world. Starting today, users in 95 countries can talk to Claude and get help with their professional or day-to-day tasks. You can find the list of</description>
+    </item>
   </channel>
 </rss>
