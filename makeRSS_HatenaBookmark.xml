@@ -4078,5 +4078,11 @@
       <pubDate>2023/10/17 01:10</pubDate>
       <description>Anthropicは10月16日、同社が公開するAIチャットボット「Claude 2」の公開範囲を日本を含む世界95の国と地域に拡大したことを明らかにした。 Anthropicは10月16日（現地時間）、同社が公開するAIチャットボット「Claude 2」の公開範囲を日本を含む世界95の国と地域に拡大したことを明らかにした。 リストにEU加盟国なし We’re rolling out access to https://t.co/RxKnLNNcNR to more people around the world. Starting today, users in 95 countries can talk to Claude and get help with their professional or day-to-day tasks. You can find the list of</description>
     </item>
+    <item>
+      <title>最近観測されている DNS トンネリングのトラフィック</title>
+      <link>https://unit42.paloaltonetworks.jp/dns-tunneling-in-the-wild/</link>
+      <pubDate>2023/10/22 18:55</pubDate>
+      <description>自己紹介 こういう者です。 詳しくは固定ツイートをご覧ください。 Mojo🔥とは PythonのシンプルさとRustのスピードとメモリの安全性を組み合わせた、新しいプログラミング言語。 Pythonの35000倍速いとされており、Pythonの弱点である「遅さ」を補うと期待されている。また、書き方もPythonと似ているので移行もしやすいです。 そんな言語が2023年10月19日より、Appleシリコン搭載Macに対応したとのことで、早速触ってみました。 Mojoのセットアップ このページの案内に沿って進めるだけです。 ここでは僕が詰まった箇所も加えて解説します。 あ、環境構築にはそんなに詳しくないのでChatGPT大先生に聞きながら進めました。いつもありがとう。 ターミナルで使えるようにする 1. Homebrewのインストール HomebrewとはMacOS上で動作するパッケージ管理</description>
+    </item>
   </channel>
 </rss>
