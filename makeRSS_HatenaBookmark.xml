@@ -4204,5 +4204,17 @@
       <pubDate>2023/10/23 13:11</pubDate>
       <description>こんにちは。サイボウズ株式会社 生産性向上チームの平木場です。 僕たち生産性向上チームは毎週水曜日に Productivity Weekly という「1 週間の間に発見された開発者の生産性向上に関するネタを共有する会」を社内で開催しています。 本記事はその時のネタをまとめたものです。 2023-01-25 号から、基本的に隔週で連載することとしました。たまに単独でも投稿するかもしれません。 今週は 2023-10-11 単独号です。 今回が第 128 回目です。過去の記事はこちら。 news 📺 2023 State of DevOps Report | Google Cloud 2023 年版の State of DevOps Report が公開されました。 State of DevOps Report は Google の DevOps Research and Assessmen</description>
     </item>
+    <item>
+      <title>X(旧Twitter)がニューヨーク・タイムズのアカウントから突然「認証済み」バッジを削除したことが明らかに</title>
+      <link>https://gigazine.net/news/20231023-x-deprive-nyt-verify/</link>
+      <pubDate>2023/10/23 13:30</pubDate>
+      <description>2023 年版の State of DevOps Report が公開されました。 State of DevOps Report とは Google の DevOps Research and Assessment（DORA）チームが毎年公開している DevOps や開発生産性にまつわる年次レポートです。 本記事で、今年のレポートの概要を簡単に見ていきたいと思います。 主な調査結果 Goodhart の法則を理解し、パフォーマンス向上の落とし穴を避ける 開発組織のパフォーマンスを評価する際、メトリクスの設定や評価の方法には注意が必要であり、特に「Goodhartの法則」という考え方を知っておくことが大切であると述べられています。 Goodhartの法則とは、簡単に言うと「測定が目標となると、それは良い測定基準でなくなる」という法則です。 この法則を踏まえた、パフォーマンスの評価や向上のため</description>
+    </item>
+    <item>
+      <title>花王の入浴剤バブ「独自のイラストで生成AIではない」　無断使用との指摘にHPで説明 - 弁護士ドットコムニュース</title>
+      <link>https://www.bengo4.com/c_23/n_16657/</link>
+      <pubDate>2023/10/20 20:55</pubDate>
+      <description>Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensorRTを使用するための拡張機能で、RTXGPU上で最高のパフォーマンスで利用するためのものです。 その速度は超高速で、従来高速といわれていた手法よりさらに2倍以上も高速です！ どれだけ速いんだよって話ですよね。 今回は、Stable-Diffusion-WebUI-TensorRTの概要や使い方についてお伝えします。 是非最後までご覧ください！ なお弊社では、生成AIツールの開発について1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる Stable-Diffusion-WebUI-TensorRTの概要 Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensor</description>
+    </item>
   </channel>
 </rss>
