@@ -4216,5 +4216,11 @@
       <pubDate>2023/10/20 20:55</pubDate>
       <description>Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensorRTを使用するための拡張機能で、RTXGPU上で最高のパフォーマンスで利用するためのものです。 その速度は超高速で、従来高速といわれていた手法よりさらに2倍以上も高速です！ どれだけ速いんだよって話ですよね。 今回は、Stable-Diffusion-WebUI-TensorRTの概要や使い方についてお伝えします。 是非最後までご覧ください！ なお弊社では、生成AIツールの開発について1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる Stable-Diffusion-WebUI-TensorRTの概要 Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensor</description>
     </item>
+    <item>
+      <title>CEATEC 2023で高市大臣が基調講演、AI戦略を語り「マイ・ドラえもんの世界」にも期待を寄せる【CEATEC 2023】</title>
+      <link>https://internet.watch.impress.co.jp/docs/event/1540341.html</link>
+      <pubDate>2023/10/19 14:29</pubDate>
+      <description>国立情報学研究所（NII）は10月20日、パラメータ数130億の大規模言語モデル（LLM）「LLM-jp-13B」を公開した。初期段階のモデルだが、アカデミアや産業界の研究開発に資するため、コーパスやツールなどを含めてすべてオープンにする。 公開したLLMの学習データ量は合計約3000億トークン。うち日本語は約1450億トークン（mC4／Wikipedia）、英語は約1450億トークン（The Pile／Wikipedia）、プログラムコード約100億トークン。 計算資源としては、大学や研究機関が共同運営する仮想化環境・データ活用社会創成プラットフォーム「mdx」を12ノード活用。モデル構築にはMicrosoftのDeepSpeedを、モデル構築時の監視やログの保存には、モデル開発プラットフォームのWeights＆Biasesを利用した。 NIIが主宰するLLM勉強会（LLM-jp）で7月</description>
+    </item>
   </channel>
 </rss>
