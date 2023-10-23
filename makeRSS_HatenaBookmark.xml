@@ -4162,5 +4162,11 @@
       <pubDate>2023/10/20 09:59</pubDate>
       <description>対話型生成AIのChatGPTを提供するOpenAIのクローラーが、あまりよろしくない挙動をしているというのを見かけたので、WordPressのプラグインを用いてrobotsを記述し、OpenAIからのクローラーをブロックしてみたという話です。 OpenAIのクローラーの挙動がよろしくない？ 見かけたのはこちらのツイートです。 うちのサイト攻撃されてる？ と思ってUA見たらOpenAIからのクローラーだった。 自動BANされまくってるのに無尽蔵のIPアドレスで以ってゲートオブバビロン並みに四方八方から矢継ぎ早にアクセスし続けてくるの、宗旨替えして大嫌いになりそう。 Googleクローラーと違ってメリットもないし。 — バフェット・コード (@buffett_code) October 18, 2023 いずれにせよ学習用に利用されるだけで「Googleクローラーと違ってメリットもない」とい</description>
     </item>
+    <item>
+      <title>高速なPython互換言語「Mojo」のMac版登場、Appleシリコンにネイティブ対応。Pythonの9万倍、C言語に比肩する高速性</title>
+      <link>https://www.publickey1.jp/blog/23/pythonmojomacapplepython9c.html</link>
+      <pubDate>2023/10/23 00:14</pubDate>
+      <description>2023年10月17日に配信された「Game Ready ドライバー」のアップデートによりいくつかのゲームの起動時パフォーマンスが向上し、さらに画像生成AIのStable Diffusionが最大2倍速くなることが発表されました。 New Game Ready Driver Released: DLSS 3 For NARAKA: BLADEPOINT and Warhammer: Vermintide 2, Plus RTX Video Super Resolution Enhancements &amp;amp; Stable Diffusion Is Now Up To 2X Faster | GeForce News | NVIDIA https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-verminti</description>
+    </item>
   </channel>
 </rss>
