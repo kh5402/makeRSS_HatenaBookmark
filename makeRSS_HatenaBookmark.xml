@@ -4126,5 +4126,41 @@
       <pubDate>2023/10/22 11:32</pubDate>
       <description>By Ruian Duan and Daiping Liu October 16, 2023 at 1:38 AM Category: Malware Tags: Advanced URL Filtering, Cobalt Strike, Cortex XDR, Decoy Dog malware, DNS security, dns tunneling, DNSTT, FinCounter, next-generation firewall, VPN This post is also available in: English (英語) 概要 本稿は、DNS (ドメイン ネーム システム) のトンネリング技術が野生で (in the wild) どのような理由と方法で利用されているのかに関する研究をご紹介します。またこの研究結果に基づいて、トンネリング ドメインをツールやキャンペーン</description>
     </item>
+    <item>
+      <title>【BASE えふしん】「不満のほとんどは“視野の狭さ”から生じる」スーツとギークのすれ違いへの処方箋</title>
+      <link>https://levtech.jp/media/article/interview/detail_323/</link>
+      <pubDate>2023/10/23 10:07</pubDate>
+      <description>米Microsoftや米ペンシルベニア州立大学などに所属する研究者らは、複数のエージェントの会話を使用してさまざまな大規模言語モデルベースのアプリケーションを作成するためのフレームワークを提案する研究報告を発表した。</description>
+    </item>
+    <item>
+      <title>ブルゴーニュワインというジャンルが、すでに終わっていた。</title>
+      <link>https://blog.tinect.jp/?p=83797</link>
+      <pubDate>2023/10/23 08:11</pubDate>
+      <description>生成AIの安全性のリスクが懸念されるなか、日本での認証制度を作ろうと、関連企業が参加する新たな業界団体が設立されることになりました。企業が主体となって認証の仕組みを作ることで生成AIの活用を加速させるねらいがあるものと見られます。 関係者によりますと、新たな業界団体は「AIガバナンス協会」という名称で、それぞれの企業が開発・活用する生成AIについて、年内にもまとまる政府のガイドラインに基づいて安全性や正確性などの認証を付与する制度を作ることを目指します。 また、企業が共同で研究会などを作って知見を共有するほか、AIに関する制度の在り方について政府への提言を行うとしています。 業界団体には、生成AIの開発や活用を進めるNECやNTTデータ、日立製作所の子会社のほか、大手金融機関など合わせて19社が今のところ参加する見通しです。 早ければ来年4月に業界団体を設立し、認証制度を始めることを目指す</description>
+    </item>
+    <item>
+      <title>NVIDIAのドライバアップデートでStable Diffusionが2倍高速化</title>
+      <link>https://gigazine.net/news/20231022-nvidia-boosts-stable-diffusion-performance/</link>
+      <pubDate>2023/10/23 00:54</pubDate>
+      <description>深津 貴之 / THE GUILD / note @fladdict 何事も上達しない人、だいたいこんな感じな気がする。 1: やってない → ツイッターやってる時間のほうが多い 2: やるけどループ → 同じことのやっつけ再生産だけしてる 3: やるけど自己流 → 先人の積み上げにのらない 4: やるけどやりっぱなし → レビューやPDCAしない 5: やるけど本質行為が多い → 準備・片付けとか周辺が重くて、打席に立つ回数が実は少ない 2023-10-22 18:34:11 深津 貴之 / THE GUILD / note @fladdict 一番定番のスクールの決定版カリキュラムの授業とかを、完璧にやって、空気のようにできるようになったら、例外や禁止事項や周辺事項を探索しながら、取り込んでいって、自分が空気のようにできる領域を拡張する…みたいのが大事なんじゃないかと思う 2023-1</description>
+    </item>
+    <item>
+      <title>Google、イーサネットをさらに高速にするハードウェア支援型の新トランスポート技術「Falcon」を公開</title>
+      <link>https://www.publickey1.jp/blog/23/googlefalcon.html</link>
+      <pubDate>2023/10/23 00:13</pubDate>
+      <description>Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensorRTを使用するための拡張機能で、RTXGPU上で最高のパフォーマンスで利用するためのものです。 その速度は超高速で、従来高速といわれていた手法よりさらに2倍以上も高速です！ どれだけ速いんだよって話ですよね。 今回は、Stable-Diffusion-WebUI-TensorRTの概要や使い方についてお伝えします。 是非最後までご覧ください！ なお弊社では、生成AIツールの開発について1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる Stable-Diffusion-WebUI-TensorRTの概要 Stable-Diffusion-WebUI-TensorRTは、Stable-Diffusion-WebUIでTensor</description>
+    </item>
+    <item>
+      <title>ジェネレーティブAI、2023年の求人数は7か月で33倍増加 フリーランス含む労働市場に大きな影響 | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/10/22/ai-freelance/</link>
+      <pubDate>2023/10/22 08:37</pubDate>
+      <description>ちょっと前ぐらいから将来人工知能が発展したら人間の代わりに労働を代替するので人は働かなくて良くなるとか、AIが代わりに働くようになるので社会インフラが無料になって紙幣自体が要らなくなるみたいな論を結構聞いたし、たまに何処かの政党とかがbasic income導入とかを公約に掲げてたり、海外の国では実験的に一部の村でbasic incomeを導入する実験をしたりあったけど、未だにbasic incomeが導入される話なんて聞かないけど、一体いつになるんだろう？ AIが働くようになってただ失業者の数が増えるだけだったら何のメリットもないやん？ なんだかんだ言ってbasic incomeは導入されずにこの先何十年も働き続ける羽目になりそう。</description>
+    </item>
+    <item>
+      <title>30分で完全理解するTransformerの世界</title>
+      <link>https://zenn.dev/zenkigen_tech/articles/2023-01-shimizu</link>
+      <pubDate>2023/10/20 09:59</pubDate>
+      <description>対話型生成AIのChatGPTを提供するOpenAIのクローラーが、あまりよろしくない挙動をしているというのを見かけたので、WordPressのプラグインを用いてrobotsを記述し、OpenAIからのクローラーをブロックしてみたという話です。 OpenAIのクローラーの挙動がよろしくない？ 見かけたのはこちらのツイートです。 うちのサイト攻撃されてる？ と思ってUA見たらOpenAIからのクローラーだった。 自動BANされまくってるのに無尽蔵のIPアドレスで以ってゲートオブバビロン並みに四方八方から矢継ぎ早にアクセスし続けてくるの、宗旨替えして大嫌いになりそう。 Googleクローラーと違ってメリットもないし。 — バフェット・コード (@buffett_code) October 18, 2023 いずれにせよ学習用に利用されるだけで「Googleクローラーと違ってメリットもない」とい</description>
+    </item>
   </channel>
 </rss>
