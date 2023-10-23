@@ -4240,5 +4240,23 @@
       <pubDate>2023/10/23 20:29</pubDate>
       <description>カリフォルニア州アルデマンにあるIBM研究所が、前身のチップと合わせると20年かけて研究してきたという新タイプのデジタルチップ「NorthPole」の存在が明らかになりました。開発陣のダルメンドラ・モーダ氏によると、脳の計算方法からインスピレーションを得ることで、コンピューターチップの基本構造を改めたとのことです。 Neural inference at the frontier of energy, space, and time | Science https://www.science.org/doi/10.1126/science.adh1174 IBM Research&amp;#39;s new NorthPole AI chip | IBM Research Blog https://research.ibm.com/blog/northpole-ibm-ai-chip ‘Mind-blow</description>
     </item>
+    <item>
+      <title>「Azure OpenAI Serviceリファレンスアーキテクチャ」活用の最初の一歩　リリースレベルのLLMアプリに必要な検討項目とは</title>
+      <link>https://logmi.jp/tech/articles/329521</link>
+      <pubDate>2023/10/23 16:56</pubDate>
+      <description>画像生成AI「Midjourney」をアニメ風二次元イラストに特化させたモデル「niji・journey(にじジャーニー)」のスマホ向けアプリがiOSとAndroid向けに、2023年10月18日に正式リリースされました。スマートフォン上で高品質なアニメイラストをさくっと生成できるとのことで、実際に試してみました。 niji・journey on the App Store https://apps.apple.com/us/app/niji-journey/id6446376937 niji・journey - Google Play のアプリ https://play.google.com/store/apps/details?id=com.spellbrush.nijijourney 今回はiOS版を試してみました。App Storeで「入手」をタップしてインストールしました。 起動</description>
+    </item>
+    <item>
+      <title>IBMが合計20年かけて開発した「NorthPole」チップの存在が明らかに、脳にインスパイアされた設計でAIの高速化が可能</title>
+      <link>https://gigazine.net/news/20231023-ibm-northpole-chip/</link>
+      <pubDate>2023/10/23 17:03</pubDate>
+      <description>本記事では、Turing のサマーインターンでの成果を紹介します。2 週間のサマーインターンで、自動運転のための Visual Question Answering データセット・AutoScenesQA の作成を行いました。 AutoScenesQA は、手作業によるアノテーションではなく、LLM(GPT 3.5)とルールベースのロジックを活用し、完全に自動で作成されています. 今回作成した AutoScenesQA は、nuScenesという自動運転用のデータセットをベースとしており、「車載カメラから撮影した 6 方向の画像(1 フレーム)」と「その画像に対応した QA のペア」で構成されています。自動生成した QA の総数は全部で約 280 万件です。 本記事では、AutoScenesQA とその作成方法に関して詳しく紹介します。 自動運転と Visual Question Answ</description>
+    </item>
+    <item>
+      <title>ChatGPTにスイカゲームを作らせる方法【ずんだもん解説】</title>
+      <link>https://www.youtube.com/watch?v=iUAzL_1f8ZE</link>
+      <pubDate>2023/10/11 02:54</pubDate>
+      <description>10月18日、ヤマハがVOCALO CHANGER PLUGIN（ボカロ・チェンジャー・プラグイン）なるWindows/Mac用のVST3およびAudioUnits対応のプラグインのダウンロード販売を開始しました。これは人が歌った歌声をVOCALOIDの合成音声に変換することができるプラグイン。打ち込みを必要とせず、より簡単にVOCALOIDの歌声を作ることができるユニークなプラグインです。昨年発売されたVOCALOID6に搭載されていたVOCALO CHANGERという機能をプラグインとして切り出した格好ですが、単なる切り出しではなく、リアルタイムでの変換が可能になったり、操作可能なパラメータが追加されるなど、かなりパワーアップしたソフトとなっています。 価格は22,000円（税込）で、VOCALOIDユーザーであれば、クロスグレード版（※対象商品は記事最後に記載）を11,000円で購入</description>
+    </item>
   </channel>
 </rss>
