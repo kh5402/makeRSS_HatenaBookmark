@@ -4120,5 +4120,11 @@
       <pubDate>2023/10/23 00:51</pubDate>
       <description>Google、イーサネットをさらに高速にするハードウェア支援型の新トランスポート技術「Falcon」を公開 Googleは、イーサネットでさらなる高速通信を実現するハードウェア支援型の新しいトランスポートレイヤの技術「Falcon」を、米カリフォルニア州サンノゼで開催されたデータセンター向けハードウェアを対象としたイベント「2023 OCP Global Summit」で発表したことを明らかにしました。 AIや機械学習のような大規模かつ高速性を要求される処理が増え続けるデータセンターにおいて、より高速なネットワーク技術への要求も高まっています。Falconはこうしたニーズに対応するための技術だと説明されました。 Falconは複数の技術の集合体 Falconは複数の技術の集合体となっており、ハードウェア支援型トランスポートレイヤーとして信頼性、高性能、低レイテンシーを実現するよう設計されて</description>
     </item>
+    <item>
+      <title>llama2のpretrainingを試す</title>
+      <link>https://zenn.dev/if001/articles/6c507e15cd958b</link>
+      <pubDate>2023/10/22 11:32</pubDate>
+      <description>By Ruian Duan and Daiping Liu October 16, 2023 at 1:38 AM Category: Malware Tags: Advanced URL Filtering, Cobalt Strike, Cortex XDR, Decoy Dog malware, DNS security, dns tunneling, DNSTT, FinCounter, next-generation firewall, VPN This post is also available in: English (英語) 概要 本稿は、DNS (ドメイン ネーム システム) のトンネリング技術が野生で (in the wild) どのような理由と方法で利用されているのかに関する研究をご紹介します。またこの研究結果に基づいて、トンネリング ドメインをツールやキャンペーン</description>
+    </item>
   </channel>
 </rss>
