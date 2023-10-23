@@ -4222,5 +4222,17 @@
       <pubDate>2023/10/19 14:29</pubDate>
       <description>国立情報学研究所（NII）は10月20日、パラメータ数130億の大規模言語モデル（LLM）「LLM-jp-13B」を公開した。初期段階のモデルだが、アカデミアや産業界の研究開発に資するため、コーパスやツールなどを含めてすべてオープンにする。 公開したLLMの学習データ量は合計約3000億トークン。うち日本語は約1450億トークン（mC4／Wikipedia）、英語は約1450億トークン（The Pile／Wikipedia）、プログラムコード約100億トークン。 計算資源としては、大学や研究機関が共同運営する仮想化環境・データ活用社会創成プラットフォーム「mdx」を12ノード活用。モデル構築にはMicrosoftのDeepSpeedを、モデル構築時の監視やログの保存には、モデル開発プラットフォームのWeights＆Biasesを利用した。 NIIが主宰するLLM勉強会（LLM-jp）で7月</description>
     </item>
+    <item>
+      <title>自動運転のための大規模なVisual QAデータセット・AutoScenesQAの作成</title>
+      <link>https://zenn.dev/turing_motors/articles/64936f88ba720e</link>
+      <pubDate>2023/10/23 18:10</pubDate>
+      <description>X(旧Twitter)では、一部の企業アカウントに対して、金色の認証済みバッジ(チェックマーク)を付与しています。しかしXが、アメリカの新聞社ニューヨーク・タイムズが保有するアカウントから認証済みバッジを2023年10月17日に削除したことが報告されています。 Elon Musk’s X removes New York Times verification in new sign of conflict - The Washington Post https://www.washingtonpost.com/technology/2023/10/19/x-twitter-nyt-dispute-musk/ Silicon Valley Ditches News, Shaking an Unstable Industry - The New York Times https://www.n</description>
+    </item>
+    <item>
+      <title>グーグル社員、Bardの有用性と投入された資金の多さを疑問視</title>
+      <link>https://www.businessinsider.jp/post-276825</link>
+      <pubDate>2023/10/23 08:14</pubDate>
+      <description>【BASE えふしん】「不満のほとんどは“視野の狭さ”から生じる」スーツとギークのすれ違いへの処方箋 2023年10月23日 BASE株式会社 上級執行役員 SVP of Development 藤川 真一 Web制作のベンチャーを経て、2006年にGMOペパボ株式会社に入社。2007年から携帯向けTwitterクライアント「モバツイ」の開発・運営を個人で開始し、その後法人化。2014年8月、BASE株式会社 取締役CTOに就任。2021年3月から上級執行役員SVP of Development ネット上に飛び交う、エンジニアやエンジニアと関わるビジネスサイドのグチや不満。そんな悩める彼らに丁寧かつ飾り気のない言葉でアドバイスを贈る人がいます。ネットショップ作成サービス「BASE」等を運営するBASE株式会社の上級執行役員であり、現在SVP of Developmentを務める「えふしん」</description>
+    </item>
   </channel>
 </rss>
