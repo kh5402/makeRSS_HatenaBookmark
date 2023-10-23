@@ -4258,5 +4258,17 @@
       <pubDate>2023/10/11 02:54</pubDate>
       <description>10月18日、ヤマハがVOCALO CHANGER PLUGIN（ボカロ・チェンジャー・プラグイン）なるWindows/Mac用のVST3およびAudioUnits対応のプラグインのダウンロード販売を開始しました。これは人が歌った歌声をVOCALOIDの合成音声に変換することができるプラグイン。打ち込みを必要とせず、より簡単にVOCALOIDの歌声を作ることができるユニークなプラグインです。昨年発売されたVOCALOID6に搭載されていたVOCALO CHANGERという機能をプラグインとして切り出した格好ですが、単なる切り出しではなく、リアルタイムでの変換が可能になったり、操作可能なパラメータが追加されるなど、かなりパワーアップしたソフトとなっています。 価格は22,000円（税込）で、VOCALOIDユーザーであれば、クロスグレード版（※対象商品は記事最後に記載）を11,000円で購入</description>
     </item>
+    <item>
+      <title>しゃべり方から数秒で2型糖尿病かどうかを見抜けるAIが登場</title>
+      <link>https://gigazine.net/news/20231023-ai-can-screen-for-type-2-diabetes/</link>
+      <pubDate>2023/10/23 12:16</pubDate>
+      <description>X(旧Twitter)では、一部の企業アカウントに対して、金色の認証済みバッジ(チェックマーク)を付与しています。しかしXが、アメリカの新聞社ニューヨーク・タイムズが保有するアカウントから認証済みバッジを2023年10月17日に削除したことが報告されています。 Elon Musk’s X removes New York Times verification in new sign of conflict - The Washington Post https://www.washingtonpost.com/technology/2023/10/19/x-twitter-nyt-dispute-musk/ Silicon Valley Ditches News, Shaking an Unstable Industry - The New York Times https://www.n</description>
+    </item>
+    <item>
+      <title>「ポケモンカード、こうしたら売れやすくなるよ」などを提案　メルカリ、AIアシスタント実装へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/17/news105.html</link>
+      <pubDate>2023/10/17 14:00</pubDate>
+      <description>【警告】 私は専門家ではありません！！！ なにかトラブルが起きても責任は取れません！！！ もし試す場合は自己責任でお願いします！！！ また、今回の記事は若干むずかしめな内容を含んでいます！！！ 途中で動悸や眩暈が生じた場合は速やかにページを閉じてください！！！ 今回はみんな大好き Stable Diffusion web UI を高速化する TensorRT という機能を使えるようになる拡張機能の説明です なお、なんか結構まだ親切じゃない気がするので 好奇心旺盛な人と速度命な人以外は試さない方がいいかもです 試してもいいけどね！ 公式のサポートページはこちらにあります で、何？どんなもん？めちゃくちゃ適当な説明をすると、 普通のモデルをあなたの環境と決められた生成条件に合わせた専用のモデルに変換することで効率が上がってめっちゃ処理が早くなる みたいな感じです多分。しらんけど 簡単な話ですね</description>
+    </item>
   </channel>
 </rss>
