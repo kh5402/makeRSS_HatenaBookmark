@@ -4288,5 +4288,26 @@
       <pubDate>2023/10/18 22:25</pubDate>
       <description>はじめに 初めまして。ZENKIGENデータサイエンスチームのはまなすです。正式な所属はDeNAデータ本部AI技術開発部なのですが[1]、業務委託という形で今年度から深層学習系の開発等に携わっています。 深層学習界隈では、2017年に衝撃的なタイトル（Attention Is All You Need）の論文が発表されてから早5年半、元出自の機械翻訳タスクを大きく越えて、Transformer関連の技術が様々な領域で用いられる汎用アーキテクチャとして目覚ましく発展し続けています。 今回はそんなTransformerが現時点までにどのように活用されてきたか、また、どのように工夫されてきたかをざっくりと俯瞰し、流れをおさらいする目的の記事になります。本記事の大枠は、2021年時点でのサーベイ論文である A Survey of Transformers に倣いつつ、適宜、2023年2月上旬現在ま</description>
     </item>
+    <item>
+      <title>総合運用管理ソフトウェア「Hinemos」における生成AIを用いた運用自動化・効率化の実証実験を開始 | NTTデータ先端技術株式会社</title>
+      <link>https://www.intellilink.co.jp/topics/news_release/2023/102300.aspx</link>
+      <pubDate>2023/10/23 22:56</pubDate>
+      <description>対話型AIのChatGPTに完全統合された画像生成AI「DALL-E 3」をテストしているユーザーが、ChatGPTとDALL-E 3の間でやりとりされていると思しき内部プロンプトを発見しました。このプロンプトには「Please」という単語や大文字で書かれた文章が見つかったため、「AIに何か指示するときには大文字や丁寧語が有効なのでは？」とのうわさが立ち始めています。 Thanks to AI, the future of programming may involve YELLING IN ALL CAPS | Ars Technica https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/</description>
+    </item>
+    <item>
+      <title>人は「2つのものに繋がり」を感じると可愛いと思ってしまうと判明！ - ナゾロジー</title>
+      <link>https://nazology.net/archives/136966</link>
+      <pubDate>2023/10/23 12:27</pubDate>
+      <description>真のサーバーレスアーキテクチャについて語り、最新のエッジコンピューティングや生成系AIのサーバーレス実装を学び、クラウドネイティブで高速な開発プラクティスと向き合う2日間「ServerlessDays Tokyo 2023」。ここで登壇したのは、日本マイクロソフト株式会社の坂部氏。LLMアプリ開発における、「Azure OpenAI Serviceリファレンスアーキテクチャ」の活用について発表しました。 登壇者の自己紹介とアジェンダ紹介 坂部広大氏：「Azure OpenAI Serviceリファレンスアーキテクチャからみる、本番システムレベルのLLMアプリに必要な検討項目の解説」というテーマで、日本マイクロソフトの坂部と申します。時間としては25分、お付き合いいただければと思います。それではよろしくお願いします。 （会場拍手） 「このセッションでわかることと、話さないこと」ですね。今回の</description>
+    </item>
+    <item>
+      <title>「AIを使って英語から日本語に音声翻訳してみた」AI音声翻訳のクオリティがすごいと話題に、口の動きもほぼ完璧に再現【HeyGen】</title>
+      <link>https://togetter.com/li/2245589</link>
+      <pubDate>2023/10/22 20:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c8c8d4d26f9b6023ebd7325c27b19a69a443e7c4/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1539%2F313%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
