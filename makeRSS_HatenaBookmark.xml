@@ -4198,5 +4198,11 @@
       <pubDate>2023/10/20 17:09</pubDate>
       <description>個人開発としてOpen-Interpreterは、この生成AIブームの中、多くの開発者にインパクトを与えています。 今まで出来れば良かったと思っていた、アイデアからプログラム作成、実行まで実施してくれるフリーツールの一つだからです。 Open-Interpreterのハッカーソンが行われていましたので、今回はその作品群を眺めていきます。 Open-Interpreter作成者もハッカーソンの審査員として登場しています。 今回は、Open-Intepreterを使用したプログラムをいくつかピックアップして紹介していきます。 Open-Sourcere 2600 Books Sorted for Multi-Agent Creation Electerpreter Open-Interpreter Electron APP CodeBaseBuddy AISmartTask Open Inte</description>
     </item>
+    <item>
+      <title>State of DevOps Report 2023 のまとめ</title>
+      <link>https://zenn.dev/cybozu_ept/articles/c0ad1f13cb8d72</link>
+      <pubDate>2023/10/23 13:11</pubDate>
+      <description>こんにちは。サイボウズ株式会社 生産性向上チームの平木場です。 僕たち生産性向上チームは毎週水曜日に Productivity Weekly という「1 週間の間に発見された開発者の生産性向上に関するネタを共有する会」を社内で開催しています。 本記事はその時のネタをまとめたものです。 2023-01-25 号から、基本的に隔週で連載することとしました。たまに単独でも投稿するかもしれません。 今週は 2023-10-11 単独号です。 今回が第 128 回目です。過去の記事はこちら。 news 📺 2023 State of DevOps Report | Google Cloud 2023 年版の State of DevOps Report が公開されました。 State of DevOps Report は Google の DevOps Research and Assessmen</description>
+    </item>
   </channel>
 </rss>
