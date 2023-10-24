@@ -4462,5 +4462,29 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fef41185313ea187f1631bcc94303200b00cdf23/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1541%2F249%2FH00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>「LIPS AI バーチャルビューティーアドバイザー」開発で発生した諸問題をどう解決したか　回答の質向上には「OpenAI Playground」、見積り精度向上にはユーザーへの先行公開を活用</title>
+      <link>https://logmi.jp/tech/articles/329513</link>
+      <pubDate>2023/10/24 11:10</pubDate>
+      <description>シカゴ大学の研究チームがAIによる画像学習を防止するツール「Nightshade」を開発しています。Nightshadeを用いて画像を処理すると画像の見た目を大きく変えずにAIによる学習を阻害することが可能とのことです。 Meet Nightshade, the new tool allowing artists to &amp;#39;poison&amp;#39; AI models | VentureBeat https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/ 画像生成AIの研究が急速に進む中、画像生成AIの学習に自身の作品を使われたくない人のために「画像に人間の目では気付きにくい変更を加えてAIの学習を阻害する」という方式</description>
+    </item>
+    <item>
+      <title>群馬・高崎市、生成AIの業務利用を11月に本格開始へ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCC231C20T21C23A0000000/</link>
+      <pubDate>2023/10/24 06:13</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。10月16日（月）〜10月22日（日）〔2023年10月第4週〕のトップ30です*1。 順位 タイトル 1位 市町村変遷パラパラ地図 2位 23/10/21 就活に苦しむインテリの学生に社会の真実を教える - LWのサイゼリヤ 3位 新NISAで選ぶべき投資信託は｢アレ｣1本でいい タイミングを見きわめるのはプロでも不可能 | 最新の週刊東洋経済 | 東洋経済オンライン 4位 ASCII.jp：画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている (1/3) 5位 きちんと休むことが、「高度な技術」であることを多くの人は知らない：ビジネス著者が語る、リーダーの仕事術（1/2 ページ） - ITmedia エグゼクティブ 6位 Gmail</description>
+    </item>
+    <item>
+      <title>EdgeのCopilot『ページの概要を生成する』に注意。閲覧データがMicrosoftに送信されることを認識した上での利用を | ニッチなPCゲーマーの環境構築Z</title>
+      <link>https://www.nichepcgamer.com/archives/microsoft-edge-copilot-generate-page-summary.html</link>
+      <pubDate>2023/10/23 20:31</pubDate>
+      <description>ML監視は従来のソフトウェア開発の監視要素に加え、モデルや予測値、データに関する監視が必要とされています。 監視の優先順位 上述のようにML監視項目は数多くあり、いきなり全ての監視項目を導入するのは難しいです。 クラウドベンダー各社のMLOpsの成熟度モデル [3]のように、ML監視も段階的に取り組んでいくことが望ましいと言えます。 A Comprehensive Guide on How to Monitor Your Models in Productionの記事ではGoogleのMLOps成熟度モデルに合わせた監視項目を取り上げています。 引用: A Comprehensive Guide on How to Monitor Your Models in Production [4] EVIDENTLY AIが公開してるMonitoring ML systems in product</description>
+    </item>
+    <item>
+      <title>LLMにベートーヴェンなど特定の人物の行動や感情を模倣させる、イタコのような技術『Character-LLM（キャラクターLLM）』 | AIDB</title>
+      <link>https://aiboom.net/archives/57223</link>
+      <pubDate>2023/10/23 20:28</pubDate>
+      <description>独占禁止法違反の疑いで、米グーグルの調査を開始することについて記者会見する公正取引委員会の中島菜子デジタルプラットフォーマー上席（左）。右は田辺治審査局長＝東京都千代田区で2023年10月23日午後3時35分、三浦研吾撮影 インターネットの検索サービスで圧倒的なシェアを握る米グーグルに対し、公正取引委員会の調査のメスが入った。「生成AI（人工知能）」の急速な進化が背景にあり、欧米でも規制に向けた動きが進む。 メーカー契約、実態解明なるか 調査の対象となるのは、グーグルのOS（基本ソフト）を搭載したアンドロイドのスマートフォンを購入した際、あらかじめインストールされホーム画面に配置された「グーグルクローム」や「グーグルサーチ」といったアプリだ。 グーグルの検索機能を使いたいユーザーにとっては便利な面もあるが、アンドロイドのスマホに搭載される検索アプリがグーグルに固定化されると、他の事業者が生</description>
+    </item>
   </channel>
 </rss>
