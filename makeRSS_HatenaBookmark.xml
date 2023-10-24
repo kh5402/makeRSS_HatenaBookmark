@@ -4309,5 +4309,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c8c8d4d26f9b6023ebd7325c27b19a69a443e7c4/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1539%2F313%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>俺、癌が見つかって。それで色々話し合った結果、離婚することにしたの。</title>
+      <link>https://blog.tinect.jp/?p=83818</link>
+      <pubDate>2023/10/24 08:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fef41185313ea187f1631bcc94303200b00cdf23/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1541%2F249%2FH00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIチャットボットは医療を改善する可能性があるが人種差別を増幅させる恐れもある</title>
+      <link>https://gigazine.net/news/20231024-ai-chatbot-propagate-race-based-medicine/</link>
+      <pubDate>2023/10/24 06:11</pubDate>
+      <description>Amazon ConnectとKinesis Video Streamsを利用した音声データの録音と保存（「留守番電話」や「AIチャットボット」で利用） はじめに Amazon Connectでエージェントが介在しない「留守番電話」や「AIチャットボット」で録音したい場合、Kinesis Video Streams（以降、KVS）経由でAWS Lambdaを使い音声データの録音と保存する方法をまとめました。 Amazon Connectでは、下記のコンタクフローのブロックで録音できますが、録音条件は、顧客とエージェントが繋がってからのみ録音されます。 エージェントが介在しない、「留守番電話」やAmazon Lexと組み合わせた「AIチャットボット」の場合、録音機能は利用できません。 解決策として、コンタクフロー内で「メディアストリーミングの開始」というブロックを利用し、KVSにメディアデー</description>
+    </item>
+    <item>
+      <title>生成AIの利用拡大で、今後6年間でハイパースケールデータセンター全体の能力が現在の約3倍に達する。Synergey Research Groupの予測</title>
+      <link>https://www.publickey1.jp/blog/23/ai63synergey_research_group.html</link>
+      <pubDate>2023/10/24 07:18</pubDate>
+      <description>NTTデータ先端技術株式会社（本社：東京都中央区、代表取締役社長：藤原 遠、以下：NTTデータ先端技術）は2023年12月31日まで、統合運用管理ソフトウェア「Hinemos」の生成AIを用いた運用自動化・効率化を推進する実証実験を行います。 生成AIを使用し、過去の設計ナレッジやインシデント情報、ITシステムの稼働情報といった蓄積データを最大限に運用に活用するAIドリブン運用により、迅速性、生産性の向上が見込めます。これまでも、HinemosではITシステムから発生したイベントから対応不要なイベントをAIで判別し、その80%を削減させイベント対応業務を効率化・自動化できる検証結果を得ています。本実証実験では、さらに生成AI（ChatGPT）活用により自動化サイクルの効率化が図れる事を検証します。従来、専門知識が必要だった運用の自動化に必要な設定・ルール生成を、生成AI活用により自然言語で</description>
+    </item>
+    <item>
+      <title>かつて｢世界シェア5割｣を誇った日本の半導体は､なぜ台湾・韓国に後れをとるようになったのか TSMC熊本工場のチャンスを政府は逃してはならない</title>
+      <link>https://president.jp/articles/-/75040</link>
+      <pubDate>2023/10/23 09:39</pubDate>
+      <description>AIと音声技術を組み合わせることで、2型糖尿病を高精度で判別する手法をカナダの医療スタートアップであるKlick Healthの研究所・Klick Labsが開発しました。このモデルによる病気の検出精度は女性で89％、男性で86％だとのことで、論文は「Mayo Clinic Proceedings: Digital Health」に掲載されています。 Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments - Mayo Clinic Proceedings: Digital Health https://www.mcpdigitalhealth.org/article/S2949-7612(23)00073-1/fulltext AI and</description>
+    </item>
   </channel>
 </rss>
