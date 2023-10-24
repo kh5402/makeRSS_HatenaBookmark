@@ -4366,5 +4366,29 @@
       <pubDate>2023/10/22 08:06</pubDate>
       <description>Jim Spencer - Iowa Tesla Guy @iowateslaguy This is wild. Used AI to translate this from English to Japanese. It changed my mouth to match the Japanese. Anyone know if the translation is good? pic.twitter.com/wpVC6zbCl8 2023-10-21 10:55:49</description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2023年10月第4週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/10/24/115605</link>
+      <pubDate>2023/10/24 11:56</pubDate>
+      <description>ML監視は従来のソフトウェア開発の監視要素に加え、モデルや予測値、データに関する監視が必要とされています。 監視の優先順位 上述のようにML監視項目は数多くあり、いきなり全ての監視項目を導入するのは難しいです。 クラウドベンダー各社のMLOpsの成熟度モデル [3]のように、ML監視も段階的に取り組んでいくことが望ましいと言えます。 A Comprehensive Guide on How to Monitor Your Models in Productionの記事ではGoogleのMLOps成熟度モデルに合わせた監視項目を取り上げています。 引用: A Comprehensive Guide on How to Monitor Your Models in Production [4] EVIDENTLY AIが公開してるMonitoring ML systems in product</description>
+    </item>
+    <item>
+      <title>“2周遅れ”日本のGoogle調査　「生成AI進化」公取委危機感 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20231023/k00/00m/020/339000c</link>
+      <pubDate>2023/10/24 07:58</pubDate>
+      <description>SNS上などに投稿されたコンテンツをもとに個人を特定する「特定班」。生成AIの登場でより手軽に特定行動が可能になる世界が現実になろうとしている。 チューリヒ工科大学のマルティン・ヴェチェフ教授が率いる研究チームの実験では、主要LLM（大規模言語モデル）の精度は、人間の場合に対して平均で85％に達した。 現時点で有効な技術的対策はなく、LLMを開発する企業の良心や、ユーザーの注意力に期待するしかないのが現状だ。 （小林 啓倫：経営コンサルタント） 何げない投稿にご用心 ネットにはさまざまなスラングがある。「特定班」もそのひとつだ。これは文字通り「何かを特定する人々」という意味だが、ネットスラングとしては特に、「ある人物が行った些細な書き込みや発言、写真の投稿などからその人物の個人情報を割り出そうとする人々」を指す。 ターゲットとなるのは何らかの理由で炎上している人物で、「だから個人情報を暴露</description>
+    </item>
+    <item>
+      <title>AIが仕事を奪うと心配している人へ…Excelの歴史があなたに勇気を与えるだろう</title>
+      <link>https://www.businessinsider.jp/post-276716</link>
+      <pubDate>2023/10/23 12:32</pubDate>
+      <description>対話型AIのChatGPTに完全統合された画像生成AI「DALL-E 3」をテストしているユーザーが、ChatGPTとDALL-E 3の間でやりとりされていると思しき内部プロンプトを発見しました。このプロンプトには「Please」という単語や大文字で書かれた文章が見つかったため、「AIに何か指示するときには大文字や丁寧語が有効なのでは？」とのうわさが立ち始めています。 Thanks to AI, the future of programming may involve YELLING IN ALL CAPS | Ars Technica https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/</description>
+    </item>
+    <item>
+      <title>辞書編纂者・飯間浩明氏「辞書はあくまで実用書。お墨付きを与える権限はありません」｜注目の人 直撃インタビュー</title>
+      <link>https://www.nikkan-gendai.com/articles/view/life/330824</link>
+      <pubDate>2023/10/23 13:36</pubDate>
+      <description>私たちの「かわいい」という感覚はどこから生じているのでしょうか？ 一般的には見た目（形状や装飾）から大きな影響を受けていることは理解できます。 しかし、それ以外にも要因はあるでしょうか？ ATRインタラクション科学研究所に所属する塩見 昌裕氏ら研究チームは、複数のロボットを使用した研究で、1台よりも2台並んでいる画像の方がかわいいと感じられ、対象間のつながりが見えると、よりかわいいと感じられることを明らかにしました。 対象自体に変化がなくとも、配置の仕方だけで「かわいい」という感覚の強さが変化するのは非常に興味深い報告です。 研究の詳細は、2023年10月18日付の科学誌『PLOS ONE』に掲載されました。 目次 見た目以外で「かわいい」と感じてもらうつながりのある2台のロボットが最も「かわいい」 見た目以外で「かわいい」と感じてもらう 「かわいい」とは、対象に対する情愛や愛着を表現した</description>
+    </item>
   </channel>
 </rss>
