@@ -4336,5 +4336,29 @@
       <pubDate>2023/10/23 09:39</pubDate>
       <description>AIと音声技術を組み合わせることで、2型糖尿病を高精度で判別する手法をカナダの医療スタートアップであるKlick Healthの研究所・Klick Labsが開発しました。このモデルによる病気の検出精度は女性で89％、男性で86％だとのことで、論文は「Mayo Clinic Proceedings: Digital Health」に掲載されています。 Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments - Mayo Clinic Proceedings: Digital Health https://www.mcpdigitalhealth.org/article/S2949-7612(23)00073-1/fulltext AI and</description>
     </item>
+    <item>
+      <title>DynalystのML監視の取り組み事例 | CyberAgent Developers Blog</title>
+      <link>https://developers.cyberagent.co.jp/blog/archives/44138/</link>
+      <pubDate>2023/10/24 09:19</pubDate>
+      <description>わたしには割とガサツというか、お行儀が悪いところがある。 そのうちのひとつが、割とどこにでもあぐらをかいて座り込んでしまう癖である。 先日、深夜のコンビニに煙草を買いに行った時。 真夏の暑さが少し和らいで、夜風が涼しかった。 人気のない郊外のコンビニの駐車場。わたしは座り込んで1本の煙草に火をつけた。 夜風と懐かしい感覚 日中なら、コンビニの建物の裏、周囲に人がいない場所で1本吸ったりする。 しかし夜風が心地よいのと少し酔っていたこともあり、わたしはそのまま寝転がってみた。 硬いアスファルトの上。満天の星空などではないが、しかしどこか懐かしい感じがしてぼんやりと空を見上げていた。そのままうたた寝しそうになったくらい心地よかった。 そしてふと思い出した。 あの時、 夫婦「だった」ふたりはいま、どうしているのだろうか。 夫「だった」人は、まだこの世にいるのだろうか。 憂さ晴らしをしたかった夜</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 遂にRTX 4090導入♪1秒で画像生成できる爆速に驚愕！AIサーバーを組む【ソフトウェア編】</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1541249.html</link>
+      <pubDate>2023/10/24 06:46</pubDate>
+      <description>スタンフォード大学の研究者らの調査により、AIチャットボットによって、有害で不正確な人種差別が増幅される可能性があることが明らかになりました。 Large language models propagate race-based medicine | npj Digital Medicine https://www.nature.com/articles/s41746-023-00939-z AI chatbots in health care could worsen disparities for Black patients, study cautions | AP News https://apnews.com/article/ai-chatbots-racist-medicine-chatgpt-bard-6f2a330086acd0a1f8955ac995bdde4d 博士研究</description>
+    </item>
+    <item>
+      <title>Amazon ConnectとKinesis Video Streamsを利用した音声データの録音と保存（「留守番電話」や「AIチャットボット」で利用） | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-connect-kinesis-video-stream-recording/</link>
+      <pubDate>2023/10/24 07:32</pubDate>
+      <description>調査会社のSynergey Research Groupは、生成AIの利用が拡大することにより今後6年間でそれを支える大規模データセンター、いわゆるハイパースケールデータセンター全体の能力は、現在のそれの約3倍に達するとの予測を明らかにしました。 ハイパースケールデータセンターとは一般に数千台以上のサーバが稼働する大規模なデータセンターを指します。 ハイパースケールデータセンターに求められる能力は以前から拡大傾向にありましたが、生成AIの登場がそれに拍車をかける形でさらなる能力の急速な拡大が要求されています。 これを背景に、Synergye Research Groupは今後6年間に開設されるハイパースケールデータセンターの平均能力が、現在稼働中のハイパースケールデータセンターの2倍以上になると予測。 さらにまた、既存のハイパースケールデータセンターの能力増強も進むことを合わせると、ハイパ</description>
+    </item>
+    <item>
+      <title>AIが作った「実写版ポケモン」がやばい→○○を手にするサトシ、特撮映画に出てきそうなモンスターたち ……きみ、バイオハザードにいなかった？</title>
+      <link>https://togetter.com/li/2245478</link>
+      <pubDate>2023/10/23 16:43</pubDate>
+      <description>私たちの「かわいい」という感覚はどこから生じているのでしょうか？ 一般的には見た目（形状や装飾）から大きな影響を受けていることは理解できます。 しかし、それ以外にも要因はあるでしょうか？ ATRインタラクション科学研究所に所属する塩見 昌裕氏ら研究チームは、複数のロボットを使用した研究で、1台よりも2台並んでいる画像の方がかわいいと感じられ、対象間のつながりが見えると、よりかわいいと感じられることを明らかにしました。 対象自体に変化がなくとも、配置の仕方だけで「かわいい」という感覚の強さが変化するのは非常に興味深い報告です。 研究の詳細は、2023年10月18日付の科学誌『PLOS ONE』に掲載されました。 目次 見た目以外で「かわいい」と感じてもらうつながりのある2台のロボットが最も「かわいい」 見た目以外で「かわいい」と感じてもらう 「かわいい」とは、対象に対する情愛や愛着を表現した</description>
+    </item>
   </channel>
 </rss>
