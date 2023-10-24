@@ -4498,5 +4498,14 @@
       <pubDate>2023/10/24 16:20</pubDate>
       <description>「LIPS AI バーチャルビューティーアドバイザー」をどのように開発したか 堀江慧氏（以下、堀江）：ここからはどのように作ったか、Howの話に入っていきます。初めにLangChainの「QAシステム作れまっせ」みたいなものをサッとやってみて。質問に関連するドキュメントを引っこ抜いてきて、それをGPTに渡して回答を生成させるみたいなものをPoC（Proof of Concept）してみたんですが、なんかいまいちだなと思って。 GPT周りの開発はまだまだ知見が溜まっていないところもあるし、弊社でもプロダクトに載せるのは初めてだったので、バージョンを刻んで、細かくリリースして仕上げていく開発方針を取りました。 （スライドを示して）右に貼ってある画像が実際に社内で使っていたガントチャートのNotionのページですが、4月4日、4月11日、4月17日と、1週間以内ぐらいで細かいバージョンを切って、</description>
     </item>
+    <item>
+      <title>Webアプリ版Photoshopを実現させた最新Web技術をGoogleが紹介。WebAssemblyのスレッドによる高速化、ストリーミングコンパイル、Web Componentsなど</title>
+      <link>https://www.publickey1.jp/blog/23/webphotoshopwebgooglewebassemblyweb_components.html</link>
+      <pubDate>2023/10/24 23:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d99fa12942e1e19defd1cb204186c4f231de745/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1541%2F290%2Fmain.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
