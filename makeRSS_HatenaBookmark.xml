@@ -4405,5 +4405,23 @@
       <pubDate>2023/10/23 02:03</pubDate>
       <description>「材料を集めて本にまとめること」（三省堂国語辞典）──。「編纂」についてそう解説する辞書は文字通り、書籍やインターネット、街の中などで日々生まれる言葉を集めて編む辞書編纂者によってつくられる。時に「言葉ハンター」の異名も取るが、ありとあらゆる言葉と一心に向き合い、頭を抱えながらも並々ならぬ愛情を注いでいる。メディアだけでなく、SNSでも積極的に発信を続ける「舟を編む人」に、新しく生まれた言葉、正しい言葉について語ってもらった。 ■どうなる？ 毎年恒例「今年の新語」 ──コロナ禍真っただ中の2022年に「三省堂国語辞典 第八版」が刊行されました。平時の辞書づくりと違いはありましたか。 国語辞典というのは長く使用してもらうために、その時々の世相に左右されずに編纂することが基本です。改訂のサイクルは6～8年のため、その間に、載っている言葉が古くなったり昔の流行語ばかり載っていたりしたら具合が悪い</description>
     </item>
+    <item>
+      <title>Merpay &amp;amp;#038; Mercoin Tech Fest 2023 セッション書き起こしまとめ | メルカリエンジニアリング</title>
+      <link>https://engineering.mercari.com/blog/entry/20231023-mmtf2023-list/</link>
+      <pubDate>2023/10/24 09:10</pubDate>
+      <description>ML監視は従来のソフトウェア開発の監視要素に加え、モデルや予測値、データに関する監視が必要とされています。 監視の優先順位 上述のようにML監視項目は数多くあり、いきなり全ての監視項目を導入するのは難しいです。 クラウドベンダー各社のMLOpsの成熟度モデル [3]のように、ML監視も段階的に取り組んでいくことが望ましいと言えます。 A Comprehensive Guide on How to Monitor Your Models in Productionの記事ではGoogleのMLOps成熟度モデルに合わせた監視項目を取り上げています。 引用: A Comprehensive Guide on How to Monitor Your Models in Production [4] EVIDENTLY AIが公開してるMonitoring ML systems in product</description>
+    </item>
+    <item>
+      <title>AutoGen | AutoGen</title>
+      <link>https://microsoft.github.io/autogen/</link>
+      <pubDate>2023/10/23 10:35</pubDate>
+      <description>ホーム What’s New 統合運用管理ソフトウェア「Hinemos」における生成AIを用いた運用自動化・効率化の実証実験を開始 ～ChatGPTを活用したAIドリブン運用によりITシステム運用の迅速性や生産性を飛躍的に向上～ NTTデータ先端技術株式会社（本社：東京都中央区、代表取締役社長：藤原 遠、以下：NTTデータ先端技術）は2023年12月31日まで、統合運用管理ソフトウェア「Hinemos」の生成AIを用いた運用自動化・効率化を推進する実証実験を行います。 生成AIを使用し、過去の設計ナレッジやインシデント情報、ITシステムの稼働情報といった蓄積データを最大限に運用に活用するAIドリブン運用により、迅速性、生産性の向上が見込めます。これまでも、HinemosではITシステムから発生したイベントから対応不要なイベントをAIで判別し、その80%を削減させイベント対応業務を効率化・自</description>
+    </item>
+    <item>
+      <title>マイクロストラテジー、BIに生成AIを統合した新製品「MicroStrategy ONE」を投入</title>
+      <link>https://cloud.watch.impress.co.jp/docs/news/1541048.html</link>
+      <pubDate>2023/10/23 07:17</pubDate>
+      <description>本記事では、Turing のサマーインターンでの成果を紹介します。2 週間のサマーインターンで、自動運転のための Visual Question Answering データセット・AutoScenesQA の作成を行いました。 AutoScenesQA は、手作業によるアノテーションではなく、LLM(GPT 3.5)とルールベースのロジックを活用し、完全に自動で作成されています. 今回作成した AutoScenesQA は、nuScenesという自動運転用のデータセットをベースとしており、「車載カメラから撮影した 6 方向の画像(1 フレーム)」と「その画像に対応した QA のペア」で構成されています。自動生成した QA の総数は全部で約 280 万件です。 本記事では、AutoScenesQA とその作成方法に関して詳しく紹介します。 自動運転と Visual Question Answ</description>
+    </item>
   </channel>
 </rss>
