@@ -4435,5 +4435,17 @@
       <pubDate>2023/10/24 09:08</pubDate>
       <description>Merpay &amp;amp; Mercoin Tech Fest 2023は、事業との関わりから技術への興味を深め、プロダクトやサービスを支えるエンジニアリングを知ることができるお祭りで、2023年8月22日（火）からの3日間、開催しました。セッションでは、事業を支える組織・技術・課題などへの試行錯誤やアプローチを紹介していきました。 今回、より多くの方に知ってもらい役立ててもらうため、Merpay &amp;amp; Mercoin Tech Fest 2023の全セッションを書き起こした記事を用意しました。セッションがたくさんあるので、その記事リンクまとめを作成したのが本記事です。お役に立てば幸いです。 ▼Merpay &amp;amp; Mercoin Tech Fest 2023 書き起こし一覧 ※各記事にYoutubeのセッション動画が埋め込まれています。 Author Session Title Keynote Shun</description>
     </item>
+    <item>
+      <title>イラスト作品や写真作品を毒化して画像生成AIの学習を阻害できる学習防止ツール「Nightshade」</title>
+      <link>https://gigazine.net/news/20231024-nightshade-poison-image-generate-ai-model/</link>
+      <pubDate>2023/10/24 15:27</pubDate>
+      <description>はじめに こんにちは。学際的情報科学センターの高野（@mtknnktm）と申します。当社のプロダクトにおけるデータ分析・計算社会科学の研究を業務としています。また、当社の「Tech DE&amp;amp;Iプロジェクト」においてアンケート調査・文献調査なども行っています。 Tech DE&amp;amp;Iプロジェクトではいくつかの場面で社内アンケートを実施しております。 社内アンケートの質問・意見の中に、ジェンダーギャップが発生する理由やその問題点、対抗措置としてのアファーマティブ・アクションに関するものが少なからずありました。 例えば、「ジェンダーギャップは重要な問題であることはわかるが、アファーマティブ・アクションも賛否両論でどのように考えて良いのかよくわからない」などです。 本記事はそれらに対する回答として作成した社内ドキュメントに加筆修正したものです。 なお筆者は計算社会科学の領域で研究活動をしておりますが、多</description>
+    </item>
+    <item>
+      <title>最近話題の マルチモーダルLLM まとめ｜npaka</title>
+      <link>https://note.com/npaka/n/n1ebe218e95d0</link>
+      <pubDate>2023/10/17 16:13</pubDate>
+      <description>近年は生成AIテクノロジーの発達により、誰かの声をAIに学習させてスピーチを読ませたり歌わせたりすることが技術的に可能になっており、2023年4月にはカナダのラッパー・Drakeの声でThe Weekndの「heart on my sleeve」を歌わせる動画が登場して話題を呼びました。そんな中、YouTubeが「ミュージシャンの声を使った動画を作成するためのAIツール」のリリースに向け、メジャーレーベルと協議していると報じられました。 YouTube Is Developing an AI Tool to Help Creators Sound Like Musicians – Billboard https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/ YouTube</description>
+    </item>
   </channel>
 </rss>
