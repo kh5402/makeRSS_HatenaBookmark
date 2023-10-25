@@ -4570,5 +4570,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d99fa12942e1e19defd1cb204186c4f231de745/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1541%2F290%2Fmain.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>プロンプトが苦手な人でも便利に使える言語生成AI「GATE」　米MITが開発</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/25/news041.html</link>
+      <pubDate>2023/10/25 09:40</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米マイクロソフトが24日発表した2023年7〜9月期決算は、売上高が前年同期比13%増の565億1700万ドル（約8兆4700億円）、純利益が同27%増の222億9100万ドルだった。3四半期連続で増収増益を確保した。生成AI（人工知能）機能を搭載したクラウド基盤が企業を中心に伸びて業績をけん引した。1株利益は2ドル99セントと市場予測を上回った。24日の時間外取引</description>
+    </item>
+    <item>
+      <title>日本企業のビジネスニーズに応える生成系 AI – Amazon Bedrock の可能性 | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/amazon-bedrock-launch-seminar-japan/</link>
+      <pubDate>2023/10/04 14:05</pubDate>
+      <description>「Mistral」「Llama 2」「Vicuna」などオープンソースの大規模言語モデルを簡単にローカルで動作させることが可能なアプリ「Ollama」の公式Dockerイメージが登場したので、早速使い勝手を試してみました。 Ollama is now available as an official Docker image · Ollama Blog https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image Ollamaで動作可能な大規模言語モデルの代表例は下記の通り。リストの全体についてはOllamaの公式サイトで確認することができます。 モデルパラメーターサイズDownloadMistral7B4.1GBollama run mistralLlama 27B3.8GBollama run ll</description>
+    </item>
   </channel>
 </rss>
