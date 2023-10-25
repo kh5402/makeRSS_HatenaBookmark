@@ -4672,5 +4672,17 @@
       <pubDate>2023/10/25 21:04</pubDate>
       <description>ネット社会、スマホなどテック製品のトレンドを分析、コラムを執筆するネット/デジタルトレンド分析家。ネットやテックデバイスの普及を背景にした、現代のさまざまな社会問題やトレンドについて、テクノロジ、ビジネス、コンシューマなど多様な視点から森羅万象さまざまなジャンルを分析。 これまで少し遠巻きに見ていた僕の周辺にいる&amp;quot;HHKB（Happy Hacking Keyboard ハッピーハッキングキーボード）族&amp;quot;たち。 あまりに熱烈に勧める人がいるものだから、なんだか宗教のようで近寄りがたかったのだが、新製品のHHKB Studioでついに&amp;quot;PFUとその仲間たち&amp;quot;の軍門に降ってしまった。 ノートPCが主流になってきた昨今、外付けでのキーボードにこだわるのは、相応にPCやMacが好きな人たちだろう。あるいはプログラマや筆者のように文字入力を職業にしている人間だろうから、こだわりが強いのは当然で、それ自</description>
     </item>
+    <item>
+      <title>AIの力を借りて魅力的なブログタイトルを作ろう！ #SNS #ブログ - 週刊はてなブログ</title>
+      <link>https://blog.hatenablog.com/entry/how_to_think_about_article_titles</link>
+      <pubDate>2023/10/25 18:26</pubDate>
+      <description>はじめに 今回はすぐに使えそうなプロンプトの工夫や生成方法について有名なものをまとめました．LMの精度向上のの役立てられればと思います． ※記事に誤り等ありましたらご指摘いただけますと幸いです． ※記載されている順番は論文が発表されている順番とは関係ありません． ※論文で精度向上が確認されているのは英語での検証のみで，日本語では改善されるか分かりません． ※全てのLLMで精度が改善するとは限りません． 目次 Zero-shot prompting Few-shot prompting Chain of Thoughts(CoT) Few-shot Chain of Thoughts Zero-shot Chain of Thoughts (step by step) Tree of Thoughts(ToT) Algorithm of Thoughts(AoT) Graph of Thou</description>
+    </item>
+    <item>
+      <title>【書き起こし】BigQueryのコンピューティングリソース管理の取り組み – Go Kojima【Merpay &amp;amp;#038; Mercoin Tech Fest 2023】 | メルカリエンジニアリング</title>
+      <link>https://engineering.mercari.com/blog/entry/20231023-mmtf2023-day2-12/</link>
+      <pubDate>2023/10/24 15:49</pubDate>
+      <description>米コーネル大学が、同学の研究機関が運営する論文投稿サイト「arXiv」について、基礎科学研究を支援する米国の財団「サイモンズ財団」と米国国立科学財団から1000万ドル超の寄付を受け取ったと発表した。寄付金はarXivのクラウド化やコードの最新化など、ITインフラの強化に充てるという。 米コーネル大学は10月19日（現地時間）、同学の研究機関が運営する論文投稿サイト「arXiv」（アーカイブ）について、基礎科学研究を支援する米国の財団「サイモンズ財団」と米国国立科学財団から1000万ドル超の寄付を受け取ったと発表した。寄付金はarXivのクラウド化やコードの最新化など、ITインフラの強化に充てるという。 arXivは1991年に立ち上がった、物理学や数学、コンピュータサイエンスといった分野の査読前論文などを無料で投稿・閲覧できるWebサイト。査読がない分、内容に誤りや不正がある可能性も高い一</description>
+    </item>
   </channel>
 </rss>
