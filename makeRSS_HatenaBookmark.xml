@@ -4549,5 +4549,26 @@
       <pubDate>2023/10/24 11:14</pubDate>
       <description>「LIPS AI バーチャルビューティーアドバイザー」をどのように開発したか 堀江慧氏（以下、堀江）：ここからはどのように作ったか、Howの話に入っていきます。初めにLangChainの「QAシステム作れまっせ」みたいなものをサッとやってみて。質問に関連するドキュメントを引っこ抜いてきて、それをGPTに渡して回答を生成させるみたいなものをPoC（Proof of Concept）してみたんですが、なんかいまいちだなと思って。 GPT周りの開発はまだまだ知見が溜まっていないところもあるし、弊社でもプロダクトに載せるのは初めてだったので、バージョンを刻んで、細かくリリースして仕上げていく開発方針を取りました。 （スライドを示して）右に貼ってある画像が実際に社内で使っていたガントチャートのNotionのページですが、4月4日、4月11日、4月17日と、1週間以内ぐらいで細かいバージョンを切って、</description>
     </item>
+    <item>
+      <title>となりのトトロは好きだけどどういう話かって聞かれるとすげー困る</title>
+      <link>https://anond.hatelabo.jp/20231025095310</link>
+      <pubDate>2023/10/25 10:29</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米マイクロソフトが24日発表した2023年7〜9月期決算は、売上高が前年同期比13%増の565億1700万ドル（約8兆4700億円）、純利益が同27%増の222億9100万ドルだった。3四半期連続で増収増益を確保した。生成AI（人工知能）機能を搭載したクラウド基盤が企業を中心に伸びて業績をけん引した。1株利益は2ドル99セントと市場予測を上回った。24日の時間外取引</description>
+    </item>
+    <item>
+      <title>世界一わかりみの深いAzure OpenAI Service | SIOS Tech. Lab</title>
+      <link>https://tech-lab.sios.jp/archives/36497</link>
+      <pubDate>2023/10/25 01:32</pubDate>
+      <description>Webアプリ版Photoshopを実現させた最新Web技術をGoogleが紹介。WebAssemblyのスレッドによる高速化、ストリーミングコンパイル、Web Componentsなど Photoshopは画像の作成や加工といった専門的な用途を目的に、長年にわたって作り込まれた代表的なデスクトップソフトウェアの1つと言えます。 プロフェッショナルな用途を満たす膨大な画像処理の機能を細かく作り込まれたユーザーインターフェイスから操作し、画像の変形や加工、フィルタリングなどの大量の複雑な演算処理が実行されるなど、Webアプリケーションへの移植を難しくする要素が満載です。 それらの困難を克服し、Photoshop Webではデスクトップ版Photoshopでよく使われる一般的な機能を、類似のユーザーインターフェイスでWebに実装し、商用サービスとして提供することに成功しました。 Photosho</description>
+    </item>
+    <item>
+      <title>YouTubeが広告を消す「Adblock Plus」をブロックし始めて大混乱に、Adblock Plus公式も対応に乗り出す</title>
+      <link>https://gigazine.net/news/20231024-youtube-ads-adblockplus/</link>
+      <pubDate>2023/10/24 20:07</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d99fa12942e1e19defd1cb204186c4f231de745/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1541%2F290%2Fmain.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
