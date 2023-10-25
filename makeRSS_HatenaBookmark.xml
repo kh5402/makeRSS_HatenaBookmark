@@ -4696,5 +4696,17 @@
       <pubDate>2023/10/21 15:53</pubDate>
       <description>Amazon Web Services ブログ 日本企業のビジネスニーズに応える生成系 AI – Amazon Bedrock の可能性 2023 年 9 月 28 日に、生成系 AI を簡単に利用できるサービス Amazon Bedrock の一般提供が開始されました。またイベント同日、10 月 3 日 には東京リージョンでも Amazon Bedrock が利用可能になりました。Amazon Bedrock では、複数の高性能な基盤モデルが提供されており、プライバシーとセキュリティを維持しながら、生成系 AI アプリケーションの開発を始めるための幅広い機能群を提供します。 Amazon Bedrock の一般提供が開始されたことにより、多くのお客様が Amazon Bedrock を活用して生成系 AI アプリケーションの開発を開始すると考えています。本イベントでは、 お客様の Ama</description>
     </item>
+    <item>
+      <title>Stability AI、新たな日本語の大規模言語モデル　商用可能ライセンスで公開</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1541911.html</link>
+      <pubDate>2023/10/25 16:53</pubDate>
+      <description>はじめに 今回はすぐに使えそうなプロンプトの工夫や生成方法について有名なものをまとめました．LMの精度向上のの役立てられればと思います． ※記事に誤り等ありましたらご指摘いただけますと幸いです． ※記載されている順番は論文が発表されている順番とは関係ありません． ※論文で精度向上が確認されているのは英語での検証のみで，日本語では改善されるか分かりません． ※全てのLLMで精度が改善するとは限りません． 目次 Zero-shot prompting Few-shot prompting Chain of Thoughts(CoT) Few-shot Chain of Thoughts Zero-shot Chain of Thoughts (step by step) Tree of Thoughts(ToT) Algorithm of Thoughts(AoT) Graph of Thou</description>
+    </item>
+    <item>
+      <title>画像に「毒」を盛り、画像生成AIのスクレイピングに対抗するツールを開発--シカゴ大</title>
+      <link>https://japan.zdnet.com/article/35210693/</link>
+      <pubDate>2023/10/25 12:58</pubDate>
+      <description>ネット社会、スマホなどテック製品のトレンドを分析、コラムを執筆するネット/デジタルトレンド分析家。ネットやテックデバイスの普及を背景にした、現代のさまざまな社会問題やトレンドについて、テクノロジ、ビジネス、コンシューマなど多様な視点から森羅万象さまざまなジャンルを分析。 これまで少し遠巻きに見ていた僕の周辺にいる&amp;quot;HHKB（Happy Hacking Keyboard ハッピーハッキングキーボード）族&amp;quot;たち。 あまりに熱烈に勧める人がいるものだから、なんだか宗教のようで近寄りがたかったのだが、新製品のHHKB Studioでついに&amp;quot;PFUとその仲間たち&amp;quot;の軍門に降ってしまった。 ノートPCが主流になってきた昨今、外付けでのキーボードにこだわるのは、相応にPCやMacが好きな人たちだろう。あるいはプログラマや筆者のように文字入力を職業にしている人間だろうから、こだわりが強いのは当然で、それ自</description>
+    </item>
   </channel>
 </rss>
