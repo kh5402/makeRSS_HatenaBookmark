@@ -4582,5 +4582,17 @@
       <pubDate>2023/10/04 14:05</pubDate>
       <description>「Mistral」「Llama 2」「Vicuna」などオープンソースの大規模言語モデルを簡単にローカルで動作させることが可能なアプリ「Ollama」の公式Dockerイメージが登場したので、早速使い勝手を試してみました。 Ollama is now available as an official Docker image · Ollama Blog https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image Ollamaで動作可能な大規模言語モデルの代表例は下記の通り。リストの全体についてはOllamaの公式サイトで確認することができます。 モデルパラメーターサイズDownloadMistral7B4.1GBollama run mistralLlama 27B3.8GBollama run ll</description>
     </item>
+    <item>
+      <title>論文投稿サイト「arXiv」に1000万ドル超の寄付　クラウド移行やコードの最新化に活用</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/25/news082.html</link>
+      <pubDate>2023/10/25 10:37</pubDate>
+      <description>魔女の宅急便だと 魔女見習いのキキが修行先の街で自信を喪失し魔力を失うが人間的に成長し魔力を取り戻し多くの人を救う話 っていうめちゃくちゃ簡潔な少女の成長譚としてまとめられるけど となりのトトロって結局どういう話かって聞かれると、うまくまとめられない。</description>
+    </item>
+    <item>
+      <title>Anthropic Claudeで英訳したテキストをもとにStability AI Stable Diffusion XL(SDXL)で画像を生成するAmazon Bedrockの使用例 - NRIネットコムBlog</title>
+      <link>https://tech.nri-net.com/entry/amazon_bedrock_gen_image_with_sdxl_based_on_translated_by_claude</link>
+      <pubDate>2023/10/25 09:49</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 米マサチューセッツ工科大学などに所属する研究者らが発表した論文「Eliciting Human Preferences with Language Models」は、大規模言語モデル（LLM）に対する入力のテキストプロンプトに不慣れな人でも有効に活用できる方法を提案した研究報告である。この方法では、システムとの対話を通じてユーザーの好みやニーズを引き出し、それを基に最適化したプロンプトを生成する。 LLMを使用する際、プロンプトによって特定のタスクを指示できる。しかし、プロンプトの作成は、特に初心者にとっては難易度が高い。これは、ユーザーが</description>
+    </item>
   </channel>
 </rss>
