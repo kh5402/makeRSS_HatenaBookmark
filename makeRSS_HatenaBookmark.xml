@@ -4801,5 +4801,11 @@
       <pubDate>2023/10/26 14:51</pubDate>
       <description>TiDBを使ったアプリケーションのサンプル「OSS Insight」 ここまで、TiDB Serverlessをどうやって作っていったかというコンセプトをご紹介してきました。ここから、TiDB Serverlessを実際に使ってみたという話をしたいと思います。 「Eat your own dog food」とよく言いますが、私たちは、TiDBを使ったアプリケーションのサンプルとして「OSS Insight」というものを作っています。 アクセスしたことがなければ、ぜひ今、アクセスしていただきたいのですが、OSS Insightは、GitHubの今までのイベントレコード、65億件かな……を全部先ほどのTiDB Serverlessに取り込んで、なおかつリアルタイムで、今発生しているイベントも全部取り込んでいます。 なので、言ってしまえば、GitHubの、誰がコミットした、プルリクエストした、そ</description>
     </item>
+    <item>
+      <title>「万博中止やって」AIも皮肉？　集客は「吉本頼み」、空飛ぶクルマも暗雲　費用はガザ支援の150倍なのに…：東京新聞 TOKYO Web</title>
+      <link>https://www.tokyo-np.co.jp/article/285968</link>
+      <pubDate>2023/10/26 12:39</pubDate>
+      <description>ラブグラフでエンジニアをしています横江 ( @yokoe24 ) です。 ラブグラフでは、エンジニア以外で Google Apps Script (GAS) を書く方も多く、 Slack通知の自動化など、業務の効率化がおこなわれています。 マジですごいと思います！ GASをエンジニア以外が書く問題点 一方で、コードを見るとプログラマーからするとムズムズするところもあります。 変数名に snake_case が混ざっている インデントが揃っていない for文の中で getValue() を回している Google Apps Script の getValue() メソッドはコストが高く、何度も実行するとタイムアウトの可能性が高まる == で比較している double quotes &amp;quot; と single quotes &amp;#39; が混ざっている こういうコードを見ると直したくてウズウズしてしまいます。</description>
+    </item>
   </channel>
 </rss>
