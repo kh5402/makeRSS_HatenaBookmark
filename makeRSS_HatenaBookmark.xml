@@ -4855,5 +4855,11 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/433419789b6b326c263b69f49a48bf651d2cf3af/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1541%2F964%2Fsub4.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト CoTと組合せでさらに強力になる場合も | AIDB</title>
+      <link>https://aiboom.net/archives/57628</link>
+      <pubDate>2023/10/26 16:57</pubDate>
+      <description>Research部門の近江崇宏です。 ストックマークではビジネスのドメインや最新情報（2023年9月まで）に対応した130億パラメータの大規模言語モデル（LLM）を商用利用も可能なライセンスで公開しました。 モデルはHuggingface Hubからダウンロードいただけます。 https://huggingface.co/stockmark/stockmark-13b このモデルは、合計2200億トークンの日本語のテキストデータにより事前学習が行われました。 一般に事前学習でよく使われるWikipediaやCommonCrawl由来のコーパスだけではなく、当社が独自に収集しているビジネスに関連するWebページや特許などのデータも用いました。 そのため、既存のモデルに比べると、最新の情報やビジネスのドメインに対応したようなモデルになっております。 実際に、ビジネスに関連する知識を問うタスクで</description>
+    </item>
   </channel>
 </rss>
