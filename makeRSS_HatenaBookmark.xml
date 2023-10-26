@@ -4741,5 +4741,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6d029896e26a9bc427860965ed2a3fbe1f90244c/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1541%2F900%2Fss.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>2023年 研究開発部 新卒技術研修 ~ テストコード編 ~ - Sansan Tech Blog</title>
+      <link>https://buildersbox.corp-sansan.com/entry/2023/10/25/110000</link>
+      <pubDate>2023/10/25 17:02</pubDate>
+      <description>Dockerは2023年10月3日から10月5日に開催されたDockerCon 2023で、「Neo4j」「LangChain」「Ollama」とともに「GenAI Stack」を発表した。 GenAI Stackは、Dockerおよび生成AI（GenAI）分野の先端技術を結集したもので、開発者はわずか数クリックでGenAI Stackをデプロイし、生成AIを活用したアプリケーションを開発、構築できるという。 GenAI Stackの特徴は GenAI Stackを利用することで、AI／機械学習（ML）モデルの統合を簡素化し、生成AI技術を容易に利用できる。Ollama、Neo4jなど生成AIによるアプリケーション開発に必要な開発環境が、Dockerコンテナで連携可能な状態で提供される。 関連記事 「生成AI」と「ローコード／ノーコード開発ツール」は相性が良い？　日立ソリューションズが導入</description>
+    </item>
+    <item>
+      <title>ChatGPTがまた｢インターネットを検索して回答｣できるように</title>
+      <link>https://www.gizmodo.jp/2023/10/chatgpt-receives-full-access-to-internet.html</link>
+      <pubDate>2023/10/25 18:17</pubDate>
+      <description>「良いタイトル」について解説いただきましたはてなブログでは「記事に表示される記事タイトル（大見出し）」「検索エンジン向けタイトル（title要素）」「SNS向けタイトル（og:title）」について、それぞれ設定できます。さらに本日、AIを用いて自動でそれぞれのタイトルを提案する機能「AIタイトルアシスト」をクローズドβとしてリリースしました 。 ただ、この機能でAIが提示したタイトルの候補からどれを選ぶべきか、また、提案内容からどのように編集するか、迷ってしまうかもしれません。また、AIに頼らず自分でタイトルを考えたいという方もいらっしゃるでしょう。 今回、はてなブログのSEOをサポートしていただいているSEO専門家の辻正浩さんに「タイトルの重要性」と「ブログのタイトル付けのコツ」について寄稿いただきました。「記事が読まれるのはうれしいけど、タイトルをいちいち考えるのは面倒」という方や、</description>
+    </item>
   </channel>
 </rss>
