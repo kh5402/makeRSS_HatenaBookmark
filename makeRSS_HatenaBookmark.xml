@@ -4759,5 +4759,11 @@
       <pubDate>2023/10/25 19:16</pubDate>
       <description>こんにちは、研究開発部 Data Analysisグループの笛木です。 4/26（水）〜 4/28（金）で研究開発部内の技術研修を行いました。 こちらのブログの続きでテストコードについての研修資料を一部公開します。研修では新卒2年目の私が1年間で部内のコードなどから学んだ情報を共有しました。至らない部分もあるかもしれませんが、ご参考になれば幸いです。 こちらの研修で使用したGitHubのコードリンクは以下です。適宜、ご参照ください。 github.com 目次 目次 はじめに この研修の目的 研修スコープ外 テストコードについて テストコードの便利な点 テストコードの悪い例 テストコードに関するFAQ pytestによるテストコードの書き方 ファイル名 ディレクトリ 基本編 Parametrize Fixture 異常系 Mock indirect conftest 知っておくと活用する場</description>
     </item>
+    <item>
+      <title>Jina AI Launches World&amp;#39;s First Open-Source 8K Text Embedding, Rivaling OpenAI</title>
+      <link>https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/</link>
+      <pubDate>2023/10/26 10:46</pubDate>
+      <description>『英語は10000時間でモノになる』著者が勉強のコツを解説 傳智之氏（以下、傅）：それでは、橋本大也さんをお迎えします。橋本さん、よろしくお願いします。 橋本大也氏（以下、橋本）：こんにちは。よろしくお願いします。 傅：よろしくお願いします。 橋本：それでは「英語はChatGPTでモノになる」という話をお話ししていきたいと思います。『英語は10000時間でモノになる』という私の本は、たぶん英語学習の単行本として、初めてChatGPTを取り上げた本なんじゃないかと思っています。 2022年の暮れから2023年の初めぐらいにこの本を書いていたわけですが、4月発売で、ちょうどその頃にChatGPTがオープンになりました。私はたまたま2021年ぐらいから開発者としてGPTを使っていたので、早く飛びつくことができて、早く本に書くことができました。 ただ、書いていたのが1月とか2月ぐらいですから、（C</description>
+    </item>
   </channel>
 </rss>
