@@ -4765,5 +4765,23 @@
       <pubDate>2023/10/26 10:46</pubDate>
       <description>『英語は10000時間でモノになる』著者が勉強のコツを解説 傳智之氏（以下、傅）：それでは、橋本大也さんをお迎えします。橋本さん、よろしくお願いします。 橋本大也氏（以下、橋本）：こんにちは。よろしくお願いします。 傅：よろしくお願いします。 橋本：それでは「英語はChatGPTでモノになる」という話をお話ししていきたいと思います。『英語は10000時間でモノになる』という私の本は、たぶん英語学習の単行本として、初めてChatGPTを取り上げた本なんじゃないかと思っています。 2022年の暮れから2023年の初めぐらいにこの本を書いていたわけですが、4月発売で、ちょうどその頃にChatGPTがオープンになりました。私はたまたま2021年ぐらいから開発者としてGPTを使っていたので、早く飛びつくことができて、早く本に書くことができました。 ただ、書いていたのが1月とか2月ぐらいですから、（C</description>
     </item>
+    <item>
+      <title>Animated AI</title>
+      <link>https://animatedai.github.io/</link>
+      <pubDate>2023/10/25 12:34</pubDate>
+      <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 生成型の人工知能（AI）モデルに関連する大きな問題の1つに、AIによるスクレイピングがある。AIスクレイピングとは、AI企業が自社のAIモデルを訓練するという名目で、インターネット上のデータを所有者の許可を得ずに取得するという行為だ。 AIスクレイピングは、視覚に訴えかけるアーティストに対して特に大きな影響を与える可能性がある。というのも、テキストプロンプトから画像を生成するモデルが新たな作品を生み出すために、こうしたアーティストの作品を無許可で使用しているためだ。しかし今回、そのソリューションになるかもしれないツールが開発された。 シカゴ大学の研究者らは、アーティストが自らのデジタルアート作品に「毒」を仕込んでおくことで、AIツールの</description>
+    </item>
+    <item>
+      <title>Cloud RunとLoad Balancer： 機械学習デモウェブアプリの効率的なデプロイ方法 - ANDPAD Tech Blog</title>
+      <link>https://tech.andpad.co.jp/entry/2023/10/24/100000</link>
+      <pubDate>2023/10/24 10:37</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米マイクロソフトが24日発表した2023年7〜9月期決算は、売上高が前年同期比13%増の565億1700万ドル（約8兆4700億円）、純利益が同27%増の222億9100万ドルだった。3四半期連続で増収増益を確保した。生成AI（人工知能）機能を搭載したクラウド基盤が企業を中心に伸びて業績をけん引した。1株利益は2ドル99セントと市場予測を上回った。24日の時間外取引</description>
+    </item>
+    <item>
+      <title>Multi-Vector Retriever for RAG on tables, text, and images</title>
+      <link>https://blog.langchain.dev/semi-structured-multi-modal-rag/</link>
+      <pubDate>2023/10/21 06:22</pubDate>
+      <description>X(旧Twitter)では、一部の企業アカウントに対して、金色の認証済みバッジ(チェックマーク)を付与しています。しかしXが、アメリカの新聞社ニューヨーク・タイムズが保有するアカウントから認証済みバッジを2023年10月17日に削除したことが報告されています。 Elon Musk’s X removes New York Times verification in new sign of conflict - The Washington Post https://www.washingtonpost.com/technology/2023/10/19/x-twitter-nyt-dispute-musk/ Silicon Valley Ditches News, Shaking an Unstable Industry - The New York Times https://www.n</description>
+    </item>
   </channel>
 </rss>
