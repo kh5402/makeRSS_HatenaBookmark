@@ -4720,5 +4720,11 @@
       <pubDate>2023/10/24 18:12</pubDate>
       <description>みなさん、こんにちは。サイオステクノロジー武井です。今回は、今話題沸騰の生成AIサービスであるAzure OpenAI Serviceについて、世界一わかりみの深い説明をしたいと思います。 【重要告知!!】 ちなみに本記事の内容をベースとしたオンラインセミナーを実施予定です。OpenAIもしくはAzure OpenAI Serviceに興味のある方はぜひご参加下さいませ!! タイトル: 世界一わかりみの深いAzure OpenAI Service 実施日時: 2023年10月31日 19:00〜 connpass: https://tech-lab.connpass.com/event/296966/ 本記事について 本記事は、「なんだか最近巷で色々と話題になっている生成AIだけど、なんかマイクロソフトからAzure OpenAI Serviceっていうのが出たよね？それナニモノ？なんの役</description>
     </item>
+    <item>
+      <title>火山灰に埋もれて炭化した古代ローマの巻物を解読したら3000万円がゲットできるチャレンジで最初の単語がついに解読される</title>
+      <link>https://gigazine.net/news/20231025-vesuvius-challenge-first-word/</link>
+      <pubDate>2023/10/25 22:31</pubDate>
+      <description>Dockerは2023年10月3日から10月5日に開催されたDockerCon 2023で、「Neo4j」「LangChain」「Ollama」とともに「GenAI Stack」を発表した。 GenAI Stackは、Dockerおよび生成AI（GenAI）分野の先端技術を結集したもので、開発者はわずか数クリックでGenAI Stackをデプロイし、生成AIを活用したアプリケーションを開発、構築できるという。 GenAI Stackの特徴は GenAI Stackを利用することで、AI／機械学習（ML）モデルの統合を簡素化し、生成AI技術を容易に利用できる。Ollama、Neo4jなど生成AIによるアプリケーション開発に必要な開発環境が、Dockerコンテナで連携可能な状態で提供される。 関連記事 「生成AI」と「ローコード／ノーコード開発ツール」は相性が良い？　日立ソリューションズが導入</description>
+    </item>
   </channel>
 </rss>
