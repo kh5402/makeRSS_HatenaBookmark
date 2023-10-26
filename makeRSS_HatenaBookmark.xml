@@ -4726,5 +4726,20 @@
       <pubDate>2023/10/25 22:31</pubDate>
       <description>Dockerは2023年10月3日から10月5日に開催されたDockerCon 2023で、「Neo4j」「LangChain」「Ollama」とともに「GenAI Stack」を発表した。 GenAI Stackは、Dockerおよび生成AI（GenAI）分野の先端技術を結集したもので、開発者はわずか数クリックでGenAI Stackをデプロイし、生成AIを活用したアプリケーションを開発、構築できるという。 GenAI Stackの特徴は GenAI Stackを利用することで、AI／機械学習（ML）モデルの統合を簡素化し、生成AI技術を容易に利用できる。Ollama、Neo4jなど生成AIによるアプリケーション開発に必要な開発環境が、Dockerコンテナで連携可能な状態で提供される。 関連記事 「生成AI」と「ローコード／ノーコード開発ツール」は相性が良い？　日立ソリューションズが導入</description>
     </item>
+    <item>
+      <title>初心者でも役立つ、ChatGPTを使った英語学習の「奥の手」　『英語は10000時間でモノになる』著者が贈る、効果的な勉強法</title>
+      <link>https://logmi.jp/business/articles/329544</link>
+      <pubDate>2023/10/25 21:42</pubDate>
+      <description>火山灰に埋もれた古代ローマの都市から発見された古文書を解読する賞金25万ドル(約3300万円)のコンテスト「ヴェスヴィオ・チャレンジ」が2023年3月15日から始まっています。2023年10月12日には、ついに最初の単語を解読した人物が現れました。 First word discovered in unopened Herculaneum scroll by 21yo computer science student | Vesuvius Challenge https://scrollprize.org/firstletters There should be more cash prizes for solving historical mysteries https://resobscura.substack.com/p/there-should-be-more-cash-prize</description>
+    </item>
+    <item>
+      <title>Docker、生成AIアプリの開発環境構築を容易にする「GenAI Stack」を発表</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2310/25/news067.html</link>
+      <pubDate>2023/10/25 14:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6d029896e26a9bc427860965ed2a3fbe1f90244c/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1541%2F900%2Fss.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
