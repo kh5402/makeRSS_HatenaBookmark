@@ -4807,5 +4807,20 @@
       <pubDate>2023/10/26 12:39</pubDate>
       <description>ラブグラフでエンジニアをしています横江 ( @yokoe24 ) です。 ラブグラフでは、エンジニア以外で Google Apps Script (GAS) を書く方も多く、 Slack通知の自動化など、業務の効率化がおこなわれています。 マジですごいと思います！ GASをエンジニア以外が書く問題点 一方で、コードを見るとプログラマーからするとムズムズするところもあります。 変数名に snake_case が混ざっている インデントが揃っていない for文の中で getValue() を回している Google Apps Script の getValue() メソッドはコストが高く、何度も実行するとタイムアウトの可能性が高まる == で比較している double quotes &amp;quot; と single quotes &amp;#39; が混ざっている こういうコードを見ると直したくてウズウズしてしまいます。</description>
     </item>
+    <item>
+      <title>EdgeでChromeをダウンロードするユーザーに「なんで？」と尋ねるポップアップが表示される</title>
+      <link>https://gigazine.net/news/20231026-microsoft-edge-chrome-why-another-browser/</link>
+      <pubDate>2023/10/26 14:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/eed46380e81777a86f547f761fa1ef0d1f58d338/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1542%2F307%2Fword.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Meta決算、広告復調で増収大幅増益　「2024年はAIとメタバースを最優先」とザッカーバーグCEO</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/26/news095.html</link>
+      <pubDate>2023/10/26 11:00</pubDate>
+      <description>Fine-tune embeddings on domain specific data for better search quality</description>
+    </item>
   </channel>
 </rss>
