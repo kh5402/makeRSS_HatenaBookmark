@@ -4834,5 +4834,26 @@
       <pubDate>2023/10/26 08:38</pubDate>
       <description>Fine-tune embeddings on domain specific data for better search quality</description>
     </item>
+    <item>
+      <title>ビジネスのドメインや最新情報に対応した130億パラメータの日本語LLMの公開</title>
+      <link>https://tech.stockmark.co.jp/blog/202310_stockmark_13b/</link>
+      <pubDate>2023/10/26 20:05</pubDate>
+      <description>これまでMicrosoftは、Edgeを使って競合ブラウザのChromeをダウンロードしようとするユーザーに「新しいブラウザをダウンロードする必要なはい」などという案内文を表示するなどして、Edgeの利用を継続するよう暗に求めてきました。新たに報告されたところによると、今度は「なぜ別のブラウザを試そうとしているんですか？」と尋ねるアンケート形式のポップアップを表示し始めているようです。 Microsoft now wants you to take a poll before installing Google Chrome - Neowin https://www.neowin.net/news/microsoft-now-wants-you-to-take-a-poll-before-installing-google-chrome/ Edgeを使ってChromeをダウンロードすると、</description>
+    </item>
+    <item>
+      <title>「Microsoft Word」が40歳に ～激変するIT環境に合わせて変わり続けてきた歴史／「Lotus」「WordPerfect」としのぎを削る時代からオンライン、クラウド、AIの時代へ</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1542307.html</link>
+      <pubDate>2023/10/26 16:07</pubDate>
+      <description>本記事は、2023年夏季インターンシッププログラムで勤務された竹田悠哉さんによる寄稿です。 はじめに 2023年度のPFN夏季インターンに参加した、東京大学大学院工学系研究科の竹田悠哉と申します。学部では画像生成の研究をしていましたが、技術の社会実装をより俯瞰的に学びたいと思い、現在は技術経営戦略学専攻で教育工学の研究をしています。 インターンでは「機械学習技術の社会実装」をテーマに、LLM（Large Language Model）にドメイン知識を習得させることに取り組みました。様々な設定において、主に英語で学習されたモデルであるLLaMA2に対して日本語のデータでのFine-tuningを行い、LoRAやInstruction Tuning、ドメイン知識の習得に関する知見を得ることができたと思います。本記事では、そこで利用した技術の紹介と、日本語におけるドメイン知識の習得に関する実験、</description>
+    </item>
+    <item>
+      <title>複雑なデータベースの知識は一切不要、気にするのはエンドポイントだけ　開発の生産性を高める「TiDB Serverless」の各種機能</title>
+      <link>https://logmi.jp/tech/articles/329531</link>
+      <pubDate>2023/10/26 11:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/433419789b6b326c263b69f49a48bf651d2cf3af/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1541%2F964%2Fsub4.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
