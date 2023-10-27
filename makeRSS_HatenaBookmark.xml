@@ -5032,5 +5032,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9752bae7a6c39da3f411e81246a592a86f8cdcca/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1541%2F737%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Microsoft、生成AIの可能性を引き出す25種類の効果的なプロンプトの作成方法を紹介</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2310/27/news053.html</link>
+      <pubDate>2023/10/27 10:38</pubDate>
+      <description>ベネッセホールディングスは、生成AIとノーコードツールの導入により、Web制作業務の効率化に成功したと発表した。「進研ゼミ 中学講座」のWebサイト制作する際、従来かかったコストが4割減、制作期間は8週間から3週間へ短縮できたという。 ベネッセホールディングスは10月27日、生成AIとノーコードツールの導入により、Web制作業務の効率化に成功したと発表した。「進研ゼミ 中学講座」のWebサイト制作する際、従来かかったコストが4割減、制作期間は8週間から3週間へ短縮できたという。2024年4月以降には既存のWeb業務プロセスを全面的に改革し、生産性の向上を図る。 ベネッセは7月から、進研ゼミのWebサイト制作・運用業務に生成AIとノーコードツールを導入するPoCを実施。これまで多くの工数が発生していた作業を、生成AIを活用することで効率化できるか検証した。3カ月の検証結果で、業務プロセスを抜</description>
+    </item>
+    <item>
+      <title>local LLMをChatGPT API互換サーバとして使う方法まとめ(2023/10版) - Qiita</title>
+      <link>https://qiita.com/takaaki_inada/items/a918ca6984e832bc9741</link>
+      <pubDate>2023/10/27 11:40</pubDate>
+      <description>こんにちは、最近久々にソロキャンプをしてきました菅野です。 AWS上で、 ChatGPTのようなテキスト生成AIを利用できるようになるサービス、Amazon Bedrockがリリースされました。 今回はBedrockで、LambdaのPythonコードを生成してもらいます。 利用するモデルは、ChatGPTと同レベルの性能を有しているClaudeV2を利用します。詳細はこちら。 Bedrockについて執筆した別記事もあわせてご覧ください。 acro-engineer.hatenablog.com acro-engineer.hatenablog.com S3に保存したCSVファイルの平均を求めるLambda関数を作成する 以下のようなcsvをS3からダウンロードし、一分毎、name毎の平均を返却するLambdaを作成してもらいます。 id,name,value,timestamp 1,da</description>
+    </item>
   </channel>
 </rss>
