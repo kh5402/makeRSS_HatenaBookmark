@@ -4957,5 +4957,23 @@
       <pubDate>2023/10/26 12:07</pubDate>
       <description>Amazon Connect + Lex + BedrockのAIチャットボットで、発話から個人情報（名前、住所、生年月日）を正しく認識できるか試してみた はじめに Amazon Connect + Lex + Bedrockで、発話から個人情報（番号や名前、住所、誕生日）を正しく認識できるか試してみました。 ConnectとLexによるAIチャットボットで、有人対応から無人対応に変更したいニーズが増えているように思います。 事前に登録したお客様情報に対して、AIチャットボットがお客様の認証を対応できるか気になったため、まず数字や英字、住所などをAIチャットボットが発話どおりに認識してくれるか検証しました。 今回の記事では、以下の５つの項目を発話し、AIチャットボットで正しく認識できるか確認します。 住所 名前 英字 数字 生年月日 特に、数字に関しては、AIチャットボットで電話番号や会員</description>
     </item>
+    <item>
+      <title>OpenAI、AIの“壊滅的な”リスクに取り組む「Preparedness」チーム結成</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/27/news119.html</link>
+      <pubDate>2023/10/27 12:05</pubDate>
+      <description>AIによる画像の無断利用にアーティストたちが対抗する新たなツールが開発された。人間の目にはわからない加工を画像データに施すことで、この画像データを訓練に使った生成AIモデルを破壊できるという。 by Melissa Heikkilä2023.10.27 1 1 アーティストがこの新しいツールを使用すると、自分の作品をインターネット上にアップロードする前に、作品内のピクセルに対して目に見えない変更を追加できる。人工知能（AI）企業が、この変更を加えた作品を収集し、生成AI（ジェネレーティブAI）の訓練に使用すると、AI学習モデルが無秩序で予測不可能な状態に破壊される可能性がある。 「ナイトシェード（Nightshade）」と呼ばれるこのツールの目的は、アーティストの許可なく作品を使用してモデルを訓練しようとするAI企業に反撃する方法を提供することだ。「ダリー（DALL-E）」、「ミッドジャー</description>
+    </item>
+    <item>
+      <title>「ChatGPT」「Bing Chat」「Google Bard」を比較--自分に最適な生成AIの選び方</title>
+      <link>https://japan.zdnet.com/article/35210749/</link>
+      <pubDate>2023/10/27 08:06</pubDate>
+      <description>はじめに 株式会社スマートショッピングで SRE をしているbiosugar0です。 先日、2023 年 10 月 23 日に行われた Amazon Bedrock Prototyping Camp というイベントに参加してきました。 そこでは Bedrock の紹介から始まり、Claude のハンズオン、実際にプロダクト反映を目指したプロトタイピングを行うという内容でした。 今回はその中で検証、実装した社内用の Slack bot に弊社ヘルプページを参照させる事例を紹介します。 Retrieval Augmented Generation (RAG) Retrieval Augmented Generation (RAG)は、LLM を用いた処理において、外部のデータベースや文書と連携してより精度の高い回答を生成するためのテクニックです。 GPT-4 のような LLM は、学習に使用さ</description>
+    </item>
+    <item>
+      <title>「CAPTCHA」の終わりの始まり</title>
+      <link>https://www.technologyreview.jp/s/320633/death-to-captchas/</link>
+      <pubDate>2023/10/26 09:37</pubDate>
+      <description>ホーム AI論文解説, 大規模言語モデル LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も マイページに保存最終更新日：2023/10/26 「ステップバイステップで考えてください」といったプロンプトで知られるChain-of-Thought（CoT）手法に匹敵する性能を持つプロンプト手法『Inferential Exclusion Prompting（IEP）』が研究者たちによって開発されました。IEPは大規模言語モデル（LLM）に非線形的な思考をさせることを目的としています。 IEPは、さまざまなタスクでCoTを上回る性能を示しています。また、さらに興味深いことに、CoTと統合することで、その効果はより一層高まる場合があります。 この研究は、カリフォルニア大学やペンシルバニア大学などの研究者によって行われま</description>
+    </item>
   </channel>
 </rss>
