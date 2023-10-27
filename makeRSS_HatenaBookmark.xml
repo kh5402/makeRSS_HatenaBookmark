@@ -4885,5 +4885,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/548038e081d888f6172f91324351232de12e1fcb/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1542%2F091%2Fimage3.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>画像生成AIに｢毒を盛る｣。アーティストの権利を守るためのツール登場</title>
+      <link>https://www.gizmodo.jp/2023/10/nightshade.html</link>
+      <pubDate>2023/10/26 21:51</pubDate>
+      <description>Generate images in one second on your Mac using a latent consistency model Posted yesterday by @fofr Latent consistency models (LCMs) are based on Stable Diffusion, but they can generate images much faster, needing only 4 to 8 steps for a good image (compared to 25 to 50 steps). By running an LCM on your M1 or M2 Mac you can generate 512x512 images at a rate of one per second. Simian Luo et al rel</description>
+    </item>
+    <item>
+      <title>「言語を一般化する人間のような能力を持つニューラルネットワーク」の登場によりAIに革新が起こる可能性</title>
+      <link>https://gigazine.net/news/20231026-ai-breakthrough-neural-network/</link>
+      <pubDate>2023/10/26 22:35</pubDate>
+      <description>ホーム AI論文解説, 大規模言語モデル LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も マイページに保存最終更新日：2023/10/26 「ステップバイステップで考えてください」といったプロンプトで知られるChain-of-Thought（CoT）手法に匹敵する性能を持つプロンプト手法『Inferential Exclusion Prompting（IEP）』が研究者たちによって開発されました。IEPは大規模言語モデル（LLM）に非線形的な思考をさせることを目的としています。 IEPは、さまざまなタスクでCoTを上回る性能を示しています。また、さらに興味深いことに、CoTと統合することで、その効果はより一層高まる場合があります。 この研究は、カリフォルニア大学やペンシルバニア大学などの研究者によって行われま</description>
+    </item>
   </channel>
 </rss>
