@@ -5005,5 +5005,17 @@
       <pubDate>2023/10/26 21:50</pubDate>
       <description>Webサイト上でユーザーが人間であることを証明する手段として使われてきた「CAPTCHA」が、AI技術の進展によってますます難しくなっている。CAPTCHAに代わる手段も登場しており、いずれ廃止される可能性もありそうだ。 by Shubham Agarwal2023.10.26 2 3 今年の初め、HBO Max（動画配信サービス）にログインしようとしたユーザーは、たくさんの曲を聴いて、その中から繰り返しのパターンがある曲を選択するという音声問題を解かなければならなかった。また私は最近、リンクトイン（LinkedIn）にログインしようとして、見慣れないパズルで、人間であることを証明するように求められた経験がある。左右のボタンを使って、ピンクの犬の3D画像を、隣の手が指す方向まで回転させなくてはならなかったのだ。 WebサイトはこうしたCAPTCHA（キャプチャ、名前は「Completely</description>
     </item>
+    <item>
+      <title>生成AIでWebサイト制作を8週間→3週間に短縮　ベネッセ、業務効率化でコスト4割減に成功</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/27/news191.html</link>
+      <pubDate>2023/10/27 19:02</pubDate>
+      <description>こんにちは、最近久々にソロキャンプをしてきました菅野です。 AWS上で、 ChatGPTのようなテキスト生成AIを利用できるようになるサービス、Amazon Bedrockがリリースされました。 今回はBedrockで、LambdaのPythonコードを生成してもらいます。 利用するモデルは、ChatGPTと同レベルの性能を有しているClaudeV2を利用します。詳細はこちら。 Bedrockについて執筆した別記事もあわせてご覧ください。 acro-engineer.hatenablog.com acro-engineer.hatenablog.com S3に保存したCSVファイルの平均を求めるLambda関数を作成する 以下のようなcsvをS3からダウンロードし、一分毎、name毎の平均を返却するLambdaを作成してもらいます。 id,name,value,timestamp 1,da</description>
+    </item>
+    <item>
+      <title>GoogleがジェネレーティブAIが抱える脆弱性などを発見したユーザーに報奨金を支払うプログラムを開始</title>
+      <link>https://gigazine.net/news/20231027-google-generative-ai-bounty-program/</link>
+      <pubDate>2023/10/27 11:04</pubDate>
+      <description>米OpenAIは10月26日（現地時間）、AIの「フロンティアモデル」が人類にもたらす可能性のある“壊滅的な（catastrophic）”リスクに備えるための新部門「Preparedness」チームを結成したと発表した。 同社は7月にはAIを手掛けるAnthropic、Google、Microsoftとともに、AIの安全性のベストプラクティスを特定し、社会的課題へのAI技術の利用を促進するための業界団体「Frontier Model Forum」（FMF）を立ち上げた。 フロンティアモデルとは、FMFによると「最先端の既存モデルの機能を超え、さまざまなタスクを実行できる大規模な機械学習モデル」という。 Preparednessチームを率いるのは、マサチューセッツ工科大学（MIT）のMLセンター所長、アレクサンダー・マドリー博士。LinkedInによると、5月にPreparednessのトッ</description>
+    </item>
   </channel>
 </rss>
