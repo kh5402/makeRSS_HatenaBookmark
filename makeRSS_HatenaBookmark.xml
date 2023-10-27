@@ -4975,5 +4975,17 @@
       <pubDate>2023/10/26 09:37</pubDate>
       <description>ホーム AI論文解説, 大規模言語モデル LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も マイページに保存最終更新日：2023/10/26 「ステップバイステップで考えてください」といったプロンプトで知られるChain-of-Thought（CoT）手法に匹敵する性能を持つプロンプト手法『Inferential Exclusion Prompting（IEP）』が研究者たちによって開発されました。IEPは大規模言語モデル（LLM）に非線形的な思考をさせることを目的としています。 IEPは、さまざまなタスクでCoTを上回る性能を示しています。また、さらに興味深いことに、CoTと統合することで、その効果はより一層高まる場合があります。 この研究は、カリフォルニア大学やペンシルバニア大学などの研究者によって行われま</description>
     </item>
+    <item>
+      <title>Amazon Bedrock(ClaudeV2)でLambdaのコードを生成してみた - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/10/27/130000</link>
+      <pubDate>2023/10/27 17:54</pubDate>
+      <description>米OpenAIは10月26日（現地時間）、AIの「フロンティアモデル」が人類にもたらす可能性のある“壊滅的な（catastrophic）”リスクに備えるための新部門「Preparedness」チームを結成したと発表した。 同社は7月にはAIを手掛けるAnthropic、Google、Microsoftとともに、AIの安全性のベストプラクティスを特定し、社会的課題へのAI技術の利用を促進するための業界団体「Frontier Model Forum」（FMF）を立ち上げた。 フロンティアモデルとは、FMFによると「最先端の既存モデルの機能を超え、さまざまなタスクを実行できる大規模な機械学習モデル」という。 Preparednessチームを率いるのは、マサチューセッツ工科大学（MIT）のMLセンター所長、アレクサンダー・マドリー博士。LinkedInによると、5月にPreparednessのトッ</description>
+    </item>
+    <item>
+      <title>クック「何年も前から生成AIに取り組んできた」、iPhone 16は大きく変わる？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/66842</link>
+      <pubDate>2023/10/24 10:33</pubDate>
+      <description>こんにちは、研究開発部 Data Analysisグループの笛木です。 4/26（水）〜 4/28（金）で研究開発部内の技術研修を行いました。 こちらのブログの続きでテストコードについての研修資料を一部公開します。研修では新卒2年目の私が1年間で部内のコードなどから学んだ情報を共有しました。至らない部分もあるかもしれませんが、ご参考になれば幸いです。 こちらの研修で使用したGitHubのコードリンクは以下です。適宜、ご参照ください。 github.com 目次 目次 はじめに この研修の目的 研修スコープ外 テストコードについて テストコードの便利な点 テストコードの悪い例 テストコードに関するFAQ pytestによるテストコードの書き方 ファイル名 ディレクトリ 基本編 Parametrize Fixture 異常系 Mock indirect conftest 知っておくと活用する場</description>
+    </item>
   </channel>
 </rss>
