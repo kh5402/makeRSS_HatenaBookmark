@@ -5050,5 +5050,11 @@
       <pubDate>2023/10/27 12:00</pubDate>
       <description>はじめに openai chat completions api(以下ChatGPT API)を使っているが、コストダウンやドメインに特化したfinetuneモデルを使いたいといったニーズでlocal LLMを使いたいというニーズがあると思います。 その場合に、ChatGPT APIを利用する側のアプリケーションコードはそのままで、local LLMをサーバとしてたてて、使用するLLMだけ変えるという実現方法が考えられます。 幾つか良い実現方法があったため、現状、どのようなツールを使用して実現できるか簡単にまとめました。 ところで、偉い人に「うちもChatGPT作って」と言われた時、あなたならどうしますか？ （その答えの一つを「おわりに」に書きました） 解説 ChatGPT API互換サーバを作る場合、自分でlocal LLMをラップしてAPIサーバを実装してしまうことも考えられますが、そ</description>
     </item>
+    <item>
+      <title>ChatGPTを開発したOpenAIが「AIの壊滅的なリスク」を分析して人類を保護するための専門チームを結成</title>
+      <link>https://gigazine.net/news/20231027-openai-preparedness-team-catastrophic-risks-ai/</link>
+      <pubDate>2023/10/27 19:25</pubDate>
+      <description>Microsoftは2023年10月23日（米国時間）に公式ブログで、効果的なプロンプトを作成し、生成AIの可能性を引き出す25のヒントを紹介した。 AI（人工知能）、特に大規模言語モデル（LLM）の文脈では、プロンプトとは、ユーザーが特定のタイプの応答を引き出すために、AIに与える入力や指示を指す。このところ注目を集めているLLMを最大限に活用するには、効果的なプロンプトを作成することが不可欠だ。 Microsoftは「Azure OpenAI Service」で「GPT-3.5-Turbo」や「GPT-4」のようなLLMを提供している。「実生活でのコミュニケーションと同じように、AIとのやりとりでも、欲しい情報をどのようにリクエストするかで、受け取る情報の種類が限られたり、広がったりする。プロンプトは、AIがユーザーの意図とAIへの期待を特定するのに役立つ。そのため、より正確なプロンプ</description>
+    </item>
   </channel>
 </rss>
