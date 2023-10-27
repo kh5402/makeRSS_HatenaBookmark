@@ -4939,5 +4939,23 @@
       <pubDate>2023/10/27 13:06</pubDate>
       <description>Torishima / INTP @izutorishima アニメと Web と DTV と技術とﾌﾟﾛｸﾞﾗﾐﾝｸﾞとその他諸々なオタク (⚠⚠⚠FOLLOW DEPRECATED!!!⚠⚠⚠) IT と AI 関連の情報ウォッチしてます 同IDでThreads/Misskey/Blueskyにもたまにいます note.com/sumisutori Torishima / INTP @izutorishima 今年も終盤なので AI 技術の発展について思ったこと: ・革新的な技術は最初は驚きと興奮があるが、社会実装が進むほど「当たり前」になっていく ・ChatGPT の知名度は上がったが、使ってる人・課金してGPT-4使ってる人・結局使ってない人でかなり格差が出来ていて、当初思ったほどに普及してない（続） 2023-10-26 18:02:16 Torishima / INTP @iz</description>
     </item>
+    <item>
+      <title>生成AIにアーティストが反撃、汚染データでモデルを壊す新技術</title>
+      <link>https://www.technologyreview.jp/s/320556/this-new-data-poisoning-tool-lets-artists-fight-back-against-generative-ai/</link>
+      <pubDate>2023/10/27 07:09</pubDate>
+      <description>わかるよ。すげえわかる。AI絵師(笑)が憎いよな？ あいつらは、俺ら絵師(俺みたいな弱小絵師は含まれないかもしれんが)の作品を無断で学習したAIを使って、一本も線を引かずに「俺らAI絵師っす！まだペン持ってるんすかｗｗｗ教師データごちっすｗｗｗｗｗｗ」みたいに煽ってきてな？すげえわかる。弱小絵師の俺なんかでよければ200%その憎しみに寄り添ってやれるよ。憎いよなあいつら。 でもさ、頼むからAI絵師(笑)を叩くのを即刻やめてくれ。お願いだから。少なくともオープンな場で叩くのをやめてくれ。 みんながAI絵師(笑)叩きに励めば励むほど、俺らの置かれている状況はどんどん不味くなっていく。俺はそのことを知って欲しくて今回これを書いている。 (AI絵師を叩くなという文章を書く以上、これ以降はAI絵師のあとに(笑)をつけません) ●我々の目標は「社会的合意の元にルールを作る」ことであるべき『失敗の本質』</description>
+    </item>
+    <item>
+      <title>Slack Botによるヘルプページの情報参照:LLMを組み合わせたRAGの実装</title>
+      <link>https://zenn.dev/smartshopping/articles/rag-with-bedrock-and-openai</link>
+      <pubDate>2023/10/27 09:27</pubDate>
+      <description>参考記事: https://www.bannerbear.com/blog/why-you-should-do-50-coding-and-50-marketing-as-a-solo-tech-founder/ ポストック: https://postock.app/</description>
+    </item>
+    <item>
+      <title>生成AI　若者は「おもしろいコンテンツを生み出す」　中高年は「仕事を手伝ってくれる」　アドビの意識調査</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/26/news100.html</link>
+      <pubDate>2023/10/26 12:07</pubDate>
+      <description>Amazon Connect + Lex + BedrockのAIチャットボットで、発話から個人情報（名前、住所、生年月日）を正しく認識できるか試してみた はじめに Amazon Connect + Lex + Bedrockで、発話から個人情報（番号や名前、住所、誕生日）を正しく認識できるか試してみました。 ConnectとLexによるAIチャットボットで、有人対応から無人対応に変更したいニーズが増えているように思います。 事前に登録したお客様情報に対して、AIチャットボットがお客様の認証を対応できるか気になったため、まず数字や英字、住所などをAIチャットボットが発話どおりに認識してくれるか検証しました。 今回の記事では、以下の５つの項目を発話し、AIチャットボットで正しく認識できるか確認します。 住所 名前 英字 数字 生年月日 特に、数字に関しては、AIチャットボットで電話番号や会員</description>
+    </item>
   </channel>
 </rss>
