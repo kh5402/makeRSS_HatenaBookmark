@@ -5044,5 +5044,11 @@
       <pubDate>2023/10/27 11:40</pubDate>
       <description>こんにちは、最近久々にソロキャンプをしてきました菅野です。 AWS上で、 ChatGPTのようなテキスト生成AIを利用できるようになるサービス、Amazon Bedrockがリリースされました。 今回はBedrockで、LambdaのPythonコードを生成してもらいます。 利用するモデルは、ChatGPTと同レベルの性能を有しているClaudeV2を利用します。詳細はこちら。 Bedrockについて執筆した別記事もあわせてご覧ください。 acro-engineer.hatenablog.com acro-engineer.hatenablog.com S3に保存したCSVファイルの平均を求めるLambda関数を作成する 以下のようなcsvをS3からダウンロードし、一分毎、name毎の平均を返却するLambdaを作成してもらいます。 id,name,value,timestamp 1,da</description>
     </item>
+    <item>
+      <title>ボストン・ダイナミクスがChatGPTを使って自社のロボット犬を「話す犬」に変える</title>
+      <link>https://gigazine.net/news/20231027-boston-dynamics-spot-talking-with-chatgpt/</link>
+      <pubDate>2023/10/27 12:00</pubDate>
+      <description>はじめに openai chat completions api(以下ChatGPT API)を使っているが、コストダウンやドメインに特化したfinetuneモデルを使いたいといったニーズでlocal LLMを使いたいというニーズがあると思います。 その場合に、ChatGPT APIを利用する側のアプリケーションコードはそのままで、local LLMをサーバとしてたてて、使用するLLMだけ変えるという実現方法が考えられます。 幾つか良い実現方法があったため、現状、どのようなツールを使用して実現できるか簡単にまとめました。 ところで、偉い人に「うちもChatGPT作って」と言われた時、あなたならどうしますか？ （その答えの一つを「おわりに」に書きました） 解説 ChatGPT API互換サーバを作る場合、自分でlocal LLMをラップしてAPIサーバを実装してしまうことも考えられますが、そ</description>
+    </item>
   </channel>
 </rss>
