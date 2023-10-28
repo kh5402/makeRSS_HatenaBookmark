@@ -5056,5 +5056,17 @@
       <pubDate>2023/10/27 19:25</pubDate>
       <description>Microsoftは2023年10月23日（米国時間）に公式ブログで、効果的なプロンプトを作成し、生成AIの可能性を引き出す25のヒントを紹介した。 AI（人工知能）、特に大規模言語モデル（LLM）の文脈では、プロンプトとは、ユーザーが特定のタイプの応答を引き出すために、AIに与える入力や指示を指す。このところ注目を集めているLLMを最大限に活用するには、効果的なプロンプトを作成することが不可欠だ。 Microsoftは「Azure OpenAI Service」で「GPT-3.5-Turbo」や「GPT-4」のようなLLMを提供している。「実生活でのコミュニケーションと同じように、AIとのやりとりでも、欲しい情報をどのようにリクエストするかで、受け取る情報の種類が限られたり、広がったりする。プロンプトは、AIがユーザーの意図とAIへの期待を特定するのに役立つ。そのため、より正確なプロンプ</description>
     </item>
+    <item>
+      <title>「Microsoft Teams」の自動化機能がリニューアル ～テンプレートの拡充やAI機能も／「Power Automate」を「Workflow」に統合してわかりやすく</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1542605.html</link>
+      <pubDate>2023/10/27 18:15</pubDate>
+      <description>近年はAI開発が急速に進展する一方で「AIがもたらすリスク」を懸念する声も高まっており、チャットAIのChatGPTや画像生成AIのDALL-E 3を開発したOpenAIのサム・アルトマンCEOも、「AIの規制は不可欠」と主張しています。新たにOpenAIが、既存のAIモデルを超える性能を持つであろう将来の「フロンティアAIモデル」がもたらす壊滅的なリスクを管理するため、「Preparedness(準備)」と名付けられた新たな専門チームを結成したと発表しました。 Frontier risk and preparedness https://openai.com/blog/frontier-risk-and-preparedness OpenAI forms team to study ‘catastrophic’ AI risks, including nuclear threats |</description>
+    </item>
+    <item>
+      <title>ガンダム“宇宙世紀”実現に向けた取り組みが明かされる　「2025年、大型汎用操縦機械の通称を『MS』に」「ビーム・サーベルを農業に活用」など</title>
+      <link>https://nlab.itmedia.co.jp/nl/articles/2310/27/news152.html</link>
+      <pubDate>2023/10/27 15:18</pubDate>
+      <description>Microsoftは2023年10月23日（米国時間）に公式ブログで、効果的なプロンプトを作成し、生成AIの可能性を引き出す25のヒントを紹介した。 AI（人工知能）、特に大規模言語モデル（LLM）の文脈では、プロンプトとは、ユーザーが特定のタイプの応答を引き出すために、AIに与える入力や指示を指す。このところ注目を集めているLLMを最大限に活用するには、効果的なプロンプトを作成することが不可欠だ。 Microsoftは「Azure OpenAI Service」で「GPT-3.5-Turbo」や「GPT-4」のようなLLMを提供している。「実生活でのコミュニケーションと同じように、AIとのやりとりでも、欲しい情報をどのようにリクエストするかで、受け取る情報の種類が限られたり、広がったりする。プロンプトは、AIがユーザーの意図とAIへの期待を特定するのに役立つ。そのため、より正確なプロンプ</description>
+    </item>
   </channel>
 </rss>
