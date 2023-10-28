@@ -5107,5 +5107,17 @@
       <pubDate>2023/10/27 05:49</pubDate>
       <description>こんにちは、最近久々にソロキャンプをしてきました菅野です。 AWS上で、 ChatGPTのようなテキスト生成AIを利用できるようになるサービス、Amazon Bedrockがリリースされました。 今回はBedrockで、LambdaのPythonコードを生成してもらいます。 利用するモデルは、ChatGPTと同レベルの性能を有しているClaudeV2を利用します。詳細はこちら。 Bedrockについて執筆した別記事もあわせてご覧ください。 acro-engineer.hatenablog.com acro-engineer.hatenablog.com S3に保存したCSVファイルの平均を求めるLambda関数を作成する 以下のようなcsvをS3からダウンロードし、一分毎、name毎の平均を返却するLambdaを作成してもらいます。 id,name,value,timestamp 1,da</description>
     </item>
+    <item>
+      <title>GPT-4などLLMのコード生成能力にデバッグ機能を追加する『SELF-DEBUGGING（セルフデバッギング）』と実行プロンプト | AIDB</title>
+      <link>https://aiboom.net/archives/57709</link>
+      <pubDate>2023/10/28 09:53</pubDate>
+      <description>Word原稿からスライドを自動生成――Microsoft 365 copilot、企業向けに提供開始へ：11月1日から マイクロソフトは11月1日、マイクロソフトオフィスのアプリケーション群に生成AIによる作業支援機能を搭載した「Microsoft 365 Copilot」を企業向けに提供開始する。どのようなことが可能になるのか。 マイクロソフトは11月1日、マイクロソフトオフィスのアプリケーション群に生成AIによる作業支援機能を搭載した「Microsoft 365 Copilot」を企業向けに提供開始する。利用料は1ユーザーあたり月額30ドル（約4500円）だ。 Copilot（コパイロット）は「副操縦士」を意味する。LLM（大規模言語モデル）とマイクロソフトオフィスのユーザーデータを活用し、ユーザーの意向に沿ったアウトプットを提供するという。具体的にどのようなことが可能になるのか。</description>
+    </item>
+    <item>
+      <title>LINEヤフーが「GitHub Copilot for Business」を導入、1人あたりのコーディング時間が削減</title>
+      <link>https://codezine.jp/article/detail/18577</link>
+      <pubDate>2023/10/27 12:43</pubDate>
+      <description>生成AIを開発するアメリカの「オープンAI」は、人工知能がもたらすサイバーセキュリティーや核の脅威などの「破滅的なリスク」を研究する専門のチームを立ち上げると発表しました。 これは、生成AIの「ChatGPT」を開発したアメリカの企業オープンAIが26日、公式ウェブサイトで明らかにしました。 このなかでは、将来的に開発されるAI＝人工知能は「全人類の利益となる可能性を秘めているが、一層深刻なリスクを引き起こす」として、AIが悪用された場合の危険性や、最先端の言語処理のモデルが盗まれた場合、どのように悪用されるおそれがあるかについて、理解を深める必要があるとしています。 そのうえで、サイバーセキュリティーや核の脅威など「破滅的なリスク」について研究するための専門のチームを立ち上げ、今後のAIの開発方針に活用するとしています。 AIの活用をめぐっては、イギリスで来月、各国の政府高官や企業の代表</description>
+    </item>
   </channel>
 </rss>
