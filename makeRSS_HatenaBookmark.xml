@@ -5101,5 +5101,11 @@
       <pubDate>2023/10/27 13:36</pubDate>
       <description>「2025年、大型汎用操縦機械の通称を『MS』に」「ビーム・サーベルを農業に活用」――「機動戦士ガンダム」の世界観である「宇宙世紀」に登場する技術や要素を現実社会に実装していこうとするバンダイナムコグループの取り組みで、具体的なプロジェクトが10月27日に発表されました。 2025年に大型汎用操縦機械の通称を「MS」にすることを目指す（画像は過去記事から） (C)創通・サンライズ 「ガンダムオープンイノベーション（GOI）」と呼ばれるこの取り組みは、ガンダムの時代背景「宇宙世紀」（人類が宇宙へ進出してからの時代を指す記年法）を現代社会に捉えなおし、人口問題・地球環境問題の解決に向けた新しい発想や技術を募集するもので、2021年度から実施。直近では、三菱重工などもパートナーに加わり、15のパートナーが付いています。 取り組みの具体的な動きとして、宇宙での暮らしを実現する上での技術検証や実験環</description>
     </item>
+    <item>
+      <title>AIと人間が違法コンテンツを監視　IT大手の対応策、EUが公開：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRBW0F44RBVUHBI047.html</link>
+      <pubDate>2023/10/27 05:49</pubDate>
+      <description>こんにちは、最近久々にソロキャンプをしてきました菅野です。 AWS上で、 ChatGPTのようなテキスト生成AIを利用できるようになるサービス、Amazon Bedrockがリリースされました。 今回はBedrockで、LambdaのPythonコードを生成してもらいます。 利用するモデルは、ChatGPTと同レベルの性能を有しているClaudeV2を利用します。詳細はこちら。 Bedrockについて執筆した別記事もあわせてご覧ください。 acro-engineer.hatenablog.com acro-engineer.hatenablog.com S3に保存したCSVファイルの平均を求めるLambda関数を作成する 以下のようなcsvをS3からダウンロードし、一分毎、name毎の平均を返却するLambdaを作成してもらいます。 id,name,value,timestamp 1,da</description>
+    </item>
   </channel>
 </rss>
