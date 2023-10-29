@@ -5137,5 +5137,11 @@
       <pubDate>2023/10/28 20:01</pubDate>
       <description>認知負荷および認知負荷理論 (Cognitive Load Theory) をもう少し正確に理解するための心理学研究・知見の紹介 この記事の目的 ここ数年で、ソフトウェア開発やプログラミングの文脈で、「認知負荷」 および 「認知負荷理論」 という用語をよく見聞きするようになりました。私が今思い出せるだけでも、以下のような書籍や Podcast で重要なキーワードとして取り上げられています。 A Philosophy of Software Design, 2nd Edition チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計 プログラマー脳 ～優れたプログラマーになるための認知科学に基づくアプローチ fukabori.fm 102. A Philosophy of Software Design (3/3) w/ twada この「認知負荷」ですが、少なくとも近年見聞</description>
     </item>
+    <item>
+      <title>イラストの無断AI学習の対抗策「Nightshade」とその反応</title>
+      <link>https://togetter.com/li/2249209</link>
+      <pubDate>2023/10/29 13:36</pubDate>
+      <description>各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど）Python機械学習入門ChatGPTLLM CoT、Zero-CoT、ToT、mock、ReAct、Step Back、Metacog、IEPなど、各種Prompt Engineering手法の概説と、日本語での実際のプロンプト例をまとめた記事です。 各種Prompt Engineering手法を日本語で実装したい方向けの記事となります。 本記事で取り扱う手法は以下の通りです。 項目数が多いため、記事右下の目次リンクもご活用ください。 本記事の内容 01: 通常のPrompt 02: Few-shot Learning 03: CoT（Chain of Thought） 04: 出力形式の指定方法 05: Zero-shot CoT（≒</description>
+    </item>
   </channel>
 </rss>
