@@ -5149,5 +5149,17 @@
       <pubDate>2023/10/23 11:12</pubDate>
       <description>ホーム AI論文解説, 大規模言語モデル LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も マイページに保存最終更新日：2023/10/26 「ステップバイステップで考えてください」といったプロンプトで知られるChain-of-Thought（CoT）手法に匹敵する性能を持つプロンプト手法『Inferential Exclusion Prompting（IEP）』が研究者たちによって開発されました。IEPは大規模言語モデル（LLM）に非線形的な思考をさせることを目的としています。 IEPは、さまざまなタスクでCoTを上回る性能を示しています。また、さらに興味深いことに、CoTと統合することで、その効果はより一層高まる場合があります。 この研究は、カリフォルニア大学やペンシルバニア大学などの研究者によって行われま</description>
     </item>
+    <item>
+      <title>長期主義、AIめぐる議論を取り巻く「危険」なイデオロギー</title>
+      <link>https://www.afpbb.com/articles/-/3480446</link>
+      <pubDate>2023/10/29 09:32</pubDate>
+      <description>「ChatGPT」などの生成AIから役に立つ応答を引き出すには、どのようなプロンプトを与えるのが最善なのだろうか。Microsoftが勧める25のプロンプト術を紹介する。 「ChatGPT」などの生成AI（人工知能）はユーザーの問いかけ（プロンプト）に対して、応答する。プロンプトが適切でないと、望みの結果は得られない。 連載では6回にわたってChatGPTの開発元が公開した6つの戦略を紹介してきた。今回はMicrosoftが2023年10月23日に公開した生成AIを使いこなす25のプロンプト術を紹介する。 Microsoftが勧める25のプロンプト術 （1）解決したい課題を明確に伝える 解決したい問題やニーズをまずプロンプトとして明確に示す。「最新アプリケーション（アプリ）向けのマーケティングキャンペーンについて斬新なアイデアが欲しい」といった具合だ。 （2）単純な質問から始める モデルの</description>
+    </item>
+    <item>
+      <title>Cursorはコードベースに質問できる - laiso</title>
+      <link>https://laiso.hatenablog.com/entry/2023/10/28/171539</link>
+      <pubDate>2023/10/28 20:52</pubDate>
+      <description>Googleは検索エンジンやブラウザ、広告出稿サービスなどインターネットに関するさまざまなサービスを展開しています。そんなGoogleが「検索エンジン市場を違法に独占している」として、アメリカ司法省から訴えられているのですが、この訴訟の中でGoogleは2021年にブラウザのデフォルトの検索エンジンになるために263億ドル(約3兆9400億円)もの資金を投じていたことが明らかになりました。 Google paid $26.3 billion in 2021 to be the default search for Apple, Firefox, and more - The Verge https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion イ</description>
+    </item>
   </channel>
 </rss>
