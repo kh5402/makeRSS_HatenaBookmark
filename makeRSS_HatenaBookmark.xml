@@ -5203,5 +5203,17 @@
       <pubDate>2023/10/28 18:40</pubDate>
       <description>Googleは検索エンジンやブラウザ、広告出稿サービスなどインターネットに関するさまざまなサービスを展開しています。そんなGoogleが「検索エンジン市場を違法に独占している」として、アメリカ司法省から訴えられているのですが、この訴訟の中でGoogleは2021年にブラウザのデフォルトの検索エンジンになるために263億ドル(約3兆9400億円)もの資金を投じていたことが明らかになりました。 Google paid $26.3 billion in 2021 to be the default search for Apple, Firefox, and more - The Verge https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion イ</description>
     </item>
+    <item>
+      <title>英語習得の近道は、ChatGPTで“自分で教材を作る”こと　『英語は10000時間でモノになる』著者がすすめる学習法</title>
+      <link>https://logmi.jp/business/articles/329546</link>
+      <pubDate>2023/10/28 14:07</pubDate>
+      <description>こんにちは、つくぼし(tsukuboshi0755)です！ ChatGPTから始まったAIブームは、まだまだとどまる事を知らないですね。 さらにAzure OpenAI ServiceやAmazon Bedrock等の生成AIサービスが主要クラウド上で出揃った事で、エンタープライズ業界でも徐々にLarge Language Models(以下LLM)を用いたシステム開発の需要が高まってきています。 しかし普段はAWSインフラ関連の業務を専門とする私を含め、LLMアプリ開発初心者のエンジニアにとって、生成AIを活かして一からシステムを開発するのは、まだまだハードルが高いように感じられます。 特に以下のような点で、まだ理解が追いついていないと感じているエンジニアの方が多いのではないでしょうか？ LLMを使うと何ができるのか？ ChatGPTのAPIを触ってみたいが、どのように使えばいいのか？</description>
+    </item>
+    <item>
+      <title>ジェネレーティブAIは「流行期」へ、日本では主流まで2〜5年。ハイプ・サイクル理論での立ち位置が明らかに | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/10/29/ai-hype-cycles/</link>
+      <pubDate>2023/10/29 08:06</pubDate>
+      <description>mirium @numatakeja 画像生成AIに対する新たな防御ツール、Nightshade。記事の内容通りならメチャクチャ凄いぞこれ！！ ・わずか100枚の”毒入り”画像を学習させるだけでSDXLの出力がほぼ完全に崩壊する ・毒は伝播する。例えば毒入りの「犬」を学習させると「ハスキー」や「狼」の出力も崩壊する Glazeへの統合が楽しみだ twitter.com/TheGlazeProjec… pic.twitter.com/uKgeJYybvN 2023-10-24 23:29:46 Glaze at UChicago @TheGlazeProject By now, I&amp;#39;m guessing most have already seen the news on our new project, Nightshade. Lots of artists sharing it, but</description>
+    </item>
   </channel>
 </rss>
