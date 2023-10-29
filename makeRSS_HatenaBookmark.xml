@@ -5167,5 +5167,29 @@
       <pubDate>2023/10/27 10:35</pubDate>
       <description>背景と課題 1. LLMは初めから正確なコードを生成しない LLMは、コード生成においても優れた性能を示しています。自然言語からのコード生成やコード変換など、多くのプログラミングタスクでその能力が評価されています。しかし、複雑なプログラミングタスクにおいて、一度の試行で正確なコードを生成することは容易ではありません。 2. 追加訓練のコスト 既存の研究では、特定のタスクに対する性能を向上させるために、モデルの追加訓練が多く行われています。しかし、追加訓練は時間とコストがかかり、効率的ではありません。 3. コードの理解と実行 LLMは自然言語の指示に従う能力は高いものの、コードの実行に関する理解は限定的だと言われています。例えば、問題の説明にユニットテスト（※）が提供されていても、生成されたプログラムが必ずしも正確であるわけではありません。 ※ユニットテストとは、プログラムの一部（通常は関</description>
     </item>
+    <item>
+      <title>LLMアプリ開発を体系的に学ぶには最適の入門書「ChatGPT/LangChainによるチャットシステム構築［実践］入門」 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/review-chatgpt-langchain-chatsystem/</link>
+      <pubDate>2023/10/29 16:04</pubDate>
+      <description>mirium @numatakeja 画像生成AIに対する新たな防御ツール、Nightshade。記事の内容通りならメチャクチャ凄いぞこれ！！ ・わずか100枚の”毒入り”画像を学習させるだけでSDXLの出力がほぼ完全に崩壊する ・毒は伝播する。例えば毒入りの「犬」を学習させると「ハスキー」や「狼」の出力も崩壊する Glazeへの統合が楽しみだ twitter.com/TheGlazeProjec… pic.twitter.com/uKgeJYybvN 2023-10-24 23:29:46 Glaze at UChicago @TheGlazeProject By now, I&amp;#39;m guessing most have already seen the news on our new project, Nightshade. Lots of artists sharing it, but</description>
+    </item>
+    <item>
+      <title>各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど） - Qiita</title>
+      <link>https://qiita.com/YutaroOgawa2/items/aca32f8fd7d551596cf8</link>
+      <pubDate>2023/10/29 12:10</pubDate>
+      <description>中国・上海で開催された世界人工知能大会（WAIC）に展示されたテスラのロボット（2023年7月6日撮影、資料写真）。(c)WANG Zhao / AFP 【10月29日 AFP】米シリコンバレー（Silicon Valley）で人気のある「長期主義（Longtermism）」という思想は、人類滅亡というテーマを軸に据えて人工知能（AI）をめぐる議論の枠組みを提供してきた。 しかしここへ来て、「長期主義は危険」だと警戒する声が大きくなっている。人類滅亡という壮大なテーマにとらわれすぎ、データ窃盗や偏ったアルゴリズムなど、AIに関する現実的な問題を矮小（わいしょう）化しているという批判だ。 人類滅亡思想の歴史について著書がある作家のエミール・トーレス（Emile Torres）氏も、以前は長期主義に賛同していたが、今は反対の立場を取っている。 同氏は長期主義について、過去に大量虐殺やジェノサイ</description>
+    </item>
+    <item>
+      <title>Microsoft、ゲームとAIで狙う時価総額Apple超え - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN25E7K0V21C23A0000000/</link>
+      <pubDate>2023/10/28 10:07</pubDate>
+      <description>「ChatGPT」などの生成AIから役に立つ応答を引き出すには、どのようなプロンプトを与えるのが最善なのだろうか。Microsoftが勧める25のプロンプト術を紹介する。 「ChatGPT」などの生成AI（人工知能）はユーザーの問いかけ（プロンプト）に対して、応答する。プロンプトが適切でないと、望みの結果は得られない。 連載では6回にわたってChatGPTの開発元が公開した6つの戦略を紹介してきた。今回はMicrosoftが2023年10月23日に公開した生成AIを使いこなす25のプロンプト術を紹介する。 Microsoftが勧める25のプロンプト術 （1）解決したい課題を明確に伝える 解決したい問題やニーズをまずプロンプトとして明確に示す。「最新アプリケーション（アプリ）向けのマーケティングキャンペーンについて斬新なアイデアが欲しい」といった具合だ。 （2）単純な質問から始める モデルの</description>
+    </item>
+    <item>
+      <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra</title>
+      <link>https://speakerdeck.com/kiriem/proggrammingeducationongenaiera</link>
+      <pubDate>2023/10/27 15:10</pubDate>
+      <description>認知負荷および認知負荷理論 (Cognitive Load Theory) をもう少し正確に理解するための心理学研究・知見の紹介 この記事の目的 ここ数年で、ソフトウェア開発やプログラミングの文脈で、「認知負荷」 および 「認知負荷理論」 という用語をよく見聞きするようになりました。私が今思い出せるだけでも、以下のような書籍や Podcast で重要なキーワードとして取り上げられています。 A Philosophy of Software Design, 2nd Edition チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計 プログラマー脳 ～優れたプログラマーになるための認知科学に基づくアプローチ fukabori.fm 102. A Philosophy of Software Design (3/3) w/ twada この「認知負荷」ですが、少なくとも近年見聞</description>
+    </item>
   </channel>
 </rss>
