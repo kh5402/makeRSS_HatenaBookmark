@@ -5143,5 +5143,11 @@
       <pubDate>2023/10/29 13:36</pubDate>
       <description>各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど）Python機械学習入門ChatGPTLLM CoT、Zero-CoT、ToT、mock、ReAct、Step Back、Metacog、IEPなど、各種Prompt Engineering手法の概説と、日本語での実際のプロンプト例をまとめた記事です。 各種Prompt Engineering手法を日本語で実装したい方向けの記事となります。 本記事で取り扱う手法は以下の通りです。 項目数が多いため、記事右下の目次リンクもご活用ください。 本記事の内容 01: 通常のPrompt 02: Few-shot Learning 03: CoT（Chain of Thought） 04: 出力形式の指定方法 05: Zero-shot CoT（≒</description>
     </item>
+    <item>
+      <title>404 Not Found Award｜汽水域</title>
+      <link>https://note.com/brackish_water/n/n025ba03e4ea6</link>
+      <pubDate>2023/10/23 11:12</pubDate>
+      <description>ホーム AI論文解説, 大規模言語モデル LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も マイページに保存最終更新日：2023/10/26 「ステップバイステップで考えてください」といったプロンプトで知られるChain-of-Thought（CoT）手法に匹敵する性能を持つプロンプト手法『Inferential Exclusion Prompting（IEP）』が研究者たちによって開発されました。IEPは大規模言語モデル（LLM）に非線形的な思考をさせることを目的としています。 IEPは、さまざまなタスクでCoTを上回る性能を示しています。また、さらに興味深いことに、CoTと統合することで、その効果はより一層高まる場合があります。 この研究は、カリフォルニア大学やペンシルバニア大学などの研究者によって行われま</description>
+    </item>
   </channel>
 </rss>
