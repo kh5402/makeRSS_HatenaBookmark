@@ -5269,5 +5269,41 @@
       <pubDate>2023/10/29 10:53</pubDate>
       <description>ChatGPTを活用した英語学習の「応用編」 橋本大也氏（以下、橋本）：ここからは、ChatGPTのプラグインとか、有料版のAdvanced data analysisの高度な機能を使った応用編ですね。ChatGPTを使って「え、こんなこともできるの!?」という例を紹介していきます。 最初は和製英語についてです。和製英語は「Japanglish」と言いますが、「和製英語の例をください」と入れると、Salaryman、OL、Skinship、Consentとか、いろいろな英語で答えてくれるんですね。 私はこのままmore、moreを繰り返して、100個くらい和製英語をリストにしてもらいました。このデータから30個ばかり「これはおもしろいね」「知らなかったよ」「知ってたけどおもしろい！」と思うものを選びました。 それをBingのImage Creator、画像生成AIに1個ずつ入れていくと、全</description>
     </item>
+    <item>
+      <title>IBIS2023チュートリアル「大規模言語モデル活用技術の最前線」</title>
+      <link>https://speakerdeck.com/1never/ibis2023tiyutoriaru-da-gui-mo-yan-yu-moderuhuo-yong-ji-shu-nozui-qian-xian</link>
+      <pubDate>2023/10/30 12:40</pubDate>
+      <description>2023年5月に発表された新しいプログラミング言語「Mojo」が世間で注目を浴びています。 PythonをベースにしたAI向きの言語であるということで、どんな言語なのか気になっている方も多いのではないでしょうか？ この記事では、Mojoの特徴や機能、今後の将来性について解説します。Mojoを学んでみたい方向けの学習方法もまとめているので、これからMojoを勉強すべきか検討している方は、ぜひご一読ください。 レバテックフリーランスはITエンジニア専門の フリーランスエージェントですまずは相談してみる 注目のプログラミング言語「Mojo」とは？ プログラミング言語「Mojo」とは、どのような目的で作られ、他の言語と比べて何が新しいのでしょうか。まずはMojoの概要と特徴についてチェックしていきます。 Mojoプログラミング言語の概要 「Mojo」とは、Modular社が2023年5月に発表した</description>
+    </item>
+    <item>
+      <title>OpenAI、Google、Anthropicの3つのAIに同じ質問をして、その結果を集約する「MAGI」システムを作る #役に立たないLLM｜松xRのnote</title>
+      <link>https://note.com/eurekachan/n/n212de6ddeb27</link>
+      <pubDate>2023/10/30 08:10</pubDate>
+      <description>まえがき データ分析はなんて広いんだろう。影響力の強まりに応じ、自然・社会・人間ほぼすべてが対象となりどんどん拡大していく。対象に応じ手法も広がり複雑化し、学ぶべきことが多すぎる。データサイエンティスト協会のスキルチェックリストVer.3.001（ごめんもう4.00が出てるね）も500超の項目があります。読むべき図書も良書と思われるものだけでも増え続けており、もう手に負えない状況です。 ただ、これはやってはだめだ、ここを知らないと道に迷う、という絶対に知っておくべき点は学べる範囲だと思います。本書では、データ分析において間違えやすい、誤解しやすい点を共有し、データ分析全体をよくする目的で、かつ データ分析の入門書・専門書に分野ごとには書かれてはいますが1つにまとまっておらず目に触れにくいもの データ分析の入門書・専門書でもスルーされていたり場合によっては誤っていると思われるもの で自分なり</description>
+    </item>
+    <item>
+      <title>AWS Certified Machine Learning - Specialty(MLS-C01)に合格できました。 - APC 技術ブログ</title>
+      <link>https://techblog.ap-com.co.jp/entry/2023/10/29/180000</link>
+      <pubDate>2023/10/29 23:45</pubDate>
+      <description>日本企業の間で生成AIの導入に向けた動きが活発になる中、アメリカの大手IT各社が、日本市場への攻勢を強めています。企業に資金を提供する支援プログラムを相次いで打ち出し、国産の生成AIとの競争が激しさを増しそうです。 アメリカのマイクロソフトは、今月、自社の生成AIを導入する企業を対象にした総額1億ドルの支援プログラムを発表しました。 このうちのおよそ4割は日本企業を対象にする見込みで、日本市場を重視する姿勢を示しています。 生成AIをビジネスに導入する際の検証や準備にかかる費用を支援するとしています。 木村靖エンタープライズパートナー統括本部長は「日本では生成AIの市場が40％を超える成長率になると考えられていて、成長の可能性は大きい」と話していました。 また、アマゾンは、自社のシステムを基盤に生成AIを開発する日本企業向けに、総額600万ドル規模の支援を始めました。 これに対し、国産の生</description>
+    </item>
+    <item>
+      <title>ノーコードツールとChatGPTで企業のソフトウエア文化が変わる</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02617/00026/</link>
+      <pubDate>2023/10/28 21:26</pubDate>
+      <description>mirium @numatakeja 画像生成AIに対する新たな防御ツール、Nightshade。記事の内容通りならメチャクチャ凄いぞこれ！！ ・わずか100枚の”毒入り”画像を学習させるだけでSDXLの出力がほぼ完全に崩壊する ・毒は伝播する。例えば毒入りの「犬」を学習させると「ハスキー」や「狼」の出力も崩壊する Glazeへの統合が楽しみだ twitter.com/TheGlazeProjec… pic.twitter.com/uKgeJYybvN 2023-10-24 23:29:46 Glaze at UChicago @TheGlazeProject By now, I&amp;#39;m guessing most have already seen the news on our new project, Nightshade. Lots of artists sharing it, but</description>
+    </item>
+    <item>
+      <title>Typoless（タイポレス） 朝日新聞社の文章校正AI</title>
+      <link>https://typoless.asahi.com/</link>
+      <pubDate>2023/10/27 00:13</pubDate>
+      <description>「ChatGPT」などの生成AIから役に立つ応答を引き出すには、どのようなプロンプトを与えるのが最善なのだろうか。Microsoftが勧める25のプロンプト術を紹介する。 「ChatGPT」などの生成AI（人工知能）はユーザーの問いかけ（プロンプト）に対して、応答する。プロンプトが適切でないと、望みの結果は得られない。 連載では6回にわたってChatGPTの開発元が公開した6つの戦略を紹介してきた。今回はMicrosoftが2023年10月23日に公開した生成AIを使いこなす25のプロンプト術を紹介する。 Microsoftが勧める25のプロンプト術 （1）解決したい課題を明確に伝える 解決したい問題やニーズをまずプロンプトとして明確に示す。「最新アプリケーション（アプリ）向けのマーケティングキャンペーンについて斬新なアイデアが欲しい」といった具合だ。 （2）単純な質問から始める モデルの</description>
+    </item>
+    <item>
+      <title>AIの性能・リスク検証する研究機関 世界で初めて英が設立へ | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231027/k10014238841000.html</link>
+      <pubDate>2023/10/27 08:03</pubDate>
+      <description>VSCodeベースのCursorっていうGPT連携組込みエディタがあって、GitHub Copilot Chatと比較してみた。 cursor.sh 関心 読みテスト 脆弱性探知 OSS解析 書きテスト Cursor Copilot Chat 関心 GPTでソースコードからpatchを生成し続けたらプログラミングを自動化できるのでは？？？？ - laiso ChatGPTのCode Interpreterのコードリーディング能力は結構優秀 - laiso で書いたようにコーディング(読み書き)を自動化したい。 Cursorをとくに薦めはしないけどLLM組込みエディタのUXの例としてわかりやすかったので紹介します。 読みテスト 脆弱性探知 例によって脆弱性診実習用アプリ（通称「やられサイト」）のSQLインジェクションを発見してもらうという会話をした。 ディレクトリを開いて「PHPファイルにS</description>
+    </item>
   </channel>
 </rss>
