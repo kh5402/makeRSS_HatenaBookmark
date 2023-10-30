@@ -5344,5 +5344,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/101539f7a1715c3075d98a89dc4ee6e39b91815c/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1542%2F916%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>米大統領令、生成AIを初規制　公開前に安全評価義務づけ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN301180Q3A031C2000000/</link>
+      <pubDate>2023/10/30 18:04</pubDate>
+      <description>@motemen, @kentaro 氏の画像10枚ちょいから、SD1.5, SDXL で学習させた その lora の重みを、当人から許可を得て公開。みんなで motemen さんや antipop さんの画像を生成しよう！ https://drive.google.com/drive/folders/1q5LrmTLAzJywQVNJdQ_PWHqv00KcUdPa?usp=sharing XLがsdxl用、15がSD1.5用 man antipop01, &amp;lt;lora:antipopXL:0.7&amp;gt; man antipop01, &amp;lt;lora:antipop15:0.7&amp;gt; man motemen01, &amp;lt;lora:motemenXL:0.7&amp;gt; man motemen01, &amp;lt;lora:antipop15:0.7&amp;gt; あたりで使えます。なお antipop 氏のプロンプトには &amp;quot;plastic</description>
+    </item>
+    <item>
+      <title>「スマホで生成AI」で何ができる？　クアルコムが最新チップセット「Snapdragon 8 Gen 3」の進化をキーパーソンに聞く</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/interview/1542797.html</link>
+      <pubDate>2023/10/30 11:03</pubDate>
+      <description>近年，国内外の企業および研究機関において大規模言語モデルの開発競争が激化している．それに伴い，大規模言語モデルの性能を最大限に引き出すための研究も活発に行われており，大きな発展を見せている．本チュートリアルでは，自身の研究や業務で大規模言語モデルを使いたいと考えている初学者を主な対象とし，Chain of ThoughtやReActを始めとする大規模言語モデルを使うために役立つ技術や知見を最新の研究成果に基づいて紹介する．</description>
+    </item>
   </channel>
 </rss>
