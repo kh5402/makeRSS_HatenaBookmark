@@ -5215,5 +5215,23 @@
       <pubDate>2023/10/29 08:06</pubDate>
       <description>mirium @numatakeja 画像生成AIに対する新たな防御ツール、Nightshade。記事の内容通りならメチャクチャ凄いぞこれ！！ ・わずか100枚の”毒入り”画像を学習させるだけでSDXLの出力がほぼ完全に崩壊する ・毒は伝播する。例えば毒入りの「犬」を学習させると「ハスキー」や「狼」の出力も崩壊する Glazeへの統合が楽しみだ twitter.com/TheGlazeProjec… pic.twitter.com/uKgeJYybvN 2023-10-24 23:29:46 Glaze at UChicago @TheGlazeProject By now, I&amp;#39;m guessing most have already seen the news on our new project, Nightshade. Lots of artists sharing it, but</description>
     </item>
+    <item>
+      <title>「Real World HTTP」著者・渋川よしき氏が「最新情報は追わない」と断言する理由</title>
+      <link>https://levtech.jp/media/article/interview/detail_327/</link>
+      <pubDate>2023/10/30 09:58</pubDate>
+      <description>コールセンターへの問い合わせをAIチャットボットで種別を判定し、最適な担当者に自動振り分け[Amazon Connect + Lex + Bedrock] はじめに Amazon Connect + LexでAIチャットボットを構築し、顧客のお問い合わせから、種別を判定し、カテゴリに合った担当者に自動振り分けしてみました。 コールセンターの担当者の負担軽減や人手不足を解消するために、AIチャットボットを使って有人対応から無人対応に切り替えたいというニーズが増えております。 今回は、顧客からのお問い合わせをAIチャットボットがヒアリングし、生成AIのAmazon BedrockのClaude Instanceによってお問い合わせの種別判定を行い、適切な担当者に振り分けを行ってみました。 今回検証するお問い合わせの種別は、以下の9種類です。 在庫に関する問い合わせ 配送/送料に関する問い合わせ</description>
+    </item>
+    <item>
+      <title>「レベル4」自動運転車両 自転車と接触事故で運行中止に 福井 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231030/k10014241781000.html</link>
+      <pubDate>2023/10/30 06:08</pubDate>
+      <description>ChatGPTを活用した英語学習の「応用編」 橋本大也氏（以下、橋本）：ここからは、ChatGPTのプラグインとか、有料版のAdvanced data analysisの高度な機能を使った応用編ですね。ChatGPTを使って「え、こんなこともできるの!?」という例を紹介していきます。 最初は和製英語についてです。和製英語は「Japanglish」と言いますが、「和製英語の例をください」と入れると、Salaryman、OL、Skinship、Consentとか、いろいろな英語で答えてくれるんですね。 私はこのままmore、moreを繰り返して、100個くらい和製英語をリストにしてもらいました。このデータから30個ばかり「これはおもしろいね」「知らなかったよ」「知ってたけどおもしろい！」と思うものを選びました。 それをBingのImage Creator、画像生成AIに1個ずつ入れていくと、全</description>
+    </item>
+    <item>
+      <title>囲碁のゾルトラーク</title>
+      <link>https://anond.hatelabo.jp/20231029153924</link>
+      <pubDate>2023/10/29 15:40</pubDate>
+      <description>こんにちは、つくぼし(tsukuboshi0755)です！ ChatGPTから始まったAIブームは、まだまだとどまる事を知らないですね。 さらにAzure OpenAI ServiceやAmazon Bedrock等の生成AIサービスが主要クラウド上で出揃った事で、エンタープライズ業界でも徐々にLarge Language Models(以下LLM)を用いたシステム開発の需要が高まってきています。 しかし普段はAWSインフラ関連の業務を専門とする私を含め、LLMアプリ開発初心者のエンジニアにとって、生成AIを活かして一からシステムを開発するのは、まだまだハードルが高いように感じられます。 特に以下のような点で、まだ理解が追いついていないと感じているエンジニアの方が多いのではないでしょうか？ LLMを使うと何ができるのか？ ChatGPTのAPIを触ってみたいが、どのように使えばいいのか？</description>
+    </item>
   </channel>
 </rss>
