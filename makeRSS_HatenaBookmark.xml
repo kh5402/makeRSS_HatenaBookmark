@@ -5431,5 +5431,17 @@
       <pubDate>2023/10/29 20:16</pubDate>
       <description>ChatGPT に DALL·E 3が導入され、世界に激震が走っています。 ※ DALL·E 3で生成した画像ですChatGPT の自然な会話の流れからハイクオリティな画像を出力してもらうことができます。 今までの画像生成AIとの明確な違いは、圧倒的に使いやすいことです。 ChatGPT が代わりに画像生成プロンプトを組み立ててくれるため、難しいプロンプトは必要がありません。 その代わり、必要になってくるのがデザインそのものの知識、ディレクション能力などです。また、細かい制御にはシード値への理解が不可欠です。 この note ではそこにフォーカスしてDALL·E 3を解説します。 note の内容は受賞歴のある本職現役デザイナーの方に監修してもらっています。 無料部分で大体のことはわかります。 有料版はDALL·E 3やデザインをもっと理解して業務利用したいという方のために書いています。</description>
     </item>
+    <item>
+      <title>OpenAI、オフィス3倍強に拡張　「在宅より出社」鮮明 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN30CYA0Q3A031C2000000/</link>
+      <pubDate>2023/10/31 07:51</pubDate>
+      <description>IBIS2023 企画セッション1 Vision and Languageの最前線 テキストからの実世界理解に向けて</description>
+    </item>
+    <item>
+      <title>PdMはお客様からいただく機能要望とどう向き合うべきか｜maroホンマカズシロ|LayerX</title>
+      <link>https://note.com/kazushiro/n/n83dd3e825e83</link>
+      <pubDate>2023/10/30 22:05</pubDate>
+      <description>はじめに こんにちは、クラウドエース データ ML ディビジョン所属の工藤です。 クラウドエースの IT エンジニアリングを担うシステム開発部の中で、特にデータ基盤構築・分析基盤構築からデータ分析までを含む一貫したデータ課題の解決を専門とするのがデータ ML ディビジョンです。 データ ML ディビジョンでは活動の一環として、毎週 Google Cloud の新規リリースを調査・発表し、データ領域のプロダクトのキャッチアップをしています。その中でも重要と考えるリリースを本ページ含め記事として公開しています。 今回紹介するリリースは、BigQuery Studio です。BigQuery Studio の登場により、BigQuery 上で Python ノートブック環境が使えるようになりました。Duet AI によるコード補完もサポートしていますので、非エンジニアの方もデータ分析しやすい環境</description>
+    </item>
   </channel>
 </rss>
