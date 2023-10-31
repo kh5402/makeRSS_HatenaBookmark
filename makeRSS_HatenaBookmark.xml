@@ -5443,5 +5443,11 @@
       <pubDate>2023/10/30 22:05</pubDate>
       <description>はじめに こんにちは、クラウドエース データ ML ディビジョン所属の工藤です。 クラウドエースの IT エンジニアリングを担うシステム開発部の中で、特にデータ基盤構築・分析基盤構築からデータ分析までを含む一貫したデータ課題の解決を専門とするのがデータ ML ディビジョンです。 データ ML ディビジョンでは活動の一環として、毎週 Google Cloud の新規リリースを調査・発表し、データ領域のプロダクトのキャッチアップをしています。その中でも重要と考えるリリースを本ページ含め記事として公開しています。 今回紹介するリリースは、BigQuery Studio です。BigQuery Studio の登場により、BigQuery 上で Python ノートブック環境が使えるようになりました。Duet AI によるコード補完もサポートしていますので、非エンジニアの方もデータ分析しやすい環境</description>
     </item>
+    <item>
+      <title>G7のAI規制まずは開発企業から　制度の議論進む欧米、遅れる日本：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRBZ7J9QRBZULFA02D.html</link>
+      <pubDate>2023/10/31 06:02</pubDate>
+      <description>IBIS2023 企画セッション1 Vision and Languageの最前線 テキストからの実世界理解に向けて</description>
+    </item>
   </channel>
 </rss>
