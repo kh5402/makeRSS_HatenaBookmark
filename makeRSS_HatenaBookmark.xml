@@ -5581,5 +5581,29 @@
       <pubDate>2023/10/27 15:05</pubDate>
       <description>anond:20231027224113 なんか流行ってるらしいので元ネタを知らないが、「当時は斬新だったが後に主流になったもの」の意で囲碁のゾルトラークを挙げてみる 要はコロンブスの卵だろう 星、三々江戸時代～大正期までの囲碁において隅に打つ手といえば小目だった ヒカルの碁でも「一手目が星など秀策の時代には考えられなかった」というセリフがある通り、江戸時代の棋譜を見れば笑っちゃうくらい猫も杓子も小目しか打っていない 昭和期に入ってそこに大変革をもたらしたのが木谷實と呉清源という二人の天才である 木谷と呉は『新布石』を宣言し、星や三々、天元など今までの囲碁の常識を覆す変則的な布石を打ち始めた 昭和期までの囲碁といえばコミがなく、黒は比較的ゆっくり構え、白は黒の先手分の有利を崩すために積極的に隅に攻撃をしかけていくのが主流だった それが白番にコミが与えられるようになり、黒もスピード展開を求め</description>
     </item>
+    <item>
+      <title>pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる - Qiita</title>
+      <link>https://qiita.com/_Kohei_/items/069aa1e7b872f5ca96bf</link>
+      <pubDate>2023/11/01 04:17</pubDate>
+      <description>連載：生成AIスタートアップの挑戦 ChatGPTをはじめとする生成AIに注目が集まる中、多くのスタートアップ企業が生成AIビジネスに参入している。新興企業は新たな技術を武器に、既存のビジネスをどう変革していくのか――。 これまでの掲載 エクサウィザーズ Spiral.AI リーガルスケープ ABEJA AI inside リーガルアイ 今後の掲載予定 （本記事）、オルツ ※順不同、今後も追加予定 連載「生成AIスタートアップの挑戦」第7回は、生成AI教育のCynthialy（東京都渋谷区）を取り上げる。 同社は同社は生成AIコンサル・リスキリング支援のほか、生成AI知見を生かした事業開発、マーケティング、コンテンツ記事制作支援などを手掛けている。 同社の生成AI活用研修を受講し、Webサイト流入を3倍、問い合わせを0件から60件に伸ばした企業もあるという。その研修の中身とは――。Cynt</description>
+    </item>
+    <item>
+      <title>日本オラクルのAI・クラウド教材が無料に　期間限定、1月まで</title>
+      <link>https://www.itmedia.co.jp/news/articles/2310/31/news186.html</link>
+      <pubDate>2023/10/31 19:02</pubDate>
+      <description>We want to empower you to experiment with LLM models, build your own applications, and discover untapped problem spaces. That’s why we sat down with GitHub’s Alireza Goudarzi, a senior machine learning researcher, and Albert Ziegler, a principal machine learning engineer, to discuss the emerging architecture of today’s LLMs. In this post, we’ll cover five major steps to building your own LLM app,</description>
+    </item>
+    <item>
+      <title>エクセル、パワポ「Copilot」の実力　売上分析、資料作成をやってみた</title>
+      <link>https://xtrend.nikkei.com/atcl/contents/18/00902/00006/</link>
+      <pubDate>2023/10/27 20:04</pubDate>
+      <description>anond:20231027224113 なんか流行ってるらしいので元ネタを知らないが、「当時は斬新だったが後に主流になったもの」の意で囲碁のゾルトラークを挙げてみる 要はコロンブスの卵だろう 星、三々江戸時代～大正期までの囲碁において隅に打つ手といえば小目だった ヒカルの碁でも「一手目が星など秀策の時代には考えられなかった」というセリフがある通り、江戸時代の棋譜を見れば笑っちゃうくらい猫も杓子も小目しか打っていない 昭和期に入ってそこに大変革をもたらしたのが木谷實と呉清源という二人の天才である 木谷と呉は『新布石』を宣言し、星や三々、天元など今までの囲碁の常識を覆す変則的な布石を打ち始めた 昭和期までの囲碁といえばコミがなく、黒は比較的ゆっくり構え、白は黒の先手分の有利を崩すために積極的に隅に攻撃をしかけていくのが主流だった それが白番にコミが与えられるようになり、黒もスピード展開を求め</description>
+    </item>
+    <item>
+      <title>AI機能Copilot実装したWindows 11プレビュー公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1542665.html</link>
+      <pubDate>2023/10/28 09:44</pubDate>
+      <description>こんにちは、つくぼし(tsukuboshi0755)です！ ChatGPTから始まった第四次AIブームは、まだまだとどまる事を知らないですね。 さらにAzure OpenAI ServiceやAmazon Bedrock等の生成AIサービスが主要クラウド上で出揃った事で、エンタープライズ業界でも徐々にLarge Language Models(以下LLM)を用いたシステム開発の需要が高まってきています。 しかし普段はAWSインフラ関連の業務を専門とする私を含め、LLMアプリ開発初心者のエンジニアにとって、生成AIを活かして一からシステムを開発するのは、まだまだハードルが高いように感じられます。 特に以下のような点で、まだ理解が追いついていないと感じているエンジニアの方が多いのではないでしょうか？ LLMを使うと何ができるのか？ ChatGPTのAPIを触ってみたいが、どのように使えばいいの</description>
+    </item>
   </channel>
 </rss>
