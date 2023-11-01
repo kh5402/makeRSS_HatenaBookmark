@@ -5800,5 +5800,17 @@
       <pubDate>2023/11/01 10:51</pubDate>
       <description>今回は、何も知らないところからバンディットアルゴリズムを学びました。 シンプルなバンディットアルゴリズムから、各ユーザーごとに最適化するContextual Bandit、順序を最適化するCascading Banditまで解説します。 学んでいて疑問に思ったことを解消しつつ記載しています。 ソースコード https://github.com/birdwatcherYT/bandit 対象読者 バンディットアルゴリズムを理解して実装したい人 ユーザーごとにカスタマイズしたバンディットを理解して実装したい人（Contextual Bandit） 順序を最適化するバンディットを使いたい人（Cascading Bandit） バンディットアルゴリズム バンディットの問題設定を説明します。 スロットマシンN台がある スロットマシンの腕を引くと報酬がもらえる 累積報酬を最大化したい バンディットアル</description>
     </item>
+    <item>
+      <title>Microsoft、「Windows 11 2023 Update（23H2）」リリース　CopilotとTeamsがタスクバーに</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/01/news079.html</link>
+      <pubDate>2023/11/01 08:06</pubDate>
+      <description>NTTは、独自の大規模言語モデル「tsuzumi」を開発したと発表した。2024年3月に商用サービスとして提供を始める。 NTTは11月1日、独自の大規模言語モデル（LLM）「tsuzumi」を開発したと発表した。tsuzumiの特徴は「軽量でありながら世界トップレベルの日本語処理性能を持つこと」と同社は説明。2024年3月に商用サービスとして提供を始める。 tsuzumiでは、パラメータ数6億（超軽量版）と70億（軽量版）の2種類を用意。同社は「軽量版は1GPUで、超軽量版はCPUで高速に推論動作可能であり、チューニングや推論に必要なコストを抑えられる」と解説する。 NTTが試算したところ、GPUクラウドの利用料金への換算値では、学習コストは超軽量版で約300分の1、軽量版では25分の1に。推論コストは、超軽量版で約70分の1、軽量版で20分の1に軽減できたという。</description>
+    </item>
+    <item>
+      <title>ダジャレの画像を生成するのが楽しい - toyoshiの日記</title>
+      <link>https://toyoshi.hatenablog.com/entry/2023/11/01/092015</link>
+      <pubDate>2023/11/01 16:59</pubDate>
+      <description>第1回目の今回は、Podのリソース割り当ての推奨値を提案する「KRR(Kubernetes Resource Recommender)」について紹介します。 はじめに こんにちは。3-shakeで技術顧問を勤めている青山真也(@amsy810)です。 3-shakeでは、CloudNative技術などを用いたSREの推進などを行っており、Kubernetesに関連した各種ソフトウェアへのキャッチアップなども積極的に行っています。 そこで、本連載では「OSS Insight」で公開されているソフトウェアや、最近話題になっているが、まだ詳細についてまとめられていないようなKubernetesに関連するツール・ソフトウェアを検証し、3-shakeのメンバーで紹介していきます。 第1回の今回は、Podのリソース割り当ての推奨値を提案する「KRR(Kubernetes Resource Recomm</description>
+    </item>
   </channel>
 </rss>
