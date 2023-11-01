@@ -5689,5 +5689,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c6409b4a30540144289e9aca1d8d2356533044f3/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1543%2F584%2Fwindows11.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>幾何平均とは？　算術平均との違い、使い分け</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2311/01/news018.html</link>
+      <pubDate>2023/11/01 09:03</pubDate>
+      <description>IBIS 2023 企画セッション『最適輸送』 https://ibisml.org/ibis2023/os/#os3 で発表した内容です。 講演概要: 最適輸送が機械学習コミュニティーで人気を博している要因として、最適輸送には微分可能な変種が存在することが挙げられる。微分可能な最適輸送は様々な機械学習モデルに構成要素として簡単に組み入れることができる点が便利である。本講演では、最適輸送の微分可能な変種とその求め方であるシンクホーンアルゴリズムを紹介する。また、この考え方を応用し、ソーティングなどの操作や他の最適化問題を微分可能にする方法を紹介するとともに、これらの微分可能な操作が機械学習においてどのように役立つかを議論する。 シンクホーンアルゴリズムのソースコード：https://colab.research.google.com/drive/1RrQhsS52B-Q8ZvBeo57vK</description>
+    </item>
+    <item>
+      <title>ベネッセ、生成AIを活用したウェブサイト制作・運用改革によりコスト4割削減、制作期間は半分以下に短縮</title>
+      <link>https://creatorzine.jp/news/detail/4894</link>
+      <pubDate>2023/10/31 22:03</pubDate>
+      <description>連載：生成AIスタートアップの挑戦 ChatGPTをはじめとする生成AIに注目が集まる中、多くのスタートアップ企業が生成AIビジネスに参入している。新興企業は新たな技術を武器に、既存のビジネスをどう変革していくのか――。 これまでの掲載 エクサウィザーズ Spiral.AI リーガルスケープ ABEJA AI inside リーガルアイ 今後の掲載予定 （本記事）、オルツ ※順不同、今後も追加予定 連載「生成AIスタートアップの挑戦」第7回は、生成AI教育のCynthialy（東京都渋谷区）を取り上げる。 同社は同社は生成AIコンサル・リスキリング支援のほか、生成AI知見を生かした事業開発、マーケティング、コンテンツ記事制作支援などを手掛けている。 同社の生成AI活用研修を受講し、Webサイト流入を3倍、問い合わせを0件から60件に伸ばした企業もあるという。その研修の中身とは――。Cynt</description>
+    </item>
+    <item>
+      <title>二極化が進む企業の自動化推進 - Qiita</title>
+      <link>https://qiita.com/jw-automation/items/5ff8e3beab4e64434df6</link>
+      <pubDate>2023/10/31 20:23</pubDate>
+      <description>日本オラクルが、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始める。期間限定で、11月1日から2024年1月31日まで提供する。 日本オラクルは10月31日、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始めると発表した。期間限定で、11月1日から2024年1月31日まで提供する。「人工知能（AI）や機械学習（ML）などの急成長するテクノロジー分野でのキャリアアップを支援し、Oracle Cloudサービスの需要の高まりに対応する」（日本オラクル）という。 プログラムの参加者は、Oracleが用意した教材や、講義のライブ配信を無料で利用・視聴できる。さらに、Oracle Cloud Infrastructureについて専門的な内容を問う全9種</description>
+    </item>
   </channel>
 </rss>
