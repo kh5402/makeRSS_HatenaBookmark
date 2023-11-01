@@ -5674,5 +5674,20 @@
       <pubDate>2023/10/27 14:47</pubDate>
       <description>近年，国内外の企業および研究機関において大規模言語モデルの開発競争が激化している．それに伴い，大規模言語モデルの性能を最大限に引き出すための研究も活発に行われており，大きな発展を見せている．本チュートリアルでは，自身の研究や業務で大規模言語モデルを使いたいと考えている初学者を主な対象とし，Chain of ThoughtやReActを始めとする大規模言語モデルを使うために役立つ技術や知見を最新の研究成果に基づいて紹介する．</description>
     </item>
+    <item>
+      <title>Amazon Bedrock の Claude と Stable Diffusion を組み合わせて簡単に画像生成 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/11/01/140000</link>
+      <pubDate>2023/11/01 14:26</pubDate>
+      <description>近年、ChatGPTを始めとする大規模言語モデル*1に大きな注目が集まっておりますが、これらは膨大な知識をモデル内に有することで高い言語処理性能を示す一方、学習に要するエネルギーは、原発１基１時間分の電力量が必要*2とも言われており、また、運用には大規模なGPUクラスタを必要とし様々な業界に特化するためのチューニングや推論にかかるコストが膨大であることから、サステナビリティおよび企業が学習環境を準備するための経済的負担面で課題があります。 NTTでは、これらの課題を解決する研究開発を進め、今回、軽量でありながら世界トップレベルの日本語処理性能を持つ大規模言語モデル「tsuzumi*2」を開発しました。「tsuzumi」のパラメタサイズは6～70億と軽量であるため、市中のクラウド提供型LLMの課題である学習やチューニングに必要となるコストを低減します。「tsuzumi」は英語と日本語に対応し</description>
+    </item>
+    <item>
+      <title>GmailもGoogleドライブも連携で高速化！ Google Bardの新機能を試したら期待しかなかった #TrendBuzz  | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2310-tb-google-bard-gmail/</link>
+      <pubDate>2023/10/31 22:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c6409b4a30540144289e9aca1d8d2356533044f3/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1543%2F584%2Fwindows11.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
