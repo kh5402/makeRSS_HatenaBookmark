@@ -5707,5 +5707,17 @@
       <pubDate>2023/10/31 20:23</pubDate>
       <description>日本オラクルが、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始める。期間限定で、11月1日から2024年1月31日まで提供する。 日本オラクルは10月31日、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始めると発表した。期間限定で、11月1日から2024年1月31日まで提供する。「人工知能（AI）や機械学習（ML）などの急成長するテクノロジー分野でのキャリアアップを支援し、Oracle Cloudサービスの需要の高まりに対応する」（日本オラクル）という。 プログラムの参加者は、Oracleが用意した教材や、講義のライブ配信を無料で利用・視聴できる。さらに、Oracle Cloud Infrastructureについて専門的な内容を問う全9種</description>
     </item>
+    <item>
+      <title>林原めぐみさんがハローキティから卒業して、林原肉声キティちゃんのYouTube動画や園内ボイスなどが削除された話</title>
+      <link>https://togetter.com/li/2251058</link>
+      <pubDate>2023/11/01 15:01</pubDate>
+      <description>こんにちは、肌寒い日が続くと南の島の暖かい海に行きたくなる菅野です。 AWS上で、 様々なAIモデルを利用できるようになるサービス、Amazon Bedrockがリリースされました。 Bedrockでは今までのブログで紹介してきた、テキスト生成以外にも、画像生成に利用できるモデルStable Diffusionも利用可能になっています。 Stable Diffusion自体はOSSとなっているので無料で利用できますが、自身のマシンにインストールして動かす必要があり、動かすマシンにはある程度の性能のGPUも必須になってきます。 手軽にStable Diffusionをオンデマンドで利用できるのは今までにないメリットなのではないでしょうか？ 今回は、BedrockのClaudeV2モデルを用いて作成したプロンプトを使って、Stable Diffusionで画像生成をしていこうと思います。 Be</description>
+    </item>
+    <item>
+      <title>NTT版大規模言語モデル「tsuzumi」 | NTT R&amp;amp;D Website</title>
+      <link>https://www.rd.ntt/research/LLM_tsuzumi.html</link>
+      <pubDate>2023/11/01 12:38</pubDate>
+      <description>最も一般的に使われる「平均」とは、全ての数値を足して合計し、それを数値の総数で割ることである。これは、数学／統計学／機械学習において「算術平均」と呼ばれる。平均には他にも、「加重平均」や「幾何平均」「調和平均」「トリム平均」「移動平均」などがある。本稿ではこれらのうち幾何平均について解説する。なお算術平均については、「平均値（Mean）／中央値（Median）／最頻値（Mode）とは？」で説明しているので併せて参照してほしい。 数学／統計学／機械学習における幾何平均（Geometric Mean）とは、n個あるデータの各数値を全て掛け合わせた積（総乗値）のn乗根*1を取ることである。幾何平均は相乗平均とも呼ばれる。 *1　nはデータの数であり、n＝2（つまり√）のときは「平方根」、n＝3（つまり3√）のときは「立方根」、n＝4（つまり4√）のときは「4乗根」、それ以降も「5乗根」「6乗根」</description>
+    </item>
   </channel>
 </rss>
