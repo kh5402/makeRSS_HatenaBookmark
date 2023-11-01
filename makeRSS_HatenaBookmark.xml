@@ -5635,5 +5635,26 @@
       <pubDate>2023/10/29 00:43</pubDate>
       <description>パルコが、画像生成AIを用いて制作した初の広告「HAPPY HOLIDAYSキャンペーン」を公開した。全国のパルコで順次展開する。 同広告は、LA在住のクリエイターでありSTUDIO DOG代表の木之村美穂をクリエイティブディレクターに、LAを拠点に世界で活動するファッションデザイナー兼クリエイティブディレクターのChiristian Guernelliをデジタルクリエイターに起用して制作。実在するモデルによる撮影は行わず、人物や背景などのグラフィックをはじめ、ムービーやナレーション、音楽まで、全てを生成AI技術を用いてプロンプトから作り、実際に撮影されたかのようなリアリティとアート性を追求した、驚きとモード感のある新しい表現のファッション広告に仕上げたという。</description>
     </item>
+    <item>
+      <title>他人のSNS投稿を「GPT-4」に入力して個人情報を特定できるか？　スイスの研究者らが検証</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/01/news039.html</link>
+      <pubDate>2023/11/01 08:08</pubDate>
+      <description>「日本人」を理由にしたくないし、「コードは全世界共通語」なのは分かっているけど、自分が日本人で日本語を母国語としていることはOSSにおいて不利になる。 この2年間のHonoの開発をしてきた経験で分かったことだ。 そこに目を瞑ってはいけないし、自覚することで世界と戦えるかもしれない。今回はそのことについて書こうと思う。 8k 現在、HonoのGitHubスター数は8,000を超えた。 これはとんでもない数字なんだけど、もっと伸びるべきで、早く1万を超えなくはいけない。 npmのダウンロード数は週間「46,000」とこれは相対的に低く、こちらも伸びるべきである。 数字が全てではないが、こうした数字は昨今のOSSにとって「一番の」指標であることは確かだ。 だから戦うことはこの数字を伸ばすことである。 なぜ「戦う」のか なんで「戦う」というおっかない言葉を使い、そして戦わなくてはいけないのか。 ま</description>
+    </item>
+    <item>
+      <title>生成AIでニュース番組に似せた偽広告 日本テレビ“注意を” | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231101/k10014243501000.html</link>
+      <pubDate>2023/11/01 07:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c6409b4a30540144289e9aca1d8d2356533044f3/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1543%2F584%2Fwindows11.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>11月スタート「Microsoft 365 Copilot」の創造性　月30ドルの副操縦士</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1542813.html</link>
+      <pubDate>2023/10/30 10:20</pubDate>
+      <description>アルゴリズムの変化に伴い、Tipsが陳腐化する可能性はある 司会者：次にオンラインで来ているのは、「GitHub Copilotの裏側のアルゴリズムが変わっていっているということですが、アルゴリズムが変わることで今回ご紹介いただいたTipsが陳腐化することもあるのでしょうか？」 服部佑樹氏（以下、服部）：はい、あります。端的に言えるのは、結局良いコードを書くという（のが目指す）ところなので、最終的にTipsはツールの使い方ではないということです。隣のタブで開いているものを開いたからCopilotの質がちょっと上がったね、というぐらいでは、全体的な生産性に影響があるかというとそんなにないんですよね。 それをやるぐらいだったらちょっと書き方を変えてみる。1回提案されるところを、Ctrl＋Enterを押すと10個ぐらい提案してくれるので、その中から自分で考えて選んだほうがいいですし、あとは何回か</description>
+    </item>
   </channel>
 </rss>
