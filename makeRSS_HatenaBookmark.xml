@@ -5812,5 +5812,23 @@
       <pubDate>2023/11/01 16:59</pubDate>
       <description>第1回目の今回は、Podのリソース割り当ての推奨値を提案する「KRR(Kubernetes Resource Recommender)」について紹介します。 はじめに こんにちは。3-shakeで技術顧問を勤めている青山真也(@amsy810)です。 3-shakeでは、CloudNative技術などを用いたSREの推進などを行っており、Kubernetesに関連した各種ソフトウェアへのキャッチアップなども積極的に行っています。 そこで、本連載では「OSS Insight」で公開されているソフトウェアや、最近話題になっているが、まだ詳細についてまとめられていないようなKubernetesに関連するツール・ソフトウェアを検証し、3-shakeのメンバーで紹介していきます。 第1回の今回は、Podのリソース割り当ての推奨値を提案する「KRR(Kubernetes Resource Recomm</description>
     </item>
+    <item>
+      <title>大規模言語モデル「Phind」がコーディングにおいてGPT-4を上回る</title>
+      <link>https://gigazine.net/news/20231102-phind-gpt-4/</link>
+      <pubDate>2023/11/02 07:21</pubDate>
+      <description>瓶入りの乳製品を作る老舗「山村乳業」（三重県伊勢市）が1日、食べ歩きに特化したプリン「山村ぷりんバー」を発売した。アイスバーのような見た目で、スプーンを使わずにかぶりつくことができるのが特徴。伊勢神宮近くの直営店で販売する。写真映えも良く、若年層の取り込みも狙う。...</description>
+    </item>
+    <item>
+      <title>NTTの新たな言語モデル「tsuzumi」は何がすごい？　島田社長らが語った展望とは</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1543972.html</link>
+      <pubDate>2023/11/01 22:51</pubDate>
+      <description>Microsoft、「Windows 11 2023 Update（23H2）」リリース　CopilotとTeamsがタスクバーに Microsoftは「Windows 11」の大型アップデート「Windows 11 2023 Update（23H2）」をリリースしたと発表した。追加される機能は9月リリースの22H2とほぼ同じだが、いくつか違いもある。 米Microsoftは10月31日（現地時間）、Windows 11の大型アップデート「Windows 11 2023 Update（23H2）」をリリースしたと発表した。「Copilot in Windows」など、これまで予告してきた新機能がすべて含まれる累積的なアップデートだ。 新機能の多くは、9月にオプションのアップデートとしてリリースした「22H2」で追加されたものだ。22H2では初期設定で無効になっていたCopilot in W</description>
+    </item>
+    <item>
+      <title>Podのリソース割り当ての推奨値を提案するKRR(Kubernetes Resource Recommender)</title>
+      <link>https://thinkit.co.jp/article/22502</link>
+      <pubDate>2023/11/01 14:13</pubDate>
+      <description>やけに地理に詳しい孫悟空 @Geo_Wukong オッス、オラ悟空！ おめぇら、古墳を空から眺めたこと、あっか？ 色別標高図でみると、はっきりと前ぽーこーえぇ墳を認識できっぞっ。 この方法で、おめぇらのなかで、これまで発見されていなかった古墳を見つけるヤツが出てくるかもしれねぇな。 pic.twitter.com/51MzVbeIsA 2023-10-31 17:00:01</description>
+    </item>
   </channel>
 </rss>
