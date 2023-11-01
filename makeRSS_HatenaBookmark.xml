@@ -5605,5 +5605,35 @@
       <pubDate>2023/10/28 09:44</pubDate>
       <description>こんにちは、つくぼし(tsukuboshi0755)です！ ChatGPTから始まった第四次AIブームは、まだまだとどまる事を知らないですね。 さらにAzure OpenAI ServiceやAmazon Bedrock等の生成AIサービスが主要クラウド上で出揃った事で、エンタープライズ業界でも徐々にLarge Language Models(以下LLM)を用いたシステム開発の需要が高まってきています。 しかし普段はAWSインフラ関連の業務を専門とする私を含め、LLMアプリ開発初心者のエンジニアにとって、生成AIを活かして一からシステムを開発するのは、まだまだハードルが高いように感じられます。 特に以下のような点で、まだ理解が追いついていないと感じているエンジニアの方が多いのではないでしょうか？ LLMを使うと何ができるのか？ ChatGPTのAPIを触ってみたいが、どのように使えばいいの</description>
     </item>
+    <item>
+      <title>OSSで世界と戦うために - ゆーすけべー日記</title>
+      <link>https://yusukebe.com/posts/2023/oss-against-the-world/</link>
+      <pubDate>2023/11/01 09:47</pubDate>
+      <description>生成AIを使って実在のアナウンサーの声や動きを再現したとみられる、民放のニュース番組に似せた偽の広告の動画がSNSで広がっています。偽動画は投資情報サイトへの登録を促す内容で、番組に似せた偽動画を作られた日本テレビが注意を呼びかけています。 この偽動画は実在の女性のアナウンサーなどが投資情報サイトへの登録を促し投資を呼びかける内容で、まるでニュース番組のように出演者の声や動きが再現されています。 実際に放送された日本テレビのニュース番組をもとに、生成AIを使って音声や動画の一部を加工したものとみられ、10月下旬からYouTubeやフェイスブックに投稿されていました。 今回の偽動画は、数字の読み方やイントネーションが異なるなど不審な点がありましたが、生成AIを使って実在の人物が話しているかのような動画を作ることは可能で、最近では表情や口元の動きが声と合っていて違和感がないものも増えてきており</description>
+    </item>
+    <item>
+      <title>【速報】「Windows 11 2023 Update」（バージョン 23H2）の一般提供が開始／AI機能「Copilot」をはじめとする150以上もの新要素、タスクバーのチャットは無料版「Teams」に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1543584.html</link>
+      <pubDate>2023/11/01 05:38</pubDate>
+      <description>1. 第3次AIブームの到来 米Google DeepMindが開発した人工知能（AI）の囲碁プログラム「AlphaGo」が世界トップレベルの実力を持つ韓国のプロ棋士、李世ドル（イ・セドル）九段に4勝1敗と大きく勝ち越したことが着火剤となり、2015年より第3次AIブームへと突入した。(ちなみにAIが誕生したのは1950～1960年代で第1次AIブームの到来) 1.1 余談になるがAlphaGo(4億円の知能)はなぜすごいのか？ AlphaGoがそれ以前のチェスや将棋のAIと異なるのは、 畳み込みニューラルネットワーク（CNN） を応用している点だ。このCNNはさらに強化学習を行い、自分自身と対局を数千万回も繰り返した。 間違っていたらすみません、、、、 1.2 ChatGPTによる生成AIのブーム ChatGPTに代表されるLLMは以前から開発競争が繰り広げられていた。 GPT1は201</description>
+    </item>
+    <item>
+      <title>問い合わせ0件→60件に　自社メディアの記事を“爆増”させた「ChatGPT研修」の実力</title>
+      <link>https://www.itmedia.co.jp/business/articles/2310/31/news070.html</link>
+      <pubDate>2023/10/31 15:04</pubDate>
+      <description>日本オラクルが、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始める。期間限定で、11月1日から2024年1月31日まで提供する。 日本オラクルは10月31日、AIや自社のクラウドサービス「Oracle Cloud Infrastructure」に関する学習プログラムの無料提供を始めると発表した。期間限定で、11月1日から2024年1月31日まで提供する。「人工知能（AI）や機械学習（ML）などの急成長するテクノロジー分野でのキャリアアップを支援し、Oracle Cloudサービスの需要の高まりに対応する」（日本オラクル）という。 プログラムの参加者は、Oracleが用意した教材や、講義のライブ配信を無料で利用・視聴できる。さらに、Oracle Cloud Infrastructureについて専門的な内容を問う全9種</description>
+    </item>
+    <item>
+      <title>Announcing Optuna 3.4 - Preferred Networks Research &amp;amp; Development</title>
+      <link>https://tech.preferred.jp/ja/blog/announcing-optuna-3-4/</link>
+      <pubDate>2023/10/30 15:06</pubDate>
+      <description>「AIに革命を起こし、未来を創っていく」を経営ビジョンに掲げるHEROZ。将棋AIをコアコンピタンスに、さまざまな分野へ活躍の場を広げている。将棋AIはどこまで強くなって、どのような形で応用されていくのか。HEROZ創業者でCEOの林隆弘さんが語るAIの現在地と未来。 去年の自分に7割以上勝つ将棋AIの進化スピード2023年5月に開催され46チームの将棋AIが参戦した第33回世界コンピュータ将棋選手権において、見事優勝を飾ったのが、HEROZのAIエンジニアメンバーで構成された『dlshogi with HEROZ』だった。前回の32回大会に続いて2回連続の栄冠となった。彼の将棋AIはいま世界で最も強い将棋AIといっていい。 「『dlshogi with HEROZ』は去年のバージョンとは比較にならないほど強くなっており、昨年のバージョンと100回戦った場合には70回以上勝利するくらいとん</description>
+    </item>
+    <item>
+      <title>GitHub - pchunduri6/rag-demystified: An LLM-powered advanced RAG pipeline built from scratch</title>
+      <link>https://github.com/pchunduri6/rag-demystified</link>
+      <pubDate>2023/10/29 00:43</pubDate>
+      <description>パルコが、画像生成AIを用いて制作した初の広告「HAPPY HOLIDAYSキャンペーン」を公開した。全国のパルコで順次展開する。 同広告は、LA在住のクリエイターでありSTUDIO DOG代表の木之村美穂をクリエイティブディレクターに、LAを拠点に世界で活動するファッションデザイナー兼クリエイティブディレクターのChiristian Guernelliをデジタルクリエイターに起用して制作。実在するモデルによる撮影は行わず、人物や背景などのグラフィックをはじめ、ムービーやナレーション、音楽まで、全てを生成AI技術を用いてプロンプトから作り、実際に撮影されたかのようなリアリティとアート性を追求した、驚きとモード感のある新しい表現のファッション広告に仕上げたという。</description>
+    </item>
   </channel>
 </rss>
