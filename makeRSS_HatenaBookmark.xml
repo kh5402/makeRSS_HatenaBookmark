@@ -5884,5 +5884,38 @@
       <pubDate>2023/10/31 17:45</pubDate>
       <description>これまでも、SNSのささいな投稿（テキストや画像）を元に個人やその場所を特定する人々が存在していた。特に、炎上したケースでは多くの人が集まり、情報を元に特定作業を行うことがある。 この集団の情報収集・分析能力は驚異的だが、新しいLLMを利用することで、さらに効率的かつ簡単に情報の特定ができるのではないかとの指摘がある。特に最近のLLMの高度な推論能力を活用すれば、SNSのわずかな情報からも個人情報を容易に割り出せるようになるかもしれない。 この研究は、ユーザーのオンライン投稿をLLMに入力し、ユーザーが公開する意図を持たない私的な情報をどれだけ推測できるのかを検証している。検証には、最先端の9つの言語モデル（GPT-4、Claude 2、Llama 2など）を使用。実際のRedditのユーザープロフィールを基に、LLMが人々の個人情報（例：居住地、収入、性別）をどの程度効果的に推測できるか</description>
     </item>
+    <item>
+      <title>AIの力だけでAngry Birdsのコピーゲームを作成したエンジニアが登場、作成時に使用したプロンプトも公開中</title>
+      <link>https://gigazine.net/news/20231102-ai-copy-angry-birds/</link>
+      <pubDate>2023/11/02 13:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5e14f393baea18ce0242f2365e59a797baabbc91/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1544%2F019%2Fyajiuma-watch_4.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「ChatGPT」と「Bing」の生成AI「DALL-E3」はどこが違う？ 試してみた／機能と可用範囲で差【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1543573.html</link>
+      <pubDate>2023/11/02 08:58</pubDate>
+      <description>GPU禁輸措置で追い詰められる中国と大規模言語モデルの発展 2023.11.01 Updated by Ryo Shimizu on November 1, 2023, 09:15 am JST アメリカがGPUを重要物資として中国に対して禁輸措置を行うとの意向を受けて、中国国内ではA800 GPUの価格が一枚あたり50万人民元(約1000万円)に達するなどのパニックが起きたようだ。これは通常の価格の5倍にあたる。 A800は、そもそもアメリカ政府の意向を受けて中国市場向けにデチューンした(性能をわざと落とした)モデルで、世界的ベストセラーのA100の70%程度の性能とされている。 しかし中国国内ではAI開発が非常に活発であり、合法的に使えるA800を大量に確保したい中国側の事情と、軍事転用も可能な重要戦略物資を中国に売りたくないアメリカ政府の意向が真正面から対立する形となっている。 筆者</description>
+    </item>
+    <item>
+      <title>「MicrosoftのAIが生成した世論調査でジャーナリストとしての評判が傷付けられた」と大手新聞社がMicrosoftを非難</title>
+      <link>https://gigazine.net/news/20231101-the-guardian-microsoft-generative-ai/</link>
+      <pubDate>2023/11/01 21:04</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session.</description>
+    </item>
+    <item>
+      <title>【GPT4 All tools】ChatGPTが切り替えなしで全機能使用可能&amp;amp;ファイル入力対応！使い方解説 | WEEL</title>
+      <link>https://weel.co.jp/media/all-tools</link>
+      <pubDate>2023/11/01 14:31</pubDate>
+      <description>Del Complex</description>
+    </item>
+    <item>
+      <title>ExcelとPythonが融合! 「Excel in Python」</title>
+      <link>https://ascii.jp/elem/000/004/164/4164775/</link>
+      <pubDate>2023/10/31 16:14</pubDate>
+      <description>近年、ChatGPTを始めとする大規模言語モデル*1に大きな注目が集まっておりますが、これらは膨大な知識をモデル内に有することで高い言語処理性能を示す一方、学習に要するエネルギーは、原発１基１時間分の電力量が必要*2とも言われており、また、運用には大規模なGPUクラスタを必要とし様々な業界に特化するためのチューニングや推論にかかるコストが膨大であることから、サステナビリティおよび企業が学習環境を準備するための経済的負担面で課題があります。 NTTでは、これらの課題を解決する研究開発を進め、今回、軽量でありながら世界トップレベルの日本語処理性能を持つ大規模言語モデル「tsuzumi*2」を開発しました。「tsuzumi」のパラメタサイズは6～70億と軽量であるため、市中のクラウド提供型LLMの課題である学習やチューニングに必要となるコストを低減します。「tsuzumi」は英語と日本語に対応し</description>
+    </item>
   </channel>
 </rss>
