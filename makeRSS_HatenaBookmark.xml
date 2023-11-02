@@ -5935,5 +5935,26 @@
       <pubDate>2023/11/01 06:13</pubDate>
       <description>パルコは、実際のモデル撮影は行わず、生成AIを駆使して制作したファッション広告を発表した。ホリデーシーズンのキャンペーンに活用する。 グラフィックの他、動画、音楽、ナレーションまで、全て生成AIで作成した。グラフィックは、ピンクとグリーンの幻想的な世界に実在しないAIモデルがたたずむというもので、ファッション性やアート性に加え、実際に撮影したかのようなリアリティーを持たせた。「全て生成AI技術で制作したと分かった時の驚きを追求した」という。 ムービーでは複数の生成AIを使用。グラフィックに登場したAIモデルたちを取り巻く空間がどんどん広がり、不思議な世界が現れる。ナレーションには、パルコ社員を含む複数の女性からサンプリングした声を使っている。 9月に渋谷パルコで開催したAI作品展「NFFT2023 Generative AI x Fashion展」を主催した木之村美穂さん（STUDIO D</description>
     </item>
+    <item>
+      <title>日本語大規模言語モデル「Japanese Stable LM Beta」シリーズをリリースしました — Stability AI Japan</title>
+      <link>https://ja.stability.ai/blog/japanese-stable-lm-beta</link>
+      <pubDate>2023/11/02 12:27</pubDate>
+      <description>AIの実践的な使い方を研究しているジャヴィ・ロペズさんが、AIの力を最大限に活用してAngry Birdsのコピーゲーム「Angry Pumpkins」を作成する様子を投稿しています。 Midjourney, DALL•E 3 and GPT-4 have opened a world of endless possibilities. I just coded &amp;quot;Angry Pumpkins 🎃&amp;quot; (any resemblance is purely coincidental 😂) using GPT-4 for all the coding and Midjourney / DALLE for the graphics. Here are the prompts and the process I followed: pic.twitter.com/st3OEhVVtK— Javi</description>
+    </item>
+    <item>
+      <title>NVIDIA RTX環境での「Stable Diffusion」はVRAMを使い果たすとDRAMも使えるが、逆にVRAMだけにもできる</title>
+      <link>https://news.mynavi.jp/article/20231101-2808224/</link>
+      <pubDate>2023/11/02 13:23</pubDate>
+      <description>落合陽一が「今」考えていることや「今」見ているものを生の言葉と写真で伝えていくことを第一に考えています．「書籍や他のメディアで伝えきれないものを届けたい」という思いを持って落合陽一が一人で頑張って撮って書いています．マガジン開始から２年以上経ち，購読すると読める過去記事も８００本を越え（１記事あたり５円以下とお得です），マガジンの内容も充実してきました．</description>
+    </item>
+    <item>
+      <title>ビートルズ最後の新曲「Now And Then」はどのように現代に復活したか。公式ドキュメンタリーで分かったAIの貢献（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/02/2184.html</link>
+      <pubDate>2023/11/02 12:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5e14f393baea18ce0242f2365e59a797baabbc91/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1544%2F019%2Fyajiuma-watch_4.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
