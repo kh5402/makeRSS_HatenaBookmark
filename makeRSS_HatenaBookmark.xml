@@ -5860,5 +5860,29 @@
       <pubDate>2023/11/01 16:21</pubDate>
       <description>Microsoft、「Windows 11 2023 Update（23H2）」リリース　CopilotとTeamsがタスクバーに Microsoftは「Windows 11」の大型アップデート「Windows 11 2023 Update（23H2）」をリリースしたと発表した。追加される機能は9月リリースの22H2とほぼ同じだが、いくつか違いもある。 米Microsoftは10月31日（現地時間）、Windows 11の大型アップデート「Windows 11 2023 Update（23H2）」をリリースしたと発表した。「Copilot in Windows」など、これまで予告してきた新機能がすべて含まれる累積的なアップデートだ。 新機能の多くは、9月にオプションのアップデートとしてリリースした「22H2」で追加されたものだ。22H2では初期設定で無効になっていたCopilot in W</description>
     </item>
+    <item>
+      <title>これも生成AI？ 実在するアナウンサーの映像を用いた偽動画が拡散、TV局が注意を呼び掛け【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/1544019.html</link>
+      <pubDate>2023/11/02 11:22</pubDate>
+      <description>GPU禁輸措置で追い詰められる中国と大規模言語モデルの発展 2023.11.01 Updated by Ryo Shimizu on November 1, 2023, 09:15 am JST アメリカがGPUを重要物資として中国に対して禁輸措置を行うとの意向を受けて、中国国内ではA800 GPUの価格が一枚あたり50万人民元(約1000万円)に達するなどのパニックが起きたようだ。これは通常の価格の5倍にあたる。 A800は、そもそもアメリカ政府の意向を受けて中国市場向けにデチューンした(性能をわざと落とした)モデルで、世界的ベストセラーのA100の70%程度の性能とされている。 しかし中国国内ではAI開発が非常に活発であり、合法的に使えるA800を大量に確保したい中国側の事情と、軍事転用も可能な重要戦略物資を中国に売りたくないアメリカ政府の意向が真正面から対立する形となっている。 筆者</description>
+    </item>
+    <item>
+      <title>Adobe、生成AIで経済圏　著作権守り「数秒でデザイン」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN2301J0T21C23A0000000/</link>
+      <pubDate>2023/11/02 05:56</pubDate>
+      <description>AIチャットボットで問い合わせに対応し、回答が難しい内容に限り担当者にエスカレーション[Amazon Connect + Lex + Bedrock] はじめに Amazon Connect + LexでAIチャットボットを構築し、問い合わせに対して無人対応し、対応が難しい内容に限り、オペレーター（以降、担当者）にエスカレーションする仕組みを作成しました。 コールセンターの負担軽減や人手不足の解消を目指して、AIチャットボットを活用して有人対応から自動応答に切り替えたいというニーズは増えているように思います。 本記事では、お問い合わせをAIチャットボットがヒアリングして、生成AIのAmazon BedrockのClaudeを用いて種別判定を行い、回答できるものはチャットボットが回答し、それ以外の内容については、担当者にエスカレーションする方法をまとめました。 今回検証するお問い合わせの種別</description>
+    </item>
+    <item>
+      <title>GitHub - microsoft/generative-ai-for-beginners: 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</title>
+      <link>https://github.com/microsoft/generative-ai-for-beginners</link>
+      <pubDate>2023/11/01 21:08</pubDate>
+      <description>Del Complex</description>
+    </item>
+    <item>
+      <title>Del Complex</title>
+      <link>https://www.delcomplex.com/blue-sea-frontier</link>
+      <pubDate>2023/10/31 17:45</pubDate>
+      <description>これまでも、SNSのささいな投稿（テキストや画像）を元に個人やその場所を特定する人々が存在していた。特に、炎上したケースでは多くの人が集まり、情報を元に特定作業を行うことがある。 この集団の情報収集・分析能力は驚異的だが、新しいLLMを利用することで、さらに効率的かつ簡単に情報の特定ができるのではないかとの指摘がある。特に最近のLLMの高度な推論能力を活用すれば、SNSのわずかな情報からも個人情報を容易に割り出せるようになるかもしれない。 この研究は、ユーザーのオンライン投稿をLLMに入力し、ユーザーが公開する意図を持たない私的な情報をどれだけ推測できるのかを検証している。検証には、最先端の9つの言語モデル（GPT-4、Claude 2、Llama 2など）を使用。実際のRedditのユーザープロフィールを基に、LLMが人々の個人情報（例：居住地、収入、性別）をどの程度効果的に推測できるか</description>
+    </item>
   </channel>
 </rss>
