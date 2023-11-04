@@ -6286,5 +6286,17 @@
       <pubDate>2023/11/03 17:53</pubDate>
       <description>1990年代半ばにザ・ビートルズのアルバム『Anthology』がリリースされたとき、バンド全員が参加した2曲の新曲「Free as a Bird」と「Real Love」が収録されたことに、驚きと興奮が感じられた。あれから28年、ザ・ビートルズ最後の新曲となる「Now And Then」は、最高の現代技術を終結させ、ポップスの偉大な物語を締めくくる、記念碑的な作品となった。 この曲の発売にあたり、オリヴァー・マーレイが脚本と監督を手がけた12分のドキュメンタリー「Now And Then – The Last Beatles Song」と、『ザ・ビートルズ：Get Back』の監督ピーター・ジャクソンが監修したミュージック・ビデオも公開された。また、この新曲はビートルズのベスト・アルバムであり通称『赤盤』『青盤』として知られる2枚のうちの『青盤』の2023年ヴァージョンに追加して収録され</description>
     </item>
+    <item>
+      <title>AWS Service Catalog は追加の Infrastructure as Code (IaC) プロビジョニングツールのサポートを発表</title>
+      <link>https://aws.amazon.com/jp/about-aws/whats-new/2023/10/aws-service-catalog-support-infrastructure-code-provisioning-tools/</link>
+      <pubDate>2023/11/04 15:52</pubDate>
+      <description>MacでLocal LLM M3 maxが発表される一週間前にM2 maxのMacbook Proを購入したため落ち込んでいるのだが、せっかく購入したのだからということで、LLMを入れてみることにした。 とりあえず、以下の3つの選択肢を試した。 open interpreter text-generation-webui LM Studio で、結局のところ現状まともに動作してくれたのは、LM Studioだけだったのだが、それぞれの所感について示しておく。 1: open interpreter open interpreterそのもの説明については、Qiitaにもいくらでも記事があるのでここでは省略する。 例えば以下の記事など。 https://qiita.com/ot12/items/d2672144b914cb6f252f https://qiita.com/fuyu_quant/</description>
+    </item>
+    <item>
+      <title>生成AIアプリ開発フレームワークLangChain入門</title>
+      <link>https://zenn.dev/yoshiyuki_kono/articles/63e731ab98ffca</link>
+      <pubDate>2023/11/01 23:45</pubDate>
+      <description>Calm2-7b（CyberAgentLM2-7B）は、サイバーエージェントが公開した最新の日本語LLMです。 このモデルは、既存のLLMをベースにするのではなく、1から独自に構築されており、チューニングモデルではなんと32,000トークンの入出力に対応しています。 GPT-4に迫る量のトークンに対応しているのはすごいですよね！ 今回は、Calm2-7bの概要や使ってみた感想をお伝えします。 是非最後までご覧ください！ なお弊社では、生成AIの開発について1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる Calm2-7bの概要 Calm2-7bは、サイバーエージェント社が2023年11月2日に公開した最新の日本語LLMです。 このモデルは、ここ最近の日本語LLM開発のトレンドになっている、既存のLLMをベースに継続事前学習を適用して構築する方法で</description>
+    </item>
   </channel>
 </rss>
