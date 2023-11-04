@@ -6220,5 +6220,11 @@
       <pubDate>2023/11/02 11:43</pubDate>
       <description>LINEヤフー株式会社 プライバシー&amp;amp;トラストチーム / LINEヤフー研究所上席研究員 髙橋翼 コンピュータセキュリティシンポジウム 2023（2023/10/31） PWS企画「生成AIに関する問題と技術、制度的な対応について」の登壇資料です https://www.iwsec.org/css/2023/index.html</description>
     </item>
+    <item>
+      <title>Microsoft、AI採用のサイバーセキュリティの取り組み「Secure Future Initiative」立ち上げ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/03/news057.html</link>
+      <pubDate>2023/11/03 10:00</pubDate>
+      <description>Python版の「LangChain」のクイックスタートガイドをまとめました。 ・LangChain v0.0.329 (2023/11/3) 1. LangChain「LangChain」は、「大規模言語モデル」 (LLM : Large language models) と連携するアプリの開発を支援するライブラリです。 「LLM」という革新的テクノロジーによって、開発者は今まで不可能だったことが可能になりました。しかし、「LLM」を単独で使用するだけでは、真に強力なアプリケーションを作成するのに不十分です。真の力は、それを他の 計算 や 知識 と組み合わせた時にもたらされます。「LangChain」は、そのようなアプリケーションの開発をサポートします。 主な用途は、次の3つになります。 ・文書に関する質問応答 ・チャットボット ・エージェント 2. LangChain のモジュール「L</description>
+    </item>
   </channel>
 </rss>
