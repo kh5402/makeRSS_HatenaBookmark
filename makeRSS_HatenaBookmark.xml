@@ -6322,5 +6322,11 @@
       <pubDate>2023/11/03 22:20</pubDate>
       <description>AWS Service Catalog のお客様は、Ansible、Chef、Pulumi、Puppet などのサードパーティの Infrastructure as Code (IaC) ツールを使用して設定された AWS リソースを作成、配布、起動できるようになりました。AWS Service Catalog 内では、以前サポートされていた AWS CloudFormation と HashiCorp Terraform Cloud の構成に加えて、これらの IaC ツールを使用できます。 この機能の導入により、お客様は使用する IaC ツールを移行または変更しなくても、AWS Service Catalog を単一のプラットフォームとして利用して、AWS リソースの整理、管理、配布を行うことができます。この機能は、アクセスコントロール、タグ付け、バージョニング、最小アクセス権限の維持、</description>
     </item>
+    <item>
+      <title>国民皆保険制度がなくなってほしい</title>
+      <link>https://anond.hatelabo.jp/20231105103853</link>
+      <pubDate>2023/11/05 11:07</pubDate>
+      <description>ところてん @tokoroten 「高卒相当の能力がない社員は昇進させられないですよね？」 「せやな」 「ちなみに今は「情報I」という科目を新しく行ってます。これはだいたいITパスポート相当の内容です。」 「……」 みたいな講演を最近は企業でやってたりする。 twitter.com/__aki_/status/… 2023-11-03 22:13:07 aki @__aki_ 情報Ⅰ、批判もあるが網羅的であれがわかるぐらいではあって欲しい。 ただ、教科書で学ぶのは無理で、生活の中に落とし込んでおく必要がある。 家庭できちんと触れさせておくべきで、その意味では大人はまず読んで、わからない点を解消しておく必要がある。 twitter.com/tokoroten/stat… 2023-11-03 20:52:05 ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGP</description>
+    </item>
   </channel>
 </rss>
