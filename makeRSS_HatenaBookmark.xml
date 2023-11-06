@@ -6430,5 +6430,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca0fd5986b824f994b1cf098ec022651c4a04d6c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1542%2F181%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>NTT版LLM「tsuzumi」に見る国産LLMの意義と戦略【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/1544492.html</link>
+      <pubDate>2023/11/06 10:30</pubDate>
+      <description>自然言語処理（NLP）アルゴリズムが意図的な攻撃に対して脆弱であることはすでに実証されている。しかし、これらの脆弱性がソフトウェアのセキュリティリスクとしてどのように影響するかについては、十分に調査されていない。 この問題を解決するために、データベースと自然言語インタフェースを結び付けるためのText-to-SQLシステムの脆弱性テストを実施した。Text-to-SQLシステムとは、自然言語での質問や命令をSQL（Structured Query Language）クエリに変換する技術やアルゴリズムのことを指す。 ユーザーが「過去1年間で最も売れた商品は？」という質問をすると、Text-to-SQLシステムはクエリに変換してデータベースに問い合わせ、適切な結果をユーザーに返してくれる。目的は、Text-to-SQLアルゴリズムの悪用によるデータベース攻撃の可能性を評価することである。 具体</description>
+    </item>
+    <item>
+      <title>ジャンクノートパソコンにPythonと日本語LLMのRinnaを入れてメモリ16GBとSwapフルでローカル質問してみた。メモリ足りなくてもSwap積めばなんとかなる。ローカルLLM最高</title>
+      <link>https://togetter.com/li/2253469</link>
+      <pubDate>2023/11/06 07:59</pubDate>
+      <description>ChatGPTの発表から、1年が経過しようとしています。 熱狂は徐々に醒め、現在の利用状況はLINEの調査によると、全体の5％程度。＊1 その中でも、仕事で積極的に利用している人は、1％程度ではないかと推測します。 では、この1％の人たちはどのような方々で、どのように生成AIを仕事で使っているのか？ 9月の中旬から、10月の末にかけて、私は約40名の方に取材を行いました。 そして、私は一つの確信を得ました。 それは、「私は間違いなく10年後、失業する」です。 私は間違いなく10年後、失業する なぜなら、現場での生成AI利用は、仕事によっては 「ホワイトカラーの代替」 をかなり高いレベルでできることがわかったからです。 例えば、コンサルティング。 コンサルティングには、初期の段階で、仮説構築という仕事があります。 平たく言うと、調査・提案にあたって「課題はここにあるのではないか？」というアタ</description>
+    </item>
+    <item>
+      <title>報道番組を装った総理大臣の偽動画拡散についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2023/11/06/005153</link>
+      <pubDate>2023/11/06 05:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca0fd5986b824f994b1cf098ec022651c4a04d6c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1542%2F181%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - eukaryo/reversi-scripts</title>
+      <link>https://github.com/eukaryo/reversi-scripts</link>
+      <pubDate>2023/11/05 02:21</pubDate>
+      <description>皆さん、最新LLMの「zephyr-7b-beta」をご存知ですか？約70億ものパラメータを持っており、ユーザーの質問に答えたり、文章を作ったりする能力を身につけています。 弊社では普段からLLMについてリサーチしているのですが、今回のzephyr-7b-betaには、期待に胸が高鳴ります！ さらに、WritingやRoleplayなどに関しては、あのGPT-4に迫る精度を達成しているそう。 凄いですね。 では、zephyr-7b-betaの使い方や、実際に使ってみた感想、最後にはGPT-4との比較をまとめています。 この記事を最後まで読むと、zephyr-7b-betaの威力を思い知らされるでしょう！ ぜひ最後までご覧ください！ なお弊社では、生成AIツール開発についての1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる zephyr-7b-be</description>
+    </item>
   </channel>
 </rss>
