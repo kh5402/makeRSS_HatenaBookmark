@@ -6676,5 +6676,17 @@
       <pubDate>2023/11/07 00:11</pubDate>
       <description>苦しみを知る新たな存在のカテゴリーは、必要ないと思うのです。ドミニク・チェン　テッドさんの小説の大ファンですので、インタビューできて光栄です…</description>
     </item>
+    <item>
+      <title>Markdownで技術同人誌のPDFが生成できるOSSを公開しました - Qiita</title>
+      <link>https://qiita.com/ku_suke/items/e279b7f8e01d40e52f30</link>
+      <pubDate>2023/11/06 09:48</pubDate>
+      <description>サーバ不要でバックエンドAPIのモックを実現する「Mock Service Worker 2.0」正式リリース。Fetch API、ストリームAPI対応など新機能 Webアプリケーションのクライアントを開発する際に、本来ならばサーバ上で稼働するWebアプリケーションのバックエンドのAPIを呼び出してデータを受け取って表示するといった動作を作り込みたいけれども、まだバックエンドのAPIも開発中であったり、何らかの理由でバックエンドを稼働させる環境を用意できなかったりすることは、しばしば起こりえます。 そうしたときにサーバを立てることなく、バックエンドのAPIをモックとして簡単に設定し提供してくれるソフトウェア「Mock Service Worker」の最新版「Mock Service Worker 2.0」が正式にリリースされました。 Announcing MSW 2.0! Migratio</description>
+    </item>
+    <item>
+      <title>文書生成能力の利用事例の詳細</title>
+      <link>https://www.evernote.com/shard/s11/client/snv?isnewsnv=true&amp;amp;noteGuid=86c7386a-1863-313c-cfea-76a24eec8200&amp;amp;noteKey=umtbAjV1McPklJs7r21o4DfLe2yYJYdh0_dpCPR2kFvITpR4rG1GjTCOhg&amp;amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2F86c7386a-1863-313c-cfea-76a24eec8200%2FumtbAjV1McPklJs7r21o4DfLe2yYJYdh0_dpCPR2kFvITpR4rG1GjTCOhg&amp;amp;title=%25E6%2596%2587%25E6%259B%25B8%25E7%2594%259F%25E6%2588%2590%25E8%2583%25BD%25E5%258A%259B%25E3%2581%25AE%25E5%2588%25A9%25E7%2594%25A8%25E4%25BA%258B%25E4%25BE%258B%25E3%2581%25AE%25E8%25A9%25B3%25E7%25B4%25B0</link>
+      <pubDate>2023/11/06 14:14</pubDate>
+      <description>すごいニュースが飛び込んできた。オセロの必勝法が見つかったのだ。正確に言うとオセロが弱解決された。まずはその論文を紹介する。 Othello is Solved : https://arxiv.org/abs/2310.19387 「弱解決(weakly solved)」を簡単に言うと、初期局面からの双方最善手を打つ時の結論(勝敗)がわかったと言う意味である。8×8のオセロの結論は引き分けなのだそうだ。「必勝法が見つかった」と本記事のタイトルで書いたが、正しくは「必勝法(必ず勝てる方法)が存在しないことが証明された」とでも言うべきか。 今回は、初期局面から到達できるあらゆる局面についての結論(勝敗)がわかったわけではない。こちらは「強解決(strongly solved)」と呼ばれる。 弱解決と強解決とでは、必要となる局面数が桁違いである。詳しくは、にゃにゃんさんの記事を見て欲しい。 Ot</description>
+    </item>
   </channel>
 </rss>
