@@ -6598,5 +6598,29 @@
       <pubDate>2023/11/06 18:28</pubDate>
       <description>NTTは自動運転に参入する。自動運転システムを開発する米スタートアップに出資し、トヨタ自動車と共同で車両を開発する。無人バスやタクシー用として2025年にも提供する。運転手不足が深刻になる中で輸送網の維持に向け、自動運転を活用する動きが日本企業で広がってきた。NTTは米メイ・モビリティー（ミシガン州）に約100億円を出資する。同社の技術はレベル4に相当し、走行時に取得するデータを人工知能（A</description>
     </item>
+    <item>
+      <title>AIのみで『アングリーバード』を“コピー”したユーザーあらわる。コードは1行も書かず、実際にプレイ可能な『Angry Pumpkins』 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20231106-271023/</link>
+      <pubDate>2023/11/06 20:50</pubDate>
+      <description>すごいニュースが飛び込んできた。オセロの必勝法が見つかったのだ。正確に言うとオセロが弱解決された。まずはその論文を紹介する。 Othello is Solved : https://arxiv.org/abs/2310.19387 「弱解決(weakly solved)」を簡単に言うと、初期局面からの双方最善手を打つ時の結論(勝敗)がわかったと言う意味である。8×8のオセロの結論は引き分けなのだそうだ。 今回は、初期局面から到達できるあらゆる局面についての結論がわかったわけではない。こちらは「強解決(strongly solved)」と呼ばれる。 弱解決と強解決とでは、必要となる局面数が桁違いである。詳しくは、にゃにゃんさんの記事を見て欲しい。 Othello is Solved 論文解説 (私見) : https://qiita.com/Nyanyan_Cube/items/a373da</description>
+    </item>
+    <item>
+      <title>NTTが自動運転　米スタートアップに出資、トヨタと車両開発 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC0522N0V01C23A1000000/</link>
+      <pubDate>2023/11/06 18:16</pubDate>
+      <description>アメリカ・ニュージャージー州にあるウェストフィールド高等学校の男子生徒らが、AIを使用して同級生の女子生徒のヌード写真を作成し、共有していたことがわかりました。この事件で警察は捜査を進めていますが、問題の画像にアクセスできず、偽のヌード写真の頒布が違法行為にあたるかどうかも不明なため、暗中模索の状況であると伝えられています。 AI-generated nudes of girls at NJ high school trigger police probe https://nypost.com/2023/11/02/news/ai-generated-nudes-of-girls-at-nj-high-school-trigger-police-probe/ Westfield High School student accused of creating AI nude images o</description>
+    </item>
+    <item>
+      <title>Stability AI Japanが公開した30億パラメーターの日本語向けLLMを動かしてみた【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/1544320.html</link>
+      <pubDate>2023/11/06 14:38</pubDate>
+      <description>ジョン・マエダはニューヨーク近代美術館（MoMA）に作品が展示されているコンピュータ・アーティストだ。そして、『シンプリシティの法則』や『機械の言葉を話す方法』（未邦訳） などのベストセラー作家でもある。マサチューセッツ工科大学（MIT）メディアラボの教授を務めた経歴があり、マイクロソフトのデザイン＆AI統括責任者も務めている。 1966年、シアトルに生まれた「ジョン・マエダ」とは一体、何者なのか。スペイン「エル・ムンド」紙が、さまざまな顔を持つ世界的デザイナーの素顔を探った。 「ヒューマニスト・テクノロジスト」とは ──数学者、芸術家、プログラマー、作家、企業幹部……。あなた自身にとって、ジョン・マエダとは何者なのでしょうか？ 何者か？　私には、88歳と89歳の年老いた両親がいます。人生の終わりがどんなものか、それがどんなに辛いものかを理解するため、できるだけたくさんの時間を彼らと過ごそ</description>
+    </item>
+    <item>
+      <title>オセロが解決される、双方が最善手を打った場合最終局面は引き分けになることが明らかに</title>
+      <link>https://gigazine.net/news/20231106-othello-is-solved/</link>
+      <pubDate>2023/11/06 15:19</pubDate>
+      <description>イーロン・マスク氏によって設立されたAI企業のxAIが2023年11月4日に、独自の言語モデルである「Grok」を発表しました。xAIはGrokを、「SF小説『銀河ヒッチハイク・ガイド』にインスピレーションを受けた、ちょっとしたウィットと生意気な一面を持つAI」としています。 Announcing Grok https://x.ai/ Elon Musk releases new AI chatbot ‘Grok’ in bid to take on ChatGPT https://www.ft.com/content/093cda92-91d8-49ff-8475-4f66ccff137b Elon Musk debuts &amp;#39;Grok&amp;#39; AI bot to rival ChatGPT, others https://www.cnbc.com/2023/11/05/elon-musk-de</description>
+    </item>
   </channel>
 </rss>
