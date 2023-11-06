@@ -6694,5 +6694,23 @@
       <pubDate>2023/11/06 17:38</pubDate>
       <description>苦しみを知る新たな存在のカテゴリーは、必要ないと思うのです。ドミニク・チェン　テッドさんの小説の大ファンですので、インタビューできて光栄です…</description>
     </item>
+    <item>
+      <title>OpenAI がまたやった！OpenAI DevDay 総まとめ｜ChatGPT研究所</title>
+      <link>https://chatgpt-lab.com/n/n0554df7f1b80</link>
+      <pubDate>2023/11/07 07:23</pubDate>
+      <description>以下の記事が面白かったので、かるくまとめました。 ・New models and developer products announced at DevDay 1. GPT-4 Turbo「GPT-4 Turbo」は、「GPT-4」より高性能です。2023年4月までの知識と128kのコンテキストウィンドウを持ちます。さらに、「GPT-4」と比較して入力は1/3、出力は1/2の安い価格で提供します。 開発者はモデルID「gpt-4-1106-preview」で試すことができます。今後数週間以内に、安定した実稼働モデルをリリースする予定です。 1-1. Function Calling の更新「Function Calling」に、単一メッセージから複数のFunction (「車の窓を開けてエアコンをオフにする」など) を呼び出す機能などが追加されました。精度も向上しています。 1-2. 構造</description>
+    </item>
+    <item>
+      <title>New models and developer products announced at DevDay</title>
+      <link>https://openai.com/blog/new-models-and-developer-products-announced-at-devday</link>
+      <pubDate>2023/11/07 05:38</pubDate>
+      <description>SNSのプロフィール欄などにメールアドレスをそのまま載せると、スクレイピングにより収集されて迷惑メールを送られるなどの被害に遭ってしまうため、「abc123☆mail.com(☆をアットマークに置き換えてください)」というような難読化がよく使われています。しかし、このテクニックはChatGPTで簡単に回避できてしまうと、AIツールの開発者が指摘しました。 Email Obfuscation Rendered (almost) Ineffective Against ChatGPT https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4 AIツール「BulkNinja」を開発しているアルノー・ノーマン</description>
+    </item>
+    <item>
+      <title>日本企業の7割が「生成AIアプリ」利用禁止、無関心は「丸投げ」よりひどい</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/01111/110100047/</link>
+      <pubDate>2023/11/06 07:49</pubDate>
+      <description>ジョン・マエダはニューヨーク近代美術館（MoMA）に作品が展示されているコンピュータ・アーティストだ。そして、『シンプリシティの法則』や『機械の言葉を話す方法』（未邦訳） などのベストセラー作家でもある。マサチューセッツ工科大学（MIT）メディアラボの教授を務めた経歴があり、マイクロソフトのデザイン＆AI統括責任者も務めている。 1966年、シアトルに生まれた「ジョン・マエダ」とは一体、何者なのか。スペイン「エル・ムンド」紙が、さまざまな顔を持つ世界的デザイナーの素顔を探った。 「ヒューマニスト・テクノロジスト」とは ──数学者、芸術家、プログラマー、作家、企業幹部……。あなた自身にとって、ジョン・マエダとは何者なのでしょうか？ 何者か？　私には、88歳と89歳の年老いた両親がいます。人生の終わりがどんなものか、それがどんなに辛いものかを理解するため、できるだけたくさんの時間を彼らと過ごそ</description>
+    </item>
   </channel>
 </rss>
