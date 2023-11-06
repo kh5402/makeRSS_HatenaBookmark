@@ -6622,5 +6622,38 @@
       <pubDate>2023/11/06 15:19</pubDate>
       <description>イーロン・マスク氏によって設立されたAI企業のxAIが2023年11月4日に、独自の言語モデルである「Grok」を発表しました。xAIはGrokを、「SF小説『銀河ヒッチハイク・ガイド』にインスピレーションを受けた、ちょっとしたウィットと生意気な一面を持つAI」としています。 Announcing Grok https://x.ai/ Elon Musk releases new AI chatbot ‘Grok’ in bid to take on ChatGPT https://www.ft.com/content/093cda92-91d8-49ff-8475-4f66ccff137b Elon Musk debuts &amp;#39;Grok&amp;#39; AI bot to rival ChatGPT, others https://www.cnbc.com/2023/11/05/elon-musk-de</description>
     </item>
+    <item>
+      <title>デジタル生命体は創るべきではないと私は考えます。 | DISTANCE.media</title>
+      <link>https://distance.media/article/20231027000079/</link>
+      <pubDate>2023/11/06 20:56</pubDate>
+      <description>AI活用を模索するとあるユーザーが10月31日、『Angry Birds（アングリーバード）』に酷似したゲーム『Angry Pumpkins』を制作したと報告。同作はグラフィックもゲームコードもすべてAIで構築したとして、大きな反響を呼んでいる。 『アングリーバード』は、Rovio Entertainmentが手がけるパズルゲームシリーズだ。同作はAndroid/iOS向けゲームとして大人気に。続編『Angry Birds 2』やPC向け展開もされた。ゲームプレイとしては、スリングショット（パチンコ）で鳥を発射。物理演算や障害物との衝突も計算に入れつつ、フィールド上の敵を倒していくのが目的となる。シンプルなルールで多くのユーザーに親しまれる作品だ。 同作に類似したゲームを「AIのみで構築した」と報告する者があらわれた。AIの活用法を模索するユーザーのJavi López氏だ。同氏は、ルーム</description>
+    </item>
+    <item>
+      <title>イーロン・マスクがChatGPTのライバルAI「Grok」を発表</title>
+      <link>https://gigazine.net/news/20231106-grok-xai/</link>
+      <pubDate>2023/11/06 11:54</pubDate>
+      <description>深津 貴之 / THE GUILD / note @fladdict 「ChatGPTと、どうやって一緒にコードを設計するの？」と聞かれたので、サンプルを作ってみました。だいたい、こんな感じでやってます。 chat.openai.com/share/9278e867… 2023-11-04 00:52:53 深津 貴之 / THE GUILD / note @fladdict 基本的に「磯野〜、ペアプロしようぜ！」と誘って、会話しながらやると安定します。「チミチミ、これをやってくれたまえ」って丸投げすると、だいたいダメ 2023-11-04 01:01:59</description>
+    </item>
+    <item>
+      <title>AIに「それがファイナルアンサーなの？」「全力を尽くして」といった感情的な命令文を伝えるとパフォーマンスが向上する</title>
+      <link>https://gigazine.net/news/20231106-llm-emotional-stimuli/</link>
+      <pubDate>2023/11/06 13:16</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 香港大学などに所属する研究者らが発表した論文「OpenAgents: An Open Platform for Language Agents in the Wild」は、言語エージェントとのチャット対話を通じて、さまざまなWebサービスとやりとりできるオープンソース・フレームワークを提案した研究報告である。一般ユーザーは、プログラマー向けのコンソールやパッケージを使わずに、オンラインのWebインタフェースを通じてAIエージェントと対話できる。お試しはこちら。 大規模言語モデルの登場に伴い、言語を使用して多様なタスクを実行するエージェントが</description>
+    </item>
+    <item>
+      <title>遂に登場。Grokの使い方とその性能を解説｜ChatGPT研究所</title>
+      <link>https://chatgpt-lab.com/n/n466e7190e631</link>
+      <pubDate>2023/11/05 19:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1fa61e13f2a2c5578abb9d53fe2bc3c1fb68f1cd/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1544%2F477%2F002.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Generative AI for Everyone</title>
+      <link>https://www.coursera.org/learn/generative-ai-for-everyone</link>
+      <pubDate>2023/11/02 13:35</pubDate>
+      <description>AIを使って制作した動画などのアート作品のコンテストが東京 秋葉原で開かれ、23とおりの自分の分身、アバターを描いた東京の男性の作品がグランプリに選ばれました。 今回で2回目となる「AIアートグランプリ」は、CGクリエーターやAIの研究者などの有志で作る実行委員会が開催し、AIを使って制作した動画やゲームなど124作品の応募がありました。 4日、東京 秋葉原で開かれた最終審査会では、選考を通過した10作品の制作者が作品に込めた意図や制作過程などを発表し、審査が行われました。 その結果、グランプリには東京在住の快亭木魚さんの作品、「明日のあたしのアバタイズ」が選ばれました。 この作品はAIを使えば誰でも自由に変身することができる世界を表現した動画で、ブロンドの長髪の女性や科学者など23のアバターが登場しますが、もとになった画像はすべて快亭木魚さん、本人です。 毛布を頭からかぶったり、ハンガー</description>
+    </item>
   </channel>
 </rss>
