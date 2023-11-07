@@ -6832,5 +6832,35 @@
       <pubDate>2023/11/07 08:10</pubDate>
       <description>というNBER論文が上がっている（2月時点のWP）。原題は「Economic Growth under Transformative AI」で、著者はPhilip Trammell（オックスフォード大）、Anton Korinek（バージニア大）。 以下はその要旨。 Industrialized countries have long seen relatively stable growth in output per capita and a stable labor share. AI may be transformative, in the sense that it may break one or both of these stylized facts. This review outlines the ways this may happen by placing sev</description>
     </item>
+    <item>
+      <title>オペレーティング・システムから、オペレーティング・エージェントへ｜深津 貴之 (fladdict)</title>
+      <link>https://note.com/fladdict/n/nf4c104d4ed2b</link>
+      <pubDate>2023/11/07 15:55</pubDate>
+      <description>OpenAIは開発者会議DevDayで、アプリにAIアシスタントを搭載できるようにする「Assistants API」を発表し、β版の提供を開始した。</description>
+    </item>
+    <item>
+      <title>OpenAIがコーディング不要でChatGPTをカスタムできる「GPTs」発表＆自分のGPTsを公開できる「GPT Store」も展開予定</title>
+      <link>https://gigazine.net/news/20231107-openai-custom-chatgpt-gpts/</link>
+      <pubDate>2023/11/07 10:43</pubDate>
+      <description>困難だった“食べ歩き用プリン”開発　ChatGPTに解決を託した、とある乳製品メーカーの話　【プロンプト実例付き】（1/2 ページ） AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業は、そんな発表をした。一体どのようにChatGPTを活用したのか、話を聞いた AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業（三重県伊勢市）は10月30日、そんな発表をした。「山村ぷりんバー」と呼ばれるこの商品は、まるで棒付きアイスのような見た目だが、中身は正真正銘のプリン。「ただ棒を刺しただけでは？」と思うかもしれないが、その開発は困難であったという。</description>
+    </item>
+    <item>
+      <title>米オープンAIが新基盤を発表　アプリストアのように収入を得ることも可能に!?「GPTストア」 | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/821144</link>
+      <pubDate>2023/11/07 07:31</pubDate>
+      <description>やっぱ世界を変えそうな感じしかしない…。 2023年11月7日未明、OpenAIの開発者向けカンファレンス｢DevDay｣がスタート、基調講演がYouTubeで配信されました。発表内容をまとめます。 一般ユーザーに関係する内容要点をまとめると以下のようになります。 1. GPT-4が最新の知識をもつように新モデル｢GPT-4 Turbo｣が登場します。 これまでは2021年9月までの知識しかなかった（一部知識が古かった）のですが、2023年4月までの情報に基づいて回答できるように。 2. ChatGPT Plusの全追加機能が同時に使えるようにブラウジング機能・プラグイン機能・Advanced Data Analysis・画像生成をすべて併用できるようになりました。 もうそうなってました（以前はひとつのスレッド内でインターネット検索と画像生成の併用はできなかった）。インターネット検索機能で</description>
+    </item>
+    <item>
+      <title>コンサルティング・マーケティング用途の利用事例の詳細</title>
+      <link>https://www.evernote.com/shard/s11/client/snv?isnewsnv=true&amp;amp;noteGuid=010e10e9-b0b7-0485-eac4-9f28e6e03457&amp;amp;noteKey=1aoPQvvqAGgnyn1oK7ugNNIb9jlKW9Q3CHxsc-Lxt3op-lGNEJ9yejn2Pg&amp;amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2F010e10e9-b0b7-0485-eac4-9f28e6e03457%2F1aoPQvvqAGgnyn1oK7ugNNIb9jlKW9Q3CHxsc-Lxt3op-lGNEJ9yejn2Pg&amp;amp;title=%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B1%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E7%2594%25A8%25E9%2580%2594%25E3%2581%25AE%25E5%2588%25A9%25E7%2594%25A8%25E4%25BA%258B%25E4%25BE%258B%25E3%2581%25AE%25E8%25A9%25B3%25E7%25B4%25B0</link>
+      <pubDate>2023/11/06 13:16</pubDate>
+      <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
+    </item>
+    <item>
+      <title>ControlNet初心者教本｜かたらぎ</title>
+      <link>https://note.com/redraw_0/n/n726a058ee727</link>
+      <pubDate>2023/11/06 15:47</pubDate>
+      <description>Python版の「LlamaIndex」のクイックスタートガイドをまとめました。 ・LlamaIndex v0.8.59 1. LlamaIndex「LlamaIndex」は、プライベートやドメイン固有の知識を必要とする専門知識を必要とする質問応答チャットボットを簡単に作成できるライブラリです。 2. LlamaIndexの5つのステージ「LlamaIndex」には、5つのステージがあります。 2-1. Loadingデータソース (テキストファイル、PDF、Webサイト、データベース、APIなど) からデータを読み込みます。 「Loading」の主要コンポーネントは、次のとおりです。 ・Document : データソースのコンテナ ・Node : Documentを分割したもの。チャンクとメタデータが含まれる ・Connector : データソースからDocumentおよびNodeに取り</description>
+    </item>
   </channel>
 </rss>
