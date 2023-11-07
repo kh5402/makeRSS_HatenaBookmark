@@ -6994,5 +6994,20 @@
       <pubDate>2023/11/07 12:52</pubDate>
       <description>「OpenAI Python API Library」のインタフェースが一新されたので、かるくまとめ直しました。 ・OpenAI Python API library v1.1.1 1. OpenAI Python API LibraryPythonで「OpenAI API」にアクセスするには「OpenAI Python API Library」を使います。 2. セットアップColabでのセットアップ手順は、次のとおりです。 (1) パッケージのインストール。 # パッケージのインストール !pip install openai(2) 環境変数の準備。 以下のコードの &amp;lt;OpenAI_APIキー&amp;gt; にはOpenAIのサイトで取得できるAPIキーを指定します。(有料) import os os.environ[&amp;quot;OPENAI_API_KEY&amp;quot;] = &amp;quot;&amp;lt;OpenAI_APIキー&amp;gt;&amp;quot;(3)</description>
     </item>
+    <item>
+      <title>ChatGPT公開1年　はや7兆円市場、生成AI競争激しく - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN068H60W3A101C2000000/</link>
+      <pubDate>2023/11/07 12:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f91610fda4d001fec3080343886244c7f06a586f/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1544%2F868%2Fgpts1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI、より安価で高性能な言語モデル「GPT-4 Turbo」などを発表</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1544932.html</link>
+      <pubDate>2023/11/07 12:53</pubDate>
+      <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
+    </item>
   </channel>
 </rss>
