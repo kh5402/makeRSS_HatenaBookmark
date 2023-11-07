@@ -6880,5 +6880,23 @@
       <pubDate>2023/11/07 10:22</pubDate>
       <description>困難だった“食べ歩き用プリン”開発　ChatGPTに解決を託した、とある乳製品メーカーの話　【プロンプト実例付き】（1/2 ページ） AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業は、そんな発表をした。一体どのようにChatGPTを活用したのか、話を聞いた AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業（三重県伊勢市）は10月30日、そんな発表をした。「山村ぷりんバー」と呼ばれるこの商品は、まるで棒付きアイスのような見た目だが、中身は正真正銘のプリン。「ただ棒を刺しただけでは？」と思うかもしれないが、その開発は困難であったという。</description>
     </item>
+    <item>
+      <title>パブリックコメント「AI時代における知的財産権」</title>
+      <link>https://nafca.jp/public-comment01/</link>
+      <pubDate>2023/11/07 15:13</pubDate>
+      <description>ゼネラルモーターズ(GM)傘下の自動運転企業であるCruiseは、自動運転車が「子どもを検知して適切に注意を払うこと」に問題を抱えていると認識しながら、公道でのテストを続けていたと海外メディアのThe Interceptが報じました。 Cruise Self-Driving Cars Struggled to Recognize Children https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/ Cruiseはサンフランシスコやマイアミなどアメリカの複数の都市で、自社の自動運転車を公道で走行させるテストを行っていました。時には自動運転車が事故を起こしたり、交通を乱したりする事例も報告されていましたが、2023年10月にはGMなどが「自動運転車は人間が運転する車より安全」だということを示すデータを発表</description>
+    </item>
+    <item>
+      <title>アレクサを侵害品とした訴訟提起について</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000004.000079408.html</link>
+      <pubDate>2023/11/06 14:10</pubDate>
+      <description>〇マーケティングリサーチ会社で10年の経験を持ち、現在はリサーチ会社を立ち上げたyasuさん。 ・ChatGPTを、選択肢出しにつかっている。 ・調査と言っても、ただアンケートをすればいい、という事ではない。顧客の課題に対して、どんな論点があって、どんな仮説を用意するかを決定し、アンケートを作成する。ChatGPTの登場前は調査に10営業日ほど時間がかかっていた。ChatGPTの登場で、それが2～...</description>
+    </item>
+    <item>
+      <title>LlamaIndex v0.8 クイックスタートガイド - Python版｜npaka</title>
+      <link>https://note.com/npaka/n/nd449d5190431</link>
+      <pubDate>2023/11/06 11:53</pubDate>
+      <description>サーバ不要でバックエンドAPIのモックを実現する「Mock Service Worker 2.0」正式リリース。Fetch API、ストリームAPI対応など新機能 Webアプリケーションのクライアントを開発する際に、本来ならばサーバ上で稼働するWebアプリケーションのバックエンドのAPIを呼び出してデータを受け取って表示するといった動作を作り込みたいけれども、まだバックエンドのAPIも開発中であったり、何らかの理由でバックエンドを稼働させる環境を用意できなかったりすることは、しばしば起こりえます。 そうしたときにサーバを立てることなく、バックエンドのAPIをモックとして簡単に設定し提供してくれるソフトウェア「Mock Service Worker」の最新版「Mock Service Worker 2.0」が正式にリリースされました。 Announcing MSW 2.0! Migratio</description>
+    </item>
   </channel>
 </rss>
