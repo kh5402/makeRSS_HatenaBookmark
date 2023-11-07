@@ -6712,5 +6712,35 @@
       <pubDate>2023/11/06 07:49</pubDate>
       <description>ジョン・マエダはニューヨーク近代美術館（MoMA）に作品が展示されているコンピュータ・アーティストだ。そして、『シンプリシティの法則』や『機械の言葉を話す方法』（未邦訳） などのベストセラー作家でもある。マサチューセッツ工科大学（MIT）メディアラボの教授を務めた経歴があり、マイクロソフトのデザイン＆AI統括責任者も務めている。 1966年、シアトルに生まれた「ジョン・マエダ」とは一体、何者なのか。スペイン「エル・ムンド」紙が、さまざまな顔を持つ世界的デザイナーの素顔を探った。 「ヒューマニスト・テクノロジスト」とは ──数学者、芸術家、プログラマー、作家、企業幹部……。あなた自身にとって、ジョン・マエダとは何者なのでしょうか？ 何者か？　私には、88歳と89歳の年老いた両親がいます。人生の終わりがどんなものか、それがどんなに辛いものかを理解するため、できるだけたくさんの時間を彼らと過ごそ</description>
     </item>
+    <item>
+      <title>OpenAI、改良版生成AIモデル「GPT-4 Turbo」を「GPT-4」より安価に提供へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/07/news076.html</link>
+      <pubDate>2023/11/07 08:05</pubDate>
+      <description>You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. We’re rolling out custom versions of ChatGPT that you can create for a specific purpose—called GPTs. GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home—and then share that creation</description>
+    </item>
+    <item>
+      <title>OpenAI Dev Day 2023 まとめ - 吉田の備忘録</title>
+      <link>https://memo.tyoshida.me/others/openai-dev-day-2023-summary/</link>
+      <pubDate>2023/11/07 07:34</pubDate>
+      <description>11月7日 、OpenAI DevDay が開催。 全ての内容が革命的という衝撃の発表となりました。 発表された内容は、大きくまとめると、主に3つです。 1. GPT API が大幅に改善、新しいAPIも 2. GPTs 発表： 自然言語で作れるAIボット 3. Assistants API 発表: 開発者のための、AIアシスタントAPI 全て、インパクトが非常に大きいです。 それぞれ、詳しく解説していきます。 GPT API を全般的に大幅に改善、新しいAPIもまず、API に多くの改善が加えられます。 完全に新しいAPIも発表されました。 主に6つあるため、それぞれ、詳しく説明します。 1.コンテキスト長が、128kトークンに拡大なんと、受付可能なコンテキスト長が、一挙に12万8千まで拡大しました。 これは、300ページ以上のテキストに相当する情報です。 また、コンテキスト長が大幅に拡</description>
+    </item>
+    <item>
+      <title>OpenAI DevDay で発表された新モデルと新開発ツール まとめ｜npaka</title>
+      <link>https://note.com/npaka/n/n9cd206d96f85</link>
+      <pubDate>2023/11/07 06:20</pubDate>
+      <description>GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more. Today, we shared dozens of new additions and improvements, and reduced pricing across many parts of our platform. These include: New GPT-4 Turbo model that is more capable, cheaper and supports a 128K context windowNew Assistants API that makes it easier for developers to build</description>
+    </item>
+    <item>
+      <title>「☆→@に変更」などのメールアドレス難読化手法はChatGPTで簡単に突破できてしまう</title>
+      <link>https://gigazine.net/news/20231106-email-obfuscation-chatgpt/</link>
+      <pubDate>2023/11/06 23:55</pubDate>
+      <description>こんにちは、以前 FlightBooksというサービスを立ち上げていたのですが、2年ほどメンテしていなかったため、ローカル動作するOSS版として公開することにしました。 OSS版を作るにあたり、エディタ部分はVSCodeなりお好きなエディタを使ってもらうとして、 MarkdownからHTMLを生成する部分 HTMLからPDFを生成する部分 を切り出して公開しました。 ほかのサービスや技術と何が違うの？ 技術書をマークアップテキストで書くプラットフォームとしては、Re:VIEW、Vivliostyleなどがありますが、FlightBooksは「出版やDTPに関する知識がなくても印刷所にだしたい」というエンジニア諸氏のために開発されました。 「商業印刷」にどこまで向き合うか ご家庭のプリンタに印刷を指示すると、ファイルの情報がプリンタドライバに送信され、そこでインクの出し方を制御するためのデー</description>
+    </item>
+    <item>
+      <title>GitHub - KoeAI/LLVC</title>
+      <link>https://github.com/KoeAI/LLVC</link>
+      <pubDate>2023/11/06 09:28</pubDate>
+      <description>NTTは自動運転事業に参入する。米スタートアップに出資し、国内向けに無人バスやタクシーの自動運転サービスを開発する。まずトヨタ自動車の車両を活用する。運転手不足が深刻になる中で輸送網の維持に向け、自動運転を活用する動きが日本企業で広がってきた。NTTは自動運転システムを開発する米メイ・モビリティー（ミシガン州）に約100億円を出資する。同社は2017年に発足した。メイの技術はレベル4に相当し</description>
+    </item>
   </channel>
 </rss>
