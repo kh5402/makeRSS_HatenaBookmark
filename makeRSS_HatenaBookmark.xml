@@ -6988,5 +6988,11 @@
       <pubDate>2023/11/07 16:06</pubDate>
       <description>OpenAI初デベロッパーイベントで発表された11のこと2023.11.07 12:30 Maxwell Zeff - Gizmodo US ［原文］ （ そうこ ） ChatGPTで知られるOpenAIが、自社初となるデベロッパーカンファレンス｢DevDay｣を開催しました。CEOのサム・アルトマン氏がステージに立った基調講演では、現状報告や最新モデルが発表されました（こちらの記事もどうぞ）。 アルトマン氏いわく、現在200万人の開発者、100万人の毎週アクティブユーザーを抱え、フォーチュン500掲載企業の92％が導入しているというOpenAIプロダクト。｢世界最先端かつ最も広く使われているAIプラットフォーム｣だと、同社プロダクトを自負。 以下、DevDayのメインとなった発表された11のことを紹介します。 新モデルChatGPT-4 Turbo新モデル｢GPT-4 Turbo｣の発表</description>
     </item>
+    <item>
+      <title>OpenAI Platform</title>
+      <link>https://platform.openai.com/docs/assistants/tools/supported-files</link>
+      <pubDate>2023/11/07 12:52</pubDate>
+      <description>「OpenAI Python API Library」のインタフェースが一新されたので、かるくまとめ直しました。 ・OpenAI Python API library v1.1.1 1. OpenAI Python API LibraryPythonで「OpenAI API」にアクセスするには「OpenAI Python API Library」を使います。 2. セットアップColabでのセットアップ手順は、次のとおりです。 (1) パッケージのインストール。 # パッケージのインストール !pip install openai(2) 環境変数の準備。 以下のコードの &amp;lt;OpenAI_APIキー&amp;gt; にはOpenAIのサイトで取得できるAPIキーを指定します。(有料) import os os.environ[&amp;quot;OPENAI_API_KEY&amp;quot;] = &amp;quot;&amp;lt;OpenAI_APIキー&amp;gt;&amp;quot;(3)</description>
+    </item>
   </channel>
 </rss>
