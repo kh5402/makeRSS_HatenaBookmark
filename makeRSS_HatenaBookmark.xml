@@ -6742,5 +6742,29 @@
       <pubDate>2023/11/06 09:28</pubDate>
       <description>NTTは自動運転事業に参入する。米スタートアップに出資し、国内向けに無人バスやタクシーの自動運転サービスを開発する。まずトヨタ自動車の車両を活用する。運転手不足が深刻になる中で輸送網の維持に向け、自動運転を活用する動きが日本企業で広がってきた。NTTは自動運転システムを開発する米メイ・モビリティー（ミシガン州）に約100億円を出資する。同社は2017年に発足した。メイの技術はレベル4に相当し</description>
     </item>
+    <item>
+      <title>[速報]OpenAI DevDayの発表内容をまとめる！GPT VisionのAPI提供やGPT-4 turboのリリースなど | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-devday-release-note/</link>
+      <pubDate>2023/11/07 08:08</pubDate>
+      <description>日本時間11月7日午前3時に、OpenAI初の公式イベントであるOpenAI DevDayが開催されました。 現地サンフランシスコ開催だったため、現地参加はできませんでしたが、Youtubeのライブ配信をリアルタイムで見ていました。 今回の記事では、OpenAI DevDayで公開された新情報をまとめました。 real christmas eve energy rn — Sam Altman (@sama) November 6, 2023 Twitter（X）日本語訳 まるでクリスマスイブのような気分だ OpenAIの創業者であるサムアルトマンがこのように言うくらいなので、とても期待して参加しました！ ぜひ、最後までご覧ください！ なお弊社では、生成AIの開発についての1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる OpenAI DevDay</description>
+    </item>
+    <item>
+      <title>OpenAI Platform</title>
+      <link>https://platform.openai.com/docs/guides/vision</link>
+      <pubDate>2023/11/07 07:22</pubDate>
+      <description>OpenAIは開発者会議DevDayで生成AIモデル「GPT-4 Turbo」を発表した。パフォーマンス最適化でGPT-4と比較してトークンの価格を大幅に値下げした。また、トレーニングデータを2023年4月までにした。 米OpenAIは11月6日（現地時間）、初の開発者会議「OpenAI DevDay」で、主力のテキスト生成AIモデル「GPT-4」の改良版「GPT-4 Turbo」を発表した。 パフォーマンスを最適化したため、GPT-4と比較して入力トークンの価格は3分の1に、出力トークンの価格は半額にできたとしている。</description>
+    </item>
+    <item>
+      <title>Introducing GPTs</title>
+      <link>https://openai.com/blog/introducing-gpts</link>
+      <pubDate>2023/11/07 05:38</pubDate>
+      <description>今朝、サンフランシスコで開催された OpenAI Dev Day 2023 での発表内容をまとめました。 発表された６つのテーマ 今回のアナウンスメントは主に6つのテーマで発表されていました。 コンテキストの長さの拡張（Context length）より多くのコントロール（More Control）より多くの知識（Better Knowledge）新しいモダリティ（New modalities）カスタマイズ性（Customization）より実行上限（Higher rate limits）＋価格改定 GPT-4 Turboの導入 より高い能力を持ち、2023年4月までの世界の出来事に関する知識を有しています。128kのコンテキストウィンドウをサポートし、一度のプロンプトで300ページ以上のテキストに相当する情報を処理することができます。さらに、パフォーマンスが最適化されており、入力トークン</description>
+    </item>
+    <item>
+      <title>サイバーエージェント、全社的なAI人材育成に向けて「生成AI徹底理解リスキリング」をスタート</title>
+      <link>https://www.cyberagent.co.jp/news/detail/id=29485</link>
+      <pubDate>2023/11/06 19:18</pubDate>
+      <description>日本で起業したのは、デイビッド・ハさんと、ライオン・ジョーンズさん。ともにIT大手・Googleの研究開発部門などに在籍し、生成AIの研究開発で世界をリードしてきた。 そして、2人はこの夏、日本で新たな会社を立ち上げる道を選んだ。 ジョーンズさん 「AI＝人工知能の歴史の中で、今は非常にエキサイティングな時期です。新たな技術やアイデアを生み出し、AIのさらなる可能性を探っていくためには、その開発に時間をあてられる新たな会社が必要でした」 CEOのハさんは、香港生まれで、幼い時にカナダに移り住んだ。地元のトロント大学はAI分野の研究で世界的にも先進的なことで知られ、ハさんはそこで画像処理などについて学んだ。 その後、投資会社やGoogleの研究開発部門などを経て、直近では、画像生成AIの開発をリードするイギリス企業の研究責任者も務めた。</description>
+    </item>
   </channel>
 </rss>
