@@ -6862,5 +6862,23 @@
       <pubDate>2023/11/06 15:47</pubDate>
       <description>Python版の「LlamaIndex」のクイックスタートガイドをまとめました。 ・LlamaIndex v0.8.59 1. LlamaIndex「LlamaIndex」は、プライベートやドメイン固有の知識を必要とする専門知識を必要とする質問応答チャットボットを簡単に作成できるライブラリです。 2. LlamaIndexの5つのステージ「LlamaIndex」には、5つのステージがあります。 2-1. Loadingデータソース (テキストファイル、PDF、Webサイト、データベース、APIなど) からデータを読み込みます。 「Loading」の主要コンポーネントは、次のとおりです。 ・Document : データソースのコンテナ ・Node : Documentを分割したもの。チャンクとメタデータが含まれる ・Connector : データソースからDocumentおよびNodeに取り</description>
     </item>
+    <item>
+      <title>Engineering Career Ladderを作るときに気をつけたこと　其の一 - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/2023/11/07/164102</link>
+      <pubDate>2023/11/07 16:49</pubDate>
+      <description>今回の発表で強く感じたことは、やはりOpenAIの目指すChatGPTが単なるチャットアプリケーションではないということだ。 従来のオペレーティングシステム（OS）はハードウェアとアプリケーションの架け橋である。だがOpenAIはChatGPTを「言語で命令できるオペレーティングエージェント」と位置付け、人生のあらゆるタッチポイントで新たなゲートキーパーとなろうとしているように思える。 IT競争は手前の取り合い歴史を振り返れば、IT競争の常道とは、ゲートウェイを手前に築くことにあったようだ。PCの争いをOSが無意味化し、OSの争いをブラウザが、ブラウザの争いを検索エンジンがと、そしてそれをスマホとアプリが…このようにITの争いは常に手前を争うものだった。こうして一番手前を抑えた企業は、大きな利益を手に入れた。 今、OpenAIの動きは、このメタゲームに大きな変化を加えつつある。 OpenA</description>
+    </item>
+    <item>
+      <title>OpenAI、アプリに「アシスタント」を埋め込める「Assistants API」をβリリース</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/07/news077.html</link>
+      <pubDate>2023/11/07 10:24</pubDate>
+      <description>OpenAIがChatGPTをカスタムして「ボードゲームのルールを教えてくれるチャットAI」や「文章の書き方を教えてくれるチャットAI」といった自分好みのチャットAIを作成できる機能を発表しました。カスタムチャットAIは「GPTs」と呼ばれており、2023年11月中に自分で作成したGPTsを公開できる「GPT Store」も提供される予定です。 Introducing GPTs https://openai.com/blog/introducing-gpts ChatGPTには事前に情報や文脈を指示して応答内容をカスタムできる「Custom Instructions」と呼ばれる機能が存在しており、「すべての回答を箇条書きにする」「特定の年齢層に適した情報を返す」といったように用途に合わせてChatGPTをカスタムすることができます。しかし、Custom Instructionsを用いてCh</description>
+    </item>
+    <item>
+      <title>ChatGPTユーザーは毎週1億人　著作権侵害防止の「Copyright Shield」追加</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/07/news081.html</link>
+      <pubDate>2023/11/07 10:22</pubDate>
+      <description>困難だった“食べ歩き用プリン”開発　ChatGPTに解決を託した、とある乳製品メーカーの話　【プロンプト実例付き】（1/2 ページ） AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業は、そんな発表をした。一体どのようにChatGPTを活用したのか、話を聞いた AIチャット「ChatGPT」と一緒に、“食べ歩き用プリン”を開発した──乳製品メーカーの山村乳業（三重県伊勢市）は10月30日、そんな発表をした。「山村ぷりんバー」と呼ばれるこの商品は、まるで棒付きアイスのような見た目だが、中身は正真正銘のプリン。「ただ棒を刺しただけでは？」と思うかもしれないが、その開発は困難であったという。</description>
+    </item>
   </channel>
 </rss>
