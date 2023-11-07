@@ -6808,5 +6808,29 @@
       <pubDate>2023/11/07 07:46</pubDate>
       <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
     </item>
+    <item>
+      <title>困難だった“食べ歩き用プリン”開発　ChatGPTに解決を託した、とある乳製品メーカーの話　【プロンプト実例付き】</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/07/news104.html</link>
+      <pubDate>2023/11/07 12:34</pubDate>
+      <description>概要 背景・目的 関連研究 提案手法 実験 アルゴリズムの説明 順位相関の確認 定量評価 定量評価の内訳 定性評価 おわりに 参考文献 DROBEで機械学習エンジニアをしております、藤崎です。 概要 ファッションアイテムを特徴づけるための情報として、画像とテキストがある。これらは異なる情報を含んでいると考えられる。 類似のファッションアイテムを検索する場面で、画像とテキストの情報を両方活用することで、検索の精度を向上させることができると推測される。 類似のファッションアイテムを検索するタスクで、両方の情報を活用した提案手法の性能を評価し、片方の情報だけを活用するよりも、大幅に性能が改善することを確認した。 背景・目的 この記事は以下の記事の続編です。 tech.drobe.co.jp 以前の記事で、私たちはプロのスタイリストが作成した評価データセットを用いて、複数のアルゴリズムを類似商品検</description>
+    </item>
+    <item>
+      <title>「テクノ楽観主義者宣言」にみる先鋭化するテック大富豪のイキり、そしてテック業界の潮目の変化</title>
+      <link>https://wirelesswire.jp/2023/11/85568/</link>
+      <pubDate>2023/11/07 12:16</pubDate>
+      <description>やっぱ世界を変えそうな感じしかしない…。 2023年11月7日未明、OpenAIの開発者向けカンファレンス｢DevDay｣がスタート、基調講演がYouTubeで配信されました。発表内容をまとめます。 一般ユーザーに関係する内容要点をまとめると以下のようになります。 1. GPT-4が最新の知識をもつように新モデル｢GPT-4 Turbo｣が登場します。 これまでは2021年9月までの知識しかなかった（一部知識が古かった）のですが、2023年4月までの情報に基づいて回答できるように。 2. ChatGPT Plusの全追加機能が同時に使えるようにブラウジング機能・プラグイン機能・Advanced Data Analysis・画像生成をすべて併用できるようになりました。 もうそうなってました（以前はひとつのスレッド内でインターネット検索と画像生成の併用はできなかった）。インターネット検索機能で</description>
+    </item>
+    <item>
+      <title>OpenAI、「ChatGPT」の独自バージョンを構築可能に</title>
+      <link>https://japan.cnet.com/article/35211141/</link>
+      <pubDate>2023/11/07 08:22</pubDate>
+      <description>米OpenAIは11月6日（現地時間）、同社初の開発者会議「OpenAI DevDay」で、ノーコードで「ChatGPT」のカスタム版を作れる「GPTs」を発表した。 プロンプトからの指示で対話しながらオリジナルのChatGPTを構築できる。「Web検索や画像作成、データ分析などと同じくらい簡単」としている。例えば子供に算数を教えたり、スタンプをデザインしたりする専用ChatGPTを構築できる。Enterpriseユーザーであれば、社内向けチュートリアルツールなどの作成も可能だ。 ChatGPTのPlusおよびEnterpriseユーザー向けに、CanvaとZapier AIのGPTsのサンプルをロールアウト中だ。</description>
+    </item>
+    <item>
+      <title>OpenAI Platform</title>
+      <link>https://platform.openai.com/docs/assistants/overview</link>
+      <pubDate>2023/11/07 08:10</pubDate>
+      <description>というNBER論文が上がっている（2月時点のWP）。原題は「Economic Growth under Transformative AI」で、著者はPhilip Trammell（オックスフォード大）、Anton Korinek（バージニア大）。 以下はその要旨。 Industrialized countries have long seen relatively stable growth in output per capita and a stable labor share. AI may be transformative, in the sense that it may break one or both of these stylized facts. This review outlines the ways this may happen by placing sev</description>
+    </item>
   </channel>
 </rss>
