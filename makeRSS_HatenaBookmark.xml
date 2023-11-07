@@ -7009,5 +7009,17 @@
       <pubDate>2023/11/07 12:53</pubDate>
       <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
     </item>
+    <item>
+      <title>OpenAIのgpt-4-vision-previewに画像を投げてどんなことをしてくれるのか試してみた｜ねぎぽよし</title>
+      <link>https://note.com/negipoyoc/n/n5587eedced26</link>
+      <pubDate>2023/11/07 13:01</pubDate>
+      <description>概要昨日発表されたGPT-4VのAPI（画像に対して質問を投げることができるAPI）を早速利用してみたので、サクッと使ってみようと思う。 使い方当然ながら、現時点ではLangChainなどのライブラリからは利用できないし、Pythonのライブラリもなさそう（→ありました）。ここに使い方が乗っているので、そのまま使ってみる。ローカルのイメージをbase64エンコードして送る感じらしい。 やってみる今回は、インターネットで検索して出てきた画像に対して、簡単な質問をしてみよう。今後いろんな論文をサクッと実装していきたいと思うのだけど、まずは手始めに早稲田大学の講義のページを使わせてもらいます。制約条件付き最適化の問題を解かせてみようと思います。 https://www.f.waseda.jp/ksuga/2007chap17.pdfよりimport base64 import requests</description>
+    </item>
+    <item>
+      <title>OpenAI Platform</title>
+      <link>https://platform.openai.com/docs/assistants/tools</link>
+      <pubDate>2023/11/07 12:20</pubDate>
+      <description>内閣府知的財産戦略推進事務局より募集がありました「AI時代における知的財産権」に対して、NAFCAが提出したパブリックコメントを公開します。 第１　I．生成ＡＩと知財をめぐる懸念・リスクへの対応等について１　生成ＡＩと著作権の関係について、どのように考えるか(1) 生成ＡＩの学習に用いられる著作物の著作権について生成ＡＩが絵、文章、音声、映像などを生成するためには、人間が創作した著作物を学習用データとして利用する必要があります。 現在、わが国では著作権法３０条の４第２号に定める「情報解析」については、その必要と認められる限度において、いずれの方法によるかを問わず、原則として自由に利用することができることとされています。 そして、生成ＡＩ開発・学習段階における学習用データの収集・加工・入力等は、この「情報解析」に該当すると考えられ、実際に様々な著作物や実演が生成ＡＩの学習に供されています。</description>
+    </item>
   </channel>
 </rss>
