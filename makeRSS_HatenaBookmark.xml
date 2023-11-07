@@ -6958,5 +6958,23 @@
       <pubDate>2023/11/07 10:51</pubDate>
       <description>OpenAIは11月6日（現地時間）、米カリフォルニア州サンフランシスコで初の対面による開発者会議「OpenAI DevDay」を開催。冒頭のサム・アルトマンCEOによる基調講演では多くのプロダクトが発表された。その内容をダイジェストでお伝えしよう。 目玉は「GPT-4」に続く最新の大規模言語モデル「GPT-4 Turbo」。 同モデルは従来のものよりあらゆる面で高性能なのはもちろん、2023年4月までの世界情勢を把握しているため最新の情報に関する質問にも回答可能になっている。 また、従来の16倍となる128Kの入力ウィンドウを持つため、1つのプロンプトに300ページ以上のテキストを入力することができる。 さらに、複数の関数を呼び出す機能の向上、回答をJSONフォーマットで出力する「JSON mode」、「シード値」の導入による回答の再現性の向上など、様々な改善がなされている。 GPT-4</description>
     </item>
+    <item>
+      <title>OpenAI「GPT-4 Turbo」発表　長文処理や画像認識、初の開発者会議で - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN068GK0W3A101C2000000/</link>
+      <pubDate>2023/11/07 09:29</pubDate>
+      <description>内閣府知的財産戦略推進事務局より募集がありました「AI時代における知的財産権」に対して、NAFCAが提出したパブリックコメントを公開します。 第１　I．生成ＡＩと知財をめぐる懸念・リスクへの対応等について１　生成ＡＩと著作権の関係について、どのように考えるか(1) 生成ＡＩの学習に用いられる著作物の著作権について生成ＡＩが絵、文章、音声、映像などを生成するためには、人間が創作した著作物を学習用データとして利用する必要があります。 現在、わが国では著作権法３０条の４第２号に定める「情報解析」については、その必要と認められる限度において、いずれの方法によるかを問わず、原則として自由に利用することができることとされています。 そして、生成ＡＩ開発・学習段階における学習用データの収集・加工・入力等は、この「情報解析」に該当すると考えられ、実際に様々な著作物や実演が生成ＡＩの学習に供されています。</description>
+    </item>
+    <item>
+      <title>rinna、日本語LLM「Youri 7B」シリーズを公開。Llama 2を日本語データで継続事前学習　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1544652.html</link>
+      <pubDate>2023/11/07 13:31</pubDate>
+      <description>チャットAI・ChatGPTなどで知られるAI開発企業のOpenAIが開催したカンファレンス「OpenAI DevDay」の中で、「著作権シールド」についての発表が行われました。 New models and developer products announced at DevDay https://openai.com/blog/new-models-and-developer-products-announced-at-devday OpenAI offers to pay for ChatGPT customers’ copyright lawsuits | Artificial intelligence (AI) | The Guardian https://www.theguardian.com/technology/2023/nov/06/openai-chatgpt-cus</description>
+    </item>
+    <item>
+      <title>ゲームセンターあ◯らし</title>
+      <link>https://togetter.com/li/2254497</link>
+      <pubDate>2023/11/06 23:33</pubDate>
+      <description>OpenAIは開発者会議DevDayで、アプリにAIアシスタントを搭載できるようにする「Assistants API」を発表し、β版の提供を開始した。</description>
+    </item>
   </channel>
 </rss>
