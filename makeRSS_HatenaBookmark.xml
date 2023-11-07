@@ -6766,5 +6766,41 @@
       <pubDate>2023/11/06 19:18</pubDate>
       <description>日本で起業したのは、デイビッド・ハさんと、ライオン・ジョーンズさん。ともにIT大手・Googleの研究開発部門などに在籍し、生成AIの研究開発で世界をリードしてきた。 そして、2人はこの夏、日本で新たな会社を立ち上げる道を選んだ。 ジョーンズさん 「AI＝人工知能の歴史の中で、今は非常にエキサイティングな時期です。新たな技術やアイデアを生み出し、AIのさらなる可能性を探っていくためには、その開発に時間をあてられる新たな会社が必要でした」 CEOのハさんは、香港生まれで、幼い時にカナダに移り住んだ。地元のトロント大学はAI分野の研究で世界的にも先進的なことで知られ、ハさんはそこで画像処理などについて学んだ。 その後、投資会社やGoogleの研究開発部門などを経て、直近では、画像生成AIの開発をリードするイギリス企業の研究責任者も務めた。</description>
     </item>
+    <item>
+      <title>（続）ファッションにおける類似商品検索アルゴリズムの性能評価 - DROBEプロダクト開発ブログ</title>
+      <link>https://tech.drobe.co.jp/entry/2023/11/07/120556</link>
+      <pubDate>2023/11/07 12:12</pubDate>
+      <description>「テクノ楽観主義者宣言」にみる先鋭化するテック大富豪のイキり、そしてテック業界の潮目の変化 2023.11.07 Updated by yomoyomo on November 7, 2023, 12:00 pm JST 前々回「先鋭化する大富豪の白人男性たち、警告する女性たち」、前回「テクノ楽観主義者からラッダイトまで」を書いた者として、今回はマーク・アンドリーセンの「テクノ楽観主義者宣言（The Techno-Optimist Manifesto）」（解説付き日本語訳）を取り上げるのが必然と思われます。まさに大富豪の白人男性の先鋭化とテクノ楽観主義者の現在を見るうえで必読と言える内容になっています。 しかし、この渾身のマニフェストに対する風当たりは強い、という印象があります。それについては後で取り上げますが、いろいろな意味で潮目の変化を感じずにはいられません。 著者のマーク・アンドリー</description>
+    </item>
+    <item>
+      <title>今日発表された｢ChatGPTのアップデート内容｣まとめ</title>
+      <link>https://www.gizmodo.jp/2023/11/openai-devday-keynote.html</link>
+      <pubDate>2023/11/07 09:12</pubDate>
+      <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
+    </item>
+    <item>
+      <title>転換的なAIの下での経済成長 - himaginary’s diary</title>
+      <link>https://himaginary.hatenablog.com/entry/20231106/Economic_Growth_under_Transformative_AI</link>
+      <pubDate>2023/11/07 07:32</pubDate>
+      <description>[速報]OpenAI DevDayの発表内容をまとめる！GPT VisionのAPI提供やGPT-4 turboのリリースなど OpenAIの開発者向けカンファレンスであるDevDayの内容をまとめた速報記事です。GPT-4 Turboの提供開始やGPT VisionのAPI提供の開始など盛りだくさんのイベントとなりました。 速報記事のため、内容に誤りがある可能性があります。公式情報もあわせてご覧ください。 2023年11月6日にOpenAIが初めての開発者向けのイベントであるOpenAI DevDayを開催しました。Youtubeにてオンライン中継が行われたため内容をまとめていきます。 この記事は速報記事であり、英語での発表を日本語で記載するため、内容に誤りがある可能性があります。今後、誤りが見つかった場合は適宜更新していくためご容赦ください。 既にOpenAIの公式でもリリース情報が記</description>
+    </item>
+    <item>
+      <title>OpenAI DevDay日本最速レポ！GPT-4 Turbo、GPTs、Assistant APIとは？ChatGPT最新情報徹底解説 | WEEL</title>
+      <link>https://weel.co.jp/media/openai-devday</link>
+      <pubDate>2023/11/07 07:35</pubDate>
+      <description>Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI&amp;#39;s developer platform.</description>
+    </item>
+    <item>
+      <title>OpenAI DevDay, Opening Keynote</title>
+      <link>https://www.youtube.com/watch?v=U9mJuUkhUzk</link>
+      <pubDate>2023/11/07 02:35</pubDate>
+      <description>OpenAIは開発者会議DevDayで生成AIモデル「GPT-4 Turbo」を発表した。パフォーマンス最適化でGPT-4と比較してトークンの価格を大幅に値下げした。また、トレーニングデータを2023年4月までにした。 米OpenAIは11月6日（現地時間）、初の開発者会議「OpenAI DevDay」で、主力のテキスト生成AIモデル「GPT-4」の改良版「GPT-4 Turbo」を発表した。 パフォーマンスを最適化したため、GPT-4と比較して入力トークンの価格は3分の1に、出力トークンの価格は半額にできたとしている。</description>
+    </item>
+    <item>
+      <title>英語のできんやつが、生成AIで英語の小説を読めるのか？ - 関内関外日記</title>
+      <link>https://goldhead.hatenablog.com/entry/2023/11/07/004915</link>
+      <pubDate>2023/11/07 01:47</pubDate>
+      <description>GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more. Today, we shared dozens of new additions and improvements, and reduced pricing across many parts of our platform. These include: New GPT-4 Turbo model that is more capable, cheaper and supports a 128K context windowNew Assistants API that makes it easier for developers to build</description>
+    </item>
   </channel>
 </rss>
