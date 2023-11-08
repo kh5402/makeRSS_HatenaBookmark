@@ -7294,5 +7294,26 @@
       <pubDate>2023/11/08 12:50</pubDate>
       <description>はじめにMetaのFundamental AI Research (FAIR)という研究グループの音声翻訳チームでresearch scientistをしています．今回，京都大学で学士・修士・博士を取得した後，Metaでポジションを獲得した経緯について書きます．日本の大学に在籍しており，私と同じようなキャリアを目指している方や，これから目指そうとされている方の参考に少しでもなれば幸いです．本記事では，どのようにインタビュー対策すれば良いかではなく，どうすれば日本の大学からアメリカのbig techのポジションのインタビューのチャンスに辿り着けるのかに焦点を当てたいと思います． 研究が好きで博士課程に進学したものの，進学当時はいつかアメリカで就職できたらいいな，博士課程の間にアメリカでインターンシップを経験できたら嬉しいな，くらいの感覚でした．どうしてアメリカで働きたいと思ったかというと，議</description>
     </item>
+    <item>
+      <title>［速報］GitHub、組織のコードやドキュメントを学習しカスタマイズやファインチューニングが可能な「Copilot Enterprise」発表。GitHub Universe 2023</title>
+      <link>https://www.publickey1.jp/blog/23/githubcopilot_enterprisegithub_universe_2023.html</link>
+      <pubDate>2023/11/09 05:42</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/905ae4111f4ad40f77aef4cafd2c9a6e090d8c24/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F359%2Fopenai.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>生成AIの学習に政府保有データを提供へ、国会図書館の蔵書や国の研究データも対象</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/news/18/16244/</link>
+      <pubDate>2023/11/08 15:18</pubDate>
+      <description>GPT-4 Turboでいちばん嬉しいのは、300ページ相当の長文をまるっと読み込めること2023.11.08 17:00 Maxwell Zeff・Gizmodo US ［原文］ （ mayumine ） これは嬉しい進化です。 OpenAIの開発者向けカンファレンス｢DevDay｣で、サム・アルトマンCEOよりGPT-4 Turboの公開が発表されました（こちらの記事もどうぞ）。 いちばん大きなアップデートは、今回で扱えるトークン数が128Kになって、従来の16倍となる300ページを超える長い文書を1つのプロンプトに入れられるように。本をまるごと一冊読み込ませられるようになったということです。長い文章を要約させたり、気になる箇所を教えてもらったりできるようになったことで、活用の幅はさらに大きく広がると思います。 さらにGPT-4 Turboでは、JSONモードが実装され、JSONで細か</description>
+    </item>
+    <item>
+      <title>OpenAI Dev Day発表内容メモ</title>
+      <link>https://zenn.dev/karaage0703/articles/5ca552f0bd4bf4</link>
+      <pubDate>2023/11/07 09:06</pubDate>
+      <description>OpenAI DevDayで発表されたJSON形式で返すことが保証される「JSONモード」を、AWS Lambdaを利用して試してみた はじめに OpenAI DevDayで発表されたJSONモードをAWS Lambdaを利用して試してみました。 OpenAIの開発者向けカンファレンスのDevDayで様々なアップデートがありました。 弊社ブログでも発表内容がまとめられています。 アップデートのうち、JSON形式でレスポンスを返すことが保証されたJSONモードがサポートされましたので、今回は、新機能をAWS Lambdaを利用して試してみます。 JSONモードに関するドキュメントは、以下のみでコードの例がなかったため、コードも含めて紹介します。 利用するにあたり注意点 モデルのうちgpt-4-1106-previewとgpt-3.5-turbo-1106のみでJSONモードが利用可能です。</description>
+    </item>
   </channel>
 </rss>
