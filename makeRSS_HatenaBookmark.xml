@@ -7111,5 +7111,17 @@
       <pubDate>2023/11/06 04:38</pubDate>
       <description>11月7日 、OpenAI DevDay が開催。 全ての内容が革命的という衝撃の発表となりました。 発表された内容は、大きくまとめると、主に3つです。 1. GPT API が大幅に改善、新しいAPIも 2. GPTs 発表： 自然言語で作れるAIボット 3. Assistants API 発表: 開発者のための、AIアシスタントAPI 全て、インパクトが非常に大きいです。 それぞれ、詳しく解説していきます。 GPT API を全般的に大幅に改善、新しいAPIもまず、API に多くの改善が加えられます。 完全に新しいAPIも発表されました。 主に6つあるため、それぞれ、詳しく説明します。 1.コンテキスト長が、128kトークンに拡大なんと、受付可能なコンテキスト長が、一挙に12万8千まで拡大しました。 これは、300ページ以上のテキストに相当する情報です。 また、コンテキスト長が大幅に拡</description>
     </item>
+    <item>
+      <title>GPT-4 Turboが登場、GPT-4との違いとは - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/11/08/120000</link>
+      <pubDate>2023/11/08 13:01</pubDate>
+      <description>インターネット上には膨大なデータが存在しており、それらを学習させることで作られたAIが続々と登場するようになりました。AIの普及が爆発的に進む一方、研究者からはAIシステムを動かす燃料である学習データが枯渇する可能性があると懸念する声が上がっています。 Researchers warn we could run out of data to train AI by 2026. What then? https://theconversation.com/researchers-warn-we-could-run-out-of-data-to-train-ai-by-2026-what-then-216741 正確で強力なAIの学習には、膨大なデータが必要です。オーストラリア・マッコーリー大学法学部の上級講師で、クリエイティブ産業のテクノロジーの法的規制に詳しいリタ・マトゥリオニテ氏によると</description>
+    </item>
+    <item>
+      <title>OpenAIのCEO、「GPT-5」の開発には「困難な課題」--ハードウェアの可能性にも言及</title>
+      <link>https://japan.cnet.com/article/35211209/</link>
+      <pubDate>2023/11/08 11:33</pubDate>
+      <description>米Metaやカナダのマギル大学などに所属する研究者らは、環境と直接対話せずに大規模言語モデル（LLM）からのフィードバックを用いてAIエージェントを強化学習で訓練する手法を提案した研究報告を発表した。</description>
+    </item>
   </channel>
 </rss>
