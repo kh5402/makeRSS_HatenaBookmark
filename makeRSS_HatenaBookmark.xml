@@ -7123,5 +7123,29 @@
       <pubDate>2023/11/08 11:33</pubDate>
       <description>米Metaやカナダのマギル大学などに所属する研究者らは、環境と直接対話せずに大規模言語モデル（LLM）からのフィードバックを用いてAIエージェントを強化学習で訓練する手法を提案した研究報告を発表した。</description>
     </item>
+    <item>
+      <title>【やじうまPC Watch】 「ドリトスを食べた時の音」をAIでリアルタイム除去できる配信者向けソフトが登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/1545270.html</link>
+      <pubDate>2023/11/08 13:12</pubDate>
+      <description>なぜ和風ファンタジー作品にヒット作が少ないのか――　そんな疑問がネット上で議論になり、11月7日ごろ、X（旧Twitter）で「和風ファンタジー」がトレンド入りしました。 ことの発端は、「もっと和風ファンタジーを書こうよ」という趣旨の投稿だったと見られていますが、そこから伝言ゲームのように話が広まって「なぜ和風ファンタジーのヒット作品は少ないのか」という形で言及されるように。 元の投稿からは論点がズレながらも「どうして西洋ファンタジーなどと比べて、和風ファンタジーは存在感が薄いのか」という疑問に、小説家、マンガ家などのクリエイターを含むさまざまな人たちが自分なりの考えを投稿しはじめました。 ひとつには、和風ファンタジー作品は作りにくい、という意見があり、「日本人は当然ながら日本に詳しく、歴史的に不正確だと違和感を覚えることがあり、思いきったストーリーが作りにくいのでは」「西洋ファンタジーと</description>
+    </item>
+    <item>
+      <title>Come build with us: Microsoft and OpenAI partnership unveils new AI opportunities | The Microsoft Cloud Blog</title>
+      <link>https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/11/07/come-build-with-us-microsoft-and-openai-partnership-unveils-new-ai-opportunities/</link>
+      <pubDate>2023/11/08 09:44</pubDate>
+      <description>日本時間11月7日午前3時にOpenAI DevDayが開催され、ChatGPTの新機能「GPTs」が新たにリリースされました。 この機能を活用すれば、ChatGPT上で手軽にGPT搭載ツールを作れるようになります。 しかも、自然言語のみでツールを作成できるので、プログラミングに関する難しい知識は一切必要ありません！ 今回の記事では、GPTsの機能や使い方、活用事例をご紹介します。 最後まで目を通していただくと、GPTsを使ったAI開発の手法を理解できるので、今後はシステム開発を外注する必要がなくなるかもしれません。 ぜひ、最後までご覧ください！ なお、OpenAI DevDayで公開されたGPTs以外の最新ツールを知りたい方はこちらの記事をご覧ください。 →OpenAI DevDay日本最速レポ！GPT-4 Turbo、GPTs、Assistant APIとは？ChatGPT最新情報徹底</description>
+    </item>
+    <item>
+      <title>OpenAI DevDayで発表された様々な機能について、公式ドキュメントを見ながら少しだけ詳細を確認してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-update-at-devday/</link>
+      <pubDate>2023/11/07 15:40</pubDate>
+      <description>生成AIの普及に伴う偽情報のまん延など、デジタル空間の情報流通の新しい課題について具体的な対策を話し合う総務省の検討会が開かれました。 この検討会は法律や情報セキュリティー、心理学などの有識者およそ20人で構成され、7日、初会合がオンラインで開かれました。 座長を務める憲法が専門の東京大学大学院の宍戸常寿教授が「現在のデジタル空間では多様な情報が流れ、情報流通の全体像が刻々と変わっていく中で全体像を的確に把握し具体的な対策について活発な議論をしていきたい」とあいさつしました。 その後、委員からは ▽生成AIなどによる偽情報や誤情報がまん延していることについて判別・検証できる技術の開発や、 ▽サイバー攻撃への対応など安全保障も含めた対策の構築、 ▽幅広い年代への情報リテラシー教育、 さらに ▽SNSなどのプラットフォーム事業者に透明性の確保を求めることが必要だ、などといった意見が出されていま</description>
+    </item>
+    <item>
+      <title>ChatGPT登場から1年使い続けて「確かに仕事が捗った」4つの活用術 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2311-work-with-chatgpt/</link>
+      <pubDate>2023/11/07 22:57</pubDate>
+      <description>OpenAI DevDayで発表されたJSON形式で返すことが保証される「JSONモード」を、AWS Lambdaを利用して試してみた はじめに OpenAI DevDayで発表されたJSONモードをAWS Lambdaを利用して試してみました。 OpenAIの開発者向けカンファレンスのDevDayで様々なアップデートがありました。 弊社ブログでも発表内容がまとめられています。 アップデートのうち、JSON形式でレスポンスを返すことが保証されたJSONモードがサポートされましたので、今回は、新機能をAWS Lambdaを利用して試してみます。 JSONモードに関するドキュメントは、以下のみでコードの例がなかったため、コードも含めて紹介します。 利用するにあたり注意点 モデルのうちgpt-4-1106-previewとgpt-3.5-turbo-1106のみでJSONモードが利用可能です。</description>
+    </item>
   </channel>
 </rss>
