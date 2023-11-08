@@ -7033,5 +7033,17 @@
       <pubDate>2023/11/06 18:11</pubDate>
       <description>OpenAIは開発者会議DevDayで、アプリにAIアシスタントを搭載できるようにする「Assistants API」を発表し、β版の提供を開始した。</description>
     </item>
+    <item>
+      <title>大規模言語モデルが「幻覚」を引き起こすリスクを客観的に検証できるオープンソースの評価モデルをVectaraがリリース</title>
+      <link>https://gigazine.net/news/20231107-vectara-measuring-hallucination/</link>
+      <pubDate>2023/11/07 19:59</pubDate>
+      <description>米主要テクノロジー企業で生成AI（人工知能）を巡る競争が本格化してきた。火付け役となった米新興オープンAIは6日、従来の16倍の長さの文書に対応する機能や価格を引き下げる戦略を打ち出した。同社が「Chat（チャット）GPT」を公開してから1年で生成AIの関連市場は7兆円近くに拡大した。各社は次世代の覇権をかけて技術力や安全性を競う。オープンAI　企業価値13兆円「オープンAIは今や世界で最も</description>
+    </item>
+    <item>
+      <title>ストーリーとキャラクター作成のためのAIを活用したゲーム開発ツールを作成するためにMicrosoftのXboxとInworld AIが提携</title>
+      <link>https://gigazine.net/news/20231107-microsoft-inworld-ai-partnership/</link>
+      <pubDate>2023/11/07 17:17</pubDate>
+      <description>AI開発企業のOpenAIが、2023年11月6日に行われた年次開発者向けイベント「DevDay」で、大規模言語モデル「GPT-4」のアップグレード版である「GPT-4 Turbo」を発表しました。 New models and developer products announced at DevDay https://openai.com/blog/new-models-and-developer-products-announced-at-devday OpenAI introduces GPT-4 Turbo: Larger memory, lower cost, new knowledge | Ars Technica https://arstechnica.com/information-technology/2023/11/openai-introduces-gpt-4-tu</description>
+    </item>
   </channel>
 </rss>
