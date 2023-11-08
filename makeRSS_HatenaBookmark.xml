@@ -7147,5 +7147,11 @@
       <pubDate>2023/11/07 22:57</pubDate>
       <description>OpenAI DevDayで発表されたJSON形式で返すことが保証される「JSONモード」を、AWS Lambdaを利用して試してみた はじめに OpenAI DevDayで発表されたJSONモードをAWS Lambdaを利用して試してみました。 OpenAIの開発者向けカンファレンスのDevDayで様々なアップデートがありました。 弊社ブログでも発表内容がまとめられています。 アップデートのうち、JSON形式でレスポンスを返すことが保証されたJSONモードがサポートされましたので、今回は、新機能をAWS Lambdaを利用して試してみます。 JSONモードに関するドキュメントは、以下のみでコードの例がなかったため、コードも含めて紹介します。 利用するにあたり注意点 モデルのうちgpt-4-1106-previewとgpt-3.5-turbo-1106のみでJSONモードが利用可能です。</description>
     </item>
+    <item>
+      <title>AIが「言語生成AIとの対話」で賢くなり続ける自動成長モデル　米Meta含む研究者らが開発</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/08/news046.html</link>
+      <pubDate>2023/11/08 08:42</pubDate>
+      <description>At OpenAI’s first DevDay Conference on November 6, 2023, Microsoft Chairman and CEO Satya Nadella made a surprise appearance during OpenAI CEO Sam Altman’s keynote to deliver a powerful message: “Our job number one is to build the best systems, so you can build the best models and deliver those to developers.” This was a testament to the deep partnership between Microsoft and OpenAI. We’re excited</description>
+    </item>
   </channel>
 </rss>
