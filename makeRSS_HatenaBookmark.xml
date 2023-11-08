@@ -7045,5 +7045,32 @@
       <pubDate>2023/11/07 17:17</pubDate>
       <description>AI開発企業のOpenAIが、2023年11月6日に行われた年次開発者向けイベント「DevDay」で、大規模言語モデル「GPT-4」のアップグレード版である「GPT-4 Turbo」を発表しました。 New models and developer products announced at DevDay https://openai.com/blog/new-models-and-developer-products-announced-at-devday OpenAI introduces GPT-4 Turbo: Larger memory, lower cost, new knowledge | Ars Technica https://arstechnica.com/information-technology/2023/11/openai-introduces-gpt-4-tu</description>
     </item>
+    <item>
+      <title>ChatGPTの効果的なプロンプト手法における「基本のキ」 | AIDB</title>
+      <link>https://aiboom.net/archives/58361</link>
+      <pubDate>2023/11/08 07:23</pubDate>
+      <description>生成AIの普及に伴う偽情報のまん延など、デジタル空間の情報流通の新しい課題について具体的な対策を話し合う総務省の検討会が開かれました。 この検討会は法律や情報セキュリティー、心理学などの有識者およそ20人で構成され、7日、初会合がオンラインで開かれました。 座長を務める憲法が専門の東京大学大学院の宍戸常寿教授が「現在のデジタル空間では多様な情報が流れ、情報流通の全体像が刻々と変わっていく中で全体像を的確に把握し具体的な対策について活発な議論をしていきたい」とあいさつしました。 その後、委員からは ▽生成AIなどによる偽情報や誤情報がまん延していることについて判別・検証できる技術の開発や、 ▽サイバー攻撃への対応など安全保障も含めた対策の構築、 ▽幅広い年代への情報リテラシー教育、 さらに ▽SNSなどのプラットフォーム事業者に透明性の確保を求めることが必要だ、などといった意見が出されていま</description>
+    </item>
+    <item>
+      <title>MediaTek、AI性能大幅強化の最上位SoC「Dimensity 9300」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1544926.html</link>
+      <pubDate>2023/11/07 14:44</pubDate>
+      <description>AIが入力された内容に対して、いかにもそれっぽいように見えるいい加減な内容を出力してしまう現象を「幻覚」と呼びます。AI企業のVectaraが、オープンソースの幻覚評価モデル(HEM)を発表しました。 Measuring Hallucinations in RAG Systems - Vectara https://vectara.com/measuring-hallucinations-in-rag-systems/ 大規模言語モデルは質問に対して的確に答えることもあれば、時として学習データに含まれたいい加減な情報を出力することがあります。大規模言語モデルはあくまでも統計的に言葉を出力しているだけで、出力している内容の意味を理解しているわけではないので、何を言っているのかさっぱり分からないような回答を返してしまう可能性があり、「ユーザーの質問内容に対して、完全にありもしない内容をでっち上</description>
+    </item>
+    <item>
+      <title>OpenAIがGPT-4のアップグレード版大規模言語モデル「GPT-4 Turbo」を発表、2023年4月までの知識を持ちコンテキストウィンドウは128Kで価格は控えめ</title>
+      <link>https://gigazine.net/news/20231107-openai-gpt-4-turbo/</link>
+      <pubDate>2023/11/07 15:41</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f91610fda4d001fec3080343886244c7f06a586f/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1544%2F868%2Fgpts1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>デザイナー必見！AIで作業が「10倍」速くなる！Figmaプラグインまとめ</title>
+      <link>https://photoshopvip.net/153089</link>
+      <pubDate>2023/11/02 17:20</pubDate>
+      <description>2023年11月5日 10時0分 by ライブドアニュース編集部 ざっくり言うと 「1000円弱」を「1000円より少し多い」とする誤用があるとXで話題になった J-CASTニュースによると、若年層で誤用の割合が高くなっているという 専門家はAIやネットの発達により言語を予測する力が弱まるとの見解を示した 「1000円弱」は1000円以上か未満か――。「1000円弱」という言葉を「1000円より少し多い」の意味で使っている人が多くいるとして、衝撃を受けたというツイッター（現・X）の投稿が2023年9月上旬、話題となった。 なぜ「弱」を誤った意味で使用してしまう人がいるのか。J-CASTニュースが読者アンケートを取ると、「1000円弱」の意味を「1000円以上」と答えたのは全体で17％いた。年代別で見ると10〜20代は20％を超えていた。 若年層で「誤用」の割合が高くなった要因について、「例</description>
+    </item>
   </channel>
 </rss>
