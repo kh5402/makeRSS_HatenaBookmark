@@ -7153,5 +7153,38 @@
       <pubDate>2023/11/08 08:42</pubDate>
       <description>At OpenAI’s first DevDay Conference on November 6, 2023, Microsoft Chairman and CEO Satya Nadella made a surprise appearance during OpenAI CEO Sam Altman’s keynote to deliver a powerful message: “Our job number one is to build the best systems, so you can build the best models and deliver those to developers.” This was a testament to the deep partnership between Microsoft and OpenAI. We’re excited</description>
     </item>
+    <item>
+      <title>Yahoo!知恵袋に「AI回答機能」　GPT-4活用で実装へ　AIによる「良質な質問」も</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/08/news140.html</link>
+      <pubDate>2023/11/08 15:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d3a28055208791fa47c85925338fe514239b4759/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1545%2F270%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「なぜ和風ファンタジーのヒット作品は少ないのか」SNS上で議論が勃発　「日本では作りにくいから」「西洋と違って定番の形式がない」説も</title>
+      <link>https://nlab.itmedia.co.jp/nl/articles/2311/08/news113.html</link>
+      <pubDate>2023/11/08 13:13</pubDate>
+      <description>こんにちは、最近ハンドブレンダーを購入し自家製バジルでジェノベーゼを作るようになった菅野です。 2023/11/6にOpenAIDevDayが開催され、ChatGPT関連の様々なアナウンスがありました。 openai.com その中でもChatGPTの新しいモデル、GPT-4 Turboについての情報をまとめていきます。 モデルについての詳細解説は以下の公式サイトをご覧ください。 platform.openai.com GPT-4 Turboのモデルは現在プレビュー版でgpt-4-1106-previewというモデルが試しに使える状態です。 数週間後に安定板のリリースがなされる予定だそうです。 コンテキスト長の増加（8,192 → 128,000トークン） ChatGPTのモデルが一度に考慮できるテキスト量を示すコンテキスト長が12万8千トークンに増加しました。 従来のモデルのコンテキスト</description>
+    </item>
+    <item>
+      <title>2026年までにAIのトレーニングに使うデータが枯渇する「データ不足問題」とは？</title>
+      <link>https://gigazine.net/news/20231108-run-out-data-train-ai/</link>
+      <pubDate>2023/11/08 12:16</pubDate>
+      <description>OpenAIの大規模言語モデル（LLM）プログラムの次期バージョン、通称「GPT-5」は、非常に困難な科学的課題に直面しているため、リリース時期について明確なスケジュールを設定するのは難しいという。同社の最高経営責任者（CEO）Sam Altman氏が米国時間11月6日に明らかにした。 サンフランシスコで開催された同社初の開発者会議「OpenAI DevDay」後の記者会見で、同氏は「GPT-5と呼ぶモデルを開発する前に、われわれが解決しなければならないことはまだたくさんある」と述べた。 この発言は、同技術の今後の方向性について出された多くの質問に対し、同氏と最高技術責任者（CTO）のMira Murati氏が回答する中で出たものだ。やり取りの中には、OpenAIが独自の消費者向けハードウェアデバイスを開発する可能性に関する話題もあった。 Altman氏はGPT-5までの道のりについて、「</description>
+    </item>
+    <item>
+      <title>`large-v3` release · openai/whisper · Discussion #1762</title>
+      <link>https://github.com/openai/whisper/discussions/1762</link>
+      <pubDate>2023/11/08 10:17</pubDate>
+      <description>【読売新聞】　政府がＡＩ（人工知能）関連の国内事業者向けに策定を進めるガイドライン（指針）の原案が判明した。全ての事業者が共通して考慮すべき指針として「公平性」「透明性」などの１０原則を掲げたのが特徴で、有識者会議「ＡＩ戦略会議」で</description>
+    </item>
+    <item>
+      <title>LLMでガチ勝負するには、1000億円じゃなくて、1兆円必要になっている。。 - Vengineerの戯言</title>
+      <link>https://vengineer.hatenablog.com/entry/2023/11/07/080000</link>
+      <pubDate>2023/11/07 12:11</pubDate>
+      <description>AIが入力された内容に対して、いかにもそれっぽいように見えるいい加減な内容を出力してしまう現象を「幻覚」と呼びます。AI企業のVectaraが、オープンソースの幻覚評価モデル(HEM)を発表しました。 Measuring Hallucinations in RAG Systems - Vectara https://vectara.com/measuring-hallucinations-in-rag-systems/ 大規模言語モデルは質問に対して的確に答えることもあれば、時として学習データに含まれたいい加減な情報を出力することがあります。大規模言語モデルはあくまでも統計的に言葉を出力しているだけで、出力している内容の意味を理解しているわけではないので、何を言っているのかさっぱり分からないような回答を返してしまう可能性があり、「ユーザーの質問内容に対して、完全にありもしない内容をでっち上</description>
+    </item>
   </channel>
 </rss>
