@@ -7246,5 +7246,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d3a28055208791fa47c85925338fe514239b4759/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1545%2F270%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>GPTのAPIとText2Speechを組み合わせてAIとの会話体験を実装してみる | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/gpt-api-and-text2speech-talk-with-gpt/</link>
+      <pubDate>2023/11/08 02:03</pubDate>
+      <description>LINEヤフーは11月7日の決算会見で、Q&amp;amp;Aサービス「Yahoo!知恵袋」に、人とAI両方が答える機能や、AIが「良質な質問を生成する」機能を11月中に実装する計画を明らかにした。OpenAIのGPT-4を活用する。 同社は10月から、「Yahoo!ニュース」Web版に掲載された記事のコメントをAIで要約して表示する機能の提供を始めている他、Yahoo!検索で、生成AIが回答を作成する機能も段階的にテストしている。 関連記事 ZHD、OpenAIのAPIを全て契約　LINEとヤフーの従業員2万人に展開 Zホールディングスは、米OpenAIが提供する全てのAPIについて利用契約を結んだ。LINEグループとヤフーに所属する従業員用に社内チャットbotの提供も始めた。 ヤフコメをAIで要約　GPT-4活用　「Yahoo!ニュース」新機能 「Yahoo!ニュース」Web版に掲載された記事で、一定</description>
+    </item>
+    <item>
+      <title>#エッセイ 50歳漫画家志望者が「絵柄古い問題」に向き合う話 - めかのマンガ #漫画 #レポ漫画 #漫画家志望 - pixiv</title>
+      <link>https://www.pixiv.net/artworks/109297704</link>
+      <pubDate>2023/11/08 14:08</pubDate>
+      <description>OpenAI Assistants API OpenAI Dev Day色々アップデートありましたね。 Visionとか、Turboとか着実にすごくて便利そうですが、ちょっとだけわかりづらそうなAssistants APIを使ってみました。 Assistants APIは、Playgroundで試してみるのが簡単でオススメです。ノーコードで機能を試せます。以下リンクから入ってください。 Assistant Playground Playgroundでコーディングのアドバイスをしてくれるアシスタントを作る さっそくアシスタントを作ってみます。比較的（？）実用的なものとしてコーディングのアドバイスをしてくれるアシスタントを作ってみます。 「+Create」ボタンでアシスタントを新規作成します。 以下のように設定します。Instructionsにプロンプトを入力して、モデルを選ぶだけです。オプシ</description>
+    </item>
+    <item>
+      <title>M1 Macと将棋AIとUSI</title>
+      <link>https://speakerdeck.com/mganeko/m1-mactojiang-qi-aitousi</link>
+      <pubDate>2023/11/07 20:46</pubDate>
+      <description>より高速に効率的にFunction callingを実行できる！！OpenAI DevDayで発表されたFunction callingの並列実行について試してみた。 こんちには。 データアナリティクス事業本部 インテグレーション部 機械学習チームの中村です。 今回は前回の記事で書ききれなかった「Function callingの並列化」にフォーカスして試してみます。 機能の概要 Function callingが更新され、1つのメッセージで複数の関数を呼び出すように動作するようになりました。（正確には複数呼び出すようにレスポンス側に指示が来ます） Function calling / Parallel function calling - OpenAI API こちらはgpt-4-1106-previewとgpt-3.5-turbo-1106で使用可能です。 また、Function ca</description>
+    </item>
   </channel>
 </rss>
