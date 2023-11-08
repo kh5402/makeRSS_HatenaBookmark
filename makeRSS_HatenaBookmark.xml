@@ -7276,5 +7276,11 @@
       <pubDate>2023/11/08 05:42</pubDate>
       <description>Context Windowとは、「最大の入出力の合計トークン数」を表します。 たとえば、Context Windowが8Kの場合は、4Kのトークン数が入力された場合、出力は4Kのトークン数の長さに制限されます。 トークン数について詳しく知りたい方は、こちらをご参照ください。 ちなみに、128KのContext Windowは、PDF約300ページ以上のテキストに相当するため、かなり感動的ですね！ これまで、プロンプトエンジニアの多くは、Context Windowの制約に悩まされていたと思います。 この技術的な問題に対応するために、RAGを使用したり、Map ReduceやMap RerankやRefineを使用したり、Fine-tuningを駆使したりしていたと思います。 それに加えて、GPT-4は、API利用料金がGPT-3.5に比べて、かなり高価格であることが問題としてありました。</description>
     </item>
+    <item>
+      <title>OpenAIの新機能 Assistants APIの動作をPlaygroundで試してみよう | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/4e7a92449ab74724778e8da65fa0006bdabbe660/</link>
+      <pubDate>2023/11/07 13:05</pubDate>
+      <description>インターネット上には膨大なデータが存在しており、それらを学習させることで作られたAIが続々と登場するようになりました。AIの普及が爆発的に進む一方、研究者からはAIシステムを動かす燃料である学習データが枯渇する可能性があると懸念する声が上がっています。 Researchers warn we could run out of data to train AI by 2026. What then? https://theconversation.com/researchers-warn-we-could-run-out-of-data-to-train-ai-by-2026-what-then-216741 正確で強力なAIの学習には、膨大なデータが必要です。オーストラリア・マッコーリー大学法学部の上級講師で、クリエイティブ産業のテクノロジーの法的規制に詳しいリタ・マトゥリオニテ氏によると</description>
+    </item>
   </channel>
 </rss>
