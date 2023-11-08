@@ -7093,5 +7093,23 @@
       <pubDate>2023/11/07 08:50</pubDate>
       <description>生成AIの利活用をめぐり政府は、事業者が新たなシステムを開発する際に安全性が保たれているか確認するため外部監査を行うなど、具体的なルールづくりの検討を進めていくことになりました。 生成AIの利活用をめぐっては、著作権侵害や犯罪への悪用などといったリスクも指摘されていることから、政府は7日の有識者会議で今後の対応策を協議しました。 そして、事業者が新たなAIのシステムを開発する際に安全性や透明性が保たれているか確認するため第三者による認証や外部監査を行うなど、具体的なルールづくりの検討を進めていくことになりました。 また、不正なAIのサービスが提供されれば財産や生命に関わるリスクが生じる可能性が高い分野として金融やエネルギー、それに運輸や医療などを例示し、こうした事業者への規制の在り方を議論することも確認しました。 さらに新たなシステムの開発に省庁などが持つデータを積極的に活用してもらおうと</description>
     </item>
+    <item>
+      <title>【GPTs】ノーコードで自分専用のChatGPTを開発できる！使い方や活用事例を紹介 | WEEL</title>
+      <link>https://weel.co.jp/media/gpts</link>
+      <pubDate>2023/11/08 09:17</pubDate>
+      <description>マイページに保存最終更新日：2023/11/08 ChatGPTなどのLLMは、自然言語を理解し、人間のように対話する能力を持っており、多くの場面でその能力を発揮しています。しかし、これらのモデルが最大限のパフォーマンスを発揮するためには、適切なプロンプト（指示テキスト）を使用することが不可欠です。 本記事では、ChatGPTをはじめとするLLMの効果的なプロンプト手法に焦点を当てた論文をもとに、「基本のキ」を紹介します。モデルに、より正確かつ効果的な回答を引き出すための原則と、現時点での主要なプロンプトエンジニアリングの知見を整理しました。 参照論文情報 ・タイトル：Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review ・著者：Banghao Chen</description>
+    </item>
+    <item>
+      <title>自分の癖にあったファインチューニング用データセットをLLMで作ろう！【Calm2】</title>
+      <link>https://zenn.dev/saldra/articles/090c120b49e38c</link>
+      <pubDate>2023/11/08 02:20</pubDate>
+      <description>コンテキスト長が長くなり、学習データも最新化、さらに価格も下がっていますので、Previewではなくなるのが待ち遠しいですね。 詳細は以下も参照ください。 Models / GPT-4 and GPT-4 Turbo - OpenAI API 試してみた 少しだけPythonで試してみようと思います。 実行前にopenaiモジュールも本日1.0.0がリリースされているようですので、事前にアップデートしてください。 openai · PyPI 簡単なクエリを試してみます。 from openai import OpenAI # APIキーの発行方法は以下を参照 # https://dev.classmethod.jp/articles/openai-api-quickstart-tutorial/ client = OpenAI( api_key = &amp;quot;ここにOpenAI APIキーを記載&amp;quot;</description>
+    </item>
+    <item>
+      <title>生成AI開発にもオープンソースの波　先導する70社 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC3185E0R31C23A0000000/</link>
+      <pubDate>2023/11/06 04:38</pubDate>
+      <description>11月7日 、OpenAI DevDay が開催。 全ての内容が革命的という衝撃の発表となりました。 発表された内容は、大きくまとめると、主に3つです。 1. GPT API が大幅に改善、新しいAPIも 2. GPTs 発表： 自然言語で作れるAIボット 3. Assistants API 発表: 開発者のための、AIアシスタントAPI 全て、インパクトが非常に大きいです。 それぞれ、詳しく解説していきます。 GPT API を全般的に大幅に改善、新しいAPIもまず、API に多くの改善が加えられます。 完全に新しいAPIも発表されました。 主に6つあるため、それぞれ、詳しく説明します。 1.コンテキスト長が、128kトークンに拡大なんと、受付可能なコンテキスト長が、一挙に12万8千まで拡大しました。 これは、300ページ以上のテキストに相当する情報です。 また、コンテキスト長が大幅に拡</description>
+    </item>
   </channel>
 </rss>
