@@ -7264,5 +7264,17 @@
       <pubDate>2023/11/07 20:46</pubDate>
       <description>より高速に効率的にFunction callingを実行できる！！OpenAI DevDayで発表されたFunction callingの並列実行について試してみた。 こんちには。 データアナリティクス事業本部 インテグレーション部 機械学習チームの中村です。 今回は前回の記事で書ききれなかった「Function callingの並列化」にフォーカスして試してみます。 機能の概要 Function callingが更新され、1つのメッセージで複数の関数を呼び出すように動作するようになりました。（正確には複数呼び出すようにレスポンス側に指示が来ます） Function calling / Parallel function calling - OpenAI API こちらはgpt-4-1106-previewとgpt-3.5-turbo-1106で使用可能です。 また、Function ca</description>
     </item>
+    <item>
+      <title>より高速に効率的にFunction callingを実行できる！！OpenAI DevDayで発表されたFunction callingの並列実行について試してみた。 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-update-at-devday-function-calling/</link>
+      <pubDate>2023/11/07 20:04</pubDate>
+      <description>OpenAIの大規模言語モデル（LLM）プログラムの次期バージョン、通称「GPT-5」は、非常に困難な科学的課題に直面しているため、リリース時期について明確なスケジュールを設定するのは難しいという。同社の最高経営責任者（CEO）Sam Altman氏が米国時間11月6日に明らかにした。 サンフランシスコで開催された同社初の開発者会議「OpenAI DevDay」後の記者会見で、同氏は「GPT-5と呼ぶモデルを開発する前に、われわれが解決しなければならないことはまだたくさんある」と述べた。 この発言は、同技術の今後の方向性について出された多くの質問に対し、同氏と最高技術責任者（CTO）のMira Murati氏が回答する中で出たものだ。やり取りの中には、OpenAIが独自の消費者向けハードウェアデバイスを開発する可能性に関する話題もあった。 Altman氏はGPT-5までの道のりについて、「</description>
+    </item>
+    <item>
+      <title>ChatGPTの新機能が2023年11月7日発表、「カスタムChatGPT」がむちゃくちゃすごくなりそうです</title>
+      <link>https://www.dm2.co.jp/blog/25435</link>
+      <pubDate>2023/11/08 05:42</pubDate>
+      <description>Context Windowとは、「最大の入出力の合計トークン数」を表します。 たとえば、Context Windowが8Kの場合は、4Kのトークン数が入力された場合、出力は4Kのトークン数の長さに制限されます。 トークン数について詳しく知りたい方は、こちらをご参照ください。 ちなみに、128KのContext Windowは、PDF約300ページ以上のテキストに相当するため、かなり感動的ですね！ これまで、プロンプトエンジニアの多くは、Context Windowの制約に悩まされていたと思います。 この技術的な問題に対応するために、RAGを使用したり、Map ReduceやMap RerankやRefineを使用したり、Fine-tuningを駆使したりしていたと思います。 それに加えて、GPT-4は、API利用料金がGPT-3.5に比べて、かなり高価格であることが問題としてありました。</description>
+    </item>
   </channel>
 </rss>
