@@ -7186,5 +7186,29 @@
       <pubDate>2023/11/07 12:11</pubDate>
       <description>AIが入力された内容に対して、いかにもそれっぽいように見えるいい加減な内容を出力してしまう現象を「幻覚」と呼びます。AI企業のVectaraが、オープンソースの幻覚評価モデル(HEM)を発表しました。 Measuring Hallucinations in RAG Systems - Vectara https://vectara.com/measuring-hallucinations-in-rag-systems/ 大規模言語モデルは質問に対して的確に答えることもあれば、時として学習データに含まれたいい加減な情報を出力することがあります。大規模言語モデルはあくまでも統計的に言葉を出力しているだけで、出力している内容の意味を理解しているわけではないので、何を言っているのかさっぱり分からないような回答を返してしまう可能性があり、「ユーザーの質問内容に対して、完全にありもしない内容をでっち上</description>
     </item>
+    <item>
+      <title>ＡＩガイドライン、「人間中心」など１０原則を年内決定方針…公的機関含め全利用者が対象</title>
+      <link>https://www.yomiuri.co.jp/politics/20231107-OYT1T50308/</link>
+      <pubDate>2023/11/08 08:14</pubDate>
+      <description>米Metaやカナダのマギル大学などに所属する研究者らは、環境と直接対話せずに大規模言語モデル（LLM）からのフィードバックを用いてAIエージェントを強化学習で訓練する手法を提案した研究報告を発表した。</description>
+    </item>
+    <item>
+      <title>OpenAI Dev Dayで発表されたこと15選【プロンプトエンジニア必見 | 和訳 | まとめ】</title>
+      <link>https://zenn.dev/umi_mori/articles/openai-dev-day-1</link>
+      <pubDate>2023/11/08 03:05</pubDate>
+      <description>マイページに保存最終更新日：2023/11/08 ChatGPTなどのLLMは、自然言語を理解し、人間のように対話する能力を持っており、多くの場面でその能力を発揮しています。しかし、これらのモデルが最大限のパフォーマンスを発揮するためには、適切なプロンプト（指示テキスト）を使用することが不可欠です。 本記事では、ChatGPTをはじめとするLLMの効果的なプロンプト手法に焦点を当てた論文をもとに、「基本のキ」を紹介します。モデルに、より正確かつ効果的な回答を引き出すための原則と、現時点での主要なプロンプトエンジニアリングの知見を整理しました。 参照論文情報 ・タイトル：Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review ・著者：Banghao Chen</description>
+    </item>
+    <item>
+      <title>OpenAI DevDayで発表されたJSON形式で返すことが保証される「JSONモード」を、AWS Lambdaを利用して試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-update-json-mode-at-devday/</link>
+      <pubDate>2023/11/07 16:47</pubDate>
+      <description>日本時間未明(午前三時)ものすごいスピードで語られたOpenAI初の開発者向けイベントDevDayで発表されたGPT-4-TurboとGPT-3.5-TurboによるJSONモード。 これはものすごく強力なんだけど、Python APIによる使い方がどこにも描いてないので試行錯誤の末見つけましたので共有いたします。 from openai import OpenAI import openai import os openai.api_key = &amp;quot;&amp;lt;APIキー&amp;gt;&amp;quot; client = OpenAI() def gpt(utterance): #response = openai.chat( response = client.chat.completions.create( #model=&amp;quot;gpt-4-1106-preview&amp;quot;, model=&amp;quot;gpt-3.5-turbo-1106&amp;quot;, r</description>
+    </item>
+    <item>
+      <title>Google Colab で OpenAI API の Retrieval を試す｜npaka</title>
+      <link>https://note.com/npaka/n/ndcacbefb2ef7</link>
+      <pubDate>2023/11/07 16:56</pubDate>
+      <description>Microsoftがゲーム向け対話AIを開発するInworld AIと提携し、ゲーム内に登場するキャラクターやストーリー、クエストを作成するためのツールを開発することを発表しました。 Xbox and Inworld AI partner to empower game creators with the potential of Generative AI https://developer.microsoft.com/en-us/games/articles/2023/11/xbox-and-inworld-ai-partnership-announcement/ Xbox partners with Inworld AI to build generative AI tools for game development https://inworld.ai/blog/xbox-par</description>
+    </item>
   </channel>
 </rss>
