@@ -7474,5 +7474,11 @@
       <pubDate>2023/11/09 16:21</pubDate>
       <description>承前。 goldhead.hatenablog.com おれは761,000文字ある英文の小説を、AIに翻訳させたいと思った。思って、やり方をChatGTP3.5に聞いて、Pythonがいいという。はて、Python、なんだかわからんが、そのインストールから始めたのが昨日の朝。 とにかく、テキストファイルにある英文をChatGPTにハードボイルド風の日本語に翻訳させたい。ただ、一度に送信できるテキストの量（トークン）は限られているので、自動的に限度内の送信を繰り返して、その返信を受取る。受取ったテキストを結合させて一つの日本語テキストファイルにする。それでおれはハムスンの『土地の恵み』を読める。これである。 で、上の記事にあるように、行き詰まったのが「AttributeError: module &amp;#39;openai&amp;#39; has no attribute &amp;#39;ChatCompletion&amp;#39;」というエ</description>
     </item>
+    <item>
+      <title>AI記事の「ただ乗り」防ぐには？　著作権で対応は限界、識者が指摘：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRC86RV4RBSUTIL03L.html</link>
+      <pubDate>2023/11/09 17:13</pubDate>
+      <description>「OpenAI API」で提供されている「モデル」をまとめました。 ・Model - OpenAI API 1. OpenAI API で提供されている モデル「OpenAI API」で提供されている「モデル」は、次のとおりです。 ・GPT-4 / GPT-4 Turbo : GPT-3.5を改善し、自然言語やコードを理解し、生成できるモデル ・GPT-3.5 : GPT-3を改善し、自然言語やコードを理解し、生成できるモデル ・DALL-E : 自然言語から画像を生成および編集できるモデル ・TTS : テキストを自然な音声音声に変換できるモデル ・Whisper : オーディオをテキストに変換できるモデル ・Embedding　: テキストをベクトル表現に変換できるモデル ・Moderation : テキストが機密または安全かどうかを検出できるモデル ・GPT base : ファインチ</description>
+    </item>
   </channel>
 </rss>
