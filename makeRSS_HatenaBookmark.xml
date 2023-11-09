@@ -7411,5 +7411,11 @@
       <pubDate>2023/11/09 11:21</pubDate>
       <description>LayerX代表取締役（CEO）の福島良典氏 ニュースサマリー：企業の支出管理サービスを展開するLayerXは11月9日、Keyrock Capital Managementを引受先にした第三者割当増資の実施を公表した。調達した資金は20億円で、払込日や株価などの詳細は非公開。ラウンドはシリーズAで、これが同ラウンドにおける最後の調達となる。 2月に実施したファーストクローズではANRI、ALL STAR SAAS FUND、GMO VenturePartners、ジャフコ、スパイラルキャピタル、Dawn Capital、三菱地所、三菱UFJキャピタル、Z Venture Capitalから55億円を調達。6月に実施したセカンドクローズではJICベンチャー・グロース・インベストメンツ、三菱UFJイノベーション・パートナーズ、DIMENSION、UB Ventures、SuMi TR</description>
     </item>
+    <item>
+      <title>生成AI入門：議事録を答えるチャットAI（RAGアプリ）を作ってみよう【プログラミング不要】</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2311/09/news017.html</link>
+      <pubDate>2023/11/09 13:53</pubDate>
+      <description>Image credit: OpenAI OpenAI の CEO Sam Altman 氏は6日、同社初の開発者会議「DevDay」で多くの新機能を発表した。 このツールは、「ChatGPT Plus」と「ChatGPT for Enterprise」の購読者向けに徐々にリリースされ、ユーザは、OpenAI の新モデル「GPT-4 Turbo」の上に、独自の GPTs、基本的には AI エージェントを作成することができる。これにより、技術に明るくないユーザや正式な開発者トレーニングを受けていないユーザであっても、数分で独自の AI エージェントやアプリケーションを構築できるようになる。 このようなサードパーティの GPT は、ユーザがアップロードした文書や資料を参照し、他のアプリにアクセスして指定したアクションを繰り返し実行することができる。例えば、カレンダー上のスケジュールのダブりを検</description>
+    </item>
   </channel>
 </rss>
