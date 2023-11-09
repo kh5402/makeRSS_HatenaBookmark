@@ -7399,5 +7399,11 @@
       <pubDate>2023/11/07 17:56</pubDate>
       <description>Googleは2021年から、1つの広告キャンペーンですべての広告枠に対して広告を出稿することができ広告効果の最大化を期待できる「Performance Max(P-MAX)」を提供しています。新たに、このP-MAXに生成AIツールが加わり、これまでバナー広告などのクリエイティブ制作を外部に頼っていた広告主でも、自分で簡単にクリエイティブを制作することができるようになりました。 Get creative with generative AI in Performance Max https://blog.google/products/ads-commerce/get-creative-with-generative-ai-in-performance-max/ Google brings generative AI to ads - The Verge https://www.theve</description>
     </item>
+    <item>
+      <title>OpenAI Vision API の使い方や料金について｜ChatGPT研究所</title>
+      <link>https://chatgpt-lab.com/n/n9322bab6f6f3</link>
+      <pubDate>2023/11/08 20:18</pubDate>
+      <description>Amazon Connectでお問い合わせ内容をWhisper APIで文字起こしし、ChatGPTで要約して音声出力してみた（一次対応の無人化） はじめに Amazon Connectを使用して、お問い合わせ内容をOpenAIのWhisper APIで文字起こしとChatGPTで要約し、通話中に音声出力する方法をまとめました。 Connectで無人対応の場合、顧客からの発話を聞き取る方法としては、チャットボットサービスであるAmazon Lexもしくは、Kinesis Video Stream(KVS)で音声のストリーミングなどがあります。 Amazon Lexを利用する場合は、１度に15秒以上は聞き取ることができない点や文字起こしにはAmazon Transcribeを利用する制約があります。 今回は、文字起こしにWhisper APIを利用し、ChatGPTで要約した内容をConne</description>
+    </item>
   </channel>
 </rss>
