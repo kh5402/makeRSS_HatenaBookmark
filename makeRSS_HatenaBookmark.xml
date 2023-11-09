@@ -7315,5 +7315,38 @@
       <pubDate>2023/11/07 09:06</pubDate>
       <description>OpenAI DevDayで発表されたJSON形式で返すことが保証される「JSONモード」を、AWS Lambdaを利用して試してみた はじめに OpenAI DevDayで発表されたJSONモードをAWS Lambdaを利用して試してみました。 OpenAIの開発者向けカンファレンスのDevDayで様々なアップデートがありました。 弊社ブログでも発表内容がまとめられています。 アップデートのうち、JSON形式でレスポンスを返すことが保証されたJSONモードがサポートされましたので、今回は、新機能をAWS Lambdaを利用して試してみます。 JSONモードに関するドキュメントは、以下のみでコードの例がなかったため、コードも含めて紹介します。 利用するにあたり注意点 モデルのうちgpt-4-1106-previewとgpt-3.5-turbo-1106のみでJSONモードが利用可能です。</description>
     </item>
+    <item>
+      <title>GitHub Copilot in the CLI now in public beta</title>
+      <link>https://github.blog/changelog/2023-11-08-github-copilot-in-the-cli-now-in-public-beta/</link>
+      <pubDate>2023/11/09 09:22</pubDate>
+      <description>GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕。1日目の基調講演で、GitHub Copilotがサードパーティの開発者向けツールやオンラインサービスなどと統合可能になることが発表されました。 例えば、Copilot Chatのチャットで、Datastax社が提供するNoSQLデータベース「Cassandra」の現在のクエリ性能に問題がないかを質問し、回答を得ることができます。 また、Cassandraの性能を改善するにはどうすればいいか、といったサードパーティ製品が備えるナレッジもCopilotに提供され、回答できるようになります。 Copilotとサードパーティ製品との統合はパートナープログラムを通して行われ、第一段としてDatastax、LaunchDarkly、Postman、Hashicorp、Datadogなどを含む25社以上が</description>
+    </item>
+    <item>
+      <title>［速報］GitHub、開発サイクルの全場面でCopilotを提供する戦略。モバイルアプリ化、GitHub.comサイト上での提供など発表、GitHub Universe 2023</title>
+      <link>https://www.publickey1.jp/blog/23/githubcopilotgithubcomgithub_universe_2023.html</link>
+      <pubDate>2023/11/09 08:54</pubDate>
+      <description>In March, we shared our vision of a new future of software development with Copilot X, where AI infuses every step of the developer lifecycle. Since then, we’ve been working to scale and mature the underlying technology–and in the process we created something even bigger. Our vision has manifested itself into a new reality for the world’s developers. Just as GitHub was founded on Git, today we are</description>
+    </item>
+    <item>
+      <title>Amazon Connectでお問い合わせ内容をWhisper APIで文字起こしし、ChatGPTで要約して音声出力してみた（一次対応の無人化） | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-connect-whisperapi-audio-output/</link>
+      <pubDate>2023/11/09 07:18</pubDate>
+      <description>Thomas Dohmke GitHub Copilot Chatの一般提供（GA）の開始と、新たなGitHub Copilot Enterpriseのサービスプレビュー、AIを活用した新しいセキュリティ機能、GitHub Copilotパートナープログラムを発表しました。 2023年3月、私たちはGitHub Copilot Xについての発表で、AIが開発者のライフサイクルのあらゆるステップに浸透することと、ソフトウェア開発の新しい未来のビジョンを共有しました。それ以来、私たちは基盤技術の拡張と成熟に取り組んでおり、その過程でさらに大きなものを生み出しました。私たちのビジョンは、世界の開発者にとっての新しい現実として現れました。 GitHubがGitという仕組みの上に構築されたように、今日私たちはCopilotの上に「再構築」されました。オープンソースとGitは、ソフトウェアの開発方法を</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 Stable Diffusion高速化技術続々登場！TensorRT、SSD-1B、LCMなどを試してみる</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1545342.html</link>
+      <pubDate>2023/11/09 06:29</pubDate>
+      <description>GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕しました。 1日目の基調講演で、Copilotが組織のコードやドキュメントを学習することで、カスタマイズやファインチューニングが可能になる「GitHub Enterprise」が発表されました。 Copilot Enterpriseは、外部に公開されていない組織内のコードやドキュメント、プルリクエストなどを追加でCopilotに学習させることで、組織内のコードベースに基づいたCop……</description>
+    </item>
+    <item>
+      <title>TBS「サンデーモーニング」がAI画像巡り誤報　生成AI製“偽画像”を紹介→実は約10年前から存在</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/08/news180.html</link>
+      <pubDate>2023/11/08 19:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/905ae4111f4ad40f77aef4cafd2c9a6e090d8c24/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F359%2Fopenai.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
