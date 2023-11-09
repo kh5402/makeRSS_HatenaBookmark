@@ -7405,5 +7405,11 @@
       <pubDate>2023/11/08 20:18</pubDate>
       <description>Amazon Connectでお問い合わせ内容をWhisper APIで文字起こしし、ChatGPTで要約して音声出力してみた（一次対応の無人化） はじめに Amazon Connectを使用して、お問い合わせ内容をOpenAIのWhisper APIで文字起こしとChatGPTで要約し、通話中に音声出力する方法をまとめました。 Connectで無人対応の場合、顧客からの発話を聞き取る方法としては、チャットボットサービスであるAmazon Lexもしくは、Kinesis Video Stream(KVS)で音声のストリーミングなどがあります。 Amazon Lexを利用する場合は、１度に15秒以上は聞き取ることができない点や文字起こしにはAmazon Transcribeを利用する制約があります。 今回は、文字起こしにWhisper APIを利用し、ChatGPTで要約した内容をConne</description>
     </item>
+    <item>
+      <title>OpenAI「GPT Builder」で何が作れるのか？ 早くも発表当日・翌日に作られた「オリジナルGPT」5例を見てみた - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報</title>
+      <link>https://thebridge.jp/2023/11/what-can-you-make-with-openais-gpt-builder-5-early-examples</link>
+      <pubDate>2023/11/09 11:21</pubDate>
+      <description>LayerX代表取締役（CEO）の福島良典氏 ニュースサマリー：企業の支出管理サービスを展開するLayerXは11月9日、Keyrock Capital Managementを引受先にした第三者割当増資の実施を公表した。調達した資金は20億円で、払込日や株価などの詳細は非公開。ラウンドはシリーズAで、これが同ラウンドにおける最後の調達となる。 2月に実施したファーストクローズではANRI、ALL STAR SAAS FUND、GMO VenturePartners、ジャフコ、スパイラルキャピタル、Dawn Capital、三菱地所、三菱UFJキャピタル、Z Venture Capitalから55億円を調達。6月に実施したセカンドクローズではJICベンチャー・グロース・インベストメンツ、三菱UFJイノベーション・パートナーズ、DIMENSION、UB Ventures、SuMi TR</description>
+    </item>
   </channel>
 </rss>
