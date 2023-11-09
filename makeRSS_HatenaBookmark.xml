@@ -7555,5 +7555,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/905ae4111f4ad40f77aef4cafd2c9a6e090d8c24/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F359%2Fopenai.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>大規模言語モデルをLoRAで低コストかつ効率的に微調整できる「Punica」が登場</title>
+      <link>https://gigazine.net/news/20231109-punica-lora-for-llm/</link>
+      <pubDate>2023/11/09 17:12</pubDate>
+      <description>米マイクロソフト（MS）傘下のソースコード共有サイト「ギットハブ」のトーマス・ドムケ最高経営責任者（CEO）が8日、朝日新聞の取材に応じた。ドムケ氏は「今後4年以内にコードの8割をAI（人工知能）が書くようになる」としたうえで、「開発者はより創造的な作業に集中できるようになる」との見方を示した。 ギットハブは、開発者が作ったソフトウェアのコードを共有できるプラットフォームを運営しており、日本でも大企業などが利用している。親会社のMSは対話型AI「ChatGPT（チャットGPT）」を開発する米オープンAIに出資しており、ギットハブは昨年からAIによるコード作成の支援機能「Copilot（コ―パイロット）」を提供している。 この機能についてドムケ氏は「100万人以上の有料利用者がいる」としたうえで、「作成されたコードの半分近くがAIによって書かれていた」と説明。「開発者にとって退屈な仕事を減ら</description>
+    </item>
+    <item>
+      <title>Microsoft、世界の選挙をディープフェイクなどの攻撃から守るためのツールを提供へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/09/news074.html</link>
+      <pubDate>2023/11/09 07:59</pubDate>
+      <description>長いので3行で・これまでのLLMに関するR&amp;amp;Dを元に、チャットではなく文書処理にフォーカスしたAI・LLM事業部をスタートします。 ・ポイントはLLMのアルゴリズムの汎用性の高さを活かしつつ、業務プロセスを観察しAIが自然に溶け込む業務アシスタントを構築すること、それによるリデザインにあると捉え、プロダクト開発を進めていきます。 ・第一弾は三井物産デジタル・アセットマネジメントと連携しに金融事業でのLLM活用による文書処理業務アシスタント開発を進めていきます。 AI・LLM事業部がスタートしますLayerXでは、「すべての経済活動を、デジタル化する」をミッションとして掲げこれまでバクラクによる人の生産性、ALTERNAによるお金の生産性、そしてPrivacyTechを通じたデータの生産性に取り組んできました。 また、この4月からはLayerX LLM Labsを設立し、LLMの業務活用につ</description>
+    </item>
   </channel>
 </rss>
