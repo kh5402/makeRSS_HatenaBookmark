@@ -7417,5 +7417,17 @@
       <pubDate>2023/11/09 13:53</pubDate>
       <description>Image credit: OpenAI OpenAI の CEO Sam Altman 氏は6日、同社初の開発者会議「DevDay」で多くの新機能を発表した。 このツールは、「ChatGPT Plus」と「ChatGPT for Enterprise」の購読者向けに徐々にリリースされ、ユーザは、OpenAI の新モデル「GPT-4 Turbo」の上に、独自の GPTs、基本的には AI エージェントを作成することができる。これにより、技術に明るくないユーザや正式な開発者トレーニングを受けていないユーザであっても、数分で独自の AI エージェントやアプリケーションを構築できるようになる。 このようなサードパーティの GPT は、ユーザがアップロードした文書や資料を参照し、他のアプリにアクセスして指定したアクションを繰り返し実行することができる。例えば、カレンダー上のスケジュールのダブりを検</description>
     </item>
+    <item>
+      <title>【誰でも簡単】GPT の作り方｜ChatGPT研究所</title>
+      <link>https://chatgpt-lab.com/n/nb7ca3c406730</link>
+      <pubDate>2023/11/09 17:09</pubDate>
+      <description>生成AI入門：議事録を答えるチャットAI（RAGアプリ）を作ってみよう【プログラミング不要】：AI・データサイエンス超入門 生成系AIの導入が急速に広がる今、その有用性や活用法が気になる方へ。一例としてプログラミング不要で、“会議の議事録を基に質問に答えてくれる「独自のチャットAI」”の作成を試みます。社会人の目線で、実践的な生成系AIの雰囲気をつかみましょう！ 連載目次 現在、企業への生成系AI*1の導入が急速に拡大しています。2023年10月23日に日本マイクロソフトが記者向けに発表した内容によれば、日本国内でAzure OpenAI Service（Microsoftが提供するクラウドAIサービス）を活用している企業は560社以上、全世界では1万1000社を突破しています。このような状況から、「うちの会社も生成系AIを導入すべきか？」「生成系AIが何の役に立つのか？」と気になっている</description>
+    </item>
+    <item>
+      <title>ロボットが人間を「箱」と誤認して圧死させる</title>
+      <link>https://gigazine.net/news/20231109-robot-kill-human/</link>
+      <pubDate>2023/11/09 11:58</pubDate>
+      <description>Image credit: OpenAI OpenAI の CEO Sam Altman 氏は6日、同社初の開発者会議「DevDay」で多くの新機能を発表した。 このツールは、「ChatGPT Plus」と「ChatGPT for Enterprise」の購読者向けに徐々にリリースされ、ユーザは、OpenAI の新モデル「GPT-4 Turbo」の上に、独自の GPTs、基本的には AI エージェントを作成することができる。これにより、技術に明るくないユーザや正式な開発者トレーニングを受けていないユーザであっても、数分で独自の AI エージェントやアプリケーションを構築できるようになる。 このようなサードパーティの GPT は、ユーザがアップロードした文書や資料を参照し、他のアプリにアクセスして指定したアクションを繰り返し実行することができる。例えば、カレンダー上のスケジュールのダブりを検</description>
+    </item>
   </channel>
 </rss>
