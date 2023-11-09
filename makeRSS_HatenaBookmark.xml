@@ -7348,5 +7348,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/905ae4111f4ad40f77aef4cafd2c9a6e090d8c24/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F359%2Fopenai.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>GitHub - github/gh-copilot: Ask for assistance right in your terminal.</title>
+      <link>https://github.com/github/gh-copilot</link>
+      <pubDate>2023/11/09 09:22</pubDate>
+      <description>November 8, 2023 Learn your way around the command line with GitHub Copilot by your side! We’re excited to announce the launch of a brand new GitHub CLI extension that’s now available as public beta — GitHub Copilot in the CLI. GitHub Copilot in the CLI brings GitHub Copilot right to your terminal, where you can ask it to do things like explain how a command works or suggest a command for a task y</description>
+    </item>
+    <item>
+      <title>［速報］GitHub Copilotが外部ツールと統合可能に。DBのクエリ性能の状況もフィーチャーフラグの状態もCopilotが答えてくれる。GitHub Universe 2023</title>
+      <link>https://www.publickey1.jp/blog/23/github_copilotdbcopilotgithub_universe_2023.html</link>
+      <pubDate>2023/11/09 08:55</pubDate>
+      <description>GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕しました。 1日目の基調講演では、AIに対して自然言語でプログラミングに関する質問ができるCopilotをモバイルアプリ化した「Copilot Chat in Mobile」が発表されました。 iOSとAndroidに対応。これによりプログラマはいつどこでも、プログラミングの質問ができるとしています。 また、Copilot ChatがJetBrainsの統合開発ツールでも利用可能に……</description>
+    </item>
+    <item>
+      <title>Universe 2023: Copilot transforms GitHub into the AI-powered developer platform</title>
+      <link>https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/</link>
+      <pubDate>2023/11/09 07:00</pubDate>
+      <description>Amazon Connectでお問い合わせ内容をWhisper APIで文字起こしし、ChatGPTで要約して音声出力してみた（一次対応の無人化） はじめに Amazon Connectを使用して、お問い合わせ内容をOpenAIのWhisper APIで文字起こしとChatGPTで要約し、通話中に音声出力する方法をまとめました。 Connectで無人対応の場合、顧客からの発話を聞き取る方法としては、チャットボットサービスであるAmazon Lexもしくは、Kinesis Video Stream(KVS)で音声のストリーミングなどがあります。 Amazon Lexを利用する場合は、１度に15秒以上は聞き取ることができない点や文字起こしにはAmazon Transcribeを利用する制約があります。 今回は、文字起こしにWhisper APIを利用し、ChatGPTで要約した内容をConne</description>
+    </item>
+    <item>
+      <title>Universe 2023: CopilotがGitHubをAIを駆使した開発者プラットフォームへと変貌させる</title>
+      <link>https://github.blog/jp/2023-11-09-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/</link>
+      <pubDate>2023/11/09 05:57</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/dc39723e20882c9cca7bda7766c40a9419ab2950/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1545%2F342%2FH00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
