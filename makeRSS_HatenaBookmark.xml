@@ -7666,5 +7666,23 @@
       <pubDate>2023/11/10 07:33</pubDate>
       <description>OpenAIのChatGPTやAPIのサービスが11月8日正午ごろ（米国時間）から断続的に停止していた。既に復旧しているが、OpenAIはDDoS攻撃を受けていたと発表した。 米OpenAIのサービス（ChatGPT、API、Labs、Playground）が11月8日正午ごろ（現地時間）から断続的に停止し、同社は同日午後7時過ぎに「DDoS攻撃を反映した異常なトラフィックパターンによる定期的な停止に対処している」とステータスページで発表した。9日の午後1時過ぎ（日本時間の10日午前6時過ぎ）にはサービスは復旧したとしている。 OpenAIでは、6日にはDALL・Eのエラー率が上昇し、8日にはAPIをダウンさせるChatGPTの大規模な障害も発生していた。 OpenAIはDDoS攻撃の詳細を明らかにしていないが、Anonymous Sudanとして知られる攻撃者がTelegramでOpen</description>
     </item>
+    <item>
+      <title>“学内ChatGPT”で学生1万人からの問い合わせに対応──武蔵野大学が生成AIで挑戦　取り組みの現在地</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/10/news095.html</link>
+      <pubDate>2023/11/10 12:45</pubDate>
+      <description>米OpenAIは、同社のテックカンファレンス「OpenAI DevDay」で発表した、ノーコードでオリジナルの「ChatGPT」が作成できるカスタムツール「GPTs」を全てのサブスクリプションユーザーに開放した。 米OpenAIは、同社のテックカンファレンス「OpenAI DevDay」で発表した、ノーコードでオリジナルの「ChatGPT」が作成できるカスタムツール「GPTs」を全てのサブスクリプションユーザーに開放した。同社のサム・アルトマンCEOが11月9日（現地時間）、X（旧Twitter）でポストした。 GPTsは、プロンプトで対話しながらオリジナルのChatGPTを構築できる機能。「Web検索や画像作成、データ分析などと同じくらい簡単」としており、例えば子供に算数を教えたり、スタンプをデザインしたり、ボードゲームのルールを簡単に説明したりできる専用ChatGPTを構築できる。En</description>
+    </item>
+    <item>
+      <title>Google Colab で OpenAI API の Text-to-Speech を試す｜npaka</title>
+      <link>https://note.com/npaka/n/nba4af88eb3cf</link>
+      <pubDate>2023/11/08 23:23</pubDate>
+      <description>風音屋（@kazaneya_PR）の横山（@yuzutas0）です。先日「東京大学の特任研究員に就任した」というリリースを掲載したところ、各所からご連絡やご質問が寄せられました。データ分析を支援する風音屋にとって、今回の取り組みがどういう意味を持つのかご紹介できればと思います。 なお、この記事ではデータ分析を担う人材を総称してデータ分析者（データアナリスト）と呼ぶことにします。会社によってはデータサイエンティストやコンサルタントと呼ぶほうが適切な場合もあるでしょう。データを集計・加工・可視化するだけなら「分析」とは呼ばないといった意見もあるでしょう。各自で好きな名前に置き換えて読んでください。 データアナリストを取り巻く脅威便利なテクノロジーが日々台頭しており「他の人より少しだけBIツールに慣れている」「他部門のメンバーよりデータ集計に慣れている」というだけのジュニアなデータアナリストでは</description>
+    </item>
+    <item>
+      <title>Processing and narrating a video with GPT&amp;#39;s visual capabilities and the TTS API | OpenAI Cookbook</title>
+      <link>https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding</link>
+      <pubDate>2023/11/08 18:23</pubDate>
+      <description>Microsoftは来年の米大統領選挙に向けて、選挙に対する脅威に対処するための複数の取り組みを発表した。C2PAのデジタル透かし認証を使う「Content Credentials as a Service」などだ。 米Microsoftは11月7日（現地時間）、2024年の世界での選挙に向けて、投票者、候補者、政治キャンペーン、選挙管理機関に対する脅威に対処するための5つの取り組みを発表した。 コンテンツの出所を確認する「Content Credentials as a Service」 「Content Credentials as a Service」は、候補者向けのツール。コンテンツの出所を確認できるC2PAのデジタル透かし認証を使う。この透かし認証は、出所を確認できるだけでなく、認証後に改ざんされると分かるようになっている。 Azureで開発したこのサービスは、来春プライベートプ</description>
+    </item>
   </channel>
 </rss>
