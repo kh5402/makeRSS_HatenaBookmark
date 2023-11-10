@@ -7738,5 +7738,23 @@
       <pubDate>2023/11/09 14:09</pubDate>
       <description>Low Rank Adapation(LoRA)はAIへの追加学習を少ない計算量で行うためのモデルです。このLoRAを使って、事前トレーニングされた大規模言語モデルに低コストかつ効率的にファインチューニング(微調整)を行えるシステム「Punica」を、ワシントン大学とデューク大学の研究チームが公開しました。 GitHub - punica-ai/punica: Serving multiple LoRA finetuned LLM as one https://github.com/punica-ai/punica [2310.18547] Punica: Multi-Tenant LoRA Serving https://arxiv.org/abs/2310.18547 企業や開発者が特定のタスクに適した大規模言語モデルを用意したい場合、事前学習済みの大規模言語モデルをファインチューニン</description>
     </item>
+    <item>
+      <title>OpenAIのパーソナルAIを着る『Humane Ai Pin』正式発表　レーザープロジェクタで手のひらに映すバッジ型ウェアラブル | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/10/2237.html</link>
+      <pubDate>2023/11/10 12:44</pubDate>
+      <description>CodeZine編集部では、現場で活躍するデベロッパーをスターにするためのカンファレンス「Developers Summit」や、エンジニアの生きざまをブーストするためのイベント「Developers Boost」など、さまざまなカンファレンスを企画・運営しています。</description>
+    </item>
+    <item>
+      <title>MidjourneyとStability AIの著作権問題「実質的類似性」証明できず　アーティストたちの訴え棄却 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/lawsuit_against_stabilityai_dismissed</link>
+      <pubDate>2023/11/10 15:08</pubDate>
+      <description>中国の国営通信社であるChinastarmarketが2023年11月9日に、NVIDIAが主力製品「H100」の改良版である新しいAIチップ「H20」「L20」「L2」を近日中に中国市場に投入すると報じました。この動きは、NVIDIAがいかに中国市場を重視し、規制の回避に躍起になっているかを示していると指摘されています。 英伟达或为中国推三款改良芯片？浪潮信息：目前还未接到通知 公司会继续和对方沟通 https://www.chinastarmarket.cn/detail/1513253 Tech war: Nvidia to tailor another set of chips for China clients after updated US export control curbs, distributor says | South China Morning Post ht</description>
+    </item>
+    <item>
+      <title>【突撃】海外から「謎の郵便物」が届いたので、差出人に凸してみた結果</title>
+      <link>https://rocketnews24.com/2023/11/09/2084460/</link>
+      <pubDate>2023/11/09 12:25</pubDate>
+      <description>米GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕。同社CEOのThomas Dohmke（トーマス・ドムケ）氏は1日目の基調講演の最後に、GitHub Copilotの将来像となる「Copilot Workspace」を発表しました。</description>
+    </item>
   </channel>
 </rss>
