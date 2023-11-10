@@ -7630,5 +7630,17 @@
       <pubDate>2023/11/09 19:35</pubDate>
       <description>はじめに 吉川@広島です。 OpenAIの新機能が盛り上がっていますね！ OpenAI DevDayで発表された様々な機能について、公式ドキュメントを見ながら少しだけ詳細を確認してみた | DevelopersIO いまのところ弊社記事はPythonコードが多い印象がありますので、いくつかの新規機能についてNode.js組である自分もサンプルコードを上げてみます。 環境 node v18.14.2 typescript 5.0.2 openai 4.16.1 [共通] OpenAIクライアントの初期化 openai パッケージをインストールします。 npm i openai クライアントを初期化します。 const openAi = new OpenAI({ apiKey: &amp;quot;xxxxxxxxxxxxxxxxxxxxxx&amp;quot;, }); DALL·E 3 API [アップデート]DALL·E</description>
     </item>
+    <item>
+      <title>OpenAIにDDoS攻撃で断続的な停止（復旧済み）</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/10/news093.html</link>
+      <pubDate>2023/11/10 10:37</pubDate>
+      <description>米新興企業Humaneは、胸元にバッジのように装着して使うAI活用のためのデバイス「Ai Pin」を発表した。米国で699ドルで発売する。利用するにはネット接続のための月額24ドルのサブスクも必要だ。 元Appleの2人のエンジニアが立ち上げた米新興企業Humaneは11月9日（現地時間）、AIを活用するためのウェアラブルデバイス「Ai Pin」を発表した。米国では11月16日から注文を受け付ける。デバイスの価格は699ドル（約10万円）で、ネット接続などのためのサブスクリプションの価格は月額24ドル。 Ai Pin本体とマグネットで合体するバッテリーブースターで構成されており、サイズは47.50×44.50×（14.98＋8.25）mm、重さは34.2＋20.5g。本体とブースターで衣服を挟むことで胸元などに装着できる。 米Qualcommの8コアのSnapdragon、4GBのメモリ、</description>
+    </item>
+    <item>
+      <title>Amazon ConnectとKinesis Video Streamで通話を録音時、発話終了のタイミングで録音を自動停止（無人対応） | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-connect-endstream-with-voice/</link>
+      <pubDate>2023/11/10 07:17</pubDate>
+      <description>GitHub、コードの脆弱性を発見後、修正コードまで自動生成してくれる「Code scanning autofix 」発表。GitHub Universe 2023 GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕。1日目の基調講演で、GitHub Copilotが脆弱性のあるコードを自動的に修正してくれる「Code scanning autofix 」を発表し、発表と同時にプレビュー公開となりました。 Copilotには以前からコードの脆弱性を発見する「GitHub Advanced Security」と呼ばれる機能が備わっていました。 これはXSS（クロスサイトスクリプティング）などのコードのロジックなどの潜在的な脆弱性や、漏洩すると大きな事故を引き起こすシークレットがコード内に含まれていないか、などをチェックしてくれる機能です。 今回発</description>
+    </item>
   </channel>
 </rss>
