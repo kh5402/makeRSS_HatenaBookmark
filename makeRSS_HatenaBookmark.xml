@@ -7594,5 +7594,41 @@
       <pubDate>2023/11/09 19:05</pubDate>
       <description>Low Rank Adapation(LoRA)はAIへの追加学習を少ない計算量で行うためのモデルです。このLoRAを使って、事前トレーニングされた大規模言語モデルに低コストかつ効率的にファインチューニング(微調整)を行えるシステム「Punica」を、ワシントン大学とデューク大学の研究チームが公開しました。 GitHub - punica-ai/punica: Serving multiple LoRA finetuned LLM as one https://github.com/punica-ai/punica [2310.18547] Punica: Multi-Tenant LoRA Serving https://arxiv.org/abs/2310.18547 企業や開発者が特定のタスクに適した大規模言語モデルを用意したい場合、事前学習済みの大規模言語モデルをファインチューニン</description>
     </item>
+    <item>
+      <title>Humane、“ポストスマートフォン”のAIガジェット「Ai Pin」を699ドルで発売へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/10/news088.html</link>
+      <pubDate>2023/11/10 07:25</pubDate>
+      <description>Amazon ConnectとKinesis Video Streamで通話を録音時、発話終了のタイミングで録音を自動停止（無人対応） はじめに Amazon Connectの無人対応で、Kinesis Video Stream（KVS）で通話を録音時、プッシュボタンでなく発話終了のタイミングで録音を停止させる方法をまとめました。 Amazon Connectの無人対応において、通話をKVSで録音する場合、ユーザーが話した後、プッシュボタンを押すことで録音を終了する方法があります。 この方法のコンタクトフローは、以下の通りです。 ユーザーが発話する ユーザーが発話を終了した後、プッシュボタンを押して録音を終了する 以下の記事では、この方法を使用して、顧客の一次対応を無人で行っています。 ただし、ユーザーがプッシュボタンを押すのはユーザーにとって負担がかかります。今回は、ユーザーが発話を終了</description>
+    </item>
+    <item>
+      <title>GitHub、コードの脆弱性を発見後、修正コードまで自動生成してくれる「Code scanning autofix 」発表。GitHub Universe 2023</title>
+      <link>https://www.publickey1.jp/blog/23/githubcode_scanning_autofix_github_universe_2023.html</link>
+      <pubDate>2023/11/10 06:59</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 全社を挙げてAIに注力するマイクロソフトは、Windows 11にAIアシスタントの「Copilot」を統合しましたが、リリースから8年が経過しサポート終了も近い Windows 10にもAI対応を拡大するかもしれません。 Windows関連の内部情報では定評ある Windows Centralは、関係者から独自に得た証言として、マイクロソフトがWindows 10にWindows 11と同じAIアシスタント「Copilot」を提供すると伝えています。 Copilotは今年6月よりWindows 11でプレビュー版を、そして9月にはWindows 11 23H2で正式に提供が開始されたAIチャットボット。OS</description>
+    </item>
+    <item>
+      <title>飛行士は男、看護師は女…ChatGPT、職業にジェンダーバイアス：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRC94PX0RB3ULLI001.html</link>
+      <pubDate>2023/11/09 22:46</pubDate>
+      <description>Googleのクラウドコンピューティングサービス「Google Cloud」において、機械学習特化型プロセッサ「TPU v5e」を用いた処理が可能になりました。GoogleはTPU v5eについて前世代の「TPU v4」と比較してコストパフォーマンスが2.3倍に向上しているとアピールしています。 Cloud TPU v5e is generally available | Google Cloud Blog https://cloud.google.com/blog/products/compute/announcing-cloud-tpu-v5e-in-ga/?hl=en TPU v5eはGoogleが独自に開発している機械学習特化プロセッサ「Tensor Processing Unit(TPU)」の第5世代モデルで、発表時には前世代モデルのTPU v4と比較して1ドル当たりのパフォーマ</description>
+    </item>
+    <item>
+      <title>ソフトバンクG決算、上期は1.4兆円の赤字――SVFは2四半期連続の黒字、AI関連の投資を再開へ</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1545840.html</link>
+      <pubDate>2023/11/09 22:32</pubDate>
+      <description>M3 MacBook Proのメモリ8GBは「Windows PCの16GBに相当する」 高い使用効率、メモリ圧縮技術、ユニファイドメモリを採用することで少ないメモリ量でも高いパフォーマンスを実現 M3 MacBook Proにおける「8GBのメモリ（RAM）」は、他のシステムにおける「16GBのメモリ」に相当する。Appleのバイスプレジデントがインタビューで明らかにした。 M2チップの13インチMacBook Proを置き換えたM3チップの14インチMacBook Proは、最小構成として8GBのメモリを搭載している。Appleは14インチMacBook Proがお手頃価格になったようなマーケティングを展開しているが、置き換えたモデルを考慮すると、実質的には値上げ。M2 MacBook Proは178,800円から取り扱っていたが、M3 MacBook Proの最小構成は248,800</description>
+    </item>
+    <item>
+      <title>「エビデンスが無いと駄目ですか？」という記事に対しては批判的な意見が多かったというエビデンス（鳥海不二夫） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/09727e8f23466cd410e6ea764b92c2d6883763b5</link>
+      <pubDate>2023/11/09 10:02</pubDate>
+      <description>GitHub、Copilotの将来像となる「Copilot Workspace」発表。人間がコードを書くことなく、Copilotが仕様作成からコード作成、デバッグまで実行。GitHub Universe 2023 GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕。同社CEOのThomas Dohmke（トーマス・ドムケ）氏は1日目の基調講演の最後に、GitHub Copilotの将来像となる「Copilot Workspace」を発表しました。 Copilot Workspaceは、人間が書いたIssueを起点にCopilotがIssueに対応した仕様を書き、実装計画を示し、それに沿ってコーディングや既存のコードの修正を行い、ビルドをしてエラーがあれば修正まで行うという、コーディングのほとんど全ての工程をCopilotが自動的に実行してくれる</description>
+    </item>
+    <item>
+      <title>SamsungがChatGPTのように会話やコードや画像を生成できる独自のAI「Samsung Gauss」を発表</title>
+      <link>https://gigazine.net/news/20231109-samsung-gauss/</link>
+      <pubDate>2023/11/09 19:35</pubDate>
+      <description>はじめに 吉川@広島です。 OpenAIの新機能が盛り上がっていますね！ OpenAI DevDayで発表された様々な機能について、公式ドキュメントを見ながら少しだけ詳細を確認してみた | DevelopersIO いまのところ弊社記事はPythonコードが多い印象がありますので、いくつかの新規機能についてNode.js組である自分もサンプルコードを上げてみます。 環境 node v18.14.2 typescript 5.0.2 openai 4.16.1 [共通] OpenAIクライアントの初期化 openai パッケージをインストールします。 npm i openai クライアントを初期化します。 const openAi = new OpenAI({ apiKey: &amp;quot;xxxxxxxxxxxxxxxxxxxxxx&amp;quot;, }); DALL·E 3 API [アップデート]DALL·E</description>
+    </item>
   </channel>
 </rss>
