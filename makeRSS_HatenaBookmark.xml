@@ -7567,5 +7567,32 @@
       <pubDate>2023/11/09 07:59</pubDate>
       <description>長いので3行で・これまでのLLMに関するR&amp;amp;Dを元に、チャットではなく文書処理にフォーカスしたAI・LLM事業部をスタートします。 ・ポイントはLLMのアルゴリズムの汎用性の高さを活かしつつ、業務プロセスを観察しAIが自然に溶け込む業務アシスタントを構築すること、それによるリデザインにあると捉え、プロダクト開発を進めていきます。 ・第一弾は三井物産デジタル・アセットマネジメントと連携しに金融事業でのLLM活用による文書処理業務アシスタント開発を進めていきます。 AI・LLM事業部がスタートしますLayerXでは、「すべての経済活動を、デジタル化する」をミッションとして掲げこれまでバクラクによる人の生産性、ALTERNAによるお金の生産性、そしてPrivacyTechを通じたデータの生産性に取り組んできました。 また、この4月からはLayerX LLM Labsを設立し、LLMの業務活用につ</description>
     </item>
+    <item>
+      <title>マイクロソフト、Windows 10にもAIアシスタント「Copilot」を提供か。サポート終了延期も議論 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/09/2230.html</link>
+      <pubDate>2023/11/09 16:46</pubDate>
+      <description>革新的な対話型AI（人工知能）として利用が広がっている「ChatGPT」（チャットGPT）が、飛行士を男性的、看護師を女性的と捉えるなど、職業に対しジェンダーバイアスを持っていることが朝日新聞の分析でわかった。専門家は、適切な処置が取られないまま使われれば、性差による差別や偏見が再生産される恐れがあると指摘する。 AIは、ネット上などにある大量のデータを学習して答えを出す。このためAIの多くが、もとのデータに含まれるバイアスを反映した偏りを持つことが、東京工業大の岡崎直観教授らの研究で知られていた。ただ、昨秋に登場したチャットGPTが、どれほどのジェンダーバイアスを持つのかについての日本語の研究はなかった。 そこで朝日新聞社メディア研究開発センターは、岡崎教授の監修のもと、9月段階の無料版のチャットGPT―3・5に、30職業の男女観を計3千回質問。バイアスがある回答は41・5%に上った。こ</description>
+    </item>
+    <item>
+      <title>コスパが2.3倍になったGoogleの機械学習特化プロセッサ「TPU v5e」がGoogle Cloudで利用可能に</title>
+      <link>https://gigazine.net/news/20231109-google-cloud-tpu-v5e/</link>
+      <pubDate>2023/11/09 20:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6aa15ba27de5adcfc1c067f96229e6b404ef4f0d/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1545%2F840%2Fcont0035.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>M3 MacBook Proのメモリ8GBは「Windows PCの16GBに相当する」 | ゴリミー</title>
+      <link>https://gori.me/macbookpro/150670</link>
+      <pubDate>2023/11/09 13:02</pubDate>
+      <description>最初に結論批判が多いエビデンス？→あるよ． はじめに朝日新聞デジタルに「エビデンス」がないと駄目ですか?　数値がすくい取れない真理とはという記事が掲載され話題になりました． 新聞記事にエビデンスが無くてもいいのかということで，大きな話題となりました．記事に付与される朝日新聞が選出したコメンテーターによるコメントも9件つくなど，議論を呼ぶ記事となっていました． データ概要ネット上でもエビデンス重視に疑問を投げかけた記事に対する反論などが多数見受けられました．そこで，ネット上でこの記事に対してどのような意見があったのか，11月2日20時～4日17時のX（旧ツイッター）上で「エビデンス」を含む97273ポストを収集し分析を行いました．なお，記事は10月31日に出ているので，少しタイミング的には遅れていることにご注意ください．また，ベストエフォートで取っているので全部とれているわけではないことにも</description>
+    </item>
+    <item>
+      <title>OpenAI APIの新機能をNode.jsから使ってみる | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-new-features-nodejs/</link>
+      <pubDate>2023/11/09 19:05</pubDate>
+      <description>Low Rank Adapation(LoRA)はAIへの追加学習を少ない計算量で行うためのモデルです。このLoRAを使って、事前トレーニングされた大規模言語モデルに低コストかつ効率的にファインチューニング(微調整)を行えるシステム「Punica」を、ワシントン大学とデューク大学の研究チームが公開しました。 GitHub - punica-ai/punica: Serving multiple LoRA finetuned LLM as one https://github.com/punica-ai/punica [2310.18547] Punica: Multi-Tenant LoRA Serving https://arxiv.org/abs/2310.18547 企業や開発者が特定のタスクに適した大規模言語モデルを用意したい場合、事前学習済みの大規模言語モデルをファインチューニン</description>
+    </item>
   </channel>
 </rss>
