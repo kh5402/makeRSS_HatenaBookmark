@@ -7684,5 +7684,17 @@
       <pubDate>2023/11/08 18:23</pubDate>
       <description>Microsoftは来年の米大統領選挙に向けて、選挙に対する脅威に対処するための複数の取り組みを発表した。C2PAのデジタル透かし認証を使う「Content Credentials as a Service」などだ。 米Microsoftは11月7日（現地時間）、2024年の世界での選挙に向けて、投票者、候補者、政治キャンペーン、選挙管理機関に対する脅威に対処するための5つの取り組みを発表した。 コンテンツの出所を確認する「Content Credentials as a Service」 「Content Credentials as a Service」は、候補者向けのツール。コンテンツの出所を確認できるC2PAのデジタル透かし認証を使う。この透かし認証は、出所を確認できるだけでなく、認証後に改ざんされると分かるようになっている。 Azureで開発したこのサービスは、来春プライベートプ</description>
     </item>
+    <item>
+      <title>NVIDIAが数日以内に3つの新しいH100ベースのAIチップを中国に投入する予定との報道、輸出規制回避に必死な姿が浮き彫りに</title>
+      <link>https://gigazine.net/news/20231110-nvidia-hpc-gpus-china-market/</link>
+      <pubDate>2023/11/10 16:17</pubDate>
+      <description>米GitHubの年次イベント「GitHub Universe 2023」が米サンフランシスコで開幕。同社CEOのThomas Dohmke（トーマス・ドムケ）氏は1日目の基調講演の最後に、GitHub Copilotの将来像となる「Copilot Workspace」を発表しました。</description>
+    </item>
+    <item>
+      <title>OpenAI、トレーニング用の安全で広範なデータセット構築目指す「Data Partnerships」立ち上げ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/10/news106.html</link>
+      <pubDate>2023/11/10 11:26</pubDate>
+      <description>Microsoft has invested billions of dollars in OpenAI. But for a brief time on Thursday, employees of the software company weren&amp;#39;t allowed to use the startup&amp;#39;s most famous product, ChatGPT, CNBC has learned. &amp;quot;Due to security and data concerns a number of AI tools are no longer available for employees to use,&amp;quot; Microsoft said in an update on an internal website. CNBC also viewed a screenshot that sho</description>
+    </item>
   </channel>
 </rss>
