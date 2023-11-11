@@ -7804,5 +7804,32 @@
       <pubDate>2023/11/09 12:57</pubDate>
       <description>米新興企業Humaneは、胸元にバッジのように装着して使うAI活用のためのデバイス「Ai Pin」を発表した。米国で699ドルで発売する。利用するにはネット接続のための月額24ドルのサブスクも必要だ。 元Appleの2人のエンジニアが立ち上げた米新興企業Humaneは11月9日（現地時間）、AIを活用するためのウェアラブルデバイス「Ai Pin」を発表した。米国では11月16日から注文を受け付ける。デバイスの価格は699ドル（約10万円）で、ネット接続などのためのサブスクリプションの価格は月額24ドル。 Ai Pin本体とマグネットで合体するバッテリーブースターで構成されており、サイズは47.50×44.50×（14.98＋8.25）mm、重さは34.2＋20.5g。本体とブースターで衣服を挟むことで胸元などに装着できる。 米Qualcommの8コアのSnapdragon、4GBのメモリ、</description>
     </item>
+    <item>
+      <title>「ホームレス予備軍」をAIで検出して支援の手を差し伸べる取り組みがロサンゼルスで行われている</title>
+      <link>https://gigazine.net/news/20231111-ai-predict-who-become-homeless-los-angeles/</link>
+      <pubDate>2023/11/11 10:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/43934522b9ba5ef5731810043a4d0df5b321aabd/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1546%2F074%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>安倍・菅氏の生成ＡＩ偽動画も…「岸田首相偽動画」制作者から作り方学んだ男性が作成し投稿</title>
+      <link>https://www.yomiuri.co.jp/national/20231111-OYT1T50021/</link>
+      <pubDate>2023/11/11 07:40</pubDate>
+      <description>動画配信サービス「ABEMA」を運営するサイバーエージェントは11月10日、専門チャンネル「麻雀チャンネル」に出演する選手への誹謗中傷、嫌がらせなどへの対策を発表した。ABEMAのコメント機能では、AIを活用して全てのコメントを監視する。 コメント機能では、AIの判断とユーザーからの通報と合わせて内容を判定。誹謗中傷に該当すると判断した場合、投稿した全てのユーザーを一定期間「コメント投稿停止措置」とする。 SNS上の誹謗中傷なども含め、悪質と判断した場合は、証拠を集めてプロバイダー責任制限法に基づく個人情報開示請求や警察への被害届提出、訴訟の手続きなどを弁護士事務所と連携して行う。「選手が安心して試合に向き合える環境づくりを強化する」としている。 ABEMAの麻雀チャンネルは、「Mリーグ」試合中継など数々の麻雀専門番組を配信している。一方でコメント機能やSNSを通じ、Mリーガーら選手に対す</description>
+    </item>
+    <item>
+      <title>素直にGPT-4 Turboに金出したほうがいいというだけの結論 - 関内関外日記</title>
+      <link>https://goldhead.hatenablog.com/entry/2023/11/10/204854</link>
+      <pubDate>2023/11/10 22:23</pubDate>
+      <description>************************************************************* # 要約 ************************************************************* ・SHAP のアルゴリズムを説明 ・SHAPに近い手法「LIME」との比較及び考察も記載 ・SHAP 以外の手法で算出した Feature Importance との比較及び考察も記載 ・オープンソースのデータ及びコードを使ってハンズオン ┗テーブルデータ and 画像データに適用 ・SHAP 以外の画像説明モデル Grad-CAM, Guided Grad-CAM の紹介</description>
+    </item>
+    <item>
+      <title>急速に「人」が消えていく中国の炭鉱</title>
+      <link>https://www.afpbb.com/articles/-/3490198</link>
+      <pubDate>2023/11/10 18:42</pubDate>
+      <description>はじめまして、ますみです！ 先日のOpenAI社の初めてのカンファレンスである「OpenAI Dev Day 2023」で発表されたGPT Builderがついに利用可能になりました！ 上記の発表会にて、「自分で作ったGPTを公開して、たくさん他の人に利用されると、その利用量に応じて、収益がもらえる」という話は非常に話題を呼びました。 そこで、おそらく多くの方が「自分のGPTを作って、収益化したい！」「どうやって自分のGPTを作るのか知りたい！」と気になっている方が多いと思います！ そこで、この記事では、自分のGPTを作るためのツールである「GPT Builderの使い方（始め方）」を徹底解説します！ もしも自社のGPT開発の外注や相談をしたい方は、記事末尾のGoogleフォームよりお問い合わせいただければ、お力になります！ また、「ChatGPT」や「OpenAI Dev Day」につい</description>
+    </item>
   </channel>
 </rss>
