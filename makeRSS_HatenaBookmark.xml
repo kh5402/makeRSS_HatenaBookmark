@@ -7855,5 +7855,32 @@
       <pubDate>2023/11/10 21:02</pubDate>
       <description>【11月10日 東方新報】中国では内陸の山西省（Shanxi）や陝西省（Shaanxi）が石炭の産地で、特に山西省は世界の石炭消費の半分を占め、すでに地表の8分の1が掘られているほどだ。その炭鉱で「スマート無人化」が急速に進んでいる。 地上から数百メートル地下の採掘現場に5Gの通信設備が張り巡らされ、人工知能（AI）を搭載した機械やロボットが自動的に作業を行う。大型カッターがトンネルの採掘を進め、インテリジェントカメラが石炭の種類や不要な廃石を選別。アームロボットが分別作業を行い、ベルトコンベヤーで搬送していく。 坑内の映像はAIが一つにまとめ、地上のコントロールセンターへ。以前はオペレーター室で作業員が坑内作業を遠隔操作していたが、今は事前にプログラムを設定してボタンを押すだけ。坑内に異変があればAI監視カメラや故障診断システムがすぐ探知するので、作業員がモニター画面をずっと見続ける必要</description>
     </item>
+    <item>
+      <title>Regards to unauthorized AI model with my art｜urasan</title>
+      <link>https://note.com/jelkelsen/n/n78bd797f74ca</link>
+      <pubDate>2023/11/11 13:20</pubDate>
+      <description>問題に感じた箇所や改善すべきと思った点など、コメントいただけますと幸いです。レビューに貢献していただいた方には、感謝の印として、本書に名前を記載させていただく予定です（もちろん、同意のある方のみです）。下記のように、レビューアの方の名前をクレジットとして掲載する予定です。 左は『ゼロから作るDeep Learning ❷』、右は中国語に翻訳された『Deep Learning 2』なお、本のタイトルに「❺」とありますが、前作までの知識がなくても読める内容になっています。前提条件としては、Pythonと数学の基本的な知識が必要になります。数式も多く登場します。ちなみに、本書の概要は次のとおりです。 人気シリーズの第5弾。今回のテーマは「生成モデル」です。本書では「正規分布」から「拡散モデル」に至るまでの技術を繋がりのあるストーリーとして展開します。読者は小さな学びを積み重ねながら、ステップバイ</description>
+    </item>
+    <item>
+      <title>50%以上が「人工合成DNA」で作られた酵母の作成に成功！ - ナゾロジー</title>
+      <link>https://nazology.net/archives/138297</link>
+      <pubDate>2023/11/10 19:07</pubDate>
+      <description>承前。 goldhead.hatenablog.com 読みたい小説がある。とても古い小説で、日本語訳が手に入らない。元はノルウェー語だが、とりあえずプロジェクト・グーテンベルクの英語版は見つけた。おれは英語が読めない。翻訳エンジンを使うしかない。比べてみたらAIに翻訳させると質がいい。しかし、いちいちコピペできる分量ではない。なにか方法があるかとChatGPTに聞いてみた。Pythonを使えばできるという。なので、やってみた。とりあえず、できそうな感じがした……というのが上の記事まで。 そして、今日だ。あ、この一連の記事はリアルタイムでお伝えしています。昨日の記事は昼休みに書いた。で、今日は朝から体調を崩して、午後遅くに出社。仕事を終えたあとPythonをいじりはじめる。昨日は「短い英文テキストファイルを読み込ませて、ChatGPTに翻訳させて、日本語テキストファイルを出力させる」という</description>
+    </item>
+    <item>
+      <title>自作AI時代に乗り遅れるな！ #ChatGPT で自分専用のAIを10分で作る方法！ #MyGPTs（神田敏晶） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/a486fc33d677a4b9e4bd6752499a01f5925ca686</link>
+      <pubDate>2023/11/10 14:08</pubDate>
+      <description>HumaneがAI搭載のウェアラブルデバイス「Ai Pin」を正式に発表しました。本体価格は699ドル(約10万円)で、月額24ドル(約3600円)のサブスクリプションプランに加入する必要があり、予約は2023年11月16日、出荷は2024年初めとなっています。 AiPin Overview https://hu.ma.ne/aipin Humane officially launches the Ai Pin, its OpenAI-powered wearable - The Verge https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai Introducing Humane Ai Pin on Vimeo 記事作成時点で公開されているAi Pinのスペックは以下の通り。</description>
+    </item>
+    <item>
+      <title>MIXI開発本部で働く面白さは、あらゆるプロダクトのコードに触れられること。～新卒MIXIエンジニア成長の軌跡、その後〜</title>
+      <link>https://techfeed.io/entries/6548e83a6592ae72854c9dc0</link>
+      <pubDate>2023/11/07 15:42</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/905ae4111f4ad40f77aef4cafd2c9a6e090d8c24/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F359%2Fopenai.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
