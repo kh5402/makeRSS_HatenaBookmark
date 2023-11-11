@@ -7924,5 +7924,38 @@
       <pubDate>2023/11/11 11:52</pubDate>
       <description>私の絵を使用し無断で制作されたAIモデルに関して 削除申請に伴う本人確認のためにXの私のアカウント及びFANBOXよりこのページをリンクしております。 For the removal request, I am linking this page from my account on X for confirmation. ユーザー間による論争を避けるため、本ページのURLや内容を画像及びリンクを含む文章にて転載する事を固く禁じます。 Reposting or linking this content is strictly prohibited. モデル配布サイトの管理者へ向けて こんにちは。裏方と申します。 イラストを描く仕事をさせていただいており、これまでに児童書籍、ゲームイラスト、キャラクターデザイン、漫画など、「全年齢向け」を中心に幅広く活動させていただいております。 一方で、創</description>
     </item>
+    <item>
+      <title>機械学習に最適とされる「NVIDIA H100」の代替になり得る「NVIDIA L40S」の性能とは？</title>
+      <link>https://gigazine.net/news/20231111-nvidia-l40s/</link>
+      <pubDate>2023/11/12 00:29</pubDate>
+      <description>はじめまして。損害保険ジャパン株式会社 DX推進部の眞方です。普段はリードエンジニアとして、新しいサービスのアーキテクチャ検討からローンチまでの作業や、新規技術を用いたアプリのプロトタイプ実装などを行なっています。 弊社では、LLM（Large Language Models）を活用したアプリケーションの開発を積極的に検討し、既に社内でいくつかのプロトタイプをローンチしています。 本記事では、その最も一般的？なユースケースの一つとも言えるRAG（Retrieval Augmented Generative）の構築において、ドキュメント検索精度の向上にどのように取り組んだ内容の概要を紹介させていただきます。実際の詳細な手法および結果については、別記事（実践編）で解説予定です。 はじめに RAGとは？ この記事を読まれている方の中にはご存知の方も多いでしょうが、RAGとはRetrieval A</description>
+    </item>
+    <item>
+      <title>自作GPTsを登録「日本版GPTs非公式ディレクトリ」OSSで公開、ソースは80%ChatGPTで作成</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000065.000055584.html</link>
+      <pubDate>2023/11/11 12:41</pubDate>
+      <description>画像を悪用された日本テレビが激怒したのに続き、官房長官までが懸念を表明した。岸田首相のAI偽動画で世は大騒ぎだが、作成した「25歳無職」氏の言い分とは。 【写真を見る】「文字にするのも憚られる言葉の連発」　問題となった「フェイク動画」 *** 世界に目を向ければ、イスラエルVS.ハマスの紛争でも大量のフェイク動画が出回り、各国は対策強化を迫られている。それに比べれば日本の状況はまだ牧歌的といえるのか。 「日テレさんのフォーマットを使ったことは本当に申し訳ないと思います。社員さんたちの時間を対応に奪っているわけで、本当に申し訳ないな、と」 そう述べるのは、作成者ご本人。しかし、反省の弁はここまでで、騒ぎについては納得のいかない点もあるという。 「逆ギレみたいになってしまいますけど、そんなに大問題なんですか？　フェイクニュースって言われてますけど、ギャグだとわかるような形でやってますし。岸田さ</description>
+    </item>
+    <item>
+      <title>ビル・ゲイツが「AIがパーソナルアシスタントとなる未来」について語る</title>
+      <link>https://gigazine.net/news/20231110-bill-gates-told-about-ai-agents/</link>
+      <pubDate>2023/11/11 10:12</pubDate>
+      <description>私の絵を使用し無断で制作されたAIモデルに関して 削除申請に伴う本人確認のためにXの私のアカウント及びFANBOXよりこのページをリンクしております。 For the removal request, I am linking this page from my account on X for confirmation. ユーザー間による論争を避けるため、本ページのURLや内容を画像及びリンクを含む文章にて転載する事を固く禁じます。 Reposting or linking this content is strictly prohibited. モデル配布サイトの管理者へ向けて こんにちは。裏方と申します。 イラストを描く仕事をさせていただいており、これまでに児童書籍、ゲームイラスト、キャラクターデザイン、漫画など、「全年齢向け」を中心に幅広く活動させていただいております。 一方で、創</description>
+    </item>
+    <item>
+      <title>量子アニーリングの効率的な最適化手法を開発 数理最適化アルゴリズムとの組み合わせで最大3.7倍の高速化を確認</title>
+      <link>https://www.tohoku.ac.jp/japanese/2023/11/press20231109-01-annealing.html</link>
+      <pubDate>2023/11/10 18:58</pubDate>
+      <description>人間は時に、地震、津波、虐待、交通事故など心に傷を負う恐ろしい出来事に遭遇することがあります。 そしてそれらの体験が個人では対処できないほどの深い心の傷「トラウマ」を負わせることもあります。 しかし同じ体験をしたとしても、「トラウマを抱える人」と「そうでない人」がいます。 最近、スイス連邦工科大学ローザンヌ校（EPFL）生命科学部に所属するカルメン・サンディ氏ら研究チームは、ラット実験の結果、トラウマを抱える原因の1つが「特定のホルモンレベルの低下」にあると報告しました。 追加の実験では、ラットのトラウマを治療することに成功しており、将来的に人間のトラウマ治療に役立つ可能性があります。 研究の詳細は、2023年9月22日付の科学誌『Biological Psychiatry』に掲載されました。 目次 「PTSDになる人」と「ならない人」の違いを探るラットにPTSDを発症させるホルモンを特定</description>
+    </item>
+    <item>
+      <title>手をかざせば情報が。スマホに代わる次世代端末｢Humane AI Pin｣</title>
+      <link>https://www.gizmodo.jp/2023/11/humane-ai-pin.html</link>
+      <pubDate>2023/11/10 20:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/43934522b9ba5ef5731810043a4d0df5b321aabd/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1546%2F074%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
