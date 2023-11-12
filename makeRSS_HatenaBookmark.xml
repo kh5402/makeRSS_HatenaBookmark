@@ -8023,5 +8023,17 @@
       <pubDate>2023/11/11 10:18</pubDate>
       <description>1台当たり数百万円以上で販売されているNVIDIA H100は機械学習に最適ということで人気があり、Facebookのマーク・ザッカーバーグ氏の慈善団体はNVIDIA H100を1000個以上積んだ高性能医学研究用コンピューティングシステムの構築をスタートしています。ブロガーのパトリック・ケネディ氏は、「NVIDIA L40S」という製品が「NVIDIA H100」の代替となり得るとして、その性能について解説しています。 NVIDIA L40S is the NVIDIA H100 AI Alternative with a Big Benefit https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/ NVIDIA H100はハイエン</description>
     </item>
+    <item>
+      <title>世界が変わる。ChatGPT新機能、有料ユーザー全員が使えるように</title>
+      <link>https://ascii.jp/elem/000/004/168/4168344/</link>
+      <pubDate>2023/11/10 14:16</pubDate>
+      <description>💻 GitHub Copilotのコマンドラインツールの紹介 🌟 Introduction: はじめに こんにちは、皆さん！GitHub CopilotのCLI（コマンドラインインターフェース）ツールが公開ベータ版となりました。そのインストールから使ってみた感想までをこの記事でご紹介していきます。詳細は公式ページをご覧ください。 公式ページから一部引用しますと： &amp;quot;GitHub Copilot in the CLI brings GitHub Copilot right to your terminal, where you can ask it to do things like explain how a command works or suggest a command for a task you want to perform.&amp;quot; これを日本語に訳すと次のようになります(意</description>
+    </item>
+    <item>
+      <title>OpenAI、2023年4月までの知識をもつ高性能な「GPT-4 Turbo」、カスタム化できるChatGPT「GPTs」を発表 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2023/11/openai-devday</link>
+      <pubDate>2023/11/07 12:13</pubDate>
+      <description>基本的にグルメと趣味の延長みたいなレポートがメインであるロケットニュース24。編集部に品物が届くこともあるが、ほとんどは企業からのサンプルだ。 ゆえに、差出人に個人名が記載されている場合、少し警戒心が芽生える。「ヤバイものが入っていたらどうしよう」と。事実、髪の毛が入っていたこともあるしな。 だがしかし、今回私（中澤）宛てに届いたブツは個人名なだけではなく海外からであった。何コレ怖い……！ ・Fromニュージーランド 国際郵便物と書かれたそのブツ。差出国はニュージーランドとなっている。最近ネットで買い物をした覚えもないし、もちろんニュージーランドに友達もいない。謎すぎる。 とは言え、軽めのパッキングを見ると手紙サイズの何かであるようだ。航空便なのであれば爆弾とかではないだろう。そこで開けてみると…… 真っ赤なカセットテープが出てきた。 箱がボロイのがなんか怖い。その上で真っ赤なのが血を連想</description>
+    </item>
   </channel>
 </rss>
