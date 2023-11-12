@@ -7987,5 +7987,26 @@
       <pubDate>2023/11/08 10:42</pubDate>
       <description>こんにちは、LIGブログ編集長のまこりーぬ（@makosaito214）です。 みなさんは、ふだん業務のなかで「生成AI」を活用していますか？ GoogleやMicrosoft、Notion、Canvaなど、身近なサービスが生成AIを搭載した新機能を続々とリリースしていることもあり、日常的に利用している方も多いことでしょう。 先日、当LIGブログでたびたびPRしているコンテンツSEOツール「SEARCH WRITE」からも、GPT搭載の「生成AIによる見出し作成機能」がリリースされたとのこと。これは、業務効率化がめちゃめちゃ期待できます！！！ ……な ん で す が。 やっぱり実際に触ってみないことには、「生成AIがどれほど業務に役立つのか」正直わかりません。たとえば先日、ChatGPTで誤字脱字チェックをおこなったところ、意外とヌケモレが多く「まだ実務では使えないな」と感じたこともありま</description>
     </item>
+    <item>
+      <title>身につけるAI　新たな小型ウェアラブル「Humane Ai Pin」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1546294.html</link>
+      <pubDate>2023/11/11 19:39</pubDate>
+      <description>1台当たり数百万円以上で販売されているNVIDIA H100は機械学習に最適ということで人気があり、Facebookのマーク・ザッカーバーグ氏の慈善団体はNVIDIA H100を1000個以上積んだ高性能医学研究用コンピューティングシステムの構築をスタートしています。ブロガーのパトリック・ケネディ氏は、「NVIDIA L40S」という製品が「NVIDIA H100」の代替となり得るとして、その性能について解説しています。 NVIDIA L40S is the NVIDIA H100 AI Alternative with a Big Benefit https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/ NVIDIA H100はハイエン</description>
+    </item>
+    <item>
+      <title>データセットの本質的な性質を踏まえないデータ分析には、大抵何の意味もない - 渋谷駅前で働くデータサイエンティストのブログ</title>
+      <link>https://tjo.hatenablog.com/entry/2023/11/11/195106</link>
+      <pubDate>2023/11/11 20:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0097ca9eb2f56c29c0d027347001d04838c64993/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F854%2Fmain.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>cl-tohoku/stable-diffusion-xl-jp-base-1.0 · Hugging Face</title>
+      <link>https://huggingface.co/cl-tohoku/stable-diffusion-xl-jp-base-1.0</link>
+      <pubDate>2023/11/10 17:35</pubDate>
+      <description>花笠監督の「私立GPT北高校」でグランシュライデ２週目キャラ演じてみたんだけど、面白すぎるｗ いかん、これはハマるｗ https://t.co/jNaQSFjJoZ pic.twitter.com/dGsmjfYCdr — らけしで (@lakeside529) November 10, 2023 実際に100人ぐらいの人が現時点でプレイしてくれてますね。 ありがたいですね。 GPTsの実際の作り方まずGPT Builderを立ち上げましょう。よくわからん場所にあります。 PCで立ち上げて左上を見ましょう。 Exploreってあるよね。そこ。 そこを押すと、よくわかんないリストの一番上に「+」マークが出るじゃない。それを押すのです。 そうするとこういう画面に来ますわね。 ここで画面左側、Createのタブで普段通りつくりたいGPTをテキストで打っていってもいいんですが。。。これって結局ここ</description>
+    </item>
   </channel>
 </rss>
