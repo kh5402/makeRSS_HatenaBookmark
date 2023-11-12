@@ -8104,5 +8104,23 @@
       <pubDate>2023/11/12 00:23</pubDate>
       <description>画像生成ＡＩで作ったとみられる児童の性的画像が、大阪のＩＴ企業が運営するサイトに大量に投稿されていることがわかった。読売新聞が専門家の監修を受けて調べたところ、実写の「児童ポルノ」と区別がつかない画像が推計で毎月３０００点以上投稿され、海外からの閲覧が目立った。ＡＩによる児童の性的画像は、日本の児童買春・児童ポルノ禁止法の原則対象外。同様の国内サイトは複数あり、今後議論になる可能性がある。 【図解】一目でわかる…生成ＡＩを利用して画像を作る仕組み サイトは、大阪府吹田市のＩＴ企業が運営し、画像の投稿と購入もできる。運営会社によると、登録者数は１０万人、閲覧数は月２００万回以上に上るという。 読売新聞は、統計学の複数の専門家の助言を受け、８月中旬までの１か月間に投稿された３７２７ページ中４００ページ分を無作為抽出。児童ポルノ問題に詳しい園田寿・甲南大名誉教授（刑法）の監修を受けて、画像の内容</description>
     </item>
+    <item>
+      <title>Appleが「M3 MacBook Pro」の8GBのユニファイドメモリは16GBの他製品RAMと同等であると主張</title>
+      <link>https://gigazine.net/news/20231113-apple-m3-ram/</link>
+      <pubDate>2023/11/13 06:08</pubDate>
+      <description>「OpenAI」の 「Assistant Playground」の「Code Interpreter」を試したので、まとめました。 前回 1. Code Interpreter「Code Interpreter」は、アシスタントがサンドボックス実行環境でPythonコードを作成および実行できるツールです。さまざまなデータと形式を含むファイルを処理し、データとグラフの画像を含むファイルを生成できます。 2. アシスタントの作成アシスタントの作成手順は、次のとおりです。 (1)  「Playground」を開き、左端の「Playgroundアイコン」とタイトル横の「Assistants」を選択し、「+Create」を押す。 (2) WebUIで以下のように設定して、SAVEボタンを押す。 ・Name : 数学の家庭教師ボット ・Instructions : あなたは数学の個人家庭教師です。数学</description>
+    </item>
+    <item>
+      <title>try! Swift NYCに参加してきました！ #tryswiftnyc - Sansan Tech Blog</title>
+      <link>https://buildersbox.corp-sansan.com/entry/2023/11/09/110000</link>
+      <pubDate>2023/11/09 12:38</pubDate>
+      <description>はじめまして、ますみです！ 先日のOpenAI社の初めてのカンファレンスである「OpenAI Dev Day 2023」で発表されたGPT Builderがついに利用可能になりました！ 上記の発表会にて、「自分で作ったGPTを公開して、たくさん他の人に利用されると、その利用量に応じて、収益がもらえる」という話は非常に話題を呼びました。 そこで、おそらく多くの方が「自分のGPTを作って、収益化したい！」「どうやって自分のGPTを作るのか知りたい！」と気になっている方が多いと思います！ そこで、この記事では、自分のGPTを作るためのツールである「GPT Builderの使い方（始め方）」を徹底解説します！ もしも自社のGPT開発の外注や相談をしたい方は、記事末尾のGoogleフォームよりお問い合わせいただければ、お力になります！ また、「ChatGPT」や「OpenAI Dev Day」につい</description>
+    </item>
+    <item>
+      <title>日経トレンディ「2023年ヒット商品」ベスト30が決定、一挙公開</title>
+      <link>https://xtrend.nikkei.com/atcl/contents/18/00918/00001/</link>
+      <pubDate>2023/11/03 21:25</pubDate>
+      <description>G-gen 又吉です。当記事では、Google Cloud の LLM (Vertex AI PaLM API) と LangChain を組み合わせて、自然言語から BigQuery 上の統計データを取得する方法を紹介します。 はじめに 準備 実行環境 使用するデータ 実装 ライブラリのインストール 関数の定義 概要 解説 実行 はじめに LangChain とは、大規模言語モデル (LLM) アプリケーションを効率よく実装するためのフレームワークです。LangChain についての詳細は以下の記事をご参照ください。 blog.g-gen.co.jp LangChain にはさまざまな機能が提供されておりますが、今回は Agents 機能を用いて SQL データベースと対話するエージェントを作成します。 LLM のハルシネーション (幻覚) を抑制する手法として、指定した情報源だけに基づ</description>
+    </item>
   </channel>
 </rss>
