@@ -8062,5 +8062,17 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6d52fb62eff5160f8e00268c58ed215c3bc33de1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1546%2F294%2Fai1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>シリーズA “102億円調達”のLayerXーーAIがレガシー業務を一気に変える（後編） - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報</title>
+      <link>https://thebridge.jp/2023/11/layerx-raised-10-2byen-at-series-a-round-compound-is-a-key-concept-for-their-growth-the-last-part</link>
+      <pubDate>2023/11/10 09:30</pubDate>
+      <description>私の絵を使用し無断で制作されたAIモデルに関して 削除申請に伴う本人確認のためにXの私のアカウント及びFANBOXよりこのページをリンクしております。 For the removal request, I am linking this page from my account on X for confirmation. ユーザー間による論争を避けるため、本ページのURLや内容を画像及びリンクを含む文章にて転載する事を固く禁じます。 Reposting or linking this content is strictly prohibited. モデル配布サイトの管理者へ向けて こんにちは。裏方と申します。 イラストを描く仕事をさせていただいており、これまでに児童書籍、ゲームイラスト、キャラクターデザイン、漫画など、「全年齢向け」を中心に幅広く活動させていただいております。 一方で、創</description>
+    </item>
+    <item>
+      <title>株式会社G-VIS、資金調達を実施及び生成AIによるアニメ制作決定</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000001.000132654.html</link>
+      <pubDate>2023/11/09 05:15</pubDate>
+      <description>「Google Colab」で「OpenAI API」の「Text-to-Speech」を試したので、まとめました。 前回 1. Text-to-Speech「Text-to-Speech」、テキストの読み上げを行うAPIです。6つの内蔵ボイスが付属しており、次の目的で使用できます。 ・書かれたブログ投稿のナレーション ・複数言語の音声を生成 ・ストリーミングを使用したリアルタイムオーディオ出力 2. セットアップColabでのセットアップ手順は、次のとおりです。 (1) パッケージのインストール。 # パッケージのインストール !pip install openai(2) 環境変数の準備。 以下のコードの &amp;lt;OpenAI_APIキー&amp;gt; にはOpenAIのサイトで取得できるAPIキーを指定します。(有料) import os os.environ[&amp;quot;OPENAI_API_KEY&amp;quot;] = &amp;quot;</description>
+    </item>
   </channel>
 </rss>
