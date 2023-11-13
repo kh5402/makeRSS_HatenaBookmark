@@ -8140,5 +8140,44 @@
       <pubDate>2023/11/13 06:24</pubDate>
       <description>出版業界で生成人工知能（AI）活用の動きが広がってきた。ワン・パブリッシング（東京・台東）が9月末に発行した書籍では著者が生成AIからテーマ構成などでヒントを得た。出版市場の縮小が続くなか、生成AIの活用は企画・執筆の効率化につながると期待されている。一方、著作権侵害の懸念もあり、権利保護と創作活動のバランスが課題となる。「あり得ないスピードだった」。ワン・パブリッシング取締役メディアビジネス</description>
     </item>
+    <item>
+      <title>爆速化する画像生成AI。0.5秒で4枚出力、リアルタイム生成できるレベルに（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/05e8b6857fa21aa1e81cdd7c19fd5dee2744daf7</link>
+      <pubDate>2023/11/13 10:12</pubDate>
+      <description>このところ画像生成AI界隈で話題になっているのが、「Latent Consistency Models（レイテント・コンシステンシー・モデル」（以下「LCM」）。10月6日に中国精華大学のシミアン・ルオさんが中心となって発表された論文で、日本語にすると「拡散的一貫性モデル」。新しいタイプの効率性の高い生成モデルを使い、Stable Diffusion＝安定拡散モデルより高速に画像を生成。結果としてビデオメモリーの少ないローレベルのPCでも画像生成AIを動かせるようにしようというものです。 0.5秒で4枚出力。Stable Diffusionの5倍 Stable Diffusionの拡散モデルは、ランダムなノイズ情報から、学習済みの特徴点データを利用することで、段々と画像を生み出していくサンプリングプロセスを繰り返します。それによって画像を生成する仕組みです。通常、1枚の画像を生み出すのに必</description>
+    </item>
+    <item>
+      <title>OpenAI「GPTs」がもたらす革命　誰でも「自分のコパイロット」時代へ【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/1546335.html</link>
+      <pubDate>2023/11/13 08:57</pubDate>
+      <description>2023年11月、ChatGPTの新機能「GPTs」が公開されました。 GPTsを活用すれば、ChatGPT上で手軽にGPT搭載ツールを作れます。しかもプログラミングなどの特別な知識も必要なく、自然言語だけで誰でも簡単に作成できるんです！ こんな画期的な機能、使わないなんて大損ですよ！ というわけで本記事では、SNS上で話題になったGPTsの活用事例10選を紹介します。 また記事の後半では、プログラミング知識ゼロの筆者が、実際にGPTsでツールを作成した様子もお見せします。 ぜひ最後までご覧ください！ なお弊社では、ChatGPTの社内活用について1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる GPTsの活用事例を10個紹介！ それでは早速、SNS上で話題になったGPTsの活用事例を10個紹介します！ 【業務効率化の事例】ChatGPT上でタス</description>
+    </item>
+    <item>
+      <title>本執筆にAI、2カ月半で完成　ワン・パブリッシング - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC23A090T20C23A8000000/</link>
+      <pubDate>2023/11/13 06:50</pubDate>
+      <description>2023年10月31日、Appleが「M3」チップを搭載したMacBook Proを発表しました。このうち14インチモデルの最小構成は8GBユニファイドメモリ搭載ですが、8GBはクリエイティブなプロにとって十分な量とは言えず、増量しようにも購入時に3円近く高いモデルを選ばなければなりません。「Pro」として販売するなら最低でも16GBからにしておくべきだったとの批判にさらされたAppleのマーケティング担当者がインタビューに答え、MacBook Proの8GBは、他のシステムの16GBと同等だとする説明を行いました。 Apple insists 8GB unified memory equals 16GB regular RAM https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equal</description>
+    </item>
+    <item>
+      <title>イラストを動かせるソフト「Live2D」をド素人が触ってみたら、死にかけたけど元気になった話</title>
+      <link>https://rocketnews24.com/2023/11/12/2089273/</link>
+      <pubDate>2023/11/12 19:59</pubDate>
+      <description>「OpenAI」の 「Assistant Playground」の「Code Interpreter」を試したので、まとめました。 前回 1. Code Interpreter「Code Interpreter」は、アシスタントがサンドボックス実行環境でPythonコードを作成および実行できるツールです。さまざまなデータと形式を含むファイルを処理し、データとグラフの画像を含むファイルを生成できます。 2. アシスタントの作成アシスタントの作成手順は、次のとおりです。 (1)  「Playground」を開き、左端の「Playgroundアイコン」とタイトル横の「Assistants」を選択し、「+Create」を押す。 (2) WebUIで以下のように設定して、SAVEボタンを押す。 ・Name : 数学の家庭教師ボット ・Instructions : あなたは数学の個人家庭教師です。数学</description>
+    </item>
+    <item>
+      <title>Don’t Build AI Products The Way Everyone Else Is Doing It</title>
+      <link>https://www.builder.io/blog/build-ai</link>
+      <pubDate>2023/11/11 14:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6d52fb62eff5160f8e00268c58ed215c3bc33de1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1546%2F294%2Fai1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Boosting RAG: Picking the Best Embedding &amp;amp; Reranker models</title>
+      <link>https://blog.llamaindex.ai/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83</link>
+      <pubDate>2023/11/06 09:46</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 全社を挙げてAIに注力するマイクロソフトは、Windows 11にAIアシスタントの「Copilot」を統合しましたが、リリースから8年が経過しサポート終了も近い Windows 10にもAI対応を拡大するかもしれません。 Windows関連の内部情報では定評ある Windows Centralは、関係者から独自に得た証言として、マイクロソフトがWindows 10にWindows 11と同じAIアシスタント「Copilot」を提供すると伝えています。 Copilotは今年6月よりWindows 11でプレビュー版を、そして9月にはWindows 11 23H2で正式に提供が開始されたAIチャットボット。OS</description>
+    </item>
   </channel>
 </rss>
