@@ -8179,5 +8179,50 @@
       <pubDate>2023/11/06 09:46</pubDate>
       <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 全社を挙げてAIに注力するマイクロソフトは、Windows 11にAIアシスタントの「Copilot」を統合しましたが、リリースから8年が経過しサポート終了も近い Windows 10にもAI対応を拡大するかもしれません。 Windows関連の内部情報では定評ある Windows Centralは、関係者から独自に得た証言として、マイクロソフトがWindows 10にWindows 11と同じAIアシスタント「Copilot」を提供すると伝えています。 Copilotは今年6月よりWindows 11でプレビュー版を、そして9月にはWindows 11 23H2で正式に提供が開始されたAIチャットボット。OS</description>
     </item>
+    <item>
+      <title>松尾豊が語る「和製AIが世界で勝つ」方法　カギを握る企業特化型LLM</title>
+      <link>https://www.itmedia.co.jp/business/articles/2311/13/news053.html</link>
+      <pubDate>2023/11/13 08:44</pubDate>
+      <description>LINEヤフーがソフトウェア開発に生成AIを採用し、作業時間を大幅に効率したと報じられた。7000人のエンジニア全員が利用できるようにし、作業時間を1日当たり2時間減らせるという。 実現するために導入したのがMicrosoftのツール「GitHub Copilot」だ。GitHub Copilotは、AIを活用してソースコード作成を自動化できる。関数の生成や文書の作成なども支援する。パナソニック コネクトでも、技術者50人を対象にGitHub Copilotを試験導入した。 一方で、生成AIの利用したコード生成には、著作権や倫理的な問題があるとの指摘もある。開発の現場を大きく変えつつあるGitHub Copilotについて解説した記事を集めた。</description>
+    </item>
+    <item>
+      <title>未知の遺跡　ＡＩで発見　</title>
+      <link>https://www.yomiuri.co.jp/local/nara/news/20231111-OYTNT50287/</link>
+      <pubDate>2023/11/12 20:46</pubDate>
+      <description>» イラストを動かせるソフト「Live2D」をド素人が触ってみたら、死にかけたけど元気になった話 特集 「Live2D」という言葉を聞いたことがあるだろうか？　イラストを滑らかに動かせるソフトで、ゲームやVTuberの立ち絵など様々なコンテンツで利用されている。 アプリゲームなどをプレイしているとロゴが表示されることもあるので、見たことがある方もいるのではないだろうか。 これまでいろんな作品でLive2Dに楽しませてもらってきたけど、イラストが表情豊かに動いているのを見ると「自分の絵もあんなふうに動いたらいいのに……」って思っちゃうんだよな～！ 思い立ったが吉日。さっそくLive2Dをインストールして挑戦してみることにした。 ・ハードモード下準備 せっかくなので、今回はVTuberのモデルを作ってみることに。 Live2Dはイラストを動かすためのソフトでイラストを描くことはできないため、ま</description>
+    </item>
+    <item>
+      <title>世界中でスマホが売れなくなった理由</title>
+      <link>https://agora-web.jp/archives/231110213531.html</link>
+      <pubDate>2023/11/12 17:21</pubDate>
+      <description>StableDiffusionとAnimationdiffとFreeUでハイクオリティな動画を作る方法。 前回の記事で、お褒め頂いた動画の生成方法と用いた技術や工夫を紹介させて頂きます。 前回お褒め頂いた動画なお技術は日々進歩しているのでStableDiffusionの拡張機能FreeUも今日現在version2に進化しており、同じデータセットとprompt、シード値で生成しても少し違う動画になってしまいました。 こちらが最新のversion2です表情や背景やイヤリングが変わってしまいました。でも問題ありません。FreerUは今日（2023年10月23日）現在version1と2の選択が可能です。 パラメーターはSD1.4の標準値ですFreeUをversion1に変更したところ、幸いなことに前回と同じ動画が生成できました。 高速化&amp;amp;省メモリ化のためにxformersを使用しているのですが、</description>
+    </item>
+    <item>
+      <title>GPTs非公式ディレクトリ</title>
+      <link>https://gptslist.jp/</link>
+      <pubDate>2023/11/12 02:50</pubDate>
+      <description>GPTsという機能がChatGPTに追加された。簡単にいうと特定の用途に特化した応答をChatGPTに教えて独立させられる機能だ（11/12時点では有料ユーザーのみ使える）。 それを使って作った、ご意見番AI。お題を与えられると、ネットっぽいコメントをくれる。 たとえば「日本のインボイス制度」と入力すると、以下のような返答が得られる。 まあ、日本のインボイス制度の話をしようか。これ、何ともリアリスティックで、経済的にも合理的な話なんだけど、あまりにも多くの人々がその本質を理解できていないんだよな。んで、この制度が導入されたのは、税金の逃れを防ぐため、つまり国の収入を確保するという至極まっとうな理由からだ。 でもね、こういうのに文句を言ってる人たちって、おそらく税金の重要性や経済の仕組みをちゃんと理解していないんだろうね。ちょっと考えればわかるけど、税金は国の運営に必須なわけで、これがうまく</description>
+    </item>
+    <item>
+      <title>ChatGPTがDDoS攻撃を受け一時アクセス不能に陥る</title>
+      <link>https://gigazine.net/news/20231110-openai-confirms-ddos-attacks-chatgpt/</link>
+      <pubDate>2023/11/10 18:04</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0097ca9eb2f56c29c0d027347001d04838c64993/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1545%2F854%2Fmain.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI Data Partnerships</title>
+      <link>https://openai.com/blog/data-partnerships</link>
+      <pubDate>2023/11/10 20:11</pubDate>
+      <description>はじめまして。損害保険ジャパン株式会社 DX推進部の眞方です。普段はリードエンジニアとして、新しいサービスのアーキテクチャ検討からローンチまでの作業や、新規技術を用いたアプリのプロトタイプ実装などを行なっています。 弊社では、LLM（Large Language Models）を活用したアプリケーションの開発を積極的に検討し、既に社内でいくつかのプロトタイプをローンチしています。 本記事では、その最も一般的？なユースケースの一つとも言えるRAG（Retrieval Augmented Generative）の構築において、ドキュメント検索精度の向上にどのように取り組んだ内容の概要を紹介させていただきます。実際の詳細な手法および結果については、別記事（実践編）で解説予定です。 はじめに RAGとは？ この記事を読まれている方の中にはご存知の方も多いでしょうが、RAGとはRetrieval A</description>
+    </item>
+    <item>
+      <title>OpenAI API の Assistant API のしくみ｜npaka</title>
+      <link>https://note.com/npaka/n/n9fa7204e4af4</link>
+      <pubDate>2023/11/08 15:12</pubDate>
+      <description>************************************************************* # 要約 ************************************************************* ・SHAP のアルゴリズムを説明 ・SHAPに近い手法「LIME」との比較及び考察も記載 ・SHAP 以外の手法で算出した Feature Importance との比較及び考察も記載 ・オープンソースのデータ及びコードを使ってハンズオン ┗テーブルデータ and 画像データに適用 ・SHAP 以外の画像説明モデル Grad-CAM, Guided Grad-CAM の紹介</description>
+    </item>
   </channel>
 </rss>
