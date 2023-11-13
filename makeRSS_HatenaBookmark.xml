@@ -8362,5 +8362,26 @@
       <pubDate>2023/11/13 07:49</pubDate>
       <description>ネット検索で「スマホ」を利用する人は9割以上、「パソコン」は4割弱まず「インターネットでの調べものをするときに使っているもの」を聞くと、「スマホ」94%が圧倒的1位で、2位「パソコン」38%、3位「タブレット（iPadなど）」16%に大きく差を付けた。スマホは全年代で1位で、パソコンは男性20代以上、タブレットは10代が他年代に比べて高かった。また少数だが「スマートスピーカー（Alexa／Google Homeなど）」3%という回答もあった。なお「インターネットで調べたり探したりしない」も1%ほど存在する。 スマホで調べものをすると回答した47,858人に「ふだん利用するサービス」を聞くと、2021年の前回調査からさらに増加を見せ「Google」79.5%が断トツ1位だった。特に60代の伸びが9ポイントと大きかったという。 2位「YouTube」48.2%が3位「Yahoo! JAPAN」</description>
     </item>
+    <item>
+      <title>大阪・関西万博会場建設費上振れは？生成AIへの規制は？ NHK世論調査 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231114/k10014256261000.html</link>
+      <pubDate>2023/11/14 05:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/53da9e7a665f77346255dd3a8cf7ab5818c7df3f/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1009%2F608%2Finfostand_top.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>クマ対策にも──害獣対策ロボット「雷鳥3号」、テムザックが開発</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/13/news130.html</link>
+      <pubDate>2023/11/13 16:00</pubDate>
+      <description>プログラミング言語「Python」には何種類かの開発環境があるが、代表的なものの1つが「Anaconda」だ。Anacondaの導入方法や使い方、管理方法などを解説する。 AI開発から子どものプログラミング教育まで、幅広く利用されているPython。需要も人気も、今最も高いプログラミング言語でしょう。 Pythonの開発環境は何種類かありますが、その代表が「Anaconda」（アナコンダ）です。本稿ではAnacondaの導入方法や使い方、管理方法などを解説します。 Anacondaには無料版と有料版があります。学術や趣味の用途の個人ユーザーなら無料版を使えます。本稿では無料版を解説します。 なお、本稿におけるAnacondaの構成や機能、画面構成などは本稿執筆時点（2023年8月末）のものとします。環境はWindows 10 64bitとします。Windows 11でも同様に使えます。 A</description>
+    </item>
+    <item>
+      <title>https://github.com/satoki/AVTOKYO2023/blob/main/AVTOKYO2023_ja.pdf</title>
+      <link>https://github.com/satoki/AVTOKYO2023/blob/main/AVTOKYO2023_ja.pdf</link>
+      <pubDate>2023/11/13 12:49</pubDate>
+      <description>Stability AI は商用利用可能な日本語画像言語モデル「Japanese Stable VLM」をリリースしました。 Japanese Stable VLM 「Japanese Stable VLM」は、「Japanese Stable LM Instruct Gamma 7B」をベースとした日本語画像言語モデル（Vision-Language Model、略してVLM)です。入力した画像に対して文字で説明を生成できる画像キャプショニング機能に加え、画像についてのユーザーの質問に回答することもできます。 研究目的に作られた最初のバージョン「Japanese InstructBLIP Alpha」とは、主に以下の2点の違いがあります。 商用利用可能* ライセンス 最新手法 LLaVA-1.5 のモデル構造・学習手法を適用 ベースとする言語モデルを「Japanese Stable LM</description>
+    </item>
   </channel>
 </rss>
