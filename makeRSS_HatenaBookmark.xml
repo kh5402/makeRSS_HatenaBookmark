@@ -8293,5 +8293,29 @@
       <pubDate>2023/11/10 19:05</pubDate>
       <description>代わりに画面左上の「ChatGPT 4」の部分をクリックすることで、「GPT-4」「GPT-3.5」「Plugins」を切り替えることができるようになっている。 なお、これまでは個別に選ぶ必要のあった「Browse with Bing」「Advanced Data Analysis」「DALL-E 3」は「GPT-4」を選ぶだけですべて利用できるようだ。ただし「Plugins」のみはこれまで通り選択の必要がある。 また、明記はされていないが2023年4月までの情報を持っていることを確認できたため、LLMも最新の「GPT-4 turbo」になっていると思われる。 「GPTs」も使えるぞ</description>
     </item>
+    <item>
+      <title>手のひらがディスプレイに。身に着けるAIアシスタント「Ai Pin」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1546475.html</link>
+      <pubDate>2023/11/13 14:44</pubDate>
+      <description>こんにちは、安部です。 11月なのに暑かったり寒かったしますが、皆様いかがお過ごしでしょうか。 さて、先日のOpenAI DevDay、大変な盛り上がりでしたね。 様々な新機能が公開され、GPT関連がさらなるパワーアップを遂げました。 DevDayは基本的に開発者向けのイベントですが、一般ユーザ向けの新機能も公開されました。 それがGPTsです。 今回は、GPTsが使えるようになったので試してみたいと思います。 GPTsとは GPTsとは、GPT Builderを使ってノーコードで簡単にChatGPTをカスタマイズできるサービスで、今のところ有料ユーザのみが使用できます。 ChatGPTは特定タスク向けのサービスではありませんが、精度の良い回答をもらおうと思ったらプロンプトを工夫したり事前情報をたくさん与えないといけなかったりしますよね？ GPTsは、あらかじめ特定の目的を持たせたChat</description>
+    </item>
+    <item>
+      <title>Stability AIは商用利用可能な日本語画像言語モデル「Japanese Stable VLM」をリリースしました。 — Stability AI Japan</title>
+      <link>https://ja.stability.ai/blog/japanese-stable-vlm</link>
+      <pubDate>2023/11/13 12:25</pubDate>
+      <description>ハリウッドの俳優や脚本家が「仕事を奪うようなAIの規制」を求めて実施したストライキは、ハリウッド俳優による史上最長のストライキとなったのち、2023年11月10日に終了しました。このストライキを通じ、アメリカテレビ・ラジオ芸術家連盟(SAG-AFTRA)はハリウッドの映画スタジオと10億ドル(約1500億円)規模の契約を結ぶことに成功しています。この契約の中には「死亡した俳優のAIコピー」に対する保護策もあるそうです。 SAG-AFTRA Approves Deal, Reveals Major Wins in AI Fight https://www.rollingstone.com/tv-movies/tv-movie-news/sag-aftra-studio-deal-artificial-intelligence-actors-1234873708/ The Screen Act</description>
+    </item>
+    <item>
+      <title>スマホでの調べもの「Googleでの検索」が圧倒的多数で1位。2位のちょっと意外なサービスは？【LINE調べ】 | Web担当者Forum</title>
+      <link>https://webtan.impress.co.jp/n/2023/11/10/45954</link>
+      <pubDate>2023/11/11 23:47</pubDate>
+      <description>OpenAIのAI技術を胸に装着する小型デバイスで操作する「Ai Pin」が注目されています。スタートアップでありながら野心的なAIデバイスを投入したシリコンバレーのメーカーHumaneに、筆者は1年ほど前から注目していたのでした。 全く新しいウェアラブルデバイス「Ai Pin」アメリカのHumaneという会社が開発したウェアラブルデバイス「Ai Pin」がついに正式発表されました。アメリカでは11月16日に発売です。「Ai Pin」という名前の通り、ピンバッジのように衣類の上に装着可能なカメラ付き小型デバイスで、いつでもどこでも簡単に音声入力による対話型AIのアシストが利用できるようになります。 本体にはキーボードやディスプレイが付いていません。このため基本操作は音声入力、デバイスへのタップ、ハンドジェスチャーで行います。出力が必要な時はレーザープロジェクターで手のひらに簡易なUIを照射</description>
+    </item>
+    <item>
+      <title>OpenAI の Assistant Playground の Retrieval を試す｜npaka</title>
+      <link>https://note.com/npaka/n/n1e4e8720b1ac</link>
+      <pubDate>2023/11/11 06:40</pubDate>
+      <description>⚠️この記事を読んで得られる情報は、プロンプトリーキングに対する具体的な対策手法のみです。よく知られているプロンプトリーキング手法は既知の情報として一部掲載しますが、詳細な手法については言及しません。完全な対策は不可能という前提で「仮にすべてインターネットに流していいという情報」のみを Instruction プロンプトに記入＆ファイルのアップロードをしてください。すぐ陳腐化する可能性があるので、適宜更新していきます。 ⚠️また、この記事の情報を知った上で、どなたかの GPTs の情報経由で取得した情報を公開したり、人の悲しむ目的に利用することを禁止します。いい人だけ読んでください。 プロンプトリーキングとは？ Learn Prompting に準拠します。 プロンプトハッキングは、ChatGPT のような大規模言語モデルに対して入力やプロンプトを操作することによって攻撃する手法です。プロ</description>
+    </item>
   </channel>
 </rss>
