@@ -8317,5 +8317,20 @@
       <pubDate>2023/11/11 06:40</pubDate>
       <description>⚠️この記事を読んで得られる情報は、プロンプトリーキングに対する具体的な対策手法のみです。よく知られているプロンプトリーキング手法は既知の情報として一部掲載しますが、詳細な手法については言及しません。完全な対策は不可能という前提で「仮にすべてインターネットに流していいという情報」のみを Instruction プロンプトに記入＆ファイルのアップロードをしてください。すぐ陳腐化する可能性があるので、適宜更新していきます。 ⚠️また、この記事の情報を知った上で、どなたかの GPTs の情報経由で取得した情報を公開したり、人の悲しむ目的に利用することを禁止します。いい人だけ読んでください。 プロンプトリーキングとは？ Learn Prompting に準拠します。 プロンプトハッキングは、ChatGPT のような大規模言語モデルに対して入力やプロンプトを操作することによって攻撃する手法です。プロ</description>
     </item>
+    <item>
+      <title>Python開発の定番ツール、「Anaconda」を使うと何がうれしいのか</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02615/102300001/</link>
+      <pubDate>2023/11/13 09:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/da083c7d4e4ba967fb973c16813f02987569abd5/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1546%2F475%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ＡＩガイドライン、「人間中心」など１０原則を年内決定方針…公的機関含め全利用者が対象（読売新聞オンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/9480e7887b41e59165362e9fc6ba7eac40eaf631</link>
+      <pubDate>2023/11/08 09:34</pubDate>
+      <description>UPDATE: The pooling method for the Jina AI embeddings has been adjusted to use mean pooling, and the results have been updated accordingly. Notably, the JinaAI-v2-base-en with bge-reranker-largenow exhibits a Hit Rate of 0.938202 and an MRR (Mean Reciprocal Rank) of 0.868539 and withCohereRerank exhibits a Hit Rate of 0.932584, and an MRR of 0.873689. When building a Retrieval Augmented Generation</description>
+    </item>
   </channel>
 </rss>
