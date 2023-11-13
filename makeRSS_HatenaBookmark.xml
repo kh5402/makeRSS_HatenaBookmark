@@ -8332,5 +8332,11 @@
       <pubDate>2023/11/08 09:34</pubDate>
       <description>UPDATE: The pooling method for the Jina AI embeddings has been adjusted to use mean pooling, and the results have been updated accordingly. Notably, the JinaAI-v2-base-en with bge-reranker-largenow exhibits a Hit Rate of 0.938202 and an MRR (Mean Reciprocal Rank) of 0.868539 and withCohereRerank exhibits a Hit Rate of 0.932584, and an MRR of 0.873689. When building a Retrieval Augmented Generation</description>
     </item>
+    <item>
+      <title>ユーザープロンプトをLLMが言い換えて、LLM自身が理解しやすくする手法『RaR』 | AIDB</title>
+      <link>https://aiboom.net/archives/51160</link>
+      <pubDate>2023/11/13 17:08</pubDate>
+      <description>ロボット開発を手掛けるテムザック（京都市上京区）は11月13日、害獣対策ロボット「雷鳥3号」を宮崎県延岡市内の水田に設置し、稼働を始めたと発表した。話題になった野生のクマ対策にも応用できる可能性があるという。 農業において大きな問題となっているイノシシなどの害獣対策として開発した。夜間に畑や水田に侵入した害獣をセンサーで検知し、自動的に対象に向けて高圧放水を行う。夜間の見回りや遠隔監視など人手をかけた対策を行う必要がない。 稲作へのロボット活用を研究している同社「アグリ研究所」の水田で、収穫直前の稲がイノシシ被害を受けたため急きょ開発した。テムザックは「昨今、大きな問題となっている熊などの動物を追い払うことにも応用できる可能性がある」としている。 テムザックは2000年設立のロボットメーカー。災害現場で活躍する全長5.4mの「T-54援竜」、歯科学生の臨床実習などに使える患者シミュレーター</description>
+    </item>
   </channel>
 </rss>
