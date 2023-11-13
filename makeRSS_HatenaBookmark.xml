@@ -8275,5 +8275,11 @@
       <pubDate>2023/11/13 08:01</pubDate>
       <description>画像生成AI界隈で「Latent Consistency Models（LCM）」が話題だ。処理が軽快かつ爆速になり、リアルタイム生成まで可能になる。 【もっと写真を見る】 このところ画像生成AI界隈で話題になっているのが、「Latent Consistency Models（レイテント・コンシステンシー・モデル」（以下「LCM」）。10月6日に中国精華大学のシミアン・ルオさんが中心となって発表された論文で、日本語にすると「拡散的一貫性モデル」。新しいタイプの効率性の高い生成モデルを使い、Stable Diffusion＝安定拡散モデルより高速に画像を生成。結果としてビデオメモリーの少ないローレベルのPCでも画像生成AIを動かせるようにしようというものです。 0.5秒で4枚出力。Stable Diffusionの5倍 Stable Diffusionの拡散モデルは、ランダムなノイズ情報から</description>
     </item>
+    <item>
+      <title>簡単にオリジナルChatGPTアプリが作れる『GPTs』で、ドット絵生成チャットを作成 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/11/13/151645</link>
+      <pubDate>2023/11/13 15:36</pubDate>
+      <description>Stability AI は商用利用可能な日本語画像言語モデル「Japanese Stable VLM」をリリースしました。 Japanese Stable VLM 「Japanese Stable VLM」は、「Japanese Stable LM Instruct Gamma 7B」をベースとした日本語画像言語モデル（Vision-Language Model、略してVLM)です。入力した画像に対して文字で説明を生成できる画像キャプショニング機能に加え、画像についてのユーザーの質問に回答することもできます。 研究目的に作られた最初のバージョン「Japanese InstructBLIP Alpha」とは、主に以下の2点の違いがあります。 商用利用可能* ライセンス 最新手法 LLaVA-1.5 のモデル構造・学習手法を適用 ベースとする言語モデルを「Japanese Stable LM</description>
+    </item>
   </channel>
 </rss>
