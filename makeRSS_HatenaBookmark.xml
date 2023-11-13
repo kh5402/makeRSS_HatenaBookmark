@@ -8281,5 +8281,17 @@
       <pubDate>2023/11/13 15:36</pubDate>
       <description>Stability AI は商用利用可能な日本語画像言語モデル「Japanese Stable VLM」をリリースしました。 Japanese Stable VLM 「Japanese Stable VLM」は、「Japanese Stable LM Instruct Gamma 7B」をベースとした日本語画像言語モデル（Vision-Language Model、略してVLM)です。入力した画像に対して文字で説明を生成できる画像キャプショニング機能に加え、画像についてのユーザーの質問に回答することもできます。 研究目的に作られた最初のバージョン「Japanese InstructBLIP Alpha」とは、主に以下の2点の違いがあります。 商用利用可能* ライセンス 最新手法 LLaVA-1.5 のモデル構造・学習手法を適用 ベースとする言語モデルを「Japanese Stable LM</description>
     </item>
+    <item>
+      <title>死亡した俳優をAIで復元して映画などに出演させるには生きている間に同意を得る必要がある</title>
+      <link>https://gigazine.net/news/20231113-sag-aftra-reveals-ai-protection/</link>
+      <pubDate>2023/11/13 13:20</pubDate>
+      <description>トップ10ランキングの9位にはChatGPTがランクイン、検索するのは「仕事/勉強に関すること」。 LINEが運営するLINEリサーチは、「スマホで調べものをするときの検索行動」に関する調査結果を発表した。日本全国の13～79歳男女が回答している（有効回収数645,736サンプルから49,839サンプルを任意に抽出）。前回調査は2021年8月。 関連記事 Google検索に生成AIを導入　文脈で探索できる「SGE」 Google検索アルゴリズム9年の変遷から読み解くSEO今後の方向性 ネット検索で「スマホ」を利用する人は9割以上、「パソコン」は4割弱 まず「インターネットでの調べものをするときに使っているもの」を聞くと、「スマホ」94%が圧倒的1位で、2位「パソコン」38%、3位「タブレット（iPadなど）」16%に大きく差を付けた。スマホは全年代で1位で、パソコンは男性20代以上、タブレ</description>
+    </item>
+    <item>
+      <title>AGI（汎用人工知能）の原則6箇条とレベル5段階 | AIDB</title>
+      <link>https://aiboom.net/archives/58565</link>
+      <pubDate>2023/11/10 19:05</pubDate>
+      <description>代わりに画面左上の「ChatGPT 4」の部分をクリックすることで、「GPT-4」「GPT-3.5」「Plugins」を切り替えることができるようになっている。 なお、これまでは個別に選ぶ必要のあった「Browse with Bing」「Advanced Data Analysis」「DALL-E 3」は「GPT-4」を選ぶだけですべて利用できるようだ。ただし「Plugins」のみはこれまで通り選択の必要がある。 また、明記はされていないが2023年4月までの情報を持っていることを確認できたため、LLMも最新の「GPT-4 turbo」になっていると思われる。 「GPTs」も使えるぞ</description>
+    </item>
   </channel>
 </rss>
