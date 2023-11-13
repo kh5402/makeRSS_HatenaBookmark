@@ -8224,5 +8224,44 @@
       <pubDate>2023/11/08 15:12</pubDate>
       <description>************************************************************* # 要約 ************************************************************* ・SHAP のアルゴリズムを説明 ・SHAPに近い手法「LIME」との比較及び考察も記載 ・SHAP 以外の手法で算出した Feature Importance との比較及び考察も記載 ・オープンソースのデータ及びコードを使ってハンズオン ┗テーブルデータ and 画像データに適用 ・SHAP 以外の画像説明モデル Grad-CAM, Guided Grad-CAM の紹介</description>
     </item>
+    <item>
+      <title>OpenAIのJSON Modeでテキストを一定のフォーマットに整形してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/openai-jsonmode-seikei/</link>
+      <pubDate>2023/11/11 19:03</pubDate>
+      <description>日々進化を続ける、ChatGPTに代表される生成AI。米国は数兆円規模で開発予算を投入していて、他国の追随を許さない状況が続いている。日本国内でもNECやソフトバンク、NTTグループなどの多くの企業が生成AIの開発に参入した。 民間企業の参入が相次ぐ中、大学で生成AIの研究と研究者の育成を最前線で進めているのが、東京大学大学院工学系研究科の松尾豊研究室だ。人工知能の研究・開発を長年続けていて、8月には岸田文雄総理も研究室も訪れた。松尾豊教授は、国の「AI戦略会議」の座長も務める。 同じく松尾教授が理事長を務めるのが、日本ディープラーニング協会（JDLA）だ。JDLAは、生成AI利用の企業向けガイドラインを策定していたり、G検定やE資格といったAIに関する資格試験を実施したりしている。 前編【松尾豊東大教授が明かす　日本企業が「ChatGPTでDX」すべき理由】では生成AIの現状と活用可能性</description>
+    </item>
+    <item>
+      <title>生成AIによるソースコードの自動作成--「GitHub Copilot」の利点と課題</title>
+      <link>https://japan.zdnet.com/article/35211326/</link>
+      <pubDate>2023/11/13 08:06</pubDate>
+      <description>画像生成AI界隈で「Latent Consistency Models（LCM）」が話題だ。処理が軽快かつ爆速になり、リアルタイム生成まで可能になる。 【もっと写真を見る】 このところ画像生成AI界隈で話題になっているのが、「Latent Consistency Models（レイテント・コンシステンシー・モデル」（以下「LCM」）。10月6日に中国精華大学のシミアン・ルオさんが中心となって発表された論文で、日本語にすると「拡散的一貫性モデル」。新しいタイプの効率性の高い生成モデルを使い、Stable Diffusion＝安定拡散モデルより高速に画像を生成。結果としてビデオメモリーの少ないローレベルのPCでも画像生成AIを動かせるようにしようというものです。 0.5秒で4枚出力。Stable Diffusionの5倍 Stable Diffusionの拡散モデルは、ランダムなノイズ情報から</description>
+    </item>
+    <item>
+      <title>爆速化する画像生成AI。0.5秒で4枚出力、リアルタイム生成できるレベルに (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/168/4168599/</link>
+      <pubDate>2023/11/13 08:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2255ccc7a199215d74455d50ac569a56e2710fec/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1546%2F335%2Fm00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>StableDiffusionとAnimationdiffとFreeUでハイクオリティな動画を作る方法。｜機械学習勉強中</title>
+      <link>https://note.com/brainy_murre56/n/n97ad4cb08a68</link>
+      <pubDate>2023/11/12 11:40</pubDate>
+      <description>「OpenAI」の 「Assistant Playground」の「Code Interpreter」を試したので、まとめました。 前回 1. Code Interpreter「Code Interpreter」は、アシスタントがサンドボックス実行環境でPythonコードを作成および実行できるツールです。さまざまなデータと形式を含むファイルを処理し、データとグラフの画像を含むファイルを生成できます。 2. アシスタントの作成アシスタントの作成手順は、次のとおりです。 (1)  「Playground」を開き、左端の「Playgroundアイコン」とタイトル横の「Assistants」を選択し、「+Create」を押す。 (2) WebUIで以下のように設定して、SAVEボタンを押す。 ・Name : 数学の家庭教師ボット ・Instructions : あなたは数学の個人家庭教師です。数学</description>
+    </item>
+    <item>
+      <title>1行から始めるプロンプトインジェクション対策</title>
+      <link>https://zenn.dev/karaage0703/articles/b55d3e4282325e</link>
+      <pubDate>2023/11/12 14:08</pubDate>
+      <description>ChatGPTのDALL·E 3による画像生成は非常に強力だ。 だがプロンプトエンジニアリングを駆使すれば、さらに限界を超えた表現が可能となる。 ブックマーク保存をおすすめします。 インフルエンサーたちが隠した技術 11月7日にOpenAI DevDayが開催されてからというもの、生成AI系インフルエンサーたちが大騒ぎしている。発表された機能やAPIの数々を見れば、そうなるのも無理はない。俺のような一般ユーザーでさえ、できることが一気に増えたのだから。 例えば自分だけのChatGPTを簡単に作成・共有できるGPTsだ。俺もさっそく触り、本しゃぶりの知識を全部突っ込んだAishabriを作ってみた*1。 chat.openai.com だが、インフルエンサーは新たに登場した機能ばかり口にし、その影で失われつつある技術については語ろうとしない。だから俺が代わりに語ろう。禁断の技「授乳ハック」に</description>
+    </item>
+    <item>
+      <title>「hello world!」──ChatGPTの公式X（Twitter）アカウント登場</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/10/news150.html</link>
+      <pubDate>2023/11/10 15:52</pubDate>
+      <description>関口宏（80）が司会を務めるTBS系「サンデーモーニング」（日曜午前8時）は12日、5日の放送でイスラム組織ハマス幹部をめぐるインターネット上の画像を「生成AIでつくられたフェイク画像」と放送しながら、その後誤りと認めたことについてあらためて訂正し、謝罪した。 関口は謝罪の言葉は口にしなかったが「気を引き締めてこれからもやっていきたい」と述べた。 番組の最後に、問題とされた一連の画像の問題について、水野真裕美アナウンサーが言及。「生成AIでつくられたフェイク画像とお伝えしましたが、これらの画像は2014年以前から海外のネットニュースに出回っていた可能性が高いことが分かりました」と説明。「2014年以前ですと、生成AIと使った画像ではないものと考えられます。生成AIによる画像とお伝えしたのは誤りでした」と説明した。 これらとは別に「生成AIによる画像」と伝えたものについても「現段階では断定で</description>
+    </item>
   </channel>
 </rss>
