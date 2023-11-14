@@ -8383,5 +8383,44 @@
       <pubDate>2023/11/13 12:49</pubDate>
       <description>Stability AI は商用利用可能な日本語画像言語モデル「Japanese Stable VLM」をリリースしました。 Japanese Stable VLM 「Japanese Stable VLM」は、「Japanese Stable LM Instruct Gamma 7B」をベースとした日本語画像言語モデル（Vision-Language Model、略してVLM)です。入力した画像に対して文字で説明を生成できる画像キャプショニング機能に加え、画像についてのユーザーの質問に回答することもできます。 研究目的に作られた最初のバージョン「Japanese InstructBLIP Alpha」とは、主に以下の2点の違いがあります。 商用利用可能* ライセンス 最新手法 LLaVA-1.5 のモデル構造・学習手法を適用 ベースとする言語モデルを「Japanese Stable LM</description>
     </item>
+    <item>
+      <title>無料デザインツールの新鋭「Adobe Express」は試す価値あり！ 生成AIの可能性は「Firefly Design Model」でさらに広がるか／AIが編集可能なデザインテンプレートを生成する新機能を試してみた【特集・集中企画】</title>
+      <link>https://forest.watch.impress.co.jp/docs/special/1546033.html</link>
+      <pubDate>2023/11/14 09:16</pubDate>
+      <description>「どうすればAIをWebデザインに活用できるだろう」 人工知能AIがこれだけ話題になったいま、Webやグラフィックデザイン、イラストやゲームなどクリエイティブな業務をこなす人なら、一度は考えたことがあるかもしれません。 答えのひとつはずばり、Midjourneyなどの画像生成AIでイメージを具現化すること。 しかし、そうは言っても入力できるプロンプトは無限にあり、実際にどのように入力すれば最高の結果を得ることができるのか、すべて調べるのはあまりにも大変です。 そこでこの記事では、Midjourneyを１年間使い続けて見つけた、Webデザインに使えるMidjourneyプロンプト、小技テクニックをまとめてご紹介します。 具体的なサンプル例とプロンプトを一緒に記載しており、コピペでそのまま利用できます。 「Midjourneyって何？」というひとは、基本の使い方をまとめた以下のガイドを参考にど</description>
+    </item>
+    <item>
+      <title>米Microsoft、生成AI開発のための初心者向け講座を公開　チャットbotや画像生成アプリ構築など</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/14/news046.html</link>
+      <pubDate>2023/11/14 09:05</pubDate>
+      <description>The new Assistants API is a stateful evolution of our Chat Completions API meant to simplify the creation of assistant-like experiences, and enable developer access to powerful tools like Code Interpreter and Retrieval. Chat Completions API vs Assistants API The primitives of the Chat Completions API are Messages, on which you perform a Completion with a Model (gpt-3.5-turbo, gpt-4, etc). It is li</description>
+    </item>
+    <item>
+      <title>Amazon Connect + Whisper + GPT-4 Turboで、発話から個人情報（名前、住所、生年月日）を正しく認識できるか試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-connect-whisper-gpt-turbo/</link>
+      <pubDate>2023/11/14 07:07</pubDate>
+      <description>再来年の大阪・関西万博の会場建設費が、資材価格の高騰などで最大2350億円に上振れする見通しとなったことについて、国民の負担が増えることに納得できるかどうか、NHKの世論調査で尋ねたところ、納得できるが15％、納得できないが77％でした。</description>
+    </item>
+    <item>
+      <title>NTT、元Google研究者が設立のサカナAIと提携 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC135KP0T11C23A1000000/</link>
+      <pubDate>2023/11/13 18:56</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/53da9e7a665f77346255dd3a8cf7ab5818c7df3f/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1009%2F608%2Finfostand_top.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>イラレのAIが実用的すぎ！ 商用可能なベクター画像を生成できる「Adobe Firefly Vector Model」をさっそく試してみた／箱やマグカップに一瞬ではめ込み合成できる「モックアップ」もすごい!!【特集・集中企画】</title>
+      <link>https://forest.watch.impress.co.jp/docs/special/1545599.html</link>
+      <pubDate>2023/11/13 13:22</pubDate>
+      <description>OpenAIが次世代の「GPT-4 Turbo」やカスタムできる「GPTs」を発表／イーロン・マスクが対話型AI「Grok」：週末の「気になるニュース」一気読み！（1/3 ページ） うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、11月5日週を中心に公開された主なニュースを一気にチェックしましょう！</description>
+    </item>
+    <item>
+      <title>地下の光ファイバーに伝わる振動から路面状態を推定し除雪の必要性を判断、NTT、NECらが世界初　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1546076.html</link>
+      <pubDate>2023/11/13 08:57</pubDate>
+      <description>裏方🀐 @urct ニトロプラス〘咲うアルスノトリア〙⭐️〘MuseDash〙⭐️HoloEN〘古石ビジュー〙PV など🖋 📓skeb.jp/urct 🕊FANBOX:end.fanbox.cc DO NOT REPOST/USE 転載使用禁止 FA/感想 #urcarta txt @ravensoven end.ooo</description>
+    </item>
   </channel>
 </rss>
