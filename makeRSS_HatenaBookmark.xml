@@ -8578,5 +8578,17 @@
       <pubDate>2023/11/11 09:12</pubDate>
       <description>ハリウッドの俳優や脚本家が「仕事を奪うようなAIの規制」を求めて実施したストライキは、ハリウッド俳優による史上最長のストライキとなったのち、2023年11月10日に終了しました。このストライキを通じ、アメリカテレビ・ラジオ芸術家連盟(SAG-AFTRA)はハリウッドの映画スタジオと10億ドル(約1500億円)規模の契約を結ぶことに成功しています。この契約の中には「死亡した俳優のAIコピー」に対する保護策もあるそうです。 SAG-AFTRA Approves Deal, Reveals Major Wins in AI Fight https://www.rollingstone.com/tv-movies/tv-movie-news/sag-aftra-studio-deal-artificial-intelligence-actors-1234873708/ The Screen Act</description>
     </item>
+    <item>
+      <title>Rust vs. Go: Implementing a REST API in SQLite</title>
+      <link>https://zenn.dev/dannya/articles/1f80608beaa8c2</link>
+      <pubDate>2023/11/14 13:38</pubDate>
+      <description>はじめに GPTsのCustom Actions（カスタムアクション）をつかって、外部のAPIを呼び出して、データを取得することができるようになりました。 たとえば、郵便番号検索APIを呼び出して、ユーザーから入力された住所から、郵便番号を回答するGPTを作ることができます。 詳細についてはこちら。 この記事では、Custom Actionsから呼び出されるAPIを、Google Apps Scriptを使って無料で作る方法について説明します。 この記事の対象者 GPTsのCustom ActionsのAPIを自作したい方 Google Apps Scriptで簡単なスクリプトを作ったことがある方 Zapierの連携よりも複雑な処理を求めている方 APIの概要 シーケンス図で表現しました。 &amp;quot;Google Apps Script&amp;quot;にあたるところが、今回作成するAPIになります。 処理として</description>
+    </item>
+    <item>
+      <title>検索のランキング処理を改善するポイント（『機械学習による検索ランキング改善ガイド』を執筆しました）</title>
+      <link>https://techblog.lycorp.co.jp/ja/20231113a</link>
+      <pubDate>2023/11/14 12:08</pubDate>
+      <description>近年は画像生成AIの性能や使い勝手が向上したことで、多くの人々が簡単にAIで好きな画像を生成できるようになりましたが、それに伴って「実在する人物の同意を得ていないAI生成画像」の作成や共有が問題となっています。そんな中、AI生成画像の投稿・共有プラットフォームであるCivitaiで、「実在する人物の画像を生成するAIモデルの作成者に『報奨金』を支払うシステム」が導入され、有名人だけでなく一般人もターゲットにされているとテクノロジー系メディアの404 Mediaが報じました。 Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-r</description>
+    </item>
   </channel>
 </rss>
