@@ -8590,5 +8590,23 @@
       <pubDate>2023/11/14 12:08</pubDate>
       <description>近年は画像生成AIの性能や使い勝手が向上したことで、多くの人々が簡単にAIで好きな画像を生成できるようになりましたが、それに伴って「実在する人物の同意を得ていないAI生成画像」の作成や共有が問題となっています。そんな中、AI生成画像の投稿・共有プラットフォームであるCivitaiで、「実在する人物の画像を生成するAIモデルの作成者に『報奨金』を支払うシステム」が導入され、有名人だけでなく一般人もターゲットにされているとテクノロジー系メディアの404 Mediaが報じました。 Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-r</description>
     </item>
+    <item>
+      <title>OpenAIのリリースから考える、2024年に起こるであろう三つのこと - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報</title>
+      <link>https://thebridge.jp/2023/11/what-openais-wave-of-releases-says-about-2024-the-ai-beat</link>
+      <pubDate>2023/11/15 01:25</pubDate>
+      <description>登壇者の自己紹介とアジェンダの紹介 sugasuga氏：こんにちは。今日は、ピクシブの機械学習基盤に関する発表をいたします。 まずは自己紹介から始めさせてください。自分は、機械学習チームでエンジニアをしているsugasugaといいます。サブで採用・広報活動にも関わっています。最近の趣味は、トレーニングです。 今日お話しすることは、（スライドを示して）こちらを予定しています。機械学習基盤について。そして、基盤で使われている技術について。運用してみて感じたメリットとデメリットについてお話しします。 大規模なデータの効率的な処理、機械学習サービスの展開のしやすさ、効率的な開発などに課題があった 本題に移る前に、導入として、どういったところで機械学習が活用されていて、なぜ機械学習基盤が必要かについてお話しします。 活用されている場面としては、違反検知、レコメンド、広告、3Dなど多岐にわたります。こ</description>
+    </item>
+    <item>
+      <title>「岸田首相フェイク動画」にみる、生成AIとフェイクニュースの関係　加速する誤情報にどう対処すべきか</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/14/news144.html</link>
+      <pubDate>2023/11/14 17:03</pubDate>
+      <description>楽天グループは11月14日、米OpenAIと協業し、新AIプラットフォーム「Rakuten AI for Business」を提供すると発表した。AIを使ってさまざまな企業活動を支援する。2024年以降に提供を始める予定。 同プラットフォームでは、営業やマーケティング、カスタマーサポート、オペレーション、戦略策定、システム開発などの企業活動をサポート。具体的な機能として、データ分析やチャート作成などの分析業務ができる「Rakuten AI Analyst」や、消費者へのサービス提供を手助けする「Rakuten AI Agent」、企業の資料を分析して顧客からの質問に回答できる「Rakuten AI Librarian」などを提供する。 楽天は同プラットフォームについて「スマートフォンやタブレットなどのあらゆる端末から、いつでもどこからでもアクセスできる、利便性の高いインタフェースを提供する</description>
+    </item>
+    <item>
+      <title>「パッチチューズデー」が20周年 ～WindowsなどMicrosoft製品の月例セキュリティ更新／現在ではMicrosoft以外のドライバーも配信、機械学習を活用した不具合の早期検出も【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1546372.html</link>
+      <pubDate>2023/11/13 18:12</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。第20回目は、Stable Diffusion微調整モデルなどを高速化するツール「LCM-LoRA」、画像理解を得意とするオープンソース視覚言語モデル「CogVLM」をはじめとする、生成AI最新論文の概要5つをお届けします。 生成AI論文ピックアップStable Diffusion微調整モデルなどを高速化するツール「LCM-LoRA」　Hugging Faceらが開発 画像理解を得意とするオープンソース視覚言語モデル「CogVLM」 テキスト内容と画像内の物体とを細かく関連付けて対話できるモデル「GLaMM」　Googleらが開発発 大規模言語モデルを低コストで効率よ</description>
+    </item>
   </channel>
 </rss>
