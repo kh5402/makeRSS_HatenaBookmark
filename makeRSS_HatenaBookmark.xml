@@ -8422,5 +8422,11 @@
       <pubDate>2023/11/13 08:57</pubDate>
       <description>裏方🀐 @urct ニトロプラス〘咲うアルスノトリア〙⭐️〘MuseDash〙⭐️HoloEN〘古石ビジュー〙PV など🖋 📓skeb.jp/urct 🕊FANBOX:end.fanbox.cc DO NOT REPOST/USE 転載使用禁止 FA/感想 #urcarta txt @ravensoven end.ooo</description>
     </item>
+    <item>
+      <title>さくらインターネット、GPT-4を利用して記事を自動生成できる「ユーザーローカルAIライター」提供開始　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1546527.html</link>
+      <pubDate>2023/11/14 09:47</pubDate>
+      <description>こんにちは。エンタープライズソリューショングループの石川です。大企業連携システムの基盤の開発や運用を担当していて、日々発生するエラーの監視や調査も行っています。今回は手間と時間がかかりがちだったエラー調査を、ChatGPTを使って改善した話をします。 エラー調査の背景 カタログサイトの概要とエラー発生時の影響 注文受付が影響を受ける理由とエラーの具体例 エラー発生時の調査手順 1. 注文受付へのリクエストがないか確認 2. 購買システムに注文情報を再送信する仕組みがあるか確認 3. 再送信の仕組みがない購買システムの場合は、社内の担当グループに対応依頼 MonoChatに聞きながらGASアプリケーションを作成 実現したかったこと 改善のためのアプリケーションを作成 改善の費用対効果 振り返り エラー調査の背景 カタログサイトの概要とエラー発生時の影響 大企業連携は、各企業様が持つ購買システ</description>
+    </item>
   </channel>
 </rss>
