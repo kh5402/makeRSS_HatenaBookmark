@@ -8554,5 +8554,11 @@
       <pubDate>2023/11/13 13:52</pubDate>
       <description>11月12日に開催された「FlutterFlow Tokyo Summit」にて登壇した「生成AI×ノーコード (スピーディーなアプリ開発の新時代)」の登壇資料です</description>
     </item>
+    <item>
+      <title>Google Apps ScriptでGPTsのCustom ActionsのAPIを作ってみた - Qiita</title>
+      <link>https://qiita.com/iconss/items/3db0761bb4cfe1422a6e</link>
+      <pubDate>2023/11/13 13:05</pubDate>
+      <description>近年は画像生成AIの性能や使い勝手が向上したことで、多くの人々が簡単にAIで好きな画像を生成できるようになりましたが、それに伴って「実在する人物の同意を得ていないAI生成画像」の作成や共有が問題となっています。そんな中、AI生成画像の投稿・共有プラットフォームであるCivitaiで、「実在する人物の画像を生成するAIモデルの作成者に『報奨金』を支払うシステム」が導入され、有名人だけでなく一般人もターゲットにされているとテクノロジー系メディアの404 Mediaが報じました。 Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-r</description>
+    </item>
   </channel>
 </rss>
