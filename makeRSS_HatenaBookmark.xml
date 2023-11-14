@@ -8560,5 +8560,23 @@
       <pubDate>2023/11/13 13:05</pubDate>
       <description>近年は画像生成AIの性能や使い勝手が向上したことで、多くの人々が簡単にAIで好きな画像を生成できるようになりましたが、それに伴って「実在する人物の同意を得ていないAI生成画像」の作成や共有が問題となっています。そんな中、AI生成画像の投稿・共有プラットフォームであるCivitaiで、「実在する人物の画像を生成するAIモデルの作成者に『報奨金』を支払うシステム」が導入され、有名人だけでなく一般人もターゲットにされているとテクノロジー系メディアの404 Mediaが報じました。 Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-r</description>
     </item>
+    <item>
+      <title>ピクシブ社エンジニアが語る、機械学習基盤とその技術　「GCPバッチ基盤」「リアルタイムの推論基盤」「ノートブック開発環境」整備の裏側</title>
+      <link>https://logmi.jp/tech/articles/329646</link>
+      <pubDate>2023/11/14 12:51</pubDate>
+      <description>楽天グループは11月14日、米OpenAIと協業し、新AIプラットフォーム「Rakuten AI for Business」を提供すると発表した。AIを使ってさまざまな企業活動を支援する。2024年以降に提供を始める予定。 同プラットフォームでは、営業やマーケティング、カスタマーサポート、オペレーション、戦略策定、システム開発などの企業活動をサポート。具体的な機能として、データ分析やチャート作成などの分析業務ができる「Rakuten AI Analyst」や、消費者へのサービス提供を手助けする「Rakuten AI Agent」、企業の資料を分析して顧客からの質問に回答できる「Rakuten AI Librarian」などを提供する。 楽天は同プラットフォームについて「スマートフォンやタブレットなどのあらゆる端末から、いつでもどこからでもアクセスできる、利便性の高いインタフェースを提供する</description>
+    </item>
+    <item>
+      <title>GPTsでNotion APIを叩くようにしてみたらやばかった</title>
+      <link>https://zenn.dev/yutakobayashi/articles/gpts-notion-api</link>
+      <pubDate>2023/11/14 18:50</pubDate>
+      <description>Backend の開発言語選定について、現職では Go を推す声が強い。 なぜなら、現状の技術選定に、規律がないからだ。Java、Python、Ruby、PHP、Node.js、Go、Kotlin and more. Web 業界では、Go が popular になっているし、現職の 2B・2C 向けサービスも Go を多く使っている。 僕個人として、Go を選択することに異論はない。 一方で、次を見据えて考えておく必要もある。 何が言いたいかというと、より最高な選択肢は何かを常に考えていきたい。思考停止は退化。 Rust について、 tutorial gRPC Rust + Wasm + Cloudflare Workers REST と続けてきて、syntax は身について来た。 より実践的な課題を解けるように実践を重ねていく。そして、AtCoder の algorithm 問題につい</description>
+    </item>
+    <item>
+      <title>Cloud Next &amp;#39;23 から考える LLMOps</title>
+      <link>https://speakerdeck.com/asei/cloud-next-23-karakao-eru-llmops</link>
+      <pubDate>2023/11/11 09:12</pubDate>
+      <description>ハリウッドの俳優や脚本家が「仕事を奪うようなAIの規制」を求めて実施したストライキは、ハリウッド俳優による史上最長のストライキとなったのち、2023年11月10日に終了しました。このストライキを通じ、アメリカテレビ・ラジオ芸術家連盟(SAG-AFTRA)はハリウッドの映画スタジオと10億ドル(約1500億円)規模の契約を結ぶことに成功しています。この契約の中には「死亡した俳優のAIコピー」に対する保護策もあるそうです。 SAG-AFTRA Approves Deal, Reveals Major Wins in AI Fight https://www.rollingstone.com/tv-movies/tv-movie-news/sag-aftra-studio-deal-artificial-intelligence-actors-1234873708/ The Screen Act</description>
+    </item>
   </channel>
 </rss>
