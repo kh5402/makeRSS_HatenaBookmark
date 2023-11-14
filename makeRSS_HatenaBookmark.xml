@@ -8533,5 +8533,26 @@
       <pubDate>2023/11/14 18:06</pubDate>
       <description>近年は画像生成AIの性能や使い勝手が向上したことで、多くの人々が簡単にAIで好きな画像を生成できるようになりましたが、それに伴って「実在する人物の同意を得ていないAI生成画像」の作成や共有が問題となっています。そんな中、AI生成画像の投稿・共有プラットフォームであるCivitaiで、「実在する人物の画像を生成するAIモデルの作成者に『報奨金』を支払うシステム」が導入され、有名人だけでなく一般人もターゲットにされているとテクノロジー系メディアの404 Mediaが報じました。 Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-r</description>
     </item>
+    <item>
+      <title>特に個人開発者向け！CodeRabbit(自動レビューツール)を使えばコードの健康まで得られることに気づいた話</title>
+      <link>https://zenn.dev/binnmti/articles/7e3690ebe80951</link>
+      <pubDate>2023/11/13 19:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/41b16d8516ed14b028b5ee0d964fd3d52b645b9d/height=288;version=1;width=512/https%3A%2F%2Fgame.watch.impress.co.jp%2Fimg%2Fgmw%2Flist%2F1546%2F541%2F000.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>SDXLでライブ映像をリアルタイム画像生成できる高速化ツール「LCM-LoRA」、GPT-4Vより良い結果も示す画像理解モデル「CogVLM」など重要論文5本を解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/13/2247.html</link>
+      <pubDate>2023/11/13 08:50</pubDate>
+      <description>目次 はじめに 今回作成するシステムの概要と前提条件 Azure Bing Search セットアップ Next.jsコーディング 動作確認 お片付け はじめに 2022年1月...。 このワードを聞いてピンときた方は日頃かなり勉強されているつよつよエンジニアに違いありません。 2022年1月というのは、OpenAIのGPT-3.5モデルの学習範囲の果てと言われています。 ということは...2022年1月以降の知識であれば... ファーー！！ 2022年1月以降の情報であればマウント取り放題です！ ... でも、マウントをとっていても仕方がありません。 私は以前、恩師よりマウントはドライブだけで充分です。という言葉を教えていただいたことを思い出しました。 では、2022年1月以降の情報でも適切に回答できるようにするにはどうすれば良いのか？ そんな方々に向けたアンサーの一つをこの記事にまとめ</description>
+    </item>
+    <item>
+      <title>Fast and Portable Llama2 Inference on the Heterogeneous Edge</title>
+      <link>https://www.secondstate.io/articles/fast-llm-inference/</link>
+      <pubDate>2023/11/13 13:52</pubDate>
+      <description>11月12日に開催された「FlutterFlow Tokyo Summit」にて登壇した「生成AI×ノーコード (スピーディーなアプリ開発の新時代)」の登壇資料です</description>
+    </item>
   </channel>
 </rss>
