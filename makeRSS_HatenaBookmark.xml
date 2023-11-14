@@ -8440,5 +8440,50 @@
       <pubDate>2023/11/12 17:00</pubDate>
       <description>ユーザープロンプトをLLMが言い換えて、LLM自身が理解しやすくする手法『RaR』 2023/11/13 AI論文解説 LLM プロンプト AIDB Research マイページに保存最終更新日：2023/11/13 本記事では、大規模言語モデル（LLM）に対するユーザーの質問・指示に対する応答の質を向上させる新しい手法「RaR（Rephrase and Respond）」について、論文をもとに紹介します。本研究はカリフォルニア大学ロサンゼルス校（UCLA）の研究者によって発表されています。 「RaR」は、LLMがユーザーの質問を自身が理解しやすい形に自ら言い換える手法で、GPTシリーズ（GPT-4、GPT-3.5）など複数のLLMで効果が確認されています。 RaRの実行プロンプトは比較的シンプルであり、LLMに質問の言い換えと回答を一度に行わせることが可能です。 以下ではRaRの研究背景</description>
     </item>
+    <item>
+      <title>生成AIに取り組む全事業者が見るべき「State of AI 2023レポート」解説｜梶谷健人 / Kent Kajitani</title>
+      <link>https://note.com/kajiken0630/n/n897c86dfe331</link>
+      <pubDate>2023/11/14 11:55</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月6日（月）〜11月12日（日）〔2023年11月第2週〕のトップ30です*1。 順位 タイトル 1位 離婚した先輩に「夫婦円満の秘訣」を聞いてみた話→「先輩いいこと言うなぁ」 - Togetter 2位 OpenAI がまたやった！OpenAI DevDay 総まとめ｜ChatGPT研究所 3位 イチロー氏 「指導する側が厳しくできない」時代の流れ 「酷だけれど…自分たちで厳しくするしか」― スポニチ Sponichi Annex 野球 4位 「生成AIを仕事で使い倒す人たち」に取材して回ったら「自分の10年後の失業」が見えてしまった | Books&amp;amp;Apps 5位 ブラウザでリロードしながらキャッシュの挙動を確認してる全ての開発者へ | blog.jxck.io 6位 「なるほど」は失礼な</description>
+    </item>
+    <item>
+      <title>OpenAIよ。2022年1月より先の未来を見たくないか？【Azure OpenAI × LangChain ハンズオン】</title>
+      <link>https://zenn.dev/yusu29/articles/azure_openai__langchain_handson</link>
+      <pubDate>2023/11/12 07:49</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8598049e726732d5b9eff5a160958ab8552aea0c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1546%2F527%2F231113-0.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>社内ChatGPTを使ったGASアプリ開発の完全解説！業務改善の高速化を実現 - MonotaRO Tech Blog</title>
+      <link>https://tech-blog.monotaro.com/entry/2023/11/14/090000</link>
+      <pubDate>2023/11/14 09:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6393ebb141e71b88f5eca4e43effce4d14c6629d/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1546%2F033%2F00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Midjourneyを１年間使って見つけた、Webデザインに使えるプロンプト全ガイド</title>
+      <link>https://photoshopvip.net/153410</link>
+      <pubDate>2023/11/13 19:42</pubDate>
+      <description>各レッスンでは、まずトピックに関する短いビデオ紹介を提供。これを視聴することで、学ぶ内容の全体像を把握できる。続けて、全レッスンにはREADMEファイルに記載されている詳細なテキストガイドが含まれており、それによって主題に関する深い理解を深められるという。 プロジェクトベースのレッスンでは、コード例付きのJupyter Notebookにアクセスできる。このようなハンズオン形式の演習は、学んだ内容を実際に適用する際の助けとなる。そして、各レッスンの終わりには知識の確認を目的としたチャレンジや課題が設けられており、これを通じて習得した概念の理解度を確認可能だ。各レッスンの概要を下記の通り。 Lesson 00: Course Introduction － How to Take This Course（コース紹介　このコースの受講方法） Lesson 01: Introduction to</description>
+    </item>
+    <item>
+      <title>Assistants API Overview (Python SDK) | OpenAI Cookbook</title>
+      <link>https://cookbook.openai.com/examples/assistants_api_overview_python</link>
+      <pubDate>2023/11/14 08:34</pubDate>
+      <description>構成 構成としては、下記の通りです。 Connectのフローの詳細は下記の通りです。 例として、発話で住所を認識させる処理の流れは以下のとおりです。 コンタクトフロー内で「メディアストリーミングの開始」ブロックを使って、Kinesis Video Stream（KVS）への音声のストリーミングを開始します。 顧客は、住所を含めた発話をします。 「顧客の入力を保存する」ブロックで、顧客が特定の番号を押すと、ストリーミングを終了します。 「AWS Lambda関数を呼び出す」ブロックを使い、LambdaでKVSからデータを取得します。取得したデータをWAV形式に変換し、Whisper APIで文字起こしします。文字起こし内容から、GPT-4 Turboで住所のみを抽出します。 プロンプト再生で、住所のみを音声出力します。 以下の図は、電話での対話の流れを示しています。 前提 2023年11月時</description>
+    </item>
+    <item>
+      <title>米俳優労組の合意内容、AI使用の保護措置やインティマシー・コーディネーターの起用など - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/67400367</link>
+      <pubDate>2023/11/13 18:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/53da9e7a665f77346255dd3a8cf7ab5818c7df3f/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1009%2F608%2Finfostand_top.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
