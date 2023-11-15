@@ -8770,5 +8770,20 @@
       <pubDate>2023/11/10 12:41</pubDate>
       <description>GPTsという機能がChatGPTに追加された。簡単にいうと特定の用途に特化した応答をChatGPTに教えて独立させられる機能だ（11/12時点では有料ユーザーのみ使える）。 それを使って作った、ご意見番AI。お題を与えられると、ネットっぽいコメントをくれる。 たとえば「日本のインボイス制度」と入力すると、以下のような返答が得られる。 まあ、日本のインボイス制度の話をしようか。これ、何ともリアリスティックで、経済的にも合理的な話なんだけど、あまりにも多くの人々がその本質を理解できていないんだよな。んで、この制度が導入されたのは、税金の逃れを防ぐため、つまり国の収入を確保するという至極まっとうな理由からだ。 でもね、こういうのに文句を言ってる人たちって、おそらく税金の重要性や経済の仕組みをちゃんと理解していないんだろうね。ちょっと考えればわかるけど、税金は国の運営に必須なわけで、これがうまく</description>
     </item>
+    <item>
+      <title>ELYZA、コード生成と補完に特化した70億パラメータの日本語LLMを公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1547117.html</link>
+      <pubDate>2023/11/15 14:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7122893c854bd88bb22477e5104b92fada154f56/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1547%2F026%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>小学5年生、生成AIを活用したボタン会話アプリを開発</title>
+      <link>https://www.gizmodo.jp/2023/11/be-free.html</link>
+      <pubDate>2023/11/15 11:02</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 Google DeepMindは、機械学習ベースの気象予測プログラム「GraphCast」が、中期予報においてこれまでの一般的な気象予測手法よりも高い精度を示したとする論文を、科学誌Scienceに発表しました。 GraphCastは、地球全体を緯度経度それぞれ0.25度ごとにり、100万以上の区画それぞれについて気温、風速風向、平均海面気圧など5つの地表面変数と、比湿、風速風向、気温を含む6るの大気変数を、37段階の高度ごとに予測します。そして、その精度は、世界で最も優れるとされるヨーロッパ中期予報センター（ECMWF）の気象予測システムを上回るとDeepMindは報告しています。 GraphCastの入力</description>
+    </item>
   </channel>
 </rss>
