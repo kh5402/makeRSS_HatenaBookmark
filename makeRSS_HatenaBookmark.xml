@@ -8713,5 +8713,38 @@
       <pubDate>2023/11/13 13:53</pubDate>
       <description>構成 構成としては、下記の通りです。 Connectのフローの詳細は下記の通りです。 例として、発話で住所を認識させる処理の流れは以下のとおりです。 コンタクトフロー内で「メディアストリーミングの開始」ブロックを使って、Kinesis Video Stream（KVS）への音声のストリーミングを開始します。 顧客は、住所を含めた発話をします。 「顧客の入力を保存する」ブロックで、顧客が特定の番号を押すと、ストリーミングを終了します。 「AWS Lambda関数を呼び出す」ブロックを使い、LambdaでKVSからデータを取得します。取得したデータをWAV形式に変換し、Whisper APIで文字起こしします。文字起こし内容から、GPT-4 Turboで住所のみを抽出します。 プロンプト再生で、住所のみを音声出力します。 以下の図は、電話での対話の流れを示しています。 前提 2023年11月時</description>
     </item>
+    <item>
+      <title>Google DeepMindのAI気象予測モデル「GraphCast」、従来予報を大きく上回る性能との研究結果</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/15/news132.html</link>
+      <pubDate>2023/11/15 13:56</pubDate>
+      <description>今年公開された映画『インディ・ジョーンズと運命のダイヤル』では、御年81歳のハリソン・フォードがAI技術によって、37歳の若きインディとしてスクリーンに蘇りました。 その本物と見紛うばかりのリアルさに驚いた人も少なくないでしょう。 実際、AIの生成した顔と本物の顔はもはや見分けられない領域に来ています。 特に豪オーストラリア国立大学（ANU）の最新研究によると、私たちはAIの作った「白人」の顔ほど本物の人間と思い込みやすいことが判明したのです。 一方で、アフリカ系やアジア系では同じ結果が見られなかったという。 一体なぜでしょうか？ 研究の詳細は、2023年11月13日付で科学雑誌『Psychological Science』に掲載されています。 目次 人間は「AI」の作った画像を見抜けるのか？ 人間は「AI」の作った画像を見抜けるのか？ AI（人工知能）の導入は、良くも悪くも社会に多大な影</description>
+    </item>
+    <item>
+      <title>ChatGPTに社内文書に基づいた回答を生成させる仕組みを構築しました - コネヒト開発者ブログ</title>
+      <link>https://tech.connehito.com/entry/2023/11/14/221416</link>
+      <pubDate>2023/11/15 13:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/069fd4f43dae3b3d5d957722c62d11a309104806/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F117%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>国内初の生成AI認証制度へ 若きスタートアップ経営者の挑戦 | NHK | ビジネス特集</title>
+      <link>https://www3.nhk.or.jp/news/html/20231114/k10014257131000.html</link>
+      <pubDate>2023/11/14 23:16</pubDate>
+      <description>Google DeepMindが気象予測AI「GraphCast」を発表しました。10日間の天気を予測する場合、従来の気象予測システムではスーパーコンピューターを数時間稼働させる必要がありましたが、GraphCastでは1台のマシンを1分稼働させるだけで従来の予測システムを超える精度での予測が可能とアピールされています。 Learning skillful medium-range global weather forecasting | Science https://www.science.org/doi/10.1126/science.adi2336 GraphCast: AI model for faster and more accurate global weather forecasting - Google DeepMind https://deepmind.google/</description>
+    </item>
+    <item>
+      <title>これは衝撃!1.5Bで超高性能LLM!RWKV-5-World-v2｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/nfc8dd1abf494</link>
+      <pubDate>2023/11/14 14:28</pubDate>
+      <description>米マイクロソフトと同様に、米アドビも生成AI（人工知能）対応ツールをCopilot（コパイロット、副操縦士）のような存在と位置付け、マーケターやクリエイターの仕事を効率化し、支援することを目指している。2023年10月10日から米ロサンゼルスで開催となった年次イベント「Adobe MAX 2023（アドビマックス2023）」では、同社が開発を進めるAI関連の最新技術を紹介した。手描きの簡単な図を</description>
+    </item>
+    <item>
+      <title>AWSの生成AIサービス「Amazon Bedrock」でLlama 2が利用可能に</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/14/news086.html</link>
+      <pubDate>2023/11/14 11:01</pubDate>
+      <description>自動運転などに欠かせないAI＝人工知能の性能向上が求められる中、先端半導体の国産化を目指す「Rapidus」は、AI半導体の設計に強みがあるカナダのスタートアップ企業と業務提携し、製品の共同開発に向けて協力していくことになりました。 自動運転をはじめあらゆる機器がインターネットとつながるいわゆるIoT社会の実現に向けては、情報や画像を処理するAI向けの半導体の性能向上が求められていて、この分野ではアメリカの半導体大手エヌビディアなどが先行しています。 こうした中、先端半導体の国産化を目指す「Rapidus」は、カナダのスタートアップ企業で、AI半導体の設計などに強みがある「テンストレント」と業務提携し、AI向けの半導体の共同開発を行うことになりました。 また、テンストレントは来年にも日本に研究開発の拠点を新たに設け、高度な演算処理に必要な半導体の開発を進めるRapidusの知見も生かして協</description>
+    </item>
   </channel>
 </rss>
