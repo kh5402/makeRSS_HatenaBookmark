@@ -8785,5 +8785,32 @@
       <pubDate>2023/11/15 11:02</pubDate>
       <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 Google DeepMindは、機械学習ベースの気象予測プログラム「GraphCast」が、中期予報においてこれまでの一般的な気象予測手法よりも高い精度を示したとする論文を、科学誌Scienceに発表しました。 GraphCastは、地球全体を緯度経度それぞれ0.25度ごとにり、100万以上の区画それぞれについて気温、風速風向、平均海面気圧など5つの地表面変数と、比湿、風速風向、気温を含む6るの大気変数を、37段階の高度ごとに予測します。そして、その精度は、世界で最も優れるとされるヨーロッパ中期予報センター（ECMWF）の気象予測システムを上回るとDeepMindは報告しています。 GraphCastの入力</description>
     </item>
+    <item>
+      <title>相次ぐ「AI偽動画」あなたはディープフェイクを見抜けますか？ | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231115/k10014256291000.html</link>
+      <pubDate>2023/11/15 14:49</pubDate>
+      <description>Google DeepMindのAI気象予測モデル「GraphCast」、従来予報を大きく上回る性能との研究結果 Google DeepMindは、「Graph Neural Network」（GNN）採用の気象AIモデル「GraphCast」をオープンソースで公開した。欧州中期天気予報センターのデータでトレーニングされており、向こう10日間の気象予測を約1分で生成する。 米Google DeepMindは11月14日（現地時間）、「前例のない精度で中期天気予報を行うことができる」と謳う気象AIモデル「GraphCast」を発表した。 同日に科学雑誌「Science」に掲載された論文によると、世界の気象状況を最大10日前まで予測する場合、GraphCastは気象シミュレーションシステム「欧州中期天気予報センター」（ECMWF）の「高解像度予報」（HRES）より正確かつ迅速だったという。 異</description>
+    </item>
+    <item>
+      <title>AIの生成した顔はもはや本物の人間と識別できない！（ただし白人に限る） - ナゾロジー</title>
+      <link>https://nazology.net/archives/138467</link>
+      <pubDate>2023/11/15 12:31</pubDate>
+      <description>はじめに はじめまして、8月にコネヒトに入社したy.ikenoueです。 突然ですがみなさん、生成AIは使っておりますでしょうか？ ChatGPTやStable Diffusionといった代表的な生成AIの発表から約1年が経過し、そろそろブームも落ち着くかと思っていたのですが、つい先日もOpenAI DevDayにてChatGPTに関する様々なアップデートが発表されるなど、相変わらず目まぐるしい日々が続いていますね。 弊社における生成AIの活用状況はというと、以前に下記の記事にて、Slack上でChatGPTと会話できる環境を社内提供しているという取り組みをご紹介しました。 tech.connehito.com 本日は、上記の社内ツールに新たに追加した「社内文書の参照機能」についてご紹介します。 「社内文書の参照機能」の概要と開発動機 まずは「社内文書の参照機能」の概要と開発にいたった動機</description>
+    </item>
+    <item>
+      <title>107. LLMをゼロから作るということ w/ Takahiro Omi | fukabori.fm</title>
+      <link>https://fukabori.fm/episode/107</link>
+      <pubDate>2023/11/15 10:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/069fd4f43dae3b3d5d957722c62d11a309104806/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F117%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>クラウド大手の生成AI基盤を徹底比較、開発技術を熟知するGoogleと総合力のAWS</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02637/111000004/</link>
+      <pubDate>2023/11/15 08:02</pubDate>
+      <description>AIの回答は信用できますか？ AIの回答は正確さや最新の情報を保証するものではありません。事実と異なる場合があります。 AI回答機能の回答にはOpenAI社のGPT-4を用いています。GPT-4の学習データは2021年9月までのデータで、最新の情報が反映されていない可能性があります。 AIの回答はどのように生成されるのですか？ 今回提供するAI回答機能は、OpenAI社の大規模言語モデルGPT-4を用いています。投稿いただいた質問をOpenAI社に送り、生成されたAIによる回答を表示しています。 一度表示されたAIの回答を非表示にすることはできますか？ AI回答機能の利用に同意して質問を投稿をすると、AIによる回答がされます。あとから非表示にできないため、AIの回答を希望されない場合は、AI回答機能に同意せずに質問を投稿してください。 もしも誤って投稿した際には、違反報告から削除依頼を行っ</description>
+    </item>
   </channel>
 </rss>
