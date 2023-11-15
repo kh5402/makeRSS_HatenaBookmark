@@ -8680,5 +8680,38 @@
       <pubDate>2023/11/14 14:51</pubDate>
       <description>OpenAIの開発者会議「Dev Day」での最新リリースで、カスタムが可能になったGPTs、新しいGPT-4 Turbo、アシスタントAPIが発表された。もちろん、私のようなAI全般のオブザーバーは先週の津波のようなAIの発表に疲れ果てている。 ホワイトハウスのAI大統領令、G7の自主行動規範、英国の安全サミット、AIの「ゴッドファーザー」たちによるXリスク論争の激化、著名なAI著作権裁判の縮小判決、そしてMidjourney、Runway、Stability AIからの最新情報があった。 まだある。Scarlett Johannson氏がAIアプリに法的措置を取ったし、Googlegが広告主の商品画像にGenAIツールを導入、 AMDがAIチップの販売予測で急騰。コリンズが今年の流行語大賞に「AI」を選出、Elon Musk氏がxAIの最初のLLMであるGrokを土曜日にリリースした。</description>
     </item>
+    <item>
+      <title>商用可能な日本語画像言語モデル「Japanese Stable VLM」、Stability AIがリリース／キャプショニング機能に加え、画像に対する質問にチャット形式で回答もできる</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1547026.html</link>
+      <pubDate>2023/11/15 11:21</pubDate>
+      <description>安全性などへの懸念が広がる生成AI。国内初の認証制度の開始に向けた準備が始まっている。 日本の大手企業など23社が主体となった動きを取りまとめたのは、27歳の若きスタートアップ経営者だった。 その“行動力”と“先見の明”の背景には何があったのか、インタビューで探った。 （経済部記者 名越大耕） アメリカ・シリコンバレーに本社を置くスタートアップ企業「Robust Intelligence（ロバスト インテリジェンス）」。 創業者の大柴行人さんは1995年生まれの27歳だ。高校卒業後すぐに渡米し、ハーバード大学に進学した。 大学2年生の時、知人の起業を支援するため休学した際、AIの機械学習に関心を持ち、大学に戻ってからはAIのぜい弱性と保護システムの研究に打ち込んだ。 研究を進めていくうちに、AIには情報漏えいなどといったセキュリティ面でのぜい弱性だけでなく、AI自体が差別することや、プライ</description>
+    </item>
+    <item>
+      <title>わずか1分で10日間の天気を予測可能なAI「GraphCast」をGoogle DeepMindが発表、スパコンで数時間かけた予測より高精度</title>
+      <link>https://gigazine.net/news/20231115-google-graphcast-global-weather-forecasting/</link>
+      <pubDate>2023/11/15 11:14</pubDate>
+      <description>最近OpenAIがオーディオ系のAPIをいくつか出していた。といってもけっこう前の話だ。 そんな中、最近OpenAIが色々なサービスを展開している。自分も触って習熟しておいたほうが、面白いアイデアを思い付いたときにすぐにプロダクトを作れて役に立つはずだ。そういうわけで色々APIを見ていたところ、その中でも面白そうだった書き起こしAPIを使うことにした。自分が喋った内容を書き起こしてもらいたい。上手くいくだろうか？ボソボソ喋るオタクボイスでも？ openai.itshinan.jp このAPIを使うと、オーディオ音声(wavとかflacとか色々な入力形式を使える)から各言語の書き起こしをやってくれる。イクゾー 素材音声 小銭を払う Scalaから呼び出す 所見 まとめ 素材音声 今回用意した自分の音声はこれ。過去の自分の記事の内容の一部をボソボソ読み上げている。お世辞にも上手ではないし、AP</description>
+    </item>
+    <item>
+      <title>AI回答機能（GPT-4版）テスト実施中 - Yahoo!知恵袋</title>
+      <link>https://chiebukuro.yahoo.co.jp/topic/ai/answer.html</link>
+      <pubDate>2023/11/15 09:38</pubDate>
+      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 ✕</description>
+    </item>
+    <item>
+      <title>「AIの利用は思われているほど簡単ではない」--IEEEレポート</title>
+      <link>https://japan.cnet.com/article/35211462/</link>
+      <pubDate>2023/11/14 16:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fbf1b45d0bf578aaa6a8338071088e6d430e3398/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1546%2F884%2Fcont1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIのGPT-4 Turbo with visionを日本語OCRとして使ってみる</title>
+      <link>https://zenn.dev/tomioka/articles/097d9fec28de15</link>
+      <pubDate>2023/11/13 13:53</pubDate>
+      <description>構成 構成としては、下記の通りです。 Connectのフローの詳細は下記の通りです。 例として、発話で住所を認識させる処理の流れは以下のとおりです。 コンタクトフロー内で「メディアストリーミングの開始」ブロックを使って、Kinesis Video Stream（KVS）への音声のストリーミングを開始します。 顧客は、住所を含めた発話をします。 「顧客の入力を保存する」ブロックで、顧客が特定の番号を押すと、ストリーミングを終了します。 「AWS Lambda関数を呼び出す」ブロックを使い、LambdaでKVSからデータを取得します。取得したデータをWAV形式に変換し、Whisper APIで文字起こしします。文字起こし内容から、GPT-4 Turboで住所のみを抽出します。 プロンプト再生で、住所のみを音声出力します。 以下の図は、電話での対話の流れを示しています。 前提 2023年11月時</description>
+    </item>
   </channel>
 </rss>
