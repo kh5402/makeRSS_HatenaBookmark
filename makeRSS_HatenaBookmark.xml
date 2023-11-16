@@ -9141,5 +9141,11 @@
       <pubDate>2023/11/16 07:00</pubDate>
       <description>Microsoft、AI最適化チップ「Azure Maia 100」と汎用Armチップ「Azure Cobalt」：Microsoft Ignite Microsoftは2つのカスタム設計チップ、AIに最適化した「Maia 100」とArumベースの汎用「Cobalt 100」を発表した。「インフラストラクチャスタックのすべての層を最適化して統合することが重要」とガスリー氏。 米Microsoftは11月15日（現地時間）、開発者向け年次イベント「Microsoft Ignite」で、2つのカスタム設計チップ、AIに最適化した「Microsoft Azure Maia 100 AI Accelerator」（以下「Maia 100」）とArmベースの汎用「Microsoft Azure Cobalt 100 CPU」（以下「Cobalt 100」）を発表した。 Microsoftは現在、A</description>
     </item>
+    <item>
+      <title>Overview - Microsoft Copilot Studio</title>
+      <link>https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio</link>
+      <pubDate>2023/11/16 20:40</pubDate>
+      <description>2023年11月16日のCVIM研究会でのチュートリアル講演資料です。</description>
+    </item>
   </channel>
 </rss>
