@@ -9060,5 +9060,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/dacd1926efd3d20d7846838c17f3921025ab565a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1537%2F830%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>［速報］マイクロソフト、独自設計のAIチップ「Azure Maia」発表。AIの学習と推論に最適化。Ignite 2023</title>
+      <link>https://www.publickey1.jp/blog/23/aiazure_maiaaiasicignite_2023.html</link>
+      <pubDate>2023/11/16 08:59</pubDate>
+      <description>Googleが最新の天気予報ソフトを開発、めっちゃ当たるってよ2023.11.16 08:00 Thomas Germain -Gizmodo US- ［原文］ （ R.Mitsubori ） 明日天気になあれ。 ついに、｢今日どんな服装で出かけたらいいか｣ロボットが教えてくれる時代が来ましたよ。GoogleのAI部門であるGoogle DeepMindは、従来のシステムを90％以上上回る最新の天気予報モデルを発表しました。その名も｢GraphCast｣という機械学習モデルで、天気予報アプリよりも早く正確に、しかも効率的にこの先10日間のお天気を教えてくれます。 現地時間の14日、Googleの研究チームは論文を発表。そのなかで｢我々はこれが、天気予報の転換点になると確信しています｣と記しています。 大量の過去気象データから未来を予測現在の天気予報は一般的に｢数値天気予報（NWP）｣と呼ば</description>
+    </item>
+    <item>
+      <title>Microsoft、AI最適化チップ「Azure Maia 100」と汎用Armチップ「Azure Cobalt」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/16/news085.html</link>
+      <pubDate>2023/11/16 10:04</pubDate>
+      <description>今年も始まりました、Microsoft Ignite 2023！本日発表された、CEOのSatya Nadella氏のキーノートを日本語でまとめました。ChatGPTが発表されてから1年が経過しました。 進化のペースは凄まじいものです。我々は新しい時代に入ろうとしています。ただの新しい技術に留まりません。 このAIの時代によって、製品を作ったり、安全性を考えたりと、実課題を解決しています。 Airbnb、Shopifyや、BTや電通などもMicrosoft Copilotを展開しています。そして、組織は独自のCopilotを作成しています。 そして、Copilotは非常に生産性を向上させています。より少ない時間で情報を集めたり、ミーティングを行ったりすることができます。 Copilot はタスクを素早くこなすことが可能になり、新しいUI（ユーザーインターフェース）として、世界のナレッジだけ</description>
+    </item>
+    <item>
+      <title>draw my ui</title>
+      <link>https://makereal.tldraw.com/</link>
+      <pubDate>2023/11/16 09:27</pubDate>
+      <description>システム障害の原因はソフトウエアの不具合……。こう聞くと「またか」とがっかりする。不具合とは何だろう。プログラムのバグなのかランタイムエラーなのか、メモリーリークもありえるし不正アクセスによるものかもしれない。不具合の中身に踏み込まなくては、少なくともIT専門の記事としては突っ込みが足りないと言われるだろう。 2023年10月10日に発生した「全国銀行データ通信システム（全銀システム）障害」の不具合の中身がいまだ判然としない。システムを運営する全国銀行資金決済ネットワーク（全銀ネット）、開発ベンダーであるNTTデータの記者会見から、何が起きたかとそれを引き起こした原因はかなり分かってきた。ただ、発生から1カ月以上過ぎても、全銀ネットの言う「真因」は調査中のままだ。 これまでに分かった障害の原因を整理するとともに、いまだに残る3つの疑問とそれに対する推測を示したい。 64ビットへの対応不足で</description>
+    </item>
   </channel>
 </rss>
