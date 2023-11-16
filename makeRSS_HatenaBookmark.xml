@@ -8938,5 +8938,53 @@
       <pubDate>2023/11/13 11:59</pubDate>
       <description>以下の記事が面白かったので、かるくまとめました。 ・Multi-Modal RAG 1. マルチモーダルRAG「OpenAI Dev Day」で最もエキサイティングな発表の1つは、「GPT-4V API」のリリースでした。「GPT-4V」は、テキスト/画像の両方を取り込み、テキスト応答を出力できるマルチモーダルモデルです。これにより、LLMが新しいステージに拡張されます。 過去1年、LLMアプリケーションスタックはテキストの入出力を中心に出現しました。最も注目された例の1つが「RAG」(検索拡張生成) です。LLMと外部テキストを組み合わせて、モデルが学習していないデータを推論できるようになります。 「RAG」がエンドユーザーにもたらした最も大きな影響の1つは、非構造化テキストデータの分析にかかる時間の短縮です。任意のドキュメント (PDF、Webページ) を処理し、ストレージにロードして</description>
     </item>
+    <item>
+      <title>Microsoft Copilot</title>
+      <link>https://copilot.microsoft.com/</link>
+      <pubDate>2023/11/16 09:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/dacd1926efd3d20d7846838c17f3921025ab565a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1537%2F830%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - solderneer/obsidian-ai-tools: Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.</title>
+      <link>https://github.com/solderneer/obsidian-ai-tools</link>
+      <pubDate>2023/11/15 19:53</pubDate>
+      <description>この記事は何？ 11/15 に公開された OpenAI のEvan Morikawa へのインタビュー記事をざっくりまとめました。この日本語記事のソースは、 Gergely Orosz による Pragmatic Engineer Newsletter です。 ChatGPT や DALL·E がよく話題になりますが、これらの研究をUIやAPIを含むWebのサービスとして構築しているのが、応用エンジニアリングチーム(Applied Team)です。公開されているサービスには、ChatGPT だけでなく、DALL-E 3 なども含まれます。 この日本語記事を書いている私自身が、スタートアップとアジャイルチームに強い興味を持っているので、このまとめを書きました。 ほんとにざっくりまとめ、なので、詳細は、ソース記事を読むことをおすすめします。 サマリ 小さな独立したスタートアップのように運営する</description>
+    </item>
+    <item>
+      <title>「生成AIは何に使えるか」はもはや愚問、活用して需要を突き止めたダイキン工業</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02640/111300001/</link>
+      <pubDate>2023/11/15 09:39</pubDate>
+      <description>リンク プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES 【鶏肉を存分に】骨付き肉にかぶりつく「親子丼」肉めし岡もとに期間限定で新登場 アークランドサービスホールディングス株式会社のプレスリリース（2023年11月9日 10時00分）【鶏肉を存分に】骨付き肉にかぶりつく「親子丼」肉めし岡もとに期間限定で新登場 3 users 38</description>
+    </item>
+    <item>
+      <title>幾何学で世界の複雑さを理解する、異才数学者の型破りな方法論</title>
+      <link>https://www.technologyreview.jp/s/319750/this-mathematician-is-making-sense-of-natures-complexity/</link>
+      <pubDate>2023/11/15 08:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c473c9dfef685d19440de39558b42a72d2e9034f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F171%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>YouTubeがAI生成・改変動画をはっきり明示する方針を発表、クリエイターに情報開示を義務づけ違反するとパートナープログラム停止も</title>
+      <link>https://gigazine.net/news/20231115-youtube-generative-ai/</link>
+      <pubDate>2023/11/15 12:57</pubDate>
+      <description>翻訳メモリー（TM）が翻訳業界で広く使われ始めたのが1990年代後半という話（PDF）なので、すでに四半世紀くらいは経っている。私が翻訳者になったのは2002年だが、ITマニュアルなどではすでにTMを使った翻訳が一般的だった。 TMは当初、訳文を再利用して品質を安定させたり、作業を効率化してコストを削減したりといった点が目的だった。しかし統計的機械翻訳システム以降（もちろんニューラル機械翻訳も）は、トレーニング用のデータとしても重要となった。 TMが翻訳業界で広がったのは、やはりコスト削減などビジネス上のメリットが大きかったからだ。しかし、いち翻訳者が使うツールとして考えてみると、必ずしも理想的とは言えない。訳文を「再利用」するので、それに適した単位、つまり基本的には1文ずつの対訳セットで管理する。原文と訳文が1文ずつで対応するケースはもちろん多いが、再利用を優先すると無理やり1文ずつ対応</description>
+    </item>
+    <item>
+      <title>「Visual Studio 2022」v17.8が公開 ～「GitHub Copilot」も一緒にセットアップ可能／C++ゲーム開発、F#、.NET/C#などで多くの機能改善</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1547141.html</link>
+      <pubDate>2023/11/15 16:43</pubDate>
+      <description>農業が盛んな愛知県で人手不足の解決を目指すスタートアップの新サービスが相次いでいる。トクイテン（名古屋市）は人が座ったまま畑作業ができる移動用ロボットを開発した。アグリトリオ（愛知県豊橋市）は短時間の農作業アルバイトと農家のマッチングサービスを手掛ける。作業効率の向上や意欲のある働き手の活用で農業の競争力を高める。トクイテンが開発した移動用ロボットは人が座布団ほどの大きさのシートに座る。畑の畝</description>
+    </item>
+    <item>
+      <title>JR東日本の社員がリンゴ収穫のボランティア　農業支援アプリで労務管理（ABA青森朝日放送） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/59e62665ea02e82c84a12e7aa8827738e1785c5f</link>
+      <pubDate>2023/11/15 20:34</pubDate>
+      <description>米OpenAIのサム・アルトマンCEOは、AIチャット「ChatGPT」の有料版「ChatGPT Plus」の新規登録を一時停止したと発表した。 米OpenAIのサム・アルトマンCEOは11月15日（現地時間）、AIチャット「ChatGPT」の有料版「ChatGPT Plus」の新規登録を一時停止したと発表した。同社が6日に開催したイベント「OpenAI DevDay」以降、利用者が急増したことが原因。再開日は未定、決まり次第アプリ内で告知するという。</description>
+    </item>
   </channel>
 </rss>
