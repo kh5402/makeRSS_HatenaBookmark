@@ -9243,5 +9243,29 @@
       <pubDate>2023/11/17 11:00</pubDate>
       <description>ただし、PCの要件として、4GB以上のRAMと720ピクセル以上の解像度をサポートするディスプレイアダプタが求められる。PCが要件を満たさない場合、セーフガードホールドが適用され、Copilotは提供しない可能性があるという。 MicrosoftはWindows 10のサポートページで、「WindowsのCopilot（プレビュー）に関する素晴らしいフィードバックを聞き、その価値をより多くのユーザーに拡張したいと考え」、「Windows 10へのアプローチを見直し、すべてのユーザーがCopilotを含むWindows PCから最大限の価値を得ることができるよう、追加の投資を行う」と説明している。 また、AI関連の機能は今後もWindows 10にも追加する可能性はあるが、「2025年10月14日のWindows 10サポート終了の予定は変更しない」としている。 関連記事 Microsoft</description>
     </item>
+    <item>
+      <title>Microsoft、「Windows 10」にもCopilot追加へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/17/news091.html</link>
+      <pubDate>2023/11/17 10:00</pubDate>
+      <description>「いまが後継者誕生の瞬間かもしれない」──「GAFAM」が支配するテクノロジー業界についてそう語るのは、コロンビア大学ロースクールの教授ティム・ウーだ。 これまでも、グーグル、アップル、フェイスブック（現メタ）、アマゾン、マイクロソフトの頭文字をとって表現されてきたテック業界の主要メンバーたちは、Netflixを加えて「FAANG」になったり、最近ではテスラとエヌビディアの台頭で「MATANA」と呼ばれたりしてきた。 そんななか、米誌「アトランティック」が着目したのは、勢いを増す生成AIの分野で注目を集める「GOMA」だ。AIチャットボットとその類のものはまだ初期段階にあるとしながらも、「AIの世界では、すでにすべてがたった4社に集約されつつある。グーグル、オープンAI、マイクロソフト、アンソロピックである」と書く。 従業員数たった数百人のスタートアップ企業オープンAIは、2022年11月</description>
+    </item>
+    <item>
+      <title>Vertex AI Pipelinesを用いて爆速ML開発の仕組みを構築する #LayerXテックアドカレ - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/2023/11/16/185944</link>
+      <pubDate>2023/11/16 19:11</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session.</description>
+    </item>
+    <item>
+      <title>Bingで検索結果のスニペットにAIで生成した文章の表示が可能に</title>
+      <link>https://gigazine.net/news/20231116-bing-ai-captions/</link>
+      <pubDate>2023/11/16 19:31</pubDate>
+      <description>テレビ北海道は11月16日、AI技術を活用したデジタルヒューマンを情報番組のアナウンサーに起用する実証実験を行うと発表した。AI技術の研究開発やコンサルティングを手掛けるニュウジア（東京都中央区）の技術を採用した。 毎週土曜日に放送している情報番組「スイッチン！」のお天気コーナーでデジタルヒューマン「iina（いいな）」が最新の天気予報を読み上げる。テレビ北海道は「今後、他の番組への起用、拡大も検討する」としている。 初回放送は11月18日の午前11時にスタート。iinaは番組MCの箕輪直人さんとも会話し、「人間を模したAIの課題『不気味の谷』を超えられるか、視聴者と一緒に考える」という。 不気味の谷とは、ロボットやCGで作られた人間を本物の人間に似せようとすると、ある段階で人が強い不快感を抱く現象のこと。1970年にロボット工学者の森政弘さんが提唱し、技術の進歩に伴ってたびたび話題になっ</description>
+    </item>
+    <item>
+      <title>文書検索におけるリランキングの効果を検証する - Ahogrammer</title>
+      <link>https://hironsan.hatenablog.com/entry/information-retrieval-with-reranker</link>
+      <pubDate>2023/11/15 17:51</pubDate>
+      <description>年6000万円のムダ削減した三菱重工の工場DX　元社会人野球選手が主導したAI活用のウラ側：Google Cloud Next Tokyo ‘23（1/2 ページ） とある薬品の廃棄が減らせず、年6000万円の無駄が発生していた三菱重工。元社会人野球選手の社員がAIによる改善プロジェクトに任命されたが、「不安を感じたままのスタートだった」という。実際の取り組みはどう進んだのか。 「担当者の暗黙知を基に手配していた結果、2020年度には月平均で500万円、年にして約6000万円の廃棄が発生していた。非常に高額な廃棄だった」──三菱重工業江波工場に務める福田さんは、工場で発生していたある“ムダ”についてこう振り返る。 江波工場はかつて、ある薬品の需給調整に大きな課題を抱えていた。これまではベテランが自身の経験を基に発注していたが、性質上保存が効かず、効率的な需給管理ができていなかった。最も多い</description>
+    </item>
   </channel>
 </rss>
