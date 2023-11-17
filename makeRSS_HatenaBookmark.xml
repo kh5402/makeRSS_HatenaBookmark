@@ -9399,5 +9399,11 @@
       <pubDate>2023/11/17 14:06</pubDate>
       <description>Metaが文章から動画を生成できるAI「Emu Video」と文章で指示して画像を編集できるAI「Emu Edit」を2023年11月16日(木)に発表しました。合わせて、両AIで生成できる動画や画像の例を集めたデモサイトも用意されています。 Emu Video and Emu Edit: Our latest generative AI research milestones https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/ Emu Video | Meta https://emu-video.metademolab.com/ Emu Edit https://emu-edit.metademolab.com/ ◆Emu Video Emu Videoは文章(プロンプト)を元に4秒間</description>
     </item>
+    <item>
+      <title>Microsoftが「Bing」検索の生成AIによる要約機能「Generative AI Captions」を発表／GPT-4を使ってWebページの検索キーワードを分析、わかりやすい概要を生成</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1547704.html</link>
+      <pubDate>2023/11/17 08:28</pubDate>
+      <description>Copilot StudioはMicrosoft 365 E5というお高いパッケージに入らないとプレビュー版すら使えないらしい。 仕方ないので会社で入りましたよ。会社に所属してるのは3人だけど、E5だと25人分のアカウントがついてくる。 しかし!!! 金さえ払えば使えるというほどイージーなものではなかったので皆さんにお伝えします。ちなみにE5に入っただけで月額45000円(1800円x25で)になりました(ただし七日間の試用期間中にキャンセルすれば無料に)。 まずMicrosoft365で企業アカウントを作り、会社のメンバー的な人に個人アカウントを発行します(この時点でかなりハードルが高い)。 そしてCopilot Studioのページからリンクに飛べば、企業の個人アカウントでログインできた。やったぜ! しかしログインしても、様子がおかしい。 なんかフローチャートが出てきて、フローチャート</description>
+    </item>
   </channel>
 </rss>
