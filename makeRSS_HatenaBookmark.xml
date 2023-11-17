@@ -9366,5 +9366,32 @@
       <pubDate>2023/11/17 01:22</pubDate>
       <description>「いまが後継者誕生の瞬間かもしれない」──「GAFAM」が支配するテクノロジー業界についてそう語るのは、コロンビア大学ロースクールの教授ティム・ウーだ。 これまでも、グーグル、アップル、フェイスブック（現メタ）、アマゾン、マイクロソフトの頭文字をとって表現されてきたテック業界の主要メンバーたちは、Netflixを加えて「FAANG」になったり、最近ではテスラとエヌビディアの台頭で「MATANA」と呼ばれたりしてきた。 そんななか、米誌「アトランティック」が着目したのは、勢いを増す生成AIの分野で注目を集める「GOMA」だ。AIチャットボットとその類のものはまだ初期段階にあるとしながらも、「AIの世界では、すでにすべてがたった4社に集約されつつある。グーグル、オープンAI、マイクロソフト、アンソロピックである」と書く。 従業員数たった数百人のスタートアップ企業オープンAIは、2022年11月</description>
     </item>
+    <item>
+      <title>日本に特化したStable Diffusionが登場。商用利用可で日本風の画像が作れる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1547940.html</link>
+      <pubDate>2023/11/17 17:36</pubDate>
+      <description>プロンプトだけではなく、ブロックを組み合わせるノーコード開発のような形でもアプリを作成できる。利用できる大規模言語モデルは米AI企業Anthropicの「Claude」など5種類。どの機能も当面は無料で提供するという。作成したアプリはParty Rock上でのみ利用できる。 関連記事 Amazon、OpenAI競合のAnthropicに最大40億ドル投資　AWSでモデル開発 Amazonは、OpenAI競合のAnthropicと生成AI推進の戦略的提携を結び、最大40億ドルを投資すると発表した。AntrhopicはAWSでモデルの開発を行い、AWSの顧客に早期アクセスを提供する計画。 AWSが生成AIに本格参入　テキスト生成、文章要約、画像生成など　API経由で利用できる「Amazon Bedrock」発表 AWSが生成AIに本格参入。API経由で生成AIを利用できる「Amazon Bed</description>
+    </item>
+    <item>
+      <title>Metaが文章から違和感ゼロの動画を生成するAI「Emu Video」＆文章で指示して画像を編集できるAI「Emu Edit」を発表</title>
+      <link>https://gigazine.net/news/20231117-meta-ai-emu-video-edi/</link>
+      <pubDate>2023/11/17 13:09</pubDate>
+      <description>米Microsoftが、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 米Microsoftは11月15日（現地時間）、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 Azure AI Searchは電子メールやPDFなど、構造化されていないさまざまなデータを対象にできるクラウド型の検索サービス。大規模言語モデル「GPT-3.5」などのAPIをクラウドサービス「Microsoft Azure」上で使える「Azure OpenAI Service」と組み合わせることで、検索した資料を基にした回答ができるチャットbotの作成にも活用できる。改称は2度</description>
+    </item>
+    <item>
+      <title>大規模言語モデル（LLM）の強力な応用特許の権利化が始まっています（栗原潔） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/d97eebd511e55002d8c8d1ea1a195f8df74e96f6</link>
+      <pubDate>2023/11/17 10:48</pubDate>
+      <description>Copilot StudioはMicrosoft 365 E5というお高いパッケージに入らないとプレビュー版すら使えないらしい。 仕方ないので会社で入りましたよ。会社に所属してるのは3人だけど、E5だと25人分のアカウントがついてくる。 しかし!!! 金さえ払えば使えるというほどイージーなものではなかったので皆さんにお伝えします。ちなみにE5に入っただけで月額45000円(1800円x25で)になりました(ただし七日間の試用期間中にキャンセルすれば無料に)。 まずMicrosoft365で企業アカウントを作り、会社のメンバー的な人に個人アカウントを発行します(この時点でかなりハードルが高い)。 そしてCopilot Studioのページからリンクに飛べば、企業の個人アカウントでログインできた。やったぜ! しかしログインしても、様子がおかしい。 なんかフローチャートが出てきて、フローチャート</description>
+    </item>
+    <item>
+      <title>中小情シスに捧ぐ「セキュリティに理解がない上層部」説得のいろは　予算獲得の勘所</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/14/news058_2.html</link>
+      <pubDate>2023/11/14 14:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b3eee61734c4175d1413c550fb7b7fc5f7d137a8/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1547%2F141%2Fvisual_studio.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
