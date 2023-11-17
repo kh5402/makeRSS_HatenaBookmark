@@ -9267,5 +9267,29 @@
       <pubDate>2023/11/15 17:51</pubDate>
       <description>年6000万円のムダ削減した三菱重工の工場DX　元社会人野球選手が主導したAI活用のウラ側：Google Cloud Next Tokyo ‘23（1/2 ページ） とある薬品の廃棄が減らせず、年6000万円の無駄が発生していた三菱重工。元社会人野球選手の社員がAIによる改善プロジェクトに任命されたが、「不安を感じたままのスタートだった」という。実際の取り組みはどう進んだのか。 「担当者の暗黙知を基に手配していた結果、2020年度には月平均で500万円、年にして約6000万円の廃棄が発生していた。非常に高額な廃棄だった」──三菱重工業江波工場に務める福田さんは、工場で発生していたある“ムダ”についてこう振り返る。 江波工場はかつて、ある薬品の需給調整に大きな課題を抱えていた。これまではベテランが自身の経験を基に発注していたが、性質上保存が効かず、効率的な需給管理ができていなかった。最も多い</description>
     </item>
+    <item>
+      <title>技術書典15の会場で感じた技術の共有空間 - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/techbook-fest-after-talk</link>
+      <pubDate>2023/11/17 12:09</pubDate>
+      <description>Stability AIは11月17日、「Japanese Stable Diffusion XL」（JSDXL）を公開しました。 JSDXLは、テキストで記述されたプロンプトに応じて画像を出力するText-to-Imageモデルの最新版であるStable Diffusion XL（SDXL）を日本向けに特化させたAIモデル。 日本語を翻訳ではなく直接扱うことができるため、日本語特有の表現を認識し、日本の伝統的なものから現代的なものまで文化やアートを反映した高品質の画像を生成できるとしています。 ▲男子高校生のプロフィール写真（左: DALLE-3, 中央: 翻訳+SDXL, 右: JSDXL） ▲海岸沿いを走るライダー（左: DALLE-3, 中央: 翻訳+SDXL, 右: JSDXL） なお、JSDXLの学習データは、クリエイターから要求のあったオプトアウト、robots.txtや利用</description>
+    </item>
+    <item>
+      <title>大規模言語モデルを選択→数秒後にAzure上で試せる「Models as a Service」登場　従量課金制の推論API、ファインチューニングも可能。</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/17/news095.html</link>
+      <pubDate>2023/11/17 10:36</pubDate>
+      <description>世界中を席巻した生成AIは、ブームに終わることなく着実に社会のさまざまな場面で利用が進んでいます。特にChatGPTを始めとするテキスト生成はビジネスシーンですぐに適用可能なケースも多く、使いこなす人とそうでない人には大きな差が生じつつあります。 使いこなすノウハウにも一定の知見が貯まっており、定番となるセオリーが整理されています。正しく学ぶことができれば一気にキャッチアップできるでしょう。Udemyの講座でも、ChatGPTを使いこなすプロンプトの作法や、アプリケーションにLLM（大規模言語モデル）を組み込むノウハウ、AIをより深く知る数学知識などに人気があります。 この記事では、2023年11月17日（金）に始まるブラックフライデーセール（24日まで）、そして26日（日）から2日間のサイバーセールの対象になる人気講座から、エンジニアリングやビジネスシーンにおいて読者の成長を助けてくれる</description>
+    </item>
+    <item>
+      <title>Windows 10にも「Copilot in Windows」が導入へ ～Microsoftが明らかに／サポート期間が残り2年を切ったOSに異例の追加投資、ただしサポート終了日に変更なし</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1547722.html</link>
+      <pubDate>2023/11/17 08:55</pubDate>
+      <description>ただし、PCの要件として、4GB以上のRAMと720ピクセル以上の解像度をサポートするディスプレイアダプタが求められる。PCが要件を満たさない場合、セーフガードホールドが適用され、Copilotは提供しない可能性があるという。 MicrosoftはWindows 10のサポートページで、「WindowsのCopilot（プレビュー）に関する素晴らしいフィードバックを聞き、その価値をより多くのユーザーに拡張したいと考え」、「Windows 10へのアプローチを見直し、すべてのユーザーがCopilotを含むWindows PCから最大限の価値を得ることができるよう、追加の投資を行う」と説明している。 また、AI関連の機能は今後もWindows 10にも追加する可能性はあるが、「2025年10月14日のWindows 10サポート終了の予定は変更しない」としている。 関連記事 Microsoft</description>
+    </item>
+    <item>
+      <title>最高性能の、日本語画像言語特徴抽出モデル「Japanese Stable CLIP」をリリースしました — Stability AI Japan</title>
+      <link>https://ja.stability.ai/blog/japanese-stable-clip</link>
+      <pubDate>2023/11/15 14:46</pubDate>
+      <description>Draw a ui with tldraw.</description>
+    </item>
   </channel>
 </rss>
