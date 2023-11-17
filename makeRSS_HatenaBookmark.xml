@@ -9426,5 +9426,20 @@
       <pubDate>2023/11/17 07:42</pubDate>
       <description>Stability AI は日本に特化した text-to-image モデル「Japanese Stable Diffusion XL（JSDXL）」をリリースしました。商用利用可能な「JSDXL」は、日本語入力の対応に加え、日本スタイルや日本を題材とした画像を生成することができます。 Japanese Stable Diffusion XL 「Japanese Stable Diffusion XL（JSDXL）」は、最新の英語版 text-to-image モデルSDXLに対して、日本語入力はもちろん、日本の文化やものが理解・反映された画像生成に特化させた日本向け text-to-image モデルです。 昨今、SDXL を含む強力な text-to-image モデルが公開されております。これらと翻訳ツールを組み合わせることで日本語入力は可能ですが、日本特有の表現の認識が難しい点や</description>
     </item>
+    <item>
+      <title>これ、かなり革命的。自分のChatGPTが作れる「GPTs」 (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/169/4169025/</link>
+      <pubDate>2023/11/17 15:25</pubDate>
+      <description>プログラムで自動的にインターネット上で動作するボットには、インターネット上のインデックスを作成するなど有益なものもありますが、大半は悪意のある目的で設計されています。セキュリティ企業のArkose Labsによると、インターネットトラフィックの73％が悪いボットとクリックファームによるもので構成されているとのことです。 Arkose Labs’ Report Finds Nearly Three-Quarters of Web Traffic is Malicious, with Generative AI and Cybercrime-as-a-Service fueling bot attacks | Arkose Labs https://www.arkoselabs.com/latest-news/arkose-labs-report-finds-nearly-three-quar</description>
+    </item>
+    <item>
+      <title>Microsoft Copilot Studio による カスタムCopilot の作成｜npaka</title>
+      <link>https://note.com/npaka/n/n3fcc8060955b</link>
+      <pubDate>2023/11/17 18:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/682c763ddec1b1fcb0ee9cf28c0f985650d1b092/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F940%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
