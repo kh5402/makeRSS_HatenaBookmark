@@ -9405,5 +9405,26 @@
       <pubDate>2023/11/17 08:28</pubDate>
       <description>Copilot StudioはMicrosoft 365 E5というお高いパッケージに入らないとプレビュー版すら使えないらしい。 仕方ないので会社で入りましたよ。会社に所属してるのは3人だけど、E5だと25人分のアカウントがついてくる。 しかし!!! 金さえ払えば使えるというほどイージーなものではなかったので皆さんにお伝えします。ちなみにE5に入っただけで月額45000円(1800円x25で)になりました(ただし七日間の試用期間中にキャンセルすれば無料に)。 まずMicrosoft365で企業アカウントを作り、会社のメンバー的な人に個人アカウントを発行します(この時点でかなりハードルが高い)。 そしてCopilot Studioのページからリンクに飛べば、企業の個人アカウントでログインできた。やったぜ! しかしログインしても、様子がおかしい。 なんかフローチャートが出てきて、フローチャート</description>
     </item>
+    <item>
+      <title>インターネットトラフィックの7割以上は悪いボットと詐欺に使われている</title>
+      <link>https://gigazine.net/news/20231117-internet-traffic-bot/</link>
+      <pubDate>2023/11/17 21:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/682c763ddec1b1fcb0ee9cf28c0f985650d1b092/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F940%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google DeepMindが音楽生成に特化したAIモデル「Lyria」を発表、口ずさむだけでメロディーが生成される</title>
+      <link>https://gigazine.net/news/20231117-google-deepmind-lyria/</link>
+      <pubDate>2023/11/17 13:16</pubDate>
+      <description>プロンプトだけではなく、ブロックを組み合わせるノーコード開発のような形でもアプリを作成できる。利用できる大規模言語モデルは米AI企業Anthropicの「Claude」など5種類。どの機能も当面は無料で提供するという。作成したアプリはParty Rock上でのみ利用できる。 関連記事 Amazon、OpenAI競合のAnthropicに最大40億ドル投資　AWSでモデル開発 Amazonは、OpenAI競合のAnthropicと生成AI推進の戦略的提携を結び、最大40億ドルを投資すると発表した。AntrhopicはAWSでモデルの開発を行い、AWSの顧客に早期アクセスを提供する計画。 AWSが生成AIに本格参入　テキスト生成、文章要約、画像生成など　API経由で利用できる「Amazon Bedrock」発表 AWSが生成AIに本格参入。API経由で生成AIを利用できる「Amazon Bed</description>
+    </item>
+    <item>
+      <title>マイクロソフト、大規模言語モデルを選択すると数秒後にAzure上で試せる「Models as a Service」発表。従量課金制の推論API、ファインチューニングも可能。Ignite 2023</title>
+      <link>https://www.publickey1.jp/blog/23/azuremodels_as_a_serviceapiignite_2023.html</link>
+      <pubDate>2023/11/17 07:42</pubDate>
+      <description>Stability AI は日本に特化した text-to-image モデル「Japanese Stable Diffusion XL（JSDXL）」をリリースしました。商用利用可能な「JSDXL」は、日本語入力の対応に加え、日本スタイルや日本を題材とした画像を生成することができます。 Japanese Stable Diffusion XL 「Japanese Stable Diffusion XL（JSDXL）」は、最新の英語版 text-to-image モデルSDXLに対して、日本語入力はもちろん、日本の文化やものが理解・反映された画像生成に特化させた日本向け text-to-image モデルです。 昨今、SDXL を含む強力な text-to-image モデルが公開されております。これらと翻訳ツールを組み合わせることで日本語入力は可能ですが、日本特有の表現の認識が難しい点や</description>
+    </item>
   </channel>
 </rss>
