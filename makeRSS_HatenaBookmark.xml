@@ -9291,5 +9291,50 @@
       <pubDate>2023/11/15 14:46</pubDate>
       <description>Draw a ui with tldraw.</description>
     </item>
+    <item>
+      <title>Copilot Studioを使ってみた。注意点と実際にかかるお金の話など｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/ne4429ab1ee4b</link>
+      <pubDate>2023/11/17 13:32</pubDate>
+      <description>共有空間とは エムスリーVPoEの河合(@vaaaaanquish)です。エムスリーエンジニアリンググループより有志のエンジニアが集まり、11/12に開催された『技術書典15 オフライン』に新刊を携えて参加しました。 会社や個人、技術分野、クラスタの垣根を超えて、技術で繋がり気付きを与えられ、より技術が好きになる空間だったなと感じた本当に良い1日でした。 技術書典会場での出会い エムスリーテックブック5とエムスリーブース おわりに We&amp;#39;re hiring !!! 技術書典会場での出会い 私自身は、過去にもエムスリーテックブックに寄稿しているのですが、オフラインでの技術書典は初めての参加でした。 会場では、実際に眼の前で詳しく話を聞きながら見本誌を読むと、つい買ってしまうコミケ現象を感じました。 私は、機械学習関連の本や企業本、vimから移行チャレンジしたいと常々思っていたVSCode関連</description>
+    </item>
+    <item>
+      <title>日本特化の商用利用可能 text-to-image モデル「Japanese Stable Diffusion XL」をリリースしました — Stability AI Japan</title>
+      <link>https://ja.stability.ai/blog/japanese-stable-diffusion-xl</link>
+      <pubDate>2023/11/17 11:17</pubDate>
+      <description>Stability AIは11月17日、「Japanese Stable Diffusion XL」（JSDXL）を公開しました。 JSDXLは、テキストで記述されたプロンプトに応じて画像を出力するText-to-Imageモデルの最新版であるStable Diffusion XL（SDXL）を日本向けに特化させたAIモデル。 日本語を翻訳ではなく直接扱うことができるため、日本語特有の表現を認識し、日本の伝統的なものから現代的なものまで文化やアートを反映した高品質の画像を生成できるとしています。 ▲男子高校生のプロフィール写真（左: DALLE-3, 中央: 翻訳+SDXL, 右: JSDXL） ▲海岸沿いを走るライダー（左: DALLE-3, 中央: 翻訳+SDXL, 右: JSDXL） なお、JSDXLの学習データは、クリエイターから要求のあったオプトアウト、robots.txtや利用</description>
+    </item>
+    <item>
+      <title>MUFGがAWSとの連携強化　AI・機械学習サービスの活用加速</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/16/news131.html</link>
+      <pubDate>2023/11/16 15:00</pubDate>
+      <description>「いまが後継者誕生の瞬間かもしれない」──「GAFAM」が支配するテクノロジー業界についてそう語るのは、コロンビア大学ロースクールの教授ティム・ウーだ。 これまでも、グーグル、アップル、フェイスブック（現メタ）、アマゾン、マイクロソフトの頭文字をとって表現されてきたテック業界の主要メンバーたちは、Netflixを加えて「FAANG」になったり、最近ではテスラとエヌビディアの台頭で「MATANA」と呼ばれたりしてきた。 そんななか、米誌「アトランティック」が着目したのは、勢いを増す生成AIの分野で注目を集める「GOMA」だ。AIチャットボットとその類のものはまだ初期段階にあるとしながらも、「AIの世界では、すでにすべてがたった4社に集約されつつある。グーグル、オープンAI、マイクロソフト、アンソロピックである」と書く。 従業員数たった数百人のスタートアップ企業オープンAIは、2022年11月</description>
+    </item>
+    <item>
+      <title>Microsoft Copilot Studio と Copilot の概要｜npaka</title>
+      <link>https://note.com/npaka/n/n765b90a8cd47</link>
+      <pubDate>2023/11/16 21:34</pubDate>
+      <description>AWS News Blog Build AI apps with PartyRock and Amazon Bedrock If you are ready to learn more about Generative AI while having fun and building cool stuff, check out PartyRock.aws . You can experiment, learn all about prompt engineering, build mini-apps, and share them with your friends — all without writing any code or creating an AWS account. You can also start with an app that has been shared wi</description>
+    </item>
+    <item>
+      <title>Google製チャットAI「Bard」の年齢制限が13歳以上に緩和＆グラフ生成機能や途中式表示機能なども追加される</title>
+      <link>https://gigazine.net/news/20231116-google-bard-safety-features/</link>
+      <pubDate>2023/11/16 20:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aa70e9bba0584f19f118397345785d5f54a115d2/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F144%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>[Ignite 2023] Azure AI アップデートまとめ</title>
+      <link>https://zenn.dev/microsoft/articles/09882f9eefacb0</link>
+      <pubDate>2023/11/16 12:08</pubDate>
+      <description>OpenAIは、ここ数日の急激な利用の増加を受け、「ChatGPT Plus」への新規登録を一時的に停止した。新たに同サービスの利用を希望する場合は、順番待ちリストに登録しておくと、サブスクリプション登録が再開されたときにアプリ内で通知を受け取れるという。 同社の最高経営責任者（CEO）であるSam Altman氏は、X（旧Twitter）への投稿で次のように述べている。「DevDay後の利用の急増は、当社のキャパシティを超えており、誰もが素晴らしい経験をできるようにしたいと考えている」 we are pausing new ChatGPT Plus sign-ups for a bit :( the surge in usage post devday has exceeded our capacity and we want to make sure everyone has a gr</description>
+    </item>
+    <item>
+      <title>Microsoft、AI半導体を自社開発　ChatGPTの性能向上も - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN14DXQ0U3A111C2000000/</link>
+      <pubDate>2023/11/16 06:49</pubDate>
+      <description>Apple「M3 MacBook Proの8GBは、おそらく他のシステムの16GBと同等。実際に触ってみることが大切」 2023年11月16日 Apple, Mac コメント：37 Appleの製品マーケティング担当副社長であるボブ・ボーチャーズ氏は中国の機械学習エンジニアあるリン・イリイ氏のインタビューを受けたのですが、このときに「8GBという少ないRAMは購入希望者の懸念事項の一つになっている」との指摘を受けたボーチャーズ氏は「私たちのメモリは他のメモリと同等ではありません」と話し、その理由について「Appleはメモリ圧縮や統一されたメモリアーキテクチャを採用していて、メモリを非常に効率的に使用しているからです」と説明しました。 さらにボーチャーズ氏は「M3 MacBook Proの8GBは、おそらく他のシステムの16GBと同等です。私が言いたいのは、実際に自分のやりたいことを試しても</description>
+    </item>
   </channel>
 </rss>
