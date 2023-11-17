@@ -9336,5 +9336,29 @@
       <pubDate>2023/11/16 06:49</pubDate>
       <description>Apple「M3 MacBook Proの8GBは、おそらく他のシステムの16GBと同等。実際に触ってみることが大切」 2023年11月16日 Apple, Mac コメント：37 Appleの製品マーケティング担当副社長であるボブ・ボーチャーズ氏は中国の機械学習エンジニアあるリン・イリイ氏のインタビューを受けたのですが、このときに「8GBという少ないRAMは購入希望者の懸念事項の一つになっている」との指摘を受けたボーチャーズ氏は「私たちのメモリは他のメモリと同等ではありません」と話し、その理由について「Appleはメモリ圧縮や統一されたメモリアーキテクチャを採用していて、メモリを非常に効率的に使用しているからです」と説明しました。 さらにボーチャーズ氏は「M3 MacBook Proの8GBは、おそらく他のシステムの16GBと同等です。私が言いたいのは、実際に自分のやりたいことを試しても</description>
     </item>
+    <item>
+      <title>Azure Cognitive Searchが改称　「Azure AI Search」に</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/16/news175.html</link>
+      <pubDate>2023/11/16 20:01</pubDate>
+      <description>Copilot StudioはMicrosoft 365 E5というお高いパッケージに入らないとプレビュー版すら使えないらしい。 仕方ないので会社で入りましたよ。会社に所属してるのは3人だけど、E5だと25人分のアカウントがついてくる。 しかし!!! 金さえ払えば使えるというほどイージーなものではなかったので皆さんにお伝えします。ちなみにE5に入っただけで月額45000円(1800円x25で)になりました(ただし七日間の試用期間中にキャンセルすれば無料に)。 まずMicrosoft365で企業アカウントを作り、会社のメンバー的な人に個人アカウントを発行します(この時点でかなりハードルが高い)。 そしてCopilot Studioのページからリンクに飛べば、企業の個人アカウントでログインできた。やったぜ! しかしログインしても、様子がおかしい。 なんかフローチャートが出てきて、フローチャート</description>
+    </item>
+    <item>
+      <title>『Japanese Stable Diffusion XL』公開。日本語プロンプトで日本文化を反映した画像出力 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/17/2274.html</link>
+      <pubDate>2023/11/17 12:08</pubDate>
+      <description>カタログから選択すると数秒後には利用可能、従量課金制 Models as a Serviceでは、カタログからモデルを選択すると数秒でその大規模言語モデルに対する推論APIとファインチューニングが可能になります。 開発者はすぐにプレイグラウンドでの大規模言語モデルの探索や、Prompt Flow、Sematic Kernel、LangChainなどのツールを用いて大規模言語モデルアプリケーションの構築などを実行できます。 また、独自のトレーニングデータを提供するだけで、Llama 2モデルのファインチューニングを簡単に始めることができます。 Microsoft Azureは以前からAzure AIモデルカタログを提供していましたが、カタログから選択したモデルをデプロイするための大量のGPUのプロビジョニングに時間がかかるなどの課題がありました。 Models as a Serviceでは、</description>
+    </item>
+    <item>
+      <title>Build AI apps with PartyRock and Amazon Bedrock | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/</link>
+      <pubDate>2023/11/17 02:59</pubDate>
+      <description>Googleが2023年2月に発表したチャットAI「Bard」は、リリース以降、「Googleレンズ機能の追加」など、精力的な開発が行われてきました。Googleは2023年11月16日からBardを使用できる最低年齢を1歳引き下げ、同時にグラフ生成機能や、違法薬物などの安全でないコンテンツを表示しない「安全機能」などを導入することを発表しました。 Google will responsibly expand Bard access to teenagers around the world https://blog.google/products/bard/google-bard-expansion-teens/ Google Bard now available for teens with safety features https://9to5google.com/2023/11/</description>
+    </item>
+    <item>
+      <title>ＡＩ活用した新薬の開発競争、世界初の候補薬が迎える大事な局面</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-11-14/S43BNKT1UM0W01</link>
+      <pubDate>2023/11/14 19:07</pubDate>
+      <description>リンゴの生産現場の人手不足を支援します。JR東日本の社員が、弘前市のリンゴ園で収穫作業のボランティアをしました。 弘前市相馬の嶋口千速さんの園地では、弘前市や東京、それに秋田で勤務するJR東日本の社員9人がサンふじの収穫を手伝いました。 JR東日本では、観光資源となる農業を守ることは、将来の鉄道利用につながると考え、地域貢献活動として、2023年から農業ボランティアを社員に推進しています。 長野と山形で実績があり、青森県内では今回が初めての実施です。 【JR東日本秋田支社　社員】 「リンゴと向き合って、農家さんへの感謝の気持ちというのが、再確認できるようなきっかけになったと思います」 【JR東日本東京本社　社員】 「最初は難しそうかなと思っていたんですけども、やってみるとコツをつかめば簡単にできて楽しいです」 「労働力が足りないという所に、ピンポイントでお手伝いができて、貢献できるようにな</description>
+    </item>
   </channel>
 </rss>
