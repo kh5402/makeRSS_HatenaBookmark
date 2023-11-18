@@ -9612,5 +9612,17 @@
       <pubDate>2023/11/16 11:48</pubDate>
       <description>Copilot StudioはMicrosoft 365 E5というお高いパッケージに入らないとプレビュー版すら使えないらしい。 仕方ないので会社で入りましたよ。会社に所属してるのは3人だけど、E5だと25人分のアカウントがついてくる。 しかし!!! 金さえ払えば使えるというほどイージーなものではなかったので皆さんにお伝えします。ちなみにE5に入っただけで月額45000円(1800円x25で)になりました(ただし七日間の試用期間中にキャンセルすれば無料に)。 まずMicrosoft365で企業アカウントを作り、会社のメンバー的な人に個人アカウントを発行します(この時点でかなりハードルが高い)。 そしてCopilot Studioのページからリンクに飛べば、企業の個人アカウントでログインできた。やったぜ! しかしログインしても、様子がおかしい。 なんかフローチャートが出てきて、フローチャート</description>
     </item>
+    <item>
+      <title>RapidusがTenstorrentと提携、AIエッジ領域の開発を加速</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2311/17/news174.html</link>
+      <pubDate>2023/11/17 21:27</pubDate>
+      <description>OpenAIの発表では、ブロックマン氏は取締役会からは抜けるが社長には留任するとあったが、同氏はポストで「今日のニュースを知った後」辞任するという社内向けメールを送ったと語った。 また、OpenAIに数十億ドルを投資している米Microsoftのサティア・ナデラCEOは同日、「われわれはOpenAIと長期契約を結んでおり、製品ロードマップを実現するために必要なものすべてに完全にアクセスできる。そして、（OpenAIの暫定CEOである）ミラ（ムラティ氏）と、今後もパートナーシップを続け、尽力していく」という声明文を発表した。</description>
+    </item>
+    <item>
+      <title>Microsoftが生成AI基盤を大幅強化、独自開発チップ投入し「最後のピース」埋める</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02637/111600006/</link>
+      <pubDate>2023/11/16 20:54</pubDate>
+      <description>プロンプトだけではなく、ブロックを組み合わせるノーコード開発のような形でもアプリを作成できる。利用できる大規模言語モデルは米AI企業Anthropicの「Claude」など5種類。どの機能も当面は無料で提供するという。作成したアプリはParty Rock上でのみ利用できる。 関連記事 Amazon、OpenAI競合のAnthropicに最大40億ドル投資　AWSでモデル開発 Amazonは、OpenAI競合のAnthropicと生成AI推進の戦略的提携を結び、最大40億ドルを投資すると発表した。AntrhopicはAWSでモデルの開発を行い、AWSの顧客に早期アクセスを提供する計画。 AWSが生成AIに本格参入　テキスト生成、文章要約、画像生成など　API経由で利用できる「Amazon Bedrock」発表 AWSが生成AIに本格参入。API経由で生成AIを利用できる「Amazon Bed</description>
+    </item>
   </channel>
 </rss>
