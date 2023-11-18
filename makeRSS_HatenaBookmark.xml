@@ -9543,5 +9543,23 @@
       <pubDate>2023/11/17 11:17</pubDate>
       <description>2. カスタムCopilotの作成手順「カスタムCopilot」の作成手順は、次のとおりです。 (1) 「Microsoft Copilot Studio」のサイトを開き、「try free」からログイン。 (2) 「コパイロットを作成する」の「新しいコパイロット」をクリック。 (3) 以下のように設定して、作成ボタンを押す。 「日本語」は生成AI機能に未対応だったので「英語」、会話を強化するためのURLは「OpenAIのURL」にしました。 ・コパイロットの名前 : MyCopilot ・コパイロットの話す言語 : 英語 ・生成型の回答で会話を強化する : https://openai.com/ (4) 「Copilotのテスト」でメッセージを入力して動作確認。 「GPT-4Vについて教えてください。」の質問に、ソース付きで回答してくれました。 (5) 公開タブの公開ボタンでCopilo</description>
     </item>
+    <item>
+      <title>OpenAIサム・アルトマンCEOが退社、事実上の追放。取締役会「意思疎通が不誠実と判断」 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/18/2285.html</link>
+      <pubDate>2023/11/18 09:08</pubDate>
+      <description>OpenAIの発表では、ブロックマン氏は取締役会からは抜けるが社長には留任するとあったが、同氏はポストで「今日のニュースを知った後」辞任するという社内向けメールを送ったと語った。 また、OpenAIに数十億ドルを投資している米Microsoftのサティア・ナデラCEOは同日、「われわれはOpenAIと長期契約を結んでおり、製品ロードマップを実現するために必要なものすべてに完全にアクセスできる。そして、（OpenAIの暫定CEOである）ミラ（ムラティ氏）と、今後もパートナーシップを続け、尽力していく」という声明文を発表した。</description>
+    </item>
+    <item>
+      <title>オープンAIのCEO退任　アルトマン氏事実上解任か ｜ 共同通信</title>
+      <link>https://nordot.app/1098367180107645273</link>
+      <pubDate>2023/11/18 08:34</pubDate>
+      <description>以下の記事が面白かったので、かるくまとめました。 ・Applying OpenAI&amp;#39;s RAG Strategies 1. はじめに「Open AI」はデモデーで一連のRAG実験を報告しました。評価指標はアプリケーションによって異なりますが、何が機能し、何が機能しなかったかを確認するのは興味深いことです。以下では、各手法を説明し、それぞれを自分で実装する方法を示します。アプリケーションでのこれらの方法を理解する能力は非常に重要です。問題が異なれば異なる検索手法が必要となるため、「万能の」解決策は存在しません。 2. RAG スタックにどのように適合するかまず、各手法をいくつかの「RAGカテゴリ」に分類します。以下は、カテゴリ内の各RAG実験を示し、RAGスタックに配置する図です。 3. ベースライン距離ベースのベクトルデータベース検索は、クエリを高次元空間に埋め込み（表現）し、「距離」に基</description>
+    </item>
+    <item>
+      <title>Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/</link>
+      <pubDate>2023/11/14 06:00</pubDate>
+      <description>FBIがみんなに広告ブロッカーを使って欲しい理由2023.11.15 16:3583,023 Thomas Germain - Gizmodo US ［原文］ （ Kenji P. Miyajima ） 2022年12月26日の記事を編集して再掲載しています。 みなさんは広告ブロッカー、使ってますか？ 凶悪犯罪の捜査で忙しいはずの米連邦捜査局（FBI）が、公式サイトで広告ブロッカーを使用するように呼びかけました。 広告ブロッカーはネット詐欺防止に効果的GoogleやBingなどの検索結果にブランドや企業の広告が表示されるじゃないですか。インターネット犯罪苦情センターによると、広告のブランドになりすました犯罪者が何の疑いも持たないユーザーを本物そっくりの偽サイトに誘導して、ランサムウエアやフィッシング攻撃の餌食にするそうです。FBIは、対応策として広告ブロッカーが効果的としています。 FBI</description>
+    </item>
   </channel>
 </rss>
