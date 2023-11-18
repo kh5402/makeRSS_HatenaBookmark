@@ -9525,5 +9525,23 @@
       <pubDate>2023/11/18 08:10</pubDate>
       <description>OpenAIの取締役会、サム・アルトマンCEOを解任　「取締役会の責任を果たす能力に支障をきたしている」 OpenAIの取締役会は、共同創業者でCEOのサム・アルトマン氏が辞任したと発表した。同氏が「取締役会とのコミュニケーションにおいて一貫して率直でなく、取締役会の責任を果たす能力に支障をきたしているとの結論に達した」としている。ミラ・ムラティCTOが暫定CEOに就任する。 OpenAIの運営団体として機能する米非営利団体OpenAIの取締役会は11月17日（現地時間）、共同創業者のサム・アルトマン氏（38）がCEOを辞任し、取締役会を離れることを発表した。 取締役会は公式ブログで、「アルトマン氏の辞任は、取締役会による審議プロセスを経たもの」であり、同氏が「取締役会とのコミュニケーションにおいて一貫して率直でなく、取締役会の責任を果たす能力に支障をきたしているとの結論に達した。取締役会</description>
     </item>
+    <item>
+      <title>OpenAIのブロックマン社長も辞任　Microsoftは「今後も提携は続く」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/18/news068.html</link>
+      <pubDate>2023/11/18 11:42</pubDate>
+      <description>Published 2023/11/18 07:44 (JST) Updated 2023/11/18 07:45 (JST) 【ニューヨーク共同】対話型人工知能（AI）「チャットGPT」を開発した米新興企業のオープンAIは17日、サム・アルトマン最高経営責任者（CEO）が退任すると発表した。取締役も退く。「取締役会の検討を経た結果だ。アルトマン氏がオープンAIを率いる能力を信用できない」としており、事実上の解任とみられる。 ミラ・ムラティ最高技術責任者（CTO）が暫定的なCEOに就き、後任の人選を進める。オープンAIはアルトマン氏が取締役会と十分なコミュニケーションを果たしておらず、取締役会の機能を妨げていると指摘した。 アルトマン氏は自身のX（旧ツイッター）に「オープンAIで過ごした時間を愛している。それは私にとっても恐らく世界にとっても大きな変革だった」と投稿した。 オープンAIと提</description>
+    </item>
+    <item>
+      <title>毎朝4時起床！Apple CEOの驚異の生活！ - iPhone Mania</title>
+      <link>https://iphone-mania.jp/news-559796/</link>
+      <pubDate>2023/11/17 21:27</pubDate>
+      <description>Sam Altman. | OpenAI Sam Altman has been fired as CEO of OpenAI, the company announced on Friday. “Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” the company said in its blog post. “The board no longer has confidence in his a</description>
+    </item>
+    <item>
+      <title>Windows 10のプレビュー版にAIアシスタント「Copilot in Windows」が登場</title>
+      <link>https://gigazine.net/news/20231117-windows-10-copilot-preview/</link>
+      <pubDate>2023/11/17 11:17</pubDate>
+      <description>2. カスタムCopilotの作成手順「カスタムCopilot」の作成手順は、次のとおりです。 (1) 「Microsoft Copilot Studio」のサイトを開き、「try free」からログイン。 (2) 「コパイロットを作成する」の「新しいコパイロット」をクリック。 (3) 以下のように設定して、作成ボタンを押す。 「日本語」は生成AI機能に未対応だったので「英語」、会話を強化するためのURLは「OpenAIのURL」にしました。 ・コパイロットの名前 : MyCopilot ・コパイロットの話す言語 : 英語 ・生成型の回答で会話を強化する : https://openai.com/ (4) 「Copilotのテスト」でメッセージを入力して動作確認。 「GPT-4Vについて教えてください。」の質問に、ソース付きで回答してくれました。 (5) 公開タブの公開ボタンでCopilo</description>
+    </item>
   </channel>
 </rss>
