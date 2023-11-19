@@ -9735,5 +9735,17 @@
       <pubDate>2023/11/19 09:24</pubDate>
       <description>IDチームの前田です。最近はNeo65というカスタムキーボードを組み立てて利用しており、カスタム幅が広くTocky寄りのCreemyなしっとりコトコトとした上質な打鍵音が心地良くて仕事が捗ります。 ここから本題。 今回は社内Slackで運用していたAI Chatbotが特定の人にしか返事をしなくなってしまった話と、原因解決(アプリエラーログ分析)にAIを活用した話です。 3行まとめ 社内Slackで運用していたAI Chatbotアプリが特定の人にしか返事をしなくなった アプリ不具合調査に生成AIを活用したら、人間が調査するよりも早く原因箇所の特定が完了 社内Azure OpenAI環境を整備し、エラーログ調査業務に積極的に活用していきたい 前提情報 seratch/ChatGPT-in-Slack をForkし、Azureインフラ(Azure OpenAI + Azure Functio</description>
     </item>
+    <item>
+      <title>早くも大失敗が予測されるAI Pinが提示する「5年後」の人とAIの関係 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67401</link>
+      <pubDate>2023/11/19 12:26</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米新興オープンAIの共同創業者で最高経営責任者（CEO）を突如解任されたサム・アルトマン氏が、新しい人工知能（AI）スタートアップの立ち上げを計画していることが18日、明らかになった。オープンAIの取締役会がアルトマン氏のCEO復帰について協議しているとも報じられた。新会社設立の検討については、米メディアのジ・インフォメーションやロイター通信などが報じた。アルトマン</description>
+    </item>
+    <item>
+      <title>「お～いお茶 カテキン緑茶」のパッケージをAIが作成--開発したプラグが語る「ダメ出し」に強い理由</title>
+      <link>https://japan.cnet.com/article/35211136/</link>
+      <pubDate>2023/11/16 08:50</pubDate>
+      <description>米Microsoftが、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 米Microsoftは11月15日（現地時間）、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 Azure AI Searchは電子メールやPDFなど、構造化されていないさまざまなデータを対象にできるクラウド型の検索サービス。大規模言語モデル「GPT-3.5」などのAPIをクラウドサービス「Microsoft Azure」上で使える「Azure OpenAI Service」と組み合わせることで、検索した資料を基にした回答ができるチャットbotの作成にも活用できる。改称は2度</description>
+    </item>
   </channel>
 </rss>
