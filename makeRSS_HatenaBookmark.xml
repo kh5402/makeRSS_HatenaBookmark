@@ -9777,5 +9777,17 @@
       <pubDate>2023/11/16 13:11</pubDate>
       <description>Metaが文章から動画を生成できるAI「Emu Video」と文章で指示して画像を編集できるAI「Emu Edit」を2023年11月16日(木)に発表しました。合わせて、両AIで生成できる動画や画像の例を集めたデモサイトも用意されています。 Emu Video and Emu Edit: Our latest generative AI research milestones https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/ Emu Video | Meta https://emu-video.metademolab.com/ Emu Edit https://emu-edit.metademolab.com/ ◆Emu Video Emu Videoは文章(プロンプト)を元に4秒間</description>
     </item>
+    <item>
+      <title>CLI 上の操作だけでコマンドの説明や提案をしてもらえる「GitHub Copilot in the CLI」の Public Beta が提供開始されました | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/github-copilot-cli-public-beta-launch/</link>
+      <pubDate>2023/11/18 02:07</pubDate>
+      <description>IDチームの前田です。最近はNeo65というカスタムキーボードを組み立てて利用しており、カスタム幅が広くTocky寄りのCreemyなしっとりコトコトとした上質な打鍵音が心地良くて仕事が捗ります。 ここから本題。 今回は社内Slackで運用していたAI Chatbotが特定の人にしか返事をしなくなってしまった話と、原因解決(アプリエラーログ分析)にAIを活用した話です。 3行まとめ 社内Slackで運用していたAI Chatbotアプリが特定の人にしか返事をしなくなった アプリ不具合調査に生成AIを活用したら、人間が調査するよりも早く原因箇所の特定が完了 社内Azure OpenAI環境を整備し、エラーログ調査業務に積極的に活用していきたい 前提情報 seratch/ChatGPT-in-Slack をForkし、Azureインフラ(Azure OpenAI + Azure Functio</description>
+    </item>
+    <item>
+      <title>JGLUEの構築そして 日本語LLM評価のこれから</title>
+      <link>https://speakerdeck.com/olachinkei/jgluenogou-zhu-sosite-ri-ben-yu-llmping-jia-nokorekara</link>
+      <pubDate>2023/11/19 01:05</pubDate>
+      <description>【シリコンバレー=渡辺直樹】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIのサム・アルトマン最高経営責任者（CEO）が17日、突如退任した。生成AIブームで企業価値が13兆円に急拡大する中、利益や開発スピードを優先する路線と、安全性を重視する路線で対立が生じたとの見方がある。米アップルのスティーブ・ジョブズ氏など、米テック企業では過去にも創業者が解任された例がある。</description>
+    </item>
   </channel>
 </rss>
