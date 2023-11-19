@@ -9789,5 +9789,17 @@
       <pubDate>2023/11/19 01:05</pubDate>
       <description>【シリコンバレー=渡辺直樹】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIのサム・アルトマン最高経営責任者（CEO）が17日、突如退任した。生成AIブームで企業価値が13兆円に急拡大する中、利益や開発スピードを優先する路線と、安全性を重視する路線で対立が生じたとの見方がある。米アップルのスティーブ・ジョブズ氏など、米テック企業では過去にも創業者が解任された例がある。</description>
     </item>
+    <item>
+      <title>OpenAI取締役会、解任したサム・アルトマン氏にCEO復帰求め協議中との報 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/19/2290.html</link>
+      <pubDate>2023/11/19 20:06</pubDate>
+      <description>このPDFは「LLM全盛時代の開発プラクティス」というタイトルの資料で、baseballyama氏によって作成されました。内容は主に大規模言語モデル（LLM）を活用した開発プラクティスに関するものです。 主な内容は以下の通りです： 1. **GitHub Copilotについて**: - Copilotの利用が増え、コード提案を受け入れてから精査する流れが一般的になった。 - インターネット接続がないと利用できないことが難点。 - Copilotは開いているファイルを参考にしてコードを提案し、統一されていないコードは提案の精度を低下させる。 2. **AIツールによる効率化**: - AIレビューツールとFigma to Codeツールについて議論。 - AIレビューツールは一般的なアドバイスに留まり、具体的な自社ルールに基づいたレビューが求められる。 - Figma to Codeでは、</description>
+    </item>
+    <item>
+      <title>Applying OpenAI&amp;#39;s RAG Strategies</title>
+      <link>https://blog.langchain.dev/applying-openai-rag/</link>
+      <pubDate>2023/11/18 13:24</pubDate>
+      <description>【シリコンバレー=渡辺直樹】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIのサム・アルトマン最高経営責任者（CEO）が17日、突如退任した。生成AIブームで企業価値が13兆円に急拡大する中、利益や開発スピードを優先する路線と、安全性を重視する路線で対立が生じたとの見方がある。米アップルのスティーブ・ジョブズ氏など、米テック企業では過去にも創業者が解任された例がある。</description>
+    </item>
   </channel>
 </rss>
