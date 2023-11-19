@@ -9747,5 +9747,35 @@
       <pubDate>2023/11/16 08:50</pubDate>
       <description>米Microsoftが、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 米Microsoftは11月15日（現地時間）、クラウド検索サービス「Azure Cognitive Search」の名称を変更した。新しい名前は「Azure AI Search」。価格体系やサービス内容に変更はない。 Azure AI Searchは電子メールやPDFなど、構造化されていないさまざまなデータを対象にできるクラウド型の検索サービス。大規模言語モデル「GPT-3.5」などのAPIをクラウドサービス「Microsoft Azure」上で使える「Azure OpenAI Service」と組み合わせることで、検索した資料を基にした回答ができるチャットbotの作成にも活用できる。改称は2度</description>
     </item>
+    <item>
+      <title>ChatGPTの顔サム・アルトマン氏、突如解任　開発・提携で溝か - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN1805W0Y3A111C2000000/</link>
+      <pubDate>2023/11/18 12:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4e327beb54fe63bb485acfb3f0d99dd17a22bd4d/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1548%2F096%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>自動運転AIの学習に「AIの目をかいくぐって横断歩道を渡る」変なゲームが開催される！ - ナゾロジー</title>
+      <link>https://nazology.net/archives/138556</link>
+      <pubDate>2023/11/17 13:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bec0f7c0e90eb8675f8ce9ab9b7c4fde3a7582be/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1547%2F989%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ローコード開発ツール「Copilot Studio」発表。Copilotのカスタマイズ、プラグイン開発、ワークフロー設定などが可能に（Microsoft Ignite 2023） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/17/2273.html</link>
+      <pubDate>2023/11/17 12:37</pubDate>
+      <description>以下の記事が面白かったので、かるくまとめました。 ・Applying OpenAI&amp;#39;s RAG Strategies 1. はじめに「Open AI」はデモデーで一連のRAG実験を報告しました。評価指標はアプリケーションによって異なりますが、何が機能し、何が機能しなかったかを確認するのは興味深いことです。以下では、各手法を説明し、それぞれを自分で実装する方法を示します。アプリケーションでのこれらの方法を理解する能力は非常に重要です。問題が異なれば異なる検索手法が必要となるため、「万能の」解決策は存在しません。 2. RAG スタックにどのように適合するかまず、各手法をいくつかの「RAGカテゴリ」に分類します。以下は、カテゴリ内の各RAG実験を示し、RAGスタックに配置する図です。 3. ベースライン距離ベースのベクトルデータベース検索は、クエリを高次元空間に埋め込み（表現）し、「距離」に基</description>
+    </item>
+    <item>
+      <title>マイクロソフト、GPTsに続いてカスタム「Copilot」作成ツールを発表　Bing Chatは「Copilot」に改称</title>
+      <link>https://ascii.jp/elem/000/004/169/4169538/</link>
+      <pubDate>2023/11/16 13:11</pubDate>
+      <description>Metaが文章から動画を生成できるAI「Emu Video」と文章で指示して画像を編集できるAI「Emu Edit」を2023年11月16日(木)に発表しました。合わせて、両AIで生成できる動画や画像の例を集めたデモサイトも用意されています。 Emu Video and Emu Edit: Our latest generative AI research milestones https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/ Emu Video | Meta https://emu-video.metademolab.com/ Emu Edit https://emu-edit.metademolab.com/ ◆Emu Video Emu Videoは文章(プロンプト)を元に4秒間</description>
+    </item>
   </channel>
 </rss>
