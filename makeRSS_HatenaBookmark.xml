@@ -9711,5 +9711,17 @@
       <pubDate>2023/11/17 17:24</pubDate>
       <description>日々プロダクトに向き合うエンジニアのみなさんにヒントをお届けすべく、日本最大の電子掲示板『２ちゃんねる（現５ちゃんねる）』を立ち上げた、ひろゆきさんを迎えた本連載。国内外のプロダクトを、ひろゆきさんはどうみるのか？ ひろゆきさんが開発者ならどこをブラッシュアップするのか？そんなことを、毎回話題のプロダクトを取り上げながらお届けすることでプロダクト開発で大切なことを探っていきます。 今、巷で注目を集めるプロダクトに対し、ひろゆきさんの見解を語ってもらいながら、「プロダクトづくりで大切な視点を学んでいこう」という本連載。 二回目となる今回取り上げるのは、誰でも簡単に画像が生成できる『Akuma.ai』です。 Akuma.ai：https://akuma.ai/ Kinkaku株式会社：https://www.kinkaku.com/ 現在は個人向けに作られている同プロダクトだが、「いずれは企業</description>
     </item>
+    <item>
+      <title>アルトマン氏復職を一部投資家が要求、オープンＡＩ取締役会に圧力</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-11-19/S4CGWWT0G1KW01</link>
+      <pubDate>2023/11/19 11:54</pubDate>
+      <description>IDチームの前田です。最近はNeo65というカスタムキーボードを組み立てて利用しており、カスタム幅が広くTocky寄りのCreemyなしっとりコトコトとした上質な打鍵音が心地良くて仕事が捗ります。 ここから本題。 今回は社内Slackで運用していたAI Chatbotが特定の人にしか返事をしなくなってしまった話と、原因解決(アプリエラーログ分析)にAIを活用した話です。 3行まとめ 社内Slackで運用していたAI Chatbotアプリが特定の人にしか返事をしなくなった アプリ不具合調査に生成AIを活用したら、人間が調査するよりも早く原因箇所の特定が完了 社内Azure OpenAI環境を整備し、エラーログ調査業務に積極的に活用していきたい 前提情報 seratch/ChatGPT-in-Slack をForkし、Azureインフラ(Azure OpenAI + Azure Functio</description>
+    </item>
+    <item>
+      <title>フロントエンドカンファレンス沖縄 2023 公開資料・Xアカウントリンクまとめ</title>
+      <link>https://zenn.dev/yumemi_inc/articles/2023-11-18-frontend-conf-okinawa-2023</link>
+      <pubDate>2023/11/19 08:39</pubDate>
+      <description>Sam Altman speaking on behalf of OpenAI at the APEC CEO Summit the day before he was fired. | Photo by Justin Sullivan/Getty Images The OpenAI board is in discussions with Sam Altman to return to the company as its CEO, according to multiple people familiar with the matter. One of them said Altman, who was suddenly fired by the board on Friday with no notice, is “ambivalent” about coming back and</description>
+    </item>
   </channel>
 </rss>
