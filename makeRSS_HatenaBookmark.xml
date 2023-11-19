@@ -9723,5 +9723,17 @@
       <pubDate>2023/11/19 08:39</pubDate>
       <description>Sam Altman speaking on behalf of OpenAI at the APEC CEO Summit the day before he was fired. | Photo by Justin Sullivan/Getty Images The OpenAI board is in discussions with Sam Altman to return to the company as its CEO, according to multiple people familiar with the matter. One of them said Altman, who was suddenly fired by the board on Friday with no notice, is “ambivalent” about coming back and</description>
     </item>
+    <item>
+      <title>元OpenAIのアルトマン氏、新会社検討　引き留め協議も - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN1905Z0Z11C23A1000000/</link>
+      <pubDate>2023/11/19 09:45</pubDate>
+      <description>対話型人工知能（ＡＩ）「ChatGPT（チャットＧＰＴ）」を開発した米オープンＡＩに出資している投資家らは、サム・アルトマン氏を最高経営責任者（ＣＥＯ）から解任して取締役の職からも外した同社の取締役会に対し、決定を撤回するよう圧力をかけている。事情に詳しい複数の関係者が明らかにした。 スライブ・グローバルを含む一部の投資家は、アルトマン氏のＣＥＯ復帰についてオープンＡＩの筆頭株主であるマイクロソフトと協議している。こうした動きが公にされていないことを理由に同関係者が匿名を条件に語った。関係者１人によれば、タイガー・グローバル・マネジメントも賛同している。</description>
+    </item>
+    <item>
+      <title>OpenAI Investors Plot Last-Minute Push With Microsoft To Reinstate Sam Altman As CEO</title>
+      <link>https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/</link>
+      <pubDate>2023/11/19 09:24</pubDate>
+      <description>IDチームの前田です。最近はNeo65というカスタムキーボードを組み立てて利用しており、カスタム幅が広くTocky寄りのCreemyなしっとりコトコトとした上質な打鍵音が心地良くて仕事が捗ります。 ここから本題。 今回は社内Slackで運用していたAI Chatbotが特定の人にしか返事をしなくなってしまった話と、原因解決(アプリエラーログ分析)にAIを活用した話です。 3行まとめ 社内Slackで運用していたAI Chatbotアプリが特定の人にしか返事をしなくなった アプリ不具合調査に生成AIを活用したら、人間が調査するよりも早く原因箇所の特定が完了 社内Azure OpenAI環境を整備し、エラーログ調査業務に積極的に活用していきたい 前提情報 seratch/ChatGPT-in-Slack をForkし、Azureインフラ(Azure OpenAI + Azure Functio</description>
+    </item>
   </channel>
 </rss>
