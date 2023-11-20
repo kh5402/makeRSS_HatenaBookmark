@@ -10044,5 +10044,50 @@
       <pubDate>2023/11/19 07:46</pubDate>
       <description>OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。 KillianLucas/open-interpreter: OpenAI&amp;#39;s Code Interpreter in your terminal, running locally https://github.com/KillianLucas/open-interpreter/blob/main/docs/README_JA.m</description>
     </item>
+    <item>
+      <title>最新 ChatGPTのアルトマン氏が解任！そして大手ITに | NHK | ビジネス特集</title>
+      <link>https://www3.nhk.or.jp/news/html/20231120/k10014263491000.html</link>
+      <pubDate>2023/11/20 19:47</pubDate>
+      <description>生成AIのChatGPTを開発した「オープンAI」のCEO職を先週17日に解任されたサム・アルトマン氏がIT大手のマイクロソフトに入社することが明らかになりました。マイクロソフトのサティア・ナデラCEOが19日、旧ツイッターのXに投稿しました。 マイクロソフトは「オープンAI」に多額の投資を行っており、協業関係にあります。アルトマン氏は17日に突如、解任され、アメリカのメディアは内紛の可能性を伝えていました。</description>
+    </item>
+    <item>
+      <title>OpenAIサム・アルトマンの「電撃解任」を決断した4人の取締役 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67426</link>
+      <pubDate>2023/11/20 11:51</pubDate>
+      <description>by TechCrunch OpenAIのCEOを務めていたサム・アルトマン氏が2023年11月17日に、突然解任されました。そのわずか1日後、投資家やアルトマン氏の支持者からの圧力によりOpenAIはアルトマン氏と復帰について協議を進めているものの、アルトマン氏がOpenAIに戻るかどうかは未知数だと報じられています。 OpenAI board in discussions with Sam Altman to return as CEO - The Verge https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo OpenAI board attempts to hit “Ctrl-Z” in talks wit</description>
+    </item>
+    <item>
+      <title>JSConf JP 2023 公開資料・Xアカウントリンクまとめ</title>
+      <link>https://zenn.dev/yumemi_inc/articles/2023-11-19-jsconf-jp-2023</link>
+      <pubDate>2023/11/20 08:51</pubDate>
+      <description>ControlNetって何？「そもそもControlNetって何？」という話をしていなかったのでまずそこから。ザックリ言えば「指定した画像で生成する画像の絵柄を固定する方法」だ。固定には構図だったり、絵の中に含まれる要素（Prompt）だったり、顔（の雰囲気）だったり、いろいろなものが含まれる。 現在、AUTOMATIC1111 v1.6のControlNetの項目を見ると、Canny、Depth、NormalMap、OpenPose、MLSD、Lineart、SoftEdge、Scribble/Sketch、Segmentation、Shuffle、Tile/Blur、Inpaint、InstructP2P、Reference、Recolor、Revision、T2I-Adapter、IP-Adapter…これだけの項目が並んでおり、初心者だと何が何だかさっぱり分からない。 本連載では、</description>
+    </item>
+    <item>
+      <title>ChatGPT、1年で職場変革　日清食品は営業部門で6割活用 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC1073Q0Q3A111C2000000/</link>
+      <pubDate>2023/11/20 07:15</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b189c1f8e06eea6a1d3457eaef6add29d5a681ae/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1548%2F064%2Fimage-top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ビルゲイツ氏らが注目する感情知性を持ったAI「Inflection AI」、設立1年で40億ドルの評価額に | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/11/19/infleciton-ai/</link>
+      <pubDate>2023/11/19 10:43</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session.</description>
+    </item>
+    <item>
+      <title>Japanese Stable CLIPを使って画像の感情判断ができるAPIをModalを使って実装する</title>
+      <link>https://zenn.dev/midra_lab/articles/911cd2a4346575</link>
+      <pubDate>2023/11/19 10:47</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIは、この週末に解任したサム・アルトマン氏に対して、CEOに復帰を求める方向で協議しているようです。(※記事末尾に追記あり) OpenAI取締役会は金曜日に「審査の結果、(アルトマンは) 取締役会とのコミュニケーションにおいて常に率直であったとは言えず、取締役会が責務を果たす能力の妨げとなっていたと判断した」と述べ、アルトマン氏を解任して技術責任者のミラ・ムラティ氏を暫定CEOとすることを発表していました。 取締役会はまた、社長兼取締役会長のグレッグ・ブロックマン氏は、会長職を解くものの社長の座にはとどまると発表しましたが、ブロックマン氏はアルトマン氏が会社を離れるのを受けて、「自分も辞めた」と当日</description>
+    </item>
+    <item>
+      <title>Vertex AI Feature Store に 機械学習エンジニアが涙した 理由</title>
+      <link>https://speakerdeck.com/asei/vertex-ai-feature-store-ni-ji-jie-xue-xi-enziniagalei-sita-li-you</link>
+      <pubDate>2023/11/17 20:31</pubDate>
+      <description>【シリコンバレー=渡辺直樹】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIのサム・アルトマン最高経営責任者（CEO）が17日、突如退任した。生成AIブームで企業価値が13兆円に急拡大する中、利益や開発スピードを優先する路線と、安全性を重視する路線で対立が生じたとの見方がある。米アップルのスティーブ・ジョブズ氏など、米テック企業では過去にも創業者が解任された例がある。</description>
+    </item>
   </channel>
 </rss>
