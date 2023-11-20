@@ -9933,5 +9933,44 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b189c1f8e06eea6a1d3457eaef6add29d5a681ae/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1548%2F064%2Fimage-top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>OpenAIの経営陣がサム・アルトマンCEOに復帰を打診するも「もう遅い」可能性、新AI企業創設のウワサも</title>
+      <link>https://gigazine.net/news/20231120-sam-altman-return-openai-board-ceo/</link>
+      <pubDate>2023/11/20 12:05</pubDate>
+      <description>ControlNetって何？「そもそもControlNetって何？」という話をしていなかったのでまずそこから。ザックリ言えば「指定した画像で生成する画像の絵柄を固定する方法」だ。固定には構図だったり、絵の中に含まれる要素（Prompt）だったり、顔（の雰囲気）だったり、いろいろなものが含まれる。 現在、AUTOMATIC1111 v1.6のControlNetの項目を見ると、Canny、Depth、NormalMap、OpenPose、MLSD、Lineart、SoftEdge、Scribble/Sketch、Segmentation、Shuffle、Tile/Blur、Inpaint、InstructP2P、Reference、Recolor、Revision、T2I-Adapter、IP-Adapter…これだけの項目が並んでおり、初心者だと何が何だかさっぱり分からない。 本連載では、</description>
+    </item>
+    <item>
+      <title>Azure AI Bot ServiceとAzure OpenAIを使って「生成AIチャットボット」を作ってみる – 第1回：シンプルな「オウム返し」ボットを作る | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/azure-bot-service-with-openai-step1/</link>
+      <pubDate>2023/11/20 01:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e8e211579d00edc8e16f77debbed55e65bbf4213/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1544%2F578%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - BuilderIO/gpt-crawler: Crawl a site to generate knowledge files to create your own custom GPT from a URL</title>
+      <link>https://github.com/BuilderIO/gpt-crawler</link>
+      <pubDate>2023/11/15 17:30</pubDate>
+      <description>対話型人工知能（ＡＩ）「ChatGPT（チャットＧＰＴ）」を開発した米オープンＡＩの幹部や投資家らは、サム・アルトマン氏を最高経営責任者（ＣＥＯ）に復職させることを目指し交渉しているが、取締役会の構成と役割を巡って協議が暗礁に乗り上げている。事情に詳しい複数の関係者が明らかにした。 アルトマン氏の復帰決定はすぐに下される可能性もあるが、協議は流動的でまだ進行中。関係者によると、19日正午にアルトマン氏とグレッグ・ブロックマン前社長はオープンＡＩの本社にいたという。 関係者の１人によれば、取締役会に退任とアルトマン氏の復職を求めるオープンＡＩの首脳陣には、ミラ・ムラティ暫定ＣＥＯやジェイソン・クォン最高戦略責任者、ブラッド・ライトキャップ最高執行責任者（ＣＯＯ）らが含まれている。 17日に解任されたアルトマン氏は復帰に前向きだが、既存の取締役の解任など、ガバナンス（企業統治）の変更を望んでい</description>
+    </item>
+    <item>
+      <title>人々はChatGPTを過信しすぎ…AIが抱える超難問「シンボルグラウンディング問題」とは</title>
+      <link>https://www.sbbit.jp/article/fj/126888</link>
+      <pubDate>2023/11/20 07:09</pubDate>
+      <description>昨日の朝起きたら目を疑いました。 11月18日、OpenAI創業者、サム・アルトマンは突如、取締役会により、OpenAIのCEOを解任されました。 後任の暫定CEOは、元CTOのミラ・ムラーティが務めます。 これは、以下の公式ブログによって発表されました： 情報が錯綜して、混乱している人も多いと思うので、なるべくわかりやすく、現在わかっていることをまとめます。 事実と予測などを分けて表示します。 公式ブログからわかることまず以下がサムアルトマン解任についてのOpenAI公式ブログの翻訳文です。 OpenAIのリーダーシップ移行に関する翻訳全文最高技術責任者ミラ・ムラーティがOpenAIを率いる暫定CEOに就任；サム・アルトマンが会社を去る。 恒久的な後任者を見つけるためのプロセスが進行中。 非営利団体501(c)(3)として活動するOpenAI, Inc.の取締役会は、本日、サム・アルトマ</description>
+    </item>
+    <item>
+      <title>アルトマン氏は解任前、ＡＩチップ事業で多額調達目指した－関係者</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-11-19/S4DT6WDWX2PS01</link>
+      <pubDate>2023/11/20 03:50</pubDate>
+      <description>大手クラウドはクラウド専用チップで戦う時代へ。各社がクラウド基盤に専用SoC、サーバにArm、AI処理に独自プロセッサを相次いで採用 今から10年以上前にクラウドが登場した当時、その中味はインテルのプロセッサを搭載したサーバとその上で実行される仮想化ハイパーバイザを中心に構成されていました。 しかしその後、2017年にはAmazon Web Services（AWS）は、クラウド基盤に独自開発したSystem on a Chip（SoC）を載せたNitro Systemを2013年から採用していることを明らかにします。 同じ2017年、Googleも機械学習に最適化した専用プロセッサを利用したサービス「Cloud TPU」を発表するなど、大手クラウド事業者はその規模を活かしてクラウドに最適化したチップを開発し採用することで、他社との差別化を図ろうとしていることが明らかになってきました そし</description>
+    </item>
+    <item>
+      <title>LCM LoRA の概要｜npaka</title>
+      <link>https://note.com/npaka/n/n6ac683fa77b8</link>
+      <pubDate>2023/11/19 20:25</pubDate>
+      <description>まさかのまさかでSam Altman氏がOpenAIのCEOを解任され、共同創業者でPresidentを務めていたGreg Brockman氏が辞任した。DevDayの発表を受けて、OpenAIをAWSとGoogleとWindowsのいいとこ取りであると称賛した当ニュースレターも、見事に梯子を外された。アナリストの市場分析に賞味期限はつきものだが、ここまで短いのも珍しい。</description>
+    </item>
   </channel>
 </rss>
