@@ -9813,5 +9813,17 @@
       <pubDate>2023/11/19 17:11</pubDate>
       <description>このPDFは「LLM全盛時代の開発プラクティス」というタイトルの資料で、baseballyama氏によって作成されました。内容は主に大規模言語モデル（LLM）を活用した開発プラクティスに関するものです。 主な内容は以下の通りです： 1. **GitHub Copilotについて**: - Copilotの利用が増え、コード提案を受け入れてから精査する流れが一般的になった。 - インターネット接続がないと利用できないことが難点。 - Copilotは開いているファイルを参考にしてコードを提案し、統一されていないコードは提案の精度を低下させる。 2. **AIツールによる効率化**: - AIレビューツールとFigma to Codeツールについて議論。 - AIレビューツールは一般的なアドバイスに留まり、具体的な自社ルールに基づいたレビューが求められる。 - Figma to Codeでは、</description>
     </item>
+    <item>
+      <title>【西川和久の不定期コラム】 Stable Diffusion高速化の決定版登場！？品質落とさず制限もほぼなしで2～3倍速に</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1547611.html</link>
+      <pubDate>2023/11/20 06:30</pubDate>
+      <description>OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。 KillianLucas/open-interpreter: OpenAI&amp;#39;s Code Interpreter in your terminal, running locally https://github.com/KillianLucas/open-interpreter/blob/main/docs/README_JA.m</description>
+    </item>
+    <item>
+      <title>水田監視ロボ「雷鳥3号」 放水で害獣を追い払う | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67336</link>
+      <pubDate>2023/11/19 08:58</pubDate>
+      <description>アルトマン氏の解任は全く予想されていなかったことであり、シリコンバレーはおろか世界中に大きなニュースとして伝えられました。The VergeがOpenAI内部の情報筋の話として伝えたところでは、突然の解任に驚いた研究スタッフたちはアルトマン氏をCEOに戻すよう取締役会に要求し、アルトマン氏が復帰せずに新会社を設立するのであれば、そちらへ移ると述べていると伝えられています。 Finantial TimesはOpenAIの関係者3人から得た話として、Thrive Capital、Tiger Global、Sequoia CapitalといったOpenAIの主要な投資企業らが、次のステップを検討するために週末を通じてアルトマン氏本人や、(新体制を協力していくとコメントを出していた)マイクロソフトとも連絡を取っているとしました。 ただ、こうした動きに対してアルトマン氏は突然の解任の後での復帰の要請</description>
+    </item>
   </channel>
 </rss>
