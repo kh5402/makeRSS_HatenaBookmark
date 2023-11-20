@@ -9972,5 +9972,23 @@
       <pubDate>2023/11/19 20:25</pubDate>
       <description>まさかのまさかでSam Altman氏がOpenAIのCEOを解任され、共同創業者でPresidentを務めていたGreg Brockman氏が辞任した。DevDayの発表を受けて、OpenAIをAWSとGoogleとWindowsのいいとこ取りであると称賛した当ニュースレターも、見事に梯子を外された。アナリストの市場分析に賞味期限はつきものだが、ここまで短いのも珍しい。</description>
     </item>
+    <item>
+      <title>元OpenAIのアルトマン氏ら、Microsoft入社へ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN207R30Q3A121C2000000/</link>
+      <pubDate>2023/11/20 17:09</pubDate>
+      <description>【シリコンバレー=中藤玲】複数の米メディアは19日、米新興オープンAIが暫定最高経営責任者（CEO）にゲーム実況配信サービス「Twitch（ツイッチ）」の元CEOエメット・シア氏を起用すると報じた。投資家らは解任されたサム・アルトマン氏の復帰に向けて動いていたが、取締役会が新CEOを外部から呼び込む方針を貫いたとみられる。米ブルームバーグ通信や米紙ウォール・ストリート・ジャーナルが報じた。ツイ</description>
+    </item>
+    <item>
+      <title>Yahoo!知恵袋、生成AIによる回答を表示する「AI回答機能」を試験提供、「悩み相談」「歴史」の2カテゴリで　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1548316.html</link>
+      <pubDate>2023/11/20 14:07</pubDate>
+      <description>はじめに この記事では私が作成した文書要約のWebアプリの使用方法とコードを解説しています。 コードはGitHubにリポジトリを作成しておりますので、使用されたい方はCloneしてお使いください。 https://github.com/YusukeOhnishi/document_summarize このWebアプリは文書（英語論文）を読む際に、 さっとまとめてくれるWebアプリがあれば便利そう 自身で必要な機能を追加していけたら楽しそう というモチベーションから作成しました。実際に使用してみて、不便だなと感じる点やこういう機能が欲しいなと思えば、コメント及び連絡いただけると助かります。できる限り機能追加して対応していきます。 Webアプリの使用方法 Webアプリの起動 作成したアプリケーションはローカル環境及びDockerコンテナ上で起動することができます。 以下のコマンドを実行してクロ</description>
+    </item>
+    <item>
+      <title>【完成版】ChatGPTにゆっくり解説やらせたらヤバかった</title>
+      <link>https://zenn.dev/moons/articles/6e07928a3eb159</link>
+      <pubDate>2023/11/16 21:56</pubDate>
+      <description>ContextAt their demo day, Open AI reported a series of RAG experiments for a customer that they worked with. While evaluation metics will depend on your specific application, it’s interesting to see what worked and what didn&amp;#39;t for them. Below, we expand on each method mention and show how you can implement each one for yourself. The ability to understand and these methods on your application is cr</description>
+    </item>
   </channel>
 </rss>
