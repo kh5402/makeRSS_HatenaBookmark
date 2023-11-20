@@ -10029,5 +10029,20 @@
       <pubDate>2023/11/20 00:04</pubDate>
       <description>まさかのまさかでSam Altman氏がOpenAIのCEOを解任され、共同創業者でPresidentを務めていたGreg Brockman氏が辞任した。DevDayの発表を受けて、OpenAIをAWSとGoogleとWindowsのいいとこ取りであると称賛した当ニュースレターも、見事に梯子を外された。アナリストの市場分析に賞味期限はつきものだが、ここまで短いのも珍しい。</description>
     </item>
+    <item>
+      <title>OpenAI退任のサム・アルトマン氏、マイクロソフトに加入</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1548433.html</link>
+      <pubDate>2023/11/20 17:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f766ca8d8a5200f51238437aeec26f4a230668b6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1548%2F435%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI追記</title>
+      <link>https://tamuramble.theletter.jp/posts/f04c69b0-8606-11ee-8c6b-6182694dd167</link>
+      <pubDate>2023/11/19 07:46</pubDate>
+      <description>OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。 KillianLucas/open-interpreter: OpenAI&amp;#39;s Code Interpreter in your terminal, running locally https://github.com/KillianLucas/open-interpreter/blob/main/docs/README_JA.m</description>
+    </item>
   </channel>
 </rss>
