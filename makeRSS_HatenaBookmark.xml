@@ -9867,5 +9867,23 @@
       <pubDate>2023/11/16 11:43</pubDate>
       <description>背景 大規模言語モデルへのアクセス問題 ※以下の情報は本論文執筆時点での研究者らによる記述に基づいています。 2023年3月14日、OpenAIはGPT-4をリリースしました。専門的、学術的なタスクで人間レベルのパフォーマンスを達成する大規模言語モデル（LLM）です。しかし、GPT-4のアーキテクチャ、ハードウェア、データセット構築、訓練方法に関する詳細情報はほとんど開示されていません。 GPT-4は、インターネットインターフェースを通してのみアクセス可能であり、ポリシーは厳しく制限され、またいくつかの地域では地政学的な問題などから利用できないといった状況が生まれています。加えて、GPT-4は特定のクエリに対して「AI言語モデルとしては回答できない」という形式でしか応答しません。 以上の状況から、一部からは透明性とアクセシビリティに関する懸念や不満が生じています。 オープンソースへの動き</description>
     </item>
+    <item>
+      <title>“アルトマン氏 CEO復帰を” オープンAI 投資家が働きかけか | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231120/k10014263151000.html</link>
+      <pubDate>2023/11/20 10:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e8e211579d00edc8e16f77debbed55e65bbf4213/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1544%2F578%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>生成AIの誤回答を防ぐ「RAG」技術、要約業務で実装したデロイトトーマツの成果</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02640/111300002/</link>
+      <pubDate>2023/11/16 08:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a4d75433bf6521fa0e87e6705d9d450dc09e6c93/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1547%2F820%2F00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
