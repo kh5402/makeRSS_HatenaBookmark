@@ -9825,5 +9825,47 @@
       <pubDate>2023/11/19 08:58</pubDate>
       <description>アルトマン氏の解任は全く予想されていなかったことであり、シリコンバレーはおろか世界中に大きなニュースとして伝えられました。The VergeがOpenAI内部の情報筋の話として伝えたところでは、突然の解任に驚いた研究スタッフたちはアルトマン氏をCEOに戻すよう取締役会に要求し、アルトマン氏が復帰せずに新会社を設立するのであれば、そちらへ移ると述べていると伝えられています。 Finantial TimesはOpenAIの関係者3人から得た話として、Thrive Capital、Tiger Global、Sequoia CapitalといったOpenAIの主要な投資企業らが、次のステップを検討するために週末を通じてアルトマン氏本人や、(新体制を協力していくとコメントを出していた)マイクロソフトとも連絡を取っているとしました。 ただ、こうした動きに対してアルトマン氏は突然の解任の後での復帰の要請</description>
     </item>
+    <item>
+      <title>オープンＡＩのアルトマン氏復職交渉が暗礁に－取締役会の役割巡り</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-11-19/S4E0TDDWRGG001</link>
+      <pubDate>2023/11/20 08:32</pubDate>
+      <description>ChatGPTの数学力は、一般に考えられていることとは違って、かなり低い。それだけでない。論理学や金融の概念さえも間違える。これは、ChatGPTのLLMの仕組みが関係している。LLMをベースとしたAIが抱える本質的な問題であり、解決法が見いだされていない難問だ。 1940年、東京に生まれる。 1963年、東京大学工学部卒業。 1964年、大蔵省入省。 1972年、エール大学Ph.D.（経済学博士号）を取得。 一橋大学教授、東京大学教授（先端経済工学研究センター長）、スタンフォード大学客員教授、早稲田大学大学院ファイナンス研究科教授などを歴任。一橋大学名誉教授。 noteアカウント：https://note.com/yukionoguchi Twitterアカウント:@yukionoguchi10 野口ホームページ：https://www.noguchi.co.jp/ ★本連載が書籍化され</description>
+    </item>
+    <item>
+      <title>サム・アルトマン電撃解任劇、現在わかっていることすべて｜ChatGPT研究所</title>
+      <link>https://chatgpt-lab.com/n/n8c92dcccb01b</link>
+      <pubDate>2023/11/19 18:10</pubDate>
+      <description>大手クラウドはクラウド専用チップで戦う時代へ。各社がクラウド基盤に専用SoC、サーバにArm、AI処理に独自プロセッサを相次いで採用 今から10年以上前にクラウドが登場した当時、その中味はインテルのプロセッサを搭載したサーバとその上で実行される仮想化ハイパーバイザを中心に構成されていました。 しかしその後、2017年にはAmazon Web Services（AWS）は、クラウド基盤に独自開発したSystem on a Chip（SoC）を載せたNitro Systemを2013年から採用していることを明らかにします。 同じ2017年、Googleも機械学習に最適化した専用プロセッサを利用したサービス「Cloud TPU」を発表するなど、大手クラウド事業者はその規模を活かしてクラウドに最適化したチップを開発し採用することで、他社との差別化を図ろうとしていることが明らかになってきました そし</description>
+    </item>
+    <item>
+      <title>(JSConf JP 2023) LLM (大規模言語モデル) 全盛時代の開発プラクティス</title>
+      <link>https://speakerdeck.com/baseballyama/jsconf-jp-2023-llm-da-gui-mo-yan-yu-moderu-quan-sheng-shi-dai-nokai-fa-purakuteisu</link>
+      <pubDate>2023/11/19 11:46</pubDate>
+      <description>サンフランシスコに本社を置く人工知能（AI）関連のスタートアップHumane（ヒューメイン）が先日発表した、ウェアラブルデバイス「AI Pin」に関しては、多くの専門家が失敗を予測している。 画面を持たない小さなガジェットであるAI Pinは、その名のとおりピンで衣服にとめて使用するAIアシスタントだが、機能が限定的であることや700ドルという価格の高さが不評を買っている。 ニュースサイトArs Technicaは、このデバイスを「Google Glassとポケットベルをかけ合わせたような奇妙なガジェット」と呼んで酷評した。ビジネスインサイダーは「不格好でスマートフォンの代わりにはならないデバイス」と書いた。TechCrunchは「一時は脚光を浴びたが、資金不足で開発が中断したままのライフログカメラのNarrative Clipに似ている」と述べている。 しかし、AP Pinは人々の暮らし</description>
+    </item>
+    <item>
+      <title>GitHub Advanced SecurityでAIを駆使したアプリケーションセキュリティテスト</title>
+      <link>https://github.blog/jp/2023-11-17-ai-powered-appsec/</link>
+      <pubDate>2023/11/19 02:15</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米新興オープンAIの最高経営責任者（CEO）を突如解任されたサム・アルトマン氏が、人工知能（AI）の新会社の立ち上げを計画していることが18日、明らかになった。退職する技術者も出ており、内部崩壊を恐れ投資家からは解任決定を撤回するよう求めているほか、取締役会がアルトマン氏復帰について協議しているとも報じられている。新会社設立の検討については、米メディアのジ・インフォ</description>
+    </item>
+    <item>
+      <title>生成系 AI でプロダクトの価値を高めるには</title>
+      <link>https://speakerdeck.com/icoxfog417/sheng-cheng-xi-ai-depurodakutonojia-zhi-wogao-meruniha</link>
+      <pubDate>2023/11/17 12:53</pubDate>
+      <description>対話型人工知能（ＡＩ）「ChatGPT（チャットＧＰＴ）」の開発元である米オープンＡＩのサム・アルトマン最高経営責任者（ＣＥＯ）が退社する。取締役会が17日、発表した。ミラ・ムラティ最高技術責任者（ＣＴＯ）が暫定ＣＥＯに就任する。 オープンＡＩは声明で「取締役会による徹底した検証の結果、アルトマン氏は取締役会とのコミュニケーションにおいて常に率直ではなく、取締役会の責任遂行に支障をきたしているとの結論に至った」と説明。「取締役会はアルトマン氏がオープンＡＩを今後も率いていく能力をもはや信頼できなくなった」と述べた。</description>
+    </item>
+    <item>
+      <title>【独占】マイクロソフト サティア・ナデラCEO： 生成AIで開発はこう変わる</title>
+      <link>https://www.technologyreview.jp/s/322192/behind-microsoft-ceo-satya-nadellas-push-to-get-ai-tools-in-developers-hands/</link>
+      <pubDate>2023/11/17 07:58</pubDate>
+      <description>OpenAIの取締役会、サム・アルトマンCEOを解任　「取締役会の責任を果たす能力に支障をきたしている」 OpenAIの取締役会は、共同創業者でCEOのサム・アルトマン氏が辞任したと発表した。同氏が「取締役会とのコミュニケーションにおいて一貫して率直でなく、取締役会の責任を果たす能力に支障をきたしているとの結論に達した」としている。ミラ・ムラティCTOが暫定CEOに就任する。 OpenAIの運営団体として機能する米非営利団体OpenAIの取締役会は11月17日（現地時間）、共同創業者のサム・アルトマン氏（38）がCEOを辞任し、取締役会を離れることを発表した。 取締役会は公式ブログで、「アルトマン氏の辞任は、取締役会による審議プロセスを経たもの」であり、同氏が「取締役会とのコミュニケーションにおいて一貫して率直でなく、取締役会の責任を果たす能力に支障をきたしているとの結論に達した。取締役会</description>
+    </item>
+    <item>
+      <title>イスラエル・ガザ紛争で学術界にも内紛、苦悩する科学者</title>
+      <link>https://www.technologyreview.jp/s/321973/how-scientists-are-being-squeezed-to-take-sides-in-the-conflict-between-israel-and-palestine/</link>
+      <pubDate>2023/11/16 11:43</pubDate>
+      <description>背景 大規模言語モデルへのアクセス問題 ※以下の情報は本論文執筆時点での研究者らによる記述に基づいています。 2023年3月14日、OpenAIはGPT-4をリリースしました。専門的、学術的なタスクで人間レベルのパフォーマンスを達成する大規模言語モデル（LLM）です。しかし、GPT-4のアーキテクチャ、ハードウェア、データセット構築、訓練方法に関する詳細情報はほとんど開示されていません。 GPT-4は、インターネットインターフェースを通してのみアクセス可能であり、ポリシーは厳しく制限され、またいくつかの地域では地政学的な問題などから利用できないといった状況が生まれています。加えて、GPT-4は特定のクエリに対して「AI言語モデルとしては回答できない」という形式でしか応答しません。 以上の状況から、一部からは透明性とアクセシビリティに関する懸念や不満が生じています。 オープンソースへの動き</description>
+    </item>
   </channel>
 </rss>
