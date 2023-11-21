@@ -10350,5 +10350,29 @@
       <pubDate>2023/11/18 21:48</pubDate>
       <description>OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。 KillianLucas/open-interpreter: OpenAI&amp;#39;s Code Interpreter in your terminal, running locally https://github.com/KillianLucas/open-interpreter/blob/main/docs/README_JA.m</description>
     </item>
+    <item>
+      <title>オープンAI、9割が退社表明　トップ解任で従業員700人超 ｜ 共同通信</title>
+      <link>https://nordot.app/1099445661840081639</link>
+      <pubDate>2023/11/21 14:21</pubDate>
+      <description>テクノロジー業界でこの1年、最も注目された企業であるOpenAIのトップ解任劇は、この週末の間に怒濤の展開をみせ、月曜日を迎える直前にひとつの結論を迎えた。 11月17日の金曜日、OpenAIの取締役会がサム・アルトマンCEOを解任したという驚きのニュースが明るみになると、次から次に新たな事実、動きが明らかになり、さながらサスペンスドラマのような展開を見せた。 そしてアメリカ太平洋時間の11月20日夜、マイクロソフトのサティア・ナデラCEOは自身のX（旧ツイッター）上で、同社がアルトマンを雇用し、従来のAI部門とは別に、先進的なAIを研究開発するチームを設立すると明らかにした。 周知の通り、マイクロソフトはOpenAI最大の支援者だ。100億ドルを超える資金を提供し、OpenAIが開発する最新のソースコードにアクセスする権利を保有している。 特殊な組織構造が生んだ解任劇 この数日間で、マイ</description>
+    </item>
+    <item>
+      <title>GitHubで最も使われている言語はJavaScript、最も利用者が増加したのはRust。AIプロジェクト数はこの1年で3倍増GitHubが年次調査「Octoverse 2023」発表</title>
+      <link>https://www.publickey1.jp/blog/23/githubjavascriptrustai13githuboctoverse_2023.html</link>
+      <pubDate>2023/11/21 01:39</pubDate>
+      <description>[電話予約の無人化]Amazon Connect + GPT-4 JSONモード + Whisperで、1回の発話から予約情報(日付,時間など)を抽出 はじめに Amazon Connect + GPT-4 JSONモード + Whisperで、1回の発話から予約情報(電話番号,日時,名前,人数)を正しく抽出できるか検証しました。 コールセンターでは、有人対応から無人対応に変更したいニーズが増えているように思います。 電話予約の無人対応を想定し、1回の発話で、下記の５つの予約情報を抽出できるか確認します。 お名前 電話番号 予約日 予約時間 人数 発話で予約情報を抽出する方法として、GPT-4 Turbo のJSONモードを利用します。 JSONモードの詳細は、下記を参照ください。 例えば、「名前はクラスメソッドで、電話番号は09011111111。来週の火曜日の19時に4名で予約できます</description>
+    </item>
+    <item>
+      <title>2023年のワード・オブ・ザ・イヤーに「幻覚」が選ばれる、生成AIに関する新しい意味の追加で</title>
+      <link>https://gigazine.net/news/20231120-word-of-the-year-2023-hallucinate/</link>
+      <pubDate>2023/11/20 20:19</pubDate>
+      <description>by kris krüg 突如として退任が発表されたOpenAIのサム・アルトマン前CEOを巡る騒動で、やはりアルトマン氏の復帰はなく、暫定CEOに、ミラ・ムラティ氏に代わってTwitchの創業者であるエメット・シア氏が就任したことがわかりました。 Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down — The Information https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai OpenAI names Emmett Shear interim CEO - The Washington Post https://www.washingtonpost.com/techno</description>
+    </item>
+    <item>
+      <title>OpenAIのサム・アルトマン元CEO退任は主任研究員のイルヤ・サツキヴァー氏との「AIの安全性」をめぐる対立が原因か</title>
+      <link>https://gigazine.net/news/20231120-openai-sam-altman-ilya-sutskever/</link>
+      <pubDate>2023/11/20 19:17</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 LLMの訓練に用いられるデータの多くは非公開であり、その中には著作権で保護された文書や個人識別情報、ベンチマークのテストデータなど、問題を引き起こす可能性のあるテキストが含まれている場合がある。 過去の研究によれば、LLMが著作権で保護された書籍の一部を生成したり、個人のメールを生成したりしたことが示されている。これは元のコンテンツの作成者の法的権利を侵害し、プライバシーを侵す可能性がある。しかし、現時点では、どのような種類のデータがどれだけの割合で含まれているかを知る方法はない。 この研究では、どの事前学習データが使用されたか不明な状況で</description>
+    </item>
   </channel>
 </rss>
