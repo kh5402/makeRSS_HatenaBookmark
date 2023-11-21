@@ -10338,5 +10338,17 @@
       <pubDate>2023/11/20 15:12</pubDate>
       <description>アルトマン氏だけでなく、グレッグ・ブロックマン氏、さらには主要なエンジニアが次々と退社を表明する中、寝耳に水だったとされるマイクロソフトらステークホルダーによる圧力で、取締役会はアルトマン氏らと話し合いをもったものの、同氏の復帰はなりませんでした。しかし、この件を告げるThe Informationらの報道があった11月20日に、マイクロソフトのナデラCEOが続報をXに投稿。 新体制のOpenAIとのパートナーシップは継続する一方で、アルトマン氏は同じくOpenAIを退社したグレッグ・ブロックマン氏らとともにマイクロソフトの新しいAI研究チームを率い、マイクロソフトはそのために必要なリソースを提供する、という内容です。アルトマン氏はこれに対し、「使命は続く」とリプライ。 マイクロソフトは、OpenAIとの関係を継続する一方で、アルトマン氏と一緒にOpenAIを退社した人材をも自社に抱えると</description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2023年11月第3週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/11/21/115423</link>
+      <pubDate>2023/11/21 11:56</pubDate>
+      <description>こんばんは。AI大好き花笠万夜です。 突然ですが、ブラウザゲームを作ってみました。 このnoteのポイント ・プログラミングレベルの低い筆者が土日の空き時間でブラウザゲームを公開できた ・オリジナルで一行もコードを書いてない ・キャラも背景もUIも効果音もBGMもAI製 最近AIに触れる機会が多く、知人にも「AI最高、AI楽しい」という話をしておりましたら、繋がりのある会社から「私の会社でもChatGPT導入のセミナーやるから少し喋ってよ」と依頼されました。 何を話そうかなと思ったときに 「ChatGPTを活用するといろんなことができますよ」 の一例として 「そんなにプログラミングに詳しくない人でもブラウザゲーム作れますよ」と言いたくなったんですね。 ただ「ChatGPTってなんぞや」スタートのセミナーなんで「ほら、ちゃんと動くでしょ、こんなのがChatGPT使うとできちゃうんですよ〜」レ</description>
+    </item>
+    <item>
+      <title>外国人「日本での思い出をAIに語って画像にしてみた！」→素敵すぎると話題に : 海外の万国反応記＠海外の反応</title>
+      <link>http://www.all-nationz.com/archives/1081830777.html</link>
+      <pubDate>2023/11/18 21:48</pubDate>
+      <description>OpenAIが開発したプラグイン「Code Interpreter」を使用すると、ChatGPTにプログラミングのコードを生成してもらうことが可能ですが、インターネットに接続できないのに加え、使用できるパッケージやアップロードの容量、実行時間などに制限があります。「Open Interpreter」はローカルで動作することでそうした制限を突破し、柔軟にさまざまなプログラムを生成・実行してくれるオープンソースなAIツールとのことなので、実際に使って試してみました。 KillianLucas/open-interpreter: OpenAI&amp;#39;s Code Interpreter in your terminal, running locally https://github.com/KillianLucas/open-interpreter/blob/main/docs/README_JA.m</description>
+    </item>
   </channel>
 </rss>
