@@ -10299,5 +10299,44 @@
       <pubDate>2023/11/20 15:53</pubDate>
       <description>Azure OpenAI Service で GPT-4 Turbo（gpt-4-1106-preview）のモデルをデプロイする（※ 現状は特定のリージョンのみ）AzureAzureOpenAIServiceAzureAIStudioAzureOpenAIStudioGPT-4Turbo 2023/11/17 のタイムスタンプで出ていた以下の記事に書いてある、「Azure OpenAI Service で GPT-4 Turbo（gpt-4-1106-preview）が使えるようになった話」に関する記事です。 ●Azure OpenAI Service Launches GPT-4 Turbo and GPT-3.5-Turbo-1106 Models - Microsoft Community Hub https://techcommunity.microsoft.com/t5/ai-</description>
     </item>
+    <item>
+      <title>ChatGPTと共にゲームを創る：プログラミング初心者が挑むブラウザゲーム制作記｜花笠万夜</title>
+      <link>https://note.com/hanagasa_manya/n/n1945e8deadb7</link>
+      <pubDate>2023/11/21 09:12</pubDate>
+      <description>ペットボトル飲料などで、段ボール箱が破損しただけで返品される「食品ロス」を減らそうと、メーカーと小売業者が統一基準づくりに向けて動き出しています。これまで人が目視で行っていた返品の判断をAIが担う技術を導入します。 ペットボトルの飲料などを倉庫から店に配送する際、商品に傷がなくても段ボール箱が破損していると、返品の対象となって食品ロスにつながることが課題となっています。 飲料メーカーと小売業の大手7社は、返品の対象かどうかの統一基準づくりに乗り出し、実証実験を行っています。 これまでは、段ボール箱の破損の状態を人が目視で確認していましたが、実証実験ではスマートフォンで撮影した画像をAIが解析する技術を導入することで、返品の判断基準を統一します。 食品ロスの削減だけでなく、物流に携わる人の負担の軽減にもつながるとしています。 来年9月まで実証実験を行い、統一基準の運用を始めることにしています</description>
+    </item>
+    <item>
+      <title>「オープンAI」元CEO “復帰なければ退社”社員500人超が署名 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231121/k10014264311000.html</link>
+      <pubDate>2023/11/21 08:12</pubDate>
+      <description>OpenAIの取締役会が米国時間金曜午後にサム・アルトマンCEOの事実上の解任を発表てから月曜午前までの主な顛末をまとめた。 米OpenAIの取締役会が11月17日（現地時間の金曜午後）にサム・アルトマンCEOの事実上の解任を発表してからの激動は、20日月曜に株式市場が開く直前に米Microsoftのサティア・ナデラCEOが新CEOの就任と、アルトマン氏のMicrosoft入りをXにポストしたことで一旦収束したが、その後も動きは止まっていない。ナデラ氏のポスト以降の動きをまとめる。 サティア・ナデラ氏によるアルトマン氏歓迎ポスト（11月19日午後11時53分） ナデラ氏は、アルトマン氏とOpenAIの社長を辞任したグレッグ・ブロックマン氏のMicrosoft入りと共に、元TwitchのCEO、エメット・シア氏がOpenAIのCEOに就任したことをXにポストし、そのポストをアルトマン氏は「ミ</description>
+    </item>
+    <item>
+      <title>OpenAIのほぼ全従業員、現取締役会に退陣とアルトマン氏復帰求める公開書簡。一方アルトマン氏も再び復帰を模索か | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/21/2301.html</link>
+      <pubDate>2023/11/21 08:51</pubDate>
+      <description>（ブルームバーグ）： 対話型人工知能（ＡＩ）「ChatGPT（チャットＧＰＴ）」を開発した米オープンＡＩでは、大多数の従業員が、現在の取締役会メンバーが全員辞任しない限り、最高経営責任者（ＣＥＯ）を解任されたサム・アルトマン氏に続いてマイクロソフトに移籍すると書簡で警告した。 オープンＡＩの従業員およそ770人のうち700人余りがこの書簡に署名。20日付の同書簡では「能力や判断力、われわれのミッションと従業員への配慮を欠く人々のために、あるいはそうした人々とともに働くことはできない」と記されている。 オープンＡＩは17日、アルトマン氏のＣＥＯ職を突如解任。マイクロソフトは20日に、アルトマン氏と共同創業者グレッグ・ブロックマン氏を受け入れ、両氏が新たな社内人工知能（ＡＩ）チームを率いると明らかにした。</description>
+    </item>
+    <item>
+      <title>[電話予約の無人化]Amazon Connect + GPT-4 JSONモード + Whisperで、1回の発話から予約情報(日付,時間など)を抽出 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-connect-unmanned-reservation/</link>
+      <pubDate>2023/11/21 07:12</pubDate>
+      <description>スマートホーム技術や対応デバイスが進化したことで、自宅に安価で簡単に監視カメラを設置することができるようになりました。「Frigate」はカメラで撮影した映像をAIで認識し、リアルタイムで物体検出を行うためのオープンソースで開発されたNVR(ネットワークビデオレコーダー)です。 Frigate NVR https://frigate.video/ Frigateのデモは以下のサイトで公開されており、どのようなNVRなのかを体験することができます。 Frigate https://demo.frigate.video/ Frigateのデモサイトにアクセスするとこんな感じ。監視カメラで撮影された横断歩道の映像が表示されています。 左から「Event」を選択すると、自動で検知した動体を撮影した瞬間が表示されます。 「Exports」では、カメラの種類や日時で絞り込み、作成されたイベントの再生・</description>
+    </item>
+    <item>
+      <title>人の寿命は250年に！解明進む老化の正体、あと20年で「若返り」も夢ではない 「Scienc-ome」が照らす未来（1）老化研究、慶大・早野元詞氏 | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/77968</link>
+      <pubDate>2023/11/19 10:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/93f3c183fa36cb9ccff55041243cf3889994341b/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1548%2F361%2F00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>リートン</title>
+      <link>https://wrtn.jp/</link>
+      <pubDate>2023/11/20 15:12</pubDate>
+      <description>アルトマン氏だけでなく、グレッグ・ブロックマン氏、さらには主要なエンジニアが次々と退社を表明する中、寝耳に水だったとされるマイクロソフトらステークホルダーによる圧力で、取締役会はアルトマン氏らと話し合いをもったものの、同氏の復帰はなりませんでした。しかし、この件を告げるThe Informationらの報道があった11月20日に、マイクロソフトのナデラCEOが続報をXに投稿。 新体制のOpenAIとのパートナーシップは継続する一方で、アルトマン氏は同じくOpenAIを退社したグレッグ・ブロックマン氏らとともにマイクロソフトの新しいAI研究チームを率い、マイクロソフトはそのために必要なリソースを提供する、という内容です。アルトマン氏はこれに対し、「使命は続く」とリプライ。 マイクロソフトは、OpenAIとの関係を継続する一方で、アルトマン氏と一緒にOpenAIを退社した人材をも自社に抱えると</description>
+    </item>
   </channel>
 </rss>
