@@ -10470,5 +10470,17 @@
       <pubDate>2023/11/21 12:01</pubDate>
       <description>生成AI（人工知能）のチャットGPTを開発した米企業オープンAIの最高経営責任者（CEO）を解任されたサム・アルトマン氏（38）が、米マイクロソフトに入社することになった。同社が19日、明らかにした。一方、オープンAIの多くの社員は20日、アルトマン氏の復帰と取締役の総退陣を求め、受け入れられなければ同社を去るとしている。何が起きているのか。</description>
     </item>
+    <item>
+      <title>チャットＧＰＴ、職業に性別偏見　宇宙飛行士は男性的、看護師は女性的　朝日新聞分析：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/DA3S15797746.html</link>
+      <pubDate>2023/11/21 10:50</pubDate>
+      <description>機械学習エンジニアの吉田です。 この記事はLayerXテックアドカレ14日目の記事です。前回は @shnjtk による ストーリーポイントではなくアウトカムで開発速度を測る でした。次回は osuke さんが担当します。 今回はバクラクの帳票画像を使ってDALL-EのdVAE (discrete Variational AutoEncoder) を学習させた話をご紹介します。 背景 前回 バクラクのデータセットを用いたLayoutLMv3による事前学習 という記事を書きました。 tech.layerx.co.jp この記事にあるように、 LayoutLMv3*1のMasked Image Modeling (MIM)の事前学習では画像トークナイザーとして学習済みのDALL-EのdVAEを使っていました。 しかし、オリジナルのLayoutLMv3では文書画像で事前学習されたDiT*2の画像ト</description>
+    </item>
+    <item>
+      <title>AIタレントの功罪「もっと危機感を」　権利課題の日本が最も推進？：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRCJ0BF1RCHULLI001.html</link>
+      <pubDate>2023/11/20 21:56</pubDate>
+      <description>GitHubで最も使われている言語はJavaScript、最も利用者が増加したのはRust。AIプロジェクト数はこの1年で3倍増GitHubが年次調査「Octoverse 2023」発表 GitHubは、この1年のGitHubの利用動向などをまとめた年次レポート「Octoverse 2023」を発表しました。 Dive into the latest #Octoverse 2023 insights! 92% of devs are now harnessing #AI coding tools, transforming how we learn &amp;amp; code. Plus, the rise of projects like next.js &amp;amp; nuxt shows open-source as a vibrant learning hub! https://t.co/s9YyztEcq</description>
+    </item>
   </channel>
 </rss>
