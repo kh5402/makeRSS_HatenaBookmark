@@ -10518,5 +10518,20 @@
       <pubDate>2023/11/20 22:54</pubDate>
       <description>OpenAIのCEOを務めていたサム・アルトマン氏が2023年11月17日に、取締役会によって突然解任され退社した件で、770人いるOpenAIの従業員のうち700人以上が「取締役会の刷新とアルトマン氏およびグレッグ・ブロックマン氏の復職」を要求する書簡に署名しました。この書簡には、アルトマン氏追放に大きく関わった取締役の1人とされているイルヤ・サツキヴァー氏も名を連ねています。 Hundreds of OpenAI staff tell board to resign or they’ll join Altman at Microsoft https://www.axios.com/2023/11/20/openai-staff-letter-board-resign-sam-altman OpenAI Staff Threatens Exodus, Jeopardizing Compa</description>
     </item>
+    <item>
+      <title>個人向け「Windows Copilot」が12月1日にやってくる　生成AIはPCの使い方をどう変えるのか？</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2311/21/news132.html</link>
+      <pubDate>2023/11/21 19:03</pubDate>
+      <description>書籍はこちら：https://www.amazon.co.jp/dp/4297138395 === ChatGPTのAPIが公開されたころから、多くの組織が大規模言語モデル（LLM）を使ったアプリケーション開発に取り組むようになりました。LLMを使ったアプリケーション開発では、「LangChain」というフレームワークも大きく注目されています。 しかし、「LLMやLangChainが話題なのは知っているが、具体的なことは分からない」「この分野に興味を持っているが、勉強するきっかけを持てずにいる」といった方も少なくありません。 そこでこの講演では、LLMを使ったアプリケーション開発がなぜ盛り上がっているのか、どのように開発するのかといった基本から始めて、LangChainの基礎知識まで概説します。 === イベントページ：https://forkwell.connpass.com/event</description>
+    </item>
+    <item>
+      <title>RLHF（人間による評価を利用した強化学習）とは？ファインチューニングとの違いも解説</title>
+      <link>https://www.sbbit.jp/article/cont1/126553</link>
+      <pubDate>2023/11/18 17:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b189c1f8e06eea6a1d3457eaef6add29d5a681ae/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1548%2F064%2Fimage-top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
