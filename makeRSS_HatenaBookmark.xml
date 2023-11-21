@@ -10374,5 +10374,35 @@
       <pubDate>2023/11/20 19:17</pubDate>
       <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 LLMの訓練に用いられるデータの多くは非公開であり、その中には著作権で保護された文書や個人識別情報、ベンチマークのテストデータなど、問題を引き起こす可能性のあるテキストが含まれている場合がある。 過去の研究によれば、LLMが著作権で保護された書籍の一部を生成したり、個人のメールを生成したりしたことが示されている。これは元のコンテンツの作成者の法的権利を侵害し、プライバシーを侵す可能性がある。しかし、現時点では、どのような種類のデータがどれだけの割合で含まれているかを知る方法はない。 この研究では、どの事前学習データが使用されたか不明な状況で</description>
     </item>
+    <item>
+      <title>3日間で怒濤の展開｢OpenAIクーデター｣の顛末</title>
+      <link>https://toyokeizai.net/articles/-/716492</link>
+      <pubDate>2023/11/21 12:23</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月13日（月）〜11月19日（日）〔2023年11月第3週〕のトップ30です*1。 順位 タイトル 1位 ジェンヌの個人FC運営で鬱になった話 2位 飲み会を1,000回やって学んだ、「最高の飲み会」のつくりかた(長い)｜udon 3位 羽生結弦さん離婚発表「誹謗中傷やストーカー行為…お相手と私自身を守り続けることは極めて難しく」決断― スポニチ Sponichi Annex 芸能 4位 人生マジで駄目になってきた 5位 路線バスに乗るならせめてちょっとは準備してくれ 6位 旧ジャニーズ「当事者の会」男性、大阪の山中で死亡…ＳＮＳで誹謗中傷受ける : 読売新聞 7位 ラマヌジャンは本当に何も知らなかったのか | Mathlog 8位 タイミーで、飲食店として凄まじい経験をした話｜Sotaro</description>
+    </item>
+    <item>
+      <title>今後5年間でAIは生活のあり方をどう変える？ビル・ゲイツが語った想像を超える「4つの予想」 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2311-unimaginable-ways-ai-will-change-your-life-within-next-5-years-according-to-bill-gates/</link>
+      <pubDate>2023/11/21 08:03</pubDate>
+      <description>TOP ニュース 映像クリエイター向けBGM自動作曲サービス「bgmnow」の正式版提供開始、動画の「尺」と「盛り上がり」に合った楽曲を5分で自動生成（bgmnow） 2022/07/13 映像クリエイター向けBGM自動作曲サービス「bgmnow」の正式版提供開始、動画の「尺」と「盛り上がり」に合った楽曲を5分で自動生成（bgmnow） 株式会社bgmnowは、映像クリエイター向けBGM自動作曲サービス「bgmnow（ビー・ジー・エム・ナウ）」の正式版サービス（https://bgmnow.net）の提供を2022年7月11日（月）10時00分より開始した。言語化が難しいことによって生じる「音楽」に関する様々な課題をテクノロジーの力で解決することで、エンドユーザーの琴線に触れる「感動」を創造するイノベーションを提供していくという。 詳細はこちら。 ■サービス提供背景 「2021年 日本の広</description>
+    </item>
+    <item>
+      <title>差別発言を繰り返していたDiscordのAIチャットボット「Clyde」が2023年11月末でサービス終了</title>
+      <link>https://gigazine.net/news/20231120-discord-ai-chatbot-clyde-deactivate/</link>
+      <pubDate>2023/11/21 07:39</pubDate>
+      <description>こんばんは。AI大好き花笠万夜です。 突然ですが、ブラウザゲームを作ってみました。 このnoteのポイント ・プログラミングレベルの低い筆者が土日の空き時間でブラウザゲームを公開できた ・オリジナルで一行もコードを書いてない ・キャラも背景もUIも効果音もBGMもAI製 最近AIに触れる機会が多く、知人にも「AI最高、AI楽しい」という話をしておりましたら、繋がりのある会社から「私の会社でもChatGPT導入のセミナーやるから少し喋ってよ」と依頼されました。 何を話そうかなと思ったときに 「ChatGPTを活用するといろんなことができますよ」 の一例として 「そんなにプログラミングに詳しくない人でもブラウザゲーム作れますよ」と言いたくなったんですね。 ただ「ChatGPTってなんぞや」スタートのセミナーなんで「ほら、ちゃんと動くでしょ、こんなのがChatGPT使うとできちゃうんですよ〜」レ</description>
+    </item>
+    <item>
+      <title>自分の文章がAIに学習されているか調べるツール　米国チームが開発</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/20/news045.html</link>
+      <pubDate>2023/11/20 09:58</pubDate>
+      <description>ChatGPT displayed on smart phone with OpenAI logo, 11 August 2023. Photographer: NurPhoto/NurPhoto 対話型人工知能（ＡＩ）「ChatGPT（チャットＧＰＴ）」を開発した米オープンＡＩでは、大多数の従業員が、現在の取締役会メンバーが全員辞任しない限り、最高経営責任者（ＣＥＯ）を解任されたサム・アルトマン氏に続いてマイクロソフトに移籍すると書簡で警告した。 オープンＡＩの従業員およそ770人のうち700人余りがこの書簡に署名。20日付の同書簡では「能力や判断力、われわれのミッションと従業員への配慮を欠く人々のために、あるいはそうした人々とともに働くことはできない」と記されている。 オープンＡＩは17日、アルトマン氏のＣＥＯ職を突如解任。マイクロソフトは20日に、アルトマン氏と共同創業者グレッグ・ブ</description>
+    </item>
+    <item>
+      <title>LayerXの理想の営業組織を夢想する。 AIとデータによる営業生産性革命｜福島良典 | LayerX</title>
+      <link>https://note.com/fukkyy/n/nd850ed43c4a7</link>
+      <pubDate>2023/11/20 13:19</pubDate>
+      <description>More than 730 employees of OpenAI have signed a letter saying they may quit and join Sam Altman at Microsoft unless the startup’s board resigns and reappoints the ousted CEO. Sam Altman speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco, CaliforniaJustin Sullivan/Getty Images OpenAI was in open revolt on Monday with more than 730 employees signing an open letter threatenin</description>
+    </item>
   </channel>
 </rss>
