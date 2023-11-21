@@ -10428,5 +10428,29 @@
       <pubDate>2023/11/21 06:05</pubDate>
       <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAI従業員の大半は、取締役会に宛てた書簡のなかで、取締役会メンバーの辞任と、解任した元CEOのサム・アルトマン氏復帰を求め、さもなくばほぼ全従業員がOpenAIを退職するとの意向を示しました。一方、アルトマン氏は未だOpenAIに戻る可能性を模索している様子であることが新たに伝えられています。 先週末に勃発したOpenAI取締役会によるサム・アルトマン氏解任劇はその翌日、一転して取締役会がアルトマン氏らに会社への復帰を求める展開となりました。ところが結局、両者の意見は折り合わず、アルトマン氏はマイクロソフトが新たに設立する「先進的なAI研究チーム」にリーダーとして加わることがあきらかになっています。</description>
     </item>
+    <item>
+      <title>OpenAI崩壊、最大の勝者となったマイクロソフトとナデラCEO | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67475</link>
+      <pubDate>2023/11/21 18:18</pubDate>
+      <description>リンク 日本経済新聞 元OpenAIのサム・アルトマン氏ら、Microsoft入社へ - 日本経済新聞 【シリコンバレー=山田遼太郎】米マイクロソフトのサティア・ナデラ最高経営責任者（CEO）は19日、米新興企業オープンAIのCEOを解任されたサム・アルトマン氏がマイクロソフトに加わると明らかにした。同社に新設する人工知能（AI）の先進的な研究チームを率いるという。ナデラ氏が19日深夜（米西部時間）にX（旧ツイッター）への投稿で明らかにした。オープンAIの共同創業者の1人で、アルトマン氏とともに 529 users Satya Nadella @satyanadella We remain committed to our partnership with OpenAI and have confidence in our product roadmap, our ability to c</description>
+    </item>
+    <item>
+      <title>マイクロソフト株、過去最高値を記録　オープンＡＩのアルトマン前ＣＥＯ加入で</title>
+      <link>https://www.cnn.co.jp/tech/35211781.html</link>
+      <pubDate>2023/11/21 10:58</pubDate>
+      <description>OpenAIのCEOを務めていたサム・アルトマン氏が2023年11月17日に、取締役会によって突然解任され退社した件で、770人いるOpenAIの従業員のうち700人以上が「取締役会の刷新とアルトマン氏およびグレッグ・ブロックマン氏の復職」を要求する書簡に署名しました。この書簡には、アルトマン氏追放に大きく関わった取締役の1人とされているイルヤ・サツキヴァー氏も名を連ねています。 Hundreds of OpenAI staff tell board to resign or they’ll join Altman at Microsoft https://www.axios.com/2023/11/20/openai-staff-letter-board-resign-sam-altman OpenAI Staff Threatens Exodus, Jeopardizing Compa</description>
+    </item>
+    <item>
+      <title>OpenAIへのサム・アルトマン復帰はなく暫定CEOに元Twitchのエメット・シア</title>
+      <link>https://gigazine.net/news/20231120-openai-ceo-emmett-shear/</link>
+      <pubDate>2023/11/20 19:33</pubDate>
+      <description>2023年11月17日にOpenAIがサム・アルトマン元CEOの退任および退社を発表し、アルトマン氏に続く形で複数の研究員や共同創設者が辞任を表明しています。そんな中、アルトマン氏の解任をめぐる動きがOpenAIの共同創設者で主任研究員を務めるイルヤ・サツキヴァー氏によって主導された可能性が浮上しました。 Before OpenAI Ousted Altman, Employees Disagreed Over AI ‘Safety’ — The Information https://www.theinformation.com/articles/before-openai-ousted-altman-employees-disagreed-over-ai-safety Details emerge of surprise board coup that ousted CEO Sam A</description>
+    </item>
+    <item>
+      <title>“やりたいドリブン開発”をする理由は「ビッグウェーブに乗るため」　“あえて取り組む”からこそ得られる、中長期的なバリュー</title>
+      <link>https://logmi.jp/tech/articles/329658</link>
+      <pubDate>2023/11/17 11:02</pubDate>
+      <description>このPDFは「LLM全盛時代の開発プラクティス」というタイトルの資料で、baseballyama氏によって作成されました。内容は主に大規模言語モデル（LLM）を活用した開発プラクティスに関するものです。 主な内容は以下の通りです： 1. **GitHub Copilotについて**: - Copilotの利用が増え、コード提案を受け入れてから精査する流れが一般的になった。 - インターネット接続がないと利用できないことが難点。 - Copilotは開いているファイルを参考にしてコードを提案し、統一されていないコードは提案の精度を低下させる。 2. **AIツールによる効率化**: - AIレビューツールとFigma to Codeツールについて議論。 - AIレビューツールは一般的なアドバイスに留まり、具体的な自社ルールに基づいたレビューが求められる。 - Figma to Codeでは、</description>
+    </item>
   </channel>
 </rss>
