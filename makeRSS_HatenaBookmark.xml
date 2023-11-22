@@ -10680,5 +10680,23 @@
       <pubDate>2023/11/22 06:23</pubDate>
       <description>Stability AIは、テキストから動画を生成するAIモデル「Stable Video Diffusion」のリサーチプレビュー版をGitHubで公開した。テキスト入力のためのWebツールを入手するにはウェイティングリストに登録する必要がある。</description>
     </item>
+    <item>
+      <title>漫画「ブラック・ジャック」が全話無料公開中　23日まで　連載開始50周年記念で</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/22/news122.html</link>
+      <pubDate>2023/11/22 12:03</pubDate>
+      <description>はじめに DROBE の課題と GPT-4-Vision-Preview を試すモチベーション ケーススタディ 入力するデータ 推論周辺部分のコード プロンプト 実験結果 おわりに 参考文献 はじめに OpenAIが Dev Day で発表したGPT-4-Vision-Previewは、画像処理と自然言語処理を組み合わせた最先端の技術です。 このモデルは、画像を理解し、その内容に基づいてテキスト情報を生成する能力を持っています。例えば、写真やイラストから物体を識別し、それに関連する説明や情報をテキストとして提供できます。この技術は、画像とテキストの間のギャップを橋渡しするものであり、多様な応用が可能です。 DROBEは、多様なファッション商品を取り扱うECサイトを運営しています。我々の挑戦の一つは、膨大な数の商品画像と説明文から、正確で有用なタグを抽出し、整理して保存しておく事です。このプ</description>
+    </item>
+    <item>
+      <title>マイクロソフト、OpenAI従業員に現在と同額の報酬で入社可能と述べる | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/22/2314.html</link>
+      <pubDate>2023/11/22 12:21</pubDate>
+      <description>GitHubの共同創設者で元CEOのChris Wanstrath氏が11月21日、OpenAIの暫定的なCEOとして就任してほしいと要請メールが来ていたことを公表した。しかしWanstrath氏はメールが迷惑メールフォルダ入りしていたため気づかず、週末は『スーパーマリオRPG』をプレイしていたと明かした。 Chris Wanstrath氏はIT起業家兼プログラマーだ。ソフトウェア開発プラットフォームGitHubの共同創設者としても知られており、元CEOを務めていた。一方でOpenAIは人工知能の研究、開発をおこなっているアメリカの企業だ。対話型生成AIのChatGPTが代表的なサービスとなっている。 そんなOpenAIとWanstrath氏にどういう関係があるのか。Wanstrath氏にOpenAIからメールがあったことについては、同社のお家騒動が関係している。 Chris Wanstr</description>
+    </item>
+    <item>
+      <title>ChatGPTが一時ダウン　平日朝からの障害で「仕事にならない」などの声も</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/22/news117.html</link>
+      <pubDate>2023/11/22 10:57</pubDate>
+      <description>Supershipの名畑です。映画「ゴジラ-1.0」を見た後にインターネット上で他の方々の感想を読んだのですが、様々な観点があるものだなと勉強になりました。 はじめに 「New models and developer products announced at DevDay」で様々なアップデートを発表したOpenAIですが、そのうちの一つとしてGPTsがございます。ものすごく話題ですね。(CEO退任のニュースの方が話題になってしまっている感もありますが……続報からすると、OpenAIで働き続ける線もあるのですかね) GPTsは端的に言えば「自分だけのChatGPTを作成して公開することができる」というものであり、サイトを見ると Starting today, you can create GPTs and share them publicly. Later this month, we</description>
+    </item>
   </channel>
 </rss>
