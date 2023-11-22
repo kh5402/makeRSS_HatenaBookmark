@@ -10638,5 +10638,23 @@
       <pubDate>2023/11/20 16:36</pubDate>
       <description>教職員の方が、文科省ガイドラインだけじゃなく、未来に向かっている学生たちのために、教育という場で何が出来るのか? ChatGPT を題材に考えるための資料です。 - 現場で役に立ちそうなChatGPT の Prompt の一例 - 教員の観点でのChatGPTの利用 - 未知の世界への警戒 - どんな変化が訪れるのか? - Microsoft 365 Copilot 外観 https://adoption.microsoft.com/ja-jp/copilot/ - Appendix に、その他 ChatGPT の利用例を 90分のプレゼンテーション時間の想定です。 Workshop 用のURL: https://qiita.com/dahatake https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese</description>
     </item>
+    <item>
+      <title>ChatGPTの新機能であるGPTsを使って私のコピーを作ってみた - Qiita</title>
+      <link>https://qiita.com/nabata/items/44550f673d6f973b6dc4</link>
+      <pubDate>2023/11/22 01:21</pubDate>
+      <description>発達障害（神経発達症）などの精神疾患を脳の特性の違いと受け止め、尊重する考え方が注目され始めた。ニューロダイバーシティーとも呼ばれ、独創性や集中力など発達障害特有の能力に着目し、活用する。イノベーション人材としての期待が高まるが、パフォーマンスの最大化に向けた受け入れ体制は道半ばだ。 ■連載予定　※内容や順番は予告なく変更する場合があります （1）発達障害の人、IT業界で活躍　オムロンは独創性・集中力に着目（今回） （2）入山章栄氏「脳の特性の違い、イノベーションの源泉に」 （3）産業医に聞く　発達障害を「戦力」にする上司の対応 時折会話の声が聞こえるオフィス。その片隅で、2台のモニターを前に集中して作業する若い男性がいた。耳栓をしているため、男性に周囲の音は入らない。ただ一心不乱に、プログラミング言語で書かれたソースコードが並ぶPC画面を見つめている。 ここは滋賀県草津市のオムロン草津事</description>
+    </item>
+    <item>
+      <title>「ChatGPT」とOpenAIがとりうる3つの道--アルトマン氏のマイクロソフト移籍で</title>
+      <link>https://japan.cnet.com/article/35211780/</link>
+      <pubDate>2023/11/21 12:08</pubDate>
+      <description>Stability AIは、テキストから動画を生成するAIモデル「Stable Video Diffusion」のリサーチプレビュー版をGitHubで公開した。テキスト入力のためのWebツールを入手するにはウェイティングリストに登録する必要がある。</description>
+    </item>
+    <item>
+      <title>Azure OpenAI Service - LLM Application 開発 ハンズオン</title>
+      <link>https://speakerdeck.com/dahatake/azure-openai-service-llm-application-kai-fa-hanzuon</link>
+      <pubDate>2023/11/22 00:15</pubDate>
+      <description>【シリコンバレー=奥平和行】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIの経営をめぐる混乱が続いている。社員が経営刷新を求める署名活動を始め、9割超が賛意を示したことが20日に分かった。生成AIが社会に急速に浸透するなか、同社を支援してきた米マイクロソフトの立場が強まるとの見方が出てきた。「皆さんにオープンAIの経営を監督する能力がないことは明白だ」。社員有志は2</description>
+    </item>
   </channel>
 </rss>
