@@ -10902,5 +10902,23 @@
       <pubDate>2023/11/22 19:02</pubDate>
       <description>サム・アルトマンCEOの解任をめぐり、OpenAIが騒動になっています。一方、AI研究者は、直前に発表されたGPT4 Turboの驚異的な性能の高さ、そして騒動が示唆するOpenAIの「技術」のヒントが興味深いと指摘します。</description>
     </item>
+    <item>
+      <title>画像生成AI「Stable Diffusion XL」が簡単に使える「Fooocus」。画像から画像が作れる「Image Prompt」が便利です (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/170/4170401/</link>
+      <pubDate>2023/11/22 15:16</pubDate>
+      <description>ChatGPTがあるから誰でもプログラムを書けるみたいに言われますが、実際のところ、基礎知識がないと効率も悪く、複雑なものは作れないので、 私がプログラムを読めるようになり、アプリをリリースできるようにまでなったきっかけのpythonの基礎を記載します。 基本的にChatGPTが書いてくれるので、概念を理解して、コードを読んで修正出来たら大丈夫です。 この記事もほぼChatGPTが書いてます。 1. Pythonにおける重要な概念 まず、Pythonにおける重要な概念を整理して説明します。 1. モジュール (Modules) 概念: モジュールは、関数、クラス、変数などを含むPythonのファイルです。これにより、コードを再利用しやすくなり、プログラムを整理して管理しやすくなります。 使用方法: import文を使用してモジュールをインポートします。例えば、import mathはmat</description>
+    </item>
+    <item>
+      <title>Octoverse: The state of open source and rise of AI in 2023</title>
+      <link>https://github.blog/2023-11-08-the-state-of-open-source-and-ai/</link>
+      <pubDate>2023/11/21 16:09</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>調べ物から語学学習、PCのトラブルシュートまでお手伝い。Windows標準のAIになる「Copilot」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1548896.html</link>
+      <pubDate>2023/11/22 08:33</pubDate>
+      <description>手塚プロダクションは11月22日、漫画「ブラック・ジャック」（少年チャンピオン・コミックス版）などの全巻無料公開を始めた。期限は23日まで。 手塚プロダクションは11月22日、漫画「ブラック・ジャック」（少年チャンピオン・コミックス版）などの全巻無料公開を始めた。スピンオフ作品を含めた全51冊が対象で、Kindle Storeなど各電子書籍プラットフォームで公開中。期限は23日まで。 ブラック・ジャックの連載開始50周年企画の一環。ブラック・ジャックの1～25巻の他、スピンオフ作品「ヤング　ブラック・ジャック」（1～16巻）、「Dr.キリコ～白い死神～」（全1～5巻）、「ブラック・ジャック創作秘話　手塚治虫の仕事場から」（1～5巻）も読み放題の対象となる。 ブラック・ジャックは、漫画家・手塚治虫さんが医療漫画。無免許の天才外科医・ブラックジャックの活躍を描いた作品で、1973年11月に「週</description>
+    </item>
   </channel>
 </rss>
