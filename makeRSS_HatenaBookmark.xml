@@ -10656,5 +10656,29 @@
       <pubDate>2023/11/22 00:15</pubDate>
       <description>【シリコンバレー=奥平和行】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIの経営をめぐる混乱が続いている。社員が経営刷新を求める署名活動を始め、9割超が賛意を示したことが20日に分かった。生成AIが社会に急速に浸透するなか、同社を支援してきた米マイクロソフトの立場が強まるとの見方が出てきた。「皆さんにオープンAIの経営を監督する能力がないことは明白だ」。社員有志は2</description>
     </item>
+    <item>
+      <title>OpenAI の GPT-4-vision-preview (VLM) を利用した商品画像のタグ付け - DROBEプロダクト開発ブログ</title>
+      <link>https://tech.drobe.co.jp/entry/2023/11/22/125027</link>
+      <pubDate>2023/11/22 12:53</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 マイクロソフトの最高技術責任者（CTO）ケヴィン・スコット氏はOpenAIの従業員に対し、もしマイクロソフトに移るのであれば、現在のOpenAIで得ているのと同額の報酬で雇用する考えを示しました。 現在、約770人とされるOpenAIの従業員は、そのうち700人以上が、アルトマン氏のOpenAI復帰が実現しなければ会社を離れるとする公開書簡に署名して、取締役会に突きつけています。この公開書簡に対して、取締役会は具体的な対応は取っていません。 一方、突然CEOを解任されたサム・アルトマン氏は（一時は取締役会との協議が物別れに終わり、マイクロソフトに加入することが報じられたものの）現在、再び復帰の可能性をOpen</description>
+    </item>
+    <item>
+      <title>GitHub元CEO、OpenAI暫定CEOの就任依頼メールがきていたと明かす。しかし気づかず『スーパーマリオRPG』をプレイ - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20231122-273079/</link>
+      <pubDate>2023/11/22 12:24</pubDate>
+      <description>Supershipの名畑です。映画「ゴジラ-1.0」を見た後にインターネット上で他の方々の感想を読んだのですが、様々な観点があるものだなと勉強になりました。 はじめに 「New models and developer products announced at DevDay」で様々なアップデートを発表したOpenAIですが、そのうちの一つとしてGPTsがございます。ものすごく話題ですね。(CEO退任のニュースの方が話題になってしまっている感もありますが……続報からすると、OpenAIで働き続ける線もあるのですかね) GPTsは端的に言えば「自分だけのChatGPTを作成して公開することができる」というものであり、サイトを見ると Starting today, you can create GPTs and share them publicly. Later this month, we</description>
+    </item>
+    <item>
+      <title>AIの訓練のために… 新興国の10代の若者たちがトラウマになるようなコンテンツにさらされている</title>
+      <link>https://www.businessinsider.jp/post-278406</link>
+      <pubDate>2023/11/22 09:17</pubDate>
+      <description>現代の音声合成技術は特定の人物の声を基にして、その人と非常に似た合成音声を生成する能力を持つ。このような実在の人物の声の合成は、なりすましや詐欺などの不適切な使用が問題視されていることに加え、声の再現や公開がその人物の人格的利益や名誉感情に影響を与える可能性もある。また声優や歌手のように、自らの声を職業活動に利用する人々にとっては、無許可での声の再現や使用によって経済的損失を被る恐れがある。 この研究の焦点は、特定の人物の音声データから学習させたモデルを用いて、任意のテキストをその人物の声で読み上げる合成音声技術にある。日本ではこの問題に関する具体的な法的争訟例はまだ存在しないとされるが、研究では架空の事例を設定し、この技術が引き起こしうる問題点を探究する。以下がその事例になる。（音声合成AIの利用場面における法的課題―「声」に権利はあるのか―より引用）。 声優Xは、所属するタレント事務所</description>
+    </item>
+    <item>
+      <title>OpenAI理事会、サム・アルトマン氏の復帰を協議　米報道 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN21EBA0R21C23A1000000/</link>
+      <pubDate>2023/11/22 06:23</pubDate>
+      <description>Stability AIは、テキストから動画を生成するAIモデル「Stable Video Diffusion」のリサーチプレビュー版をGitHubで公開した。テキスト入力のためのWebツールを入手するにはウェイティングリストに登録する必要がある。</description>
+    </item>
   </channel>
 </rss>
