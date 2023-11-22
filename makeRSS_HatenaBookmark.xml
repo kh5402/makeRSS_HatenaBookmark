@@ -10581,5 +10581,62 @@
       <pubDate>2023/11/21 17:17</pubDate>
       <description>いかがですか？人によって受け止め方はいろいろだと思います。歌声のトーンは明らかにMegpoidですが、その歌い方はVOCALOIDではなく、ほぼ人間という感じです。良いか悪いか、好きか嫌いかは、それぞれだとは思いますが、こんなMegpoidが登場することになったのです。最初のMegpoidが2009年に誕生してから、ずっとVOCALOID製品として親しまれてきて今年で14年目。このタイミングでSynthesizer V版が登場した経緯やその意味合いについて、いろいろと伺ってみました。 インターネット　村上昇社長にSynthesizer V対応の背景を聞いてみた VOCALOID 6での収録を元に試しにSynthesizer V化してみた －－昨年、VOCALOID 6版のMegpoidを出したことで、Synthesizer Vという話はなくなったのだと思っていたので、今回の話を聞いて、非常</description>
     </item>
+    <item>
+      <title>発達障害の人、IT業界で活躍　オムロンは独創性・集中力に着目</title>
+      <link>https://business.nikkei.com/atcl/gen/19/00474/112100018/</link>
+      <pubDate>2023/11/22 08:47</pubDate>
+      <description>先週末、サム・アルトマンは、11月17日に取締役会からCEOを解任されたOpenAIに、征服者としての英雄として戻ってくるかに見えた。 それは、すでに衝撃的な展開に満ちていた中で、また新たな衝撃的な展開をもたらすことになっただろう。アルトマンには大きな影響力があった。OpenAIの従業員はアルトマンの解雇以来同氏を支持し、OpenAIの投資家たちは同氏を復帰させるよう取締役会に働きかけていた。 数十億ドル、ひょっとするとAI業界全体の行く末が、取締役会の決断の行方にかかっており、多くの人が取締役会が圧力に屈し、決定を覆すと予想していた。 OpenAIの悲劇は終わっていない だが、取締役会はそれどころかアルトマンの復帰を拒否し、19日の深夜に従業員に宛てたメモの中で、アルトマンを解任することは、「取締役会の責任を遂行し、この組織の使命を推進する能力を維持するために必要である」と断言した。取締</description>
+    </item>
+    <item>
+      <title>openai-message-to-board.md</title>
+      <link>https://gist.github.com/Xe/32d7bc436e401f3323ae77e7e242f858</link>
+      <pubDate>2023/11/22 08:18</pubDate>
+      <description>Sam Altman氏はこの4年間、OpenAIの最高経営責任者（CEO）として非常に目立つ存在だった。2023年に入って「ChatGPT」が爆発的な人気を得ると、同氏はさらに、生成人工知能（AI）ムーブメントの顔としても非常に目立つ存在となった。 米国時間11月17日、そのAltman氏がOpenAIの取締役会によってCEOを解任されたというニュースがIT業界を揺るがした。解任の理由は「Altman氏が取締役会とのコミュニケーションにおいて常に率直とはいえなかった」というものだ。 そこから事態はさらなる展開を見せる。OpenAIに数十億ドルもの投資をしてきたMicrosoftがAltman氏を、OpenAIの共同創業者Greg Brockman氏とともに引き抜いたことを明らかにしたのだ。両氏は今後Microsoftで、同社CEOのSatya Nadella氏が言うところの「新たな先進AI</description>
+    </item>
+    <item>
+      <title>Stability AI、テキスト→動画の「Stable Video Diffusion」をGitHubで公開</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/22/news100.html</link>
+      <pubDate>2023/11/22 07:48</pubDate>
+      <description>【シリコンバレー=渡辺直樹】米半導体大手エヌビディアが21日発表した2023年8〜10月期決算は、純利益が前年同期比約14倍の92億4300万ドル（約1兆3700億円）だった。売上高は約3倍の181億2000万ドルで、ともに過去最高だった。生成AI（人工知能）ブームを受け、AIを動かすのに使う半導体の需要が急拡大した。4四半期連続で増収増益となった。同日発表した23年11月〜24年1月期の売上</description>
+    </item>
+    <item>
+      <title>Copilot Studioの現時点での機能を一通り触って試してみた。 </title>
+      <link>https://michikusa.tech/blog/1</link>
+      <pubDate>2023/11/22 07:24</pubDate>
+      <description>ソフトウェア開発者のチャーリー・ホルツ氏が、「有名ナレーターであるデイビッド・アッテンボロー氏の声で自分自身の生態に関するナレーション音声をリアルタイムで生成するシステム」を発表しました。実際に、アッテンボロー氏の声で動物番組風のナレーションが生成されるデモ動画も公開され、話題となっています。 David Attenborough is now narrating my life Here&amp;#39;s a GPT-4-vision + @elevenlabsio python script so you can star in your own Planet Earth: pic.twitter.com/desTwTM7RS— Charlie Holtz (@charliebholtz) Unauthorized “David Attenborough” AI clone narrates dev</description>
+    </item>
+    <item>
+      <title>サム・アルトマンはまだOpenAIへの復帰を目指しておりMicrosoftへの移籍は保留中、解雇に賛同した取締役全員が去ればOpenAIへ戻ることを示唆</title>
+      <link>https://gigazine.net/news/20231121-sam-altman-openai-microsoft/</link>
+      <pubDate>2023/11/21 13:40</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/597561d291e63d5076ae58f5b9308cbf018e7eb3/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1548%2F690%2Fimage10.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoftのサティア・ナデラCEOが「OpenAI従業員がMicrosoftに移籍するかOpenAIにとどまるかは自由」とコメント</title>
+      <link>https://gigazine.net/news/20231121-nadella-says-openai-need-change/</link>
+      <pubDate>2023/11/21 14:56</pubDate>
+      <description>日本マイクロソフトが、生成AIを活用したアシスタントツール「Copilot」の個人向け正式版を12月1日にリリースする。現在のプレビュー版に引き続き、Webブラウザやアプリからアクセスして利用できるだけでなく、Windows 11に一機能として組み込まれる。これまでのPCの使い方に大きな変化を及ぼす、生成AIの新機能に触れる人口が大きく増えそうだ。では、具体的にどのような機能が使えるのか。 GPT-4ベースのCopilot Copilotは、人間と会話するような自然な言葉で物事を調べたり、コンテンツを創作したり、アプリの操作を指示したりできる米Microsoftの独自技術だが、ベースとなっているのは「ChatGPT」で一世を風靡（ふうび）した米OpenAIの大規模言語モデル（LLM）「GPT-4」だ。 2社の協業によって、GPT-4に検索エンジン「Bing」のアルゴリズムを統合したものがC</description>
+    </item>
+    <item>
+      <title>ついにMegpoidのSynthesizer V版が発売! VOCALOID版と併売？新製品登場の真意とは!?｜DTMステーション</title>
+      <link>https://www.dtmstation.com/archives/63728.html</link>
+      <pubDate>2023/11/21 22:01</pubDate>
+      <description>リンク NHK NEWS WEB 生成AIで「ブラック・ジャック」新作を AIの創造性はどこまで人間に迫れるか？｜NHK 漫画の神様とも言われる漫画家・手塚治虫さんの代表作の1つ「ブラック・ジャック」。生命と医療をテーマにしたこの漫画の新作を、生成AIを使って生み出そうというプロジェクトが始まった。急速に進化し 3 users 110</description>
+    </item>
+    <item>
+      <title>マイクロソフトＣＥＯ、アルトマン氏のオープンＡＩ復帰容認示唆</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-11-21/S4G68YT0AFB401</link>
+      <pubDate>2023/11/21 12:20</pubDate>
+      <description>無料かつ高機能なペイントアプリ「Krita」に画像生成AI「Stable Diffusion」を組み込むプラグインが「krita-ai-diffusion(AI Image Diffusion)」です。Generative AI for Kritaを使えば落書きのような下描き画像から美麗イラストを生成できるとのことなので、インストール手順や使い方をまとめてみました。 GitHub - Acly/krita-ai-diffusion: Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. https://github.com/Acly/krita-ai-diffusion ・目次 ◆1</description>
+    </item>
+    <item>
+      <title>ＣＥＯ解任のアルトマン氏、オープンＡＩ本社を訪問　復帰検討か</title>
+      <link>https://www.cnn.co.jp/tech/35211760.html</link>
+      <pubDate>2023/11/20 16:36</pubDate>
+      <description>教職員の方が、文科省ガイドラインだけじゃなく、未来に向かっている学生たちのために、教育という場で何が出来るのか? ChatGPT を題材に考えるための資料です。 - 現場で役に立ちそうなChatGPT の Prompt の一例 - 教員の観点でのChatGPTの利用 - 未知の世界への警戒 - どんな変化が訪れるのか? - Microsoft 365 Copilot 外観 https://adoption.microsoft.com/ja-jp/copilot/ - Appendix に、その他 ChatGPT の利用例を 90分のプレゼンテーション時間の想定です。 Workshop 用のURL: https://qiita.com/dahatake https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese</description>
+    </item>
   </channel>
 </rss>
