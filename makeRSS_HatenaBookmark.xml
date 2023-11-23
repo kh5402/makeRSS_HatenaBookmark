@@ -10935,5 +10935,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/323db80c2362a27c4b478fda17ea8399e6fa296e/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F000%2F0001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>【VScode今までありがとう】新時代のコードエディタ、Cursorのメリット・できることを網羅的に解説した</title>
+      <link>https://zenn.dev/gamuprog/articles/53e7adee04b337</link>
+      <pubDate>2023/11/22 20:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4fa137770264b2e8658a14ce282096c0865b1adf/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F209%2FPhotoProAI_Logo_black.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ついにAIが動画も生成可能に！ Stability AIが「Stable Video Diffusion」を発表／プロンプトや画像からアニメーションを生成</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1549000.html</link>
+      <pubDate>2023/11/22 12:08</pubDate>
+      <description>モバイルアプリ版に実装されてる音声入出力機能が無課金ユーザーにも開放されたってニュースを見て貧乏人の俺は早速ダウンロードしたわけね。 英会話の練習に使えるみたいなニュースを見てたから興味津々でトライしたわけよ。 そしたらまあ俺の英語力では話すのも聞き取るのもままならず、到底使いこなせる”域”に達してねえなこりゃ、と早々に自分に失望したよ。 はあ、アンインスコするか・・・と思いながら設定ちょろちょろ弄ってたら「Speach」の欄にMain Languageって項目があって、そこがAuto-Detect（自動検出）になってたんよね。 あっこれのせいか！俺の英語力が悪いからじゃなかったんだと思って、Englishに切り替えてもう一回やってみたわけ。 そしたら案の定結果は変わらずさらに落ち込んだ。 で、もうどうでもいいやと思いながら日本語で適当に話しかけたんだよ。 そしたら！ なぜか俺が日本語で話</description>
+    </item>
+    <item>
+      <title>人間らしい音声の合成を目指して感情の表現も可能なオープンソースの読み上げAI「StyleTTS 2」が登場</title>
+      <link>https://gigazine.net/news/20231122-style-tts-2/</link>
+      <pubDate>2023/11/22 17:44</pubDate>
+      <description>新機能が追加されると、Discussionsページに作者からのアナウンスが掲載されることがあるので、参考にするといいだろう。また、作者に質問したりフィードバックを残したい場合などにもこのページを利用できる。 Image Promptを活用する Image Promptとは、テキストの代わりに画像をプロンプトとして用いる手法だ。 Midjourneyでは以前から利用可能だが、Stable DiffusionではControlNetのIP-Adapterを使用するなど工夫が必要なうえに、プロンプトを無視したり複数の画像を使った生成がうまくいかなかったりといった問題があった。 FooocusのImage Promptでは、これらIP-Adapterの弱点がすべて解消しているとのことだ。</description>
+    </item>
+    <item>
+      <title>米 半導体大手エヌビディア 利益14倍に 生成AI急速普及で | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231122/k10014265731000.html</link>
+      <pubDate>2023/11/22 15:04</pubDate>
+      <description>詳細については今後発表するという。同社は「Thank you so much for your patience through this.」（ご迷惑をおかけしました）とコメントしている。OpenAI社を運営する米非営利団体OpenAIの取締役会は17日、アルトマン氏をCEOから辞任し、取締役会を離れることを発表していた。 サム・アルトマン氏は自身のXアカウント（＠sama）で「私はOpenAIが大好きで、この数日間、私がしてきたことはすべて、このチームとその使命を維持するためにしてきたことだ。日曜日の夕方、マイクロソフトへの移籍を決めたとき、それが私とチームにとって最善の道であることは明らかだった」と思いを吐露。 この投稿を引用する形で、米Microsoftのサティア・ナデラCEO（＠satyanadella）は「私たちは、OpenAIの取締役会の変更に勇気付けられた。私はサムとグレッグ</description>
+    </item>
   </channel>
 </rss>
