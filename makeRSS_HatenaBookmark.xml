@@ -11016,5 +11016,11 @@
       <pubDate>2023/11/22 15:47</pubDate>
       <description>新機能が追加されると、Discussionsページに作者からのアナウンスが掲載されることがあるので、参考にするといいだろう。また、作者に質問したりフィードバックを残したい場合などにもこのページを利用できる。 Image Promptを活用する Image Promptとは、テキストの代わりに画像をプロンプトとして用いる手法だ。 Midjourneyでは以前から利用可能だが、Stable DiffusionではControlNetのIP-Adapterを使用するなど工夫が必要なうえに、プロンプトを無視したり複数の画像を使った生成がうまくいかなかったりといった問題があった。 FooocusのImage Promptでは、これらIP-Adapterの弱点がすべて解消しているとのことだ。</description>
     </item>
+    <item>
+      <title>作りたいゲームを指示すると概念図を作ってから概念図に基づいてゲームの開発計画を立て、自動的にプログラミングするアプリを作ろうとした #GPTハッカソン24耐｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n7d9e9ce4e8a1</link>
+      <pubDate>2023/11/22 09:11</pubDate>
+      <description>Sam Altman氏はこの4年間、OpenAIの最高経営責任者（CEO）として非常に目立つ存在だった。2023年に入って「ChatGPT」が爆発的な人気を得ると、同氏はさらに、生成人工知能（AI）ムーブメントの顔としても非常に目立つ存在となった。 米国時間11月17日、そのAltman氏がOpenAIの取締役会によってCEOを解任されたというニュースがIT業界を揺るがした。解任の理由は「Altman氏が取締役会とのコミュニケーションにおいて常に率直とはいえなかった」というものだ。 そこから事態はさらなる展開を見せる。OpenAIに数十億ドルもの投資をしてきたMicrosoftがAltman氏を、OpenAIの共同創業者Greg Brockman氏とともに引き抜いたことを明らかにしたのだ。両氏は今後Microsoftで、同社CEOのSatya Nadella氏が言うところの「新たな先進AI</description>
+    </item>
   </channel>
 </rss>
