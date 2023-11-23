@@ -11127,5 +11127,29 @@
       <pubDate>2023/11/22 07:32</pubDate>
       <description>新機能が追加されると、Discussionsページに作者からのアナウンスが掲載されることがあるので、参考にするといいだろう。また、作者に質問したりフィードバックを残したい場合などにもこのページを利用できる。 Image Promptを活用する Image Promptとは、テキストの代わりに画像をプロンプトとして用いる手法だ。 Midjourneyでは以前から利用可能だが、Stable DiffusionではControlNetのIP-Adapterを使用するなど工夫が必要なうえに、プロンプトを無視したり複数の画像を使った生成がうまくいかなかったりといった問題があった。 FooocusのImage Promptでは、これらIP-Adapterの弱点がすべて解消しているとのことだ。</description>
     </item>
+    <item>
+      <title>Steamで「非常に好評」以上の評価を受けたエンジニアリング関連ゲーム145選</title>
+      <link>https://gigazine.net/news/20231123-awesome-engineering-games/</link>
+      <pubDate>2023/11/23 21:32</pubDate>
+      <description>LoRAは画像生成モデルや大規模言語モデル(LLM)に追加の情報を学習させてモデルを微調整できる仕組みです。LoRAを用いてLLMを強化する際に役立つ情報をAI研究者のセバスチャン・ラシュカ氏が解説しています。 Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms ◆LoRAの効果には一貫性がある Metaが開発したLLM「Llama 2」をLoRAで強化した際のベンチマーク結果を示した表が以下。「LoRA defaul 1」「LoRA defaul 2」「LoRA defaul 3」はそれぞれ異なるタイミングで作成されたLoRAモデルですが、ベンチマークスコア</description>
+    </item>
+    <item>
+      <title>GPU・CUDAを活用して数値計算やAIのトレーニングを高速化するのに必要な基礎知識のコード例付きまとめ</title>
+      <link>https://gigazine.net/news/20231123-gpu-survival-toolkit/</link>
+      <pubDate>2023/11/23 17:53</pubDate>
+      <description>米オープンＡＩが先週末にサム・アルトマン最高経営責任者（ＣＥＯ）を解任するのに先立ち、人類を脅かす可能性のある強力な人工知能の発見について警告する書簡を社内の研究者が取締役会に送っていたことが関係者の話で分かった。写真は同社のロゴ。２月撮影（２０２３年　ロイター/Dado Ruvic） ［２２日　ロイター］ - 対話型人工知能（ＡＩ）「チャットＧＰＴ」を開発した米新興企業オープンＡＩが先週末にサム・アルトマン最高経営責任者（ＣＥＯ）を解任するのに先立ち、社内の研究者数名が、人類を脅かす可能性のある強力なＡＩの発見について警告する書簡を取締役会に送っていたことが関係者の話で分かった。 書簡や新たなＡＩアルゴリズムのことは、これまで報道されていなかったが、関係筋はアルトマン氏解任前の重要な動きだったとした。 アルトマン氏は、オープンＡＩの顔としてＣｈａｔＧＰＴの成長と普及に取り組み、汎用ＡＩ（</description>
+    </item>
+    <item>
+      <title>生成AI時代に向けたCOBOL資産の展開とは--マイクロフォーカスのマクギルCTO</title>
+      <link>https://japan.zdnet.com/article/35211649/</link>
+      <pubDate>2023/11/22 22:03</pubDate>
+      <description>秋田書店（東京都千代田区）は11月22日、生成AIを活用して制作した漫画「ブラック・ジャック」の新作を掲載した「週刊少年チャンピオン」52号を発売した。AIとヒトが漫画を作る過程を紹介した記事も掲載する。価格は340円。 タイトルは「TEZUKA2023 ブラック・ジャック 機械の心臓―Heartbeat Mark II」。巻頭カラーを含む全32ページの読み切り作品で、現代社会に舞い戻ってきたブラック・ジャックが難題に挑む。 秋田書店は「漫画の神様である手塚治虫先生に、恐れ多くもAIとヒトがタッグを組み挑んだ今作。漫画作成の良きパートナー・アシスタントとして活躍したAIだが、漫画を読んで楽しむこと自体はAIが出来ないことなので、是非とも皆さんに読んでいただきたい」としている。 手塚プロダクションの手塚眞さんらが立ち上げた「TEZUKA2023」プロジェクトが制作。手塚治虫作品を学習したAI</description>
+    </item>
+    <item>
+      <title>【GPT Crawler】URLだけでどんなサイトもGPTsにできる神AIを使ってみた | WEEL</title>
+      <link>https://weel.co.jp/media/gpt-crawler</link>
+      <pubDate>2023/11/20 19:04</pubDate>
+      <description>【シリコンバレー=奥平和行】生成AI（人工知能）「Chat（チャット）GPT」を開発した米オープンAIの経営をめぐる混乱が続いている。社員が経営刷新を求める署名活動を始め、9割超が賛意を示したことが20日に分かった。生成AIが社会に急速に浸透するなか、同社を支援してきた米マイクロソフトの立場が強まるとの見方が出てきた。「皆さんにオープンAIの経営を監督する能力がないことは明白だ」。社員有志は2</description>
+    </item>
   </channel>
 </rss>
