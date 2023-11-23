@@ -10920,5 +10920,20 @@
       <pubDate>2023/11/22 08:33</pubDate>
       <description>手塚プロダクションは11月22日、漫画「ブラック・ジャック」（少年チャンピオン・コミックス版）などの全巻無料公開を始めた。期限は23日まで。 手塚プロダクションは11月22日、漫画「ブラック・ジャック」（少年チャンピオン・コミックス版）などの全巻無料公開を始めた。スピンオフ作品を含めた全51冊が対象で、Kindle Storeなど各電子書籍プラットフォームで公開中。期限は23日まで。 ブラック・ジャックの連載開始50周年企画の一環。ブラック・ジャックの1～25巻の他、スピンオフ作品「ヤング　ブラック・ジャック」（1～16巻）、「Dr.キリコ～白い死神～」（全1～5巻）、「ブラック・ジャック創作秘話　手塚治虫の仕事場から」（1～5巻）も読み放題の対象となる。 ブラック・ジャックは、漫画家・手塚治虫さんが医療漫画。無免許の天才外科医・ブラックジャックの活躍を描いた作品で、1973年11月に「週</description>
     </item>
+    <item>
+      <title>あなたの開発生産性を爆上げする、エンジニア向けAIツール22個｜苦しんでプログラミングを学んだ柴犬（くるしば）</title>
+      <link>https://note.com/shiba_program/n/n78601735db9a</link>
+      <pubDate>2023/11/23 09:31</pubDate>
+      <description>上記のようにコードエディタを開くコマンドを分けるために、既にcodeコマンドをVScodeで使っている方はcursorダウンロードの際にcursorコマンドのみインストールするようにしてください。codeの方もインストールすると、codeコマンドでVScodeとCursorどちらも開いてしまうようです。 Cursor主要機能紹介 cmd + Shift + L or cmd + L でGPTとChat機能 エディタ上で画面右にGPTに質問できるサイドバーが出現する。何も選択してないと無から質問できる状態になっていて、コードを選択した状態で開くとそのコードがあらかじめ引用された状態になっている(別の部分のコードもどんどん追加できる)。 ↑10~21行目をcmd + Lした後に31~33行目を追加でcmd + Lした画像 cmd + K　でAI Edit機能 コードを選択した状態でcmd +</description>
+    </item>
+    <item>
+      <title>AI完全特化の写真編集ソフト「AVCLabs PhotoPro AI」が発売／最新の編集技術を簡単に操作、利用できる</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1549209.html</link>
+      <pubDate>2023/11/22 18:25</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/323db80c2362a27c4b478fda17ea8399e6fa296e/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F000%2F0001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
