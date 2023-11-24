@@ -11217,5 +11217,23 @@
       <pubDate>2023/11/24 11:11</pubDate>
       <description>OpenAIとマイクロソフトは11月21日、人工知能（AI）チャットボットのChatGPTとその後期バージョンが、ノンフィクション作家の著作物などを無断で学習に使用したと主張する集団訴訟を起こされた。 この訴訟は、前CEOのサム・アルトマンの突然の更迭後のOpenAIが、混乱に陥っている中で起こされたもので、ニューヨーク・タイムズ紙のベストセラー『人類初の南極越冬船 ベルジカ号の記録（原題：Madhouse at the End of the Earth）』の著者のジュリアン・サンクトンが原告団を率いている。 サンクトンはこの本の調査のために、5年の歳月と数万ドルを費やして世界中を旅したとされる。法律事務所Susman Godfrey LLPが提出した訴状によると、ChatGPTは、サンクトンの著書がチャットボットの訓練に使われたデータセットの一部であることを認めたという。 サンクトンと数</description>
     </item>
+    <item>
+      <title>AWSで生成AIアプリの開発が可能な『PartyRock』でポエムアプリを作ってみた - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/11/24/120000</link>
+      <pubDate>2023/11/24 14:14</pubDate>
+      <description>「なにがなんだかわからない」。11月17日（現地時間）から始まったOpenAIを巡る騒動を、そんな思いで見ている人も多いのではないだろうか。OpenAIとサム・アルトマンになにが起きたのか、そして、今後どうなるのかを、不透明なりに考えてみたい。 「なにがなんだかわからない」 11月17日（現地時間）から始まったOpenAIを巡る騒動を、そんな思いで見ている人も多いのではないだろうか。 ぶっちゃけ、筆者も「なんだこれは」という気持ちでいる。 OpenAIとサム・アルトマン氏になにが起きたのか、そして、今後どうなるのかを、不透明なりに考えてみたい。 「OpenAI・5日の乱」とは 騒動の流れを追ってみよう。 11月17日、OpenAIは突如、サム・アルトマン氏が退任すると発表した。同時に、OpenAIの共同創業者で会長兼社長であるグレッグ・ブロックマン氏も退任する。 同日午後1時46分、アルト</description>
+    </item>
+    <item>
+      <title>DALLE3 (ダリスリー) の無料教科書:初級編｜プチpony</title>
+      <link>https://note.com/chatgpt4graph/n/na2c61100d60d</link>
+      <pubDate>2023/11/24 12:57</pubDate>
+      <description>OpenAIが新たなAI開発プロジェクト「Q*(キュースター)」を進めていることを認めたと報じられています。このQ*は数学的推論能力の改善を目指したもので、汎用人工知能(AGI)の研究に画期的な進歩をもたらすかもしれず、2023年11月に起こったサム・アルトマンCEO解任騒動の一因にもなった可能性が指摘されています OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say | Reuters https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/ OpenAI ‘was working</description>
+    </item>
+    <item>
+      <title>ノンフィクション作家ら、OpenAIとマイクロソフトを著作権侵害で提訴 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67499</link>
+      <pubDate>2023/11/24 07:54</pubDate>
+      <description>Googleは、生成AIチャット「Bard」がYouTube動画について理解する能力が上がったと発表した。例えばレシピ動画を見ずに材料や作り方を確認できる。 米Googleは11月21日（現地時間）、生成AIチャット「Bard」が「YouTube動画を理解する能力の第一歩を踏み出した」と発表した。 同社は9月に、YouTubeからリアルタイム情報を取得できるようにしているが、今回のアップデートで、動画の概要や、長い動画のどの当たりで目的の情報が得られるかなどを答えられるようになったようだ。 Googleは例として、ケーキのレシピ動画を探している場合、そのレシピに必要な卵の数を尋ねられるようになるとしている。 「美味しいミルクティーの入れ方を紹介するYouTube動画から、手順を教えてください」と尋ねたところ、複数の画像入りの説明が表示された。最初の手順に「ティーポットに水と紅茶を入れ」とあ</description>
+    </item>
   </channel>
 </rss>
