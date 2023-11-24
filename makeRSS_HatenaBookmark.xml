@@ -11199,5 +11199,11 @@
       <pubDate>2023/11/24 10:02</pubDate>
       <description>こんにちは。MNTSQの下村です。 コーポレートエンジニアとして、MNTSQ従業員の生産系向上施策等を実施していたりします。 ( Twitterもやっている のでフォローしてもらえると嬉しいです！ ) 本日は社員からの問い合わせ業務 いわゆる ヘルプデスク業務について効率化するためのツールを自作した 話を書いてみます。 この記事の要約 一人目コーポレートエンジニアとして参画したがヘルプデスク業務が非効率だったので効率化した。 質問に対して特定のemojiを押すとGitHub ProjectsのItemを作成するようにした。 SlackスレッドのコメントとGitHub ProjectsのItemを双方向同期するようにした。 Azure OpenAIも利用して効率化した。 きっかけ 2023年5月からMNTSQの一人目コーポレートエンジニアとして参画しています。 情報システムを色々と整備してい</description>
     </item>
+    <item>
+      <title>ITエンジニア不足をAIが救うか、ガートナーが2024年に注目すべき技術を発表</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/08644/</link>
+      <pubDate>2023/11/23 10:40</pubDate>
+      <description>GPUはCPUよりもはるかに多くのコアを備えており、多数の並列処理を行う事が可能です。そうしたGPUの性能を活用するために必要な知識を、ITエンジニアのリジュル・ラジェシュさんがブログにまとめています。 GPU Survival Toolkit for the AI age: The bare minimum every developer must know https://journal.hexmos.com/gpu-survival-toolkit/ 現代のAIモデルで使用されているTransformerアーキテクチャは並列処理を活用して大きく性能を向上させており、そうしたAIの開発に関わる場合は並列処理についての理解が必須になってきます。CPUは通常シングルスレッドの逐次処理性能が高まるように設計されており、複雑なAIモデルで必要となる、多数の並列計算を効率的に分散して実行するのに</description>
+    </item>
   </channel>
 </rss>
