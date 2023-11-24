@@ -11205,5 +11205,11 @@
       <pubDate>2023/11/23 10:40</pubDate>
       <description>GPUはCPUよりもはるかに多くのコアを備えており、多数の並列処理を行う事が可能です。そうしたGPUの性能を活用するために必要な知識を、ITエンジニアのリジュル・ラジェシュさんがブログにまとめています。 GPU Survival Toolkit for the AI age: The bare minimum every developer must know https://journal.hexmos.com/gpu-survival-toolkit/ 現代のAIモデルで使用されているTransformerアーキテクチャは並列処理を活用して大きく性能を向上させており、そうしたAIの開発に関わる場合は並列処理についての理解が必須になってきます。CPUは通常シングルスレッドの逐次処理性能が高まるように設計されており、複雑なAIモデルで必要となる、多数の並列計算を効率的に分散して実行するのに</description>
     </item>
+    <item>
+      <title>「ChatGPT with voice」が無償ユーザーにも開放 ～まるで人間のように声でAIと対話／日本語での受け答えにも問題なし</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1549375.html</link>
+      <pubDate>2023/11/24 00:16</pubDate>
+      <description>プレイヤーレビュー機能が導入されているゲーム配信サイトのSteamでは、プレイヤーからのレビューによってゲームの評価ステータスが決定されます。その中でも、好評率が85％以上のゲームは「非常に好評」という評価が下されます。エンジニアのロジャー・トゥアン氏が、「非常に好評」の評価を受けたエンジニアリングゲームについてまとめています。 GitHub - arcataroger/awesome-engineering-games: A curated list of engineering-related video games rated Very Positive or higher on Steam https://github.com/arcataroger/awesome-engineering-games ◆Techtonica 異世界の惑星の地底を舞台にした一人称視点の工場建設ゲーム</description>
+    </item>
   </channel>
 </rss>
