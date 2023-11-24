@@ -11301,5 +11301,17 @@
       <pubDate>2023/11/24 06:21</pubDate>
       <description>米OpenAI（オープンAI）で2023年11月17日（米国時間）から始まったお家騒動。本件について誰もが困惑したのは、なぜ理事会がサム・アルトマン氏をCEO（最高経営責任者）から解任したのか、理由が分からなかったことだ。謎はアルトマン氏のCEO復帰が発表された本コラムの執筆時点でも、まだ明らかになっていない。 「理事会がサムを解任した理由は、安全性に関する意見の相違ではない。全く異なる別の理由があった」。理事会が11月19日に新しい暫定CEOに選んだ、ゲーム実況配信サービス「Twitch」の元CEOであるエメット・シア氏はX（旧ツイッター）への投稿でそう述べた。 シア氏はこの投稿で、今回の問題については独立した調査委員会が30日以内に報告書をまとめるとした。それでもわざわざ「AI（人工知能）の安全性に関する意見の相違が原因ではない」と言及したのは、それこそがアルトマン氏の解任理由であると</description>
     </item>
+    <item>
+      <title>GPU Survival Toolkit for the AI age: The bare minimum every developer must know</title>
+      <link>https://journal.hexmos.com/gpu-survival-toolkit/</link>
+      <pubDate>2023/11/23 22:11</pubDate>
+      <description>プレイヤーレビュー機能が導入されているゲーム配信サイトのSteamでは、プレイヤーからのレビューによってゲームの評価ステータスが決定されます。その中でも、好評率が85％以上のゲームは「非常に好評」という評価が下されます。エンジニアのロジャー・トゥアン氏が、「非常に好評」の評価を受けたエンジニアリングゲームについてまとめています。 GitHub - arcataroger/awesome-engineering-games: A curated list of engineering-related video games rated Very Positive or higher on Steam https://github.com/arcataroger/awesome-engineering-games ◆Techtonica 異世界の惑星の地底を舞台にした一人称視点の工場建設ゲーム</description>
+    </item>
+    <item>
+      <title>セキュリティと管理の課題感から取り組んだ「Akamai Guardicore Segmentation」のPoC　大和総研が感じた「ネットワークを可視化できる」メリット</title>
+      <link>https://logmi.jp/tech/articles/329469</link>
+      <pubDate>2023/11/22 13:09</pubDate>
+      <description>Makoto Arakawa / 荒川 誠 @Pfhster 岸田が、『ニコニコ動画』へ投稿された、風刺動画を「悪質な印象操作」と言い、日テレや、産経新聞等、一部マスコミもそれへ追従している。AIにより、作成された偽動画と言うのが、主な理由であるが、それは岸田が、国民へ恨まれる事を行った『結果』へ過ぎず、AIは、『手段』でしか無い。 pic.twitter.com/Hw68DLlVHO 2023-11-04 17:32:20 Makoto Arakawa / 荒川 誠 @Pfhster そして、いかなる理由であれ、政治風刺を潰す行為は、言論の自由へ反する物だ。中国の習近平や、アメリカのトランプと、同じである。岸田への印象操作は自民党の圧政へ苦しむ国民の『声』であり、『抵抗権』による抑圧への抵抗だ。AIによる、偽動画であれ、国民に真実へ向かわせる為、必要だ。 2023-11-04 17:35</description>
+    </item>
   </channel>
 </rss>
