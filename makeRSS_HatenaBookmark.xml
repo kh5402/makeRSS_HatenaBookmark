@@ -11211,5 +11211,11 @@
       <pubDate>2023/11/24 00:16</pubDate>
       <description>プレイヤーレビュー機能が導入されているゲーム配信サイトのSteamでは、プレイヤーからのレビューによってゲームの評価ステータスが決定されます。その中でも、好評率が85％以上のゲームは「非常に好評」という評価が下されます。エンジニアのロジャー・トゥアン氏が、「非常に好評」の評価を受けたエンジニアリングゲームについてまとめています。 GitHub - arcataroger/awesome-engineering-games: A curated list of engineering-related video games rated Very Positive or higher on Steam https://github.com/arcataroger/awesome-engineering-games ◆Techtonica 異世界の惑星の地底を舞台にした一人称視点の工場建設ゲーム</description>
     </item>
+    <item>
+      <title>OpenAIが4度目のブレイクスルーとなる数学ができるAI「Q*(キュースター)」で汎用人工知能開発の飛躍を目指す、アルトマンCEO解任騒動の一因か</title>
+      <link>https://gigazine.net/news/20231124-open-ai-q-star/</link>
+      <pubDate>2023/11/24 11:11</pubDate>
+      <description>OpenAIとマイクロソフトは11月21日、人工知能（AI）チャットボットのChatGPTとその後期バージョンが、ノンフィクション作家の著作物などを無断で学習に使用したと主張する集団訴訟を起こされた。 この訴訟は、前CEOのサム・アルトマンの突然の更迭後のOpenAIが、混乱に陥っている中で起こされたもので、ニューヨーク・タイムズ紙のベストセラー『人類初の南極越冬船 ベルジカ号の記録（原題：Madhouse at the End of the Earth）』の著者のジュリアン・サンクトンが原告団を率いている。 サンクトンはこの本の調査のために、5年の歳月と数万ドルを費やして世界中を旅したとされる。法律事務所Susman Godfrey LLPが提出した訴状によると、ChatGPTは、サンクトンの著書がチャットボットの訓練に使われたデータセットの一部であることを認めたという。 サンクトンと数</description>
+    </item>
   </channel>
 </rss>
