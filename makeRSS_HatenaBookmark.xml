@@ -11289,5 +11289,17 @@
       <pubDate>2023/11/24 12:48</pubDate>
       <description>こんにちは、先日千葉に遊びにいったらアクアライン通行止めで東京湾迂回する羽目になった菅野です。 ChatGPTにて手軽にアプリケーションを自動で生成できるGPTsが世の中では大きな反響を呼んでいます。 プログラミングレスでChatGPTを利用するアプリを生成できるので、プログラマー以外の人がどんどん生成AIを利用するような流れが出来つつありますね。 さて、そのような流れにのってAmazonBedrockを利用してアプリを生成、共有するサービス、PartyRockがAWSからリリースされました。 早速利用してみましょう。 https://partyrock.aws/partyrock.aws PartyRockの始め方 アカウントの作成 PartyRockはAWSが提供するサービスではありますが、AWSアカウントとは別のアカウントを作成する必要があります。 PartyRockのサイトにアクセ</description>
     </item>
+    <item>
+      <title>F# 8 のリリースで F# が最強の言語になってしまった件 - Qiita</title>
+      <link>https://qiita.com/262144/items/01a3023612116180278e</link>
+      <pubDate>2023/11/24 07:49</pubDate>
+      <description>Googleが開発したチャットAIの「Bard」は、2023年3月のリリース後もどんどん改良が重ねられています。9月には画像をアップロードして詳細を尋ねる機能が追加されたほか、GmailやGoogleドキュメントの内容をBardの回答に含められる「Bard Extensions」も発表されました。新たに、BardがYouTubeに投稿された動画の内容を理解できるようになり、動画を要約させたり内容について質問したりすることが可能になりました。 Google’s Bard YouTube extension just got a lot smarter - The Verge https://www.theverge.com/2023/11/22/23972636/bard-youtube-extension-update-search-video-content Google Bard ge</description>
+    </item>
+    <item>
+      <title>Adobe上級副社長「生成AI、個人の新たな収益源に」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN290680Z20C23A9000000/</link>
+      <pubDate>2023/11/24 06:21</pubDate>
+      <description>米OpenAI（オープンAI）で2023年11月17日（米国時間）から始まったお家騒動。本件について誰もが困惑したのは、なぜ理事会がサム・アルトマン氏をCEO（最高経営責任者）から解任したのか、理由が分からなかったことだ。謎はアルトマン氏のCEO復帰が発表された本コラムの執筆時点でも、まだ明らかになっていない。 「理事会がサムを解任した理由は、安全性に関する意見の相違ではない。全く異なる別の理由があった」。理事会が11月19日に新しい暫定CEOに選んだ、ゲーム実況配信サービス「Twitch」の元CEOであるエメット・シア氏はX（旧ツイッター）への投稿でそう述べた。 シア氏はこの投稿で、今回の問題については独立した調査委員会が30日以内に報告書をまとめるとした。それでもわざわざ「AI（人工知能）の安全性に関する意見の相違が原因ではない」と言及したのは、それこそがアルトマン氏の解任理由であると</description>
+    </item>
   </channel>
 </rss>
