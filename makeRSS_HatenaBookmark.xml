@@ -11361,5 +11361,20 @@
       <pubDate>2023/11/21 08:10</pubDate>
       <description>LoRAは画像生成モデルや大規模言語モデル(LLM)に追加の情報を学習させてモデルを微調整できる仕組みです。LoRAを用いてLLMを強化する際に役立つ情報をAI研究者のセバスチャン・ラシュカ氏が解説しています。 Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms ◆LoRAの効果には一貫性がある Metaが開発したLLM「Llama 2」をLoRAで強化した際のベンチマーク結果を示した表が以下。「LoRA defaul 1」「LoRA defaul 2」「LoRA defaul 3」はそれぞれ異なるタイミングで作成されたLoRAモデルですが、ベンチマークスコア</description>
     </item>
+    <item>
+      <title>【Claude 2.1】ChatGPTの代替ツールとなるか？Claude 2の最新モデルを使ってみた | WEEL</title>
+      <link>https://weel.co.jp/media/claude-2.1</link>
+      <pubDate>2023/11/24 12:07</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/652e3546fdaad7b4b2adcccad031d09148a48bda/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F608%2Fimage_top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ジ・オーブ＆デヴィッド・ギルモア、最新作をファンがAIを使ってリミックスできるサイトを公開 | NME Japan</title>
+      <link>https://nme-jp.com/news/136471/</link>
+      <pubDate>2023/11/24 20:13</pubDate>
+      <description>スペイン・バルセロナ在住の25歳の「Aitana(アイタナ)」は、モデルの仕事で月に1万ユーロ(約160万円)近くを稼いでいるという、ピンクの髪の毛が特徴的な女性です。アイタナは有名人からデートの誘いを受けることもあるという人気モデルですが、実在する人物ではなくAIを使って作成された架空の人物であるという他にはない特徴を有しています。 Meet the first Spanish AI model earning up to €10,000 per month | Euronews https://www.euronews.com/next/2023/11/22/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month AIを用いて作成された初のスペイン人モデルであるアイタナは、広告代理店「The Clueless」の創設者</description>
+    </item>
   </channel>
 </rss>
