@@ -11277,5 +11277,17 @@
       <pubDate>2023/11/22 10:04</pubDate>
       <description>SnapEDAから社名を変更したSnapMagicは2023年10月4日、最先端の人工知能（AI）と膨大な同社独自のデータセットを組み合わせた、回路基板設計を自動化するツール「SnapMagic Copilot」を発表した。これは、150万人のエンジニアに利用されてきた電子設計検索エンジン「SnapEDA」の上に構築されたものだ。 SnapMagic全体は3つのステップからなる。Step1はSnapMagic Search（旧：SnapEDA）での部品選択、Step2はSnapMagic Copilotでの回路設計、Step3はSnapMagic Storeでの部品購入だ。 Step1の部品選択では、SnapMagic Searchで何百万もの電子部品向けCADモデル、シンボル、フットプリントから適したものを探し出すことで、素早く設計できる。既存のさまざまなプリント基板（PCB）設計ツール</description>
     </item>
+    <item>
+      <title>GoogleのチャットAI「Bard」でYouTube動画の内容を要約させることが可能に、コンテンツ作成者に悪影響が及ぶ懸念も</title>
+      <link>https://gigazine.net/news/20231124-google-bard-youtube-extension-update/</link>
+      <pubDate>2023/11/24 14:33</pubDate>
+      <description>「なにがなんだかわからない」 11月17日（現地時間）から始まったOpenAIを巡る騒動を、そんな思いで見ている人も多いのではないだろうか。 【全てはここから始まった】OpenAIが突如発表したサム・アルトマン氏辞任のリリース ぶっちゃけ、筆者も「なんだこれは」という気持ちでいる。 OpenAIとサム・アルトマン氏になにが起きたのか、そして、今後どうなるのかを、不透明なりに考えてみたい。 「OpenAI・5日の乱」とは　騒動の流れを追ってみよう。 11月17日、OpenAIは突如、サム・アルトマン氏が退任すると発表した。同時に、OpenAIの共同創業者で会長兼社長であるグレッグ・ブロックマン氏も退任する。 同日午後1時46分、アルトマン氏は「OpenAIでの時間を愛していた。（中略）詳細はまた後日伝える」とX（旧Twitter）にポスト、これが全ての始まりとなった。 OpenAIは非営利組</description>
+    </item>
+    <item>
+      <title>F1が走路外走行(トラックリミット)の検出をコンピュータービジョンとAIに任せる方針</title>
+      <link>https://gigazine.net/news/20231124-f1-track-limit/</link>
+      <pubDate>2023/11/24 12:48</pubDate>
+      <description>こんにちは、先日千葉に遊びにいったらアクアライン通行止めで東京湾迂回する羽目になった菅野です。 ChatGPTにて手軽にアプリケーションを自動で生成できるGPTsが世の中では大きな反響を呼んでいます。 プログラミングレスでChatGPTを利用するアプリを生成できるので、プログラマー以外の人がどんどん生成AIを利用するような流れが出来つつありますね。 さて、そのような流れにのってAmazonBedrockを利用してアプリを生成、共有するサービス、PartyRockがAWSからリリースされました。 早速利用してみましょう。 https://partyrock.aws/partyrock.aws PartyRockの始め方 アカウントの作成 PartyRockはAWSが提供するサービスではありますが、AWSアカウントとは別のアカウントを作成する必要があります。 PartyRockのサイトにアクセ</description>
+    </item>
   </channel>
 </rss>
