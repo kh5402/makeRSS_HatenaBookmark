@@ -11430,5 +11430,17 @@
       <pubDate>2023/11/23 13:54</pubDate>
       <description>こんにちは、先日千葉に遊びにいったらアクアライン通行止めで東京湾迂回する羽目になった菅野です。 ChatGPTにて手軽にアプリケーションを自動で生成できるGPTsが世の中では大きな反響を呼んでいます。 プログラミングレスでChatGPTを利用するアプリを生成できるので、プログラマー以外の人がどんどん生成AIを利用するような流れが出来つつありますね。 さて、そのような流れにのってAmazonBedrockを利用してアプリを生成、共有するサービス、PartyRockがAWSからリリースされました。 早速利用してみましょう。 https://partyrock.aws/partyrock.aws PartyRockの始め方 アカウントの作成 PartyRockはAWSが提供するサービスではありますが、AWSアカウントとは別のアカウントを作成する必要があります。 PartyRockのサイトにアクセ</description>
     </item>
+    <item>
+      <title>たった1枚の写真から高解像度の3DCGモデルをAIで生成できる「Human-SGD」が発表される</title>
+      <link>https://gigazine.net/news/20231125-human-sgd/</link>
+      <pubDate>2023/11/25 15:16</pubDate>
+      <description>本資料は，東京大学松尾研究室で開催された強化学習セミナーの講義資料をもとに，講演目的でより初学者向けに内容を調整したものです．特に強化学習で最も基本的かつ最重要手法であるQ学習や，それの深層強化学習版のDQN（Deep Q-Network）を中心に解説しています. 昨今，ChatGPT等の大規模言語モデル（LLM）の開発に強化学習が使用（RLHF等）され，さらに強化学習をLLMに本格的に組み込んだAI（ GoogleのGemini，OpenAIのQ*等）の出現が予想されることから，�強化学習の知識の普及のため公開しました.</description>
+    </item>
+    <item>
+      <title>ワンボタンミニゲームを自動的に作るためだけのGPTを作ってみた - ABAの日誌</title>
+      <link>https://aba.hatenablog.com/entry/2023/11/25/095338</link>
+      <pubDate>2023/11/25 10:05</pubDate>
+      <description>はじめに 近年のAI画像生成は盗品の歴史である。danbooruという無断転載サイトから学習したNovelai。Novelaiのリークモデル。リークモデルを追加学習し、それを無断で転載したAnything。Anythingと、肖像権を無視して何万枚もの写真を無断で学習したinstagramモデルとのマージモデル(Orangemixシリーズ)。Orangemixを改造したabyss。どのモデルをとっても、それは盗品という負の要素が存在する。だから、近年のAI画像生成は盗品の歴史である。 AI絵師は、この事実を無視しつづけた。その理由はわからない。ただ、ある一つの推測を述べることはできる。「いいイラストが作れるから」という理由だ。NovelAIよりも、自分のパソコンで使えるリークモデルの方がアレンジが効いた。リークモデルよりも、anythingの方がいい絵が出た。anythingよりも、ora</description>
+    </item>
   </channel>
 </rss>
