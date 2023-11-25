@@ -11442,5 +11442,26 @@
       <pubDate>2023/11/25 10:05</pubDate>
       <description>はじめに 近年のAI画像生成は盗品の歴史である。danbooruという無断転載サイトから学習したNovelai。Novelaiのリークモデル。リークモデルを追加学習し、それを無断で転載したAnything。Anythingと、肖像権を無視して何万枚もの写真を無断で学習したinstagramモデルとのマージモデル(Orangemixシリーズ)。Orangemixを改造したabyss。どのモデルをとっても、それは盗品という負の要素が存在する。だから、近年のAI画像生成は盗品の歴史である。 AI絵師は、この事実を無視しつづけた。その理由はわからない。ただ、ある一つの推測を述べることはできる。「いいイラストが作れるから」という理由だ。NovelAIよりも、自分のパソコンで使えるリークモデルの方がアレンジが効いた。リークモデルよりも、anythingの方がいい絵が出た。anythingよりも、ora</description>
     </item>
+    <item>
+      <title>【switch-c-2048】GoogleがついにGPT-4レベルのLLMをオープンソースで公開！概要〜使い方まで | WEEL</title>
+      <link>https://weel.co.jp/media/switch-c-2048</link>
+      <pubDate>2023/11/25 17:49</pubDate>
+      <description>写真から3DCGモデルを作成するにはさまざまな方向から被写体を何枚も撮影する必要があります。クウェート大学・Meta・メリーランド大学の研究者が、たった1枚の写真から高解像度のCGモデルを生成する「Human-SGD」を発表しました。 [2311.09221] Single-Image 3D Human Digitization with Shape-Guided Diffusion https://arxiv.org/abs/2311.09221 Human-SGD https://human-sgd.github.io/ 研究チームの1人であるJia-Bin Huang氏が、Human-SGDがどういうモデルなのかを解説するムービーをYouTubeで公開しています。 3D Human Digitization from a Single Image! - YouTube ライダージャケ</description>
+    </item>
+    <item>
+      <title>NAIリークの歴史｜NAILEAKPROBLEM</title>
+      <link>https://note.com/naileakproblem/n/n902be1c1a7c8</link>
+      <pubDate>2023/11/25 00:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8532a9989c118efbb655d91b43d4a1d035f61734/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1549%2F649%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>サム・アルトマンはOpenAI以前にも解任された経験がある</title>
+      <link>https://gigazine.net/news/20231124-sam-altman-fired-y-combinator-paul-graham/</link>
+      <pubDate>2023/11/24 17:49</pubDate>
+      <description>マイページに保存最終更新日：2023/11/24 Microsoft Researchのチームによって発表された『Orca2』は、OpenAIのGPT-4などの大規模言語モデル（LLM）に匹敵し、時には凌駕する性能を発揮 […] The post Microsoftの研究者ら、比較的小さなサイズでもタスクによってはOpenAIのGPT-4を凌駕する言語モデル『Orca2』を開発 first appeared on AIDB.</description>
+    </item>
   </channel>
 </rss>
