@@ -11598,5 +11598,11 @@
       <pubDate>2023/11/25 01:07</pubDate>
       <description>マイページに保存最終更新日：2023/11/24 Microsoft Researchのチームによって発表された『Orca2』は、OpenAIのGPT-4などの大規模言語モデル（LLM）に匹敵し、時には凌駕する性能を発揮 […] The post Microsoftの研究者ら、比較的小さなサイズでもタスクによってはOpenAIのGPT-4を凌駕する言語モデル『Orca2』を開発 first appeared on AIDB.</description>
     </item>
+    <item>
+      <title>Could an AI experiment called project Q* be the reason for the OpenAI meltdown?</title>
+      <link>https://www.abc.net.au/news/2023-11-26/openai-sam-altman-board-inside-the-chaotic-week/103149570</link>
+      <pubDate>2023/11/26 20:35</pubDate>
+      <description>はじめに 組織で開発を行っている皆さんは普段からPull Request（PR）を作っていますよね？(決めつけ) masterブランチに直接pushしている方も中にはいるかもしれませんが、会社やチームで開発を行っていると、PRを作成する頻度は高いのではないかと思います。 そしてPRを作成する際には、その説明文を書く必要があります。 コードだけを読んで修正意図が伝わればいいですが、そうはいってもすべての背景をコードベースで伝えるのには限度があります。 しかし、だからといって修正の背景や詳細を、開発者自身が客観的な文章で伝えるのは簡単なことではありません。 そこで、この記事ではgit diffとChatGPTを組み合わせて、自動的にPRの説明文を生成する方法をご紹介します。 How to make PR？ 繰り返しになりますが使うのはgit diffコマンドとChatGPTだけなんです!(お昼</description>
+    </item>
   </channel>
 </rss>
