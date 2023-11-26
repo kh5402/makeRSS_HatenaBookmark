@@ -11550,5 +11550,35 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/323db80c2362a27c4b478fda17ea8399e6fa296e/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F000%2F0001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>ISUCON13にLLM活用担当で参戦しました - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/2023/11/26/173000</link>
+      <pubDate>2023/11/26 18:26</pubDate>
+      <description>LayerX バクラク事業部 機械学習チームの機械学習エンジニア兼マネージャーの松村（@yu-ya4）です。半年間に結婚祝いでいただいたたくさんのお酒が順調に減ってきているのですが、サントリーウイスキー角瓶 4Lペットだけはなくなる気配がありません。 この記事はLayerXテックアドカレ2023の16日目の記事のはずです。 前回はosukeさんの『Azure AI SearchのSemantic Ranker』という記事でした。 次回はminako-phさんによるタメになる記事、『Notionでスプリントのあれこれをダッシュボードで可視化する 』が公開予定ですされました。 昨今のAIの進化には目を見張るものがあります。先日のOpenAI DevDayやMicrosoft Igniteでも様々な衝撃的な発表がなされました。今週は違う意味で衝撃的なニュースが多かったですが。 そのような時代です</description>
+    </item>
+    <item>
+      <title>ChatGPTでついに｢英語｣が習得できるようになる</title>
+      <link>https://toyokeizai.net/articles/-/717191?page=2</link>
+      <pubDate>2023/11/26 13:02</pubDate>
+      <description>Kaggleで銅メダル、銀メダル、金メダルを取るプロセスの違いや、具体的に何をすべきかについて質問がありました。 Twitterで回答を募集したところ、次の回答をもらいました。 過去に似たコンペ2,3コンペ漁って1~10位までの解法に目を通しつつ、現コンペのディスカッションを全部追って効くものを試すと銀メダルは取れるという肌感覚 https://t.co/si4GwbM4wD — 杏仁まぜそば (@an_nindouph) November 17, 2023 自分もこれと同じ感覚です。以下、少し説明します。 銀メダルを取るために必要なもの 銀メダルを獲得するために必要だと思ったのが、次の3つです。 最低限のデータ分析コンペの実力 データ分析について、最低限のみんなが知っていることを知っておくことが必要と言えます。「Kaggleで勝つデータ分析の技術」の知識があれば、十分に戦えると思います。</description>
+    </item>
+    <item>
+      <title>職場で不正行為に気付いたらどうする？ | スラド Slashdotに聞け</title>
+      <link>https://askslashdot.srad.jp/story/23/11/25/1256208/</link>
+      <pubDate>2023/11/25 22:30</pubDate>
+      <description>Polly Thompson ［原文］ （翻訳：仲田文子、編集：Toshihiko Inoue） Nov. 25, 2023, 03:00 PM テクノロジー 11,263 アメリカの半導体メーカー、エヌビディアは昨年、｢ボイジャー｣と呼ばれるオフィスを開設した。 7万平方メートルのスペースには、｢障壁も境界もない｣という同社の哲学が反映されている。 Business Insiderは、このプロジェクトの設計責任者に話を聞いた。 半導体メーカーのエヌビディア（Nvidia）はここ数年、大きな成功を収めている。AIフィーバーが世界を席巻する中、同社のGPUチップの需要は急増した。 エヌビディアはAIのトレンドにいち早く着目し、ChatGPTなどの発展著しいテクノロジーで使われるチップの生産で大きくリードするようになった。 同社の株式は年初来250％近く上昇し、時価総額は瞬く間に1兆2000億</description>
+    </item>
+    <item>
+      <title>40代〜60代がAIを使いこなした時のインパクトは半端ない　AIの専門家が語る、マネジメント経験を持つ人の優位性</title>
+      <link>https://logmi.jp/business/articles/329674</link>
+      <pubDate>2023/11/25 01:08</pubDate>
+      <description>Amazon Bedrock を利用して生成 AI でなにができるのか？を体験できる AWS のワークショップをやってみた re:Invent 2023 で開催予定の Game Day の 1 つに「Amazon Bedrock: Building with Generative AI」があります。私はこちらのイベント参加予定なのですが Amazon Bedrock を触ったことがありません。現地で焦る前に最低限のことを把握するべくAWS が提供している「生成系 AI 体験ワークショップ」をやってみました。 生成系 AI 体験ワークショップ 以下の環境を構築し、文章を校正してもらったり画像生成したりしました。 画像引用: 生成系 AI 体験ワークショップ ワークショップで学べること Amazon Bedrock を利用して ChatGPT の様なチャット機能や、画像生成を Web UI を</description>
+    </item>
+    <item>
+      <title>ミドル世代がChatGPTを使うことで拓けるチャンス　生成AIの活用でキャリアの付加価値が高まる理由</title>
+      <link>https://logmi.jp/business/articles/329673</link>
+      <pubDate>2023/11/24 04:07</pubDate>
+      <description>芸人・有吉弘行の頭によぎった由無し事をそこはかとなく綴った「有吉メモ」。彼の脳みそを少し垣間見せてもらう、そんな連載。 原稿締め切りの当日ぴったりに、有吉弘行からのメールが届いた。以下、その内容である。 「今回もメモだけしたんですが、それだけで手が止まりました。 鼻の大手術したり紅白の司会に選ばれたりと、自分の人生の中でも、かなり大きな出来事があったのですが、手が止まってしまったので、こればかりは仕方がないです。 大変申し訳なくは思っております。ですがメモさえしておけば今後何かを書く時のタネにはなるかと思いますので、そんなに謝るようなことでは無いかもしれませんが、まあメモだけ渡されるそちらの気持ちを考えると、一応すいませんとは言わせてください」 メモだけ渡された編集部は、今月もそのままお届けしようと思う。 48.　明日重大なお知らせがありますは宣伝なんで無視。 49.　インボイスのこと聞い</description>
+    </item>
   </channel>
 </rss>
