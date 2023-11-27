@@ -11643,5 +11643,32 @@
       <pubDate>2023/11/26 12:52</pubDate>
       <description>はじめに 組織で開発を行っている皆さんは普段からPull Request（PR）を作っていますよね？(決めつけ) masterブランチに直接pushしている方も中にはいるかもしれませんが、会社やチームで開発を行っていると、PRを作成する頻度は高いのではないかと思います。 そしてPRを作成する際には、その説明文を書く必要があります。 コードだけを読んで修正意図が伝わればいいですが、そうはいってもすべての背景をコードベースで伝えるのには限度があります。 しかし、だからといって修正の背景や詳細を、開発者自身が客観的な文章で伝えるのは簡単なことではありません。 そこで、この記事ではgit diffとChatGPTを組み合わせて、自動的にPRの説明文を生成する方法をご紹介します。 How to make PR？ 繰り返しになりますが使うのはgit diffコマンドとChatGPTだけなんです!(お昼</description>
     </item>
+    <item>
+      <title>最近spotifyのお気に入りにぶっこんで聴いてるやつ</title>
+      <link>https://anond.hatelabo.jp/20231127042546</link>
+      <pubDate>2023/11/27 05:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/70a7bab311393b68914320dc98409cdf4f213b9f/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1549%2F828%2Fmsc_201.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ChatGPTの新機能「GPTs」「Assistants」を試す。特別なツール不要でカスタムChatGPTを開発可能に！【イニシャルB】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/shimizu/1546371.html</link>
+      <pubDate>2023/11/27 06:10</pubDate>
+      <description>データアナリティクス事業本部 コンサルティングチームの石川です。コンサルティングチームメンバーを中心に、日々AWSのアナリティクス関連サービスのアップデートとそのブログを追っています。 明日からre:Invent2023が始まります！ ということで、今回は re:Invent2023 が始まる11/27までのアップデートを紹介します。今年のre:Invent2023 アナリティクス関連のセッションについて、事前にチェックすることをおすすめします！ Amazon Redshift 新機能・アップデート 2023/11/01 - Amazon Redshift マルチ AZ が RA3 クラスター向けに一般提供開始 昨年のre:Invent2022に発表された Amazon Redshift RA3 クラスターのマルチ AZ 配置がついに一般提供（GA）になりました。Redshiftを複数のア</description>
+    </item>
+    <item>
+      <title>【Orca-2-13b】Microsoftの最新LLMがLlama 2を超える性能を叩き出す | WEEL</title>
+      <link>https://weel.co.jp/media/orca-2-13b</link>
+      <pubDate>2023/11/26 23:02</pubDate>
+      <description>OpenChatはオープンソースの大規模言語モデルです。OpenChatのうち2023年11月にリリースされたOpenChat-3.5-7Bモデルはパラメーター数が70億しかないにもかかわらず2023年3月時点のChatGPTを超えるベンチマーク結果を出すほど性能が高いモデルとのことなので、実際に使って試してみました。 imoneoi/openchat: OpenChat: Advancing Open-source Language Models with Imperfect Data https://github.com/imoneoi/openchat OpenChatにはすぐに性能を試せるようにデモが用意されています。デモサイトにアクセスすると下図のUIが出現するので、モデルが「Default (OpenChat Aura)」となっているのを確認して下部のメッセージウィンドウにメッ</description>
+    </item>
+    <item>
+      <title>Work Trend Index スペシャルレポート Copilot の初期ユーザーから学ぶ、生成 AI の職場での可能性 - News Center Japan</title>
+      <link>https://news.microsoft.com/ja-jp/features/231124-copilots-earliest-users-teach-us-about-generative-ai-at-work/</link>
+      <pubDate>2023/11/24 20:53</pubDate>
+      <description>写真から3DCGモデルを作成するにはさまざまな方向から被写体を何枚も撮影する必要があります。クウェート大学・Meta・メリーランド大学の研究者が、たった1枚の写真から高解像度のCGモデルを生成する「Human-SGD」を発表しました。 [2311.09221] Single-Image 3D Human Digitization with Shape-Guided Diffusion https://arxiv.org/abs/2311.09221 Human-SGD https://human-sgd.github.io/ 研究チームの1人であるJia-Bin Huang氏が、Human-SGDがどういうモデルなのかを解説するムービーをYouTubeで公開しています。 3D Human Digitization from a Single Image! - YouTube ライダージャケ</description>
+    </item>
   </channel>
 </rss>
