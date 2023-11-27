@@ -11688,5 +11688,23 @@
       <pubDate>2023/11/27 12:33</pubDate>
       <description>TOPインタビュー初めてのAIプロダクトで「独自LLMで会話するAI VTuber」を開発。にゃおきゃっと氏に聞く「今10分触ってみる」が持つ力 初めてのAIプロダクトで「独自LLMで会話するAI VTuber」を開発。にゃおきゃっと氏に聞く「今10分触ってみる」が持つ力 2023年11月27日 Realice株式会社 CTO／スペイン語VTuber／AI VTuber「永藍レナ」開発者 にゃおきゃっと（楠田真矢） 新卒から8年間、携帯電話の認証系バックエンド開発に従事。2021年8月より、趣味でVTuberとしてスペイン語圏をメインに活動。2023年2月、自身が開発した独自AIを用いてスペイン語で会話するAI VTuber「永藍レナ」が活動開始。2023年7月末から現職。2023年10月末には、東京大学松尾研究室の2023年大規模言語モデルサマースクールを修了。 視聴者のコメントにAIが</description>
     </item>
+    <item>
+      <title>[スタパ齋藤の「スタパトロニクスMobile」] 「Google Pixel 8 Pro」はAIもカメラも愉快！　ちょっと別格な一台かもかも</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/column/stapa/1549768.html</link>
+      <pubDate>2023/11/27 11:07</pubDate>
+      <description>Unity Technologiesは、年次カンファレンス「Unite 2023」で、ゲーム開発者がビジョンを実現し、ゲームを成功させるためのサポートを強化するために設計された新しいAIイノベーションとプラットフォームを発表した。 これには、コンテンツ制作を簡素化する一連のAI搭載機能「Unity Muse」の早期アクセスの提供、2024 年にリリースされる次期LTS「Unity 6（旧名 2023 LTS）」の公開、開発者が異なるプロジェクトやパイプラインにわたるコンテンツを整理するのに役立つコネクテッド製品やサービスのプラットフォーム「Unity Cloud」の発表などが含まれる。 次期LTS「Unity 6」も発表！ Unityは今年初めに、AIを搭載したプラットフォーム「Unity Muse」と「Unity Sentis」のクローズドベータ版の提供開始を発表したが、今回「Unity</description>
+    </item>
+    <item>
+      <title>Orca 2: Teaching Small Language Models How to Reason</title>
+      <link>https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/</link>
+      <pubDate>2023/11/21 20:33</pubDate>
+      <description>本資料は，東京大学松尾研究室で開催された強化学習セミナーの講義資料をもとに，講演目的でより初学者向けに内容を調整したものです．特に強化学習で最も基本的かつ最重要手法であるQ学習や，それの深層強化学習版のDQN（Deep Q-Network）を中心に解説しています. 昨今，ChatGPT等の大規模言語モデル（LLM）の開発に強化学習が使用（RLHF等）され，さらに強化学習をLLMに本格的に組み込んだAI（ GoogleのGemini，OpenAIのQ*等）の出現が予想されることから，�強化学習の知識の普及のため公開しました.</description>
+    </item>
+    <item>
+      <title>【Cursor】今話題のAI搭載最強コードエディタ！使い方や料金体系、できることを解説 | WEEL</title>
+      <link>https://weel.co.jp/media/cursor</link>
+      <pubDate>2023/11/20 23:09</pubDate>
+      <description>Why CPU Knowledge Is No Longer Enough In today&amp;#39;s AI age, the majority of developers train in the CPU way. This knowledge has been part of our academics as well, so it&amp;#39;s obvious to think and problem-solve in a CPU-oriented way. However, the problem with CPUs is that they rely on a sequential architecture. In today&amp;#39;s world, where we are dependent on numerous parallel tasks, CPUs are unable to work w</description>
+    </item>
   </channel>
 </rss>
