@@ -11682,5 +11682,11 @@
       <pubDate>2023/11/24 08:42</pubDate>
       <description>OpenChatはオープンソースの大規模言語モデルです。OpenChatのうち2023年11月にリリースされたOpenChat-3.5-7Bモデルはパラメーター数が70億しかないにもかかわらず2023年3月時点のChatGPTを超えるベンチマーク結果を出すほど性能が高いモデルとのことなので、実際に使って試してみました。 imoneoi/openchat: OpenChat: Advancing Open-source Language Models with Imperfect Data https://github.com/imoneoi/openchat OpenChatにはすぐに性能を試せるようにデモが用意されています。デモサイトにアクセスすると下図のUIが出現するので、モデルが「Default (OpenChat Aura)」となっているのを確認して下部のメッセージウィンドウにメッ</description>
     </item>
+    <item>
+      <title>Unityがゲームのコンテンツ制作を簡素化するAI機能「Unity Muse」の早期アクセスを提供開始｜@DIME アットダイム</title>
+      <link>https://dime.jp/genre/1692196/</link>
+      <pubDate>2023/11/27 12:33</pubDate>
+      <description>TOPインタビュー初めてのAIプロダクトで「独自LLMで会話するAI VTuber」を開発。にゃおきゃっと氏に聞く「今10分触ってみる」が持つ力 初めてのAIプロダクトで「独自LLMで会話するAI VTuber」を開発。にゃおきゃっと氏に聞く「今10分触ってみる」が持つ力 2023年11月27日 Realice株式会社 CTO／スペイン語VTuber／AI VTuber「永藍レナ」開発者 にゃおきゃっと（楠田真矢） 新卒から8年間、携帯電話の認証系バックエンド開発に従事。2021年8月より、趣味でVTuberとしてスペイン語圏をメインに活動。2023年2月、自身が開発した独自AIを用いてスペイン語で会話するAI VTuber「永藍レナ」が活動開始。2023年7月末から現職。2023年10月末には、東京大学松尾研究室の2023年大規模言語モデルサマースクールを修了。 視聴者のコメントにAIが</description>
+    </item>
   </channel>
 </rss>
