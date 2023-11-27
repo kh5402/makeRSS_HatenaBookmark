@@ -11706,5 +11706,26 @@
       <pubDate>2023/11/20 23:09</pubDate>
       <description>Why CPU Knowledge Is No Longer Enough In today&amp;#39;s AI age, the majority of developers train in the CPU way. This knowledge has been part of our academics as well, so it&amp;#39;s obvious to think and problem-solve in a CPU-oriented way. However, the problem with CPUs is that they rely on a sequential architecture. In today&amp;#39;s world, where we are dependent on numerous parallel tasks, CPUs are unable to work w</description>
     </item>
+    <item>
+      <title>生成AI、学習時の著作権使用料は“支払い義務なし”の可能性が有力に？ (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/171/4171501/</link>
+      <pubDate>2023/11/27 12:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d8ed33fcc17ad314c9aefc31b72728177ad8490b/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1549%2F768%2Fstptncs2023-11-27thumbnail.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIが間違えやすい「指の数」を修正する技術、Stability AIの動画生成AI「Stable Video Diffusion」など重要論文5本を解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/27/2334.html</link>
+      <pubDate>2023/11/27 08:13</pubDate>
+      <description>みんなも教えてくれよお！！ もうちょっと人生楽しんでもいいだろ！！ 誰が弱者だとか被害者だとかどうでもいいからさ！！ 酔ってるからさ！ インターネットはすごいからさ、おれみたいなクソ弱者でも世界中の優れた才能の持ち主が作った音楽を自由に聴けるんだわ。 なんかSpotifyのURL貼ると投稿できんのよね。ごめん。ベタ打ちで。 ChatGPTに全部ぶっ込んで訊いたけど、ロクな回答がなかった。AIはあかんな。 戻れ戻れもどれもどれも。(アメリカ民謡研究会) なんか最近Spotifyで知ったんだけどいいっすよね。はるまきごはんとかもそうだけど、ミクより生歌の方がいい。花隈千冬って知らんかったわ、すまん。すごいんやね〜どうかあなたは感情を汚さないで。(アメリカ民謡研究会) 同上。同窓会(是) 同上。生歌じゃないけど。狭い物語(Maison book girl) 解散してたのね、知らんかった。なんかど</description>
+    </item>
+    <item>
+      <title>OpenAIのモデルアップデートに備えてPrompt Flowでモデルの評価フローを作る</title>
+      <link>https://zenn.dev/microsoft/articles/llm-testing-using-prompt-flow</link>
+      <pubDate>2023/11/24 19:30</pubDate>
+      <description>ChatGPT がアプリケーションに最初に組み込まれたのは GitHub Copilot かもしれません。ここでは、ChatGPT そのものと、GitHub Copilot の双方を使って、アプリケーション開発を爆速させ、品質を少しでも向上させ。そして、Developer の皆さんのスキルを上げていくための入り口として、機能の概要を取り上げます。 特に学生の皆さんをターゲットとしています。 内容: - ChatGPT - GitHub Copilot サンプルのPrompt: https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/blob/main/Software%20Enginner/%E8%A6%B3%E5%85%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%97%E3%</description>
+    </item>
   </channel>
 </rss>
