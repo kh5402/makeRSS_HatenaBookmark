@@ -11628,5 +11628,20 @@
       <pubDate>2023/11/26 08:57</pubDate>
       <description>LayerX バクラク事業部 機械学習チームの機械学習エンジニア兼マネージャーの松村（@yu-ya4）です。半年間に結婚祝いでいただいたたくさんのお酒が順調に減ってきているのですが、サントリーウイスキー角瓶 4Lペットだけはなくなる気配がありません。 この記事はLayerXテックアドカレ2023の16日目の記事のはずです。 前回はosukeさんの『Azure AI SearchのSemantic Ranker』という記事でした。 次回はminako-phさんによるタメになる記事、『Notionでスプリントのあれこれをダッシュボードで可視化する 』が公開予定ですされました。 昨今のAIの進化には目を見張るものがあります。先日のOpenAI DevDayやMicrosoft Igniteでも様々な衝撃的な発表がなされました。今週は違う意味で衝撃的なニュースが多かったですが。 そのような時代です</description>
     </item>
+    <item>
+      <title>マイクロソフトの「コパイロット」とはなにか　OpenAIとの依存と共生【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/1549828.html</link>
+      <pubDate>2023/11/27 08:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed9164fd6d6c2cd2bd3365a71063aa3a477a1012/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1546%2F371%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GPTsのまとめのまとめ</title>
+      <link>https://zenn.dev/karaage0703/articles/5df1b6b1e2b0ba</link>
+      <pubDate>2023/11/26 12:52</pubDate>
+      <description>はじめに 組織で開発を行っている皆さんは普段からPull Request（PR）を作っていますよね？(決めつけ) masterブランチに直接pushしている方も中にはいるかもしれませんが、会社やチームで開発を行っていると、PRを作成する頻度は高いのではないかと思います。 そしてPRを作成する際には、その説明文を書く必要があります。 コードだけを読んで修正意図が伝わればいいですが、そうはいってもすべての背景をコードベースで伝えるのには限度があります。 しかし、だからといって修正の背景や詳細を、開発者自身が客観的な文章で伝えるのは簡単なことではありません。 そこで、この記事ではgit diffとChatGPTを組み合わせて、自動的にPRの説明文を生成する方法をご紹介します。 How to make PR？ 繰り返しになりますが使うのはgit diffコマンドとChatGPTだけなんです!(お昼</description>
+    </item>
   </channel>
 </rss>
