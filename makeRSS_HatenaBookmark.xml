@@ -11670,5 +11670,17 @@
       <pubDate>2023/11/24 20:53</pubDate>
       <description>写真から3DCGモデルを作成するにはさまざまな方向から被写体を何枚も撮影する必要があります。クウェート大学・Meta・メリーランド大学の研究者が、たった1枚の写真から高解像度のCGモデルを生成する「Human-SGD」を発表しました。 [2311.09221] Single-Image 3D Human Digitization with Shape-Guided Diffusion https://arxiv.org/abs/2311.09221 Human-SGD https://human-sgd.github.io/ 研究チームの1人であるJia-Bin Huang氏が、Human-SGDがどういうモデルなのかを解説するムービーをYouTubeで公開しています。 3D Human Digitization from a Single Image! - YouTube ライダージャケ</description>
     </item>
+    <item>
+      <title>初めてのAIプロダクトで「独自LLMで会話するAI VTuber」を開発。にゃおきゃっと氏に聞く「今10分触ってみる」が持つ力</title>
+      <link>https://levtech.jp/media/article/interview/detail_341/</link>
+      <pubDate>2023/11/27 12:53</pubDate>
+      <description>みんなも教えてくれよお！！ もうちょっと人生楽しんでもいいだろ！！ 誰が弱者だとか被害者だとかどうでもいいからさ！！ 酔ってるからさ！ インターネットはすごいからさ、おれみたいなクソ弱者でも世界中の優れた才能の持ち主が作った音楽を自由に聴けるんだわ。 なんかSpotifyのURL貼ると投稿できんのよね。ごめん。ベタ打ちで。 ChatGPTに全部ぶっ込んで訊いたけど、ロクな回答がなかった。AIはあかんな。 戻れ戻れもどれもどれも。(アメリカ民謡研究会) なんか最近Spotifyで知ったんだけどいいっすよね。はるまきごはんとかもそうだけど、ミクより生歌の方がいい。花隈千冬って知らんかったわ、すまん。すごいんやね〜どうかあなたは感情を汚さないで。(アメリカ民謡研究会) 同上。同窓会(是) 同上。生歌じゃないけど。狭い物語(Maison book girl) 解散してたのね、知らんかった。なんかど</description>
+    </item>
+    <item>
+      <title>NTT澤田会長「AIによる分断、哲学が止める」</title>
+      <link>https://business.nikkei.com/atcl/NBD/19/special/01628/</link>
+      <pubDate>2023/11/24 08:42</pubDate>
+      <description>OpenChatはオープンソースの大規模言語モデルです。OpenChatのうち2023年11月にリリースされたOpenChat-3.5-7Bモデルはパラメーター数が70億しかないにもかかわらず2023年3月時点のChatGPTを超えるベンチマーク結果を出すほど性能が高いモデルとのことなので、実際に使って試してみました。 imoneoi/openchat: OpenChat: Advancing Open-source Language Models with Imperfect Data https://github.com/imoneoi/openchat OpenChatにはすぐに性能を試せるようにデモが用意されています。デモサイトにアクセスすると下図のUIが出現するので、モデルが「Default (OpenChat Aura)」となっているのを確認して下部のメッセージウィンドウにメッ</description>
+    </item>
   </channel>
 </rss>
