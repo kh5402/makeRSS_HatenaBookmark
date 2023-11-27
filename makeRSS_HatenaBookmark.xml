@@ -11727,5 +11727,17 @@
       <pubDate>2023/11/24 19:30</pubDate>
       <description>ChatGPT がアプリケーションに最初に組み込まれたのは GitHub Copilot かもしれません。ここでは、ChatGPT そのものと、GitHub Copilot の双方を使って、アプリケーション開発を爆速させ、品質を少しでも向上させ。そして、Developer の皆さんのスキルを上げていくための入り口として、機能の概要を取り上げます。 特に学生の皆さんをターゲットとしています。 内容: - ChatGPT - GitHub Copilot サンプルのPrompt: https://github.com/dahatake/ChatGPT-Prompt-Sample-Japanese/blob/main/Software%20Enginner/%E8%A6%B3%E5%85%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%97%E3%</description>
     </item>
+    <item>
+      <title>NVIDIAが対中国輸出規則を回避する高性能AIチップ「H20」の発売を2024年第1四半期まで延期すると報じられ株価が下落</title>
+      <link>https://gigazine.net/news/20231127-nvidia-stock-ai-chip-china/</link>
+      <pubDate>2023/11/27 13:12</pubDate>
+      <description>11月上旬、岸田首相の生成AIを使って作成されたフェイクニュース動画が問題になりました。 5日、日本テレビは自社のニュース番組のロゴが使われてはまずいということで強めに注意を呼びかけましたが、6日、松野博一官房長官は「罪になる場合もあるのでくれぐれも慎んでほしい」と記者会見時に、やや抑制的な物言いをしました。もちろん、フェイクニュースを流すことは、生成AIに関係なく、現行法で刑事罰にも当たる可能性のある行為です。 その後、14日に、YouTubeからAI生成動画に関するガイドラインが出ましたが、そこでも公人のパロディは必ずしも規制対象にするわけではないという方針が出されていました。これはどちらかというと、来年に大統領選を控えたアメリカでフェイク動画拡散の可能性が高まってくるため、事前対策をしているという側面があると思います。 生成AIの登場でフェイクの作成が容易になったとも言われはじめてお</description>
+    </item>
+    <item>
+      <title>google/switch-c-2048 · Hugging Face</title>
+      <link>https://huggingface.co/google/switch-c-2048</link>
+      <pubDate>2023/11/21 14:54</pubDate>
+      <description>ChatGPTやGPT-4をはじめとする大規模言語モデルの能力が向上し、多くの注目を集めています。とくにRAG（Retrieval Augmented Generation）と呼ばれる手法を使って、手元のデータを生成時に活用する手法がよく使われていますが、その性能を改善する方法は様々あります。その中でも、この記事ではRAG内部の検索性能を改善するためのクエリ変換に着目し、HyDEと呼ばれる手法の効果を日本語の検索用データセットを使って検証した結果を示します。 記事の構成は以下のとおりです。 HyDEとは 実験設定 実験結果 実装の詳細 参考資料 HyDEとは HyDE（Hypothetical Document Embeddings：仮の文書の埋め込み）は、入力されたクエリに対して仮の文書を生成し、その文書を埋め込み、検索に使用する手法です[1]。典型的な文書検索では、ユーザーが入力したク</description>
+    </item>
   </channel>
 </rss>
