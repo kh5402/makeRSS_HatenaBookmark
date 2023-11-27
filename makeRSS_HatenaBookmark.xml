@@ -11739,5 +11739,11 @@
       <pubDate>2023/11/21 14:54</pubDate>
       <description>ChatGPTやGPT-4をはじめとする大規模言語モデルの能力が向上し、多くの注目を集めています。とくにRAG（Retrieval Augmented Generation）と呼ばれる手法を使って、手元のデータを生成時に活用する手法がよく使われていますが、その性能を改善する方法は様々あります。その中でも、この記事ではRAG内部の検索性能を改善するためのクエリ変換に着目し、HyDEと呼ばれる手法の効果を日本語の検索用データセットを使って検証した結果を示します。 記事の構成は以下のとおりです。 HyDEとは 実験設定 実験結果 実装の詳細 参考資料 HyDEとは HyDE（Hypothetical Document Embeddings：仮の文書の埋め込み）は、入力されたクエリに対して仮の文書を生成し、その文書を埋め込み、検索に使用する手法です[1]。典型的な文書検索では、ユーザーが入力したク</description>
     </item>
+    <item>
+      <title>生成AIを導入するなら、最初にCFOと話をしよう｜深津 貴之 (fladdict)</title>
+      <link>https://note.com/fladdict/n/ndcda55645ede</link>
+      <pubDate>2023/11/27 14:33</pubDate>
+      <description>アメリカは中国に対する高性能半導体の輸出を厳しく制限していますが、NVIDIAなどの半導体企業は輸出規制に抵触しないギリギリの性能の半導体を製造して中国への輸出を続けていました。ところが、2023年11月24日に大手通信社のロイターが「NVIDIAが中国向け高性能チップの発売を延期予定」と報道したところ、NVIDIAの株価が下落する事態に発展しています。 Exclusive: Nvidia delays launch of new China-focused AI chip -sources | Reuters https://www.reuters.com/technology/nvidia-delays-launch-new-china-focused-ai-chip-sources-2023-11-24/ Nvidia stock down as it reportedly dela</description>
+    </item>
   </channel>
 </rss>
