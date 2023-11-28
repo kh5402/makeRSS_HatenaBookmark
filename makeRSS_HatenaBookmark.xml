@@ -11973,5 +11973,11 @@
       <pubDate>2023/11/27 16:50</pubDate>
       <description>チャットAIのChatGPTのベースとなっている自然言語処理AIモデルのGPT-4は、科学的仮説を裏付けるためにデータセットを捏造するケースがあるという論文が発表されました。 Large Language Model Advanced Data Analysis Abuse to Create a Fake Data Set in Medical Research | Ophthalmology | JAMA Ophthalmology | JAMA Network https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2811505 ChatGPT generates fake data set to support scientific hypothesis https://www.nature.com/</description>
     </item>
+    <item>
+      <title>【LCM】512×512pxの画像を0.03秒でリアルタイム画風変換する</title>
+      <link>https://zenn.dev/discus0434/articles/12427b887b4082</link>
+      <pubDate>2023/11/28 19:25</pubDate>
+      <description>現地時間2023年11月27日に、アメリカや日本を含む18カ国がAI開発に関するガイドライン「セキュアなAIシステム開発のためのガイドライン(Guidelines for secure AI system development)」を共同発表しました。ガイドラインでは、AIの開発や運用保守においてユーザーのプライバシーを保護することやドキュメントを適切に管理することなどが求められています。 Guidelines for secure AI system development - NCSC.GOV.UK https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development Guidelines for secure AI system development - Guidelines-for-secure-AI</description>
+    </item>
   </channel>
 </rss>
