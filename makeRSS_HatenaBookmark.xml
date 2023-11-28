@@ -11946,5 +11946,32 @@
       <pubDate>2023/11/28 08:13</pubDate>
       <description>「今や私達の生活に欠かせない生成AIだが」そんな書き出しを来年あたりはしているのではないだろうか。AIのスマホアプリに音声認識がついておしゃべりができたり、その進化の速度はめざましい。 私は計算ができなかったりウソをしれっとつく今のAIの至らぬところが好きだ。でもすぐに更新されて忘れてしまうのだろう。せめて思い出にでもできたらいいなと思う。 おふくろの味、大学の学食の味、味には思い出がある。AIにレシピを聞いてせめて味としておぼえておこう。</description>
     </item>
+    <item>
+      <title>「摂食障害の相談、生成AIで代替できぬ」失職した米心理相談員の警告</title>
+      <link>https://business.nikkei.com/atcl/gen/19/00537/112200047/</link>
+      <pubDate>2023/11/28 17:27</pubDate>
+      <description>第1　はじめに FAQシステムやチャットボットなど「何か知りたいこと（検索文・質問文）」を入力して検索や回答生成を行うに際して、検索や回答精度を向上させたり、回答根拠を明示させるために、LLM技術と外部データを組み合わせたシステムの研究開発や実装が急速に進んでいます。 LLMが外部データを参照できるようにするには、LLMそのものをFine-tuningする方法、プロンプトで情報を与える方法、RAGによって外部データを保存したデータベース (Data Base; 以下DB) から呼び出す方法の3つがあります。 ここでいう「外部データ」とは、「LLMの外部にあるデータ」という意味でして、その中には社内文書や、書籍・ウェブページ上のデータなどが含まれます。当該「外部データ」の中には、他人が著作権を持つ著作物（以下「既存著作物」といいます）も含まれるため、それら既存著作物を外部データとして利用する</description>
+    </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2023年11月第4週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/11/28/120829</link>
+      <pubDate>2023/11/28 12:09</pubDate>
+      <description>テラーノベルで機械学習を中心に担当している川尻です。みなさんも大量のデータを特徴抽出してみたけど、どう使ったらいいかわからないなぁということありますよね。とりあえずどういうデータなのか雰囲気だけでもみるために、簡単な可視化から入るかと思います。以前にもグラフデータの可視化について記事を書きました。 テラーノベルでは小説投稿アプリを作っており、OpenAI Embedding APIを使って全作品の特徴量を出しているデータベースがあります。今回はこのデータを例にして、UMAPという可視化に便利な次元削減手法の使い方を紹介します。 UMAPとは UMAPというのは非線形の次元削減手法で、特徴は次元数やデータ量に対してほとんど一定の計算時間で済むということです。LLMなどの事前学習モデルでよく扱うような1,000次元を超えるような特徴量でも全く問題なく動きます。さらに、Pythonでとても使いや</description>
+    </item>
+    <item>
+      <title>ChatGPT4より3.5が美味い～AI味くらべ～</title>
+      <link>https://dailyportalz.jp/kiji/ai_recipe_tabekurabe</link>
+      <pubDate>2023/11/28 11:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9fd9d8153c6765a6aabdd60516bb6506af975afa/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F760%2Fimage41.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>失敗から学ぶISUCONの正しい歩き方 - 葬送のPostgreSQL - そーだいなるらくがき帳</title>
+      <link>https://soudai.hatenablog.com/entry/2023/11/27/163224</link>
+      <pubDate>2023/11/27 16:50</pubDate>
+      <description>チャットAIのChatGPTのベースとなっている自然言語処理AIモデルのGPT-4は、科学的仮説を裏付けるためにデータセットを捏造するケースがあるという論文が発表されました。 Large Language Model Advanced Data Analysis Abuse to Create a Fake Data Set in Medical Research | Ophthalmology | JAMA Ophthalmology | JAMA Network https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2811505 ChatGPT generates fake data set to support scientific hypothesis https://www.nature.com/</description>
+    </item>
   </channel>
 </rss>
