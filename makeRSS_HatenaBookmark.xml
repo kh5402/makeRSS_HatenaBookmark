@@ -11844,5 +11844,29 @@
       <pubDate>2023/11/27 09:55</pubDate>
       <description>「そうきたか」。Rapidus（ラピダス、東京・千代田）とAI（人工知能）処理専用チップを手掛けるカナダTenstorrent（テンストレント）の協業発表を耳にした時、記者は、膝を打った。Tenstorrentにとってはまだ「新たなファウンドリー選択肢の1つ」でしかないが、ラピダスが掲げる短TAT（Turn Around Time）量産との親和性は高そうだ。 ラピダスとTenstorrentは2023年11月16日（米国時間）にパートナーシップに合意した。Tenstorrentは今後、潜在顧客として、ラピダスの半導体を基に試作品を製造し、Tenstorrentのお眼鏡にかなえば両社の契約に向かう。Tenstorrentにとって、韓国Samsung Electronics（サムスン電子）に加わる新たなファウンドリーの選択肢になる注1） 。 「ラピダスはこれまでの日本メーカーとは違う。スピード</description>
     </item>
+    <item>
+      <title>ChatGPTの音声機能が無料ユーザーでも利用可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1549916.html</link>
+      <pubDate>2023/11/27 16:15</pubDate>
+      <description>[アップデート]Amazon Lex がAmazon Bedrock Claude V2と連係し、発話サンプルの自動生成機能をリリース #AWSreInvent はじめに Amazon Lex がAmazon Bedrock ClaudeV2と連係し、発話サンプルの自動生成機能が追加されました。 Lexでは、インテントを呼び出すためのサンプル発話を各インテントで定義する必要があります。 複数のインテントが定義されている場合は、ユーザーの発話によってインテントを振り分けるために、サンプル発話は必要です。 今回のアップデートで、サンプル発話を手動で入力する代わりに、Lexのインテント名、説明、既存のサンプル発話に基づいて、Amazon BedrockのClaudeがサンプル発話を自動生成するようになりました。 それによって、サンプル発話を考えて入力する労力と時間が削減できるようになります。 ド</description>
+    </item>
+    <item>
+      <title>AWS、スケーラブルなNFS「Amazon EFS」で、長期保存データ用の「Amazon EFS Archive」提供開始</title>
+      <link>https://www.publickey1.jp/blog/23/awsnfsamazon_efsamazon_efs_archive.html</link>
+      <pubDate>2023/11/28 06:28</pubDate>
+      <description>チャットAIのChatGPTのベースとなっている自然言語処理AIモデルのGPT-4は、科学的仮説を裏付けるためにデータセットを捏造するケースがあるという論文が発表されました。 Large Language Model Advanced Data Analysis Abuse to Create a Fake Data Set in Medical Research | Ophthalmology | JAMA Ophthalmology | JAMA Network https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2811505 ChatGPT generates fake data set to support scientific hypothesis https://www.nature.com/</description>
+    </item>
+    <item>
+      <title>AI再現の歴代F1王者vs.現役F1ドライバーが対決する『Lap of Legends』、2024年テレビ放映公開予定 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/27/2340.html</link>
+      <pubDate>2023/11/27 20:24</pubDate>
+      <description>AIに仕事を奪われないために、自分の発想を強化していかないといけない 服部佑樹氏（以下、服部）：次に行きたいと思います。「エンジニアとAIの関わり方」ですね。AIが登場したことによって、どういうかたちでエンジニアが変わっていくのか。概念としてはものすごく広いですが、みなさんもいろいろな観点の捉え方があると思っています。 組織としてどうするのかはその次の質問になりますが、あとはキャリアとしてとか、次のポジションをどうしようかなみたいなところも含めて、個人の観点なども含めて答えてもらえるといいんじゃないかなと思います。では黒崎さんからいいですか？ （スライドを示して）3番目の質問「エンジニアがAIと協力して新たなアイデアを生み出すための効果的なアプローチ」ですね。あとは2番も合わせていいかもしれませんが、アプローチと潜在的な力を引き出すためのスキルをどうやって学んでいったらいいと思いますか？</description>
+    </item>
+    <item>
+      <title>AIを軍事活用し「自律型無人機の運用」「宇宙空間の脅威監視」「航空機や兵士のメンテナンス」などをアメリカ国防総省が目指す</title>
+      <link>https://gigazine.net/news/20231127-us-military-ai-initiatives-autonomous-weapons/</link>
+      <pubDate>2023/11/27 16:03</pubDate>
+      <description>Amazon Redshift enhances Redshift ML to support large language models (LLM). Amazon Redshift ML enables customers to create, train, and deploy machine learning models using familiar SQL commands. Now, you can leverage pretrained publicly available LLMs in Amazon SageMaker JumpStart aspart of Redshift ML, allowing you to bring the power of LLMs to analytics. For example, you can make inferences on</description>
+    </item>
   </channel>
 </rss>
