@@ -11913,5 +11913,26 @@
       <pubDate>2023/11/28 12:47</pubDate>
       <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月20日（月）〜11月26日（日）〔2023年11月第4週〕のトップ30です*1。 順位 タイトル 1位 「ソース」が一体なんなのかがよく分かりません。中濃ソース、とんかつソース、ウスターソースなどありますが、ただ揚げ物やとんかつにかけてればいいのでしょうか。成分をみると想像以上にフルーツや野菜がたくさん入っていて、不健康なイメージを持っていたので少し驚きました。オタフクソースはま… | Mond - 知の交流コミュニティ 2位 遡る石・遡る石 | ビッコミ（ビッグコミックス） 3位 1990～2010年の名作フリーゲーム｜kamioka 4位 すぐに否定から入る人は、いったい何を考えているのか。 | Books&amp;amp;Apps 5位 ChatGPT for Developer - 超入門 - Sp</description>
     </item>
+    <item>
+      <title>日本特化型画像生成AI「JSDXL」で和風画像の魅力を探求してみた！【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/1549760.html</link>
+      <pubDate>2023/11/27 12:16</pubDate>
+      <description>投資信託協会は11月1日、2024年1月から始まる新しい少額投資非課税制度（NISA）の成長投資枠対象ファンドについて、6回目のリストを公表した。国内公募の追加型株式投資信託（上場投資信託=ETF=を除く）のうち、新NISAの成長投資枠対象ファンドを23年10月末時点の5年リターン（分配金再投資ベース）でランキングしたところ、先進国のテクノロジー関連株式やインド株式で運用するファンドが上位に並ん</description>
+    </item>
+    <item>
+      <title>GitHub - linexjlin/GPTs: leaked prompts of GPTs</title>
+      <link>https://github.com/linexjlin/GPTs</link>
+      <pubDate>2023/11/26 14:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed9164fd6d6c2cd2bd3365a71063aa3a477a1012/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1546%2F371%2F001.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>自動運転EV開発のチューリング、AI開発基盤として大規模GPUクラスタ「Gaggle Cluster」の構築に着手</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000039.000098132.html</link>
+      <pubDate>2023/11/22 21:05</pubDate>
+      <description>ChatGPTやGPT-4をはじめとする大規模言語モデルの能力が向上し、多くの注目を集めています。とくにRAG（Retrieval Augmented Generation）と呼ばれる手法を使って、手元のデータを生成時に活用する手法がよく使われていますが、その性能を改善する方法は様々あります。その中でも、この記事ではRAG内部の検索性能を改善するためのクエリ変換に着目し、HyDEと呼ばれる手法の効果を日本語の検索用データセットを使って検証した結果を示します。 記事の構成は以下のとおりです。 HyDEとは 実験設定 実験結果 実装の詳細 参考資料 HyDEとは HyDE（Hypothetical Document Embeddings：仮の文書の埋め込み）は、入力されたクエリに対して仮の文書を生成し、その文書を埋め込み、検索に使用する手法です[1]。典型的な文書検索では、ユーザーが入力したク</description>
+    </item>
   </channel>
 </rss>
