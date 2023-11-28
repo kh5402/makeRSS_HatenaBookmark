@@ -11985,5 +11985,11 @@
       <pubDate>2023/11/28 18:08</pubDate>
       <description>［CEDEC＋KYUSHU］ガンパレや絢爛舞踏祭の芝村裕吏氏が，カレルシステムで目指すものとはなにか。その詳細を語った「LOOP8にみる群体型AIとその運用について」 編集部：Junpoco 2023年11月25日に福岡県の九州産業大学にて開催されたゲーム開発者向けカンファレンス「CEDEC＋KYUSHU 2023」で，「LOOP8にみる群体型AIとその運用について」と題された講演が行われた。 2023年6月に発売されたマーベラスのジュブナイルRPG「LOOP8」（Switch / PS4 / Xbox One / PC）の特徴となっていたのが，プレイヤーが選択した行動によって，周囲のキャラクターの感情や人間関係が変化するゲームシステム。同システムの根幹をなすのが，カレルと称される群体型AIだ（LOOP8における正式名称は「エモーショナルAI」）。講演では，ゲームデザイナーの芝村裕吏氏が，</description>
     </item>
+    <item>
+      <title>共感でチームの境界をつなぐコミュニケーション手法 : NVC｜piqcy</title>
+      <link>https://note.com/piqcy/n/n8d5c7d2c7140</link>
+      <pubDate>2023/11/27 11:12</pubDate>
+      <description>AWS、スケーラブルなNFS「Amazon EFS」で、長期保存データ用の「Amazon EFS Archive」提供開始 Amazon Web Servicesは、Amazon EFSの新機能として長期保存データ用の「Amazon EFS Archiveストレージクラス」の提供を開始したと発表しました。 また、既存のAmazon EFS Infrequent Access（IA）ストレージクラスのストレージ価格が36%引き下げられたことも同時に発表されました。これによりAmazon EFSはデータの長期保存において、従来よりもさらに低コストなソリューションとなりました。 Slim down #CloudStorage costs while keeping cold data easily accessible with #AWS. From ML training &amp;amp; predicti</description>
+    </item>
   </channel>
 </rss>
