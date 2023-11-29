@@ -12051,5 +12051,41 @@
       <pubDate>2023/11/29 08:03</pubDate>
       <description>［速報］古いJavaや.NETのコードを最新のJavaにAIが自動変換する「Amazon Q Code Transformation」、AWSが発表。AWS re:Invent 2023 Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、生成AIを用いて多様なAIサービスを提供する「Amazon Q」を発表。Amazon Qの機能の一部として、古いJavaや.NETのコードを最新のJavaや.NET対応に自動変換する「Amazon Q Code Transformation」を合わせて発表しました。 参考：［速報］AWS、Copilot対抗となる「Amazon Q」発表。生成AIによるシステム開発支援や業務支援など、多様なAIサービスを提供。AWS re:Invent 2023 Amazon Q Code</description>
     </item>
+    <item>
+      <title>［速報］AWS、大規模言語モデルのトレーニングに最適化した独自プロセッサ「AWS Trainium2」発表。前モデルより最大4倍のトレーニング性能。AWS re:Invent 2023</title>
+      <link>https://www.publickey1.jp/blog/23/awsaws_trainium24aws_reinvent_2023.html</link>
+      <pubDate>2023/11/29 03:45</pubDate>
+      <description>Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、生成AIを用いて多様なAIサービスを提供する「Amazon Q」を発表しました。 マイクロソフトが「GitHub Copilot」や「Microsoft 365 Copilot」など「Copilot」を同社の生成AIサービスの包括的なブランドとしているように、AWSは「Amazon Q」ブランドにおいてコーディング支援やデータ分析、業務支援、コ……</description>
+    </item>
+    <item>
+      <title>思ったより全然使えそう。OpenAIが提供する｢有用GPT｣ランキング</title>
+      <link>https://www.gizmodo.jp/2023/11/useful-gpt-ranking.html</link>
+      <pubDate>2023/11/28 21:55</pubDate>
+      <description>Sans Photographer PhotosThe best free stock photos and royalty-free images... powered by robots everywhere.</description>
+    </item>
+    <item>
+      <title>自動生成された実在しない女性がテックイベント講演者に名を連ねていたことが判明</title>
+      <link>https://gigazine.net/news/20231128-devternity-auto-generated-speaker/</link>
+      <pubDate>2023/11/28 20:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f64fc4f507fe086b310b3368a49fd04e60901bef/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1550%2F378%2Fimage_top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoft Copilot (現 Bing Chat、Copilot in Windows) を 12 月 1 日より正式提供開始。個人のお客様向け機能の紹介 - News Center Japan</title>
+      <link>https://news.microsoft.com/ja-jp/2023/11/28/231128-microsoft-copilot-officially-launched-on-december-1-introduction-of-features-for-individual-customers/</link>
+      <pubDate>2023/11/28 15:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8c3be8cf44e4fd6f8ee03dc3a4a5bf0949d5bed6/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1550%2F416%2Fco002.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>解決！Python　CSVファイル編</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2311/28/news019.html</link>
+      <pubDate>2023/11/28 12:59</pubDate>
+      <description>あなたがチーズケーキの作り方を学びたいが、30分もあるYouTubeの料理動画を見るほどの時間はないとしよう。そんな場合に、グーグルのBardの新機能を使えば、わずか数秒で重要なポイントだけを把握して、貴重な時間を節約できるかもしれない。 YouTubeには、料理やDIY、教育などの多様なジャンルにまたがる実用的な動画が掲載されている。しかし動画が長かったり、コンテンツ内の重要な詳細が不明瞭であったりすることが、それを利用する上での課題になっている。 グーグルによって共有された最近のアップデートで、人工知能（AI）のBardはYouTube動画の内容を理解できるようになった。グーグルの生成AIツールは、動画の内容に関連する質問に対応できるように進化した。また、YouTube動画のURLを入力するだけで、内容を要約することができる。この動きは、最初にニュースサイトAndroid Author</description>
+    </item>
   </channel>
 </rss>
