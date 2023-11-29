@@ -12177,5 +12177,41 @@
       <pubDate>2023/11/29 06:24</pubDate>
       <description>【ラスベガス=山田遼太郎】米アマゾン・ドット・コムは28日、企業向けの生成人工知能（AI）サービス「アマゾンQ」の提供を始めると発表した。AIが質問に答える対話型で、利用者は業務に合わせた質問をしたり指示を出したりできる。法人にも利用が広がる米新興企業オープンAIのChat（チャット）GPTに対抗する。傘下でクラウドコンピューティング事業を手がけるアマゾン・ウェブ・サービス（AWS）が米西部ラ</description>
     </item>
+    <item>
+      <title>Amazon S3よりパフォーマンスが10倍向上しリクエストコストを50％抑えられる低レイテンシーストレージクラス「Amazon S3 Express One Zone」が発表される</title>
+      <link>https://gigazine.net/news/20231129-amazon-s3-express-one-zone/</link>
+      <pubDate>2023/11/29 17:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3bb03e20a6b474ccb1f34b2574b4b081ad8156e5/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1550%2F517%2Fyajiuma-watch_1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIで自社CEOの偽音声を作成し、財務責任者をだまして自らに振込させた実験結果が話題に【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/1550302.html</link>
+      <pubDate>2023/11/28 18:31</pubDate>
+      <description>Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、AIのトレーニングに最適化した独自プロセッサ「AWS Trainium2」を発表しました。 Trainium2は、最大数兆個のパラメータを持つ基盤モデルおよび大規模言語モデルのトレーニング用に設計されています。 2020年に発表された第一世代のTrainiumチップと比較して、最大4倍のトレーニング性能と3倍のメモリ容量を実現し、エネルギー効率（性能/ワット）を最大2倍まで改善するように設計されています。 Trainium2は、単一のインスタンスに16個のTrainiumチップを含むAmazon EC2 Trn2インスタンスで利用可能になります。 Trn2インスタンスは、AWS Elastic Fabric Adapter（EFA）のペタビットスケールネット</description>
+    </item>
+    <item>
+      <title>GitHub、「GitHub Copilot Chat」を2023年12月に一般提供開始　教師、学生、人気オープンソースプロジェクトの管理者なら無料</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2311/28/news077.html</link>
+      <pubDate>2023/11/28 14:43</pubDate>
+      <description>Sans Photographer PhotosThe best free stock photos and royalty-free images... powered by robots everywhere.</description>
+    </item>
+    <item>
+      <title>Pursuit of wicked smartness in VS Code</title>
+      <link>https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter</link>
+      <pubDate>2023/11/19 18:45</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9fd9d8153c6765a6aabdd60516bb6506af975afa/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1549%2F760%2Fimage41.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>あなたは何社知っている？　新興勢が爆速成長 生成AIの旗手25選</title>
+      <link>https://business.nikkei.com/atcl/NBD/19/special/01627/</link>
+      <pubDate>2023/11/25 18:31</pubDate>
+      <description>ようやく解けてきたリスキリングの誤解 西舘聖哉氏（以下、西舘）：それでは後藤さん、よろしくお願いいたします。 後藤宗明氏（以下、後藤）：よろしくお願いいたします。 西舘：僕は1冊目の書籍から後藤さんを知って、いろんなセミナーやカンファレンスを見させていただいていますが、最近のリスキリングの状況はどうですか？ 後藤：「やっと機が熟してきたな」という手応えを、この数ヶ月間で感じ始めています。 西舘：というと？ 後藤：書籍の中でも書いたんですが、「個人が自主的に取り組む学び直しだ」という誤解によってうまくいっていないところがあったんです。ですが最近は、リスキリングをすると「自社にとってよいことがあるんだ」「自社の未来の事業を担う人材を育てていくことだ」と、経営者の方々にだんだん理解していただけるようになっています。 それで、組織の中でリスキリングの制度をちゃんと作っていくかたちが徐々に始まりつつ</description>
+    </item>
   </channel>
 </rss>
