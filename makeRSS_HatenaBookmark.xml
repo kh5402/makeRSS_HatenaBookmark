@@ -12111,5 +12111,23 @@
       <pubDate>2023/11/27 10:12</pubDate>
       <description>第1　はじめに FAQシステムやチャットボットなど「何か知りたいこと（検索文・質問文）」を入力して検索や回答生成を行うに際して、検索や回答精度を向上させたり、回答根拠を明示させるために、LLM技術と外部データを組み合わせたシステムの研究開発や実装が急速に進んでいます。 LLMが外部データを参照できるようにするには、LLMそのものをFine-tuningする方法、プロンプトで情報を与える方法、RAGによって外部データを保存したデータベース (Data Base; 以下DB) から呼び出す方法の3つがあります。 ここでいう「外部データ」とは、「LLMの外部にあるデータ」という意味でして、その中には社内文書や、書籍・ウェブページ上のデータなどが含まれます。当該「外部データ」の中には、他人が著作権を持つ著作物（以下「既存著作物」といいます）も含まれるため、それら既存著作物を外部データとして利用する</description>
     </item>
+    <item>
+      <title>生成AIがSNS投稿者を特定？　実験で高い「正解率」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC166JX0W3A111C2000000/</link>
+      <pubDate>2023/11/29 08:10</pubDate>
+      <description>伊藤園は2023年9月にリニューアル発売した「お〜いお茶 カテキン緑茶」のパッケージデザイン開発に、画像生成AI（人工知能）を活用。量販店向け出荷数の出足は、前年のおよそ2倍と好調に推移している。生成AIによるデザイン開発のメリットについて聞いた。 ◇　　　　◇　　　　◇伊藤園が今回利用したのは、デザイン開発とマーケティングリサーチのプラグ（東京・千代田）が開発中の「商品デザイン用の画像生成</description>
+    </item>
+    <item>
+      <title>Amazon、企業向け対話AI「Q」を提供　ChatGPT対抗 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN28DJD0Y3A121C2000000/</link>
+      <pubDate>2023/11/29 06:16</pubDate>
+      <description>AWS、業務専用AIアシスタント「Amazon Q」発表　月額20ドル／ユーザーで提供開始：AWS re:Invent 2023 AWSは年次イベント「re:Invent」で、ChatGPT Enterpriseや企業向けCopilotと競合するAIアシスタント「Amazon Q」を発表した。「Amazon Bedrock」ベースで、SlackやGmailなどの外部データソースへのアクセス権を与えることもできる。 米Amazon傘下のAWSは11月28日（現地時間）、ラスベガスで開催の年次イベント「AWS re:Invent 2023」の基調講演で、新AIアシスタント「Amazon Q」を発表した。企業向け、業務専用のチャットボットで、米OpenAIの「ChatGPT Enterprise」、米Microsoftの「Copilot」、米Googleの「Duet AI」などと競合する。</description>
+    </item>
+    <item>
+      <title>507 Mechanical Movements</title>
+      <link>https://507movements.com/</link>
+      <pubDate>2023/11/29 08:26</pubDate>
+      <description>［速報］古いJavaや.NETのコードを最新のJavaにAIが自動変換する「Amazon Q Code Transformation」、AWSが発表。AWS re:Invent 2023 Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、生成AIを用いて多様なAIサービスを提供する「Amazon Q」を発表。Amazon Qの機能の一部として、古いJavaや.NETのコードを最新のJavaや.NET対応に自動変換する「Amazon Q Code Transformation」を合わせて発表しました。 参考：［速報］AWS、Copilot対抗となる「Amazon Q」発表。生成AIによるシステム開発支援や業務支援など、多様なAIサービスを提供。AWS re:Invent 2023 Amazon Q Code</description>
+    </item>
   </channel>
 </rss>
