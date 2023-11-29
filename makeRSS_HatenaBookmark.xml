@@ -12087,5 +12087,23 @@
       <pubDate>2023/11/28 12:59</pubDate>
       <description>あなたがチーズケーキの作り方を学びたいが、30分もあるYouTubeの料理動画を見るほどの時間はないとしよう。そんな場合に、グーグルのBardの新機能を使えば、わずか数秒で重要なポイントだけを把握して、貴重な時間を節約できるかもしれない。 YouTubeには、料理やDIY、教育などの多様なジャンルにまたがる実用的な動画が掲載されている。しかし動画が長かったり、コンテンツ内の重要な詳細が不明瞭であったりすることが、それを利用する上での課題になっている。 グーグルによって共有された最近のアップデートで、人工知能（AI）のBardはYouTube動画の内容を理解できるようになった。グーグルの生成AIツールは、動画の内容に関連する質問に対応できるように進化した。また、YouTube動画のURLを入力するだけで、内容を要約することができる。この動きは、最初にニュースサイトAndroid Author</description>
     </item>
+    <item>
+      <title>［速報］古いJavaや.NETのコードを最新のJavaにAIが自動変換する「Amazon Q Code Transformation」、AWSが発表。AWS re:Invent 2023</title>
+      <link>https://www.publickey1.jp/blog/23/javanetjavaaiamazon_q_code_transformationawsaws_reinvent_2023.html</link>
+      <pubDate>2023/11/29 07:55</pubDate>
+      <description>Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、AIのトレーニングに最適化した独自プロセッサ「AWS Trainium2」を発表しました。 Trainium2は、最大数兆個のパラメータを持つ基盤モデルおよび大規模言語モデルのトレーニング用に設計されています。 2020年に発表された第一世代のTrainiumチップと比較して、最大4倍のトレーニング性能と3倍のメモリ容量を実現し、エネルギー効率（性能/ワット）を最大2倍まで改善するように設計されています。 Trainium2は、単一のインスタンスに16個のTrainiumチップを含むAmazon EC2 Trn2インスタンスで利用可能になります。 Trn2インスタンスは、AWS Elastic Fabric Adapter（EFA）のペタビットスケールネット</description>
+    </item>
+    <item>
+      <title>aisplash: Free AI-Generated Stock Photos &amp;amp; Royalty-Free Images</title>
+      <link>https://www.aisplash.com/</link>
+      <pubDate>2023/11/28 20:06</pubDate>
+      <description>国際ソフトウェア開発カンファレンス「DevTernity」の講演予定者リストに実在しない女性が含まれていたことが判明しました。主催者は掲載を「ミス」として釈明しましたが、何人かの講演予定者が出演を辞退しています。 Tech Conference Collapses After Organizer Admits to Making Fake ‘Auto-Generated’ Female Speaker https://www.404media.co/devternity-fake-speakers-eduard-sizovs/ Male Tech Conference Founder Is Behind Popular Woman Coding Influencer Account https://www.404media.co/coding-unicorn-instagram-julia</description>
+    </item>
+    <item>
+      <title>機械学習・ディープラーニングのおすすめ本11冊+α！(初心者〜中級者向け)</title>
+      <link>https://retsu-business.com/programming/machine-learning-books/</link>
+      <pubDate>2023/11/25 23:28</pubDate>
+      <description>生成AI導入プロジェクトするとき、最初にCFO（最高財務責任者）と話をつけるのオススメ…というお話。特に経営層の関心を引くことが難しいとき。 「AI導入したいんけど、経営陣にどうアピールすればいいかわからん」 コンサルとか顧問とか投資先で、そんな相談を受けたら「序盤でCFOと仲良くなるとよいで」というアドバイスをしてる。あるいはCFOでなくても、部署の財務を握ってる人。 最初にCFOに会うまず初手で「弊社の利益損失計算書（P&amp;amp;L）、貸借対照表（BS）やその他の管理会計の領域において、AI開発プロジェクトでどのように貢献できるか」とCFOに相談する。 通常、技術者やプPMが財務面に関わる提案をしてくれることは少ない。のでCFOは割と嬉しくなって、ちゃんと時間を割いてくれる。なんなら「コイツは経営を意識できるエンジニアだぞ」と、将来の幹部候補にもなる。 PSとかBSみたいな呪文はざっくり言うと</description>
+    </item>
   </channel>
 </rss>
