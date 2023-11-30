@@ -12303,5 +12303,29 @@
       <pubDate>2023/11/29 15:22</pubDate>
       <description>LLMを使ってJavaScriptのコードを生み出せる「Craft Functions Copilot」を開発中 竹村尚彦氏：みなさん、こんばんは。本日は、「KARTE CraftにおけるLLM活用」ということで、「Craft Functions Copilot」という機能のお話をしようと思います。 あらためまして、初めまして、プレイドの竹村と申します。現在私は、パートナー企業との共同事業化とソリューション開発やAPI活用を推進するEcosystem Teamといったところで開発責任者をしているのですが、リーディングしながらけっこうコードも書いているエンジニアでもあります。 私たちは、「KARTE」というSaaSプロダクトを提供しているのですが、本日お話しする、Craft Functions Copilotという機能は、一言で言うと、このKARTEを拡張するJavaScriptのコードをL</description>
     </item>
+    <item>
+      <title>アマゾン、数千億～数兆パラメータの生成AIトレーニングに最適化した独自プロセッサ「AWS Trainium2」発表。性能は初代比最大4倍 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/29/2360.html</link>
+      <pubDate>2023/11/29 21:05</pubDate>
+      <description>インスタ創業者が作ったニュースアプリ「Artifact」、AIのおすすめが的確すぎて驚いた（1/4 ページ） Inatagramの共同創業者が立ち上げたことでも話題になった｢Artifact｣（アーティファクト）。要するにAIがニュースを選んでおすすめしてくれるアプリですが、使ってみたところ、とても驚いたので報告したいと思います。 Inatagramの共同創業者が立ち上げたことでも話題になった｢Artifact｣（アーティファクト）。要するにAIがニュースを選んでおすすめしてくれるアプリです。AIとはいっても、別にChatGPTのようにユーザーと対話してくれるわけではありませんが、独自のLLM（大規模言語モデル）を採用しており、そのAIがニュース記事を選択に役割を果たしています。そのArtifactのWebサイトがリニューアルされたことを機にアプリを使ってみたところ、とても驚いたので報告し</description>
+    </item>
+    <item>
+      <title>野心的で、狡猾で、マキャベリスト的？ オープンAI「お家騒動」で垣間見えたサム・アルトマンの本性...「効果的利他主義」の顔は見えず</title>
+      <link>https://www.newsweekjapan.jp/stories/technology/2023/11/post-103134.php</link>
+      <pubDate>2023/11/29 19:58</pubDate>
+      <description>NVIDIAの2024年第3四半期における収益が前年比206％増となり、過去最高を記録しました。生成AIの普及により機械学習に求められるGPUの需要が格段に増し、データセンターを運営する企業との取引が好調であるとの分析が行われています。 NVIDIA Announces Financial Results for Third Quarter Fiscal 2024 | NVIDIA Newsroom https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2024 Nvidia sold half a million H100 AI GPUs in Q3 thanks to Meta, Facebook — lead times stretch up to</description>
+    </item>
+    <item>
+      <title>「生成系AIは恐るるに足らず、開発を効率化してくれる」　Spotifyのプロダクト開発フローから見る「強いエンジニア」に必要なスキル</title>
+      <link>https://logmi.jp/tech/articles/329626</link>
+      <pubDate>2023/11/29 18:03</pubDate>
+      <description>Web広告の代理店のLes株式会社が、AIグラビアアイドル「藤原れい」の写真集「I’m AI: AI and Elegance: A Symbiotic Journey」を発売しています。同社はサイバーエージェント出身の2名による企業とのこと。「藤原れい」は、当初は “ある理由” からAIで制作されたグラビアアイドルであることを隠して展開されていました。 Instagramで活動を始めた「藤原れい」「藤原れい」は、2023年5月にInstagramにアカウントを開設して初登場しました。記事の執筆時点で、フォロワーは2.9万人を超えています。Instagramでの最初の投稿は英文で行われ、続いて日本語での投稿が開始されました。 初めはAIモデルであることを隠しており、「藤原れい」は実在の人物であるかのように振る舞いました。つまり、フォロワーや閲覧者のほとんどはAIモデルであることを知らなかっ</description>
+    </item>
+    <item>
+      <title>GPTを利用したBotの精度を実用レベルに引き上げる１０個のアプローチ｜maKunugi</title>
+      <link>https://note.com/makunugi/n/n1661507618d5</link>
+      <pubDate>2023/11/29 09:55</pubDate>
+      <description>LINEヤフーは、「Yahoo!ニュース」のコメント欄にあるコメントへのリアクションボタンを12月上旬から刷新する。親指の上下で表現した「そう思う」「そう思わない」の2種類から、顔アイコンで表現した「共感した」「なるほど」「うーん」の3種類にリニューアルし、「多様な意見を表現できるより健全なコメント欄を目指す」としている。 コメント欄は2007年から提供してきたが、「そう思う」「そう思わない」のボタン、賛否を問う形式のため「ユーザーの感情が二極化され極端に捉えられてしまうという課題があった」という。 課題を解決すべく、複数のリアクションボタン候補に対してユーザー調査を実施したところ、「共感」や「学び」を表現するボタンが支持されたことなどから、ボタンの刷新を決めた。 今後もユーザーの反響などを踏まえ、ボタンの改善やコメントの表示順への活用を検討していくという。 関連記事 ヤフコメ、上位に多様</description>
+    </item>
   </channel>
 </rss>
