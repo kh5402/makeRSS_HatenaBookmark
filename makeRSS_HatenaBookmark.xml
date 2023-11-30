@@ -12360,5 +12360,41 @@
       <pubDate>2023/11/29 05:01</pubDate>
       <description>＜あのチャットGPTを開発したシリコンバレー企業内部の権力闘争が浮き彫りにした、最先端技術のイデオロギー対立＞ ちょうど1年前に対話型AI（人工知能）のチャットGPTを発表して、世界をあっと言わせた米スタートアップのオープンAIが、今度は組織内の権力闘争で世界を驚かせた。 オープンAIを監督する非営利団体の理事会（取締役会に相当）が突然、サム・アルトマンCEOを解任すると発表したのは、11月17日のこと。それに抗議するように共同創業者のグレッグ・ブロックマン社長が退社を表明。ピンチヒッターとしてミラ・ムラティCTO（最高技術責任者）の暫定CEO昇格が発表されたが、2日後にゲーム実況配信ツイッチの共同創業者エメット・シアが「正式な暫定CEO」に就任。オープンAIの最大の投資家であるマイクロソフトがアルトマンらの受け入れを提案する一方で、社員の約9割がアルトマンの復帰を要求──。 そんなすった</description>
     </item>
+    <item>
+      <title>ついにWindowsの「ペイント」に画像生成AIが搭載されイラスト生成や写真生成が可能に</title>
+      <link>https://gigazine.net/news/20231130-windows-paint-ai/</link>
+      <pubDate>2023/11/30 12:52</pubDate>
+      <description>2023年11月29日に開催されたイベント「DealBook Summit」に登壇したイーロン・マスク氏が、X(旧Twitter)への広告出稿を停止した広告主らに「Go fuck yourself(くたばれ)」と発言したことが報じられました。イベントには、Xへの広告出稿を見合わせている企業のひとつであるディズニーのボブ・アイガーCEOも出席しており、マスク氏は壇上からアイガー氏に話しかけたとのことです。 Elon Musk says advertisers trying to &amp;#39;blackmail&amp;#39; him: &amp;#39;Go f--- yourself&amp;#39; https://www.cnbc.com/2023/11/29/elon-musk-to-advertisers-who-are-trying-to-blackmail-him-go-f----yourself.html Elon Musk te</description>
+    </item>
+    <item>
+      <title>Introducing llamafile – Mozilla Hacks - the Web developer blog</title>
+      <link>https://hacks.mozilla.org/2023/11/introducing-llamafile/</link>
+      <pubDate>2023/11/30 09:42</pubDate>
+      <description>プログラミング分野で、久々に大きなニュースが飛び込んできた。ソフトウエア開発ツールを手掛ける米ギットハブが2023年11月上旬に米国で開催したイベント「GitHub Universe 2023」で発表した新サービス「Copilot Workspace（コパイロットワークスペース）」だ。同月8日（米国時間）に行われた初日の基調講演の最後で、同社のトーマス・ドムケ最高経営責任者（CEO）が披露した。</description>
+    </item>
+    <item>
+      <title>Building and Evaluating Advanced RAG Applications</title>
+      <link>https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/</link>
+      <pubDate>2023/11/30 10:54</pubDate>
+      <description>量子科学技術研究開発機構（QST）や大阪大学らの研究チームは30日、人が心に思い描いた風景・物体などを脳信号から読み出して復元する技術を世界で初めて開発したと発表しました。 この研究ではまず、被験者に物体や風景など1200枚の画像を見せて脳のどの場所が活発に働いているかを画像化する「fMRI」によって画像1200枚分の脳信号のデータを取得します。 また、同じ1200枚の画像について画像認識用の生成系AI（人工知能）を使って画像の1枚1枚の特徴を数値化しました。 それらのデータを使って「脳信号翻訳機」と呼ばれる人の脳信号から心に思い描いた画像の線や色、質感などの視覚的な特徴を捉えた数値データを得られる装置が作られました。 この「脳信号翻訳機」が人の脳信号から視覚的特徴を割り出し、その特徴に合った画像をAIで修正を繰り返すことで人が心に思い描いた画像の復元に成功したということです。 現時点では</description>
+    </item>
+    <item>
+      <title>Amazon QはVSCodeの拡張機能から使うのが良さそう</title>
+      <link>https://zenn.dev/ncdc/articles/3a3239c09b77db</link>
+      <pubDate>2023/11/29 22:13</pubDate>
+      <description>米Oktaは11月28日（現地時間）、10月に発生したネットワーク侵入について、ハッカーが顧客サポートシステムの全ユーザーに関する情報を盗んでいたことを発表した。 サンフランシスコに拠点を置く同社は顧客に対し、顧客サポートシステムを使用する全顧客の名前やメールアドレスを含むレポートを、ハッカーがダウンロードしていたと知らせた。 Oktaの株価は10月に急落した。ハッカーが侵入し、特定の顧客がアップロードしたファイルの閲覧を許したと発表したためだ。 Oktaは「情報が積極的に悪用されているという直接的な証拠はないが、フィッシングやソーシャルエンジニアリングのリスクが高まっていることを全顧客に通知している」と述べた。 Oktaは、米Microsoftが支援するOpenAIなどに、オンラインアプリケーションやWebサイトのログインを安全にするためのシングルサインオンや多要素認証といったサービスを</description>
+    </item>
+    <item>
+      <title>「羽生さんの将棋がAIに殺されていた」羽生善治は、いかにして藤井聡太から2勝をもぎ取ったのか…「誰も知らなかった」オリジナルの構想とは？（大川慎太郎）</title>
+      <link>https://number.bunshun.jp/articles/-/859716</link>
+      <pubDate>2023/11/29 19:04</pubDate>
+      <description>AWS事業本部の森田です。 本日より、Amazon Aurora PostgreSQL, Amazon DynamoDB, Amazon RDS for MySQL で Amazon Redshift とのゼロ ETL がプレビューで利用できるようになりました！ ゼロ ETL ゼロ ETLを利用することで、Amazon Redshift から各データベースのデータにアクセスして、ほぼリアルタイムの分析や機械学習が可能となります。 また、「ゼロ」と名前についているように ETL オペレーションを実行する複雑なデータパイプラインの構築なしで上記が実現可能となります。 ゼロ ETL については、昨年の reInvent で発表されたサービスととなっており、Aurora MySQL で一足先に一般提供を開始となっております。 プレビュー対象 以下のデータベース・リージョンで新たにプレビューでの利用</description>
+    </item>
+    <item>
+      <title>生成AIに職を奪われる　東尋坊で絶望する画家の卵と闘う俳優たち</title>
+      <link>https://business.nikkei.com/atcl/gen/19/00537/112200046/</link>
+      <pubDate>2023/11/28 21:36</pubDate>
+      <description>Web広告の代理店のLes株式会社が、AIグラビアアイドル「藤原れい」の写真集「I’m AI: AI and Elegance: A Symbiotic Journey」を発売しています。同社はサイバーエージェント出身の2名による企業とのこと。「藤原れい」は、当初は “ある理由” からAIで制作されたグラビアアイドルであることを隠して展開されていました。 Instagramで活動を始めた「藤原れい」「藤原れい」は、2023年5月にInstagramにアカウントを開設して初登場しました。記事の執筆時点で、フォロワーは2.9万人を超えています。Instagramでの最初の投稿は英文で行われ、続いて日本語での投稿が開始されました。 初めはAIモデルであることを隠しており、「藤原れい」は実在の人物であるかのように振る舞いました。つまり、フォロワーや閲覧者のほとんどはAIモデルであることを知らなかっ</description>
+    </item>
   </channel>
 </rss>
