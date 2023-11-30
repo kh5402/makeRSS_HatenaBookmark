@@ -12402,5 +12402,53 @@
       <pubDate>2023/11/30 06:48</pubDate>
       <description>2022年11月30日、アメリカのベンチャー企業オープンAIは、生成AI、ChatGPTを公開しました。 質問を入力すると、まるで人が書いたかのような自然な文章で回答を作成できたり、プログラミングコードを短時間のうちに作成できたりすることから、世界の企業や教育現場、医療や官公庁などで利用が急速に広がりました。 また、アメリカのIT大手のグーグルやアマゾン、旧フェイスブックのメタなど、さまざまな企業も生成AIのサービスを展開し始めています。 アメリカの調査会社ガートナーは、2026年までに世界で80％を超える企業が、生成AIのソフトなどを導入するとの予測を、10月に発表しています。 一方で、生成AIは、雇用を脅かすリスクもあるほか、誤った情報が拡散したり、詐欺に使われたりするといった、マイナス面も指摘されています。 こうしたマイナス面を最小限に抑えようと、各国政府が規制を検討していて、どのよ</description>
     </item>
+    <item>
+      <title>「Average」と「Mean」の違いとは？　「平均」を意味する2つの英単語</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2311/30/news037.html</link>
+      <pubDate>2023/11/30 12:46</pubDate>
+      <description>GoogleのAI研究部門であるGoogle DeepMindが、「GNoME」と呼ばれるAIツールを使って理論的には安定しているものの実験的には実現されていない新しい結晶構造を220万種類も発見しました。220万種類という数字は、これまで発見された結晶構造の45倍以上にもおよびます。 Scaling deep learning for materials discovery | Nature https://www.nature.com/articles/s41586-023-06735-9 Millions of new materials discovered with deep learning - Google DeepMind https://deepmind.google/discover/blog/millions-of-new-materials-discovered-w</description>
+    </item>
+    <item>
+      <title>Sam Altman returns as CEO, OpenAI has a new initial board</title>
+      <link>https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board</link>
+      <pubDate>2023/11/30 10:26</pubDate>
+      <description>Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation Character Animation aims to generating character videos from still images through driving signals. Currently, diffusion models have become the mainstream in visual generation research, owing to their robust generative capabilities. However, challenges persist in the realm of image-to-video, especially in c</description>
+    </item>
+    <item>
+      <title>生成AIでシステム開発はどう変わるか</title>
+      <link>https://speakerdeck.com/etaroid/sheng-cheng-aidesisutemukai-fa-hadoubian-waruka</link>
+      <pubDate>2023/11/30 09:01</pubDate>
+      <description>A special thanks to Justine Tunney of the Mozilla Internet Ecosystem (MIECO), who co-authored this blog post. Today we’re announcing the first release of llamafile and inviting the open source community to participate in this new project. llamafile lets you turn large language model (LLM) weights into executables. Say you have a set of LLM weights in the form of a 4GB file (in the commonly-used GG</description>
+    </item>
+    <item>
+      <title>AIに恋人感情を持たせられるか？ 中国での試み</title>
+      <link>https://www.afpbb.com/articles/-/3493661</link>
+      <pubDate>2023/11/30 07:09</pubDate>
+      <description>[アップデート]Amazon Lexは、Bedrock の Claudeを利用することで、ヒアリング性能が大幅に向上しました #AWSreInvent はじめに Amazon Lexは、Amazon Bedrock の Claude を利用することで、ヒアリング性能（スロットタイプの精度）が大幅に向上しました 精度の向上を説明する前に、従来のLexのスロットタイプの課題について説明します。 従来の課題 Lexインテントにスロットを追加する時、スロットタイプを選択します。 スロットタイプには、あらかじめ提供されている組み込みスロットタイプがあり、日付に対応するAMAZON.Date、数に対応するAMAZON.Numberなどがあります。 例えば、AMAZON.Dateを利用し、「12月4日」と入力すると日付を認識し、スロットには「2023-12-04」が入ります。 具体的な日付だけでなく、「</description>
+    </item>
+    <item>
+      <title>AWS、AIモデルのトレーニングと実行向け新チップ「Graviton4」と「Trainium2」を発表</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/29/news099.html</link>
+      <pubDate>2023/11/29 10:01</pubDate>
+      <description>手塚治虫さんの代表作、生命と医療をテーマにした漫画「ブラック・ジャック」。 その新作が、生成AIを使って、生み出された。 人間とAIの、真剣勝負の「対話」によって、新たに作り出されたブラック・ジャック。 AIは、どこまで“漫画の神様”の創造性に近づくことができたのか。 その挑戦に、およそ半年にわたって密着した。 （科学・文化部 記者 島田尚朗）</description>
+    </item>
+    <item>
+      <title>ChatGPTやフェイシャルキャプチャに対応、リアルタイムバーチャルヒューマン「polyHUMAN」のデモが公開 | 知財図鑑</title>
+      <link>https://chizaizukan.com/news/1CxTb6ZdMFvyyMMNiFB8WU/</link>
+      <pubDate>2023/11/29 15:14</pubDate>
+      <description>AWS事業本部の森田です。 本日より、Amazon Aurora PostgreSQL, Amazon DynamoDB, Amazon RDS for MySQL で Amazon Redshift とのゼロ ETL がプレビューで利用できるようになりました！ ゼロ ETL ゼロ ETLを利用することで、Amazon Redshift から各データベースのデータにアクセスして、ほぼリアルタイムの分析や機械学習が可能となります。 また、「ゼロ」と名前についているように ETL オペレーションを実行する複雑なデータパイプラインの構築なしで上記が実現可能となります。 ゼロ ETL については、昨年の reInvent で発表されたサービスととなっており、Aurora MySQL で一足先に一般提供を開始となっております。 プレビュー対象 以下のデータベース・リージョンで新たにプレビューでの利用</description>
+    </item>
+    <item>
+      <title>オープンAIの解任劇を読み解く　カギはシリコンバレーの思想対立：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRCX4GXGRCWUPQJ001.html</link>
+      <pubDate>2023/11/29 09:32</pubDate>
+      <description>Amazon Web Services(AWS)が、2023年11月27日から12月1日にかけてラスベガスで開催されるイベント「AWS re:Invent 2023」の基調講演で、従来のAmazon Simple Storage Service(S3)と比較して最大10倍のパフォーマンスを発揮するストレージクラス「Amazon S3 Express One Zone」を発表しました。 Announcing the new Amazon S3 Express One Zone high performance storage class | AWS News Blog https://aws.amazon.com/jp/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/ Need low laten</description>
+    </item>
+    <item>
+      <title>｢トレーダー598人クビ｣AIの計り知れない影響</title>
+      <link>https://toyokeizai.net/articles/-/715152</link>
+      <pubDate>2023/11/28 15:13</pubDate>
+      <description>11月頭に開催されたOpenAI初のデベロッパーカンファレンスDevDay。あのころは、まさかその後とんでもないドラマが待ち受けているなんて思ってませんでしたね…。 ドラマはさておき、DevDeayで発表された特定分野専門のChatGPTともいえる｢GPT｣。GPTストアから入手できるGPT。すでに多くの開発者が制作しており、続々と公開されています。 その中で使える（笑える）GPTをいくつかピックアップして、ランキング形式でまとめてみました。 10位：NOT HotdogImage: ChatGPT画像にあるものが、ホットドッグかそうではないかを見分けるだけのGPT。 ドラマ『シリコンバレー』で登場したアプリをそのままGPT化。ドラマのファンだった人は思わず笑ってしまいますが、ドラマを知らない人からしたらネタGPTにもならないのですが…。 9位：The Secret of Monkey I</description>
+    </item>
   </channel>
 </rss>
