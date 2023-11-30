@@ -12285,5 +12285,23 @@
       <pubDate>2023/11/28 23:47</pubDate>
       <description>SNS（交流サイト）の何気ない書き込みから投稿者の個人情報を特定され、勝手に公表される事件が後を絶たない。多くの人は書き込みに個人情報を含めないように注意しているだろう。だが犯人は書き込み中の間接的な情報を手掛かりに、投稿者の住所や年齢などを特定する。犯人は個人とは限らない。世間で話題になった書き込みについては、多数の人がネット上で「特定班」を組織し、人海戦術で投稿者を特定する場合もある。</description>
     </item>
+    <item>
+      <title>「Microsoft Copilot」12月1日に提供開始、Windowsにも内包され設定画面の呼び出しやトラブルシューティングにも活用</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1550609.html</link>
+      <pubDate>2023/11/29 14:40</pubDate>
+      <description>Amazonがカンファレンス「AWS re:Invent 2023」の中で、機械学習トレーニングやAIトレーニングを含む幅広いワークロードでパフォーマンス向上を実現するプロセッサ「Graviton4」と「Tranium2」を発表しました。 AWS-Unveils-Next-Generation-AWS-Designed-Chips https://press.aboutamazon.com/2023/11/aws-unveils-next-generation-aws-designed-chips Join the preview for new memory-optimized, AWS Graviton4-powered Amazon EC2 instances (R8g) | AWS News Blog https://aws.amazon.com/jp/blogs/aws/join</description>
+    </item>
+    <item>
+      <title>手塚治虫「ブラック・ジャック」新作 AI×人間 “漫画の神様”に挑む | NHK | WEB特集</title>
+      <link>https://www3.nhk.or.jp/news/html/20231129/k10014270761000.html</link>
+      <pubDate>2023/11/29 18:19</pubDate>
+      <description>2023年11月29日 【24卒エンジニア向け】LLMで差をつけろ！入社後に爆速で成果をあげるLLM/ChatGPT活用法(https://layerx.connpass.com/event/301629/) における発表資料です。 LLMを活用した爆速アウトプットで圧倒的成長！</description>
+    </item>
+    <item>
+      <title>Stability AI、AIがリアルタイムでテキストから画像を生成する「SDXL Turbo」を発表／画質を犠牲にすることなく、最先端のマルチステップモデルを凌駕する性能を発揮</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1550650.html</link>
+      <pubDate>2023/11/29 15:22</pubDate>
+      <description>LLMを使ってJavaScriptのコードを生み出せる「Craft Functions Copilot」を開発中 竹村尚彦氏：みなさん、こんばんは。本日は、「KARTE CraftにおけるLLM活用」ということで、「Craft Functions Copilot」という機能のお話をしようと思います。 あらためまして、初めまして、プレイドの竹村と申します。現在私は、パートナー企業との共同事業化とソリューション開発やAPI活用を推進するEcosystem Teamといったところで開発責任者をしているのですが、リーディングしながらけっこうコードも書いているエンジニアでもあります。 私たちは、「KARTE」というSaaSプロダクトを提供しているのですが、本日お話しする、Craft Functions Copilotという機能は、一言で言うと、このKARTEを拡張するJavaScriptのコードをL</description>
+    </item>
   </channel>
 </rss>
