@@ -12522,5 +12522,17 @@
       <pubDate>2023/11/29 13:47</pubDate>
       <description>画家や俳優など創造力が求められる職業までも生成AIに侵食されている。 記事やイラストの盗用も相次ぎ、法制度の不備を指摘する声が高まる。創造性を自動化に対抗する最後のよりどころとしてきた人間の存在意義とは。 ■連載予定　※内容や順番は予告なく変更する場合があります （1）OpenAI、アルトマンCEO電撃復帰　前代未聞の騒動でMicrosoft「実質支配」浮き彫り （2）シリコンバレー最前線　3大トレンドが告げる 生成AI大競争時代 （3）生成AIに職を奪われる、絶望する画家の卵と闘う俳優たち（今回） （4）「生成AIで人の優しさ再現できぬ」失職した米心理相談員の警告 （5）あなたは何社知っている？　新興勢が爆速成長 生成AIの旗手25選 （6）あなたも知らねばオワコンに　「ワード」も「パワポ」も生成AIで一変 （7）Slack・Notion・GitHub経営者に聞く　「私のAI活用術」 （</description>
     </item>
+    <item>
+      <title>ASCII.jp：</title>
+      <link>https://ascii.jp/elem/000/004/172/4172575/</link>
+      <pubDate>2023/11/30 17:23</pubDate>
+      <description>2023年11月29日（水）に国立情報学研究所にて第６回 LLM 勉強会を開催しました。 プログラム LLM-jp 状況報告（黒橋） [資料] LLMの安全対策サーベイと日本語データ（理研AIP 鈴木久美） [資料] ビジネスのドメインや最新情報に対応した130億パラメータの日本語事前学習モデルの開発（ストックマーク 近江） [資料] 医療における大規模言語モデルの可能性と進歩（東大 小寺） [資料] コーパス構築WG（河原） [資料] モデル構築WG（鈴木） [資料] 評価・チューニングWG（宮尾） [資料] 安全性WG（関根） [資料] 参加者 現地26名・オンライン150名程度</description>
+    </item>
+    <item>
+      <title>サイバーエージェントが手がける日本語LLM開発　MLエンジニアが語る「Weights &amp;amp; Biases」の活用</title>
+      <link>https://logmi.jp/tech/articles/329733</link>
+      <pubDate>2023/11/30 10:54</pubDate>
+      <description>ChatGPTのトレーニングにはインターネットから取得したデータが利用されていますが、具体的なデータの中身は非公開となっています。「同じ単語を繰り返して」という単純な命令を行う事でChatGPTにトレーニングデータを出力させることに成功したとGoogleの研究者らが発表しました。 Extracting Training Data from ChatGPT https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html [2311.17035] Scalable Extraction of Training Data from (Production) Language Models https://arxiv.org/abs/2311.17035 機械学習モデルのトレーニングに使用したデー</description>
+    </item>
   </channel>
 </rss>
