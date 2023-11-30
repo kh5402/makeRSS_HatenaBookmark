@@ -12480,5 +12480,47 @@
       <pubDate>2023/11/30 17:15</pubDate>
       <description>同様のプロンプトを使って出てきた情報としてはほかにも、研究論文やCNNほかのニュースサイトの記事断片、Wikipediaのページに記された文章、詩の断片、Bitcoinアドレス、ファックス番号、だれかの名前、誕生日、ソーシャルメディアのハンドルネーム、デートサイトからとみられる露骨なコンテンツ、著作権のある研究論文の断片などがありました。 LLMはチャットボットやテキスト画像生成AIなど、テクノロジー界隈をこの1年半ほど賑わせている生成AIの基盤技術です。その深層学習アルゴリズムは、膨大な量のデータに基づいてトレーニングされていますが、その膨大な量のデータセットは一般に、公共のインターネットから収集されることが多いと言われています。しかし、OpenAIのLLMはクローズドソースであるため、どのようなデータセットを用いてトレーニングしてきたのかは、ほとんど知られていませんでした。 研究者は、</description>
     </item>
+    <item>
+      <title>第6回 LLM 勉強会</title>
+      <link>https://llm-jp.nii.ac.jp/llm/2023/11/29/meeting-6.html</link>
+      <pubDate>2023/11/30 15:48</pubDate>
+      <description>2023-11-30toB 向け E ラーニングシステムに ChatGPT を導入して業務効率化を達成した事例について語ってもらいましたはじめにエンジニアの山田です。 弊社のニュースリリースにあるのですが、ジョブメドレーアカデミー(以下、アカデミー)では Azure OpenAI Service の GPT モデルを駆使した新機能「研修作成アシスタント」をリリースしています。 この生成 AI を活用した機能により研修作成担当者の作業時間を 75%軽減し、業務効率化に寄与するものになっています。 今回はこの研修作成アシスタントの開発について、担当した二人に話を聞きました。 インタビュイー紹介岸田さんSES 企業で業務システム開発、オフショア開発をしている会社でブリッジエンジニアという経験を経て、2019 年メドレー入社。 その後ジョブメドレーで開発をリード。現在はアカデミーのプロダクト責任者</description>
+    </item>
+    <item>
+      <title>ChatGPTに同じ言葉を連呼させると、壊れて学習データ(個人情報入り)を吐き出す？Google DeepMind研究者らのチームが論文発表 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/11/30/2365.html</link>
+      <pubDate>2023/11/30 15:52</pubDate>
+      <description>ChatGPTのトレーニングにはインターネットから取得したデータが利用されていますが、具体的なデータの中身は非公開となっています。「同じ単語を繰り返して」という単純な命令を行う事でChatGPTにトレーニングデータを出力させることに成功したとGoogleの研究者らが発表しました。 Extracting Training Data from ChatGPT https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html [2311.17035] Scalable Extraction of Training Data from (Production) Language Models https://arxiv.org/abs/2311.17035 機械学習モデルのトレーニングに使用したデー</description>
+    </item>
+    <item>
+      <title>BASE Advent Calendar 2023はじまるよー！ - BASEプロダクトチームブログ</title>
+      <link>https://devblog.thebase.in/entry/base_advent_calendar_2023</link>
+      <pubDate>2023/11/30 12:10</pubDate>
+      <description>BlogSam Altman returns as CEO, OpenAI has a new initial board Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor. I am returning to OpenAI as CEO. Mira will return to her role as CTO. The new initial board will consist of Bret Taylor (Chair), Larry Summers, and Adam D’Angelo. I have never been more excited about the future. I am ex</description>
+    </item>
+    <item>
+      <title>Animate Anyone</title>
+      <link>https://humanaigc.github.io/animate-anyone/</link>
+      <pubDate>2023/11/30 12:31</pubDate>
+      <description>Windowsの標準お絵描きアプリ「ペイント」に画像生成機能を追加するアップデートが実施されました。画像生成機能はOpenAIが開発した画像生成AI「DALL-E」を用いて実現されており、すでに海外メディアが高品質なイラストの生成例を公開しています。 ペイント コクリエーターを使用して AI アートを生成する - Microsoft サポート https://support.microsoft.com/ja-jp/windows/107a2b3a-62ea-41f5-a638-7bc6e6ea718f Microsoft Paint&amp;#39;s DALL-E 3 integration is rolling out on Windows 11 https://www.windowslatest.com/2023/11/28/microsoft-paints-dall-e-3-integration</description>
+    </item>
+    <item>
+      <title>イーロン・マスクがディズニーなど広告出稿を停止した広告主に「くたばっちまえ」と反撃</title>
+      <link>https://gigazine.net/news/20231130-elon-musk-advertisers-commment/</link>
+      <pubDate>2023/11/30 12:46</pubDate>
+      <description>https://layerx.connpass.com/event/301629/ での発表資料</description>
+    </item>
+    <item>
+      <title>[アップデート]Amazon Lexは、Bedrock の Claudeを利用することで、ヒアリング性能が大幅に向上しました #AWSreInvent | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/assisted-slot-resolution-generative-ai/</link>
+      <pubDate>2023/11/30 07:03</pubDate>
+      <description>大規模言語モデルが言語を話す仕組みを利用して3Dオブジェクトを生成するAI「MeshGPT」が登場しました。 MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers https://nihalsid.github.io/mesh-gpt/ [2311.15475] MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers https://arxiv.org/abs/2311.15475 MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers - YouTube 大規模言語モデルは言語を話せるほか、トレーニング次第ではプログラミング言語を「話す」ことが可能になりま</description>
+    </item>
+    <item>
+      <title>グーグル元CEO、AIの脅威を「核兵器」と同等とする発言 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67637</link>
+      <pubDate>2023/11/29 13:47</pubDate>
+      <description>画家や俳優など創造力が求められる職業までも生成AIに侵食されている。 記事やイラストの盗用も相次ぎ、法制度の不備を指摘する声が高まる。創造性を自動化に対抗する最後のよりどころとしてきた人間の存在意義とは。 ■連載予定　※内容や順番は予告なく変更する場合があります （1）OpenAI、アルトマンCEO電撃復帰　前代未聞の騒動でMicrosoft「実質支配」浮き彫り （2）シリコンバレー最前線　3大トレンドが告げる 生成AI大競争時代 （3）生成AIに職を奪われる、絶望する画家の卵と闘う俳優たち（今回） （4）「生成AIで人の優しさ再現できぬ」失職した米心理相談員の警告 （5）あなたは何社知っている？　新興勢が爆速成長 生成AIの旗手25選 （6）あなたも知らねばオワコンに　「ワード」も「パワポ」も生成AIで一変 （7）Slack・Notion・GitHub経営者に聞く　「私のAI活用術」 （</description>
+    </item>
   </channel>
 </rss>
