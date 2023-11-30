@@ -12534,5 +12534,17 @@
       <pubDate>2023/11/30 10:54</pubDate>
       <description>ChatGPTのトレーニングにはインターネットから取得したデータが利用されていますが、具体的なデータの中身は非公開となっています。「同じ単語を繰り返して」という単純な命令を行う事でChatGPTにトレーニングデータを出力させることに成功したとGoogleの研究者らが発表しました。 Extracting Training Data from ChatGPT https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html [2311.17035] Scalable Extraction of Training Data from (Production) Language Models https://arxiv.org/abs/2311.17035 機械学習モデルのトレーニングに使用したデー</description>
     </item>
+    <item>
+      <title>【AI動画生成】Animate Anyone 論文解説</title>
+      <link>https://zenn.dev/mattyamonaca/articles/af76ddfe140714</link>
+      <pubDate>2023/11/30 20:40</pubDate>
+      <description>Home VOCALOID・歌声合成・音声合成 AIで自分のしゃべり声をリアルタイムに別人の声に変換させる無料のサービス、CoeFontボイスチェンジャーの威力 すでにご存じの方、使っているという方も少なくないと思いますが、自分のしゃべる声をAIでリアルタイムにまったく違う人の声に変換するシステム、CoeFont ボイスチェンジャーが大きな話題になっています。これは株式会社CoeFontが提供しているAIによるボイスチェンジャーで、マイクに向かってしゃべれば、非常にリアルな声で別の人に声に置き換わるというもので、男性の声を入力しても、まったく違和感なく、リアルな女性の声にすることが可能です。あの、ひろゆきさんの声を含め、現在10人の声に変換が可能で、それを無料で使えてしまうというのが大きなポイント。 今後は人気キャラクターや著名人を含む1万種類以上の声への変換も可能になるとのことで、まさに</description>
+    </item>
+    <item>
+      <title>Generative AI Powered Assistant - Amazon Q - AWS</title>
+      <link>https://aws.amazon.com/q/</link>
+      <pubDate>2023/11/29 03:48</pubDate>
+      <description>Web広告の代理店のLes株式会社が、AIグラビアアイドル「藤原れい」の写真集「I’m AI: AI and Elegance: A Symbiotic Journey」を発売しています。同社はサイバーエージェント出身の2名による企業とのこと。「藤原れい」は、当初は “ある理由” からAIで制作されたグラビアアイドルであることを隠して展開されていました。 Instagramで活動を始めた「藤原れい」「藤原れい」は、2023年5月にInstagramにアカウントを開設して初登場しました。記事の執筆時点で、フォロワーは2.9万人を超えています。Instagramでの最初の投稿は英文で行われ、続いて日本語での投稿が開始されました。 初めはAIモデルであることを隠しており、「藤原れい」は実在の人物であるかのように振る舞いました。つまり、フォロワーや閲覧者のほとんどはAIモデルであることを知らなかっ</description>
+    </item>
   </channel>
 </rss>
