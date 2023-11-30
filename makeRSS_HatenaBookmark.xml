@@ -12474,5 +12474,11 @@
       <pubDate>2023/11/29 13:48</pubDate>
       <description>AWSの知識を学習済みの「Amazon Q」は、AWSのシステム構築にどう役立つのか？ AWS re:Invent 2023 Amazon Web Services（AWS）が開催中のイベント「AWS re:Invent 2023」の基調講演で発表された新サービスの中でも、ビジネス向けの生成AI「Amazon Q」は最大の目玉でした。 記事「［速報］AWS、Copilot対抗となる「Amazon Q」発表。生成AIによるシステム開発支援や業務支援など、多様なAIサービスを提供。AWS re:Invent 2023」で紹介したように、Amazon QはAWS上でのシステム開発支援やコーディング支援だけでなく、業務知識を学習させたうえでの業務支援やデータ分析支援など、さまざまな機能を備えています。 特に、同社CEO Adam Selipsky氏が「Amazon Qに17年に及ぶAWSの知識を学</description>
     </item>
+    <item>
+      <title>toB 向け E ラーニングシステムに ChatGPT を導入して業務効率化を達成した事例について語ってもらいました | MEDLEY Developer Portal</title>
+      <link>https://developer.medley.jp/entry/2023/11/30/211050/</link>
+      <pubDate>2023/11/30 17:15</pubDate>
+      <description>同様のプロンプトを使って出てきた情報としてはほかにも、研究論文やCNNほかのニュースサイトの記事断片、Wikipediaのページに記された文章、詩の断片、Bitcoinアドレス、ファックス番号、だれかの名前、誕生日、ソーシャルメディアのハンドルネーム、デートサイトからとみられる露骨なコンテンツ、著作権のある研究論文の断片などがありました。 LLMはチャットボットやテキスト画像生成AIなど、テクノロジー界隈をこの1年半ほど賑わせている生成AIの基盤技術です。その深層学習アルゴリズムは、膨大な量のデータに基づいてトレーニングされていますが、その膨大な量のデータセットは一般に、公共のインターネットから収集されることが多いと言われています。しかし、OpenAIのLLMはクローズドソースであるため、どのようなデータセットを用いてトレーニングしてきたのかは、ほとんど知られていませんでした。 研究者は、</description>
+    </item>
   </channel>
 </rss>
