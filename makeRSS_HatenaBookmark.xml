@@ -12600,5 +12600,17 @@
       <pubDate>2023/12/01 03:55</pubDate>
       <description>はじめに UKIです。久しぶりの記事執筆となります。 本記事は、仮想通貨botter Advent Calendar 2023の1日目の記事となります。 本記事の目的 仮想通貨botterと言っても様々なスタイルがあります。 筆者のbotスタイルは、「主に流動性の高いCEXにおいて、価格の上下を予測してトレードする」というオーソドックスなスタイルです。価格予測には単純なルールベースを使うこともありますが、最近ではガッツリ機械学習を用いてこれを予測することが多くなってきています。 さて本題に入りますが、皆さんは機械学習で価格予測モデルを構築するとき、「回帰問題」とするか「分類問題」とするか悩んだことはないでしょうか。 本記事では、トレーディングの効用を最大化するために、機械学習の問題設定をどのようにすべきか論じます。 参考書籍・参考文献 評価指標入門〜データサイエンスとビジネスをつなぐ架け橋</description>
     </item>
+    <item>
+      <title>あなたは何社知っている？ 世界の「生成AIの旗手」25選、新興勢が躍進</title>
+      <link>https://business.nikkei.com/atcl/gen/19/00537/112200048/</link>
+      <pubDate>2023/11/29 07:26</pubDate>
+      <description>2022年11月30日、アメリカのベンチャー企業オープンAIは、生成AI、ChatGPTを公開しました。 質問を入力すると、まるで人が書いたかのような自然な文章で回答を作成できたり、プログラミングコードを短時間のうちに作成できたりすることから、世界の企業や教育現場、医療や官公庁などで利用が急速に広がりました。 また、アメリカのIT大手のグーグルやアマゾン、旧フェイスブックのメタなど、さまざまな企業も生成AIのサービスを展開し始めています。 アメリカの調査会社ガートナーは、2026年までに世界で80％を超える企業が、生成AIのソフトなどを導入するとの予測を、10月に発表しています。 一方で、生成AIは、雇用を脅かすリスクもあるほか、誤った情報が拡散したり、詐欺に使われたりするといった、マイナス面も指摘されています。 こうしたマイナス面を最小限に抑えようと、各国政府が規制を検討していて、どのよ</description>
+    </item>
+    <item>
+      <title>Googleが「データセンター機器の耐用年数」を見直した“なるほどの理由”</title>
+      <link>https://techtarget.itmedia.co.jp/tt/news/2311/28/news08.html</link>
+      <pubDate>2023/11/28 14:17</pubDate>
+      <description>Your business Amazon Q can be tailored to your business by connecting it to company data, information, and systems, made simple with more than 40 built-in connectors. Business users—like marketers, project and program managers, and sales representatives, among others—can have tailored conversations, solve problems, generate content, take actions, and more. Amazon Q is aware of which systems they c</description>
+    </item>
   </channel>
 </rss>
