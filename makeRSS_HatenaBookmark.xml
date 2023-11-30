@@ -12327,5 +12327,38 @@
       <pubDate>2023/11/29 09:55</pubDate>
       <description>LINEヤフーは、「Yahoo!ニュース」のコメント欄にあるコメントへのリアクションボタンを12月上旬から刷新する。親指の上下で表現した「そう思う」「そう思わない」の2種類から、顔アイコンで表現した「共感した」「なるほど」「うーん」の3種類にリニューアルし、「多様な意見を表現できるより健全なコメント欄を目指す」としている。 コメント欄は2007年から提供してきたが、「そう思う」「そう思わない」のボタン、賛否を問う形式のため「ユーザーの感情が二極化され極端に捉えられてしまうという課題があった」という。 課題を解決すべく、複数のリアクションボタン候補に対してユーザー調査を実施したところ、「共感」や「学び」を表現するボタンが支持されたことなどから、ボタンの刷新を決めた。 今後もユーザーの反響などを踏まえ、ボタンの改善やコメントの表示順への活用を検討していくという。 関連記事 ヤフコメ、上位に多様</description>
     </item>
+    <item>
+      <title>見えてきたプログラマー不要時代　GitHubが生成AI - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC202KJ0Q3A121C2000000/</link>
+      <pubDate>2023/11/30 06:55</pubDate>
+      <description>Learn methods like sentence-window retrieval and auto-merging retrieval, improving your RAG pipeline&amp;#39;s performance beyond the baseline.Learn evaluation best practices to streamline your process, and iteratively build a robust system.Dive into the RAG triad for evaluating the relevance and truthfulness of an LLM&amp;#39;s response:Context Relevance, Groundedness, and Answer Relevance. Retrieval Augmented G</description>
+    </item>
+    <item>
+      <title>顧客サポートシステムに関する全ユーザーの情報が漏えいか　Okta、10月のネットワーク侵入で</title>
+      <link>https://www.itmedia.co.jp/news/articles/2311/29/news209.html</link>
+      <pubDate>2023/11/30 00:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e21efcc366a8090e47b35dc3577e0e7100382549/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1550%2F609%2Fcont7.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AmazonがAWS向けのプロセッサ「Graviton4」とAIトレーニング用チップ「Trainium2」を発表</title>
+      <link>https://gigazine.net/news/20231129-amazon-graviton4-trainium2/</link>
+      <pubDate>2023/11/29 20:31</pubDate>
+      <description>手塚治虫さんの代表作、生命と医療をテーマにした漫画「ブラック・ジャック」。 その新作が、生成AIを使って、生み出された。 人間とAIの、真剣勝負の「対話」によって、新たに作り出されたブラック・ジャック。 AIは、どこまで“漫画の神様”の創造性に近づくことができたのか。 その挑戦に、およそ半年にわたって密着した。 （科学・文化部 記者 島田尚朗）</description>
+    </item>
+    <item>
+      <title>GPT-4を使えば自然言語の入力でコードが出来上がるのでは？　LLMを活用した、「KARTE」を拡張する“JavaScriptコード生成機能”</title>
+      <link>https://logmi.jp/tech/articles/329726</link>
+      <pubDate>2023/11/29 09:45</pubDate>
+      <description>ITジャーナリスト／Publickeyブロガー。IT系の雑誌編集者、オンラインメディア発行人を経て独立。2009年にPublickeyを開始しました。 Amazon Web Services（AWS）は、ラスベガスで開催中のイベント「AWS re:Invent 2023」の基調講演で、AIのトレーニングに最適化した独自プロセッサ「AWS Trainium2」を発表しました。 Trainium2は、最大数兆個のパラメータを持つ基盤モデルおよび大規模言語モデルのトレーニング用に設計されています。 2020年に発表された第一世代のTrainiumチップと比較して、最大4倍のトレーニング性能と3倍のメモリ容量を実現し、エネルギー効率（性能/ワット）を最大2倍まで改善するように設計されています。 Trainium2は、単一のインスタンスに16個のTrainiumチップを含むAmazon EC2 Tr</description>
+    </item>
+    <item>
+      <title>[速報] Amazon Aurora PostgreSQL, Amazon DynamoDB, Amazon RDS for MySQL で Amazon Redshift とのゼロ ETL が発表されました (Preview) #AWSreInvent | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/zero-etl-integrations-amazon-redshift-reinvent/</link>
+      <pubDate>2023/11/29 05:01</pubDate>
+      <description>＜あのチャットGPTを開発したシリコンバレー企業内部の権力闘争が浮き彫りにした、最先端技術のイデオロギー対立＞ ちょうど1年前に対話型AI（人工知能）のチャットGPTを発表して、世界をあっと言わせた米スタートアップのオープンAIが、今度は組織内の権力闘争で世界を驚かせた。 オープンAIを監督する非営利団体の理事会（取締役会に相当）が突然、サム・アルトマンCEOを解任すると発表したのは、11月17日のこと。それに抗議するように共同創業者のグレッグ・ブロックマン社長が退社を表明。ピンチヒッターとしてミラ・ムラティCTO（最高技術責任者）の暫定CEO昇格が発表されたが、2日後にゲーム実況配信ツイッチの共同創業者エメット・シアが「正式な暫定CEO」に就任。オープンAIの最大の投資家であるマイクロソフトがアルトマンらの受け入れを提案する一方で、社員の約9割がアルトマンの復帰を要求──。 そんなすった</description>
+    </item>
   </channel>
 </rss>
