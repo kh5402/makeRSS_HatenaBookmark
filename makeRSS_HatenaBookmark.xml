@@ -12777,5 +12777,26 @@
       <pubDate>2023/11/30 00:45</pubDate>
       <description>はじめに 11月も終わり、今年も残るところあと一か月となりました。 今年ももう終わるから今年中に成果を上げとけ！と言わんばかりに最近は新技術の登場が多いです。 今回取り上げるのも11月最後の大砲として出てきた新技術、その名もAnimate Anyone Animate Anyoneとはなんぞや 文字で説明するより見たほうが早い 凄くざっくり説明すると、一枚の絵と動きをボーン動画として入力すると、入力した絵がボーン動画と同じ動きをしてくれるよ！というもの。 似たようなものは今までもReferenceOnly × openpose × animatediffとかで出来ましたが、特筆すべきはその精度。 動画生成の大敵であるちらつきは一切なく、入力画像にかなり忠実な動画を生成しています。 さてこの技術、動画生成にずっと注目している自分としてはいますぐにでも弄り倒したいのですが、残念ながらコードとモ</description>
     </item>
+    <item>
+      <title>2023 年の Bard 活用方法トップ 10を発表</title>
+      <link>https://japan.googleblog.com/2023/12/2023-bard-10.html</link>
+      <pubDate>2023/12/01 13:08</pubDate>
+      <description>元となる画像データと「動作」のデータを入力することで元の画像を動作データの通りにアニメーションさせる技術の論文がAlibabaの研究チームから発表されました。「Animate Anyone」と名付けられたこの技術を使用することで、ちらつきの少ない高品質なアニメーションが生成可能です。 Animate Anyone https://humanaigc.github.io/animate-anyone/ 下記のムービーで生成されるアニメーションの品質を確認可能です。 Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation - YouTube 今回登場した「Animate Anyone」は、下図左端のような1枚の「元画像」を元に、中央の「動作」データを入力することで右</description>
+    </item>
+    <item>
+      <title>月間はてなブックマーク数ランキング（2023年11月） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/12/01/124044</link>
+      <pubDate>2023/12/01 12:41</pubDate>
+      <description>やなぎや・とものり/1972年12月生まれ。1998年からITライターとして活動しており、ガジェットからエンタープライズ向けのプロダクトまで幅広い領域で執筆する。2018年から、NPO法人デジタルリテラシー向上機構（DLIS）を設立し、ネット詐欺の被害をなくすために活動している。 https://prof.yanagiya.biz/ https://peraichi.com/landing_pages/view/dlis/ 仕事を256倍速くするツールを探せ！ ITの世界は日進月歩。一昔前ならとても無理だったことや、人間がやらなくてはならなかったことをどんどんコンピュータに任せられるようになっています。連載「仕事を256倍速くするツールを探せ！」では、最近出てきたサービスの中から、特にビジネスや勉強に役立つサービスやソフトウエア、ハードウエアをピックアップ。ライターが実際に使用し、使い方や</description>
+    </item>
+    <item>
+      <title>社内に巣食う「粗探し大好きマン」への対処について</title>
+      <link>https://blog.tinect.jp/?p=84398</link>
+      <pubDate>2023/11/30 08:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fda8afc4b5c494dcf142ad718b0c59ab0ea547d3/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1550%2F972%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
