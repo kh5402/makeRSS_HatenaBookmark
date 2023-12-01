@@ -12618,5 +12618,35 @@
       <pubDate>2023/11/30 01:24</pubDate>
       <description>ChatGPTのトレーニングにはインターネットから取得したデータが利用されていますが、具体的なデータの中身は非公開となっています。「同じ単語を繰り返して」という単純な命令を行う事でChatGPTにトレーニングデータを出力させることに成功したとGoogleの研究者らが発表しました。 Extracting Training Data from ChatGPT https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html [2311.17035] Scalable Extraction of Training Data from (Production) Language Models https://arxiv.org/abs/2311.17035 機械学習モデルのトレーニングに使用したデー</description>
     </item>
+    <item>
+      <title>生成AIで初の包括ルール、G7で合意へ　利用者にも「責務」求める：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRCZ74G3RCZULFA01G.html</link>
+      <pubDate>2023/12/01 08:11</pubDate>
+      <description>Amazon Connect + GPT-4 Turboで、予約内容を復唱後、顧客の色々な返答を正しくヒアリングできるか検証 – Amazon Connect アドベントカレンダー 2023 Amazon Connect アドベントカレンダー 2023、1日目の記事です！ クラスメソッドとギークフィードさん、スカイアーチHRソリューションズ さんの有志が募ってチャレンジしている企画になります。 (アドベントカレンダーのカレンダー一覧はこちら↓) はじめに Amazon Connect + GPT-4 Turbo JSONモードで、予約内容を復唱して確認後、顧客の色々な返答を正しくヒアリングできるか検証しました。 前回、Amazon Connect + GPT-4 Turbo JSONモードで、1回の発話から下記の５つの予約情報をヒアリングするチャットボットを構築しました。 名前 電話番号</description>
+    </item>
+    <item>
+      <title>Millions of new materials discovered with deep learning</title>
+      <link>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</link>
+      <pubDate>2023/11/30 07:50</pubDate>
+      <description>BASE Advent Calendar 2023はじまるよー！ こんにちは！BASE product blog編集部です。みなさまそろそろ年の瀬ですが、いかがお過ごしでしょうか。 今年も恒例のBASEメンバーによるアドベントカレンダーを開催します！ 毎年公開しているアドベントカレンダーも今年で6回目を迎えます。 過去の様子 2022年のアドベントカレンダー 2021年のアドベントカレンダー 2020年のアドベントカレンダー 2019年のアドベントカレンダー 2018年のアドベントカレンダー 今年も毎日記事を公開する予定です。1日に2記事リリースされる日もあります！ 下記の記事カレンダーも随時更新していきますので、ぜひお楽しみに！ 記事カレンダー 日付 テーマ、タイトル 12/1 組織 12/1 CSS 12/2 インシデント対応 12/3 ブログ 12/4 PHP 12/5 Notion</description>
+    </item>
+    <item>
+      <title>【AWS】AWS re:Invent 2023 初日のアップデートをまとめてみた - Qiita</title>
+      <link>https://qiita.com/ymd65536/items/11020a666358f76fe035</link>
+      <pubDate>2023/11/28 05:07</pubDate>
+      <description>AWSの知識を学習済みの「Amazon Q」は、AWSのシステム構築にどう役立つのか？ AWS re:Invent 2023 Amazon Web Services（AWS）が開催中のイベント「AWS re:Invent 2023」の基調講演で発表された新サービスの中でも、ビジネス向けの生成AI「Amazon Q」は最大の目玉でした。 記事「［速報］AWS、Copilot対抗となる「Amazon Q」発表。生成AIによるシステム開発支援や業務支援など、多様なAIサービスを提供。AWS re:Invent 2023」で紹介したように、Amazon QはAWS上でのシステム開発支援やコーディング支援だけでなく、業務知識を学習させたうえでの業務支援やデータ分析支援など、さまざまな機能を備えています。 特に、同社CEO Adam Selipsky氏が「Amazon Qに17年に及ぶAWSの知識を学</description>
+    </item>
+    <item>
+      <title>生成AI問題への言及が反響、人気イラストレーター・Ixyに聞く真意「今後への進化に懸念を抱いている」</title>
+      <link>https://realsound.jp/book/2023/11/post-1500172.html</link>
+      <pubDate>2023/11/28 15:03</pubDate>
+      <description>NVIDIAの2024年第3四半期における収益が前年比206％増となり、過去最高を記録しました。生成AIの普及により機械学習に求められるGPUの需要が格段に増し、データセンターを運営する企業との取引が好調であるとの分析が行われています。 NVIDIA Announces Financial Results for Third Quarter Fiscal 2024 | NVIDIA Newsroom https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2024 Nvidia sold half a million H100 AI GPUs in Q3 thanks to Meta, Facebook — lead times stretch up to</description>
+    </item>
+    <item>
+      <title>【入門】ChatGPTとは何かをわかりやすく解説、GPTのバージョン違いで見る進化</title>
+      <link>https://www.sbbit.jp/article/cont1/117201</link>
+      <pubDate>2023/11/27 16:03</pubDate>
+      <description>日本マイクロソフト株式会社 執行役員 常務 コンシューマー事業本部長 兼 アジア ゲームマーケティング リード 竹内 洋平 本内容は 11 月 21 日に実施した記者向け説明会の内容をもとに構成しています。 私は 18 年、日本マイクロソフトに在籍していますが、今年に入ってからのテクノロジの進化には過去に経験がないほどの勢いを感じています。OpenAI との戦略的パートナーシップをはじめ、Bing Chat を皮切りにマイクロソフト製品への生成 AI 実装の発表をしてきました。当社のみならず多くのパートナー企業様から AI を活用したアプリケーションやソフトウェア、ソリューションも続々と発表されています。今まで企業のお客様向けに AI や Copilot を紹介する機会は度々ありましたが、本日は個人のお客様向けの Copilot および、Copilot in Windows のエクスペリエ</description>
+    </item>
   </channel>
 </rss>
