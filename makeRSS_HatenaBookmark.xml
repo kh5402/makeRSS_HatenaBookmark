@@ -12705,5 +12705,35 @@
       <pubDate>2023/12/01 08:07</pubDate>
       <description>こちらはエムスリー Advent Calendar 2023 1日目の記事です。 Overview エムスリーエンジニアリンググループ AI・機械学習チームでソフトウェアエンジニアをしている中村(po3rin) です。趣味は麻雀でフリー雀荘で毎年200半荘以上打ちます。好きな麻雀プロは園田賢さんです。 麻雀を始めるときに一番の障壁になるのは点数計算ではないでしょうか？ 特に符計算が初心者の関門のようです。一方私のような初中級者でも突然のレアな点数申告にまごつくことがあります。 そこで、今回はその人に合った麻雀の点数計算問題(主に符計算が焦点となる問題)を生成して、自分で点数計算&amp;amp;点数申告の練習をする方法を探求したのでその紹介をします。麻雀用語が少しだけ登場するので、対象読者は麻雀を少しでもかじったことのあるエンジニアの方です。 Overview 麻雀の点数計算の難しさ 現状の点数計算の練習</description>
     </item>
+    <item>
+      <title>Reddit で振り返る今年の英語圏 Haskell 界隈の話題 - Qiita</title>
+      <link>https://qiita.com/lesguillemets/items/cab7652cd243896c2b3e</link>
+      <pubDate>2023/12/01 13:11</pubDate>
+      <description>やなぎや・とものり/1972年12月生まれ。1998年からITライターとして活動しており、ガジェットからエンタープライズ向けのプロダクトまで幅広い領域で執筆する。2018年から、NPO法人デジタルリテラシー向上機構（DLIS）を設立し、ネット詐欺の被害をなくすために活動している。 https://prof.yanagiya.biz/ https://peraichi.com/landing_pages/view/dlis/ 仕事を256倍速くするツールを探せ！ ITの世界は日進月歩。一昔前ならとても無理だったことや、人間がやらなくてはならなかったことをどんどんコンピュータに任せられるようになっています。連載「仕事を256倍速くするツールを探せ！」では、最近出てきたサービスの中から、特にビジネスや勉強に役立つサービスやソフトウエア、ハードウエアをピックアップ。ライターが実際に使用し、使い方や</description>
+    </item>
+    <item>
+      <title>機械学習ソフトウェアにおけるテスト手法</title>
+      <link>https://speakerdeck.com/hitsuji1991/ml-software-test-metamorphic</link>
+      <pubDate>2023/12/01 08:25</pubDate>
+      <description>画像生成AIのStable Diffusionを開発するイギリスのAIスタートアップ・Stability AIが、財務状況を巡って投資家からの圧力が増す中で売却を検討していると報じられています。 Stability AI Explores Sale as Investor Urges CEO to Resign - Bloomberg https://www.bloomberg.com/news/articles/2023-11-29/stability-ai-has-explored-sale-as-investor-urges-ceo-to-resign Report: Stability AI Positioning Itself for Acquisition https://www.pymnts.com/acquisitions/2023/report-stability-ai-</description>
+    </item>
+    <item>
+      <title>沈黙するAI、沈黙しない生命 | DISTANCE.media</title>
+      <link>https://distance.media/article/20231004000071/</link>
+      <pubDate>2023/12/01 07:46</pubDate>
+      <description>主要7カ国（G7）が取り組む生成AI（人工知能）の国際ルール作り「広島AIプロセス」の最終合意案が判明した。開発者から利用者まで全ての関係者が守るべき責務を示す内容で、AIに特化した世界初の包括的な国際ルールとなる。利用者にもAIの脆弱（ぜいじゃく）性について検知や情報共有を求めるほか、専門機関を通じてAI生成コンテンツと見分ける「電子透かし」などの技術開発を進めることも盛り込んだ。 1日のG7デジタル・技術相会合で合意する。国際ルールは、開発者から利用者まですべてのAI関係者が守るべき責務の概要を示した「指針」と、開発者向けに責務をより具体化した「規範」から成る。 指針には「市場投入前に適切な措置を講じる」ことなどAI開発者に求める項目に加え、「AI固有のリスクに関するデジタルリテラシーの向上」や「AIの脆弱性の検知に協力し、情報共有する」ことなど、利用者に求める内容も盛り込んだ。開発者</description>
+    </item>
+    <item>
+      <title>インターネット上の最新情報を収集して最近の話題に対応できる大規模言語モデル「pplx-7b-online」＆「pplx-70b-online」が公開されたので性能を確かめてみた</title>
+      <link>https://gigazine.net/news/20231130-perplexity-pplx-online-llm/</link>
+      <pubDate>2023/11/30 20:27</pubDate>
+      <description>「Copilot Workspace」発表、人間がコードを書くことなく、仕様作成からコード作成、デバッグまで／Docker Desktop、Appleシリコン上でx86-64バイナリをほぼネイティブな速度で実行、ほか。2023年11月の人気記事 つい先日まで長袖Tシャツ1枚で過ごしていたような気がするのですが、気がつけばダウンジャケットを着て外出するような冬の気温になってしまったようです。読者の皆様はいかがお過ごしでしょうか。 寒いのは苦手なのですが、今年の冬は暖冬らしいので少しほっとしています。 さて、11月が終わりましたので、人気記事のランキングを紹介していきましょう。 1位から3位 1位　GitHub、Copilotの将来像となる「Copilot Workspace」発表。人間がコードを書くことなく、Copilotが仕様作成からコード作成、デバッグまで実行。GitHub Univer</description>
+    </item>
+    <item>
+      <title>OpenGPTs への長期記憶の追加｜npaka</title>
+      <link>https://note.com/npaka/n/n8ce72429bf90</link>
+      <pubDate>2023/11/30 18:00</pubDate>
+      <description>はじめに UKIです。久しぶりの記事執筆となります。 本記事は、仮想通貨botter Advent Calendar 2023の1日目の記事となります。 本記事の目的 仮想通貨botterと言っても様々なスタイルがあります。 筆者のbotスタイルは、「主に流動性の高いCEXにおいて、価格の上下を予測してトレードする」というオーソドックスなスタイルです。価格予測には単純なルールベースを使うこともありますが、最近ではガッツリ機械学習を用いてこれを予測することが多くなってきています。 さて本題に入りますが、皆さんは機械学習で価格予測モデルを構築するとき、「回帰問題」とするか「分類問題」とするか悩んだことはないでしょうか。 本記事では、トレーディングの効用を最大化するために、機械学習の問題設定をどのようにすべきか論じます。 参考書籍・参考文献 評価指標入門〜データサイエンスとビジネスをつなぐ架け橋</description>
+    </item>
   </channel>
 </rss>
