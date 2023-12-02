@@ -12915,5 +12915,11 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>明治大学理工学部 特別講義: 2023年のAIの大事な話 - ChatGPT を知ろう -</title>
+      <link>https://speakerdeck.com/dahatake/ming-zhi-da-xue-li-gong-xue-bu-te-bie-jiang-yi-2023nian-noainoda-shi-nahua-chatgpt-wozhi-rou</link>
+      <pubDate>2023/12/01 07:19</pubDate>
+      <description>はじめに 「ChatGPT/LangChainによるチャットシステム構築」 という本が素晴らしかったので、ちゃんと身につけるために Python だけじゃなくて Node.js でも動かしてみました。同じことをやろうとした人のために、ここにそのときの記録を残します。特に callbacksやmemoryについて、詳細に記載しようと思います。 書籍の説明につながるようなことはできる限り書きません！めっちゃ良書なので、ご興味持っていただけた方は購入してもらえますと 🙏 5章まではPython固有のToolを利用しており、6章の中身は7章とかなり近いところがあるので、7章のプログラムだけここに記載します。LangChainの学習に注力したいので、Serverelss Frameworkに関連するコードは省略しました。また、Momentoや @slack/bolt に関する説明はしません。 プロ</description>
+    </item>
   </channel>
 </rss>
