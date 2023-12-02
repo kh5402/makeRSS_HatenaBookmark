@@ -12876,5 +12876,11 @@
       <pubDate>2023/11/30 06:43</pubDate>
       <description>やなぎや・とものり/1972年12月生まれ。1998年からITライターとして活動しており、ガジェットからエンタープライズ向けのプロダクトまで幅広い領域で執筆する。2018年から、NPO法人デジタルリテラシー向上機構（DLIS）を設立し、ネット詐欺の被害をなくすために活動している。 https://prof.yanagiya.biz/ https://peraichi.com/landing_pages/view/dlis/ 仕事を256倍速くするツールを探せ！ ITの世界は日進月歩。一昔前ならとても無理だったことや、人間がやらなくてはならなかったことをどんどんコンピュータに任せられるようになっています。連載「仕事を256倍速くするツールを探せ！」では、最近出てきたサービスの中から、特にビジネスや勉強に役立つサービスやソフトウエア、ハードウエアをピックアップ。ライターが実際に使用し、使い方や</description>
     </item>
+    <item>
+      <title>指示したUIをAIがTailwindベースで実装してくれるv0が凄い</title>
+      <link>https://mosya.dev/blog/v0</link>
+      <pubDate>2023/12/02 12:33</pubDate>
+      <description>文章生成AIの研究開発が急速に進んでおり、無料で使える大規模言語モデル(LLM)も数多く公開されています。しかし、LLMの動作を実際に試すには高性能なハードウェアや複雑な環境構築が必要なことが多いため、最初から諦めている人も多いはず。無料で公開されている「LM Studio」を使えば、一般的な性能のPCでもコマンド不要で気軽にLLMの動作させられるとのことなので、実際にLM Studioを使ってLLMを使う手順を確かめてみました。 LM Studio - Discover, download, and run local LLMs https://lmstudio.ai/ ◆LM Studioのインストール LM StudioはWindows版とmacOS版が存在するほか、Linux向けのベータ版も存在します。Windowsで使う場合の必要条件は「AVX2に対応したCPU」のみ。近年販売さ</description>
+    </item>
   </channel>
 </rss>
