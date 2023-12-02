@@ -12837,5 +12837,11 @@
       <pubDate>2023/12/01 12:31</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>速報！ChatGPTに「引用して質問」機能が実装されていた！</title>
+      <link>https://ascii.jp/elem/000/004/172/4172823/</link>
+      <pubDate>2023/12/01 13:45</pubDate>
+      <description>This post is the second part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In this</description>
+    </item>
   </channel>
 </rss>
