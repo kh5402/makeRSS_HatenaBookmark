@@ -12813,5 +12813,23 @@
       <pubDate>2023/12/01 20:55</pubDate>
       <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIは一連のお家騒動のあと、しばらく沈黙していましたが、水曜日にブログを更新し、アルトマン氏がCEOに復帰することを正式に発表しました。新体制となった取締役会には、マイクロソフトが議決権のないオブザーバーとして加わることも明らかにしています。 OpenAIの取締役会は、アルトマン氏解任を支持した4人のうち3人が去り、現在はブレット・テイラー会長、ラリー・サマーズ氏、そして前取締役会から唯一議席を維持したアダム・ダンジェロ氏という構成になっています。ここに、マイクロソフトがオブザーバーとして加わります。</description>
     </item>
+    <item>
+      <title>「ChatGPT/LangChainによるチャットシステム構築 」という書籍が素晴らしかったのでNode.jsでも書いてみた - selmertsxの素振り日記</title>
+      <link>https://selmertsx.hatenablog.com/entry/2023/12/01/%E3%80%8CChatGPT/LangChain%E3%81%AB%E3%82%88%E3%82%8B%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89_%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E6%9B%B8%E7%B1%8D</link>
+      <pubDate>2023/12/01 21:40</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>アルトマンCEO正式復帰、OpenAI新取締役会にはマイクロソフトがオブザーバーで加わる | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/01/2374.html</link>
+      <pubDate>2023/12/01 15:37</pubDate>
+      <description>メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。</description>
+    </item>
+    <item>
+      <title>Accelerating Generative AI with PyTorch II: GPT, Fast</title>
+      <link>https://pytorch.org/blog/accelerating-generative-ai-2/</link>
+      <pubDate>2023/12/01 13:29</pubDate>
+      <description>元となる画像データと「動作」のデータを入力することで元の画像を動作データの通りにアニメーションさせる技術の論文がAlibabaの研究チームから発表されました。「Animate Anyone」と名付けられたこの技術を使用することで、ちらつきの少ない高品質なアニメーションが生成可能です。 Animate Anyone https://humanaigc.github.io/animate-anyone/ 下記のムービーで生成されるアニメーションの品質を確認可能です。 Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation - YouTube 今回登場した「Animate Anyone」は、下図左端のような1枚の「元画像」を元に、中央の「動作」データを入力することで右</description>
+    </item>
   </channel>
 </rss>
