@@ -12843,5 +12843,11 @@
       <pubDate>2023/12/01 13:45</pubDate>
       <description>This post is the second part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In this</description>
     </item>
+    <item>
+      <title>イスラエル軍のガザ攻撃で市民死者の激増の背景にあるＡＩ標的生成システム：イスラエルメディア調査報道（川上泰徳） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/12fde146311fa7dc0e56c37a607d34096a8badbe</link>
+      <pubDate>2023/12/02 10:25</pubDate>
+      <description>LangChain Advent Calendar 2023 の 2 日目の記事です。 LangChain Expression Language (LCEL) とは LangChain Expression Language (LCEL) は、LangChain でのコードの新しい記述方法です。 公式ドキュメント: https://python.langchain.com/docs/expression_language/ LCEL ではプロンプトや LLM を | で繋げて書き、処理の連鎖 (Chain) を実装します。 2023 年 10 月後半頃から、LangChain では LCEL を使う実装が標準的となっています。 この記事では LCEL の基本的な使い方を紹介していきます。</description>
+    </item>
   </channel>
 </rss>
