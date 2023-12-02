@@ -12849,5 +12849,32 @@
       <pubDate>2023/12/02 10:25</pubDate>
       <description>LangChain Advent Calendar 2023 の 2 日目の記事です。 LangChain Expression Language (LCEL) とは LangChain Expression Language (LCEL) は、LangChain でのコードの新しい記述方法です。 公式ドキュメント: https://python.langchain.com/docs/expression_language/ LCEL ではプロンプトや LLM を | で繋げて書き、処理の連鎖 (Chain) を実装します。 2023 年 10 月後半頃から、LangChain では LCEL を使う実装が標準的となっています。 この記事では LCEL の基本的な使い方を紹介していきます。</description>
     </item>
+    <item>
+      <title>GPU非搭載ノートPCでもコマンド不要で各種言語モデルの性能を試せる実行環境「LM Studio」レビュー</title>
+      <link>https://gigazine.net/news/20231202-lm-studio-llm/</link>
+      <pubDate>2023/12/02 10:03</pubDate>
+      <description>イスラエルの和平派インターネットメディア「+972マガジン」は調査報道の記事を公開し、イスラエル軍によるガザ空爆・攻撃で、民間人の犠牲を減らすための攻撃の規制が大幅に緩和されたうえに、人工頭脳（AI）システムの使用で自動的に攻撃目標を設定されていることが甚大な民間人の犠牲につながっていることを指摘している。イスラエルの現職または元職の軍情報関係者に取材したとする報道で、攻撃開始から１か月半で子供６０００人を含む１５０００人のガザ市民の死者を出したイスラエル軍の大規模攻撃の背景を伝えている。 「+972マガジン」のサイト上で１１月３０日に公開されたユバル・アブラハム記者の「大量暗殺工場：イスラエル軍による計算されたガザ空爆の内側」と題する調査報道で、イスラエルの市民ジャーナリズムメディア「ローカルコール」と共同で行ったという。イスラエルの作戦に関与してきた現職または元職の軍情報部や空軍関係者</description>
+    </item>
+    <item>
+      <title>LangChain の新記法「LangChain Expression Language (LCEL)」入門</title>
+      <link>https://zenn.dev/os1ma/articles/acd3472c3a6755</link>
+      <pubDate>2023/12/02 10:29</pubDate>
+      <description>はじめに 「ChatGPT/LangChainによるチャットシステム構築」 という本が素晴らしかったので、ちゃんと身につけるために Python だけじゃなくて Node.js でも動かしてみました。同じことをやろうとした人のために、ここにそのときの記録を残します。特に callbacksやmemoryについて、詳細に記載しようと思います。 書籍の説明につながるようなことはできる限り書きません！めっちゃ良書なので、ご興味持っていただけた方は購入してもらえますと 🙏 5章まではPython固有のToolを利用しており、6章の中身は7章とかなり近いところがあるので、7章のプログラムだけここに記載します。LangChainの学習に注力したいので、Serverelss Frameworkに関連するコードは省略しました。また、Momentoや @slack/bolt に関する説明はしません。 プロ</description>
+    </item>
+    <item>
+      <title>三省堂 辞書を編む人が選ぶ「今年の新語2023」</title>
+      <link>https://dictionary.sanseido-publ.co.jp/shingo/2023/best10/</link>
+      <pubDate>2023/12/01 15:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4d916363803d69d533bf563d580cb009cebfa1ea/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1551%2F144%2Fyajiuma-watch_1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NeMo Framework で日本語 LLM をファインチューニング - PEFT 編 -</title>
+      <link>https://developer.nvidia.com/ja-jp/blog/how-to-use-peft-on-nemo-framework-in-japanese/</link>
+      <pubDate>2023/11/30 06:43</pubDate>
+      <description>やなぎや・とものり/1972年12月生まれ。1998年からITライターとして活動しており、ガジェットからエンタープライズ向けのプロダクトまで幅広い領域で執筆する。2018年から、NPO法人デジタルリテラシー向上機構（DLIS）を設立し、ネット詐欺の被害をなくすために活動している。 https://prof.yanagiya.biz/ https://peraichi.com/landing_pages/view/dlis/ 仕事を256倍速くするツールを探せ！ ITの世界は日進月歩。一昔前ならとても無理だったことや、人間がやらなくてはならなかったことをどんどんコンピュータに任せられるようになっています。連載「仕事を256倍速くするツールを探せ！」では、最近出てきたサービスの中から、特にビジネスや勉強に役立つサービスやソフトウエア、ハードウエアをピックアップ。ライターが実際に使用し、使い方や</description>
+    </item>
   </channel>
 </rss>
