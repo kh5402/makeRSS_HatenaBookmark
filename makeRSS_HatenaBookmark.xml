@@ -12900,5 +12900,20 @@
       <pubDate>2023/12/01 15:53</pubDate>
       <description>はじめに 「ChatGPT/LangChainによるチャットシステム構築」 という本が素晴らしかったので、ちゃんと身につけるために Python だけじゃなくて Node.js でも動かしてみました。同じことをやろうとした人のために、ここにそのときの記録を残します。特に callbacksやmemoryについて、詳細に記載しようと思います。 書籍の説明につながるようなことはできる限り書きません！めっちゃ良書なので、ご興味持っていただけた方は購入してもらえますと 🙏 5章まではPython固有のToolを利用しており、6章の中身は7章とかなり近いところがあるので、7章のプログラムだけここに記載します。LangChainの学習に注力したいので、Serverelss Frameworkに関連するコードは省略しました。また、Momentoや @slack/bolt に関する説明はしません。 プロ</description>
     </item>
+    <item>
+      <title>今年の10冊 - 備忘録</title>
+      <link>https://traindusoir.hatenablog.jp/entry/2023/12/02/105731</link>
+      <pubDate>2023/12/02 12:52</pubDate>
+      <description>Metaが2023年8月に公開したAI「SeamlessM4T」は、音声を入力するだけで文字起こしや別言語への翻訳、別言語への吹き替えが可能です。さらにMetaは2023年11月30日に、SeamlessM4Tの改良版となる「SeamlessM4T v2」を発表しました。この「SeamlessM4T V2」では、SeamlessM4Tのパフォーマンスを向上させているだけでなく、感情やスタイルを維持しながら、別の言語へ吹き替えを行うことも可能です。 Introducing a suite of AI language translation models that preserve expression and improve streaming https://ai.meta.com/blog/seamless-communication/ Seamless Communication T</description>
+    </item>
+    <item>
+      <title>リアルな生成ＡＩ性的画像が氾濫、実在の被害児童と区別困難…削除要請や捜査にも支障</title>
+      <link>https://www.yomiuri.co.jp/national/20231201-OYT1T50210/</link>
+      <pubDate>2023/12/02 08:49</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
