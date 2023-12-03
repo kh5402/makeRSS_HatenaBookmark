@@ -13038,5 +13038,26 @@
       <pubDate>2023/12/03 09:35</pubDate>
       <description>みなさんこんにちは！クルトンです。 前日のブログは初回という事で、「機械学習とはなんぞや」について説明しました。 本日のブログは損失関数についてです。 なぜ2日目に持ってきたかというと、機械学習の理解において損失関数が重要であると考えているためです。 データの特徴によって機械学習で使うモデル(アルゴリズム)の種類が違うという話をしている書籍やブログはあります。 ただし本アドベントカレンダーでは、人間の言葉を理解する機械学習モデルについて説明しようと考えているため、対象外のモデルも説明に含めてしまいます。 また実際に、さまざまな機械学習モデルを動かす必要がある方でなく、対象読者を「(ChatGPTなどLLMについて)どういう動きをしているか中身を知りたいなー」という人からするとなくても良い情報なのではないか？と考え、思い切ってそちらは説明せずに機械学習モデルなら共通で必要な内容の中でいくつか</description>
     </item>
+    <item>
+      <title>AI乱用への警鐘？...気持ち悪すぎて「見るに堪えない」ビートルズ「最後の新曲」のミュージックビデオの罪</title>
+      <link>https://www.newsweekjapan.jp/stories/culture/2023/11/post-103140.php</link>
+      <pubDate>2023/12/02 23:38</pubDate>
+      <description>Jyoti Mann ［原文］ （翻訳：仲田文子、編集：Toshihiko Inoue） Dec. 03, 2023, 08:00 AM テクノロジー 2023年7月6日、スイスのジュネーブで開催された｢AIサミット｣で公開された人型ロボット｢Ameca｣。 Pierre Albouy/Reuters 人型ロボットは、AIから生まれる次の大ブームになりそうだ。 この産業は、2028年までに約138億ドル（約2兆円）規模になる可能性がある。 ここでは、最先端の人型ロボット、8体について紹介する。 人間のようなロボットは長い間、SF映画の世界のものだったが、テック企業はそれを日常的な存在へと近づけつつある。そして人型ロボットはAIから生まれる次の大ブームになるかもしれない。 MarketsandMarketsの試算によると、この産業は2028年までに138億ドル（約2兆円）規模になる可能性があ</description>
+    </item>
+    <item>
+      <title>「ChatGPTの1周年を記念して」、オープンソースLLMがChatGPTにどこまで追いついているか体系的調査報告 | AIDB</title>
+      <link>https://aiboom.net/archives/59713</link>
+      <pubDate>2023/12/02 09:09</pubDate>
+      <description>国内でも生成AIの開発が加速する中、京都府を拠点に研究を行う国立研究開発法人「情報通信研究機構」＝NICTでは、豊富な日本語の学習データを強みとした国産AIの開発を進めています。 京都府精華町にあるNICTデータ駆動知能システム研究センターの鳥澤健太郎フェローのチームは、生成AIの基盤となる「大規模言語モデル＝LLM」をことし7月、開発に成功したと発表しました。開発にかかった期間はおよそ4か月です。 最大の特徴は、大規模な日本語の学習データです。海外での開発が先行する生成AIでは、学習データは英語が中心で良質な日本語のデータをどう確保するのかが課題となっています。 チームでは、これまで15年かけて膨大な日本語のウェブサイトの情報を収集していて「アノテーター」と呼ばれる専門スタッフおよそ50人が学習データに不要な単語を取り除けるよう調整を行うなどして、ほかにはない良質な日本語のデータを新聞1</description>
+    </item>
+    <item>
+      <title>【AWS re:Invent 2023】ラスベガスで開催されたAWS GameDay Championshipsで優勝しました 🙌 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2023/12/01/090000</link>
+      <pubDate>2023/12/01 09:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
