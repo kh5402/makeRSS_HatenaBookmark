@@ -13059,5 +13059,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>「ツイッターの死」から見えたAIの課題　元倫理部門トップが語った：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRD35DVFRD2UHBI00V.html</link>
+      <pubDate>2023/12/03 22:38</pubDate>
+      <description>Microsoftやウィスコンシン大学マディソン校などの研究チームが開発し、2023年4月17日に公開した「LLaVA」は「視覚」を持つAIで、画像を入力するとその画像に基づいて返答を行うことができます。2023年10月5日に登場したLLaVA-1.5はさらにクオリティが向上しているとのことなので、実際にGoogleのクラウドコンピューティングサービス「Google Cloud Platform(GCP)」上で動作させてみました。 LLaVA/pyproject.toml at main · haotian-liu/LLaVA https://github.com/haotian-liu/LLaVA 2023年4月にリリースされた旧バージョンの性能や、デモサイトの使い方については下記の記事で確認できます。 画像を認識して年齢推測可能＆人名クイズにも正答できる無料の高性能チャットAI「LLa</description>
+    </item>
+    <item>
+      <title>コードレビューの思想や心構え - Qiita</title>
+      <link>https://qiita.com/nash_efp/items/b01f341ebc2e991a32ac</link>
+      <pubDate>2023/12/03 20:04</pubDate>
+      <description>車線合流や隊列走行といった完全自動に近い「レベル4」の自動運転の普及に向け、総務省は2026年度にも専用の電波を割り当てる。安定した通信で自動運転の精度を高め、米欧と同じ周波数帯にすることで対応車両や関連部品の開発を後押しする。関連するルール制定などの環境を整える。専用電波を通じて車両が近くの車や道路上の管制設備と情報を直接やりとりし、人が介在せずに周囲の車の動きに合わせた車線変更、合流などが</description>
+    </item>
+    <item>
+      <title>｢カスタマイズできるGPT｣に脆弱性。簡単だからこそ危険が潜む</title>
+      <link>https://www.gizmodo.jp/2023/12/security-vulnerabilities-openai-chatgpt-custom-gpt.html</link>
+      <pubDate>2023/12/03 11:58</pubDate>
+      <description>クーリエ・ジャポンでは、世界的経済学者ガブリエル・ズックマンへのインタビューに際して、読者のみなさまからの質問を募集します。日々の生活でふと抱いた経済や税制、経済的不平等に対する疑問や問題意識などを伝えてみませんか。 対話型AI「ChatGPT」が2022年11月30日に公開されてから1年が経つ。開発元のオープンAIは最近、経営陣や理事会をめぐる“お家騒動”で注目されているようだが、このAIチャットボット自体は、いまも週間アクティブユーザー数が世界全体で1億人超という高さで推移している。 風聞によれば、ChatGPTのおかげで仕事の生産性がどんどん上がる人も各業界に出現しているらしい。英誌「エコノミスト」に載っていた記事では、2024年は企業内での生成AIの利用が実験段階から投資段階に移る1年になると書かれていた。データ管理がしっかりしていない業界で生成AIを利用するとリスクが大きいので、</description>
+    </item>
   </channel>
 </rss>
