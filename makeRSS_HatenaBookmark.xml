@@ -13026,5 +13026,17 @@
       <pubDate>2023/12/01 12:41</pubDate>
       <description>文章生成AIの研究開発が急速に進んでおり、無料で使える大規模言語モデル(LLM)も数多く公開されています。しかし、LLMの動作を実際に試すには高性能なハードウェアや複雑な環境構築が必要なことが多いため、最初から諦めている人も多いはず。無料で公開されている「LM Studio」を使えば、一般的な性能のPCでもコマンド不要で気軽にLLMの動作させられるとのことなので、実際にLM Studioを使ってLLMを使う手順を確かめてみました。 LM Studio - Discover, download, and run local LLMs https://lmstudio.ai/ ◆LM Studioのインストール LM StudioはWindows版とmacOS版が存在するほか、Linux向けのベータ版も存在します。Windowsで使う場合の必要条件は「AVX2に対応したCPU」のみ。近年販売さ</description>
     </item>
+    <item>
+      <title>ChatGPTと「知の巨人」、質問するならどっち？ | いまこそ「知の巨人」に聞いてみよう</title>
+      <link>https://courrier.jp/news/archives/346376/</link>
+      <pubDate>2023/12/03 15:05</pubDate>
+      <description>Metaの大規模言語モデル(LLM)である「Llama 2」をベースに医学書でトレーニングした、医療専門のLLMスイート「Meditron」が登場しました。登場直後であるため正規採用はまだ推奨されていないものの、医療分野に関する能力がGPT-3.5を上回っていることが報告されています。 [2311.16079] MEDITRON-70B: Scaling Medical Pretraining for Large Language Models https://arxiv.org/abs/2311.16079 GitHub - epfLLM/meditron: Meditron is a suite of open-source medical Large Language Models (LLMs). https://github.com/epfLLM/meditron 大規模言語モデル</description>
+    </item>
+    <item>
+      <title>2028年には市場規模は2兆円に…最新の人型ロボット8体</title>
+      <link>https://www.businessinsider.jp/post-278978</link>
+      <pubDate>2023/12/03 09:35</pubDate>
+      <description>みなさんこんにちは！クルトンです。 前日のブログは初回という事で、「機械学習とはなんぞや」について説明しました。 本日のブログは損失関数についてです。 なぜ2日目に持ってきたかというと、機械学習の理解において損失関数が重要であると考えているためです。 データの特徴によって機械学習で使うモデル(アルゴリズム)の種類が違うという話をしている書籍やブログはあります。 ただし本アドベントカレンダーでは、人間の言葉を理解する機械学習モデルについて説明しようと考えているため、対象外のモデルも説明に含めてしまいます。 また実際に、さまざまな機械学習モデルを動かす必要がある方でなく、対象読者を「(ChatGPTなどLLMについて)どういう動きをしているか中身を知りたいなー」という人からするとなくても良い情報なのではないか？と考え、思い切ってそちらは説明せずに機械学習モデルなら共通で必要な内容の中でいくつか</description>
+    </item>
   </channel>
 </rss>
