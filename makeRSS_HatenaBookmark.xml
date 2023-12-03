@@ -12972,5 +12972,17 @@
       <pubDate>2023/11/30 18:10</pubDate>
       <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIは一連のお家騒動のあと、しばらく沈黙していましたが、水曜日にブログを更新し、アルトマン氏がCEOに復帰することを正式に発表しました。新体制となった取締役会には、マイクロソフトが議決権のないオブザーバーとして加わることも明らかにしています。 OpenAIの取締役会は、アルトマン氏解任を支持した4人のうち3人が去り、現在はブレット・テイラー会長、ラリー・サマーズ氏、そして前取締役会から唯一議席を維持したアダム・ダンジェロ氏という構成になっています。ここに、マイクロソフトがオブザーバーとして加わります。</description>
     </item>
+    <item>
+      <title>国産生成AIの開発進む「豊富な日本語の学習データが強み」 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231201/k10014275281000.html</link>
+      <pubDate>2023/12/01 22:03</pubDate>
+      <description>11月25日に開催されたISUCON13でチームNaruseJunとして参加し優勝しました。 メンバーはここ4年同じで、大学時代のサークル仲間の@sekai・@takashi・とーふとふの三人です。 昨年のISUCON12でも優勝したので、チームNaruseJunは二連覇となります。 最終スコアは468,006点でした。 スコアの推移は以下の通りです。 かなり順調にスコアを伸ばしていますね。後述しますが17時直後にめちゃくちゃ伸びているのは、ログを止めた結果です。 その他のスコアは↓ ISUCON13 受賞チームおよび全チームスコア : ISUCON公式Blog 事前準備 今年はチーム全員が忙しかったので、チームで最初に集まったのは11/14でした。 その日は30分くらいで今年の流れの確認と、素振りの日（11/18）を確定して解散しました。 ありがたいことに過去優勝チームとしてLodgeで</description>
+    </item>
+    <item>
+      <title>The Inside Story of Microsoft’s Partnership with OpenAI</title>
+      <link>https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai</link>
+      <pubDate>2023/12/02 09:04</pubDate>
+      <description>こんちには。 データアナリティクス事業本部 インテグレーション部 機械学習チームの中村です。 この記事は、ブログリレー『Google CloudのAI/MLとかなんとか』の３本目の記事になります。 今回は、Vertex AIからGoogleの次世代のASR（自動音声認識）モデル「Chirp」を使ってみたいと思います。 Chirpについて 以下に詳しい説明があります。 Chirp: Universal speech model  |  Cloud Speech-to-Text V2 documentation  |  Google Cloud ChirpはGoogleの次世代音声認識モデルで、現在の音声モデルとは異なるアーキテクチャで学習させたモデルとなっているようです。 Google CloudではCloud Speech-to-Text V2における一つのモデルとして使用できます。その他</description>
+    </item>
   </channel>
 </rss>
