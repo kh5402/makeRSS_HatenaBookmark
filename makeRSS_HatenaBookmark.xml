@@ -12960,5 +12960,17 @@
       <pubDate>2023/11/30 18:36</pubDate>
       <description>sponsored 動画編集からRAW現像、クリエイターの業務に合うタワー型PCがセールで購入のチャンス！ sponsored 自室で場所を取らずに最新FPSを本格プレイしたいなら、このゲーミングノート！ セールで17万円台！ sponsored ファーウェイから登場の究極のスマートウォッチ 究極の素材（ゴールド）と高度な技術の会遇　輝くスマートウォッチ「HUAWEI WATCH | ULTIMATE DESIGN」を徹底レポ sponsored G-Master Velox II Intel Editionレビュー 鉄板ゲーミングPCをRTX 4060 Tiの超静音グラボ＆14600Kのちょいカスタムで超鉄板化 sponsored Core i5-13400搭載、「リーグ・オブ・レジェンド」が快適にプレイできるか試した 10万円台のDeskMini採用PC、手のひらサイズなのにマルチに活</description>
     </item>
+    <item>
+      <title>システム生物学って何だったんですか？(前編)</title>
+      <link>https://zenn.dev/crmind/articles/4f2fde14c808c2</link>
+      <pubDate>2023/12/02 08:37</pubDate>
+      <description>v0とは v0は自然言語で作りたいUIをAIに指示するとそのUIをTailwind (shadcn/ui)ベースで作ってくれるサービスです。 shadcn/uiとは shadcn/uiはRadix UIというUIをもたないヘッドレスUIに対してスタイルを当てたコンポーネント集で、TailwindというCSSライブラリを使ってRadix UIに対してスタイルを当てています。 shadcn/ui本体のライブラリがあるわけではなく、自身のプロジェクトにコンポーネントを直接コピーして使うことが特徴です！ Tailwindが好きな人にはたまらないコンポーネント集ですね！ shadcn/uiに最適に作られていますが、Tailwindユーザーであれば作られたUIをほぼそのまま使うことができます。 下の画像のようなチャット風のUIが特徴なサービスになっていて、このチャットに指示を出すことでUIを作ってくれ</description>
+    </item>
+    <item>
+      <title>「Copilot in Windows」のアイコンはデスクトップ右下隅に ～Devチャネルでテスト開始</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/insiderpre/1550859.html</link>
+      <pubDate>2023/11/30 18:10</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIは一連のお家騒動のあと、しばらく沈黙していましたが、水曜日にブログを更新し、アルトマン氏がCEOに復帰することを正式に発表しました。新体制となった取締役会には、マイクロソフトが議決権のないオブザーバーとして加わることも明らかにしています。 OpenAIの取締役会は、アルトマン氏解任を支持した4人のうち3人が去り、現在はブレット・テイラー会長、ラリー・サマーズ氏、そして前取締役会から唯一議席を維持したアダム・ダンジェロ氏という構成になっています。ここに、マイクロソフトがオブザーバーとして加わります。</description>
+    </item>
   </channel>
 </rss>
