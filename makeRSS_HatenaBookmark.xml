@@ -13206,5 +13206,29 @@
       <pubDate>2023/12/03 18:01</pubDate>
       <description>はじめに 自分は去年の今頃（2022年12月）に、「AIアートとMMDについて。金は著作権より重い。」という記事を書いた。 https://archive.is/l9iKV その記事を書いたら、「MMDは日本の3DCGを破壊してしまった 」という記事も合わせてバズった。 「MMDは日本の3DCGを破壊してしまった （2022年度版）2022/08/16加筆」 https://archive.is/DenAN 2018年に日本の3DCGがMMDでガラパゴス化したと指摘され、およそ3年が経過した。 現在の日本の3DCGはどうなってしまったのか？ 結論から言えば中国（ビリビリ動画）に日本の3DCG（ニコニコ動画）は完全に追い抜かれてしまった。 日本の白物家電が中国・韓国製に駆逐されたのと同じように、世界から完全に取り残されてしまったのだ。 MMDは日本の3DCGを破壊してしまった （2022年度</description>
     </item>
+    <item>
+      <title>OpenAI、アプリストア「GPT Store」開始を1月に延期 「いろいろあった」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1551587.html</link>
+      <pubDate>2023/12/03 17:30</pubDate>
+      <description>2024年のPC需要は拡大へ。AIが需要拡大のカギになる模様 PCの需要については2020年に発生した新型コロナにて需要が先行で消費された結果、コンシューマー向けPCの需要は2022年頃から低下し、2023年も低調でした。しかし、AIなどに対応する新たなハードウェアが必要となる事から2024年以降はPC市場の需要は回復に向かう事が市場調査会社のCanalysの調査で明らかになりました。 Canalysによると、2024年までにAI機能を備えたPCの総出荷は19%に達する予定で、これにはNeural Engineを搭載するAppleのMシリーズSoCを搭載するMacの他、高度なAI機能を備えたWindows PCなども含まれるようです。特にWindowsについてはWindows 12が2024年夏ごろに登場が噂されている他、同OSに搭載されるCoPilotの動作には既存のノートPC向けCPU</description>
+    </item>
+    <item>
+      <title>Accelerating Generative AI with PyTorch: Segment Anything, Fast</title>
+      <link>https://pytorch.org/blog/accelerating-generative-ai/</link>
+      <pubDate>2023/12/02 11:33</pubDate>
+      <description>オープンソースLLMの現状 オープンソースの大規模言語モデル（LLM）は、AI研究と実用化の分野において大きく期待されています。そして、クローズドソースのLLMと同様に、さまざまな課題を解決する潜在能力を持っています。研究コミュニティでは、世界的に（組織横断的に）開発が進むようにLLMをオープンソースで公開することが文化として奨励される側面もあります。 現在ではオープンソースLLMは、クローズドなLLMに対して遅れをとっているという見方が一般的です。OpenAIのGPT-3.5（ChatGPT）やGPT-4、AnthropicのClaude、GoogleのBardなどに比べると、まだ性能が劣っていると考えられています。クローズドなモデルは、一般的にLLM分野でのリーダーと見なされており、2023年末の時点でGPT-4が最先端のモデルとされています。 Llamaファミリーモデル Metaによ</description>
+    </item>
+    <item>
+      <title>GPTsによる執筆支援Botとtextlintによる校正Botをつくってみた - Sansan Tech Blog</title>
+      <link>https://buildersbox.corp-sansan.com/entry/2023/12/01/110000</link>
+      <pubDate>2023/12/01 12:51</pubDate>
+      <description>LLM Advent Calendar 2023について こんにちは、LLM Advent Calendar 2023を企画しましたkunishouです。今年も気づけばあっという間に12月ですが皆さんいかがお過ごしでしょうか？ちょうど1年と1日前の2022年11月30日にChatGPTが世界に公開されたのは記憶に新しいですが、それを皮切りに世の中の機械学習／自然言語処理周りの技術トレンドも大きく変化した1年だったと感じました。私はちょうど1年ほど前に「オープンソースAIを用いた音声対話ロボットの作成」というBERTと音声対話する内容の記事を投稿しましたが1年経ち改めて読み返すとかなり陳腐な内容に見えてしまい、技術の進歩の速さに非常に驚いています。実際、技術の進歩は早く、この1年はLLM（Large Language Model）に関連する新しい技術や日本語対応したLLMが日々公開され、常に</description>
+    </item>
+    <item>
+      <title>効果検証入門に物申してみた_JapanR_2023</title>
+      <link>https://speakerdeck.com/s1ok69oo/xiao-guo-jian-zheng-ru-men-niwu-shen-sitemita-japanr-2023</link>
+      <pubDate>2023/12/02 17:31</pubDate>
+      <description>国内でも生成AIの開発が加速する中、京都府を拠点に研究を行う国立研究開発法人「情報通信研究機構」＝NICTでは、豊富な日本語の学習データを強みとした国産AIの開発を進めています。 京都府精華町にあるNICTデータ駆動知能システム研究センターの鳥澤健太郎フェローのチームは、生成AIの基盤となる「大規模言語モデル＝LLM」をことし7月、開発に成功したと発表しました。開発にかかった期間はおよそ4か月です。 最大の特徴は、大規模な日本語の学習データです。海外での開発が先行する生成AIでは、学習データは英語が中心で良質な日本語のデータをどう確保するのかが課題となっています。 チームでは、これまで15年かけて膨大な日本語のウェブサイトの情報を収集していて「アノテーター」と呼ばれる専門スタッフおよそ50人が学習データに不要な単語を取り除けるよう調整を行うなどして、ほかにはない良質な日本語のデータを新聞1</description>
+    </item>
   </channel>
 </rss>
