@@ -13230,5 +13230,23 @@
       <pubDate>2023/12/02 17:31</pubDate>
       <description>国内でも生成AIの開発が加速する中、京都府を拠点に研究を行う国立研究開発法人「情報通信研究機構」＝NICTでは、豊富な日本語の学習データを強みとした国産AIの開発を進めています。 京都府精華町にあるNICTデータ駆動知能システム研究センターの鳥澤健太郎フェローのチームは、生成AIの基盤となる「大規模言語モデル＝LLM」をことし7月、開発に成功したと発表しました。開発にかかった期間はおよそ4か月です。 最大の特徴は、大規模な日本語の学習データです。海外での開発が先行する生成AIでは、学習データは英語が中心で良質な日本語のデータをどう確保するのかが課題となっています。 チームでは、これまで15年かけて膨大な日本語のウェブサイトの情報を収集していて「アノテーター」と呼ばれる専門スタッフおよそ50人が学習データに不要な単語を取り除けるよう調整を行うなどして、ほかにはない良質な日本語のデータを新聞1</description>
     </item>
+    <item>
+      <title>「生成AIに仕事が奪われる」と焦ってから1年……あなたの仕事はどうですか？</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/04/news103.html</link>
+      <pubDate>2023/12/04 13:04</pubDate>
+      <description>はじめに 今回は各大学が公開している、エンジニア向けの資料をまとめていきます。 東京大学 ChatGPT活用法 ChatGPTの基礎的な内容から実際にどのように活用すべきかが解説されている。 Pythonプログラミング入門 Pythonについて環境構築から始まり、基本文法、応用的な使い方まで分かりやすく解説されている。 AWS入門 ハンズオン形式でAWSの学習ができる。 AI・データサイエンスの活用事例 データサイエンスやAIの活用事例を学べる。 人工知能・深層学習を学ぶためのロードマップ AIやデータサイエンスの具体的な活用事例が学べる。 京都大学 プログラミング演習 Python 統計学 統計学やデータ分析、検定を学べる。 慶應大学 ChatGPTの活用資料 ChatGPTを用いた開発方法が学べる。 東京工業大学 機械学習 筑波大学 データベース データベースの基本から正規化や設計とい</description>
+    </item>
+    <item>
+      <title>生成AI 動画を認識し文章で表現する新技術 NECが開発 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231204/k10014276841000.html</link>
+      <pubDate>2023/12/04 08:41</pubDate>
+      <description>ディープラーニングなどのAI技術の実用化を進めているPreferred Networksは、オープンワールドクラフトゲーム『Omega Crafter』のオープンベータテスト（OBT）を12月2日に開始した。対応プラットフォームはPC（Steam）。 『Omega Crafter』はオープンワールドで繰り広げられるサバイバルクラフトゲームだ。舞台となるのはゲームの中の世界。そこでは謎の妨害プログラムがあり、ゲームの開発が難航しているという。プレイヤーはゲームを完成させるため、相棒のグラミーとともに冒険や街づくり、ボスの討伐などをおこなうこととなる。 本作ではサバイバルクラフトにおけるさまざまな要素を、グラミーにプログラミングとして命令を実行させることにより自動化や効率化が可能。ところで本作を手がけるPreferred Networksといえば、前述したようにAI技術系のベンチャーだ。いわゆ</description>
+    </item>
+    <item>
+      <title>GPT-4のライバルと目されるGoogleの次世代マルチモーダルAI「Gemini」のリリースを延期するとスンダー・ピチャイCEOが決定か</title>
+      <link>https://gigazine.net/news/20231204-google-gemini-release-delay/</link>
+      <pubDate>2023/12/04 12:10</pubDate>
+      <description>この記事はWantedly Advent Calendar 2023 兼 情報検索・検索技術 Advent Calendar 2023の3日目の記事です。 ウォンテッドリーでデータサイエンティストをしている角川(＠nogawanogawa)です。ウォンテッドリーのデータサイエンスチームは、9/18〜9/23にシンガポールにて開催されたRecSys2023に聴講参加しました。 RecSys 2023 (Singapore) - RecSys RecSys 2023, the seventeenth conference in this series, will be held in Singapore. It will bring together researchers and practitioners from academia and industry to present thei</description>
+    </item>
   </channel>
 </rss>
