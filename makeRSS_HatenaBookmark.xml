@@ -13272,5 +13272,41 @@
       <pubDate>2023/12/04 09:35</pubDate>
       <description>今年も最後の月になりました。この1年間、『労働新聞』に月1回連載してきた書評も12回分溜まりましたので、例によってまとめておきます。 グレゴワール・シャマユー『統治不能社会』 『労働新聞』に月イチで連載している書評コラムですが、今年からまたタイトルが変わり、「書方箋　この本、効キマス」となりました。 その第1回目に私が取り上げたのは、グレゴワール・シャマユー『統治不能社会』（明石書店 ）です。 https://www.rodo.co.jp/column/143561/ 半世紀前の1975年に、日米欧三極委員会は『民主主義の統治能力』（サイマル出版会)という報告書を刊行した。ガバナビリティとは統治のしやすさ、裏返せばしにくさ（アンガバナビリティ）が問題だった。何しろ、企業の中では労働者たちがまるでいうことを聞かないし、企業の外からは環境や人権問題の市民運動家たちがこれでもかと責め立ててくる。</description>
     </item>
+    <item>
+      <title>【画像解析】画像データ内の粒子の形状分類・検出【ImageJ】 - LabCode</title>
+      <link>https://labo-code.com/imagej/imagej-shape-classification/</link>
+      <pubDate>2023/12/04 22:15</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a14ab227e395b569e3782b8129d067e2a6f0460a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1551%2F614%2Fcopilot.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>JP GAMESの創業者 田畑 端氏にインタビュー。FFの開発経験を生かし，RPGクリエーションの次なるステップに挑む</title>
+      <link>https://www.4gamer.net/games/999/G999903/20231130058/</link>
+      <pubDate>2023/12/04 12:03</pubDate>
+      <description>住宅情報サイトを運営するLIFULLは4日、自社開発AIによる募集終了物件（通称：おとり物件）の検知精度を月あたり87％まで向上させたと発表した。 住宅情報サービス「LIFULL HOME&amp;#39;S」を運営するLIFULL（東京都千代田区）は12月4日、自社開発AIによる募集終了物件（通称：おとり物件）の検知精度を月あたり87％まで向上させたと発表した。AIが検知した物件について、管理会社に電話で確認して募集終了率を測定した。 同社は、データベースに蓄積した過去の物件情報などを学習させたAIによるおとり物件検知の検証を2019年に開始。20年10月時点では検知精度が平均26％ほどにとどまっていたが、複数の学習モデルを考案して並行して検証を行ったところ、22年10月以降は平均87％まで向上。23年3月単月では特定の学習モデルによる検知精度が99％に達したという。 ライフルは「これまで学習内容の検討</description>
+    </item>
+    <item>
+      <title>古市憲寿氏「貧乏くさい万博に」でも「大阪の人がやりたいなら勝手にやれば」ラスベガスの新劇場と比較「人集まらない」/デイリースポーツ online</title>
+      <link>https://www.daily.co.jp/gossip/2023/12/03/0017093628.shtml</link>
+      <pubDate>2023/12/04 05:04</pubDate>
+      <description>Generative AI for Kritaのライブペインティング機能を実行している画面。左が筆者が描いた落書き。右が、その画像を線画（Scribble）としてAI生成した画像 11月13日掲載の記事「爆速化する画像生成AI」で紹介した新技術「Latent Consistency Models（LCM）」が大爆発しています。これは画像生成AIに2度目の革命を起こした「ControlNet」に次ぐ大インパクトではないかと感じています。「LCM-LoRA」（LoRAはStable Diffusion用の追加学習モデル）が11月下旬に登場したことで、リアルタイム生成のAI機能を組み入れたサービスやアプリの開発が一気に進みました。 なかでも、筆者にとってインパクトが大きかったのが、ペイントソフト「Krita」向けに開発された「Generative AI for Krita」。Kritaはスウェー</description>
+    </item>
+    <item>
+      <title>今年1年間の『労働新聞』書評たち - hamachanブログ(EU労働法政策雑記帳)</title>
+      <link>http://eulabourlaw.cocolog-nifty.com/blog/2023/12/post-9a1002.html</link>
+      <pubDate>2023/12/04 07:48</pubDate>
+      <description>2023年11月29日に発表されたばかりのAIチャットサービス「Amazon Q」にプライバシーの問題がある可能性が報じられました。一部の従業員によるとAmazon Qはひどい幻覚(ハルシネーション)に襲われることがあり、Amazon Web Services(AWS)のデータセンターの場所などを漏らすことがあるそうです。 Amazon’s Q has ‘severe hallucinations’ and leaks confidential data in public preview, employees warn https://www.platformer.news/p/amazons-q-has-severe-hallucinations Amazon&amp;#39;s AI Chatbot, Amazon Q, Faces Criticism and Security Concerns h</description>
+    </item>
+    <item>
+      <title>2023年末： ChatGPT / LLM とチャット UI と社会実装のカタチを考える｜とりしま日記</title>
+      <link>https://note.com/sumisutori/n/n5a435c807b9f</link>
+      <pubDate>2023/12/04 07:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c387af69229add87a76cfa625a72005d0f6a4bc0/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1551%2F471%2F10.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
