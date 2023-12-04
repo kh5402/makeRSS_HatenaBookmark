@@ -13095,5 +13095,32 @@
       <pubDate>2023/12/02 15:52</pubDate>
       <description>A 3D animated visualization of an LLM with a walkthrough.</description>
     </item>
+    <item>
+      <title>RAG用途に使える、Wikipedia 日本語の embeddings とベクトル検索用の faiss index を作った - A Day in the Life</title>
+      <link>https://secon.dev/entry/2023/12/04/080000-wikipedia-ja-embeddings/</link>
+      <pubDate>2023/12/04 08:47</pubDate>
+      <description>頭の中に思い浮かべた風景や物体を脳信号から数値化し、生成AIを使って画像として復元する新たな技術を開発したとQST＝量子科学技術研究開発機構の研究グループが発表しました。 ことばやジェスチャーを使わず、脳で意思が伝えられる新たな装置の開発などにつながるとしています。 QSTなどの研究グループは、風景や物体などの画像を実際に見ているときの脳信号とそれらの画像の特徴を数値化したデータをそれぞれ蓄積した上で、脳信号を数値に変換する「翻訳プログラム」を開発しました。 このプログラムを使うと、頭の中に思い浮かべた風景や動物などを脳信号から数値に変換することができ、これをもとに生成AIが修正を繰り返すことで、頭の中に思い浮かべた画像を復元することに成功したということです。 頭の中に思い浮かべた「メンタルイメージ」の復元に成功したのは世界でも初めてだということで、QSTの間島慶研究員は「人類はこれまで顕</description>
+    </item>
+    <item>
+      <title>[電話予約の無人化]Amazon Connect + GPT-4 Turboで、発話の「時刻と日付」の言い回しをどの程度認識してくれるか調査 – Amazon Connect アドベントカレンダー 2023 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/connect-chatgpt-phrasing-time-day/</link>
+      <pubDate>2023/12/04 07:07</pubDate>
+      <description>はじめに 自分は去年の今頃（2022年12月）に、「AIアートとMMDについて。金は著作権より重い。」という記事を書いた。 https://archive.is/l9iKV その記事を書いたら、「MMDは日本の3DCGを破壊してしまった 」という記事も合わせてバズった。 「MMDは日本の3DCGを破壊してしまった （2022年度版）2022/08/16加筆」 https://archive.is/DenAN 2018年に日本の3DCGがMMDでガラパゴス化したと指摘され、およそ3年が経過した。 現在の日本の3DCGはどうなってしまったのか？ 結論から言えば中国（ビリビリ動画）に日本の3DCG（ニコニコ動画）は完全に追い抜かれてしまった。 日本の白物家電が中国・韓国製に駆逐されたのと同じように、世界から完全に取り残されてしまったのだ。 MMDは日本の3DCGを破壊してしまった （2022年度</description>
+    </item>
+    <item>
+      <title>データ職種の課題図書リストを作りたい - 下町柚子黄昏記 by @yuzutas0</title>
+      <link>https://yuzutas0.hatenablog.com/entry/2023/12/03/235900</link>
+      <pubDate>2023/12/04 00:59</pubDate>
+      <description>今日は、法務・コンプライアンス・AI倫理担当の古川が担当させていただきます。 これで４回目のアドベントカレンダーです。筆者の経歴などは過去の記事で書きましたので省略します。若干追加するならば、Global Partnership On AI（GPAI）というOECDが運営するAIの適切な利活用に関する取り組みの日本の専門家委員を1月からやっております。GPAIを通じてAI倫理だとか責任あるAIの国際的な様々な取り組みに関与させていただいています。 今年も去年に従って「AI倫理ニュース振り返り2022年」を書こうと思ったのですが、より興味が高いであろう国内外のルールメーキングの状況をお話しします。といっても、EU、US、日本だけですが。 １．EU EUはAI法案が非常に重要です。2021年にAI法案をリリースしています。その後、議会による修正案が出ています。基本的にはこの議会の修正版までが一</description>
+    </item>
+    <item>
+      <title>心に描いた風景を脳信号から復元！～生成系AIと数理的手法を用いた新たな技術を開発～ - 量子科学技術研究開発機構</title>
+      <link>https://www.qst.go.jp/site/press/20221130.html</link>
+      <pubDate>2023/11/30 16:38</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
