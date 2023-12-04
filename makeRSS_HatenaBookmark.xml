@@ -13326,5 +13326,29 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a14ab227e395b569e3782b8129d067e2a6f0460a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1551%2F614%2Fcopilot.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>フロントエンドのディレクトリ設計思想</title>
+      <link>https://zenn.dev/mybest_dev/articles/c0570e67978673</link>
+      <pubDate>2023/12/04 20:23</pubDate>
+      <description>いぐぞー ✈️ 旅するプログラマー @igz0 旅とプログラミングをこよなく愛します。 アメリカ大陸🇺🇸を横断しました！！小学生からプログラミング→新卒SIer→Webに目覚め個人事業主兼会社員。テレビ出演経験あり。 Webサービスを作りました。AI・VRに没頭中。IT関連中心にツイートします！！アイコンは@ixy先生より利用許諾済み。Amazonアソシエイト。 note.com/igz0/ いぐぞー ✈️ 旅するプログラマー @igz0 隙間時間に窓際社員がAIで業務効率化ツールを作る ↓ 上層部に伝わって大ウケ ↓ 話を聞きつけた経歴エリートがプロジェクト化してPMやるといって入ってくる ↓ 専門外のことなので意味不明なプロジェクト進行する ↓ 最初に研究してた人が離れる ↓ プロジェクト大炎上 という、この世の地獄がある。 2023-12-04 11:30:59 いぐぞー ✈️</description>
+    </item>
+    <item>
+      <title>「Copilot in Windows」が正式提供開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1551709.html</link>
+      <pubDate>2023/12/04 19:26</pubDate>
+      <description>はじめに こんにちは、LLM Advent Calendar 2023 4日目の記事を担当する_mkazutakaです。よろしくお願いします。 LLM Advent CalendarといってもRAGの話になりますが、ご容赦ください。 企業独自のデータを使ってLLMからの出力を制御する際には、検索拡張生成(いわゆるRAG)が使われます。 RAGの実装方法としては、「PDFからドキュメント情報を読み取り検索エンジンに保存」「ユーザの入力する質問文から関連するドキュメントを検索エンジンから取得」「取得したものをコンテキストとしてプロンプトに含める」という流れが一般的だと思います。 この際、RAGの課題の一つでもあるのですが、検索結果から取得するドキュメントのサイズ(いわゆるチャンクサイズ)をどれぐらいのものにするかというものがあります。チャンクサイズが小さすぎるとLLMは関連するコンテキストから</description>
+    </item>
+    <item>
+      <title>生成AIの進化に置いてかれないためにフォロー必須なアカウント47選 - Qiita</title>
+      <link>https://qiita.com/ken1041/items/8f5108c40f21e9480de9</link>
+      <pubDate>2023/12/03 06:28</pubDate>
+      <description>頭の中に思い浮かべた風景や物体を脳信号から数値化し、生成AIを使って画像として復元する新たな技術を開発したとQST＝量子科学技術研究開発機構の研究グループが発表しました。 ことばやジェスチャーを使わず、脳で意思が伝えられる新たな装置の開発などにつながるとしています。 QSTなどの研究グループは、風景や物体などの画像を実際に見ているときの脳信号とそれらの画像の特徴を数値化したデータをそれぞれ蓄積した上で、脳信号を数値に変換する「翻訳プログラム」を開発しました。 このプログラムを使うと、頭の中に思い浮かべた風景や動物などを脳信号から数値に変換することができ、これをもとに生成AIが修正を繰り返すことで、頭の中に思い浮かべた画像を復元することに成功したということです。 頭の中に思い浮かべた「メンタルイメージ」の復元に成功したのは世界でも初めてだということで、QSTの間島慶研究員は「人類はこれまで顕</description>
+    </item>
+    <item>
+      <title>イギリス政府、AIを使いこなすためのフレームワーク発表</title>
+      <link>https://wirelesswire.jp/2023/12/85685/</link>
+      <pubDate>2023/12/02 14:31</pubDate>
+      <description>社内のテックトークで紹介しました。 論文内で議論しているマルチモーダルLLMの活用方法や課題などを紹介しています。 詳しいアルゴリズムの話はしていません。</description>
+    </item>
   </channel>
 </rss>
