@@ -13182,5 +13182,29 @@
       <pubDate>2023/12/04 10:26</pubDate>
       <description>GoogleのAI開発部門であるGoogle DeepMindが開発中といわれている次世代マルチモーダルモデル「Gemini」はOpenAIのGPT-4に匹敵する性能を持っており、2023年中にリリースされると報じられていました。しかし、IT系ニュースメディアのThe Informationによると、Googleのスンダー・ピチャイCEOによってリリースが来年に延期されたとのことです。 Google Postpones Big AI Launch as OpenAI Zooms Ahead — The Information https://www.theinformation.com/articles/google-postpones-big-ai-launch-as-openai-zooms-ahead Google delays its ChatGPT 4 rival &amp;#39;Gemini</description>
     </item>
+    <item>
+      <title>新星・国産クラフトサバイバルゲーム『Omega Crafter』は、ほぼエンジニアのみのチームが“先行事例”を研究しまくって作った。ITベンチャーのゲームチームが目指す遊びやすいクラフトサバイバル - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/interviewsjp/20231204-274437/</link>
+      <pubDate>2023/12/04 12:25</pubDate>
+      <description>Generative AI for Kritaのライブペインティング機能を実行している画面。左が筆者が描いた落書き。右が、その画像を線画（Scribble）としてAI生成した画像 11月13日掲載の記事「爆速化する画像生成AI」で紹介した新技術「Latent Consistency Models（LCM）」が大爆発しています。これは画像生成AIに2度目の革命を起こした「ControlNet」に次ぐ大インパクトではないかと感じています。「LCM-LoRA」（LoRAはStable Diffusion用の追加学習モデル）が11月下旬に登場したことで、リアルタイム生成のAI機能を組み入れたサービスやアプリの開発が一気に進みました。 なかでも、筆者にとってインパクトが大きかったのが、ペイントソフト「Krita」向けに開発された「Generative AI for Krita」。Kritaはスウェー</description>
+    </item>
+    <item>
+      <title>画像を理解するGPT-4 Visionで、既存の画像認識モデルを説明可能にする ~ 新宿の特徴は&amp;quot;ビル群&amp;quot;だが、日本橋の特徴は&amp;quot;密集したビル&amp;quot;? ~ - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/photo2geo_gpt4</link>
+      <pubDate>2023/12/04 12:34</pubDate>
+      <description>GoogleのAI開発部門であるGoogle DeepMindが開発中といわれている次世代マルチモーダルモデル「Gemini」はOpenAIのGPT-4に匹敵する性能を持っており、2023年中にリリースされると報じられていました。しかし、IT系ニュースメディアのThe Informationによると、Googleのスンダー・ピチャイCEOによってリリースが来年に延期されたとのことです。 Google Postpones Big AI Launch as OpenAI Zooms Ahead — The Information https://www.theinformation.com/articles/google-postpones-big-ai-launch-as-openai-zooms-ahead Google delays its ChatGPT 4 rival &amp;#39;Gemini</description>
+    </item>
+    <item>
+      <title>Google、生成AI「Bard」の活用法トップ10を発表。「新たな見解を得る」ってどんな使い方？　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1551471.html</link>
+      <pubDate>2023/12/04 08:24</pubDate>
+      <description>この記事は GMOアドマーケティング Advent Calendar 2023 3日目の記事です。 皆さんこんにちは。 GMOアドマーケティングのR.Aです。 弊社ではAIにもっと触れてみようという目的で、AIを使用した様々な取り組みを行っています。 今回その一環でChatGPTと連想ゲームを行い、求めた答えを得る事ができるかという社内イベントを行いました。 以前SlackアプリとChatGPTの連携について執筆を行いましたが、こちらのSlackアプリに連想ゲームを行う処理を追加実装しましたので、ご紹介したいと思います。 完成後の動きについて まずは完成後の動きについて説明します。 お題を1つ決め、お題が返ってくるようなヒントをSlackのワークフロー上で提示すると、ChatGPTがそのヒントから連想される答えを生成し、スレッドで返答します。 ユーザーが与えられるヒントは最低1つから最大3</description>
+    </item>
+    <item>
+      <title>初心者でも大丈夫！GitHub Copilot Chatで始めるKaggle画像系コンペ - Qiita</title>
+      <link>https://qiita.com/kmizunoster/items/fde9c4b3db082c5be05f</link>
+      <pubDate>2023/12/03 18:01</pubDate>
+      <description>はじめに 自分は去年の今頃（2022年12月）に、「AIアートとMMDについて。金は著作権より重い。」という記事を書いた。 https://archive.is/l9iKV その記事を書いたら、「MMDは日本の3DCGを破壊してしまった 」という記事も合わせてバズった。 「MMDは日本の3DCGを破壊してしまった （2022年度版）2022/08/16加筆」 https://archive.is/DenAN 2018年に日本の3DCGがMMDでガラパゴス化したと指摘され、およそ3年が経過した。 現在の日本の3DCGはどうなってしまったのか？ 結論から言えば中国（ビリビリ動画）に日本の3DCG（ニコニコ動画）は完全に追い抜かれてしまった。 日本の白物家電が中国・韓国製に駆逐されたのと同じように、世界から完全に取り残されてしまったのだ。 MMDは日本の3DCGを破壊してしまった （2022年度</description>
+    </item>
   </channel>
 </rss>
