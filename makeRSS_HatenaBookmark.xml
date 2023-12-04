@@ -13122,5 +13122,29 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0233e1e19f086aa2e406ba73839118da1eab90b1/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1551%2F245%2Fg1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Slackアプリ経由でChatGPTと連想ゲームをしてみた。</title>
+      <link>https://techblog.gmo-ap.jp/2023/12/03/slack-chatgpt-word-association-game/</link>
+      <pubDate>2023/12/04 09:07</pubDate>
+      <description>この記事は、情報検索・検索技術 Advent Calendar 2023の12月4日の記事である。 昨今のLLMの台頭により、外部情報を In-Context Learning として利用しLLMの生成結果の性能を高めることが可能な RAG(Retrieval Augmented Generation) の重要性の高まりを感じる。ただ、RAG を使ったシステムを構築してみようにも、データが少ないと面白みが少なかったりする。その為、Wikipedia 日本語の約550万文から簡単に検索可能でRAGの入力データとして使えるような embeddings と、素早い速度でベクトル検索できるような faiss 用の index を作成した。 例えば、Wikipedia から該当の文を検索する用途はこのように使える。 from datasets.download import DownloadMana</description>
+    </item>
+    <item>
+      <title>思い浮かべた風景や動物をAIで画像復元する新技術を開発 QST | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231204/k10014277051000.html</link>
+      <pubDate>2023/12/04 08:14</pubDate>
+      <description>[電話予約の無人化]Amazon Connect + GPT-4 Turboで、発話の「時刻と日付」の言い回しをどの程度認識してくれるか調査 – Amazon Connect アドベントカレンダー 2023 Amazon Connect アドベントカレンダー 2023、4日目の記事です！ クラスメソッドとギークフィードさん、スカイアーチHRソリューションズ さんの有志が募ってチャレンジしている企画になります。 (アドベントカレンダーのカレンダー一覧はこちら↓) はじめに Amazon Connect + GPT-4 Turbo JSONモード + Whisper の構成で、発話での「時刻と日付」の言い回しをどこまで正しく認識してくれるか調査しました。 以前、電話予約の無人化をAmazon Connect + GPT-4 JSONモード + Whisperで構築し、1回の発話で予約情報を正し</description>
+    </item>
+    <item>
+      <title>【AI倫理・法務に関わる人必見！】AIに関する国内外のルールメイキングの状況 (2023年12月版) - ABEJA Tech Blog</title>
+      <link>https://tech-blog.abeja.asia/entry/advent-2023-day03</link>
+      <pubDate>2023/12/03 13:02</pubDate>
+      <description>A 3D animated visualization of an LLM with a walkthrough.</description>
+    </item>
+    <item>
+      <title>マルチモーダルLLMの応用動向の論文調査</title>
+      <link>https://speakerdeck.com/masatoto/marutimodarullmnoying-yong-dong-xiang</link>
+      <pubDate>2023/12/01 19:51</pubDate>
+      <description>GitHub Copilot ChatのアップデートでAgentsという機能が追加されて@workspaceをつけて質問することでエディタのコンテキスト外のファイルも対象に回答してくれるようになった。 code.visualstudio.com 「プログラマー失業不可避」が噂されるCopilot Workspace*1とは別の機能なので注意。 以下Microsoft Copilotに翻訳してもらった要点： LLMは、ある時点での公開リポジトリのデータで訓練されています。つまり、現在のコードについては何も知りません。コードについては一般的なことは知っていますが、ワークスペースの内容に関する必要な文脈を持っていないので、それに関する質問に正確に答えたり、ワークスペースの形式や機能に従った新しいコードを提案したりすることができません。 これを回避するために、GitHub Copilot Chat</description>
+    </item>
   </channel>
 </rss>
