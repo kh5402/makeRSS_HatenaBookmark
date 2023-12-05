@@ -13527,5 +13527,26 @@
       <pubDate>2023/11/30 20:54</pubDate>
       <description>ChatGPTのリリースは、AI研究や商業分野における大きな転換点となりました。指示チューニング、ファインチューニング、そして人間のフィードバックからの強化学習などもあわせて、さまざまなタスクで能力を示してきました。 この成功に触発され、オープンソースLLMは急速に進化しています。 そこで研究者らは、ChatGPTのリリースから1年を振り返り、オープンソースLLMがどのように進化し、例えばどのようなタスクでChatGPTと競合するレベルに達しているかを調査しました。 本記事では調査報告内容を読んでいきます。 参照論文情報 タイトル：ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up? 著者：Hailin Chen, Fangkai Jiao, Xingxuan Li, Cheng</description>
     </item>
+    <item>
+      <title>令和でもドドンと常駐。 AIで喋る「伺か」ライクのデスクトップマスコットアプリ「Vcot」／「ChatGPT」「VOICEVOX」による生き生きとした会話を楽しもう！【レビュー】</title>
+      <link>https://forest.watch.impress.co.jp/docs/review/1551986.html</link>
+      <pubDate>2023/12/05 15:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cf05b652899383f355392f27110b1a9ce5f429a7/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F075%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google DeepMindが「AIは人間と同じように社会学習でスキルを獲得できる」ことを実証したと主張</title>
+      <link>https://gigazine.net/news/20231205-ai-imitation-as-cultural-transmission/</link>
+      <pubDate>2023/12/05 12:02</pubDate>
+      <description>ChatGPTで同じ単語を無限リピートさせるとトレーニングデータを吐き出すという論文を受け、該当プロンプトが無効に OpenAIの生成AIチャット「ChatGPT」に同じ単語を永遠に繰り返すよう依頼すると、繰り返した後にトレーニングデータを吐き出し始めることをGoogle DeepMindの研究者らが発見した。この発表後、ChatGPTは同様のプロンプトには対応できないと答えるようになっている。 米OpenAIの生成AIチャット「ChatGPT」に単語を永遠に繰り返すよう要求すると、トレーニングに使ったソースデータを吐き出すという論文が11月28日に公開されたことを受け、本稿執筆現在、こうしたプロンプトを入力すると「申し訳ありませんが、そのようなリクエストには対応できません。他にお手伝いできることがあれば、お知らせください」と表示されるようになっている。</description>
+    </item>
+    <item>
+      <title>「Windows 11 バージョン 22H2/23H2」向け2023年11月プレビューパッチが配信開始／「Copilot in Windows」に多くの修正</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1551954.html</link>
+      <pubDate>2023/12/05 12:37</pubDate>
+      <description>はじめに 本記事は ソフトウェアテスト Advent Calendar 2023 および10X プロダクトアドベントカレンダー2023の5日目の記事です。 アドベントカレンダーの前日の記事は、それぞれ以下の記事となります。 ソフトウェアテスト Advent Calendar 2023…ChatGPTを用いたTDD part.1 (TODO用意編) 10X プロダクトアドベントカレンダー2023…dbtとGUIで実現するデータ処理の未来を考えてみた 皆さんは「DevOpsに関する図を思い浮かべてください」と言われたら、どのような図を想像しますか？一番思い浮かべる人が多いのが、DevOpsのループ図ではないでしょうか？ DevOpsのループ図（vecteezyより拝借） 本記事では、DevOpsのループ図の発端を探しつつ、このループ図に対しての私なりの考えを述べた上で、シフトレフトテスト/シフ</description>
+    </item>
   </channel>
 </rss>
