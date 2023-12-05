@@ -13653,5 +13653,17 @@
       <pubDate>2023/11/30 21:19</pubDate>
       <description>LLM Advent Calendar 2023について こんにちは、LLM Advent Calendar 2023を企画しましたkunishouです。今年も気づけばあっという間に12月ですが皆さんいかがお過ごしでしょうか？ちょうど1年と1日前の2022年11月30日にChatGPTが世界に公開されたのは記憶に新しいですが、それを皮切りに世の中の機械学習／自然言語処理周りの技術トレンドも大きく変化した1年だったと感じました。私はちょうど1年ほど前に「オープンソースAIを用いた音声対話ロボットの作成」というBERTと音声対話する内容の記事を投稿しましたが1年経ち改めて読み返すとかなり陳腐な内容に見えてしまい、技術の進歩の速さに非常に驚いています。実際、技術の進歩は早く、この1年はLLM（Large Language Model）に関連する新しい技術や日本語対応したLLMが日々公開され、常に</description>
     </item>
+    <item>
+      <title>IBMとMeta、50以上の組織と「AI Alliance」結成　OpenAI、Microsoft、Googleは参加せず</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/05/news183.html</link>
+      <pubDate>2023/12/05 17:40</pubDate>
+      <description>Home » 【実機レポ】薄型軽量で持ち運べる裸眼立体視ディスプレイ「Looking Glass Go」が発表 38,000円からクラウドファンディング開始 【実機レポ】薄型軽量で持ち運べる裸眼立体視ディスプレイ「Looking Glass Go」が発表 38,000円からクラウドファンディング開始 12月5日、Looking Glass Factoryは同社初のコンシューマ向け製品となる「Looking Glass Go」を発表した。 日本での販売はクラウドファンディングサイト「Kibidango」「GREEN FUNDING」を介して行われ、12月5日・22:00より予約受付を開始した。開始から48時間限定でLooking Glass Go・ホワイト（本体1台のみ）が特別価格は38,000円、同じくバンドルセット（Looking Glass Go ホワイト1台、バッテリパック、キャリー</description>
+    </item>
+    <item>
+      <title>モナ・リザが走る！　1枚の絵とモーションデータだけでぬるぬる動き出す「Magic Animate」が話題に</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/05/news202.html</link>
+      <pubDate>2023/12/05 21:04</pubDate>
+      <description>【シリコンバレー=奥平和行】米メタと米IBMは5日、誰でも自由に利用・改変できるオープンソースによる生成AI（人工知能）の開発や利用を促進するため、50超の企業や研究機関などと新団体を立ち上げたと発表した。日本からもソニーグループやソフトバンクの生成AI開発子会社などが新団体に加わった。「AIアライアンス」を設立し、オラクルやデル・テクノロジーズなどの米IT（情報技術）大手や、インテルやアドバ</description>
+    </item>
   </channel>
 </rss>
