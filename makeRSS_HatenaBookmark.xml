@@ -13548,5 +13548,11 @@
       <pubDate>2023/12/05 12:37</pubDate>
       <description>はじめに 本記事は ソフトウェアテスト Advent Calendar 2023 および10X プロダクトアドベントカレンダー2023の5日目の記事です。 アドベントカレンダーの前日の記事は、それぞれ以下の記事となります。 ソフトウェアテスト Advent Calendar 2023…ChatGPTを用いたTDD part.1 (TODO用意編) 10X プロダクトアドベントカレンダー2023…dbtとGUIで実現するデータ処理の未来を考えてみた 皆さんは「DevOpsに関する図を思い浮かべてください」と言われたら、どのような図を想像しますか？一番思い浮かべる人が多いのが、DevOpsのループ図ではないでしょうか？ DevOpsのループ図（vecteezyより拝借） 本記事では、DevOpsのループ図の発端を探しつつ、このループ図に対しての私なりの考えを述べた上で、シフトレフトテスト/シフ</description>
     </item>
+    <item>
+      <title>エヌビディア創業者が岸田首相と面会 “必要な半導体を供給” | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231204/k10014277881000.html</link>
+      <pubDate>2023/12/04 21:46</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。第23回目は、AIアニメーションを次の段階に進ませる技術と大きな脚光を浴びた「Animate Anyone」、3D Gaussian Splattingを使った新しい3D応用技術など、生成AI最新論文の概要5つをお届けします。 生成AI論文ピックアップ画像内のキャラクターや写真内の人物を骨格動画に応じて動かせる「Animate Anyone」　アリババらが開発 話した言葉をリアルタイム翻訳できるシステムMeta「Seamless」　話し方や感情なども忠実に再現 リアルな動きを持つ高品質なアバターを生成するモデル「Animatable Gaussians」 写真から3D</description>
+    </item>
   </channel>
 </rss>
