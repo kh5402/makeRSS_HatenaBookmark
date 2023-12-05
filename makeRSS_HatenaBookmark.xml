@@ -13509,5 +13509,23 @@
       <pubDate>2023/11/30 10:41</pubDate>
       <description>「今年の新語 2023」の選考結果 たくさんのご応募ありがとうございました。 辞書の三省堂が選ぶ「今年の新語 2023」。 今回の応募総数は延べ2,207通、異なり1,087語となりました。 たくさんのご応募をくださり、誠にありがとうございました。 一語一語、選考委員が厳正に審査し、「今年の新語 2023」ベスト10を選定しました。 以下に「今年の新語 2023」ベスト10を発表いたします。 ベスト10に選ばれた新語には、三省堂の辞書を編む人が「国語辞典風味」の語釈（語の解釈・説明）をつけました。 今後の辞書に掲載されてもおかしくない「今年の新語 2023」の切り口と面白さをお楽しみください。 2位　ハルシネーション 『三省堂現代新国語辞典』小野正弘先生 ハルシネーション〈名〉［←hallucination］人工知能（AI）が、事実とは異なる情報を生み出してしまうこと。「━‬を警戒する」《</description>
     </item>
+    <item>
+      <title>日本IBM、生成AIのリスク管理する「watsonx.governance」提供開始</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/04/news159.html</link>
+      <pubDate>2023/12/04 19:06</pubDate>
+      <description>【読売新聞】　【ニューヨーク＝小林泰裕】ＡＩ（人工知能）研究の第一人者として知られるカナダ・トロント大名誉教授のジェフリー・ヒントン氏（７５）が、読売新聞の書面インタビューに応じた。「生成ＡＩが人類の知能を上回り、人間社会を支配する</description>
+    </item>
+    <item>
+      <title>RAG(Retrieval Augmented Generation)を用いたPostgreSQLアシスタントAIの試作 - Qiita</title>
+      <link>https://qiita.com/comware_hiratsuka/items/7fbc9df423dd64160f73</link>
+      <pubDate>2023/12/04 08:47</pubDate>
+      <description>Honoのミドルウェアは作れる Honoには様々なミドルウェアがある。公式のsrc/middlewareやhonojs/middlewareリポジトリにたくさんある。ということはHonoのミドルウェア、俺も自作できるんや…！と気づいたので、何か作ろうとおもった。 似ている位置づけのExpressのミドルウェアを調べていたところ、「helmet」が便利そうであることがわかった。 Helmet helmetとはExpressのミドルウェアで、こんな風に書くとセキュリティ系のヘッダーをいい感じにつけてくれる。 import express from &amp;quot;express&amp;quot;; import helmet from &amp;quot;helmet&amp;quot;; const app = express(); // Use Helmet! app.use(helmet()); app.get(&amp;quot;/&amp;quot;, (req, res) =&amp;gt; {</description>
+    </item>
+    <item>
+      <title>課長や部長などの中間管理職の階層は減っていく　AI時代のフラットな組織で求められるリーダー像</title>
+      <link>https://logmi.jp/business/articles/329628</link>
+      <pubDate>2023/11/30 20:54</pubDate>
+      <description>ChatGPTのリリースは、AI研究や商業分野における大きな転換点となりました。指示チューニング、ファインチューニング、そして人間のフィードバックからの強化学習などもあわせて、さまざまなタスクで能力を示してきました。 この成功に触発され、オープンソースLLMは急速に進化しています。 そこで研究者らは、ChatGPTのリリースから1年を振り返り、オープンソースLLMがどのように進化し、例えばどのようなタスクでChatGPTと競合するレベルに達しているかを調査しました。 本記事では調査報告内容を読んでいきます。 参照論文情報 タイトル：ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up? 著者：Hailin Chen, Fangkai Jiao, Xingxuan Li, Cheng</description>
+    </item>
   </channel>
 </rss>
