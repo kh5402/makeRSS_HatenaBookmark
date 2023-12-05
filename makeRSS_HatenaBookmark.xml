@@ -13392,5 +13392,38 @@
       <pubDate>2023/12/01 11:17</pubDate>
       <description>書いてたテキストエリアがどっかいく、みたいなことがたびたびあって、スクショを定期的に取っていればこんなことにならないのに…と思っていた。 先日、Redash用に、がんばって書いたSQLがどっかいってしまい、ものすごく悲しい、という出来事があったのであ、あまりに悲しさに、重い腰を上げてスクリプトを書いた。 きのうがんばって書いたRedashクエリを保存せずに消してしまった悲しみから、Macの画面のスクリーンショットを撮り続けるスクリプトを書いて、xbar経由で毎分実行してキャプチャし続けている。Macに入ってるOCR機能も呼び出して検索できるようにしたい https://t.co/ibVVCLZszg— 趣味はマリンスポーツです (@hitode909) 2023年11月30日 やっていること 画面全体のスクショを撮って、デスクトップ内のフォルダに置いていく 複数ディスプレイを使ってる場合も</description>
     </item>
+    <item>
+      <title>OpenAIのCEOを退任して12日で電撃復帰したサム・アルトマンがインタビューに応じるも「なぜ解雇されたのか？」という問題の核心には回答拒否</title>
+      <link>https://gigazine.net/news/20231205-sam-altman-explains-fired-rehired-openai/</link>
+      <pubDate>2023/12/05 06:45</pubDate>
+      <description>クラウドインフラのシェア、生成AIブームによりマイクロソフトが上昇率でGoogleを抜いてトップに、AWSを猛追中。2023年第3四半期。Canalysの調査 調査会社のCanalysは、2023年第3四半期のグローバルにおけるクラウドインフラのシェアを発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 同時期のクラウドインフラのシェアの調査結果として、すでに先月（2023年11月）にSynergy Researchの調査結果が報告されており、そこではマイクロソフトが3カ月で2ポイントのシェア上昇を見せていたことが示されました。 参考：グローバルのクラウドインフラ市場シェア、この3カ月でマイクロソフトのシェアが2％増加。2023年第3四半期、Synergy Researchの調査結果。 Canalysの調査結果でも同様に、マイ</description>
+    </item>
+    <item>
+      <title>[プレビュー]Amazon Lexでは、ノーコードで簡単に、RAGのチャットボットを構築できるようになりました #AWSreInvent | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-lex-conversational-faq-preview/</link>
+      <pubDate>2023/12/05 07:03</pubDate>
+      <description>みなさん、API経由でGPT-4Vが使えるようになったのはご存知ですか？ その名も「GPT-4V API」というモデル名なのですが、GitHubでスター10,000超えのAIツール・tldrawに採用されています。 このGPT-4V APIは、アプリ・サービスに目を与えてくれるすぐれものなんです！ 当記事では、そんなGPT-4V APIの活用事例のうち、SNSでバズったものだけを10個ピックアップしました。 最後まで読んでいただくと、APIで作れるアプリ・サービスのレパートリーが増えるかもしれません。ぜひ最後までお読みくださいね！ なお弊社では、APIを活用したチャットボット開発についての1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる GPT-4V APIとは？概要を紹介 「GPT-4V API」はChatGPT APIのなかで唯一、画像入力に</description>
+    </item>
+    <item>
+      <title>大規模言語モデルの構造を3Dで視覚化してどんな計算が行われているのかを見やすく表示してくれるサイト「LLM Visualization」</title>
+      <link>https://gigazine.net/news/20231204-llm-visualization/</link>
+      <pubDate>2023/12/04 16:04</pubDate>
+      <description>形状分類について 形状分類（Shape Classification）は、さまざまな形状を識別し、分類するプロセスです。これは、コンピュータビジョン、パターン認識、機械学習などの分野で広く使用されています。形状分類の目的は、画像や物体内の特定の形状を識別し、それらを事前に定義されたカテゴリに分類することです。このプロセスは以下のステップで構成されます。 データ収集と前処理： 形状を含む画像や物体のデータセットを収集し、ノイズの除去やサイズの調整などの前処理を行います。 セグメンテーション：前処理された画像は、個々のオブジェクトを識別するためにセグメンテーションされます。 特徴抽出：各オブジェクトから形状記述子（面積、周囲長、円形度、アスペクト比、丸み、固体度など）を計算し、形状を識別するために重要な特徴を抽出します。 分類と評価： 抽出された特徴を使用して形状を分類し、例えば機械学習（ニュ</description>
+    </item>
+    <item>
+      <title>大規模言語モデルの事前学習知見を振り返る</title>
+      <link>https://zenn.dev/turing_motors/articles/0f5ac6840f66fe</link>
+      <pubDate>2023/12/04 07:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a14ab227e395b569e3782b8129d067e2a6f0460a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1551%2F614%2Fcopilot.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【衝撃】GoogleのAI開発第一人者が発表した「2045年までに実現されること」一覧がやばすぎるｗｗｗ : 哲学ニュースnwk</title>
+      <link>http://blog.livedoor.jp/nwknews/archives/6092105.html</link>
+      <pubDate>2023/12/03 07:32</pubDate>
+      <description>米ラスベガスで開かれたAI（人工知能）の検証イベントを企画した一人が、旧ツイッター（現X）でAI倫理のトップをつとめていたルマン・チョードリー氏だ。起業家イーロン・マスク氏による買収後のXの混乱は、AIが抱える問題にも通じると言う。AIとの向き合い方についてチョードリー氏に聞いた。 ――なぜ今回のような検証イベントをやったのですか。 「いくつかの理由があるが、まずは企業、政府、NPOが連携して、AIの課題を克服できるということを示したかった。二つ目は、異なるバックグラウンドや技能を持った人が基盤モデルを試し、最新のAI技術について批判的に考えることを学んでほしかった。そして三つ目は、そうしたデータをもとに、企業がどうやって自分たちの基盤モデルを改善できるかについて有益な情報を提供すること。検証イベントを独立した組織が運営することの意義も大きい」 ――オープンAIやグーグルなどのAI企業が検</description>
+    </item>
   </channel>
 </rss>
