@@ -13443,5 +13443,23 @@
       <pubDate>2023/11/30 10:38</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>作るだけなら簡単なLLMを“より優れたもの”にするには　「Pretraining」「Fine-Tuning」「Evaluation &amp;amp; Analysis」構築のポイント</title>
+      <link>https://logmi.jp/tech/articles/329756</link>
+      <pubDate>2023/12/05 11:18</pubDate>
+      <description>「責任あるAI」チームを再編した米Meta　ビッグテックですら手探り、AI倫理に“最適解”はあるのか：事例で学ぶAIガバナンス（1/3 ページ） 米Metaは「レスポンシブルAI」（責任あるAI）チームの再編を発表した。AIの開発や運用、利用が倫理的に行われているか運用していくチームに当たるが、なぜMetaはその再編を行うに至ったのだろうか。 レスポンシブルAIとは、AIの開発や運用、利用に当たり、それが倫理的に行われている状態を指す。またその実現に向けて企業が行動し、説明責任を果たすこと（例えば、関連する指針やガイドライン、ポリシー類の策定や、各種ガバナンス体制の構築・運用といった取り組み）を指す表現としても、この言葉が使われている。 いま企業ではこうした取り組みを推進するため、レスポンシブルAIを担当するチームの設置や、担当部署の明確化を行うところが増えている。Metaもその1社で、レ</description>
+    </item>
+    <item>
+      <title>DeepMind・OpenAI・Anthropicの設立の経緯について、AIのリスクを最も恐れていた人々は自分たちがトップになるべきだと決心し構築するまで</title>
+      <link>https://gigazine.net/news/20231205-deepmind-openai-anthropic-ai-company/</link>
+      <pubDate>2023/12/05 07:14</pubDate>
+      <description>2023年11月、チャットAIのChatGPTや画像生成AIのDALL・Eなどを開発するOpenAIのサム・アルトマン氏のCEO退任・退職が発表され、12日後にCEOに復帰するという一幕がありました。この電撃的な退任・復帰について、ニュースサイトのThe Vergeがアルトマン氏とCTOのミラ・ムラティ氏に直撃し、いくつかの回答を得ています。 Sam Altman explains being fired and rehired by OpenAI - The Verge https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired 現地時間の2023年11月17日、OpenAIはサム・アルトマンCEOの退任および退社を発表しました。この退任・退社はアルトマン氏が申し入れたものではな</description>
+    </item>
+    <item>
+      <title>クラウドインフラのシェア、生成AIブームによりマイクロソフトが上昇率でGoogleを抜いてトップに、AWSを猛追中。2023年第3四半期。Canalysの調査</title>
+      <link>https://www.publickey1.jp/blog/23/aigoogleaws20233canalys.html</link>
+      <pubDate>2023/12/05 07:27</pubDate>
+      <description>[プレビュー]Amazon Lexでは、ノーコードで簡単に、RAGのチャットボットを構築できるようになりました #AWSreInvent はじめに Amazon Lexでは、ノーコードで簡単にRAGのチャットボットを構築できるスロットタイプAMAZON.QnAIntentがプレビューで提供されました。 AMAZON.QnAIntentを利用することで、基盤モデルを企業データに安全に接続して取得拡張生成 (RAG) を行うことができます。 今回のプレビューにおいて、回答で利用できる基盤モデルは、Claude V2のみです。 基盤モデルが顧客の質問に答えるために情報を取得するソース（以降、ナレッジソース）としては、以下の3つから選択できます。 Amazon OpenSearch Amazon Bedrock knowledge base 同じくre:Invent 2023期間中にGAされました</description>
+    </item>
   </channel>
 </rss>
