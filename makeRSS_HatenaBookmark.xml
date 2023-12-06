@@ -13743,5 +13743,17 @@
       <pubDate>2023/12/05 12:06</pubDate>
       <description>米OpenAI（オープンAI）が対話型AI（人工知能）「ChatGPT」を一般公開して約1年がたった。プログラミングに生成AIを利用し、ソフトウエアを効率よく開発しようとする動きが活発だ。生成AIがコーディングを支援するサービスも相次いで登場している。例えば米GitHub（ギットハブ）は、オープンAIが持つ生成AIの技術を利用し、ソフトウエア開発支援サービス「GitHub Copilot」を提供している。 生成AIの利用はソフトウエア開発の現場にどの程度、浸透しているのだろうか。日経クロステックが実施したアンケート調査「プログラミング言語利用実態調査2023」では、コーディングにおける生成AIの利用状況も尋ねている。今回はその結果を紹介しよう。 ChatGPT利用者のうち3分の1弱は有料版 まず、ChatGPTをソフトウエア開発に利用しているかどうかを尋ねた。その結果、最も多かった回答は「</description>
     </item>
+    <item>
+      <title>コラボレーションツール「Microsoft Loop」一般提供開始　AIで強化された情報共有・共同作業を実現</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2312/05/news072.html</link>
+      <pubDate>2023/12/05 10:34</pubDate>
+      <description>米IBMは12月5日（現地時間）、米Metaと共に「AI Alliance」を立ち上げ、世界中の50以上の組織が創設メンバーとして参加したと発表した。このアライアンスは「オープンで安全で責任あるAI」の推進に焦点を当てた「コミュニティ」だとしている。 創設メンバーには、Intel、AMD、ソニー、ソフトバンク（傘下のSB Intuitions）などの大手の他、Stability AI、Hugging Faceやsakana.aiなどの新興企業、ダートマス大学、東京大学、慶応大学などの大学が名を連ねるが、Microsoftとその出資先のOpenAI、Google、Anthropicは参加していない。 不参加の4社は7月に、AIの安全性のベストプラクティスを特定し、社会的課題へのAI技術の利用を促進するための新しい業界団体「Frontier Model Forum」（FMF）を立ち上げている。</description>
+    </item>
+    <item>
+      <title>コールセンターが生成AIで効率化、トランスコスモスは「エスカレーション」6割削減</title>
+      <link>https://active.nikkeibp.co.jp/atcl/act/19/00530/110900002/</link>
+      <pubDate>2023/12/04 16:39</pubDate>
+      <description>2023年11月、チャットAIのChatGPTや画像生成AIのDALL・Eなどを開発するOpenAIのサム・アルトマン氏のCEO退任・退職が発表され、12日後にCEOに復帰するという一幕がありました。この電撃的な退任・復帰について、ニュースサイトのThe Vergeがアルトマン氏とCTOのミラ・ムラティ氏に直撃し、いくつかの回答を得ています。 Sam Altman explains being fired and rehired by OpenAI - The Verge https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired 現地時間の2023年11月17日、OpenAIはサム・アルトマンCEOの退任および退社を発表しました。この退任・退社はアルトマン氏が申し入れたものではな</description>
+    </item>
   </channel>
 </rss>
