@@ -13974,5 +13974,35 @@
       <pubDate>2023/12/04 14:43</pubDate>
       <description>基礎的な内容としては、生成AIの概要を簡単に説明する60秒間の動画、動画や読み物、知識をテストするためのクイズを含むAIの基礎と独自のAIアプリ開発に役立つGoogle Cloudツールについて学べる22分間のコース、大規模言語モデル（LLM）、ユースケース、プロンプトチューニングを通じてLLMのパフォーマンスを向上させる方法についての基礎を学べる約30分のコースを用意しており、3つの基礎コースを修了すると、生成AIの基本概念についての理解を証明する、Google Cloudスキルバッジが付与される。 ほかにも基礎コースでは、Generative AI Studioの使用方法を紹介する動画、Generative AI Studioの機能、オプション、使用方法をデモ形式で学習可能な動画、Vertex AIでトレーニングおよびデプロイできる拡散モデルについて学べる動画、責任あるAIの概要とGo</description>
     </item>
+    <item>
+      <title>Google、高性能な新AI「Gemini」。Pixel 8 Proにも搭載へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552577.html</link>
+      <pubDate>2023/12/07 01:20</pubDate>
+      <description>Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code. The Gemini eraGemini represents a significant leap forward in how AI can help improve our daily lives. Read the blog post</description>
+    </item>
+    <item>
+      <title>1枚の静止画からAIが人やキャラが動く動画を生成する「MagicAnimate」が公開／ソースコードに加え、Webブラウザー上で実際に動作するデモを利用できる</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1552473.html</link>
+      <pubDate>2023/12/06 16:20</pubDate>
+      <description>NTTデータは、2024年7月にカプセルホテルを開業すると発表した。睡眠解析に特化したコンセプトで、本人同意のもとで宿泊者の睡眠データを取得する。 NTTデータは12月6日、2024年7月にカプセルホテルを開業すると発表した。ホテル事業を展開するナインアワーズなどと協業。睡眠の解析に特化したコンセプトで、本人同意のもとで宿泊者の睡眠データを取得する。2027年までに、グローバルで1000万人の睡眠データ（3万床）を、世界最大規模での睡眠データの蓄積・分析サービスの提供を目指す。 同社が保有する商業ビル「アレア品川」の1階に開設。ベッドは70床を用意する。脳波センサーや、深部体温を推計するセンサー、体内リズム（1日のさまざまな時間帯に発生する身体、精神、行動の変化）を可視化できるセンサーなどを設置し、睡眠データの取得・蓄積・解析に取り組む。宿泊者は自身のデータを知ることも可能で、自身にとって</description>
+    </item>
+    <item>
+      <title>高速なPython互換言語「Mojo」を用いたAIプラットフォーム「MAX」発表。ModCon &amp;#39;23</title>
+      <link>https://www.publickey1.jp/blog/23/pythonmojoaimaxmodcon_23.html</link>
+      <pubDate>2023/12/06 08:10</pubDate>
+      <description>ゾルゲ市蔵 @zolge1 まずこれを見てほしい、有名なネットミーム「パイナップルピザを見せつけられ拷問のように感じるイタリア人」という雑コラ画像である。傑作であるが解像度が低いので、これのＡＩによる再現を試みた。 pic.twitter.com/O1V38C37rl 2023-12-05 20:10:00</description>
+    </item>
+    <item>
+      <title>AI Alliance</title>
+      <link>https://thealliance.ai/</link>
+      <pubDate>2023/12/06 00:18</pubDate>
+      <description>無差別かつ大量に送信されるスパムメールは単に製品やサービスのプロモーションに用いられるだけでなく、時には悪質なマルウェアを配布したり個人情報を抜き取ったりするウェブサイトへの誘導にも使われます。新たにGoogleが、多くの人にとって大きな悩みの種となっているスパムメールを検出するフィルターをアップグレードし、大幅に検出能力を向上させることに成功したと報告しました。 Google Online Security Blog: Improving Text Classification Resilience and Efficiency with RETVec https://security.googleblog.com/2023/11/improving-text-classification.html Gmail’s AI-powered spam detection is its big</description>
+    </item>
+    <item>
+      <title>OpenAIが「GPT Store」のサービス開始を延期、12月から2024年初頭に／一方で“近いうちに「ChatGPT」にも素晴らしいアップデートがある”との予告も</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1551716.html</link>
+      <pubDate>2023/12/04 12:11</pubDate>
+      <description>Kaggle Advent Calendar 3日目の記事です。 今回はKaggleなどのコンペで Metric Learning を試すときにとりあえず最初に実装するコードをまとめました。 UMAPを使ったembeddingの可視化とか faiss を使った検索とかはこの記事で扱ってないです。 1. Metric Learning って何？ 予測値じゃなくて特徴量間の距離に注目して学習する方法 同じクラス内ではなるべく近い距離になるように 違うクラス間ではなるべく遠い距離になるように もっと詳しくしたい人は Qiita 内でもいい記事たくさんあるのでどうぞ。 モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace #DeepLearning - Qiita Softmax関数をベースにした Deep Metri</description>
+    </item>
   </channel>
 </rss>
