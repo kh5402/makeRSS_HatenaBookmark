@@ -13779,5 +13779,32 @@
       <pubDate>2023/12/06 15:11</pubDate>
       <description>無差別かつ大量に送信されるスパムメールは単に製品やサービスのプロモーションに用いられるだけでなく、時には悪質なマルウェアを配布したり個人情報を抜き取ったりするウェブサイトへの誘導にも使われます。新たにGoogleが、多くの人にとって大きな悩みの種となっているスパムメールを検出するフィルターをアップグレードし、大幅に検出能力を向上させることに成功したと報告しました。 Google Online Security Blog: Improving Text Classification Resilience and Efficiency with RETVec https://security.googleblog.com/2023/11/improving-text-classification.html Gmail’s AI-powered spam detection is its big</description>
     </item>
+    <item>
+      <title>GoogleがGmailのスパムフィルターをアップグレードして「人間にしか判読できないスパム」を自動検出可能に</title>
+      <link>https://gigazine.net/news/20231206-gmails-ai-powered-spam-detection/</link>
+      <pubDate>2023/12/06 08:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3997f5916adddb2f0d8173a6ebc09f3d04004b66/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F029%2FH00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ruby-openaiでAIの力を体感！ソースコード解説＆簡単ハンズオン</title>
+      <link>https://www.divx.co.jp/media/techblog-231206</link>
+      <pubDate>2023/12/06 09:02</pubDate>
+      <description>「指示の出し方が悪い人」が、いる。 例えばこんな具合だ。 「安達さん、web制作会社からあがってきたページの確認をしておいて！」 そんな指示が上司から飛んだとする。 実際にそれを体験してみると、この指示が「良い指示」だと思うビジネスパーソンは、ほとんどいないだろう。 なぜならば、 １．「あがってきた」とは何か。メールで届いたものか。メッセンジャーで来たものか。他にもあるのか。何が全てか。 ２．「ページ」とは何か。webページのことか、または別の形式・フォーマットを指すのか。 ３．「確認」とは何か。何を基準とするのか。どうすれば作業終了となるのか。 など、作業を進めようとすればするほど、次々に疑問が湧くからだ。 酷いときには、よくわからない書類をぽんと渡されたり、謎のメールを転送されて 「これやっといて」 などという指示をする人もいる。 要するにこれらはすべて、「手抜き指示」だ。 こういう指</description>
+    </item>
+    <item>
+      <title>キャラクター画像をアニメに　中国アリババなど「Animate Anyone」開発　ボーンの動きを反映</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/06/news059.html</link>
+      <pubDate>2023/12/06 08:09</pubDate>
+      <description>12月5日午後10時に予約受け付け開始された「Looking Glass Go」は、いわゆる裸眼立体視ディスプレイの一種です。スマートフォンサイズ（ほぼiPhone 15と同サイズ）でバッテリー駆動が可能でありながら、見る場所によって映像が変化します。日本ではKibidangoで注文できます。価格は最初の48時間限定で3万8000円から（消費税、送料込み）。2024年6月に出荷開始を予定しています。 開発はLooking Glass Factory。同社はライトフィールドディスプレイという技術を専門としており、2020年12月には7.9インチの「Looking Glass Portrait」のクラウドファンディングを開始しています。その時に筆者が書いた記事がこちら。 ・視点を変えても立体物がそこにあるように見える「Looking Glass Portrait」ディスプレイ、クラファン中（た</description>
+    </item>
+    <item>
+      <title>MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model</title>
+      <link>https://showlab.github.io/magicanimate/</link>
+      <pubDate>2023/12/05 15:25</pubDate>
+      <description>moshとはｲﾆｼｴから存在するモバイル回線でも安定して接続を維持するためのSSHです。 昨今のクウラウド事情でそもそもSSHを使う場面が皆無になっていたのですが、最近機械学習のモデルを学習・実行する時に家にあるUbuntu+GPUサーバーを使うようになり、むしろずっとSSHしながら開発するスタイルに戻っていました。 な、の、ですが！ mosh-&amp;gt;tmux-&amp;gt;neovimの場合に表示がガッツリ崩れる問題があり、代用品を探していました。 そして探し始めるとすぐに EternalTerminalという後発でイケてる感じのツールを発見しました。 このツイートから4ヶ月ほど経ちましたが、実際今も使っており、接続も時のごとく永遠に繋がりっぱなし（もちろんUbuntuの電源を切ると死ぬ）で、移動後の復帰も何も感じずに作業を再開できているので、まるで空気だったのですが、そういえばちゃんと紹介してなかった</description>
+    </item>
   </channel>
 </rss>
