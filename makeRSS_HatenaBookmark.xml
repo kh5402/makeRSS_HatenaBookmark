@@ -13773,5 +13773,11 @@
       <pubDate>2023/12/05 22:42</pubDate>
       <description>最近では、RAG（Retrieval Augmented Generation）を使って、検索して得られた文書を生成時に活用することがありますが、その性能を改善するための手法の1つとしてハイブリッド検索が知られています。ハイブリッド検索は、2つ以上の異なる検索技術を組み合わせた検索方法です。最近は、全文検索とベクトル検索の組み合わせを見ることが多く、その良いとこ取りをすることで検索性能を改善します。 ハイブリッド検索の有効性はいたるところで報告されていますが、「適当に全文検索とベクトル検索を組み合わせるだけで性能が上がるのか？」というとそれには疑問があります。ハイブリッド検索では、全文検索とベクトル検索の結果をランク融合アルゴリズムを使って統合することが行われます。そのような仕組み上、どちらか片方の検索性能が低い場合、全体としての性能が下がることが考えられるはずです。 そこで本記事では、日</description>
     </item>
+    <item>
+      <title>架空のおじさん新聞と「普通」の生成</title>
+      <link>https://techno-note.net/article/2023/12/06/2745</link>
+      <pubDate>2023/12/06 15:11</pubDate>
+      <description>無差別かつ大量に送信されるスパムメールは単に製品やサービスのプロモーションに用いられるだけでなく、時には悪質なマルウェアを配布したり個人情報を抜き取ったりするウェブサイトへの誘導にも使われます。新たにGoogleが、多くの人にとって大きな悩みの種となっているスパムメールを検出するフィルターをアップグレードし、大幅に検出能力を向上させることに成功したと報告しました。 Google Online Security Blog: Improving Text Classification Resilience and Efficiency with RETVec https://security.googleblog.com/2023/11/improving-text-classification.html Gmail’s AI-powered spam detection is its big</description>
+    </item>
   </channel>
 </rss>
