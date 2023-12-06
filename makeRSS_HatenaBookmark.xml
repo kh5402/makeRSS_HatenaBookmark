@@ -13665,5 +13665,29 @@
       <pubDate>2023/12/05 21:04</pubDate>
       <description>【シリコンバレー=奥平和行】米メタと米IBMは5日、誰でも自由に利用・改変できるオープンソースによる生成AI（人工知能）の開発や利用を促進するため、50超の企業や研究機関などと新団体を立ち上げたと発表した。日本からもソニーグループやソフトバンクの生成AI開発子会社などが新団体に加わった。「AIアライアンス」を設立し、オラクルやデル・テクノロジーズなどの米IT（情報技術）大手や、インテルやアドバ</description>
     </item>
+    <item>
+      <title>Amazon Transcribeが新しい音声基盤モデルによって精度向上を発表したので、日本語で確認してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/reinvent-transcribe-improved-accuracy/</link>
+      <pubDate>2023/12/06 07:03</pubDate>
+      <description>Starling-LM-7B-alphaは、Reinforcement Learning from AI Feedback (RLAIF)という手法を用いて構築された最新の大規模言語モデルで、GPT-4ラベル付きランキングデータセットNectarと、新しい報酬モデルで学習及びポリシーチューニングが行われています。 このモデルの特徴は、最新のLLMであるOpenchat 3.5をベースに構築されており、一部のベンチマークスコアがあのGPT-4に迫るほどの性能を獲得している点です。 小型LLMながら、LLM界の巨人であるGPT-4と張り合うのは、映画「マトリックス」シリーズで 、システムに対する理解や戦闘訓練が不足していたネオが、次第に自身の能力を開花させていき、強大なエージェントと対峙する場面を彷彿とさせます。 今回は、Starling-LM-7B-alphaの概要や使ってみた感想をお伝えし</description>
+    </item>
+    <item>
+      <title>生成AIの活用事例 10選｜masa_kazama</title>
+      <link>https://note.com/masa_kazama/n/n0f340ab3a3d8</link>
+      <pubDate>2023/12/05 21:09</pubDate>
+      <description>米IBMは12月5日（現地時間）、米Metaと共に「AI Alliance」を立ち上げ、世界中の50以上の組織が創設メンバーとして参加したと発表した。このアライアンスは「オープンで安全で責任あるAI」の推進に焦点を当てた「コミュニティ」だとしている。 創設メンバーには、Intel、AMD、ソニー、ソフトバンク（傘下のSB Intuitions）などの大手の他、Stability AI、Hugging Faceやsakana.aiなどの新興企業、ダートマス大学、東京大学、慶応大学などの大学が名を連ねるが、Microsoftとその出資先のOpenAI、Google、Anthropicは参加していない。 不参加の4社は7月に、AIの安全性のベストプラクティスを特定し、社会的課題へのAI技術の利用を促進するための新しい業界団体「Frontier Model Forum」（FMF）を立ち上げている。</description>
+    </item>
+    <item>
+      <title>プレスリリースからニュース記事を生成する「プレスリリース記事変換AI」、ユーザーローカルが提供　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1552193.html</link>
+      <pubDate>2023/12/05 19:55</pubDate>
+      <description>【シリコンバレー=奥平和行】米メタと米IBMは5日、誰でも自由に利用・改変できるオープンソースによる生成AI（人工知能）の開発や利用を促進するため、50超の企業や研究機関などと新団体を立ち上げたと発表した。日本からもソニーグループやソフトバンクの生成AI開発子会社などが新団体に加わった。「AIアライアンス」を設立し、オラクルやデル・テクノロジーズなどの米IT（情報技術）大手や、インテルやアドバ</description>
+    </item>
+    <item>
+      <title>オタ恋のカップル、動く　公式が“AI動画”投稿　「今後は動画広告も展開していく」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/05/news134.html</link>
+      <pubDate>2023/12/05 13:06</pubDate>
+      <description>基礎的な内容としては、生成AIの概要を簡単に説明する60秒間の動画、動画や読み物、知識をテストするためのクイズを含むAIの基礎と独自のAIアプリ開発に役立つGoogle Cloudツールについて学べる22分間のコース、大規模言語モデル（LLM）、ユースケース、プロンプトチューニングを通じてLLMのパフォーマンスを向上させる方法についての基礎を学べる約30分のコースを用意しており、3つの基礎コースを修了すると、生成AIの基本概念についての理解を証明する、Google Cloudスキルバッジが付与される。 ほかにも基礎コースでは、Generative AI Studioの使用方法を紹介する動画、Generative AI Studioの機能、オプション、使用方法をデモ形式で学習可能な動画、Vertex AIでトレーニングおよびデプロイできる拡散モデルについて学べる動画、責任あるAIの概要とGo</description>
+    </item>
   </channel>
 </rss>
