@@ -13917,5 +13917,29 @@
       <pubDate>2023/12/06 09:53</pubDate>
       <description>MetaとIBMが50以上の団体と共同でAIの研究開発を支援するオープンソースコミュニティ「AI Alliance」を設立しました。AI AllianceはAIの研究開発に取り組む研究者の支援を目的としており、AMD、Intel、NASA、ソニー、東京大学など日本を含む世界中の団体が参加しています。 AI Alliance https://thealliance.ai/news Introducing the AI Alliance https://ai.meta.com/blog/ai-alliance/ AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advanc</description>
     </item>
+    <item>
+      <title>Introducing Gemini: our largest and most capable AI model</title>
+      <link>https://blog.google/technology/ai/google-gemini-ai/</link>
+      <pubDate>2023/12/07 00:09</pubDate>
+      <description>NTTデータは、2024年7月にカプセルホテルを開業すると発表した。睡眠解析に特化したコンセプトで、本人同意のもとで宿泊者の睡眠データを取得する。 NTTデータは12月6日、2024年7月にカプセルホテルを開業すると発表した。ホテル事業を展開するナインアワーズなどと協業。睡眠の解析に特化したコンセプトで、本人同意のもとで宿泊者の睡眠データを取得する。2027年までに、グローバルで1000万人の睡眠データ（3万床）を、世界最大規模での睡眠データの蓄積・分析サービスの提供を目指す。 同社が保有する商業ビル「アレア品川」の1階に開設。ベッドは70床を用意する。脳波センサーや、深部体温を推計するセンサー、体内リズム（1日のさまざまな時間帯に発生する身体、精神、行動の変化）を可視化できるセンサーなどを設置し、睡眠データの取得・蓄積・解析に取り組む。宿泊者は自身のデータを知ることも可能で、自身にとって</description>
+    </item>
+    <item>
+      <title>高度な生成AI「GPT-4 Turbo」と「新DALL-E 3」、Microsoft Copilotに実装へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552348.html</link>
+      <pubDate>2023/12/06 12:43</pubDate>
+      <description>Wikipediaの運営元であるウィキメディア財団が、英語版Wikipediaで2023年に最も閲覧された記事をまとめています。なお、2023年の英語版Wikipediaの総閲覧数は840億回を超えたそうです。 Announcing Wikipedia&amp;#39;s most popular articles of 2023 – Wikimedia Foundation https://wikimediafoundation.org/news/2023/12/05/announcing-wikipedias-most-popular-articles-of-2023/ 2023年に英語版Wikipediaで最も閲覧された記事のトップ25と、その閲覧数は以下の通り。 ◆1：ChatGPT(日本語版)：4949万406PV ◆2：Deaths in 2023(訃報 2023年)：4266万6860PV</description>
+    </item>
+    <item>
+      <title>最強タッグ「OpenAI＋Microsoft」を追いかけるAWS　勝機は“選べる自由”にあり</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/06/news124.html</link>
+      <pubDate>2023/12/06 15:17</pubDate>
+      <description>AI英会話アプリ｢スピーク（Speak）｣。OpenAIから出資を受けている企業の1つだ。 撮影：Business Insider Japan ChatGPTをはじめとする生成AIの登場によって、語学学習にも変化の波が起きている。 2016年に米国シリコンバレーで創業したSpeakeasy Labs, Inc（以下、スピーク）は、ChatGPTを開発したOpenAIから出資を受け、同社のAI技術も活用したAI英会話アプリ｢スピーク（Speak）｣で支持を得ている。 同社の強みは、自社開発の自動音声認識技術と生成AI技術をかけ合わせ、｢会話｣に特化したレッスンを提供していること。教科書的な言い回しではなく、シリコンバレーのビジネスシーンで利用される｢ネイティブの表現｣を学べることが特徴だ。 現在、韓国、日本、メキシコ、台湾でサービスを提供しており、グローバル累計のダウンロード数は460万を突</description>
+    </item>
+    <item>
+      <title>「Meta」「IBM」「ソニー」「東京大学」「慶應義塾大学」など50以上の団体がAI開発推進コミュニティ「AI Alliance」を共同設立</title>
+      <link>https://gigazine.net/news/20231206-ai-alliance/</link>
+      <pubDate>2023/12/06 11:41</pubDate>
+      <description>生成AIの出力画像を元にCGで作った新聞っぽいフェイク画像をXに投稿したところ、想像以上の反響がありました。気軽な実験のつもりで説明も雑過ぎたため、伝わりにくかったり誤解されたりした部分もあるようです。どのように、なぜ作ったのか補足します。 どのように作ったか今回のフェイク新聞、作り方はかなり手抜きです。こうした制作に慣れている方なら30分もかからないでしょう。今はまだ多少専門性を求められますが、1年もすると「頑張れば誰にでも」程度になっているかもしれません。 実験としては、ぱっと見新聞だと感じてもらえなければ成立しません。しかしフェイクを作るのではなく、フェイクが作れる可能性の提示が目的です。画像が単体で流れていく可能性を考えると何かしら対策が必要で、強固な透かしを入れるか、不可欠な割合で虚偽性を組み込むかなど考えられます。今回は気軽な実験のつもりだったので、よく見ればフェイクと気付ける</description>
+    </item>
   </channel>
 </rss>
