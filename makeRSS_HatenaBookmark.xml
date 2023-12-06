@@ -13755,5 +13755,17 @@
       <pubDate>2023/12/04 16:39</pubDate>
       <description>2023年11月、チャットAIのChatGPTや画像生成AIのDALL・Eなどを開発するOpenAIのサム・アルトマン氏のCEO退任・退職が発表され、12日後にCEOに復帰するという一幕がありました。この電撃的な退任・復帰について、ニュースサイトのThe Vergeがアルトマン氏とCTOのミラ・ムラティ氏に直撃し、いくつかの回答を得ています。 Sam Altman explains being fired and rehired by OpenAI - The Verge https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired 現地時間の2023年11月17日、OpenAIはサム・アルトマンCEOの退任および退社を発表しました。この退任・退社はアルトマン氏が申し入れたものではな</description>
     </item>
+    <item>
+      <title>【西川和久の不定期コラム】 OCuLinkでミニPCにGeForceを後付け！？高速AI&amp;amp;ゲーム環境構築にチャレンジ</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1552029.html</link>
+      <pubDate>2023/12/06 08:06</pubDate>
+      <description>「指示の出し方が悪い人」が、いる。 例えばこんな具合だ。 「安達さん、web制作会社からあがってきたページの確認をしておいて！」 そんな指示が上司から飛んだとする。 実際にそれを体験してみると、この指示が「良い指示」だと思うビジネスパーソンは、ほとんどいないだろう。 なぜならば、 １．「あがってきた」とは何か。メールで届いたものか。メッセンジャーで来たものか。他にもあるのか。何が全てか。 ２．「ページ」とは何か。webページのことか、または別の形式・フォーマットを指すのか。 ３．「確認」とは何か。何を基準とするのか。どうすれば作業終了となるのか。 など、作業を進めようとすればするほど、次々に疑問が湧くからだ。 酷いときには、よくわからない書類をぽんと渡されたり、謎のメールを転送されて 「これやっといて」 などという指示をする人もいる。 要するにこれらはすべて、「手抜き指示」だ。 こういう指</description>
+    </item>
+    <item>
+      <title>スマホサイズの裸眼3Dディスプレイ「Looking Glass Go」3万8000円で予約受付開始。動くAIキャラと雑談も可能 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/05/2401.html</link>
+      <pubDate>2023/12/05 22:45</pubDate>
+      <description>Amazon Transcribeが新しい音声基盤モデルによって精度向上を発表したので、日本語で確認してみた はじめに AWS re:Invent 2023で、Amazon Transcribeは、次世代の数十億パラメータの音声基盤モデルを搭載した自動音声認識 (ASR)を発表しました。 搭載したことにより、バッチモードでTranscribe を使用する場合、APIエンドポイントや入力パラメータを変更することなく、100 以上の言語で精度向上を実感できるようです。 下記でも紹介されていました。 こちらのAWSのブログでも下記のことが記載されています。 Amazon Transcribe は音声基盤モデルを活用することで、ほとんどの言語で 20% から 50% の大幅な精度向上を実現します。困難でデータが不足している分野である電話音声では、精度が 30% ～ 70% 向上しました。この大規模</description>
+    </item>
   </channel>
 </rss>
