@@ -13878,5 +13878,32 @@
       <pubDate>2023/12/06 21:32</pubDate>
       <description>今年ウィキペディアで最も閲覧されたのは「ＣｈａｔＧＰＴ」に関するページだった/Leon Neal/Getty Images （ＣＮＮ） オンライン百科事典の「ウィキペディア」で２０２３年に最も閲覧されたページ上位２５件が５日発表され、上位ページは人工知能（ＡＩ）の技術革新に対する世界の関心や、今年死亡した人々、ウェブサイトの流行に影響を与えるインド人利用者の力の増大を反映したものとなった。 ウィキペディアは非営利団体「ウィキメディア財団」が運営している。同財団がＣＮＮと共有したデータによれば、ウィキペディアの今年の閲覧数はこれまでに８４０億回にのぼる。 米オープンＡＩ社の対話型ＡＩ「ＣｈａｔＧＰＴ（チャットＧＰＴ）」に関するページは今年ウィキペディアで最も閲覧されたページとなり、閲覧数は４９４９万４０６回を記録した。 財団の広報部門のトップはＣＮＮの取材に対し、「ＣｈａｔＧＰＴの科学技術を</description>
     </item>
+    <item>
+      <title>NTTデータ、カプセルホテルを開設へ　眠りのデータを収集・活用　24年7月オープン</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/06/news137.html</link>
+      <pubDate>2023/12/06 15:28</pubDate>
+      <description>サイバーエージェントは広告に使う背景や商品の画像をつくる生成AI（人工知能）を開発した。商品に差し込む光を再現するなど複雑な表現にも対応する。森や海などでのロケが不要になり、広告制作を効率化できる。2024年1月から広告制作に活用し、化粧品、食品といった広告主の需要を見込む。商品を選んでから「砂浜」「夕暮れの湖畔」といった場面を入力すると、広告に使う背景画像を数分で生成する。生成した画像はバナ</description>
+    </item>
+    <item>
+      <title>役所にたらい回しにされないコツ</title>
+      <link>https://anond.hatelabo.jp/20231206173234</link>
+      <pubDate>2023/12/06 17:35</pubDate>
+      <description>生成AIの出力画像を元にCGで作った新聞っぽいフェイク画像をXに投稿したところ、想像以上の反響がありました。気軽な実験のつもりで説明も雑過ぎたため、伝わりにくかったり誤解されたりした部分もあるようです。どのように、なぜ作ったのか補足します。 どのように作ったか今回のフェイク新聞、作り方はかなり手抜きです。こうした制作に慣れている方なら30分もかからないでしょう。今はまだ多少専門性を求められますが、1年もすると「頑張れば誰にでも」程度になっているかもしれません。 実験としては、ぱっと見新聞だと感じてもらえなければ成立しません。しかしフェイクを作るのではなく、フェイクが作れる可能性の提示が目的です。画像が単体で流れていく可能性を考えると何かしら対策が必要で、強固な透かしを入れるか、不可欠な割合で虚偽性を組み込むかなど考えられます。今回は気軽な実験のつもりだったので、よく見ればフェイクと気付ける</description>
+    </item>
+    <item>
+      <title>高速なPython互換言語の「Mojo」、そのままGPUで実行可能に。「MAX GPUs」発表。ModCon &amp;#39;23</title>
+      <link>https://www.publickey1.jp/blog/23/pythonmojogpumax_gpusmodcon_23.html</link>
+      <pubDate>2023/12/06 08:54</pubDate>
+      <description>目次[非表示] 1.はじめに 2.ruby-openaiとは？ 2.1.ruby-openaiの機能一覧 2.2.ruby-openai自体の説明 3.ハンズオン 3.1.準備 3.2.ChatGPT 3.3.Embeddings 3.4.Files 3.5.Finetune 3.6.Image 3.7.Edit 3.8.Whisper 3.9.Transcribe 4.感想・まとめ 5.おわりに こちらの記事はDIVXアドベントカレンダー2023の6日目の記事です。 はじめに株式会社divxの細野・大石です。 現在、私たちの所属する株式会社divxにおいて、Rubyを使用した案件比率は少なくありません。 また、最近は「Chat-GPT」が巷を大変賑わせており、自然言語処理を活用する案件も今後一層増えてくるのではと感じています。 一方で、Rubyで自然言語処理モデルを使用するためのライブラ</description>
+    </item>
+    <item>
+      <title>NVIDIAのジェンスン・フアンCEOが「GPUを日本へ優先的に供給したい」と発言</title>
+      <link>https://gigazine.net/news/20231205-nvidia-jensen-huang-support-japan/</link>
+      <pubDate>2023/12/05 13:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cf05b652899383f355392f27110b1a9ce5f429a7/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F075%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
