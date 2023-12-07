@@ -14292,5 +14292,26 @@
       <pubDate>2023/12/07 22:35</pubDate>
       <description>AMDがNVIDIA H100の最大1.6倍の性能を誇るGPUである「Instinct MI300X」と、CPUとGPUを組み合わせたAPUである「Instinct MI300A」を発表しました。 AMD Delivers Leadership Portfolio of Data Center AI Solutions with AMD Instinct MI300 Series :: Advanced Micro Devices, Inc. (AMD) https://ir.amd.com/news-events/press-releases/detail/1173/amd-delivers-leadership-portfolio-of-data-center-ai Meta and Microsoft to buy AMD&amp;#39;s new AI chip as alternative t</description>
     </item>
+    <item>
+      <title>AMDがAIチップ「Instinct MI300」シリーズでNVIDIAの牙城に切り込む、既にOpenAI・Microsoft・Meta・Oracleが採用を決定</title>
+      <link>https://gigazine.net/news/20231207-amd-instinct-mi300-alternative-nvidia/</link>
+      <pubDate>2023/12/07 16:04</pubDate>
+      <description>Googleが、Google DeepMindによって発表されたAIモデル「Gemini」を、Googleの対話型AI「Bard」に導入すると発表しました。 Google Bard: How to try the new Gemini AI model https://blog.google/products/bard/google-bard-try-gemini-ai/ Google傘下のAI企業・Google DeepMindが2023年12月6日にリリースしたGeminiは、各種ベンチマークでGPT-4を超える性能を見せたマルチモーダルAIで、性能とサイズに応じて最上位モデルの「Gemini Ultra」、中間モデルの「Gemini Pro」、モバイル向けの「Gemini Nano」の3つが用意されています。具体的にどのようなAIモデルなのかは、以下の記事を読むとよくわかります。 文</description>
+    </item>
+    <item>
+      <title>1960年代のチャットボット「ELIZA」がチューリングテストでOpenAIの「GPT-3.5」を破る</title>
+      <link>https://gigazine.net/news/20231207-gpt-eliza-turing-test/</link>
+      <pubDate>2023/12/07 17:06</pubDate>
+      <description>現地時間の2023年12月6日にGoogleがマルチモーダルAI「Gemini」をリリースしました。Geminiは大規模言語モデル「PaLM 2」と比べてプログラミング能力が向上しているほか、Geminiをベースに競技プログラミングに特化させたAI「AlphaCode 2」も開発されています。 Introducing Gemini: Google’s most capable AI model yet https://blog.google/technology/ai/google-gemini-ai/#scalable-efficient Gemini: Excelling at competitive programming - YouTube GeminiはPython、Java、C＋＋、Goを扱うことが可能とのこと。 約200種のPythonコードを書かせるテストでは、PaLM 2</description>
+    </item>
+    <item>
+      <title>ノーコード開発なのに盛大にやらかした - Qiita</title>
+      <link>https://qiita.com/takahiko/items/3d5abdd9ec4cb6a77e5e</link>
+      <pubDate>2023/12/07 10:07</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8e385a34bf1738796effbac8c1580faf8b0717da/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F719%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
