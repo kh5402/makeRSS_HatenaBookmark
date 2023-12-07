@@ -14250,5 +14250,32 @@
       <pubDate>2023/12/07 02:55</pubDate>
       <description>メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。</description>
     </item>
+    <item>
+      <title>AIモデル「Gemini Pro」で大幅強化されたBardが利用可能に、2024年にはGemini Ultra搭載の「Bard Advanced」も登場</title>
+      <link>https://gigazine.net/news/20231207-google-bard-advanced-gemini-ai/</link>
+      <pubDate>2023/12/07 19:17</pubDate>
+      <description>対話相手が機械なのか人間に予想してもらう「チューリングテスト」の結果、「ChatGPT」に使われるOpenAIの言語モデル「GPT-3.5」が1960年代のチャットボット「ELIZA」に敗北したことがわかりました。 [2310.20216] Does GPT-4 Pass the Turing Test? https://arxiv.org/abs/2310.20216 1960s chatbot ELIZA beat OpenAI’s GPT-3.5 in a recent Turing test study | Ars Technica https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-stud</description>
+    </item>
+    <item>
+      <title>GoogleのマルチモーダルAI「Gemini」ベースのプログラミングに特化したAI「AlphaCode 2」登場、競技プログラミング上位15％に入る性能</title>
+      <link>https://gigazine.net/news/20231207-google-gemini-programming-alphacode-2/</link>
+      <pubDate>2023/12/07 15:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8e385a34bf1738796effbac8c1580faf8b0717da/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F719%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepMindの『GNoME』が「人間の直感を超えた220万の材料を発見し」うち736は既に人間が実験室で再現したとの報告、Nature誌 | AIDB</title>
+      <link>https://aiboom.net/archives/59797</link>
+      <pubDate>2023/12/06 13:29</pubDate>
+      <description>忍び寄るAIという幽霊 その新しい仕事を始める前の週までは、すべてがうまく行っていた。真夏のある日、私は古い工場を改装したコワーキングスペースの椅子に座り、さまざまなテーマを調べるためにインターネットを巡回していた。 私は「フリーの作家」を自称している。実際は「ジャーナリスト」なのだが、大部屋の事務所を連想させる「ジャーナリスト」に対し、万年筆を連想させる「作家」のほうが、気に入っているのだ。 ここ数年間、私の業界の展望は決して明るくはなかった。ポスト削減、下がる原稿料、次々と移り変わる短命のトピック。そこに今年、新しい幽霊が出るようになった。人工知能という幽霊である。 その正体が何たるかを知っている人はほとんどいないが、1つだけ、誰もが知っていることがあった。それは、かなり、かなりまずい状況になりつつあるということだ。 ハリウッドでは、脚本家がストライキを決行した。彼らは生成AIのせいで</description>
+    </item>
+    <item>
+      <title>2023年 crowdworks.jp の SRE チームでやったこと - クラウドワークス エンジニアブログ</title>
+      <link>https://engineer.crowdworks.jp/entry/2023sre</link>
+      <pubDate>2023/12/06 08:21</pubDate>
+      <description>お久しぶりです。tkmです！ Kaggle AdC &amp;#39;23の6日目として「米国の大学・企業でのKaggle実績の受け取られ方雑感」についてつらつらと書いて行きたいと思います。 qiita.com 昨年Kaggledays Championship at Barcelonaでの優勝から、Kaggleとは少し離れてしまっていますが枠が空いているということで技術的ではないポエムですが投稿します！ 注意：これは私が体験した極めて主観的な感想であり一般化して受け取るのは危険です。 TL;DR 実績にそれほど効果はないが、獲得賞金を交えて話すとたまに効く。 正直に実績にそれほど効果はないしGMだからってそれで超すごい！みたいになることはない。 こっちの大学でも機械学習の授業でKaggleは一応習うが特にガチる人は見たことないし、教授としてもコンペと研究は違うと認識しているのでKaggleの実績単体で超</description>
+    </item>
   </channel>
 </rss>
