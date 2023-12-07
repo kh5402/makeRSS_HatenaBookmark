@@ -14232,5 +14232,23 @@
       <pubDate>2023/12/04 12:30</pubDate>
       <description>エムスリー Advent Calendar 2023 五日目担当、AI・機械学習チームの横本（yokomotod）です。前日は同じくAIチーム大垣さん(id:Hi_king)からの「画像を理解するGPT-4 Visionで、既存の画像認識モデルを説明可能にする」でした。 たまたま並んでしまいましたが、昨日のAIチームのMLエンジニアリングな話に続けて、今日はMLOpsやインフラについてのお話です。 （さらに本日はmabl Advent Calendar 2023としてQAチームの城本さん（@yuki_shiro_823）から「mabl Experience&amp;#39;23で「複数チームでmablを活用する際の課題と対応」について話しました 」も公開されています！） どうやらエムスリーAIチームも2017年の発足からもう6年が経過しているようです。 私がチームに参加したのは2019年ごろですが、見てき</description>
     </item>
+    <item>
+      <title>Meta、画像生成AIのWebサービスを提供開始。まずは米国から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552719.html</link>
+      <pubDate>2023/12/07 14:13</pubDate>
+      <description>ボーナスシーズンに入り、PCの新調や追加購入などを考えている人も多いだろう。一方で、Microsoft Copilotが一般提供されるなど、徐々にAIが身近な存在になりつつある。そこで、複数のAIに予算30万円以下でパーツの選定をしてもらった。 2023年も残り1カ月を切った。既に支給されている人も多いかと思うが、会社員にはボーナスのシーズンがやってきた。それに伴って、オンラインや店頭で相次いでセールが行われている。 つい財布のひもが緩くなりがちな季節だが、せっかく高価なPCを買うなら失敗のない買い物をしたい。一方で、PCに詳しい人にアドバイスを聞いたり、店頭で相談をしたりするのもちょっと面倒くさい。そんなときに役立つのが、各所で話題を集めている生成AIだ。 手元にPCやスマホさえあれば、時間も場所も問わずいつでも回答してくれるエージェントに、下記の質問を投げかけて「税込み30万円以下で買</description>
+    </item>
+    <item>
+      <title>AIが人間の労働を終わらせるという報告はかなり誇張されているかもしれない - himaginary’s diary</title>
+      <link>https://himaginary.hatenablog.com/entry/20231206/Reports_of_AI_ending_human_labour_may_be_greatly_exaggerated</link>
+      <pubDate>2023/12/07 07:22</pubDate>
+      <description>米Google（グーグル）は米国時間2023年12月6日、次世代AI（人工知能）モデル「Gemini」を発表した。テキストや画像、音声、動画、プログラムコードなど様々な種類の情報に対応できる「マルチモーダル」が特徴。主要な指標の多くで米OpenAI（オープンAI）の「GPT-4」を上回ったという。グーグルのスンダー・ピチャイCEO（最高経営責任者）は「Geminiはこれまでで最も高性能かつ汎用的なモデルだ」とコメントした。 Geminiでどんなことが可能になるのか。グーグルはオンライン記者説明会で、Geminiを使ったデモンストレーション動画を披露した。 デモ動画では、カメラで机の上を撮影してGeminiに入力する様子を映している。「何が見えるか教えてほしい」と人間が音声で伝え、机上の紙に線を書くとGeminiは「テーブルの上に紙が見える。滑らかで流れるような線を書いている」と答えた。人間</description>
+    </item>
+    <item>
+      <title>A New Foundation for AI on Android</title>
+      <link>https://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html</link>
+      <pubDate>2023/12/07 02:55</pubDate>
+      <description>メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。</description>
+    </item>
   </channel>
 </rss>
