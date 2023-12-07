@@ -14220,5 +14220,17 @@
       <pubDate>2023/12/06 09:08</pubDate>
       <description>｢生成AIイヤー｣とも言える2023年も終わりに近づいてきたが、ここにきてグーグルがさらに新しい技術を投入すると発表した。 グーグルは12月7日（日本時間）、生成AI向けの新しい大規模言語モデル｢Gemini（ジェミナイ）｣を発表した。 自社のチャットAI｢Bard｣はもちろん、｢Pixel 8 Pro｣をはじめとしたAndroidスマートフォンへの組み込みも進める。 グーグルのスンダー・ピチャイCEOはリリースの中で、Geminiをこう表現する。 ｢賢いソフトウェアというよりも、より便利で直感的な、相談できる専門家または仲間のように感じられるようになる｣ グーグルが本気で取り組んだGeminiとは、どんな存在なのだろうか。 絵を描くと、その内容を認識して｢アヒルですかね｣と話し、さらに｢普通のアヒルは青ではないですよ｣と指摘までする。 手の動きから｢じゃんけんをしようとしている｣と指摘し</description>
     </item>
+    <item>
+      <title>LLMで叶える「あの人のコメントが読みたい！」 - Uzabase for Engineers</title>
+      <link>https://tech.uzabase.com/entry/2023/12/05/202804</link>
+      <pubDate>2023/12/05 22:44</pubDate>
+      <description>MetaとIBMが50以上の団体と共同でAIの研究開発を支援するオープンソースコミュニティ「AI Alliance」を設立しました。AI AllianceはAIの研究開発に取り組む研究者の支援を目的としており、AMD、Intel、NASA、ソニー、東京大学など日本を含む世界中の団体が参加しています。 AI Alliance https://thealliance.ai/news Introducing the AI Alliance https://ai.meta.com/blog/ai-alliance/ AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advanc</description>
+    </item>
+    <item>
+      <title>世界最小級の外付けGPU。ゲームに動画編集に生成AIによし</title>
+      <link>https://www.gizmodo.jp/2023/12/onexgpu.html</link>
+      <pubDate>2023/12/04 12:30</pubDate>
+      <description>エムスリー Advent Calendar 2023 五日目担当、AI・機械学習チームの横本（yokomotod）です。前日は同じくAIチーム大垣さん(id:Hi_king)からの「画像を理解するGPT-4 Visionで、既存の画像認識モデルを説明可能にする」でした。 たまたま並んでしまいましたが、昨日のAIチームのMLエンジニアリングな話に続けて、今日はMLOpsやインフラについてのお話です。 （さらに本日はmabl Advent Calendar 2023としてQAチームの城本さん（@yuki_shiro_823）から「mabl Experience&amp;#39;23で「複数チームでmablを活用する際の課題と対応」について話しました 」も公開されています！） どうやらエムスリーAIチームも2017年の発足からもう6年が経過しているようです。 私がチームに参加したのは2019年ごろですが、見てき</description>
+    </item>
   </channel>
 </rss>
