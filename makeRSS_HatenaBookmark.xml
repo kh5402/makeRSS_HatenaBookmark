@@ -14142,5 +14142,38 @@
       <pubDate>2023/12/06 17:17</pubDate>
       <description>A note from Google and Alphabet CEO Sundar Pichai: Every technology shift is an opportunity to advance scientific discovery, accelerate human progress, and improve lives. I believe the transition we are seeing right now with AI will be the most profound in our lifetimes, far bigger than the shift to mobile or to the web before it. AI has the potential to create opportunities — from the everyday to</description>
     </item>
+    <item>
+      <title>NVIDIAはなぜAI用途で独走中？牙城は崩せるか</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02605/112900006/</link>
+      <pubDate>2023/12/07 13:22</pubDate>
+      <description>こんにちは！エムスリー Advent Calendar 2023 7日目担当の小栗 (@irungo_ic)です。私は東京大学 電子情報工学科で学生(B4)をしており、エムスリーには業務委託で参画しています。 今回はgokartの分散並列化ライブラリkannonをエムスリーの実プロダクトに組み込んだ取り組みについて紹介します。結果として、社内のとあるプロダクトのIntegration TestのJobを7時間30分から2時間20分に短縮するという、約3.2倍の高速化を達成できました！それまでに生じた苦労、kannonへの追加機能などについてお話しします。 kannonとは？ kannonとは、M3が主体となって開発しているOSSのデータパイプラインライブラリgokartをk8s上で分散並列実行するためのライブラリです。私が今年3月に参加したAIチームでのインターンで開発したライブラリで、そ</description>
+    </item>
+    <item>
+      <title>イーロン・マスク氏のAI新会社「xAI」、最大1500億円調達へ　OpenAI対抗 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN061YE0W3A201C2000000/</link>
+      <pubDate>2023/12/06 13:25</pubDate>
+      <description>Your favorite tools gain new abilities while you are empowered with more information at your fingertips. Free yourself from the routine and stay in the flow like never before.</description>
+    </item>
+    <item>
+      <title>PythonのData Appsフレームワーク Streamlit, Dash, Panel を比較(With ChatGPT) - Qiita</title>
+      <link>https://qiita.com/OgawaHideyuki/items/f2b7aef8b8d61051f382</link>
+      <pubDate>2023/12/06 13:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d1c9719d841c4acce3a018495c7575a4d834444f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F577%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoft Copilot、GPT-4 Turbo、最新DALL・E 3対応などでグレードアップ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/06/news081.html</link>
+      <pubDate>2023/12/06 09:08</pubDate>
+      <description>今やウェブ制作の現場ではChatGPTが欠かせないツールとなってきている。私自身、業務で積極的に使っており、必要不可欠な存在となった。プログラミング全般にわたるサポートはもちろんのこと、CSSコーディングにおいてもChatGPTを大いに役立てている。今回は、CSSコーディング時にChatGPTをどのように使っているかを紹介したい。 CSSコーディング時の課題 テキスト検索だけでは解決策が見つけにくい ウェブ制作を行う上で、CSSのデザイン調整は日常茶飯事かと思う。ただ、CSSにおいては「テキスト検索だけでは解決策が見つけにくい」と感じたことはないだろうか。 たとえば先日、以下のようなデザイン崩れを発見した。セルの縦列の幅を統一する必要があったが、テキストの長さによって横幅にバラつきが生じていた。 これまでは検証ツールを使ってコードを調査していたがこれでは時間がかかるし、やや面倒。また、検索</description>
+    </item>
+    <item>
+      <title>Rapidusとも提携、Tenstorrentの現状と戦略</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2312/05/news096.html</link>
+      <pubDate>2023/12/05 12:38</pubDate>
+      <description>はじめに AWS re:Invent 2023で、Amazon Transcribeは、次世代の数十億パラメータの音声基盤モデルを搭載した自動音声認識 (ASR)を発表しました。 搭載したことにより、バッチモードでTranscribe を使用する場合、APIエンドポイントや入力パラメータを変更することなく、100 以上の言語で精度向上を実感できるようです。 下記でも紹介されていました。 こちらのAWSのブログでも下記のことが記載されています。 Amazon Transcribe は音声基盤モデルを活用することで、ほとんどの言語で 20% から 50% の大幅な精度向上を実現します。困難でデータが不足している分野である電話音声では、精度が 30% ～ 70% 向上しました。この大規模な ASR モデルでは、大幅な精度の向上に加えて、より正確な句読点と大文字の使用により可読性も向上します。 1</description>
+    </item>
   </channel>
 </rss>
