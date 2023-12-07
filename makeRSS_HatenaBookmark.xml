@@ -14175,5 +14175,23 @@
       <pubDate>2023/12/05 12:38</pubDate>
       <description>はじめに AWS re:Invent 2023で、Amazon Transcribeは、次世代の数十億パラメータの音声基盤モデルを搭載した自動音声認識 (ASR)を発表しました。 搭載したことにより、バッチモードでTranscribe を使用する場合、APIエンドポイントや入力パラメータを変更することなく、100 以上の言語で精度向上を実感できるようです。 下記でも紹介されていました。 こちらのAWSのブログでも下記のことが記載されています。 Amazon Transcribe は音声基盤モデルを活用することで、ほとんどの言語で 20% から 50% の大幅な精度向上を実現します。困難でデータが不足している分野である電話音声では、精度が 30% ～ 70% 向上しました。この大規模な ASR モデルでは、大幅な精度の向上に加えて、より正確な句読点と大文字の使用により可読性も向上します。 1</description>
     </item>
+    <item>
+      <title>Googleの新AI「Gemini」、もはや人間では？凄さが分かる短編動画</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552697.html</link>
+      <pubDate>2023/12/07 13:21</pubDate>
+      <description>主にAI処理用途での先行者利益と性能の良さで採用が拡大している。2006年からGP（汎用）GPU開発環境「CUDA」を展開する。TransformerはNVIDIAのGPUを前提に設計した。 先行者利益─。米NVIDIAがAI半導体市場で独走する大きな理由の1つである。同社は2006年からCUDA（Compute Unified Device Architecture）を公開し、いち早くGPUを科学計算用途に広げた。これが深層学習の研究開発でも活用されるようになった。2022年には大規模言語モデル（LLM）向けに「H100 Tensor Core GPU」を出荷開始し、世界中でH100不足を起こすまでになっている（図1）。 2006年時点で他社に先んじてGP（汎用）GPUの開発環境「CUDA」を提供し、GPUの用途を画像処理から並列演算処理全般に広げた。その後、並列演算の応用先としてニュー</description>
+    </item>
+    <item>
+      <title>GoogleのAIが延期なしに発表。｢Gemini｣の理解力は人を超えたらしい*</title>
+      <link>https://www.gizmodo.jp/2023/12/google-gemini.html</link>
+      <pubDate>2023/12/07 08:45</pubDate>
+      <description>こんにちは！エムスリー Advent Calendar 2023 7日目担当の小栗 (@irungo_ic)です。私は東京大学 電子情報工学科で学生(B4)をしており、エムスリーには業務委託で参画しています。 今回はgokartの分散並列化ライブラリkannonをエムスリーの実プロダクトに組み込んだ取り組みについて紹介します。結果として、社内のとあるプロダクトのIntegration TestのJobを7時間30分から2時間20分に短縮するという、約3.2倍の高速化を達成できました！それまでに生じた苦労、kannonへの追加機能などについてお話しします。 kannonとは？ kannonとは、M3が主体となって開発しているOSSのデータパイプラインライブラリgokartをk8s上で分散並列実行するためのライブラリです。私が今年3月に参加したAIチームでのインターンで開発したライブラリで、そ</description>
+    </item>
+    <item>
+      <title>高性能AI「ジェミニ」投入　チャットGPT超えアピール　米グーグル（時事通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/1c8fdfe9e3cdb2b636f65f96709ee1a33d30311a</link>
+      <pubDate>2023/12/07 08:11</pubDate>
+      <description>米Google（グーグル）は米国時間2023年12月6日、次世代AI（人工知能）モデル「Gemini」を発表した。テキストや画像、音声、動画、プログラムコードなど様々な種類の情報に対応できる「マルチモーダル」が特徴。主要な指標の多くで米OpenAI（オープンAI）の「GPT-4」を上回ったという。グーグルのスンダー・ピチャイCEO（最高経営責任者）は「Geminiはこれまでで最も高性能かつ汎用的なモデルだ」とコメントした。 Geminiでどんなことが可能になるのか。グーグルはオンライン記者説明会で、Geminiを使ったデモンストレーション動画を披露した。 デモ動画では、カメラで机の上を撮影してGeminiに入力する様子を映している。「何が見えるか教えてほしい」と人間が音声で伝え、机上の紙に線を書くとGeminiは「テーブルの上に紙が見える。滑らかで流れるような線を書いている」と答えた。人間</description>
+    </item>
   </channel>
 </rss>
