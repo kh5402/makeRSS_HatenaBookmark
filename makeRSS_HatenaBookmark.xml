@@ -14004,5 +14004,47 @@
       <pubDate>2023/12/04 12:11</pubDate>
       <description>Kaggle Advent Calendar 3日目の記事です。 今回はKaggleなどのコンペで Metric Learning を試すときにとりあえず最初に実装するコードをまとめました。 UMAPを使ったembeddingの可視化とか faiss を使った検索とかはこの記事で扱ってないです。 1. Metric Learning って何？ 予測値じゃなくて特徴量間の距離に注目して学習する方法 同じクラス内ではなるべく近い距離になるように 違うクラス間ではなるべく遠い距離になるように もっと詳しくしたい人は Qiita 内でもいい記事たくさんあるのでどうぞ。 モダンな深層距離学習 (deep metric learning) 手法: SphereFace, CosFace, ArcFace #DeepLearning - Qiita Softmax関数をベースにした Deep Metri</description>
     </item>
+    <item>
+      <title>ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年12月バージョン-</title>
+      <link>https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon</link>
+      <pubDate>2023/12/07 08:04</pubDate>
+      <description>Gemini 1.0は「Ultra」「Pro」「Nano」の3つのサイズで提供する。「Pro」は同日から生成AIボット「Bard」の英語版に搭載される。また、「Nano」は同社のハイエンドAndroidスマートフォン「Pixel 8 Pro」に搭載される。Pixel 8 Proでは、「レコーダー」アプリの要約強化や、「Gboard」のスマートリプライに展開されるとしているが、日本語対応は未定という。 最大サイズで高度なAIである「Ultra」はまだ「さらなる改良」を行っており、2024年に開発者や企業向けに公開する計画としている。また、2024年にはGemini Ultraで稼働する「Bard Advanced」もリリースする予定だ。 Google DeepMindのデミス・ハサビスCEOは公式ブログで、Geminiを「マルチモーダルとしてゼロから構築」し、「テキスト、画像、音声、動画、コ</description>
+    </item>
+    <item>
+      <title>AMD、生成AIでNVIDIA H100を上回る性能のGPU「Instinct MI300」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552583.html</link>
+      <pubDate>2023/12/07 07:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cf2f59eba90fd35a8696904e6a16eb744839e6f6/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1552%2F601%2Fge10.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AMD、AI PCを実現する「Ryzen 8040」シリーズ発表</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552464.html</link>
+      <pubDate>2023/12/07 07:17</pubDate>
+      <description>米ガートナー「ソフトウェアエンジニアリングのハイプサイクル2023年」を発表。「生成AI」や「プラットフォームエンジニアリング」は過度な期待のピーク 米調査会社のガートナーは、「Hype Cycle for Software Engineering, 2023」（ソフトウェアエンジニアリングのハイプサイクル2023）を発表しました。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 毎年8月頃に「先進テクノロジーのハイプサイクル」が発表されているのはよく知られていますが、同社はそれ以外のさまざまな分野におけるハイプサイクルも発表しています。今回発表されたのもそうしたものの1つで、ソフトウェアエンジニ</description>
+    </item>
+    <item>
+      <title>Hands-on with Gemini: Interacting with multimodal AI</title>
+      <link>https://www.youtube.com/watch?v=UIZAiXYceBI</link>
+      <pubDate>2023/12/07 01:05</pubDate>
+      <description>開発ツールのIntelliJ IDEAやプログラミング言語Kotlinなどの開発元として知られるJetBrainsは、世界中の開発者を対象とした調査結果「The State of Developer Ecosystem 2023」を公開しました。 調査結果は196の国と地域の2万6348人の開発者からの回答を基に作成されました。 内容には多くの結果が含まれていますが、注目されそうなポイントをいくつかまとめました。 48％が4年生大学卒、77％がChatGPTを利用 回答者の約……</description>
+    </item>
+    <item>
+      <title>グーグルがGPT-4超えの最新AI「Gemini」発表、Pixel 8 Proで動作する「Gemini Nano」も</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1552603.html</link>
+      <pubDate>2023/12/07 01:25</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d1c9719d841c4acce3a018495c7575a4d834444f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1552%2F577%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini - Google DeepMind</title>
+      <link>https://deepmind.google/technologies/gemini/</link>
+      <pubDate>2023/12/07 01:19</pubDate>
+      <description>｢生成AIイヤー｣とも言える2023年も終わりに近づいてきたが、ここにきてグーグルがさらに新しい技術を投入すると発表した。 グーグルは12月7日（日本時間）、生成AI向けの新しい大規模言語モデル｢Gemini（ジェミナイ）｣を発表した。 自社のチャットAI｢Bard｣はもちろん、｢Pixel 8 Pro｣をはじめとしたAndroidスマートフォンへの組み込みも進める。 グーグルのスンダー・ピチャイCEOはリリースの中で、Geminiをこう表現する。 ｢賢いソフトウェアというよりも、より便利で直感的な、相談できる専門家または仲間のように感じられるようになる｣ グーグルが本気で取り組んだGeminiとは、どんな存在なのだろうか。 絵を描くと、その内容を認識して｢アヒルですかね｣と話し、さらに｢普通のアヒルは青ではないですよ｣と指摘までする。 手の動きから｢じゃんけんをしようとしている｣と指摘し</description>
+    </item>
   </channel>
 </rss>
