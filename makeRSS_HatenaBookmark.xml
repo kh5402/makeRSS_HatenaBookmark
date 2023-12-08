@@ -14508,5 +14508,17 @@
       <pubDate>2023/12/07 08:08</pubDate>
       <description>Gemini 1.0は「Ultra」「Pro」「Nano」の3つのサイズで提供する。「Pro」は同日から生成AIボット「Bard」の英語版に搭載される。また、「Nano」は同社のハイエンドAndroidスマートフォン「Pixel 8 Pro」に搭載される。Pixel 8 Proでは、「レコーダー」アプリの要約強化や、「Gboard」のスマートリプライに展開されるとしているが、日本語対応は未定という。 最大サイズで高度なAIである「Ultra」はまだ「さらなる改良」を行っており、2024年に開発者や企業向けに公開する計画としている。また、2024年にはGemini Ultraで稼働する「Bard Advanced」もリリースする予定だ。 Google DeepMindのデミス・ハサビスCEOは公式ブログで、Geminiを「マルチモーダルとしてゼロから構築」し、「テキスト、画像、音声、動画、コ</description>
     </item>
+    <item>
+      <title>俺のChatGPTこと「GPTs」で最高の英語教師を作り込んだ。題して「冴子先生強化計画」 (3/3)</title>
+      <link>https://ascii.jp/elem/000/004/172/4172275/3/</link>
+      <pubDate>2023/12/08 16:35</pubDate>
+      <description>はじめに 今回は無料で公開されているエンジニア向け修資料をまとめました。 資料の作り方も勉強になるので「勉強会で登壇している人」「企業の研修担当の人」にも参考にしてほしい内容になっています。 記事の主な対象者 研修資料を網羅的に見たい人 エンジニア初心者から中級者 研修資料の作成をしていきたい人 MIXI23卒新人研修 毎年更新をしているMIXIさんの資料は量と質が凄いです。各資料において、動画による解説もついているので、初心者でも理解しやすい構成になっています。 2023年版のMIXIさんの研修資料は下記の内容が学べます Git研修 データベース研修 設計・テスト研修 コンテナ研修 iOSアプリ開発研修 Androidアプリ開発研修 フロントエンド研修 ゲーム開発研修 Flutter研修 AI研修 セキュリティー研修 インシデントハンドリング研修 チーム開発研修 GMOペパボ GMOペパ</description>
+    </item>
+    <item>
+      <title>LLMの根幹「Transformer」とは？並列処理に最適なワケ</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02605/112900007/</link>
+      <pubDate>2023/12/08 09:04</pubDate>
+      <description>肌寒い日が続き、ついに我が家でも毛布を引っ張り出してきました、菅野です。 AWS re:Inventが開催され、AWSでは、150件以上の新サービスやアップデートの発表がありました。 Amazon Bedrockにも新機能が発表され、実際のシステムにも導入していきたいというかたも増えているのではないでしょうか？ 今回のブログではGAになったAgents for Amazon Bedrockを実際に利用し EC2インスタンスを作成するエージェントを作ってみます。 aws.amazon.com Agents for Amazon Bedrockとは 生成AIのアプリケーション作成を助けるシステムです。 ユーザーは、自然言語を用いてAIアプリで実施したいタスクを入力します。 Agents for Amazon Bedrockは上記のタスクを推論モデルを用いて細分化、複数ステップのタスクに自動で分</description>
+    </item>
   </channel>
 </rss>
