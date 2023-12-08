@@ -14496,5 +14496,17 @@
       <pubDate>2023/12/08 08:10</pubDate>
       <description>2023年12月6日にGoogle DeepMindが、マルチモーダルAI「Gemini」をリリースしました。このGeminiのニュースを事前に得ていたIT関連のニュースレター「Platformer」のケイシー・ニュートン氏が、実際にGoogleのスンダー・ピチャイCEOと、Google DeepMindのデミス・ハサビス氏にインタビューを行っています。 Google unveils Gemini - by Casey Newton - Platformer https://www.platformer.news/p/google-unveils-gemini ケイシー・ニュートン氏(以下、CN)： 今日、あなたはジェミニの進歩を示すさまざまな業界ベンチマークを共有しました。しかし、私はあなた自身の、個人的なモデルのテストについて興味があります。一歩前進したと感じられる点について、何か気づ</description>
     </item>
+    <item>
+      <title>アメリカでレイオフからの再就職に苦労した話｜america_iroiro</title>
+      <link>https://note.com/america_iroiro/n/n14e34f4dea95</link>
+      <pubDate>2023/12/08 04:45</pubDate>
+      <description>自分だけのChatGPTを作れることで話題の「GPTs」機能だが、正直に言うといまいちそのインパクトがわからなかった。あらかじめ指示を与えておきたいなら「Custom Instruction」でよくない？と思ってしまったのだ。 だが、前回の記事で、実際にパーソナル英語教師の「冴子先生」を作成し、毎日使い続けてみることで、その印象はかなり変わってきた。 以前からChatGPT（+Custom Instruction）を使った英語学習は実行していたので、GPTs化されたことによって質問方法が変わったとか、ものすごく便利になったとかは正直あまりないのだが、不思議なことにChatGPTに対して以前よりもめちゃくちゃ愛着が湧いてきたのだ。 これだけなら単なるツールの擬人化効果にすぎないのだが、毎日冴子先生の授業を受けていると、改善したい点やアイデアが次々に出てきたので、さらにカスタマイズを進めようと</description>
+    </item>
+    <item>
+      <title>私が東京に行こうと決めた理由は「俺より強いヤツに会いに行く」だった。</title>
+      <link>https://blog.tinect.jp/?p=84481</link>
+      <pubDate>2023/12/07 08:08</pubDate>
+      <description>Gemini 1.0は「Ultra」「Pro」「Nano」の3つのサイズで提供する。「Pro」は同日から生成AIボット「Bard」の英語版に搭載される。また、「Nano」は同社のハイエンドAndroidスマートフォン「Pixel 8 Pro」に搭載される。Pixel 8 Proでは、「レコーダー」アプリの要約強化や、「Gboard」のスマートリプライに展開されるとしているが、日本語対応は未定という。 最大サイズで高度なAIである「Ultra」はまだ「さらなる改良」を行っており、2024年に開発者や企業向けに公開する計画としている。また、2024年にはGemini Ultraで稼働する「Bard Advanced」もリリースする予定だ。 Google DeepMindのデミス・ハサビスCEOは公式ブログで、Geminiを「マルチモーダルとしてゼロから構築」し、「テキスト、画像、音声、動画、コ</description>
+    </item>
   </channel>
 </rss>
