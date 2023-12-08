@@ -14430,5 +14430,29 @@
       <pubDate>2023/12/07 13:00</pubDate>
       <description>はじめに ユビーでエンジニアをしているおおいしつかさです。 これは、Ubie Engineering Advent Calendar 2023の12月7日の記事になります。 何を書こうかなー、最近はユビーの根幹システムのリアーキテクチャをやっているのでその辺かなーと思ったのですが、まだ仕掛かり中だということと具体な業務に直結しそうな内容なので抽象化して書くのが面倒そうだなーと思ってたところに軽いトピックが飛び込んできたので、そのことを書くことにしました。 ChatGPTはみなさん使われていると思いますが、ぼくも別の業務でOpenAI関連の機能開発に携わっています(ユビーで働くといろんな業務に携われるのがいいところです) 。 その仕事の中で、Node.js環境でメモリ肥大化の事象に遭遇したので、それをどのように発見して改善したかについてお話します。 ぼくは今も昔もRubyが大好きですが、ふだ</description>
     </item>
+    <item>
+      <title>マルチモーダルAI「Gemini」の性能をアピールするGoogleの公式ムービーはフェイクだったという指摘</title>
+      <link>https://gigazine.net/news/20231208-google-gemini-movie-fake/</link>
+      <pubDate>2023/12/08 11:06</pubDate>
+      <description>はじめに Amazon Qとは VSCodeでAmazon QにChatする セットアップ 質問してみる 余談：Chatでエラー発生 Javaコードのバージョンアップ（未検証） まとめ はじめに こんにちは、高橋です。 先日AWS re:Invent2023に行ってきました。 Keynoteで発表されたAmazon Qについて、VSCodeで使ってみた感想を簡単にまとめようと思います。 Amazon Qとは Amazon QはAmazonによって開発された生成型AIアシスタントです。このツールは、特にAWS（Amazon Web Services）のエコシステム内で開発者やIT専門家を支援するよう設計されています。Amazon Qは自然言語処理を用いて、ユーザーが提出する質問や要求に応じて迅速かつ効果的な解決策を提供します。 Amazon Qには以下の種類がありますが、今回はAmazon</description>
+    </item>
+    <item>
+      <title>AIマッチングシステム｜TOKYOふたりSTORY</title>
+      <link>https://www.futari-story.metro.tokyo.lg.jp/ai-matching/</link>
+      <pubDate>2023/12/08 07:35</pubDate>
+      <description>2023年12月6日にGoogle DeepMindが、マルチモーダルAI「Gemini」をリリースしました。このGeminiのニュースを事前に得ていたIT関連のニュースレター「Platformer」のケイシー・ニュートン氏が、実際にGoogleのスンダー・ピチャイCEOと、Google DeepMindのデミス・ハサビス氏にインタビューを行っています。 Google unveils Gemini - by Casey Newton - Platformer https://www.platformer.news/p/google-unveils-gemini ケイシー・ニュートン氏(以下、CN)： 今日、あなたはジェミニの進歩を示すさまざまな業界ベンチマークを共有しました。しかし、私はあなた自身の、個人的なモデルのテストについて興味があります。一歩前進したと感じられる点について、何か気づ</description>
+    </item>
+    <item>
+      <title>GoogleのAIチャット「Bard」、「Gemini Pro」搭載でより賢く</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/07/news137.html</link>
+      <pubDate>2023/12/07 14:39</pubDate>
+      <description>対話相手が機械なのか人間に予想してもらう「チューリングテスト」の結果、「ChatGPT」に使われるOpenAIの言語モデル「GPT-3.5」が1960年代のチャットボット「ELIZA」に敗北したことがわかりました。 [2310.20216] Does GPT-4 Pass the Turing Test? https://arxiv.org/abs/2310.20216 1960s chatbot ELIZA beat OpenAI’s GPT-3.5 in a recent Turing test study | Ars Technica https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-stud</description>
+    </item>
+    <item>
+      <title>Starting Detection Engineering in Ubie</title>
+      <link>https://zenn.dev/mizutani/articles/start-de-ubie</link>
+      <pubDate>2023/12/02 15:58</pubDate>
+      <description>元ラーメン屋店長だった自分がエンジニアになってはや8年が経った。現在、36歳。アラフォーエンジニアあるあるだが、次のキャリアについて試行錯誤しているので、今の考えをまとめてみた。 まず、エンジニアのキャリアパスを3つに分類してみた。 抽象的な課題を解決できるエンジニア 業界トップクラスのエンジニア 設計書どおりにコーディングするエンジニア 1.を具体的に言うと、人や案件を動かせるエンジニアだ。 案件をリードしたり、チームをマネージメントしたり、ビジネスの要求を吸い上げて仕様まで落とし込めたり、アーキテクチャを作れたり…と抽象的な課題を解決できる人材のことを指す。 当たり前だが、責任の重さに比例して3.のエンジニアより給料が高い。そして、人とのビジネスコミュニケーションスキルが求められる。 2.業界トップクラスのエンジニアは言わずもがな。iOS界隈だと〇〇さんと名前が出るレベルで技術に特化し</description>
+    </item>
   </channel>
 </rss>
