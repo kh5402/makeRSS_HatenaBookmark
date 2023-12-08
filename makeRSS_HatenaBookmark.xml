@@ -14388,5 +14388,35 @@
       <pubDate>2023/12/04 12:25</pubDate>
       <description>モデルは、Stable Diffusion（SD）のネットワーク設計と事前訓練された重みを継承し、Denoising UNetを複数フレームの入力に対応できるように変更している。 この方法には3つの重要なコンポーネントが組み込まれている。参照画像からキャラクターの外観的特徴をエンコードする「ReferenceNet」。骨格動画からキャラクターの動きを制御するためのモーションデータをエンコードする「Pose Guider」。キャラクターの動きの連続性を確保するための時間的関係を補う「Temporal layer」。 ReferenceNetで抽出した特徴は、Spatial-Attentionを用いてDenoising UNetに統合される。これにより、Denoising UNetはReferenceNetと同じ特徴空間にある関連する特徴を選択的に学習できる。また、CLIP画像エンコーダーを使</description>
     </item>
+    <item>
+      <title>本当にわかりやすいAI入門</title>
+      <link>https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiairu-men</link>
+      <pubDate>2023/12/07 20:41</pubDate>
+      <description>こんにちは、佐々木です。re:Inventの基調講演で発表されたAmazon S3 Express One Zoneについて、さっそく調査してみました。 写真は、re:Inventの会場にいたS3のマスコットキャラです。イベント初日は、Express One Zoneの腹巻をしていなかったのですが、サービス発表後はExpress One Zoneという名前で会場内を闊歩していました。 Amazon S3 Express One Zoneとは？ Amazon S3 Express One Zoneは、S3の新しいストレージクラスです。従来も、ひとつのAZのみにデータを配置するOne Zoneもありましたが、これはコスト削減を主眼としたストレージクラスです。今回発表されたExpress One Zoneは、名前に明記している通り、速さに特化したサービスラインナップです。発表では、特に小さなファ</description>
+    </item>
+    <item>
+      <title>Metaが画像生成AI「Imagine」を無料で使えるウェブアプリをリリース、Emuモデルを利用しプロンプトごとに4つの画像を生成可能</title>
+      <link>https://gigazine.net/news/20231207-meta-image-generator-ai-imagine/</link>
+      <pubDate>2023/12/07 11:32</pubDate>
+      <description>マイページに保存最終更新日：2023/12/07 Googleは、人間の専門家のパフォーマンスを上回る最初の大規模言語モデル（LLM）として「Gemini」を発表しました。LLMの主要なベンチマークの一つであるMMLU（多領域の学術ベンチマーク）をはじめとするほとんどのベンチマークでGPT-4を凌駕しています。 Geminiは、画像、音声、動画の理解を含むマルチモーダルタスクでも最先端の性能を示しています。テストに使用された20のマルチモーダルベンチマーク全てで最高の水準を達成しています。 また、複数のソースからの情報を統合して、より正確で詳細に理解する能力に優れているとのことです。 なお、Ultra、Pro、Nanoの3つのサイズがあり、それぞれ異なる計算要件に特化して設計されています（例えばモバイル向けにはNanoなど）。Ultraは最も高度に複雑なタスクをこなし、研究報告では主にUl</description>
+    </item>
+    <item>
+      <title>【OpenGPT】ChatGPTのGPTsのリスクを全て克服したオープンソース版GPTsを実際に使ってみた | WEEL</title>
+      <link>https://weel.co.jp/media/opengpt</link>
+      <pubDate>2023/12/07 08:27</pubDate>
+      <description>Posted by Alexander Chen, Creative Director Let’s try an experiment. We’ll show this picture to our multimodal model Gemini and ask it to describe what it sees:</description>
+    </item>
+    <item>
+      <title>マクドナルドがGoogleの生成AIを導入へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1552712.html</link>
+      <pubDate>2023/12/07 14:13</pubDate>
+      <description>はじめに ユビーでエンジニアをしているおおいしつかさです。 これは、Ubie Engineering Advent Calendar 2023の12月7日の記事になります。 何を書こうかなー、最近はユビーの根幹システムのリアーキテクチャをやっているのでその辺かなーと思ったのですが、まだ仕掛かり中だということと具体な業務に直結しそうな内容なので抽象化して書くのが面倒そうだなーと思ってたところに軽いトピックが飛び込んできたので、そのことを書くことにしました。 ChatGPTはみなさん使われていると思いますが、ぼくも別の業務でOpenAI関連の機能開発に携わっています(ユビーで働くといろんな業務に携われるのがいいところです) 。 その仕事の中で、Node.js環境でメモリ肥大化の事象に遭遇したので、それをどのように発見して改善したかについてお話します。 ぼくは今も昔もRubyが大好きですが、ふだ</description>
+    </item>
+    <item>
+      <title>GoogleがAI向けチップ「TPU v5p」を発表、前世代から最大2.8倍の性能向上で「Gemini」のトレーニングにも使用される</title>
+      <link>https://gigazine.net/news/20231207-google-tpu-v5p/</link>
+      <pubDate>2023/12/07 14:51</pubDate>
+      <description>AMDがNVIDIA H100の最大1.6倍の性能を誇るGPUである「Instinct MI300X」と、CPUとGPUを組み合わせたAPUである「Instinct MI300A」を発表しました。 AMD Delivers Leadership Portfolio of Data Center AI Solutions with AMD Instinct MI300 Series :: Advanced Micro Devices, Inc. (AMD) https://ir.amd.com/news-events/press-releases/detail/1173/amd-delivers-leadership-portfolio-of-data-center-ai Meta and Microsoft to buy AMD&amp;#39;s new AI chip as alternative t</description>
+    </item>
   </channel>
 </rss>
