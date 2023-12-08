@@ -14472,5 +14472,29 @@
       <pubDate>2023/12/06 23:05</pubDate>
       <description>ボーナスシーズンに入り、PCの新調や追加購入などを考えている人も多いだろう。一方で、Microsoft Copilotが一般提供されるなど、徐々にAIが身近な存在になりつつある。そこで、複数のAIに予算30万円以下でパーツの選定をしてもらった。 2023年も残り1カ月を切った。既に支給されている人も多いかと思うが、会社員にはボーナスのシーズンがやってきた。それに伴って、オンラインや店頭で相次いでセールが行われている。 つい財布のひもが緩くなりがちな季節だが、せっかく高価なPCを買うなら失敗のない買い物をしたい。一方で、PCに詳しい人にアドバイスを聞いたり、店頭で相談をしたりするのもちょっと面倒くさい。そんなときに役立つのが、各所で話題を集めている生成AIだ。 手元にPCやスマホさえあれば、時間も場所も問わずいつでも回答してくれるエージェントに、下記の質問を投げかけて「税込み30万円以下で買</description>
     </item>
+    <item>
+      <title>【2023年版】エンジニア向け読むべき資料まとめ - Qiita</title>
+      <link>https://qiita.com/KNR109/items/160e7d14ef5d08a88a8f</link>
+      <pubDate>2023/12/08 12:48</pubDate>
+      <description>肌寒い日が続き、ついに我が家でも毛布を引っ張り出してきました、菅野です。 AWS re:Inventが開催され、AWSでは、150件以上の新サービスやアップデートの発表がありました。 Amazon Bedrockにも新機能が発表され、実際のシステムにも導入していきたいというかたも増えているのではないでしょうか？ 今回のブログではGAになったAgents for Amazon Bedrockを実際に利用し EC2インスタンスを作成するエージェントを作ってみます。 aws.amazon.com Agents for Amazon Bedrockとは 生成AIのアプリケーション作成を助けるシステムです。 ユーザーは、自然言語を用いてAIアプリで実施したいタスクを入力します。 Agents for Amazon Bedrockは上記のタスクを推論モデルを用いて細分化、複数ステップのタスクに自動で分</description>
+    </item>
+    <item>
+      <title>声をかく｜（２）首相のプロンプト</title>
+      <link>https://chieumi.com/blogs/%E9%80%A3%E8%BC%89/koewokaku02</link>
+      <pubDate>2023/12/08 16:24</pubDate>
+      <description>自分だけのChatGPTを作れることで話題の「GPTs」機能だが、正直に言うといまいちそのインパクトがわからなかった。あらかじめ指示を与えておきたいなら「Custom Instruction」でよくない？と思ってしまったのだ。 だが、前回の記事で、実際にパーソナル英語教師の「冴子先生」を作成し、毎日使い続けてみることで、その印象はかなり変わってきた。 以前からChatGPT（+Custom Instruction）を使った英語学習は実行していたので、GPTs化されたことによって質問方法が変わったとか、ものすごく便利になったとかは正直あまりないのだが、不思議なことにChatGPTに対して以前よりもめちゃくちゃ愛着が湧いてきたのだ。 これだけなら単なるツールの擬人化効果にすぎないのだが、毎日冴子先生の授業を受けていると、改善したい点やアイデアが次々に出てきたので、さらにカスタマイズを進めようと</description>
+    </item>
+    <item>
+      <title>Googleの新AI、日本では「ジェミニ」「ジェミナイ」どっち？　公式見解は</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/08/news139.html</link>
+      <pubDate>2023/12/08 12:46</pubDate>
+      <description>Googleが2023年12月6日に発表した大規模言語モデル(LLM)の「Gemini」は、文字だけではなく画像や映像なども理解してユーザーとやり取りができるマルチモーダリティが大きな特徴で、Googleが公開したGeminiの性能を示すデモムービーは大きな話題となりました。しかし、このムービーで示されたGeminiのデモはフェイクではないかと指摘されています。 Google’s best Gemini demo was faked | TechCrunch https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/ フェイクだと指摘されたデモムービーが以下。 Hands-on with Gemini: Interacting with multimodal AI - YouTube Bloombergの記者で</description>
+    </item>
+    <item>
+      <title>５０歳が近づいてきた中年の人生は、前に進むしかない「香車」のよう。</title>
+      <link>https://blog.tinect.jp/?p=84490</link>
+      <pubDate>2023/12/08 08:10</pubDate>
+      <description>2023年12月6日にGoogle DeepMindが、マルチモーダルAI「Gemini」をリリースしました。このGeminiのニュースを事前に得ていたIT関連のニュースレター「Platformer」のケイシー・ニュートン氏が、実際にGoogleのスンダー・ピチャイCEOと、Google DeepMindのデミス・ハサビス氏にインタビューを行っています。 Google unveils Gemini - by Casey Newton - Platformer https://www.platformer.news/p/google-unveils-gemini ケイシー・ニュートン氏(以下、CN)： 今日、あなたはジェミニの進歩を示すさまざまな業界ベンチマークを共有しました。しかし、私はあなた自身の、個人的なモデルのテストについて興味があります。一歩前進したと感じられる点について、何か気づ</description>
+    </item>
   </channel>
 </rss>
