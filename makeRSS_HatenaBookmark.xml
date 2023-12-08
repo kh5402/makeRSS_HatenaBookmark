@@ -14520,5 +14520,11 @@
       <pubDate>2023/12/08 09:04</pubDate>
       <description>肌寒い日が続き、ついに我が家でも毛布を引っ張り出してきました、菅野です。 AWS re:Inventが開催され、AWSでは、150件以上の新サービスやアップデートの発表がありました。 Amazon Bedrockにも新機能が発表され、実際のシステムにも導入していきたいというかたも増えているのではないでしょうか？ 今回のブログではGAになったAgents for Amazon Bedrockを実際に利用し EC2インスタンスを作成するエージェントを作ってみます。 aws.amazon.com Agents for Amazon Bedrockとは 生成AIのアプリケーション作成を助けるシステムです。 ユーザーは、自然言語を用いてAIアプリで実施したいタスクを入力します。 Agents for Amazon Bedrockは上記のタスクを推論モデルを用いて細分化、複数ステップのタスクに自動で分</description>
     </item>
+    <item>
+      <title>Googleが次世代AIモデルで「Geminiの時代へようこそ」、搭載Bardは日本でも使える</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2312/07/news153.html</link>
+      <pubDate>2023/12/07 16:11</pubDate>
+      <description>こんにちは、佐々木です。re:Inventの基調講演で発表されたAmazon S3 Express One Zoneについて、さっそく調査してみました。 写真は、re:Inventの会場にいたS3のマスコットキャラです。イベント初日は、Express One Zoneの腹巻をしていなかったのですが、サービス発表後はExpress One Zoneという名前で会場内を闊歩していました。 Amazon S3 Express One Zoneとは？ Amazon S3 Express One Zoneは、S3の新しいストレージクラスです。従来も、ひとつのAZのみにデータを配置するOne Zoneもありましたが、これはコスト削減を主眼としたストレージクラスです。今回発表されたExpress One Zoneは、名前に明記している通り、速さに特化したサービスラインナップです。発表では、特に小さなファ</description>
+    </item>
   </channel>
 </rss>
