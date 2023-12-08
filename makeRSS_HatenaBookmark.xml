@@ -14418,5 +14418,17 @@
       <pubDate>2023/12/07 14:51</pubDate>
       <description>AMDがNVIDIA H100の最大1.6倍の性能を誇るGPUである「Instinct MI300X」と、CPUとGPUを組み合わせたAPUである「Instinct MI300A」を発表しました。 AMD Delivers Leadership Portfolio of Data Center AI Solutions with AMD Instinct MI300 Series :: Advanced Micro Devices, Inc. (AMD) https://ir.amd.com/news-events/press-releases/detail/1173/amd-delivers-leadership-portfolio-of-data-center-ai Meta and Microsoft to buy AMD&amp;#39;s new AI chip as alternative t</description>
     </item>
+    <item>
+      <title>マルチモーダルAI「Gemini」を軸に「デジタルエージェント」「検索エンジン」「Chromeとの統合」などをGoogleのサンダー・ピチャイCEOとDeepmind創設者のデミス・ハサビスが語る</title>
+      <link>https://gigazine.net/news/20231208-pichai-hassabis-talk-about-gemini/</link>
+      <pubDate>2023/12/08 06:38</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 米Metaや米HuggingFaceなどに所属する研究者らが発表した論文「GAIA: a benchmark for General AI Assistants」は、難しいタスクではなく、人間にとって簡単なタスクを達成する大規模言語モデル（LLM）を評価するためのベンチマークを提案している。この研究は、人間が日常で当たり前に実行してほしいタスクを正確にこなすLLM構築を目指すためのテスト集である。 現在のベンチマークは、人間にとってより困難なタスクを求めており、LLMには数学や法律などの複雑なタスクや、一貫性のある本を書くなどの複雑な課題が</description>
+    </item>
+    <item>
+      <title>NEC責任者に聞く「生成AIの勝機」　マイクロソフトCEOとの会談で下した決断とは？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2312/07/news077.html</link>
+      <pubDate>2023/12/07 13:00</pubDate>
+      <description>はじめに ユビーでエンジニアをしているおおいしつかさです。 これは、Ubie Engineering Advent Calendar 2023の12月7日の記事になります。 何を書こうかなー、最近はユビーの根幹システムのリアーキテクチャをやっているのでその辺かなーと思ったのですが、まだ仕掛かり中だということと具体な業務に直結しそうな内容なので抽象化して書くのが面倒そうだなーと思ってたところに軽いトピックが飛び込んできたので、そのことを書くことにしました。 ChatGPTはみなさん使われていると思いますが、ぼくも別の業務でOpenAI関連の機能開発に携わっています(ユビーで働くといろんな業務に携われるのがいいところです) 。 その仕事の中で、Node.js環境でメモリ肥大化の事象に遭遇したので、それをどのように発見して改善したかについてお話します。 ぼくは今も昔もRubyが大好きですが、ふだ</description>
+    </item>
   </channel>
 </rss>
