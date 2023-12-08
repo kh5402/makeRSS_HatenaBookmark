@@ -14358,5 +14358,35 @@
       <pubDate>2023/12/07 14:34</pubDate>
       <description>掃除させるときには「Alexa、ルンバで掃除して」とお願いするわけだが、「オーケー、ルンバに清掃するように指示します」と答えていてまるでアレクサの手柄のように思える。 ルンバはお前の手下か？</description>
     </item>
+    <item>
+      <title>Amazon QをVSCodeでつかってみた - NRIネットコムBlog</title>
+      <link>https://tech.nri-net.com/entry/tried_using_amazon_q_with_vscode</link>
+      <pubDate>2023/12/08 07:37</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 米Metaや米HuggingFaceなどに所属する研究者らが発表した論文「GAIA: a benchmark for General AI Assistants」は、難しいタスクではなく、人間にとって簡単なタスクを達成する大規模言語モデル（LLM）を評価するためのベンチマークを提案している。この研究は、人間が日常で当たり前に実行してほしいタスクを正確にこなすLLM構築を目指すためのテスト集である。 現在のベンチマークは、人間にとってより困難なタスクを求めており、LLMには数学や法律などの複雑なタスクや、一貫性のある本を書くなどの複雑な課題が</description>
+    </item>
+    <item>
+      <title>Google&amp;#39;s best Gemini demo was faked | TechCrunch</title>
+      <link>https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/</link>
+      <pubDate>2023/12/08 07:42</pubDate>
+      <description>JetBrains、GitHub Copilot対抗の「JetBrains AI Assistant」提供開始。AIによるコード生成やリファクタリングなど。月額1000円から 開発ツールのIntelliJ IDEAやプログラミング言語Kotlinなどの開発元として知られるJetBrainsは、AIによるコード生成やリファクタリングなどを自動的に行う「JetBrains AI Assistant」の提供を開始しました。 すでにAIでの開発支援機能を提供しているGitHubの「GitHub Copilot」に対抗する機能の位置づけとなります。 Your favorite tools gain new abilities while you are empowered with more information at your fingertips. Try #JetBrainsAI, free</description>
+    </item>
+    <item>
+      <title>「もう広告がメインコンテンツだろこれ」生成AIを使った広告で有名なマッチングアプリのオタ恋、ついにパロディ画像や動画生成にまで進出</title>
+      <link>https://togetter.com/li/2272249</link>
+      <pubDate>2023/12/08 06:11</pubDate>
+      <description>本稿では、Ignite に関するMicrosoftのレポート「Introducing Microsoft Copilot Studio and new features in Copilot for Microsoft 365」の内容を抜粋して紹介する。 Microsoft Copilotの先進ユーザーは効果を感じているのか？ Microsoft Copilot Studioの導入 Copilot for Microsoft 365に関する発表 Microsoft TeamsのCopilot機能 Microsoft OutlookのCopilot機能 Microsoft LoopのCopilot機能 WordのCopilot機能 PowerPointのCopilot機能 Microsoft Vivaとの統合 その他、Copilotのトピック機能 Microsoftが11月15日に発表したレ</description>
+    </item>
+    <item>
+      <title>Appleの機械学習チームがAppleシリコンで機械学習モデルをトレーニング・デプロイするためのフレームワーク「MLX」をGitHubで公開</title>
+      <link>https://gigazine.net/news/20231207-apple-silicon-mlx-machine-learning/</link>
+      <pubDate>2023/12/07 17:54</pubDate>
+      <description>2023年12月7日に開催されたStudyCoの勉強会で、AIについてお話した際の資料です。</description>
+    </item>
+    <item>
+      <title>「教育教育死刑死刑」ビッグモーター騒動あの構文も入賞！『ガジェット通信 ネット流行語大賞2023』決定 ｜ ガジェット通信 GetNews</title>
+      <link>https://getnews.jp/archives/3464787</link>
+      <pubDate>2023/12/04 12:25</pubDate>
+      <description>モデルは、Stable Diffusion（SD）のネットワーク設計と事前訓練された重みを継承し、Denoising UNetを複数フレームの入力に対応できるように変更している。 この方法には3つの重要なコンポーネントが組み込まれている。参照画像からキャラクターの外観的特徴をエンコードする「ReferenceNet」。骨格動画からキャラクターの動きを制御するためのモーションデータをエンコードする「Pose Guider」。キャラクターの動きの連続性を確保するための時間的関係を補う「Temporal layer」。 ReferenceNetで抽出した特徴は、Spatial-Attentionを用いてDenoising UNetに統合される。これにより、Denoising UNetはReferenceNetと同じ特徴空間にある関連する特徴を選択的に学習できる。また、CLIP画像エンコーダーを使</description>
+    </item>
   </channel>
 </rss>
