@@ -14526,5 +14526,11 @@
       <pubDate>2023/12/07 16:11</pubDate>
       <description>こんにちは、佐々木です。re:Inventの基調講演で発表されたAmazon S3 Express One Zoneについて、さっそく調査してみました。 写真は、re:Inventの会場にいたS3のマスコットキャラです。イベント初日は、Express One Zoneの腹巻をしていなかったのですが、サービス発表後はExpress One Zoneという名前で会場内を闊歩していました。 Amazon S3 Express One Zoneとは？ Amazon S3 Express One Zoneは、S3の新しいストレージクラスです。従来も、ひとつのAZのみにデータを配置するOne Zoneもありましたが、これはコスト削減を主眼としたストレージクラスです。今回発表されたExpress One Zoneは、名前に明記している通り、速さに特化したサービスラインナップです。発表では、特に小さなファ</description>
     </item>
+    <item>
+      <title>強いAIが登場して何ができるようになるのか？</title>
+      <link>https://anond.hatelabo.jp/20231208081258</link>
+      <pubDate>2023/12/08 08:17</pubDate>
+      <description>はじめにX / twitter では &amp;quot;[あめいろ]&amp;quot; という名前です。 アメリカに住んで19年、企業で働きはじめて12年になります。2023年の4月末に勤めていた会社でレイオフにあい、その後7ヶ月に渡って就職活動を行ってきた時の記録です。経歴や職種は人それぞれで、景気やjob marketの状況も刻々と変わっていくので、直接的に誰かの役に立つとは思っていませんが、これだけ長い間就職活動に苦戦してきたことを自分のために何か記録に残しておきたいと思い、書き留めることにしました。 今回の就職活動を数字で振り返ると以下の通りです: 224 days 135 jobs applied (incl. 13 referrals) 54 first recruiter calls 106 interviews (incl. 23 live coding) 3 take-home assignments</description>
+    </item>
   </channel>
 </rss>
