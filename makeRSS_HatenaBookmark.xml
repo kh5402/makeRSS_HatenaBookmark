@@ -14643,5 +14643,11 @@
       <pubDate>2023/12/09 08:10</pubDate>
       <description>※ この記事は、AWS (Amazon Web Services) の技術支援を受けて執筆しています。 はじめに この記事はコネヒトアドベントカレンダー 8日目の記事です。 コネヒト Advent Calendar 2023って？ コネヒトのエンジニアやデザイナーやPdMがお送りするアドベント カレンダーです。 コネヒトは「家族像」というテーマを取りまく様々な課題の解決を 目指す会社で、 ママの一歩を支えるアプリ「ママリ」などを 運営しています。 adventar.org こんにちは！コネヒトの機械学習エンジニア y.ikenoueです。 突然ですがみなさん、Amazon Bedrockをご存知でしょうか。 aws.amazon.com Amazon Bedrock(以下、Bedrock)は、テキスト生成AIをはじめとする基盤モデル (Foundation Model)*1を提供するAWS</description>
     </item>
+    <item>
+      <title>Go Conference mini 2023 Winter in KYOTOに参加しました</title>
+      <link>https://zenn.dev/knowledgework/articles/c9d0e8a8a1a27d</link>
+      <pubDate>2023/12/08 22:53</pubDate>
+      <description>※ この記事は、AWS (Amazon Web Services) の技術支援を受けて執筆しています。 はじめに この記事はコネヒトアドベントカレンダー 8日目の記事です。 コネヒト Advent Calendar 2023って？ コネヒトのエンジニアやデザイナーやPdMがお送りするアドベント カレンダーです。 コネヒトは「家族像」というテーマを取りまく様々な課題の解決を 目指す会社で、 ママの一歩を支えるアプリ「ママリ」などを 運営しています。 adventar.org こんにちは！コネヒトの機械学習エンジニア y.ikenoueです。 突然ですがみなさん、Amazon Bedrockをご存知でしょうか。 aws.amazon.com Amazon Bedrock(以下、Bedrock)は、テキスト生成AIをはじめとする基盤モデル (Foundation Model)*1を提供するAWS</description>
+    </item>
   </channel>
 </rss>
