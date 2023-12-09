@@ -14649,5 +14649,11 @@
       <pubDate>2023/12/08 22:53</pubDate>
       <description>※ この記事は、AWS (Amazon Web Services) の技術支援を受けて執筆しています。 はじめに この記事はコネヒトアドベントカレンダー 8日目の記事です。 コネヒト Advent Calendar 2023って？ コネヒトのエンジニアやデザイナーやPdMがお送りするアドベント カレンダーです。 コネヒトは「家族像」というテーマを取りまく様々な課題の解決を 目指す会社で、 ママの一歩を支えるアプリ「ママリ」などを 運営しています。 adventar.org こんにちは！コネヒトの機械学習エンジニア y.ikenoueです。 突然ですがみなさん、Amazon Bedrockをご存知でしょうか。 aws.amazon.com Amazon Bedrock(以下、Bedrock)は、テキスト生成AIをはじめとする基盤モデル (Foundation Model)*1を提供するAWS</description>
     </item>
+    <item>
+      <title>【総まとめ】GuardDutyによるコンテナランタイム脅威検知の注意事項と設定手順と検出の様子 #AWSreInvent | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/ecs-fargate-runtime-detection/</link>
+      <pubDate>2023/12/09 18:38</pubDate>
+      <description>【ブリュッセル=辻隆史】欧州連合（EU）の主要機関は9日、人工知能（AI）の包括的な規制案に大筋合意したと発表した。生成AIの提供企業に、AIでつくられた内容であることを明示させるなど透明性の義務を課す。開発側、利用側の双方が果たす責務を法律で明確に定め、世界標準のルールとして定着を狙う。対応を怠った企業には、最も重い違反の場合「3500万ユーロ（約54億円）」か「年間世界売上高の7%」を上限</description>
+    </item>
   </channel>
 </rss>
