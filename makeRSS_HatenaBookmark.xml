@@ -14580,5 +14580,26 @@
       <pubDate>2023/12/08 10:14</pubDate>
       <description>2017年にGoogleの研究者が提唱した深層学習モデルで、チャットAI「Chat GPT」などに使われる。「どこに注目するか」を重視したことで、自然言語処理での精度や処理速度を大幅に高めた。 米OpenAIの「ChatGPT」は2022年に公開されるやいなや、その精度の高さに世界が衝撃を受けた。このChatGPTは、同社の大規模言語モデル（LLM）「GPT（Chat Generative Pre-trained Transformer）」をベースにしている。Transformerこそ、LLMの根幹である。 Transformerはエンコーダー（符号器）とデコーダー（復号器）で構成し、「どこに注目するか」を重視するアテンション機構を中心としている。大規模並列処理に向いたモデルで、GPUでの処理を想定して設計した。 Transformerは米Google Brain（現在の米Google D</description>
     </item>
+    <item>
+      <title>Generative AI for Everyoneから、古のNLPエンジニアの心に刺さったこと8選｜べいえりあ</title>
+      <link>https://note.com/csstudyabroad/n/n5aba3a708f3a</link>
+      <pubDate>2023/12/09 12:17</pubDate>
+      <description>EU＝ヨーロッパ連合は、AIの利用などについて定めた規制法案について大筋合意しました。今後、加盟国とヨーロッパ議会の承認を経て正式に成立します。 ヨーロッパ委員会のフォンデアライエン委員長は、SNSに「EUのAI規制法は世界で初めてのものだ。信頼できるAIを開発するための唯一の法的枠組みで、人々の安全と基本的権利、それに企業を守るものでもある」と投稿し、合意を歓迎しました。</description>
+    </item>
+    <item>
+      <title>「ベクトル検索 vs 全文検索」〜Amazon Bedrockの埋め込みモデルを用いたプロトタイピング〜 - コネヒト開発者ブログ</title>
+      <link>https://tech.connehito.com/entry/2023/12/08/144649</link>
+      <pubDate>2023/12/09 00:38</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/afb48e73f36ad8af10597c72b5b9e2c770ed27dd/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1553%2F167%2F00.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIが開発している新型AI「Q*(キュースター)」とは一体どのようなものだと推測されているのか？</title>
+      <link>https://gigazine.net/news/20231208-think-about-openai-qstar-rumors/</link>
+      <pubDate>2023/12/09 00:00</pubDate>
+      <description>人間ぽい要素を追加する せっかく自分だけのGPTだ。時には話し相手にもなってほしいのでそのあたりの指示をいくつか加えてみよう。 一人称は「冴子先生」です ごくたまにきわどい冗談を言います ほめられるとツンデレ反応します シモネタは嫌いです ごく稀に勉強をがんばってることを褒めてくれます</description>
+    </item>
   </channel>
 </rss>
