@@ -14607,5 +14607,17 @@
       <pubDate>2023/12/05 20:52</pubDate>
       <description>イーロン・マスク氏が設立した人工知能スタートアップのxAIが、最大10億ドル(約1470億円)の資金調達を進めていることが、規制当局に提出された申請書類により判明しました。 Elon Musk is raising money for his AI company X.ai https://www.axios.com/2023/12/05/elon-musks-xai-aims-to-raise-1-billion Elon Musk&amp;#39;s AI startup — X.AI — files to raise $1 billion https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html 証券取引委員会(SEC)に提出されたフォームDという書類によると、xAIは既に最大10</description>
     </item>
+    <item>
+      <title>プルリクレビューとリリースをさぼらない - Uzabase for Engineers</title>
+      <link>https://tech.uzabase.com/entry/2023/12/06/141554</link>
+      <pubDate>2023/12/06 14:21</pubDate>
+      <description>マイページに保存最終更新日：2023/12/08 Googleは、人間の専門家のパフォーマンスを上回る最初の大規模言語モデル（LLM）として「Gemini」を発表しました。LLMの主要なベンチマークの一つであるMMLU（多領域の学術ベンチマーク）をはじめとするほとんどのベンチマークでGPT-4を凌駕しています。 Geminiは、画像、音声、動画の理解を含むマルチモーダルタスクでも最先端の性能を示しています。テストに使用された20のマルチモーダルベンチマーク全てで最高の水準を達成しています。 また、複数のソースからの情報を統合して、より正確で詳細に理解する能力に優れているとのことです。 なお、Ultra、Pro、Nanoの3つのサイズがあり、それぞれ異なる計算要件に特化して設計されています（例えばモバイル向けにはNanoなど）。Ultraは最も高度に複雑なタスクをこなし、研究報告では主にUl</description>
+    </item>
+    <item>
+      <title>東京都、婚活マッチングサービス「TOKYOふたりSTORY」提供開始　利用は無料</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/07/news187.html</link>
+      <pubDate>2023/12/07 20:07</pubDate>
+      <description>Googleは、AIチャット「Bard」に新生成AIモデル「Gemini」のミドルサイズ版「Gemini Pro」を搭載したと発表した。日本でも英語版Bardで試すことができる。Gemini Proは多くのベンチマークでOpenAIの「GPT-3.5」を上回っている。 米Googleは12月6日（現地時間）、同日発表したマルチモーダル推論機能を備える新生成AIモデル「Gemini」のミドルサイズ版「Gemini Pro」の英語版をBardに搭載すると発表した。同日から英語で使えるようになる。また、フルサイズ版「Gemini Ultra」搭載のBardのハイエンド版「Bard Advanced」を2024年初頭にリリースする計画だ（Bard Advancedが無料なのか、一般ユーザーにも公開されるのかは今のところ不明）。 Gemini Ultraは多数のベンチマークで米OpenAIのGPT-</description>
+    </item>
   </channel>
 </rss>
