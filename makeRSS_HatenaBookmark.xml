@@ -14568,5 +14568,17 @@
       <pubDate>2023/12/07 13:55</pubDate>
       <description>2023年12月7日、Google は GPT-4の最大の対抗馬とされていた「Gemini(ジェミニ)1.0」を発表しました。Geminiは3つのバージョンがあり、Nano, Pro, Ultra(一番性能が高い) となっています。GeminiはMMLU（大規模多目的言語理解）というベンチマークで人間の専門家を初めて上回る90.0%のスコアを達成する最強のモデルとなっています。本記事では、そのGeminiについて詳しく解説していきます。それでは、早速見ていきましょう。 Geminiの使い方すでに、Gemini Proの改良版はBardにアクセスすることで誰でも使用することができます。ただし、いくつかの簡単なステップが必要です。まず、Google Chromeを開き、右上のドットメニューアイコンからアカウントをクリックします。 次に、左側のバーから「個人情報」を選択します。 そして、「ウェブ</description>
     </item>
+    <item>
+      <title>EU AI利用などの規制法案 大筋合意 委員長“世界で初めて” | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231209/k10014283091000.html</link>
+      <pubDate>2023/12/09 10:15</pubDate>
+      <description>※ この記事は、AWS (Amazon Web Services) の技術支援を受けて執筆しています。 はじめに この記事はコネヒトアドベントカレンダー 8日目の記事です。 コネヒト Advent Calendar 2023って？ コネヒトのエンジニアやデザイナーやPdMがお送りするアドベント カレンダーです。 コネヒトは「家族像」というテーマを取りまく様々な課題の解決を 目指す会社で、 ママの一歩を支えるアプリ「ママリ」などを 運営しています。 adventar.org こんにちは！コネヒトの機械学習エンジニア y.ikenoueです。 突然ですがみなさん、Amazon Bedrockをご存知でしょうか。 aws.amazon.com Amazon Bedrock(以下、Bedrock)は、テキスト生成AIをはじめとする基盤モデル (Foundation Model)*1を提供するAWS</description>
+    </item>
+    <item>
+      <title>早くやるんじゃない、「短くやる」んだ。「仕事が膨大で効率化したい」人に必要な考え方 - ミーツキャリアbyマイナビ転職</title>
+      <link>https://meetscareer.tenshoku.mynavi.jp/entry/20231207-yamamoto</link>
+      <pubDate>2023/12/08 10:14</pubDate>
+      <description>2017年にGoogleの研究者が提唱した深層学習モデルで、チャットAI「Chat GPT」などに使われる。「どこに注目するか」を重視したことで、自然言語処理での精度や処理速度を大幅に高めた。 米OpenAIの「ChatGPT」は2022年に公開されるやいなや、その精度の高さに世界が衝撃を受けた。このChatGPTは、同社の大規模言語モデル（LLM）「GPT（Chat Generative Pre-trained Transformer）」をベースにしている。Transformerこそ、LLMの根幹である。 Transformerはエンコーダー（符号器）とデコーダー（復号器）で構成し、「どこに注目するか」を重視するアテンション機構を中心としている。大規模並列処理に向いたモデルで、GPUでの処理を想定して設計した。 Transformerは米Google Brain（現在の米Google D</description>
+    </item>
   </channel>
 </rss>
