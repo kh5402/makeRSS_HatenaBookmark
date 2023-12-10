@@ -14856,5 +14856,17 @@
       <pubDate>2023/12/10 10:12</pubDate>
       <description>「llamafile」は大規模言語モデルのモデルやウェイトの情報が1つの実行ファイルにまとまった形式のファイルです。Linux・macOS・Windows・FreeBSD・NetBSD・OpenBSDという6つのOS上でインストール不要で大規模言語モデルを動作させることが可能とのことなので、実際にWindowsおよびLinuxディストリビューションの1つであるDebian上で動かしてみました。 Mozilla-Ocho/llamafile: Distribute and run LLMs with a single file. https://github.com/Mozilla-Ocho/llamafile#readme Introducing llamafile - Mozilla Hacks - the Web developer blog https://hacks.mozilla</description>
     </item>
+    <item>
+      <title>ChatGPT新機能「GPTs」活用例4選、“Action”を使って書籍や天気情報を調べるカスタムAIチャットを作る【イニシャルB】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/shimizu/1550224.html</link>
+      <pubDate>2023/12/11 06:05</pubDate>
+      <description>メディア事業部AIライターの大竹です。 2023年11月に登場したChatGPTのGPTs機能の導入は、ChatGPTアップデートの中でも特に大きな印象をユーザーに与え話題となりました GPTsとは、自分好みに調整したChatGPTを作成できる機能。以前までは、毎回プロンプトを入力して出力の方向性を指示していましたが、GPTsを活用すればそうした手間がなくなります。作成したGPTsは他人と共有が可能。公開されているGPTsを活用することで業務効率を大幅に高められます。 今回は業務活用に役立つGPTsを紹介します。仕事の負担が大幅に軽減されるので、ぜひ最後までお読みください。 なお弊社では、GPTsについて1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる GPTsの活用事例【業務活用編】 ChatGPTは世界中に膨大な利用者数がいるため、作成・共有</description>
+    </item>
+    <item>
+      <title>無料でGPT-4使い放題「リートン」の「GPT-４ Turbo」が事前登録者向けに提供開始／2024年1月中旬には一般公開を予定</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1552807.html</link>
+      <pubDate>2023/12/07 18:23</pubDate>
+      <description>先週末に開催された電竜戦本戦で、水匠チームが優勝した。私(やねうらお)も同チームのチームメンバーとして参加し、私は探索部の改良を行った。同チームのたややんさんは、定跡と評価関数(の機械学習)を担当した。 現代の将棋AIの大会で何が起きているのかについて手短に書く。 ■　定跡 まず、本大会の水匠チームの定跡部分に関しては、たややんさんの以下の配信に詳しい。 【#電竜戦 祝勝会】水匠電竜、連覇しました！！【将棋AI水匠／たややん】 https://www.youtube.com/watch?v=lsNoVMe_wdk 配信の内容で大事なところを簡単にまとめると、 ・角換わり(38手目基本図)は定跡により先手優勢までは持っていける(これは1年ぐらい前からそう) ・相掛かりも定跡で先手有利 ・おそらく将棋は先手勝ちのゲーム ・大会では、「わからん殺し」するしかない とのこと。 結局、将棋は先手勝ち</description>
+    </item>
   </channel>
 </rss>
