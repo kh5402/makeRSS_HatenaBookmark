@@ -14736,5 +14736,20 @@
       <pubDate>2023/12/05 08:29</pubDate>
       <description>主にAI処理用途での先行者利益と性能の良さで採用が拡大している。2006年からGP（汎用）GPU開発環境「CUDA」を展開する。TransformerはNVIDIAのGPUを前提に設計した。 先行者利益─。米NVIDIAがAI半導体市場で独走する大きな理由の1つである。同社は2006年からCUDA（Compute Unified Device Architecture）を公開し、いち早くGPUを科学計算用途に広げた。これが深層学習の研究開発でも活用されるようになった。2022年には大規模言語モデル（LLM）向けに「H100 Tensor Core GPU」を出荷開始し、世界中でH100不足を起こすまでになっている（図1）。 2006年時点で他社に先んじてGP（汎用）GPUの開発環境「CUDA」を提供し、GPUの用途を画像処理から並列演算処理全般に広げた。その後、並列演算の応用先としてニュー</description>
     </item>
+    <item>
+      <title>(全体効果)Loraを2回混ぜるとどうなる？モデルの指を安定させる方法｜あいおえおえかきの</title>
+      <link>https://note.com/aioe/n/n7a33476a8802</link>
+      <pubDate>2023/12/10 07:36</pubDate>
+      <description>米Googleは12月8日（現地時間）、Googleラボが初期テスターに提供していたAIノートブック「NotebookLM」（実験製品）を、米国で18歳以上が利用できるようにした。これは今年5月に開発者カンファレンスにおいて、「Project Tailwind」という名称で紹介されたツールであり、オンラインノートに大規模言語モデル（LLM）によるAIアシスト機能が統合されている。新版では、PDFサポートやメモボードといった多数の新機能を追加し、またGoogleが12月6日に発表した最新のAIモデル「Genmini Pro」の使用を開始した（対応言語は英語）。 NotebookLMは、論文やレポート、小説、書籍執筆など長い文章を書く際の準備に役立つツールである。執筆プロジェクトごとにカスタマイズされたAIアシスタントが、ユーザーが収集した資料や情報、ユーザーが書いたメモやノートに基づいた、分</description>
+    </item>
+    <item>
+      <title>Googleの対話型AI「Bard」に“人間の専門家を上回る”次世代生成AIモデル「Gemini」を導入／まずは英語版から。マルチモーダル機能に対応する大規模アップデート</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1552636.html</link>
+      <pubDate>2023/12/07 12:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8e78d2793122615483fa14b1832fcb0ed0566a25/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1552%2F532%2Fmf1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
