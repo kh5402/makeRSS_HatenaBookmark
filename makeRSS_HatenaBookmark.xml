@@ -14700,5 +14700,17 @@
       <pubDate>2023/12/10 08:14</pubDate>
       <description>2023年5月の前回調査から半年の期間が経過した今回の実態調査では、生成AIに対する認知・推進度合いが大幅に向上し、生成AIの急速な普及を実感する結果となりました。一方で生成AI活用推進のモチベーションが「他社に負けないこと」にあることや、多くの企業が人材・ノウハウ不足に直面していることなど、新たな課題も見えてきました。また、半数以上の回答者が今後1年以内の生成AI本格導入を検討しており、生成AI活用による成果が問われるタイミングが訪れていることも明らかとなりました。日本企業が生成AIを効果的に活用し、国際的に競争力を持つためには、単なる業務効率化を超えた価値創造の模索やそのための業務プロセスそのもの見直し、人材の育成、ガバナンス体制の整備などが重要と考えられます。 はじめに 2023年5月に前回の実態調査を公表して以来、さまざまな生成AIのツールやアプリの登場、G7広島サミットでの広島A</description>
     </item>
+    <item>
+      <title>Google、論文・レポート作成を生成AIが支援「NotebookLM」公開、Geminiを導入</title>
+      <link>https://news.mynavi.jp/article/20231209-2837084/</link>
+      <pubDate>2023/12/10 08:10</pubDate>
+      <description>OpenAIは、ChatGPTでのGPT-4が怠惰になってきた（lazier）というユーザーからのフィードバックが増えていると認め、修正を検討中だとXにポストした。「モデルの動作は予測できない場合がある」としている。 米OpenAIは12月7日（現地時間）、ChatGPTでのGPT-4のパフォーマンスが低下している（lazier）というユーザーからのフィードバックがここ数カ月増えていることを認め、「修正を検討中」だとX（旧Twitter）の公式アカウントにポストした。 「モデルの動作は予測できない場合がある」としている。 特にコード生成での問題が増えており、11月末にはOpenAIでAPIのプロダクトマネジャーを務めるオーウェン・キャンベル-ムーア氏が苦情ポストに対し、「これはバグで、現在修正中です」とリプライしていた。 OpenAIは翌8日、状況を説明するポストを連投した。いわく、「チャ</description>
+    </item>
+    <item>
+      <title>生成AIに関する実態調査2023 秋 ―生成AIは次のフェーズへ：勝つための人材育成／確保と導入効果の追求が最重要課題―</title>
+      <link>https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2023_autumn.html</link>
+      <pubDate>2023/12/09 23:32</pubDate>
+      <description>欧州連合(EU)で提案された人工知能(AI)を規制するための世界初の法案について、欧州連合(EU)の政策執行機関である欧州委員会(EC)、EUの政策決定機関であるEU理事会、EUの立法機関である欧州議会の三者協議が進められていたのですが、ついに合意に至りました。EUのAI規制法は2021年4月に提案されたもので、欧州企業から猛抗議を受けながら調整が進められていたものです。 Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI | News | European Parliament https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comp</description>
+    </item>
   </channel>
 </rss>
