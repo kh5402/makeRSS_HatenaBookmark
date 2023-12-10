@@ -14844,5 +14844,17 @@
       <pubDate>2023/12/09 00:24</pubDate>
       <description>本記事は、情報検索・検索技術 Advent Calendar 2023 9日目の記事です。 SIF/uSIFという文埋め込み手法と、そのRust実装であるsif-embeddingを紹介します。最後にちょこっとベクトル検索もします。 はじめに SIF SIF-weighting Common Component Removal アルゴリズム 使用上の注意 uSIF sif-embedding 準備 単語埋め込みの準備 ユニグラム言語モデルの準備 Let&amp;#39;s 文埋め込み 性能評価 速度性能 評価用データセットを使ったベンチマーク 英語 日本語 ベクトル検索 おわりに はじめに 自然言語文の密ベクトル表現を文埋め込みと呼びます。文埋め込み同士のコサイン類似度などを使って、文同士の意味的な類似度が計算できるので、自然言語処理や情報検索などで重宝します。特に最近では、今年のAdvent Calen</description>
     </item>
+    <item>
+      <title>【GPTs×業務活用】職場で神扱いされるGPTsを使った業務効率化・自動化方法10選 | WEEL</title>
+      <link>https://weel.co.jp/media/gpts-work-efficiency</link>
+      <pubDate>2023/12/10 23:22</pubDate>
+      <description>作家、神林長平さんは「言葉」「機械」などのテーマを重層的に組み合わせた独自の世界観を反映させた数々の作品で知られる。現代を代表するSF作家の一人として、急速に普及が進む人工知能（AI）をどう見ているのだろうか。寄稿してもらった。 2023年は、チャットGPTに代表される対話型AIが爆発的に普及し始めた年として記憶されるだろう。機械相手に自然な会話ができるというのは驚きを伴う楽しい体験に違いないが、それが実用面で使われると、他人の権利や人権を侵害する恐れがある。ここにきてそれが顕在し、対応策もいろいろ議論されているのは報道されているとおりだ。 対話型、すなわち言語を主体とする生成AIの利用がさまざまな方面で社会的な問題を引き起こすという現象は、社会というものを成立させ、支えているのが「言葉」であることを思えば、当然理解できる。＜言葉＞は社会を生み、文化や技術を発達させてきた。いつの頃からか人</description>
+    </item>
+    <item>
+      <title>「外国法であって外国法でない」　EUのAI法が世界に与える影響：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRD96KVHRD5UHBI01P.html</link>
+      <pubDate>2023/12/10 10:12</pubDate>
+      <description>「llamafile」は大規模言語モデルのモデルやウェイトの情報が1つの実行ファイルにまとまった形式のファイルです。Linux・macOS・Windows・FreeBSD・NetBSD・OpenBSDという6つのOS上でインストール不要で大規模言語モデルを動作させることが可能とのことなので、実際にWindowsおよびLinuxディストリビューションの1つであるDebian上で動かしてみました。 Mozilla-Ocho/llamafile: Distribute and run LLMs with a single file. https://github.com/Mozilla-Ocho/llamafile#readme Introducing llamafile - Mozilla Hacks - the Web developer blog https://hacks.mozilla</description>
+    </item>
   </channel>
 </rss>
