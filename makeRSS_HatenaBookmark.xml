@@ -14718,5 +14718,23 @@
       <pubDate>2023/12/10 09:50</pubDate>
       <description>米Googleは12月8日（現地時間）、Googleラボが初期テスターに提供していたAIノートブック「NotebookLM」（実験製品）を、米国で18歳以上が利用できるようにした。これは今年5月に開発者カンファレンスにおいて、「Project Tailwind」という名称で紹介されたツールであり、オンラインノートに大規模言語モデル（LLM）によるAIアシスト機能が統合されている。新版では、PDFサポートやメモボードといった多数の新機能を追加し、またGoogleが12月6日に発表した最新のAIモデル「Genmini Pro」の使用を開始した（対応言語は英語）。 NotebookLMは、論文やレポート、小説、書籍執筆など長い文章を書く際の準備に役立つツールである。執筆プロジェクトごとにカスタマイズされたAIアシスタントが、ユーザーが収集した資料や情報、ユーザーが書いたメモやノートに基づいた、分</description>
     </item>
+    <item>
+      <title>TypeScriptでどこまで「関数型プログラミング」するか ─ 「手続き Haskell」から考察する - 一休.com Developers Blog</title>
+      <link>https://user-first.ikyu.co.jp/entry/2023/12/10/134411</link>
+      <pubDate>2023/12/10 13:52</pubDate>
+      <description>筆者は現在、医療・災害現場向けの方言AIを制作中である。このノートでは「なぜそんなことをしているのか」などを書く。 1. きっかけは熊本地震　2016年。熊本地震が発生した時、筆者は東京の研究所にいた。テレビは緊急番組に切り替わり、次々と熊本の現状が映し出される。変わり果てた熊本城、崩れた阿蘇の斜面、崩落した橋、ひっしゃげた集落、殺伐とした避難所。 熊本出身の筆者は、家族や友人と連絡をとるのに必死だった。 そんな時、研究界隈のメーリングリストに、方言支援を呼びかけるメールが届いた。その主旨は、県外から入る支援チームに方言が伝わらない可能性があるから、方言資料を現場に提供しようという主旨であった。東京にいながら熊本のためにできることは限られている。私は急いで災害義援金を入金したあと、その作業に加わった。 しかしほどなくして、私はその作業から距離を置くことになる。 2. 祭り　以下、失礼な発言</description>
+    </item>
+    <item>
+      <title>Pixel 8 Pro、新AI「Gemini」即日搭載　レコーダ要約やスマート返信</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1552594.html</link>
+      <pubDate>2023/12/07 07:27</pubDate>
+      <description>はじめに Amazon Qとは VSCodeでAmazon QにChatする セットアップ 質問してみる 余談：Chatでエラー発生 Javaコードのバージョンアップ（未検証） まとめ はじめに こんにちは、高橋です。 先日AWS re:Invent2023に行ってきました。 Keynoteで発表されたAmazon Qについて、VSCodeで使ってみた感想を簡単にまとめようと思います。 Amazon Qとは Amazon QはAmazonによって開発された生成型AIアシスタントです。このツールは、特にAWS（Amazon Web Services）のエコシステム内で開発者やIT専門家を支援するよう設計されています。Amazon Qは自然言語処理を用いて、ユーザーが提出する質問や要求に応じて迅速かつ効果的な解決策を提供します。 Amazon Qには以下の種類がありますが、今回はAmazon</description>
+    </item>
+    <item>
+      <title>新規参入エヌビディア　「3強」の敵か味方か</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/mag/nc/18/112900392/112900005/</link>
+      <pubDate>2023/12/05 08:29</pubDate>
+      <description>主にAI処理用途での先行者利益と性能の良さで採用が拡大している。2006年からGP（汎用）GPU開発環境「CUDA」を展開する。TransformerはNVIDIAのGPUを前提に設計した。 先行者利益─。米NVIDIAがAI半導体市場で独走する大きな理由の1つである。同社は2006年からCUDA（Compute Unified Device Architecture）を公開し、いち早くGPUを科学計算用途に広げた。これが深層学習の研究開発でも活用されるようになった。2022年には大規模言語モデル（LLM）向けに「H100 Tensor Core GPU」を出荷開始し、世界中でH100不足を起こすまでになっている（図1）。 2006年時点で他社に先んじてGP（汎用）GPUの開発環境「CUDA」を提供し、GPUの用途を画像処理から並列演算処理全般に広げた。その後、並列演算の応用先としてニュー</description>
+    </item>
   </channel>
 </rss>
