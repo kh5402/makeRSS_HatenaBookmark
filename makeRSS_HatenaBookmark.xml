@@ -14673,5 +14673,26 @@
       <pubDate>2023/12/08 10:40</pubDate>
       <description>生成AI（人工知能）の登場により、広告の“聖域”であったクリエイティブ制作にも自動化の波が押し寄せている。こうした新たな時流を好機と捉え、コンサルティング会社も広告領域を強化し始めている。大手コンサルのアクセンチュア（東京・港）もその一社。同社は生成AIによる広告運用支援にも事業領域を拡大しつつある。生成AIによって広告制作の能力が高まることで、コンサル会社と広告代理店との競争はさらに激化しそうだ。 生成AIの登場により、広告代理店とコンサルティング会社の事業領域はますます重なり、競合は避けられそうにない（画像／Timon/stock.adobe.com） 従来、日本におけるマーケティングとはすなわち広告活用を中心とした、顧客獲得に主眼が置かれていた。しかし、デジタル時代になり、SNSやスマートフォン向けアプリ、電子商取引（EC）サイトなどを活用して企業が顧客と直接つながる手段が相次ぎ登場</description>
     </item>
+    <item>
+      <title>世界初のAI規制法にEUが合意、政策執行機関の委員長は「世界初のAI法」であることを強調</title>
+      <link>https://gigazine.net/news/20231209-eu-lawmakers-global-first-ai-rules/</link>
+      <pubDate>2023/12/09 15:38</pubDate>
+      <description>本記事は、情報検索・検索技術 Advent Calendar 2023 9日目の記事です。 SIF/uSIFという文埋め込み手法と、そのRust実装であるsif-embeddingを紹介します。最後にちょこっとベクトル検索もします。 はじめに SIF SIF-weighting Common Component Removal アルゴリズム 使用上の注意 uSIF sif-embedding 準備 単語埋め込みの準備 ユニグラム言語モデルの準備 Let&amp;#39;s 文埋め込み 性能評価 速度性能 評価用データセットを使ったベンチマーク 英語 日本語 ベクトル検索 おわりに はじめに 自然言語文の密ベクトル表現を文埋め込みと呼びます。文埋め込み同士のコサイン類似度などを使って、文同士の意味的な類似度が計算できるので、自然言語処理や情報検索などで重宝します。特に最近では、今年のAdvent Calen</description>
+    </item>
+    <item>
+      <title>アクセンチュア、広告代理店と競争激化　生成AIで広告制作を自動化</title>
+      <link>https://xtrend.nikkei.com/atcl/contents/18/00915/00008/</link>
+      <pubDate>2023/12/07 14:55</pubDate>
+      <description>人間は同じキャラクターを20年以上も演じれば、自身の精神にそのキャラが根付くのか？ そして人間が演じてきた情報をAIに膨大に学習させれば、その先に人間の精神のようなものは生まれるのか？ 考えてみれば、商業アニメで特定の役柄を数十年にわたって演じ続けるという意味で声優という職種は突出している。もちろん、俳優が同じ舞台や同じドラマで同じ登場人物を演じ続けるケースは多い。しかし商業アニメが特殊なのは、映画版や別のシリーズごとに監督も絵柄も脚本も違う場合がしばしばあることだ。その場合、声優は各シリーズでキャラをどう解釈しているのだろうか。 そして『攻殻機動隊 SAC_2045』（以下、「2045」）に至っては完全なCGアニメーションに変わった。そのシーズン2を再編集した劇場版『攻殻機動隊 SAC_2045 最後の人間』の公開にあわせ、シリーズの主演声優である田中敦子氏、大塚明夫氏、そして山寺宏一氏</description>
+    </item>
+    <item>
+      <title>Amazon EFS Archive を使用して、アクセス頻度の低いファイルのストレージコストを最適化します | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/</link>
+      <pubDate>2023/12/07 18:12</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/335982c054382d24cde24e76825c246de3281630/height=288;version=1;width=512/https%3A%2F%2Fstatic.xx.fbcdn.net%2Frsrc.php%2Fv3%2Fy-%2Fr%2FWbk-2MVpZMY.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
