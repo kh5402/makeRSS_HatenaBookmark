@@ -14760,5 +14760,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/af497f5b4aee308793602a29fbe14952cc4bce45/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1552%2F594%2Fg2_5.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>AIによる楽器サウンド合成システム、Melisma(β)が爆誕。サンプリングでは不可能だったリアルさを実現｜DTMステーション</title>
+      <link>https://www.dtmstation.com/archives/64160.html</link>
+      <pubDate>2023/12/10 17:17</pubDate>
+      <description>この記事は 一休.comのカレンダー | Advent Calendar 2023 - Qiita 10日目の記事です。 昨今は Web アプリケーション開発の世界でも、関数型プログラミングのエッセンスを取り入れるような機会が増えてきました。 とはいえ、一つのアプリケーションを 1 から 10 までがっちり関数型プログラミングで構成するというわけではなく、そのように書くこともあればそうでない従来からの手続き的スタイルで書くところもあるというのが現状で、どこまで関数型プログラミング的な手法を取り入れるかその塩梅もまちまちだと思います。まだ今はその過渡期という印象も受けます。 本稿ではこの辺りを少々考察してみたいと思います。 先日、QIita Conference 2023 Autumn で以下のテーマで発表を行いました。 この発表では「関数型プログラミング最強!」という話をしたわけではなく、</description>
+    </item>
+    <item>
+      <title>方言AI episode０ーそれは「学者なんてクソ」から始まったー｜Mika Sakai</title>
+      <link>https://note.com/mika_kagouniv/n/nde00a961fc7b</link>
+      <pubDate>2023/12/10 12:40</pubDate>
+      <description>やっぱり同じLoraを2回入れると効果が高くなる気がする 強度1を1回じゃなくて、強度0.3を2回入れるみたいな感じ まだ研究が進んでないからなんとも言えないけどね — あいおえおえかきの (@NovelAIoekaki) December 9, 2023 このことは前々から気付いてはいましたが、新しいモデルを調整している時にはっきりと分かりました。 今回目指しているのはフラットなイラスト風のモデルなんですけど、指がね･･･結構破綻するんですよ。 ↓ 指がやばい。イラスト系モデルあるあるですね。 それを解決するために有効なのが「Hipoly 3D Model LoRA」というLoraを顔以外に適用することで、指を安定させるという方法。 これ自体は色んな方が知っていると思います。私も他の人の記事で見ただけなので。 ↓ 1girl, room,&amp;lt;lora:hipoly_3dcg_v7-epoc</description>
+    </item>
+    <item>
+      <title>車両情報のリアルタイム特徴量基盤の構築</title>
+      <link>https://speakerdeck.com/mot_techtalk/che-liang-qing-bao-noriarutaimute-zheng-liang-ji-pan-nogou-zhu</link>
+      <pubDate>2023/12/09 19:56</pubDate>
+      <description>2023年5月の前回調査から半年の期間が経過した今回の実態調査では、生成AIに対する認知・推進度合いが大幅に向上し、生成AIの急速な普及を実感する結果となりました。一方で生成AI活用推進のモチベーションが「他社に負けないこと」にあることや、多くの企業が人材・ノウハウ不足に直面していることなど、新たな課題も見えてきました。また、半数以上の回答者が今後1年以内の生成AI本格導入を検討しており、生成AI活用による成果が問われるタイミングが訪れていることも明らかとなりました。日本企業が生成AIを効果的に活用し、国際的に競争力を持つためには、単なる業務効率化を超えた価値創造の模索やそのための業務プロセスそのもの見直し、人材の育成、ガバナンス体制の整備などが重要と考えられます。 はじめに 2023年5月に前回の実態調査を公表して以来、さまざまな生成AIのツールやアプリの登場、G7広島サミットでの広島A</description>
+    </item>
   </channel>
 </rss>
