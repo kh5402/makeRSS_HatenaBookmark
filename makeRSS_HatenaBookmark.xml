@@ -15105,5 +15105,17 @@
       <pubDate>2023/12/11 03:06</pubDate>
       <description>検索SaaSを展開するHelpfeelがシリーズDで総額20億円を資金調達　累計調達額は33億円を突破生成AI×検索SaaS分野でトップシェアを目指す 株式会社Helpfeel（京都府京都市、代表取締役/CEO：洛西一周、以下 当社、https://corp.helpfeel.com/）は、検索SaaS『Helpfeel』を中心にさらなる発展を目指して、グロービス・キャピタル・パートナーズ株式会社（東京都千代田区、代表取締役：堀 義人）をリード投資家とし、シリーズDラウンドにて総額20億円を資金調達いたしました。累計調達額は約33億円になります。 生成AIを活用し、国や企業の生産性向上へ大きく貢献 当社は、情報伝達における課題をテクノロジーで解決することを目指し、企業サービスの問い合わせ削減や社内情報の検索による業務効率化に邁進してまいりました。ユーザー接点のデジタル化に伴い市場も拡大し、</description>
     </item>
+    <item>
+      <title>世界を驚かせたGoogleのAI動画、実はあんなにサクサク動きません</title>
+      <link>https://www.gizmodo.jp/2023/12/gemini-duck-demo.html</link>
+      <pubDate>2023/12/11 19:54</pubDate>
+      <description>こちらはエムスリー Advent Calendar 2023 11日目の記事です。 DALL-Eでサムネ作るの楽勝だぜとなりそうでならない Overview A/Bテストをしまくっている、機械学習エンジニアの農見(@rookzeno)です。皆さんA/Bテストをしてますでしょうか。エムスリーでは色々な施策の効果を見るために沢山のA/Bテストをしています。そのためA/Bテストを簡易にできるような設計を作ることも大事なことです。 AI・機械学習チームには、Goで書かれた機械学習関連の機能を各サービスに提供するAPIサーバがあり、こちらのYAMLファイルを設定するだけでA/Bテストが出来るようにしました。 rules: - name: modelA random_seed: 42 threshold: 50 ctrl: weight: 0 test: weight: 1 - name: model</description>
+    </item>
+    <item>
+      <title>梶裕貴が苦言　AIに声優の声学習し無断使用問題「悔しい」　『クローズアップ現代』特集で出演</title>
+      <link>https://www.oricon.co.jp/news/2306166/full/</link>
+      <pubDate>2023/12/11 15:52</pubDate>
+      <description>Googleが、GeminiやPaLM 2といったAIを使ってテキストの要約や提案をしてくれるメモ作成アプリ「NotebookLM」を試験公開しました。 NotebookLM https://notebooklm.google/ Google launches AI-powered notebook with in-house developed Gemini Pro and PaLM 2 | Tom&amp;#39;s Hardware https://www.tomshardware.com/tech-industry/artificial-intelligence/google-launches-ai-powered-notebook-with-in-house-developed-gemini-pro-and-palm-2 このメモアプリ「NotebookLM」は、2023年5月に行われたイベント</description>
+    </item>
   </channel>
 </rss>
