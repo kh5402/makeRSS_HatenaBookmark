@@ -14973,5 +14973,35 @@
       <pubDate>2023/12/08 13:21</pubDate>
       <description>Generative AI for Everyoneについてこちらの講義は機械学習やAI教育についての第一人者と言っても過言ではない、Andrew Ng先生のLLMの応用についての講義になります。 タイトルにはGenerative AIとありますが、画像生成AIなどはほぼほぼ登場せず、基本的にはLLMをどう使うのかについての講義となっています。また、Everyoneとあるように機械学習の専門家やエンジニア以外でも分かる内容になっているかと思います。Andrew Ngは言語化が非常に上手いので、機械学習の専門家が見ても知識を整理する上で有用なんじゃないかと思います。 古のNLPエンジニア？自分がNLPを始めたのは2013～2014年くらいのちょうど深層学習がNLP業界に本格的に入ってきた時期です。10年程度で古のNLPエンジニアを名乗って良いのかは諸説あると思うのですが、その辺は温かい目で見</description>
     </item>
+    <item>
+      <title>トーバルズ氏、Linux開発の現状や生成AIについて語る</title>
+      <link>https://japan.zdnet.com/article/35212487/</link>
+      <pubDate>2023/12/11 10:06</pubDate>
+      <description>人工知能が作り出した歌に感動する日が来ようとは。 「松尾さんもカバー曲ばかりやってないでオリジナル曲作りなよ。Sunoってのがすごいから」「AIが作れるくらいの曲なら自分でやりますよ」みたいなやりとりをAI研究家の清水涼さんとしていて、じゃあ試すかと、Suno AIというサービスを導入してみました。 Sunoは無料で使えるAI自動作曲サービスで、歌詞を自分で入力して音楽スタイルを指定すれば、その上で「ボーカル入りの楽曲を伴奏込みで完成させてくれる」のです。いくつか清水さんが作ったという曲を聴かせてもらったのですが、どれも完成度が高く、「これはポップチューンとして成立するなあ」というレベルでした。このサービスを無料で使えるDiscordサーバでは、すでに400万曲が生成されているそうです。現在ではWebアプリ版もあり、Discordでコマンドを打つ必要はなくなっています。 自分もこのサービス</description>
+    </item>
+    <item>
+      <title>検索SaaSを展開するHelpfeelがシリーズDで総額20億円を資金調達　累計調達額は33億円を突破</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000263.000027275.html</link>
+      <pubDate>2023/12/11 12:50</pubDate>
+      <description>ゲーム開発もAIで完全自動化。ChatGPTが働く仮想のソフトウェア開発企業「ChatDev」 2023年12月11日 ITジャーナリスト 牧野 武文（まきの たけふみ） 生活とテクノロジー、ビジネスの関係を考えるITジャーナリスト、中国テックウォッチャー。著書に「Googleの正体」（マイコミ新書）、「任天堂ノスタルジー・横井軍平とその時代」（角川新書）など。 ChatGPTが「働く」ソフトウェア開発企業「ChatDev」が設立された。このChatDevの「CEO」に、どのようなソフトウェアが欲しいかを発注すると、ChatGPTが演じるCEO、CTO、CPO、プログラマー、デザイナー、テスターなどが議論をしあって、実際の開発手順に沿って設計し、ソースコードを生成、テストを実施、ドキュメントまでまとめてくれるというものだ。すでにGitHubには、いくつもの開発されたソフトウェアが共有されて</description>
+    </item>
+    <item>
+      <title>【Golang】Azure OpenAI で Embedding したベクトルを使って、自前検索エンジンを作ろう</title>
+      <link>https://zenn.dev/microsoft/articles/20231208_go_aoai_pg_vector</link>
+      <pubDate>2023/12/11 09:57</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>有意義な輪読会を開催し続けるコツ</title>
+      <link>https://techblog.lycorp.co.jp/ja/20231209a</link>
+      <pubDate>2023/12/10 08:27</pubDate>
+      <description>メディア事業部AIライターの大竹です。 2023年11月に登場したChatGPTのGPTs機能の導入は、ChatGPTアップデートの中でも特に大きな印象をユーザーに与え話題となりました GPTsとは、自分好みに調整したChatGPTを作成できる機能。以前までは、毎回プロンプトを入力して出力の方向性を指示していましたが、GPTsを活用すればそうした手間がなくなります。作成したGPTsは他人と共有が可能。公開されているGPTsを活用することで業務効率を大幅に高められます。 今回は業務活用に役立つGPTsを紹介します。仕事の負担が大幅に軽減されるので、ぜひ最後までお読みください。 なお弊社では、GPTsについて1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる GPTsの活用事例【業務活用編】 ChatGPTは世界中に膨大な利用者数がいるため、作成・共有</description>
+    </item>
+    <item>
+      <title>EU、世界初の包括的AI規制で大筋合意　日本など外国企業にも影響：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRD92TKJRD8UHBI03P.html</link>
+      <pubDate>2023/12/09 13:34</pubDate>
+      <description>GO TechTalk #24 タクシーアプリ『GO』のAIサービスを支えるMLOpsを体感しよう！で発表した資料です。 ■ YouTube https://www.youtube.com/live/r_oYsac9Hvo?si=6fajvCDKzA-zQe3m&amp;amp;t=1514 ■ connpass https://jtx.connpass.com/event/301271/</description>
+    </item>
   </channel>
 </rss>
