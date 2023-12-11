@@ -15051,5 +15051,17 @@
       <pubDate>2023/12/11 07:01</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>イーロン・マスク氏肝いりのAI｢Grok｣公開</title>
+      <link>https://www.gizmodo.jp/2023/12/ai-grok.html</link>
+      <pubDate>2023/12/11 14:06</pubDate>
+      <description>アドビの台頭と「AIグラビア」問題 画像生成AIが話題になるなか、大手企業として本格的に入ってきたのがアドビ。3月22日に「Adobe Firefly」のベータ提供を開始し、話題になりました（一般提供開始は9月）。 いまだにFireflyの課題としてあるのは、1024×1024ピクセルでの画像しか生成できないこと。大きな画像サイズの場合は生成した画像をアップスケールしているようで、レスポンスは早いものの、画面の端がぼやけてしまうという難点があります。実際にプロが使いはじめると、スケールが小さすぎて使いものにならないことが課題になっています。 おそらくアドビは今後、毎月付与される有料ポイントを使うとディテールを高めるといったオプションを作るのではないかと予想されています。 とはいえ、現状でも削除機能は非常に優秀で、業務のなかでは頻繁に使う機能になりました。要らないものをまとめて消したり、画面</description>
+    </item>
+    <item>
+      <title>GitHub - microsoft/CopilotAdventures: Copilot coding adventures</title>
+      <link>https://github.com/microsoft/CopilotAdventures</link>
+      <pubDate>2023/12/11 08:59</pubDate>
+      <description>2023年12月6日(水)にAMDがAI特化型チップ「MI300X」および「MI300A」を発表しました。AMDはMI300XがNVIDIA製AI特化型チップ「H100」と比べて優れた性能を発揮するとアピールしていますが、記事作成時点ではAMDが実施したベンチマークの結果しか公開されていません。そんな中、半導体関連コンサルタントのディラン・パテル氏がAMDの公式資料をもとにMI300Xが一体どれほどの性能を備えているのかを分析しています。 AMD Instinct™ MI300 Series Accelerators https://www.amd.com/ja/products/accelerators/instinct/mi300.html AMD MI300 Performance - Faster Than H100, But How Much? https://www.semia</description>
+    </item>
   </channel>
 </rss>
