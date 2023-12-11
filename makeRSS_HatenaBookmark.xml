@@ -15129,5 +15129,17 @@
       <pubDate>2023/12/11 21:34</pubDate>
       <description>世界を驚かせたGoogleのAI動画、実はあんなにサクサク動きません2023.12.11 17:00 satomi ｢マインドブローイング（頭のネジぶっ飛ぶ衝撃）｣と、1日で136万回も再生されたこちらのデモ。 先日Google（グーグル）が発表したChatGPTの対抗AI｢Gemini｣の実働シーンなのですが、結構ガッツリ編集されていることがわかりました。 Video: Google / YouTube実は早送りです一見すると、あひるのお絵描きを見ながら、あたかもリアルタイムの音声でAIが何を描いているのか当てっこしているように見えるのですが…実はこれは早送り。フレームごとに静止画を見せながら、人間がテキストプロンプト（質問を文字で入力すること）で引き出した答えを、人間が読み上げてるデモなんです。 Image: Google / YouTube別に隠していたわけではなくて、Googleの</description>
     </item>
+    <item>
+      <title>古いコードを最新のJavaに生成AIが自動変換「Amazon Q Code Transformation」 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/aws_amazonq_code_transformation</link>
+      <pubDate>2023/12/11 12:33</pubDate>
+      <description>こちらはエムスリー Advent Calendar 2023 11日目の記事です。 DALL-Eでサムネ作るの楽勝だぜとなりそうでならない Overview A/Bテストをしまくっている、機械学習エンジニアの農見(@rookzeno)です。皆さんA/Bテストをしてますでしょうか。エムスリーでは色々な施策の効果を見るために沢山のA/Bテストをしています。そのためA/Bテストを簡易にできるような設計を作ることも大事なことです。 AI・機械学習チームには、Goで書かれた機械学習関連の機能を各サービスに提供するAPIサーバがあり、こちらのYAMLファイルを設定するだけでA/Bテストが出来るようにしました。 rules: - name: modelA random_seed: 42 threshold: 50 ctrl: weight: 0 test: weight: 1 - name: model</description>
+    </item>
+    <item>
+      <title>「Amazon Q」は「Azure OpenAI Service」と競合するか--AWSジャパン幹部に聞いてみた</title>
+      <link>https://japan.zdnet.com/article/35212531/</link>
+      <pubDate>2023/12/09 01:00</pubDate>
+      <description>【読売新聞】　【ロンドン＝中西梓、ワシントン＝田中宏幸】欧州連合（ＥＵ）が大筋合意した人工知能（ＡＩ）法の最終案は、ＡＩのリスクが高くなるほど規制を厳しくする内容だ。一部の加盟国は自主的な規制にとどめるように主張して協議は難航したが</description>
+    </item>
   </channel>
 </rss>
