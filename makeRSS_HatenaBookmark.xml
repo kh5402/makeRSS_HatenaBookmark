@@ -15027,5 +15027,29 @@
       <pubDate>2023/12/09 08:03</pubDate>
       <description>筆者は現在、医療・災害現場向けの方言AIを制作中である。このノートでは「なぜそんなことをしているのか」などを書く。 1. きっかけは熊本地震　2016年。熊本地震が発生した時、筆者は東京の研究所にいた。テレビは緊急番組に切り替わり、次々と熊本の現状が映し出される。変わり果てた熊本城、崩れた阿蘇の斜面、崩落した橋、ひっしゃげた集落、殺伐とした避難所。 熊本出身の筆者は、家族や友人と連絡をとるのに必死だった。 そんな時、研究界隈のメーリングリストに、方言支援を呼びかけるメールが届いた。その主旨は、県外から入る支援チームに方言が伝わらない可能性があるから、方言資料を現場に提供しようという主旨であった。東京にいながら熊本のためにできることは限られている。私は急いで災害義援金を入金したあと、その作業に加わった。 しかしほどなくして、私はその作業から距離を置くことになる。 2. 祭り　以下、失礼な発言</description>
     </item>
+    <item>
+      <title>画像生成AIが爆速で進化した2023年をまとめて振り返る (2/5)</title>
+      <link>https://ascii.jp/elem/000/004/174/4174570/2/</link>
+      <pubDate>2023/12/11 14:44</pubDate>
+      <description>Linuxの生みの親であるLinux Torvalds氏は、ここしばらく表舞台に顔を見せていなかった。しかし、Linux Foundationのが開催したOpen Source Summit Japanでは、久々に多くの聴衆がいる場に姿を見せ、同氏の友人であり、Verizonのオープンソース責任者を務めるDirk Hohndel氏を相手に対談を行い、Linuxの現状について語った。 2人はまず、次のLinuxカーネルリリースである「Linux 6.7」について話した。Torvalds氏は、日本に向かう直前に、Linux 6.7の4番目のリリース候補版をリリースしたところだった。順調に行けば、クリスマス頃にLinuxカーネルの次のバージョンがリリースされても不思議ではないペースだ。 このようなスケジュールになったのは、Torvalds氏が「マージウィンドウをクリスマスの時期に持ってきて、クリ</description>
+    </item>
+    <item>
+      <title>実在する女性の写真からAIで勝手にヌード画像を生成するサービスが34も登場し利用者が2400万人もいるとレポートされる</title>
+      <link>https://gigazine.net/news/20231211-ai-nudify-apps-increasing/</link>
+      <pubDate>2023/12/11 12:37</pubDate>
+      <description>人工知能が作り出した歌に感動する日が来ようとは。 「松尾さんもカバー曲ばかりやってないでオリジナル曲作りなよ。Sunoってのがすごいから」「AIが作れるくらいの曲なら自分でやりますよ」みたいなやりとりをAI研究家の清水涼さんとしていて、じゃあ試すかと、Suno AIというサービスを導入してみました。 Sunoは無料で使えるAI自動作曲サービスで、歌詞を自分で入力して音楽スタイルを指定すれば、その上で「ボーカル入りの楽曲を伴奏込みで完成させてくれる」のです。いくつか清水さんが作ったという曲を聴かせてもらったのですが、どれも完成度が高く、「これはポップチューンとして成立するなあ」というレベルでした。このサービスを無料で使えるDiscordサーバでは、すでに400万曲が生成されているそうです。現在ではWebアプリ版もあり、Discordでコマンドを打つ必要はなくなっています。 自分もこのサービス</description>
+    </item>
+    <item>
+      <title>Chat GPTを使ってFigmaの面倒な作業を自動化する｜鈴木慎吾 / TSUMIKI INC.</title>
+      <link>https://note.com/shingo2000/n/nf7f3c5f7c6d7</link>
+      <pubDate>2023/12/11 08:57</pubDate>
+      <description>検索SaaSを展開するHelpfeelがシリーズDで総額20億円を資金調達　累計調達額は33億円を突破生成AI×検索SaaS分野でトップシェアを目指す 株式会社Helpfeel（京都府京都市、代表取締役/CEO：洛西一周、以下 当社、https://corp.helpfeel.com/）は、検索SaaS『Helpfeel』を中心にさらなる発展を目指して、グロービス・キャピタル・パートナーズ株式会社（東京都千代田区、代表取締役：堀 義人）をリード投資家とし、シリーズDラウンドにて総額20億円を資金調達いたしました。累計調達額は約33億円になります。 生成AIを活用し、国や企業の生産性向上へ大きく貢献 当社は、情報伝達における課題をテクノロジーで解決することを目指し、企業サービスの問い合わせ削減や社内情報の検索による業務効率化に邁進してまいりました。ユーザー接点のデジタル化に伴い市場も拡大し、</description>
+    </item>
+    <item>
+      <title>生成AIが嘘をつく「幻覚症状」問題、最新のベンチマークテストで明らかになった最も正確なAIモデルとは？ | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/12/11/hallucination-benchmark/</link>
+      <pubDate>2023/12/11 07:01</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
   </channel>
 </rss>
