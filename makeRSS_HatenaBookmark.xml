@@ -14880,5 +14880,44 @@
       <pubDate>2023/12/10 11:12</pubDate>
       <description>Home シンセサイザ AIによる楽器サウンド合成システム、Melisma(β)が爆誕。サンプリングでは不可能だったリアルさを実現 12月8日に、またDTMの世界に新たな扉が開かれました。これまでもSynthesizer VをはじめとするAIを使った歌声合成のソフトはありましたが、今回誕生したMelisma(メリスマ)は、ヴァイオリンやオーボエ、チェロ……といった楽器を合成するシステムのβテスト版。もちろん、こうした楽器を再現するソフトとしては、これまでサンプリングを使った音源が数多くあり、まさにリアルな音で演奏できていました。でもサンプリングだと、たとえばタイやスラーでつないだ長い音符などとなると、どうしても限界があったし、ピチカート、トリル、フォール…といったアーティキュレーションでも表現の範囲が限られていました。 このMelisma(β)では、実際の演奏をディープラーニングしたものを</description>
     </item>
+    <item>
+      <title>グラフニューラルネットワークの予測結果を解釈してみよう - NTT Communications Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/2023/12/11/085715</link>
+      <pubDate>2023/12/11 10:25</pubDate>
+      <description>資料のスライドにイメージ画像などを挿入したい場合はどうしていますか？ いらすとやを重宝されている人も多いかも知れません。 ただ、いちいちスライドに合ったイメージの画像を探すのも面倒です。 OpenAIがDALL-E3を発表して画像生成AIのクオリティも向上してきました。 そこで、Googleスライド上でサクッとプロンプト入力してDALL-E3で画像生成してスライドに挿入できるようにしてみました。 Google Apps Scriptでスクリプトを配置して、OpenAIのAPIキーさえ用意すれば誰でも利用可能ですので、やり方を解説します。 Youtube動画でも導入手順を解説しています↓ 必要なもの(使うもの) Googleスライド(無料) Google Apps Script(無料) OpenAI APIキー(有料) 唯一有料なOpenAIのAPIキーはDALL-E3での画像生成をするのに</description>
+    </item>
+    <item>
+      <title>人には正しく聞こえるが“AIにはゆがんで聞こえる声”に変えるツール　合成音声に使われないために保護</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/11/news013.html</link>
+      <pubDate>2023/12/11 08:45</pubDate>
+      <description>Googleさん、5月のGoogle I/Oで予告していた新生成AIモデル「Gemini」のバージョン1.0をぎりぎり年内にリリースしましたね。問題が多いから年内リリースは無理そうという噂もありましたが、とりあえずちっさいモデル（ProとNano）だけぎりぎり年内に出して面目を保った感じです。 本命でマルチモーダルな最大サイズの「Gemini Ultra」は来年に持ち越し。安全性のチェックと強化学習に時間をかけているそうです。 このUltraのデモ動画がすごすぎて話題になっていますが、動画の概要説明に「For the purposes of this demo, latency has been reduced and Gemini outputs have been shortened for brevity」（このデモでは、簡潔にするためにレイテンシが短縮され、Geminiの出力が短縮</description>
+    </item>
+    <item>
+      <title>自分は、自分の世界の主人公だろうか？</title>
+      <link>https://blog.tinect.jp/?p=84575</link>
+      <pubDate>2023/12/11 08:03</pubDate>
+      <description>Google CEO Sundar Pichai on Gemini and the coming age of AI 単独ロングインタビュー サンダー・ピチャイが語る GeminiとAI新時代 【期間限定無料公開】グーグルは12月6日、オープンAIに対抗する最先端のAIモデル「ジェミナイ（Gemini）」を発表した。発表の前夜、グーグルのピチャイCEOがMITテクノロジーレビューのロングインタビューに応じ、ジェミナイが自社やAI、社会全体に対して与える影響について語った。 by Mat Honan2023.12.11 0 グーグルは12月6日、次世代人工知能（AI）モデル「ジェミナイ（Gemini）」の第1弾を発表した。ジェミナイは、最高経営責任者（CEO）のサンダー・ピチャイが監督・推進してきた、グーグル社内の長年の取り組みが結実したものだ（ジェミナイの詳細については、本誌の既報をご覧</description>
+    </item>
+    <item>
+      <title>画像生成AIが爆速で進化した2023年をまとめて振り返る (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/174/4174570/</link>
+      <pubDate>2023/12/11 07:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5c572162c26db7616fb8e708dee58302dd34425a/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1550%2F224%2F001s.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>1年前の自分が読みたかった、データエンジニアリング入門 - Qiita</title>
+      <link>https://qiita.com/SoySoySoyB/items/44fda40de0276a83957a</link>
+      <pubDate>2023/12/09 23:27</pubDate>
+      <description>メディア事業部AIライターの大竹です。 2023年11月に登場したChatGPTのGPTs機能の導入は、ChatGPTアップデートの中でも特に大きな印象をユーザーに与え話題となりました GPTsとは、自分好みに調整したChatGPTを作成できる機能。以前までは、毎回プロンプトを入力して出力の方向性を指示していましたが、GPTsを活用すればそうした手間がなくなります。作成したGPTsは他人と共有が可能。公開されているGPTsを活用することで業務効率を大幅に高められます。 今回は業務活用に役立つGPTsを紹介します。仕事の負担が大幅に軽減されるので、ぜひ最後までお読みください。 なお弊社では、GPTsについて1時間無料相談を承っています。こちらからお気軽にご相談ください。 →無料相談で話を聞いてみる GPTsの活用事例【業務活用編】 ChatGPTは世界中に膨大な利用者数がいるため、作成・共有</description>
+    </item>
+    <item>
+      <title>インターネット広告ポエム2023 - フジイユウジ::ドットネット</title>
+      <link>https://fujii-yuji.net/2023/12/10/230716</link>
+      <pubDate>2023/12/10 23:16</pubDate>
+      <description>作家、神林長平さんは「言葉」「機械」などのテーマを重層的に組み合わせた独自の世界観を反映させた数々の作品で知られる。現代を代表するSF作家の一人として、急速に普及が進む人工知能（AI）をどう見ているのだろうか。寄稿してもらった。 2023年は、チャットGPTに代表される対話型AIが爆発的に普及し始めた年として記憶されるだろう。機械相手に自然な会話ができるというのは驚きを伴う楽しい体験に違いないが、それが実用面で使われると、他人の権利や人権を侵害する恐れがある。ここにきてそれが顕在し、対応策もいろいろ議論されているのは報道されているとおりだ。 対話型、すなわち言語を主体とする生成AIの利用がさまざまな方面で社会的な問題を引き起こすという現象は、社会というものを成立させ、支えているのが「言葉」であることを思えば、当然理解できる。＜言葉＞は社会を生み、文化や技術を発達させてきた。いつの頃からか人</description>
+    </item>
   </channel>
 </rss>
