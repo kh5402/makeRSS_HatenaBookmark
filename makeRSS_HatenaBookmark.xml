@@ -15377,5 +15377,28 @@
       <pubDate>2023/12/08 07:50</pubDate>
       <description>（関連記事：「本人の声とそっくりな合成音声」の悪用に対して法的権利はあるか？　NTT社会情報研究所が調査） この脅威に対処するため、研究チームは「AntiFake」と呼ばれる新しい防御ツールを開発。このツールは従来のディープフェイクを後から検出する方法と異なり、被害者の声として合成されること自体を未然に防ぐ。 被害者が音声データを外部（SNSやWebサイトなど）に公開する前に、録音した音声信号に最適化されたノイズ（敵対的摂動）を適用する。これにより、人間の耳には正しく聞こえるが、AIには異なる音声として認識される敵対的音声が出来上がる。 この結果、音声合成ツールが音声記録から必要な特徴を読み取ることが困難になり、被害者とは異なる音声を生成。攻撃者は悪意のある目的で人間や機械を欺くことができなくなる。 AntiFakeの包括的な評価を行うため、研究者たちは最先端の5つの音声合成器（商業製品E</description>
     </item>
+    <item>
+      <title>LLMの出力における問題は「LLMの処理が原因」とは限らない　プロンプト以外に考えられる4つの要因</title>
+      <link>https://logmi.jp/tech/articles/329782</link>
+      <pubDate>2023/12/13 01:37</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0692441047a65a8421bd51742d8d0c272d2bc927/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1553%2F891%2Fimage-top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Apple、日々の瞬間を振り返るための新しいアプリ、ジャーナルアプリの提供を開始</title>
+      <link>https://www.apple.com/jp/newsroom/2023/12/apple-launches-journal-app-a-new-app-for-reflecting-on-everyday-moments/</link>
+      <pubDate>2023/12/12 13:29</pubDate>
+      <description>「イナズマイレブン」「レイトン教授」シリーズなどで知られるゲーム会社・レベルファイブは、画像生成AIの業務利用例を紹介した資料を公開した。 「イナズマイレブン」「レイトン教授」シリーズなどで知られるゲーム会社・レベルファイブが、ゲーム開発やプロモーション業務で生成AIを活用していることが分かった。政府が12月11日に開催した「AI時代の知的財産権検討会」に同社が提出した資料から判明した。資料では、生成AIの活用例を複数紹介している。</description>
+    </item>
+    <item>
+      <title>Behind The Scenes: Cloud Native Storage System for AI</title>
+      <link>https://speakerdeck.com/kuenishi/behind-the-scenes-cloud-native-storage-system-for-ai</link>
+      <pubDate>2023/12/12 15:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+          </description>
+    </item>
   </channel>
 </rss>
