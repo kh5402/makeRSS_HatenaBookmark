@@ -15141,5 +15141,29 @@
       <pubDate>2023/12/09 01:00</pubDate>
       <description>【読売新聞】　【ロンドン＝中西梓、ワシントン＝田中宏幸】欧州連合（ＥＵ）が大筋合意した人工知能（ＡＩ）法の最終案は、ＡＩのリスクが高くなるほど規制を厳しくする内容だ。一部の加盟国は自主的な規制にとどめるように主張して協議は難航したが</description>
     </item>
+    <item>
+      <title>投資集める「OpenAIのライバル」の実力、AnthropicとCohereは何がすごいのか</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02678/120600002/</link>
+      <pubDate>2023/12/12 08:28</pubDate>
+      <description>宇宙船MMORPG『EVE Online』にて「ChatGPT」をリーダーとするプレイヤー企業が現る。人間の創造力と機械の知性を融合させた“AI帝国”の建国を目指す初の試み 宇宙を舞台にしたMMORPG『EVE Online』にて、ChatGPTをリーダーに選んだプレイヤー企業が登場し、話題になっている。海外メディアのPolygonが報じているもの。 『EVE Online』はアイスランドのCCP Gamesが開発・運営するMMORPG。7000以上の星系が存在する広大な宇宙を舞台に、PvPやPvEバトル、採掘、探索、生産など様々な活動が体験できる。基本プレイは無料となっている。 今回話題になっているのは、ゲーム内のプレイヤーによって設立された企業「Neural Nexus」。AIの活用を目的に設立されたこの組織は、GPT-4をベースとしたチャットボットに意思決定を委ねている。同企業のポー</description>
+    </item>
+    <item>
+      <title>OSS 活動を通して貢献できた Meilisearch を紹介したい - Qiita</title>
+      <link>https://qiita.com/mosuka/items/fbda479b25a7ccd7c350</link>
+      <pubDate>2023/12/11 12:24</pubDate>
+      <description>Googleが、GeminiやPaLM 2といったAIを使ってテキストの要約や提案をしてくれるメモ作成アプリ「NotebookLM」を試験公開しました。 NotebookLM https://notebooklm.google/ Google launches AI-powered notebook with in-house developed Gemini Pro and PaLM 2 | Tom&amp;#39;s Hardware https://www.tomshardware.com/tech-industry/artificial-intelligence/google-launches-ai-powered-notebook-with-in-house-developed-gemini-pro-and-palm-2 このメモアプリ「NotebookLM」は、2023年5月に行われたイベント</description>
+    </item>
+    <item>
+      <title>AIコーディングは4年後に50％が導入、物価上昇を上回る賃金の増加「なし」7割強、OSS「6つの神話」検証、ほか</title>
+      <link>https://ascii.jp/elem/000/004/174/4174629/</link>
+      <pubDate>2023/12/11 09:59</pubDate>
+      <description>はじめに この記事はHIKKYアドベントカレンダー2023の10日目の記事です。 こんにちは、 @emadurandal　と申します。HIKKYのエンジン開発部でメタバースエンジンの開発に従事しています。 今回は、WebGLからWebGPUへのステップアップについての記事を書いてみようと思います。 なぜWebGPUが登場したのか WebGLはOpenGL ESのAPI体系をブラウザに移植したものです。 そのOpenGLですが、歴史的経緯により、GPUやCPUの性能を完全に引き出しきれないレガシーな部分を引きずっていました。 詳しくはこちらの記事をご覧ください。 そのため、WebGL2の次はWebGL3というわけにはいかなかったようです。 よりGPUの性能を引き出せる、よりモダンなAPI体系が必要でした。ネイティブにはVulkan APIがありますが、それをそのままブラウザに持ってくるには、</description>
+    </item>
+    <item>
+      <title>「鵜になって鵜飼」を体験できるVRシステムが開発される！鮎を丸呑みする喉越しも再現！ - ナゾロジー</title>
+      <link>https://nazology.net/archives/139913</link>
+      <pubDate>2023/12/10 17:09</pubDate>
+      <description>突然ですが、ぼくはパイナップルの入った酢豚とピザが好きです。温ぱいなぽー最高。 あなたはパイナップルの入った酢豚やパイナップルののったピザが好きでも嫌いでもいい。ぼくが好きなだけなので。 GPT-4 + DALL·E が描いてくれたパイナップル入り酢豚 以前から気になっていたのですが、パイナップルの入った酢豚やピザを蛇蝎の如く嫌う人っていますよね。存在すること自体を絶対に許さない的な。 これもネタというか冗談で言ってるなら良いのですけど、たまに割と本気で言っている人がいたり、パイナップルの入った酢豚やピザはいくらでも叩いて良い対象だと思っている人と出会います。 繰り返しますが、あなたはパイナップルの入った酢豚やパイナップルののったピザが好きでも嫌いでもいい。でも、だからといってパイナップルのピザや酢豚が存在することを否定をしていいわけじゃないんですよ。 「嫌いなのは自由だが、でも対象がこの</description>
+    </item>
   </channel>
 </rss>
