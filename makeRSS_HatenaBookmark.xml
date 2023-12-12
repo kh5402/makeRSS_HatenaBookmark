@@ -15291,5 +15291,29 @@
       <pubDate>2023/12/11 19:07</pubDate>
       <description>気候変動により自然災害が増加し、災害の多い地域を管轄する保険会社が補償の提供を中止するなどの対応を取らざるを得なくなっていることが分かっています。こうした状況の中、AIによって災害リスクを検討する新興保険会社や、センサーで災害を検知して保険金を「即時払い」するテクノロジー系保険会社が勢力を拡大していることが報じられました。 Climate Change Is Breaking Insurance. Here’s How Tech Could Save It. - WSJ https://www.wsj.com/business/entrepreneurship/climate-change-ai-california-texas-insurance-1d993873 古くからある規制のため、保険会社は加速する気候変動を考慮した価格設定ができずにいます。例えば、火災が多発しているカリフォルニ</description>
     </item>
+    <item>
+      <title>https://www.kantei.go.jp/jp/singi/titeki2/ai_kentoukai/gijisidai/dai4/siryou1.pdf</title>
+      <link>https://www.kantei.go.jp/jp/singi/titeki2/ai_kentoukai/gijisidai/dai4/siryou1.pdf</link>
+      <pubDate>2023/12/12 19:50</pubDate>
+      <description>AI時代の知的財産権検討会（第４回） 議事次第 令和５年１２月１１日（月） １０：３０ ～ １２：３０ 開　会 議　事</description>
+    </item>
+    <item>
+      <title>倹約的なアーキテクトとは？　AmazonボーガスCTOが今一番気になるコストとAIを語る (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/173/4173943/</link>
+      <pubDate>2023/12/12 13:21</pubDate>
+      <description>NHKクローズアップ現代 公式 @nhk_kurogen 1993年開始の報道番組･通称クロ現／NHKで月～水の夜7時半放送／キャスター桑子真帆／番組内容に加えて性暴力・ジェンダー・学校教育などスタッフが継続取材しているテーマについても投稿しています。 ●放送予定⇒nhk.jp/p/gendai/ts ●利用規約⇒nhk.jp/rules nhk.jp/p/gendai/ts/R7… NHKクローズアップ現代 公式 @nhk_kurogen 今、生成AIで作られたコンテンツが世界を席巻。一方でAIに好きな声優の声を学習させ、勝手に歌わせる動画が氾濫するなどのトラブルも。 人気声優の #梶裕貴 さんが複雑な思いを吐露しました。 詳しくは、12(火)夜7:30の #クロ現 で放送します。同時&amp;amp;見逃し配信は👇 nhk.jp/p/gendai/ts/R7… pic.twitter.com/f6l</description>
+    </item>
+    <item>
+      <title>サイバーエージェントの生成AI開発を支える機械学習基盤 | CyberAgent Developers Blog</title>
+      <link>https://developers.cyberagent.co.jp/blog/archives/44366/</link>
+      <pubDate>2023/12/12 09:14</pubDate>
+      <description>この記事はエムスリーAdvent Calendar 2023とMLOps Advent Calendar 2023の12日目の記事です。 AI・機械学習チームの北川です。 最近は猫のかまってアピールがすごすぎて、よく仕事の邪魔されます。 かまって欲しがる猫 現在AI・機械学習チームではMLのバッチをGoogle Kubernetes Engine(GKE)上で運用しています。 現在数えてみたところ240個以上のバッチがGKE上で動いているようです。 AI・機械学習チームでは2019年頃から約４年ほどGKE上でMLバッチを運用しています。 その間にコストの最適化や安定したバッチの運用などに力を入れてきました。 この記事では、主にスケールインとコスト最適化について説明しようと思います。 チームのMLについて全体を把握したい場合は以下の記事が詳しいです。 www.m3tech.blog GKEの</description>
+    </item>
+    <item>
+      <title>1年でここまで進化。2023年ChatGPTの活用法を振り返る | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2312-matome-chatgpt/</link>
+      <pubDate>2023/12/11 21:36</pubDate>
+      <description>「このバンドやミュージシャンが好きなら、これらのバンドやミュージシャンも好きかもしれない」というのをAI（人工知能）が提案する音楽マップが話題に。マップ上、2つの名前が近ければ近いほど、両方のアーティストが好きである確率が高くなるという　https://amass.jp/171757/</description>
+    </item>
   </channel>
 </rss>
