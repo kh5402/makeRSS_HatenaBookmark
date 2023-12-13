@@ -15487,5 +15487,23 @@
       <pubDate>2023/12/13 10:38</pubDate>
       <description>TL; DR LangChainのメリデメを整理する過程で、今となってはopenai-pythonのうちChatGPTのAPIをを簡単に取り回せる程度のシンプルなライブラリがあるだけでも十分便利なんじゃないかと思ったので、ライブラリを個人で作ってみました。（バージョン0.0.1なのでちょっとお粗末な所もありますが） github.com はじめに こんにちは、データサイエンティストの坂元です。世は大LLM時代ということで、ありがたいことにABEJAでも複数のLLMプロジェクトを推進させて頂いています。私自身もいくつかのLLMプロジェクトに参画しています。LLMといえばLangChainが便利ですね。OpenAI APIの利用だけでなく、各種ドキュメントのパースが出来たり、HuggingFaceやインデックスDBを扱う他のライブラリとインテグレーションされていたり、RAGやAgentなどLL</description>
     </item>
+    <item>
+      <title>フロントエンドのキャッチアップ大変だよねという話 2023</title>
+      <link>https://zenn.dev/genda_jp/articles/d48f1e956b112f</link>
+      <pubDate>2023/12/13 13:39</pubDate>
+      <description>Amazon Bedrock Advent Calendar 2023 13日の記事です。 こんにちは、機械学習チーム YAMALEX の駿です。 YAMALEX は Acroquest 社内で発足した、会社の未来の技術を創る、機械学習がメインテーマのデータサイエンスチームです。 （詳細はリンク先をご覧ください。） 先日、 Bedrock 上で Claude 2.1 が使えるようになりました。 aws.amazon.com このモデルは精度が高いことはもちろんですが、 20 万（ 200K ）トークンを一度に扱うことができる という特徴があります。 200K のトークンがあれば、約 15 万単語もしくは 500 ページの本を一度に扱える、と言われています。 とは言いますが、これは実際どれくらいインパクトがあることなのでしょうか？ 今回は実際に本の要約タスクをさせてみて、トークンが大きいこと</description>
+    </item>
+    <item>
+      <title>Agonesで作る機械学習アプリケーションのWorker - NTT Communications Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/2023/12/13/090235</link>
+      <pubDate>2023/12/13 09:04</pubDate>
+      <description>GoogleのDeepMindやMeta出身の研究者によって設立されたAI企業のMistral AIが、大幅にモデルのサイズを縮小してコストパフォーマンスに優れた推論を行える大規模言語モデル「Mixtral 8x7B」をリリースしました。多くのベンチマークでGPT-3.5やLlama 2 70Bを上回る性能を持つとされています。 Mixtral of experts | Mistral AI | Open source models https://mistral.ai/news/mixtral-of-experts/ Mistral AIは2023年5月に設立されたフランスのスタートアップAI企業で、9月にはパラメーター数を70億に抑えながら「Llama 2 13B」や「Llama 1 34B」を上回る性能を持つ大規模言語モデル「Mistral 7B」をリリースするなど積極的にAIの開発</description>
+    </item>
+    <item>
+      <title>GPT-4V と Segment Anything で楽々アノテーション</title>
+      <link>https://zenn.dev/kzykmyzw/articles/44c7eea2fd77dd</link>
+      <pubDate>2023/12/12 13:11</pubDate>
+      <description>待望のリメイク2作目。『ファイナルファンタジーVII リバース』が事前予約で23%オフ【Amazonセール】</description>
+    </item>
   </channel>
 </rss>
