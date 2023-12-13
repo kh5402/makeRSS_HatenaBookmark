@@ -15616,5 +15616,23 @@
       <pubDate>2023/12/10 08:31</pubDate>
       <description>本連載「ざっくり知っておきたいIT業界データ」では、過去1週間に調査会社などから発表されたIT市場予測やユーザー動向などのデータを、それぞれ3行にまとめてお伝えします。 今回（2023年12月2日～12月8日）は、ソフトウェア・エンジニアリングのハイプ・サイクル、物価上昇と賃金増加の実態、国内企業における生成AIの活用状況、オープンソースコミュニティ「6つの神話」検証、クラウドセキュリティとゼロトラストについてのデータを紹介します。</description>
     </item>
+    <item>
+      <title>ChatGPTを「作業者」にすると自分が成長できない　深津貴之氏が解説する、スキルアップにつながる生成AI活用術</title>
+      <link>https://logmi.jp/business/articles/329805</link>
+      <pubDate>2023/12/13 19:46</pubDate>
+      <description>こんにちは、取締役の id:onishi です。 Hatena Developer Blogの連載企画「卒業生訪問インタビュー」では、創業からはてなの開発に関わってきた取締役の id:onishi、CTOの id:motemen、エンジニアリングマネージャーの id:onkが、いま会いたい元はてなスタッフを訪問してお話を伺っていきます。 id:onishiが担当する第7回のゲストは、ロンドン、シンガポール、ハノイを拠点とするAIソリューションプロバイダー Nexus FrontierTech のCo-Founder CTOであり、著書「Web API: The Good Parts」、訳書「プログラマー脳」「JavaScript: The Good Parts」「入門 自然言語処理」などの執筆・翻訳でもご活躍されている、 id:mizuno_takaakiさんこと、水野貴明さんです。 mi</description>
+    </item>
+    <item>
+      <title>「パワポ生成AI」無料公開　キーワードから資料を自動作成</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/13/news153.html</link>
+      <pubDate>2023/12/13 15:56</pubDate>
+      <description>WEELメディア事業部LLMリサーチャーの中田です。 11月3日、オーストラリアの会社によって運営されている画像生成AIツール「Leonardo.Ai」がアップデートされ、誰でも簡単に「より高品質な」画像を生成できるようになりました。 これにより、巷で話題のリアルタイム生成やSketch-to-Imageも可能になったんです…！ 本ツールのYouTube紹介動画の再生回数は、日本国内でも注目を集めていることがわかります。 まるで、映画『レディ・プレイヤー・ワン』のような世界観も簡単に作れるように！ この記事ではLeonardo.Aiの使い方や、有効性の検証まで行います。本記事を熟読することで、Leonardo.Aiの凄さを実感し、次世代の画像生成を体感できるでしょう。 ぜひ、最後までご覧ください。 なお弊社では、生成AIツール開発についての1時間無料相談を承っています。こちらからお気軽にご</description>
+    </item>
+    <item>
+      <title>Suno AI</title>
+      <link>https://www.suno.ai/</link>
+      <pubDate>2023/11/16 22:20</pubDate>
+      <description>この記事は NTTコミュニケーションズ Advent Calendar 2023 の13日目の記事です。 こんにちは、イノベーションセンターの坂本です。 ソフトウェアエンジニアとしてノーコードAI開発ツール Node-AI の開発に取り組んでいます。 機械学習やその前処理などの計算にかかる時間はデータサイズや処理内容により大きく異なります。そのため機械学習やデータ分析に関するアプリケーションでは、冪等でない処理をイベント駆動型アーキテクチャ(EDA)で扱う難しさがあります。 今回は上記の課題とその解決策として採用している専用ゲームサーバ(DGS)用OSS Agonesを利用したEDAのWorkerについて紹介します。 Node-AIとは Node-AIはブラウザから以下の図のようにカードを直感的につなげるだけで時系列データの前処理からAIモデルの学習・評価までの一連のパイプラインを作成・実</description>
+    </item>
   </channel>
 </rss>
