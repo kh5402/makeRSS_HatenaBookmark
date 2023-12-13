@@ -15541,5 +15541,29 @@
       <pubDate>2023/12/13 07:59</pubDate>
       <description>TL; DR LangChainのメリデメを整理する過程で、今となってはopenai-pythonのうちChatGPTのAPIをを簡単に取り回せる程度のシンプルなライブラリがあるだけでも十分便利なんじゃないかと思ったので、ライブラリを個人で作ってみました。（バージョン0.0.1なのでちょっとお粗末な所もありますが） github.com はじめに こんにちは、データサイエンティストの坂元です。世は大LLM時代ということで、ありがたいことにABEJAでも複数のLLMプロジェクトを推進させて頂いています。私自身もいくつかのLLMプロジェクトに参画しています。LLMといえばLangChainが便利ですね。OpenAI APIの利用だけでなく、各種ドキュメントのパースが出来たり、HuggingFaceやインデックスDBを扱う他のライブラリとインテグレーションされていたり、RAGやAgentなどLL</description>
     </item>
+    <item>
+      <title>AI画像生成の新時代！ 「Stability Matrix」で最新の画像生成を体感せよ！【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/1554038.html</link>
+      <pubDate>2023/12/13 12:39</pubDate>
+      <description>今井翔太 / Shota Imai@えるエル @ImAI_Eruel 東京大学 技術経営戦略学専攻 松尾研究室 @Matsuo_Lab / 人工知能を研究 強化学習，深層学習，マルチエージェント，生成AI，LLM，ゲームAI @UTokyo_News_en / 著書：『生成AIで世界はこう変わる』『G検定公式テキスト 第2版』『AI白書』 / 翻訳書：『強化学習』/ 金沢出身 slideshare.net/ShotaImai3 今井翔太 / Shota Imai@えるエル @ImAI_Eruel そういえば画像生成AIが流行って，割と海外のスライド資料とかを見ていると生成イラストが頻繁に使われているけど，日本だけは相変わらず「スライドのイラストに謎の統一感がある」状況が続いているので，某らすとやの影響力が強すぎる 2023-12-12 11:41:51</description>
+    </item>
+    <item>
+      <title>無料で商用利用可能な大規模言語モデル「Mixtral 8x7B」が登場、低い推論コストでGPT-3.5と同等以上の性能を発揮可能</title>
+      <link>https://gigazine.net/news/20231213-mistral-ai-mixtral-8x7b/</link>
+      <pubDate>2023/12/13 08:14</pubDate>
+      <description>画像生成AIでお絵かき対決｡優勝はMidjourney2023.12.13 08:00 Maxwell Zeff - Gizmodo US ［原文］ （ そうこ ） 2023年はAI台頭の年と言ってもいいと思います。来年以降、AIがさらなる活躍を見せるとは思いますが、いつか振り返った時に｢やっぱり2023年で変わったよね｣って言ってそうな気が、今はします。 さまざまなタスクをこなすAIですが、今年大きく注目されたのは生成AI。テキストで出されたお題から、動画、音楽、画像といろいろなものを作り出しています。では、1番画像生成が上手、つまり絵が上手いのはどのAIなんでしょう？ 米Gizmodo編集部が、画像生成AIお絵かき勝負してみました。 比較するのは4つのAI米Gizmodoお絵かき選手権に出場したのは4つのAI。言わずとしれたMidjourney。AI業界を牽引するOpenAIのDall</description>
+    </item>
+    <item>
+      <title>Mixtral of experts</title>
+      <link>https://mistral.ai/news/mixtral-of-experts/</link>
+      <pubDate>2023/12/12 14:40</pubDate>
+      <description>みなさんの会社はAI（人工知能）とどのように関わっていますか。企業としてAIのリスクを理解し、リスク管理する「AIガバナンス」の仕組みは社内に既にありますか。それは従業員に浸透していますか。もしそうでないなら、思わぬところでリスクの罠（わな）にはまってしまう可能性があります。この連載では、架空のストーリーを通じて、企業がAIリスクの罠にはまる様子を紹介し、それぞれのケースでリスクを軽減する策を考察します。第2回は生成AIを活用して効率的に学術論文を執筆したある研究者が陥った罠のストーリーです。なお、あくまで架空のストーリーであり、登場する企業・団体や人物は実在しません。（クロスメディア編集部） 食品メーカー研究者ルカの仮想ストーリー 「REJECT　残念ながらご投稿いただいた論文は受理できません」 そう書かれた学会からの連絡に研究者ルカはぼうぜんとしています。どうしてこんなことに…… 生成</description>
+    </item>
+    <item>
+      <title>ＡＩ使い写真の女性を裸にするアプリが横行－ディープフェイク深刻化</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2023-12-11/S5H2PZT1UM0W00</link>
+      <pubDate>2023/12/11 14:18</pubDate>
+      <description>この記事はエムスリーAdvent Calendar 2023とMLOps Advent Calendar 2023の12日目の記事です。 AI・機械学習チームの北川です。 最近は猫のかまってアピールがすごすぎて、よく仕事の邪魔されます。 かまって欲しがる猫 現在AI・機械学習チームではMLのバッチをGoogle Kubernetes Engine(GKE)上で運用しています。 現在数えてみたところ240個以上のバッチがGKE上で動いているようです。 AI・機械学習チームでは2019年頃から約４年ほどGKE上でMLバッチを運用しています。 その間にコストの最適化や安定したバッチの運用などに力を入れてきました。 この記事では、主にスケールインとコスト最適化について説明しようと思います。 チームのMLについて全体を把握したい場合は以下の記事が詳しいです。 www.m3tech.blog GKEの</description>
+    </item>
   </channel>
 </rss>
