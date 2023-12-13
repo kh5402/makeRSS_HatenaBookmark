@@ -15424,5 +15424,32 @@
       <pubDate>2023/12/12 13:33</pubDate>
       <description>スタンフォード大学やGoogleの研究チームが、テキストから写実的な動画を生成する拡散モデルである「W.A.L.T」を発表しました。実際に「W.A.L.T」を使用して生成した動画も多数公開されています。 W.A.L.T.pdf https://walt-video-diffusion.github.io/assets/W.A.L.T.pdf Photorealistic Video Generation with Diffusion Models https://walt-video-diffusion.github.io/ 「W.A.L.T」は、Googleなどが発表した深層学習モデルのTransformerをベースにした動画生成AIです。研究チームのアグリム・グプタ氏は、W.A.L.Tの仕組みについてX(旧Twitter)へのポストで触れています。 We introduce W.A.L</description>
     </item>
+    <item>
+      <title>子どもは人生で最大の推しである、という話</title>
+      <link>https://blog.tinect.jp/?p=84592</link>
+      <pubDate>2023/12/13 08:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6f5687cdc5aba47af63f0ecd19c4e2310904917f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1553%2F519%2FA01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Intel Ignite 2023で優勝！　AV1やH.266を超える圧縮率を実現するDeep Renderの「AIベースの動画圧縮技術」って何？</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2312/12/news064.html</link>
+      <pubDate>2023/12/12 17:11</pubDate>
+      <description>先日の記事でもお伝えした通り、2023年11月8日のOpenAI DevDayにて、ChatGPT Plus（Chat GPTの有料版）で使える新しい機能・GPTsが発表されました。 ChatGPTをカスタマイズして、ユーザーの目的に特化したチャットボットを簡単に作成できるようになったのです。 この記事では、筆者がChatGPT PlusでGPTsを実際につくってみた様子や活用例を紹介します。 ▼こちらも要チェック！</description>
+    </item>
+    <item>
+      <title>簡単なテキストから写実的な動画を生成する拡散モデル「W.A.L.T」が登場</title>
+      <link>https://gigazine.net/news/20231212-walt-text-to-video-diffusion-model/</link>
+      <pubDate>2023/12/12 17:47</pubDate>
+      <description>「私の名前はAmeca（アメカ）です。 これほど長いインタビューを受けるのは初めてなので、何が起こるか全く想像できません。 不安はありますが、とても楽しみにしています―」 （新番組「フロンティア」取材班 仁木島健一 / 前田俊介） 急激に進化する人工知能・AI 今、ChatGPTをはじめとする生成AIの登場によって、AIは新時代へと突入しています。人間の知能にも匹敵する“究極の人工知能”の完成まで、あとわずかという専門家の声も聞きます。 その最前線を取材するため、私たちはイギリスに向かいました。 ロンドンから車で6時間、イギリス南西部に位置するコーンウォール地方。 イギリス コーンウォール地方 ここで最新のAIテクノロジーを駆使して開発されたのがヒューマノイドロボット「アメカ」です。 さまざまなAIを搭載したヒューマノイドロボット「アメカ」 頭脳には、対話型AIのChatGPTをはじめ、さ</description>
+    </item>
+    <item>
+      <title>2024年のAIと自動化--UiPathが示したトレンド</title>
+      <link>https://japan.zdnet.com/article/35212644/</link>
+      <pubDate>2023/12/12 08:33</pubDate>
+      <description>いま、生成AIで作られたコンテンツが世界を席けんしている。 背景も俳優もすべて生成AIで作られた映画、AIタレントが出演するCM、漫画の神様手塚治虫さんの新作の脚本まで。 一方で、ネット上では、政治家やタレントなどの偽画像が拡散。最近では、アーティストや声優の声を無断でAIに学習させた、歌の動画が人気を集め、声優たちが抗議の声を上げる事態になっている。 急速に進化を続ける生成AIの現在地を徹底取材した。 （クローズアップ現代 取材班）</description>
+    </item>
   </channel>
 </rss>
