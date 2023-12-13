@@ -15400,5 +15400,29 @@
           &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
           </description>
     </item>
+    <item>
+      <title>人間の脳細胞を電極の上に置いてつくった人工知能。日本語の音声認識を実現【研究紹介】</title>
+      <link>https://levtech.jp/media/article/column/detail_352/</link>
+      <pubDate>2023/12/13 09:17</pubDate>
+      <description>「よく言われるけど納得感が全くない言葉」というのは人によって様々だ思うが、私に関していうと、ランキングトップは「(小さな子どもに対する)今が一番かわいい時期ですね」という言葉だ。 全く悪意はなく、いやむしろ善意100%で言ってくださっているのはよく承知しているのだが、それでも言われる度に「いや全っっっ然そんなこたないですよ」と思い続けている。 何故かというと、私の中の「子どもかわいい」という感情は常に増幅・更新され続けており、3歳や4歳の頃の子どもより、12歳や16歳になった今の子らの方がさらに圧倒的にかわいい、と感じているからだ。 これは、子どもがどんな成長をしていったとしても、この後もずっと変わらないだろう。確信している。 時期など何の関係もなく、子どもは常に「現在」が最も可愛い。 私は、家で子どもを見かける度に「なんて可愛い生き物なんだ･･････！？奇跡の産物か･･････！？」と</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 爆速で画像生成するSDXL Turboと、画像1枚で動画を生成するStable Video Diffusionを試した</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1553519.html</link>
+      <pubDate>2023/12/13 07:44</pubDate>
+      <description>「FastLabel × LayerX × LINE 3社が語る『生成AI×プロダクト開発』で直面する課題と乗り越え方」は、生成AIをプロダクト開発にどのように活用しているか、その際に直面した課題と克服するためのアプローチなどをFastLabel、LayerX、LINEのエンジニアが共有するイベントです。ここで株式会社LayerXの中村氏が登壇。ここからは、LLMの精度評価における、LLMの処理以外で考えられる原因分析について話します。前回はこちらから。 精度評価 中村龍矢氏：では具体的に、精度評価と改善にいければと思います。 まず精度評価というと、パッとイメージしやすいのが、「どういうスコアをやるか」というところで。これは最近はツールもノウハウもいろいろ出ているので、あまり悩むことはないんじゃないかなと思っています。LLMが吐いた答えが正しいかどうかを判定する方法ですね。 一番シンプルな</description>
+    </item>
+    <item>
+      <title>録画・録音の音声をAIが文字起こしして要約・翻訳・共有できる「RecCloud」が登場／ChatGPTを活用して音声の内容を質問したり、指示した書式で書き出させることが可能</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1553891.html</link>
+      <pubDate>2023/12/12 15:12</pubDate>
+      <description>Intel Ignite 2023で優勝！　AV1やH.266を超える圧縮率を実現するDeep Renderの「AIベースの動画圧縮技術」って何？：Intel Ignite 2023（1/4 ページ） Intelのスタートアップ企業支援プログラム「Intel Ignite」の2023年度プログラムでは、イギリスのDeep Lenderが優勝した。同社は「AI技術を使った高圧縮率／高画質な動画コーデック」を開発しており、世界中から注目を集めている。AIベースの動画圧縮コーデックとはどのようなものなのか、話を聞いた。 有望なベンチャー企業を支援すべく、Intelは2019年から「Intel Ignite」という支援プログラムを展開している。支援対象になれば同社から数百万ドルの資金援助を受けられるということもあって、多くのスタートアップ企業がこのプログラムに参加／応募している。 →Intel I</description>
+    </item>
+    <item>
+      <title>自分専用ChatGPT「GPTs」の使い方。つくる時のコツや活用例、GPTsを使うメリットも徹底解説！ | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2312-how-to-create-custom-gpts/</link>
+      <pubDate>2023/12/12 13:33</pubDate>
+      <description>スタンフォード大学やGoogleの研究チームが、テキストから写実的な動画を生成する拡散モデルである「W.A.L.T」を発表しました。実際に「W.A.L.T」を使用して生成した動画も多数公開されています。 W.A.L.T.pdf https://walt-video-diffusion.github.io/assets/W.A.L.T.pdf Photorealistic Video Generation with Diffusion Models https://walt-video-diffusion.github.io/ 「W.A.L.T」は、Googleなどが発表した深層学習モデルのTransformerをベースにした動画生成AIです。研究チームのアグリム・グプタ氏は、W.A.L.Tの仕組みについてX(旧Twitter)へのポストで触れています。 We introduce W.A.L</description>
+    </item>
   </channel>
 </rss>
