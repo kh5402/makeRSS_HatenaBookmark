@@ -15475,5 +15475,17 @@
       <pubDate>2023/12/13 09:06</pubDate>
       <description>人間の脳細胞を電極の上に置いてつくった人工知能。日本語の音声認識を実現【研究紹介】 2023年12月13日 山下 裕毅 先端テクノロジーの研究を論文ベースで記事にするWebメディア「Seamless/シームレス」（https://shiropen.com/）を運営。 米Indiana University Bloomingtonなどに所属する研究者らが発表した論文「Brain organoid reservoir computing for artificial intelligence」は、人間の脳細胞を用いて基本的な音声認識を行うAIシステムを提案した研究報告である。 このシステムは、生きている脳細胞の塊、すなわち脳オルガノイドを利用している。脳オルガノイドは、幹細胞を特定の条件下で育成することによって人工的に作られる、数ミリメートルの神経細胞の塊（ミニ脳組織）である。この脳オルガノイ</description>
     </item>
+    <item>
+      <title>Amazon Bedrock「Claude2.1」の最大20万トークンで何が変わるか確認してみた - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/12/13/120000</link>
+      <pubDate>2023/12/13 12:45</pubDate>
+      <description>あわせて、さまざまな条件下で撮影した画像に対応できるよう画像編集機能を追加。斜めから撮影した画像の補正する「台形補正」、シミやノイズなどを軽減する「ノイズ除去」、余分な画像を除去する「トリミング」、資料画像を回転できる「角度補正」、モノクロ状態で白黒を反転する「白黒反転」を利用できる。また、これまでの1日あたり10回だった解読機能の利用回数を30回に増加させた。利用回数は毎日0時にリセットされる。 関連記事 Pixel Foldの「デュアルスクリーン通訳モード」が日本でも利用可能に　設定手順や使い方は？ Android 14により折りたたみスマートフォン「Google Pixel Fold」でデュアルスクリーン通訳モードが利用可能になった。日本でも既に利用できる。ここでは設定手順と使い方を紹介する。 Gmailの自動翻訳機能、モバイルアプリでも利用可能に Googleは、Webアプリで既に</description>
+    </item>
+    <item>
+      <title>やりたいことをするための環境を探そう - Qiita</title>
+      <link>https://qiita.com/newta/items/443bba984e09e79652e2</link>
+      <pubDate>2023/12/13 10:38</pubDate>
+      <description>TL; DR LangChainのメリデメを整理する過程で、今となってはopenai-pythonのうちChatGPTのAPIをを簡単に取り回せる程度のシンプルなライブラリがあるだけでも十分便利なんじゃないかと思ったので、ライブラリを個人で作ってみました。（バージョン0.0.1なのでちょっとお粗末な所もありますが） github.com はじめに こんにちは、データサイエンティストの坂元です。世は大LLM時代ということで、ありがたいことにABEJAでも複数のLLMプロジェクトを推進させて頂いています。私自身もいくつかのLLMプロジェクトに参画しています。LLMといえばLangChainが便利ですね。OpenAI APIの利用だけでなく、各種ドキュメントのパースが出来たり、HuggingFaceやインデックスDBを扱う他のライブラリとインテグレーションされていたり、RAGやAgentなどLL</description>
+    </item>
   </channel>
 </rss>
