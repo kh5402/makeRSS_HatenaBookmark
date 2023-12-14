@@ -15913,5 +15913,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/250a82442a728c3281fd9f107c5e7876671c3b44/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F543%2Fimage1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Intel、ついに「Core Ultra」正式発表。Ryzenより高速、AIも推進</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1554546.html</link>
+      <pubDate>2023/12/15 00:23</pubDate>
+      <description>Googleは、AIによるコード補完やコード生成などを実現する新サービス「Duet AI for Developers」の正式リリースを発表しました。 Duet for Developersは有償で提供されるサービスですが、2024年2月1日まで無償で提供すると説明しています。 20以上の言語をサポート、VSCodeなどで利用可能 Duet AI for DevelopersはVisual Studio Code、IntelliJ、PyCharmなどのコードエディタやIDE、そしてCloud Shell EditorやCloud WorkstationsなどのGoogleのサービスで利用可能。 書きかけのコードの補完やチャットによるコードの生成、コードの説明、単体テストの生成などの機能が備わっています。 C、C++、Go、Java、JavaScript、Pythonなど 20 以上のプログ</description>
+    </item>
+    <item>
+      <title>AI規制の法制化を　自民党部会が提言　欧米念頭「企業に報告義務」：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRDG6FM5RDGULFA029.html</link>
+      <pubDate>2023/12/14 22:03</pubDate>
+      <description>生成AIサービス大手「Midjourney」は、コミュニケーションプラットフォーム「Discord」を介して利用する形で運営されているが、単独で利用できるようになるアプリが開発中であることがMidjourneyでクリエイティブを担当するNick St. Pierre氏のツイートでわかった。 ブラウザ？スタンドアロン？ Midjourney Alpha is officially here!! If you&amp;#39;ve generated 10k or more images you should have access. This is still the alpha, so things may change a bit. But here is a quick look at image creation on the web. BYE BYE DISCORD 👋 pic.twitter.</description>
+    </item>
+    <item>
+      <title>大規模言語モデルを自作しよう！(Transformers+DeepSpeed+torch.compile+flash_attn2）</title>
+      <link>https://zenn.dev/selllous/articles/transformers_pretrain_to_ft</link>
+      <pubDate>2023/12/14 12:12</pubDate>
+      <description>Googleは、医療業界向けの新たなLLM「MedLM」を米国で提供開始した。「PaLM 2」ベースのLLMを医療関連の膨大なデータセットでトレーニングしたもの。医療研究、医療診断、医療文書作成など、多様な医療用途に使用できるとしている。 米Googleは12月13日（現地時間）、医療業界向けの新しい大規模言語モデル（LLM）、「MedLM」を発表した。このLLMは医療関連の膨大なデータセットでトレーニングされており、医療研究、医療診断、医療文書作成など、多様な医療用途に使用できるとしている。まずは米国で、Google CloudのAI統合プラットフォームである「Vertex AI」を介して提供を開始した。 MedLMは、「PaLM 2」をベースにしており、医療文書の理解と生成に特化した複雑なタスク向けの大容量モデルと、医療データの分析と予測に特化した、タスク間のスケーリングに適した中程度</description>
+    </item>
+    <item>
+      <title>GPT-4Vを使ってゲーム実況させる - Qiita</title>
+      <link>https://qiita.com/takaaki_inada/items/3589ff88914f01fe8414</link>
+      <pubDate>2023/12/14 10:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/720495ca95dcf09b6ff3fbf1802165e30c7595b0/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1554%2F589%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
