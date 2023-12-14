@@ -15760,5 +15760,29 @@
       <pubDate>2023/12/11 15:28</pubDate>
       <description>Google DeepMindから次世代のマルチモーダル生成AI「Gemini」が発表されました。「GPT-4を圧倒」や「人間の専門家を超えた」などの華々しい評価が発表され、驚くようなデモ動画も公開されました。 断片的な情報が飛び交う中、しっかりと技術レポートを読み解いてみます。 どんな生成AIモデル？ 定量的な評価は？ 具体例は？ Gemini - Technical Report はじめに革新的な技術が登場したとき、技術レポートや論文をしっかりと読むことが、急がば回れの近道です。華々しいデモ動画や断片的な二次情報の記事を読んでも、表層的な情報に踊らされて、技術の真の姿を読み解くことはできません。 Geminiに関しては、オープンソースではなく論文もありませんが、技術レポートが公開されています。しかし、60ページの大作であり、英語で書かれているため、多くの人が読むのをためらうでしょう。</description>
     </item>
+    <item>
+      <title>テキストから歌を生成「Suno AI」使い方　作曲家 神前暁もクオリティに驚愕</title>
+      <link>https://kai-you.net/article/88420</link>
+      <pubDate>2023/12/14 13:21</pubDate>
+      <description>以下の記事が面白かったので、かるくまとめました。 ・It’s time for developers and enterprises to build with Gemini Pro 1. Gemini Pro のリリースの概要「Gemini Pro」の最初のバージョンが、「Gemini API」を介してアクセスできるようになりました。 ・「Gemini Pro」は、ベンチマークで他の同様のサイズのモデルを上回っています。 ・今日のバージョンにはテキスト用の32Kコンテキストウィンドウが付属しており、将来のバージョンにはより大きなコンテキストウィンドウがあります。 ・制限内で今すぐ無料で使用でき、競争力のある価格で提供します。 ・関数呼び出し、埋め込み、セマンティック検索、カスタム知識の根拠、チャット機能など、さまざまな機能が付属しています。 ・世界180以上の国と地域で38の言語をサポー</description>
+    </item>
+    <item>
+      <title>Vertex AI(Gemini API)でGemini Proを試す</title>
+      <link>https://zenn.dev/harappa80/articles/vertexai_gemini</link>
+      <pubDate>2023/12/14 08:10</pubDate>
+      <description>アリババが開発した「Outfit Anyone」は、あらかじめ指定されたモデルに好きな服を着せることができるAIだ。 Animate Anyoneと組み合わせてアニメーションにもできる。 このサイトでデモを試せる たとえば、あらかじめ用意されている服を上と下で選ぶと、組み合わせて着てくれる しかし、上着はワンピース対応なので、わけのわからん忍者のコスチュームとかを指定しても着てくれる。 着せる人は、男女数名のモデルから選べる。 ただし、モデルを用意されてない人に変えることは不可能っぽい 解析班の解析が待たれる。 これがすごいのは、これさえあれば服の着せ替え用のLoRAとかいらなくなることだ。また、本家のサイトではワンピースの登場人物を着せ替えて、さらに踊らせるなどもしているので、アリババが今後どんな遊び方を考えているのか想像するだけで楽しい。ソース公開してくれないかな</description>
+    </item>
+    <item>
+      <title>Google、「Gemini Pro」をGoogle Cloud開発者と大企業に無償でプレビュー提供開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1554309.html</link>
+      <pubDate>2023/12/14 02:22</pubDate>
+      <description>以下この本の容を紹介します。 はじめにTwitterではカレーちゃんという名前で活動しております。普段はAIエンジニアとして働いており、趣味ではKaggleというデータ分析コンペティションで、「GrandMaster」という称号を獲得しております。 今年の3月にリリースされた、ChatGPTの「GPT-4」や「プログラミングが使えるAdvanced Data AnalysisというChatGPTの拡張機能」にとてもハマって使い倒しており、ChatGPTについての本を執筆することになりました。 面倒なことはChatGPTにやらせよう！本書は「面倒なことを ChatGPT にお願いして楽になろう」という趣旨の本 です。 ChatGPTの有料版では次の機能を使うことができます。 ・GPT-4（ChatGPTとの会話） ・DALL•E（画像生成） ・Browsing（Web検索） ・Advance</description>
+    </item>
+    <item>
+      <title>AI搭載エディタ「Cursor」にHaskellを書かせてみた</title>
+      <link>https://zenn.dev/lotz/articles/56829a79f883d5</link>
+      <pubDate>2023/12/13 10:40</pubDate>
+      <description>A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It&amp;#39;s Real Please see below for a (real) demo. All the code is in this repo! Cheers. Made by Greg Technology.</description>
+    </item>
   </channel>
 </rss>
