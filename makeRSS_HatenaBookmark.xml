@@ -15730,5 +15730,11 @@
       <pubDate>2023/12/12 19:55</pubDate>
       <description>「FastLabel × LayerX × LINE 3社が語る『生成AI×プロダクト開発』で直面する課題と乗り越え方」は、生成AIをプロダクト開発にどのように活用しているか、その際に直面した課題と克服するためのアプローチなどをFastLabel、LayerX、LINEのエンジニアが共有するイベントです。ここで株式会社LayerXの中村氏が登壇。ここからは、LLMの精度評価における、LLMの処理以外で考えられる原因分析について話します。前回はこちらから。 精度評価 中村龍矢氏：では具体的に、精度評価と改善にいければと思います。 まず精度評価というと、パッとイメージしやすいのが、「どういうスコアをやるか」というところで。これは最近はツールもノウハウもいろいろ出ているので、あまり悩むことはないんじゃないかなと思っています。LLMが吐いた答えが正しいかどうかを判定する方法ですね。 一番シンプルな</description>
     </item>
+    <item>
+      <title>生成AIグラビアをグラビアカメラマンが作るとどうなる？第14回：2023年下半期まとめ+α　13回分を振り返る (西川和久) | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/14/2454.html</link>
+      <pubDate>2023/12/14 11:16</pubDate>
+      <description>はじめに はじめまして。機械学習エンジニアをしています、原です。 Google Cloud Champion Innovators(AI/ML)として選出をいただいており、活動をしています。Google Cloud Innovatorsは、Google Cloud開発者/技術者のためのメンバーシッププログラムです。誰でも参加可能ですので、Google Cloudユーザーの方はぜひ参加をおすすめします！ この記事では、2023年12月13日にVertex AIで利用可能になったGemini Proを使います。これから試してみる方の参考になれば幸いです。 Geminiとは この記事を読んでいる方は既にご存知かもしれませんが、Geminiとは何かを軽く説明をします。VertexAI Gemini APIに関してのみをキャッチアップしたい方は「Vertex AI での Gemini Proの概要」</description>
+    </item>
   </channel>
 </rss>
