@@ -15679,5 +15679,11 @@
       <pubDate>2023/12/14 02:04</pubDate>
       <description>ChatGPTなどの生成AI（主に大規模言語モデル、LLM）を自社の業務改革に取り込む動きが大企業の中でも進んでいる。 みずほフィナンシャルグループの関連会社・みずほリースではいま、500人規模で実際の業務のなかでChatGPTを活用するトライアルを続けている。 その一端が、12月12日に都内で開かれた｢生成AIフォーラム｣（主催：エクサウィザーズ）のなかで明かされた。 ｢当社は1000人規模の会社ですけれども、（現在）500人くらいで（生成AI活用の）トライアルを継続しています｣ みずほリースデジタル推進部部長の宮谷伸也氏は、セッションでこう語る。 2023年はパナソニックの事例を筆頭に、大企業で生成AI活用を試行錯誤する例が相次いだ。 みずほリースの事例も同様の流れの1つだが、金融大手みずほFGの関連会社ということもあってか、マイクロソフトのAzure OpenAIサービスで独自Cha</description>
     </item>
+    <item>
+      <title>「面倒なことはChatGPTにやらせよう」を講談社から出版します。｜カレーちゃん</title>
+      <link>https://note.com/currypurin/n/nac333d50e130</link>
+      <pubDate>2023/12/14 08:26</pubDate>
+      <description>「Google Colab」で「Gemini Pro」を試したので、まとめました。 1. Gemini Pro「Gemini Pro」は、Googleの最新AIモデルの1つです。「Gemini Pro」の最初のバージョンが、「Gemini API」で利用できるようになりました。 3. テキスト生成の実行Colabでのテキスト生成の実行手順は、次のとおりです。 (1) パッケージのインストール。 # パッケージのインストール !pip install -q -U google-generativeai(2) パッケージのインポート。 Markdown出力のユーティリティ関数も準備してます。 import pathlib import textwrap import google.generativeai as genai from google.colab import userdata f</description>
+    </item>
   </channel>
 </rss>
