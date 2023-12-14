@@ -15790,5 +15790,35 @@
       <pubDate>2023/12/14 08:10</pubDate>
       <description>Accelerate your digital transformation Whether your business is early in its journey or well on its way to digital transformation, Google Cloud can help solve your toughest challenges.</description>
     </item>
+    <item>
+      <title>Googleの新AI「Gemini Pro」がAPI経由で提供 ～無料で1分あたり60リクエストまで利用可能／Webベースの開発者ツール「Google AI Studio」も</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1554543.html</link>
+      <pubDate>2023/12/14 14:08</pubDate>
+      <description>「Midjourney」「Stable Diffusion」などの画像生成AIや、チャットAIボット「ChatGPT」をはじめ、様々なサービスが登場してきた生成AI（ジェネレーティブAI）。 現在SNSでは、「Suno AI」という新たな自動作曲AIサービスが話題です。 神前暁さんやtofubeatsさんといった第一線で活躍する音楽プロデューサーも、試しに「Suno AI」を使ってみた結果をXに投稿。 その自然な出来栄えに、神前暁さんは「アレンジやMixがそれっぽくなるのは想定内だったけどメロも70点くらいのを平気でポンポン出してくる。このサビなんて少し手を加えれば結構売れるのでは？ってレベル」と、驚きを露わにしています。 話題のSuno AIを試してみたけどヤバいですねコレは… アレンジやMixがそれっぽくなるのは想定内だったけどメロも70点くらいのを平気でポンポン出してくる。このサビな</description>
+    </item>
+    <item>
+      <title>Gemini API  |  Vertex AI  |  Google Cloud</title>
+      <link>https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini</link>
+      <pubDate>2023/12/14 07:47</pubDate>
+      <description>はじめに はじめまして。機械学習エンジニアをしています、原です。 Google Cloud Champion Innovators(AI/ML)として選出をいただいており、活動をしています。Google Cloud Innovatorsは、Google Cloud開発者/技術者のためのメンバーシッププログラムです。誰でも参加可能ですので、Google Cloudユーザーの方はぜひ参加をおすすめします！ この記事では、2023年12月13日にVertex AIで利用可能になったGemini Proを使います。これから試してみる方の参考になれば幸いです。 Geminiとは この記事を読んでいる方は既にご存知かもしれませんが、Geminiとは何かを軽く説明をします。VertexAI Gemini APIに関してのみをキャッチアップしたい方は「Vertex AI での Gemini Proの概要」</description>
+    </item>
+    <item>
+      <title>Google AI for Developers</title>
+      <link>https://ai.google.dev/</link>
+      <pubDate>2023/12/14 00:34</pubDate>
+      <description>東京都の「東京ゼロエミポイント」のように、特定の政策を後押ししたり、市民生活を豊かにしたりするために自治体が導入している制度はいくつもある。 ところが、そういった自治体の制度は複雑で、大量の書類を読み込まなければならないため、途中で申請を断念する人も少なくない。 その部分を生成AIに任せたらどうだろうか。実際にそういうサービスも生まれている。 （小林 啓倫：経営コンサルタント） 「東京ゼロエミポイント」をもらうには？ 「ポイ活」という言葉があるように、ポイントを集めて得をするという行動が、生活防衛術としてすっかり定着した。裏を返せば、それだけ金銭的価値のあるポイントが付与される仕組みやサービスが増えたということになる。 東京都が行っている「東京ゼロエミポイント」という制度もその一つで、公式サイトによれば、これは「省エネルギー性能が高いエアコン、冷蔵庫、給湯器、LED照明器具に買い替えた都民</description>
+    </item>
+    <item>
+      <title>Azure OpenAI Service で GPT-4 Turbo with Vision を使う</title>
+      <link>https://zenn.dev/microsoft/articles/cd3060cbcf0303</link>
+      <pubDate>2023/12/13 20:51</pubDate>
+      <description>これは「Haskell Advent Calendar 2023」13日目の記事です。 日頃、私は趣味としてAIをHaskellで実装することに没頭しています。しかし、今回は少し違ったアプローチを試してみようと思います。逆に、AIにHaskellを使って自ら実装させ、その過程や成果を共有してみたいと考えています。この新たな取り組みがどのような結果を生むのか、一緒に探ってみましょう。 AI搭載エディタ「Cursor」 気を取り直して、今回は最近話題のAI搭載エディタ Cursor を使って実際に動くHaskellのアプリを0から作らせてみたいと思います！Cursorをまだ知らない人は以下の記事がオススメです（僕もまだこれしか読んでません🤫） Cursorのダウンロードとインストール、そしてアカウント登録が完了したらさっそくHaskellを書かせてみたいと思います。 それではレッツ・・・ ゴ</description>
+    </item>
+    <item>
+      <title>A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It’s Real</title>
+      <link>https://sagittarius.greg.technology/</link>
+      <pubDate>2023/12/13 19:50</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
   </channel>
 </rss>
