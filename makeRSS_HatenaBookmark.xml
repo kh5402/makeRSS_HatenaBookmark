@@ -15736,5 +15736,29 @@
       <pubDate>2023/12/14 11:16</pubDate>
       <description>はじめに はじめまして。機械学習エンジニアをしています、原です。 Google Cloud Champion Innovators(AI/ML)として選出をいただいており、活動をしています。Google Cloud Innovatorsは、Google Cloud開発者/技術者のためのメンバーシッププログラムです。誰でも参加可能ですので、Google Cloudユーザーの方はぜひ参加をおすすめします！ この記事では、2023年12月13日にVertex AIで利用可能になったGemini Proを使います。これから試してみる方の参考になれば幸いです。 Geminiとは この記事を読んでいる方は既にご存知かもしれませんが、Geminiとは何かを軽く説明をします。VertexAI Gemini APIに関してのみをキャッチアップしたい方は「Vertex AI での Gemini Proの概要」</description>
     </item>
+    <item>
+      <title>Gemini Pro のリリースの概要｜npaka</title>
+      <link>https://note.com/npaka/n/n1f768c215b9b</link>
+      <pubDate>2023/12/14 08:48</pubDate>
+      <description>13回分のまとめ7月からはじまったこの連載。当初、編集長から月4本と言われていたが、流石にそれは厳しく平均月2本となっている。 生成AIは技術の進歩/進化が凄まじいペースで数ヶ月前はもうかなり古い話になることもあり、今回はこれまでの13回分をまとめてみたい。 第一回～三回</description>
+    </item>
+    <item>
+      <title>人工知能の規制 - himaginary’s diary</title>
+      <link>https://himaginary.hatenablog.com/entry/20231213/Regulating_Artificial_Intelligence</link>
+      <pubDate>2023/12/14 08:24</pubDate>
+      <description>はじめに はじめまして。機械学習エンジニアをしています、原です。 Google Cloud Champion Innovators(AI/ML)として選出をいただいており、活動をしています。Google Cloud Innovatorsは、Google Cloud開発者/技術者のためのメンバーシッププログラムです。誰でも参加可能ですので、Google Cloudユーザーの方はぜひ参加をおすすめします！ この記事では、2023年12月13日にVertex AIで利用可能になったGemini Proを使います。これから試してみる方の参考になれば幸いです。 Geminiとは この記事を読んでいる方は既にご存知かもしれませんが、Geminiとは何かを軽く説明をします。VertexAI Gemini APIに関してのみをキャッチアップしたい方は「Vertex AI での Gemini Proの概要」</description>
+    </item>
+    <item>
+      <title>GitHub - gregsadetsky/sagittarius: A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It&amp;#39;s Real</title>
+      <link>https://github.com/gregsadetsky/sagittarius</link>
+      <pubDate>2023/12/13 19:36</pubDate>
+      <description>本記事は株式会社ログラス Productチーム Advent Calendar 2023の 12日目の記事です。 GPTsの概要とログラスの取り組み株式会社ログラスの生成AI/LLMチームの松岡(@little_hand_s)です。 GPTs、話題ですね！！使ってますか？(GPTsとは、ChatGPTの機能をカスタマイズして、目的に合わせたツールを自由に作成できる機能です) 本記事は、社内で作成したGPTsが早速成果が出ているという話と、GPTsとChatGPTをどのように社内布教しているかの取り組みについて書きます。 GPTsの実践的活用例と成功事例2023年11月7日のOpen AI Dev DayでGPTsが公開されてから約1月、LLMチームのメンバーが先行して作成したGPTが社内で活用され始め、チーム外でもGPTを新規で作る人が増えてきました。 まずは具体的な事例を紹介します。 (</description>
+    </item>
+    <item>
+      <title>Prompt Flowで評価Flowを自作してRAGのイケてるLLMOpsを実現してみた - ENGINEERING BLOG ドコモ開発者ブログ</title>
+      <link>https://nttdocomo-developers.jp/entry/20231211_1</link>
+      <pubDate>2023/12/11 15:28</pubDate>
+      <description>Google DeepMindから次世代のマルチモーダル生成AI「Gemini」が発表されました。「GPT-4を圧倒」や「人間の専門家を超えた」などの華々しい評価が発表され、驚くようなデモ動画も公開されました。 断片的な情報が飛び交う中、しっかりと技術レポートを読み解いてみます。 どんな生成AIモデル？ 定量的な評価は？ 具体例は？ Gemini - Technical Report はじめに革新的な技術が登場したとき、技術レポートや論文をしっかりと読むことが、急がば回れの近道です。華々しいデモ動画や断片的な二次情報の記事を読んでも、表層的な情報に踊らされて、技術の真の姿を読み解くことはできません。 Geminiに関しては、オープンソースではなく論文もありませんが、技術レポートが公開されています。しかし、60ページの大作であり、英語で書かれているため、多くの人が読むのをためらうでしょう。</description>
+    </item>
   </channel>
 </rss>
