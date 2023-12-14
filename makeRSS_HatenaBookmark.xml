@@ -15865,5 +15865,38 @@
       <pubDate>2023/12/12 21:13</pubDate>
       <description>オープンソースの失われた10年と「オープンソースAI」の行方 2023.12.13 Updated by yomoyomo on December 13, 2023, 07:34 am JST 今年も残り少なくなり、2023年を振り返る記事が出始めてますが、来年を占うというのも年末にありがちだったりします。今年最後は、自分もそういうのをやろうかぼんやり考えていたのですが、先月におけるOpenAIのサム・アルトマンの電撃的解任から数日後の復活という劇的な展開、そして2023年を通して悪目立ちし続けたイーロン・マスクの広告出稿を停止した世界的大企業である広告主に対して「くたばれ」と言い放つ自爆行為を目の当たりにすると、毒気が抜けるというか、一寸先のことすら何も分からんよ、という気分にもなります。 来年の今頃、AGI（汎用人工知能）が人類を支配してても驚かないっすね（投げやり）。 オライリー・メ</description>
     </item>
+    <item>
+      <title>AIで作曲できるツールが想像以上にクオリティ高くて驚く→有名コピペに音を付けられる一方倫理的な問題も</title>
+      <link>https://togetter.com/li/2275669</link>
+      <pubDate>2023/12/14 18:19</pubDate>
+      <description>音楽生成AI「Suno AI」がX上で話題になっている。歌詞や曲調を文章で指示するだけで音楽を自動生成するサービス。生成した音楽の出来栄えには、プロの音楽家からも驚きの声が上がっている。 音楽生成AI「Suno AI」がX（旧Twitter）上で話題になっている。歌詞や曲調を文章で指示するだけで音楽を自動生成するサービスで、PCやスマートフォンのWebブラウザ上から利用できる。生成した音楽の出来栄えには、プロの音楽家からも驚きの声が上がっている。 Suno AIは、米国を拠点とする音楽家とAIの専門家たちからなる米Sunoが運営するサービス。開発者の中には、米MetaやTikTokを運営する中国ByteDanceなどに所属していた人たちもいるという。利用にはGoogleやMicrosoft、Discordのアカウントが必要で、12月14日時点ではβ版を提供中。1日5回まで無料で音楽を生成で</description>
+    </item>
+    <item>
+      <title>Googleがリアルタイムに高精度なレンダリングを実現する新技術「SMERF」を発表</title>
+      <link>https://gigazine.net/news/20231214-smerf-streamble-memory-efficient-radiance-fields/</link>
+      <pubDate>2023/12/14 17:24</pubDate>
+      <description>Linus Torvaldsが語るカーネル開発とメンテナー⁠⁠、AIコーディング⁠⁠、そしてオープンであること ―Open Source Summit Japan 2023基調講演より 「ぼくはあんまりパブリックな場で喋るのは好きじゃない。でもDirkが用意した質問に、ぼくがこの場（Linux Foudation主催のサミット）で答えるスタイルなら、リラックスしながらいろいろなことを議論できるし、聞いている人たちにも楽しんでもらえると思っている。ちなみにDirkの質問内容は事前に聞かされていないよ」―12月5日、東京・有明で開催された「Open Source Summit Japan」（⁠主催: Linux Foundation、12/5～12/6）のキーノートセッションには、久しぶりに来日した“⁠Linux Creator⁠”ことLinus Torvalds氏が登壇するとあって、早朝にも</description>
+    </item>
+    <item>
+      <title>Google、医療特化の大規模言語モデル「MedLM」の提供開始</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/14/news135.html</link>
+      <pubDate>2023/12/14 14:03</pubDate>
+      <description>国内デベロッパーのEmemeは12月14日、AI-NPC行動観察バラエティゲーム『Ememe』を正式発表した。対応プラットフォームはPC（Steam/Epic Gamesストア）で、2024年夏に無料にて早期アクセス配信予定。 『Ememe』は、自動でストーリーが生成されるAI-NPCの行動観察バラエティゲーム。舞台となる街Ememe Townには、AIキャラクターたちが暮らしており、自律的に会話、行動しながらキャラクター同士の関係性を作って、好き勝手に日常生活を送っているという。 本作にてプレイヤーは、この街に住む新たなAIキャラクターを生み出し、彼らの性格を設定できるほか、時にストーリーを操作することも可能とのこと。開発元は、ジム・キャリー氏主演の映画「トゥルーマン・ショー」のように、AIキャラクターのリアリティードラマを創作できるとアピールしている。 街で暮らすAI-NPCの会話は、</description>
+    </item>
+    <item>
+      <title>AIを使って数分でホームページを作成＆無料公開できる「Solo」をFirefox開発元のMozillaがリリースしたので使ってみた</title>
+      <link>https://gigazine.net/news/20231214-ai-website-builder-solo/</link>
+      <pubDate>2023/12/14 14:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/250a82442a728c3281fd9f107c5e7876671c3b44/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F543%2Fimage1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini のドキュメントと API リファレンス  |  Google AI for Developers</title>
+      <link>https://ai.google.dev/docs?hl=ja</link>
+      <pubDate>2023/12/14 09:46</pubDate>
+      <description>社会全体でAIを使用する事例が増えていることから、イングランドとウェールズの判事らを監督する司法府が、司法機関においてAIをどのように用いるべきかを示すガイドラインを発表しました。 Artificial Intelligence (AI) - Judicial Guidance - Courts and Tribunals Judiciary https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance/ ガイドラインは大きく7つの項目に分かれていて、おおむね以下のような内容となっています。 ◆1：AIとそのアプリケーションの理解 まずはAIを利用する前に、その機能や潜在的に制限されることについての基本的な理解が必要です。 たとえば、一般公開されているAIチャットボッ</description>
+    </item>
   </channel>
 </rss>
