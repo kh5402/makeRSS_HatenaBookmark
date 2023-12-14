@@ -15841,5 +15841,29 @@
       <pubDate>2023/12/14 17:23</pubDate>
       <description>国内デベロッパーのEmemeは12月14日、AI-NPC行動観察バラエティゲーム『Ememe』を正式発表した。対応プラットフォームはPC（Steam/Epic Gamesストア）で、2024年夏に無料にて早期アクセス配信予定。 『Ememe』は、自動でストーリーが生成されるAI-NPCの行動観察バラエティゲーム。舞台となる街Ememe Townには、AIキャラクターたちが暮らしており、自律的に会話、行動しながらキャラクター同士の関係性を作って、好き勝手に日常生活を送っているという。 本作にてプレイヤーは、この街に住む新たなAIキャラクターを生み出し、彼らの性格を設定できるほか、時にストーリーを操作することも可能とのこと。開発元は、ジム・キャリー氏主演の映画「トゥルーマン・ショー」のように、AIキャラクターのリアリティードラマを創作できるとアピールしている。 街で暮らすAI-NPCの会話は、</description>
     </item>
+    <item>
+      <title>音楽生成AI「Suno AI」が話題、文章から楽曲を瞬時に作成　プロの音楽家も「これはヤバい」と驚愕</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/14/news202.html</link>
+      <pubDate>2023/12/14 19:09</pubDate>
+      <description>Linus Torvaldsが語るカーネル開発とメンテナー⁠⁠、AIコーディング⁠⁠、そしてオープンであること ―Open Source Summit Japan 2023基調講演より 「ぼくはあんまりパブリックな場で喋るのは好きじゃない。でもDirkが用意した質問に、ぼくがこの場（Linux Foudation主催のサミット）で答えるスタイルなら、リラックスしながらいろいろなことを議論できるし、聞いている人たちにも楽しんでもらえると思っている。ちなみにDirkの質問内容は事前に聞かされていないよ」―12月5日、東京・有明で開催された「Open Source Summit Japan」（⁠主催: Linux Foundation、12/5～12/6）のキーノートセッションには、久しぶりに来日した“⁠Linux Creator⁠”ことLinus Torvalds氏が登壇するとあって、早朝にも</description>
+    </item>
+    <item>
+      <title>AIのNPC行動観察ゲーム『Ememe』正式発表。AIキャラが暮らす街にて彼らの日常生活を眺め、時に行動に干渉する - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20231214-276140/</link>
+      <pubDate>2023/12/14 17:37</pubDate>
+      <description>まず、妻の写真を学習したStable Diffusionから、絵を生成します。プロンプトは、「a photographic portrait of Torichan girl looking up at starry sky」とかなんとか。 これを、マルチモーダル化したChatGPT（GPT-4V）に読み込ませ、「この写真を見て思いついた歌詞を書いてみて」と頼みました。 作詞してくれたのは、これ。そうか君は宇宙と書いて「そら」と読む派閥か（「うみ」ではなく）。 星埋める夜に願いを込めて 手を伸ばし掴む、遠い光 夢の続きを、この手で描こう 無限の宇宙（そら）、私だけの物語 次にこの歌詞を元に、 Sunoでさまざまなスタイルの曲を作ってもらいました。 出来上がったのは、どれも女性ボーカルの曲。16回生成し、それぞれ2曲ずつ作ってくれたので、合計32曲の中から一番良かったものをピックアップ。歌詞</description>
+    </item>
+    <item>
+      <title>単一画像から高品質3Dオブジェクトを生成できるAIモデル「Stable Zero123」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1554589.html</link>
+      <pubDate>2023/12/14 16:05</pubDate>
+      <description>MozillaがAIを使ってホームページを作成できるウェブアプリ「Solo」を公開しました。Soloを使えば作りたいホームページの内容を文章で入力したりフォントを選んだりするだけで簡単に見栄えのいいホームページを作って公開できるとのこと。どんなホームページを作成できるのか気になったので、実際に使ってみました。 Introducing Solo, an AI website builder for solopreneurs https://blog.mozilla.org/en/mozilla/introducing-solo-ai-website-builder/ Soloはフリーランスの人を主なターゲットとしたホームページ作成ツールです。Soloでホームページを作成するには、まず以下のリンクをクリックしてSoloのトップページにアクセスします。 Solo AI Website Build</description>
+    </item>
+    <item>
+      <title>LLMへの入力プロンプトを「意味を保持したまま」高度に圧縮する技術『LLMLingua』 | AIDB</title>
+      <link>https://aiboom.net/archives/60431</link>
+      <pubDate>2023/12/12 21:13</pubDate>
+      <description>オープンソースの失われた10年と「オープンソースAI」の行方 2023.12.13 Updated by yomoyomo on December 13, 2023, 07:34 am JST 今年も残り少なくなり、2023年を振り返る記事が出始めてますが、来年を占うというのも年末にありがちだったりします。今年最後は、自分もそういうのをやろうかぼんやり考えていたのですが、先月におけるOpenAIのサム・アルトマンの電撃的解任から数日後の復活という劇的な展開、そして2023年を通して悪目立ちし続けたイーロン・マスクの広告出稿を停止した世界的大企業である広告主に対して「くたばれ」と言い放つ自爆行為を目の当たりにすると、毒気が抜けるというか、一寸先のことすら何も分からんよ、という気分にもなります。 来年の今頃、AGI（汎用人工知能）が人類を支配してても驚かないっすね（投げやり）。 オライリー・メ</description>
+    </item>
   </channel>
 </rss>
