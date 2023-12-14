@@ -15685,5 +15685,50 @@
       <pubDate>2023/12/14 08:26</pubDate>
       <description>「Google Colab」で「Gemini Pro」を試したので、まとめました。 1. Gemini Pro「Gemini Pro」は、Googleの最新AIモデルの1つです。「Gemini Pro」の最初のバージョンが、「Gemini API」で利用できるようになりました。 3. テキスト生成の実行Colabでのテキスト生成の実行手順は、次のとおりです。 (1) パッケージのインストール。 # パッケージのインストール !pip install -q -U google-generativeai(2) パッケージのインポート。 Markdown出力のユーティリティ関数も準備してます。 import pathlib import textwrap import google.generativeai as genai from google.colab import userdata f</description>
     </item>
+    <item>
+      <title>これは21世紀の着せ替え人形か!?どんな服も着せられるAIが登場｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n2b202cd1ea02</link>
+      <pubDate>2023/12/14 09:56</pubDate>
+      <description>以下この本の容を紹介します。 はじめにTwitterではカレーちゃんという名前で活動しております。普段はAIエンジニアとして働いており、趣味ではKaggleというデータ分析コンペティションで、「GrandMaster」という称号を獲得しております。 今年の3月にリリースされた、ChatGPTの「GPT-4」や「プログラミングが使えるAdvanced Data AnalysisというChatGPTの拡張機能」にとてもハマって使い倒しており、ChatGPTについての本を執筆することになりました。 面倒なことはChatGPTにやらせよう！本書は「面倒なことを ChatGPT にお願いして楽になろう」という趣旨の本 です。 ChatGPTの有料版では次の機能を使うことができます。 ・GPT-4（ChatGPTとの会話） ・DALL•E（画像生成） ・Browsing（Web検索） ・Advance</description>
+    </item>
+    <item>
+      <title>Google Colab で Gemini Pro を試す｜npaka</title>
+      <link>https://note.com/npaka/n/n166bc3df3abc</link>
+      <pubDate>2023/12/14 08:11</pubDate>
+      <description>生成AIの技術が急速に進化するなか、日本ではこれを利用した子供の性的画像の問題が深刻化している。欧米ではこうした画像が厳しく規制される一方、日本ではなぜ野放しにされているのか。背景にある日本の司法や文化的な価値観を中国紙が専門家に取材した。 日本では、生成AIによって作られた児童の性的画像の大量流出が問題になっている。 地元メディアの報道によれば、国内のIT企業が法律の抜け穴をつき、生成AIによる児童ポルノを生産しているという。 人権活動家はこうした動向を憂慮しているが、日本の政治家は問題の介入には消極的だ。1998年に「子ども虐待ネグレクト防止ネットワーク（現・特定非営利活動法人チャイルドファーストジャパン）」を創設した山田不二子は、政府が生成AIによる児童ポルノの問題を放置していることを批判し、子供たちが性産業に取り込まれると懸念する。 「日本の法律では児童ポルノは違法とされていますが</description>
+    </item>
+    <item>
+      <title>ChatGPTの賢い使い方、複雑で面倒な自治体の給付金申請をお願いしてみた結果 【生成AI事件簿】サービスの開発が相次ぐお役所仕事を乗り越えるAI活用 | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/78395</link>
+      <pubDate>2023/12/14 07:26</pubDate>
+      <description>科学の分野で重要な役割を果たした研究者などを選ぶ、科学雑誌「ネイチャー」の「ことしの10人」が発表され、オスのマウスのiPS細胞から卵子を作り、子どもを誕生させることに世界で初めて成功した、大阪大学の研究者などが選ばれました。 イギリスの科学雑誌「ネイチャー」は毎年、科学の分野でその年を象徴する重要な役割を果たした研究者などを選んでいて13日、「ことしの10人」を発表しました。 このうち日本から生殖遺伝学が専門の、大阪大学の林克彦教授が選ばれました。 林教授の研究グループはオスのマウスのiPS細胞から卵子を作り、別のマウスの精子と受精させて子どもを誕生させることに世界で初めて成功したことが高く評価されています。 また、核融合の実験で投入したエネルギーよりも多くのエネルギーを発生させることに成功し、核融合が次世代のエネルギー源になる可能性を実証した、アメリカの研究者も選ばれています。 このほ</description>
+    </item>
+    <item>
+      <title>社内業務の生産性を爆上げしたGPTs / 利用推進のための取り組み｜little_hand_s</title>
+      <link>https://note.com/majackyy/n/n10b8191ef9ac</link>
+      <pubDate>2023/12/13 06:07</pubDate>
+      <description>■プレゼンテーションタイトル ・会社名 ・所属 ・氏名 ・2023/12/13 ■目次 ・企画の概要 ・課題 ・提案内容 ・実施要領 ・予算 ・期待できる効果 ・スケジュール ・懸念点 ■企画の概要 ・企画のコンセプト ■課題 ・提案の背景 ・解決したい課題の定義 ■提案内容 ・課題の解決方法 ■実施要領 ・実施する対象範囲(スコープ) ・チーム体制(役割分担) ・やらないことリスト ■予算 ・実際の予算 ■期待できる効果 ・損益シミュレーション ・定量目標 ・定性目標 ■スケジュール ・準備期間 ・実施期間 ・評価方法 ■懸念点</description>
+    </item>
+    <item>
+      <title>AWS全社会議で従業員の不満爆発｢AI、もう無理｣｢燃え尽き症候群｣市場シェア首位も先行き不安</title>
+      <link>https://www.businessinsider.jp/post-279176</link>
+      <pubDate>2023/12/13 12:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ce610b6666f1e1a9af04debdface91e5c57010a9/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1554%2F231%2Fss.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【Adobe Photoshop】AIを活用してクリスマスカードを作る</title>
+      <link>https://techblog.gmo-ap.jp/2023/12/13/christmas_card/</link>
+      <pubDate>2023/12/13 00:05</pubDate>
+      <description>プレゼンテーション資料（.pptx）をAIで自動生成する「パワポ生成AI」の無償提供をユーザーローカルが始めた。 ユーザーローカルは12月13日、プレゼンテーション資料（.pptx）をAIで自動生成する「パワポ生成AI」の無償提供を始めた。フォーム内にメモを入力するだけで、企画書や講義資料などをPowerPoint（パワポ）形式で自動生成・ダウンロードできる。 「企画書・提案書」「新商品の紹介」「講義資料」などからテンプレートを選び、内容に合わせてテキストを編集した後、「パワポファイルをダウンロードする」ボタンを押せば、すぐにパワポ資料が作成される。 キーワードをいくつか入力するだけで、生成AIがあらすじを考える「アウトライン自動生成」機能も搭載。同社独自のAIで、関連しそうな単語をサジェストし、資料に盛り込みたい単語を追加選択すると、ChatGPTと連携してアウトラインを自動生成する。</description>
+    </item>
+    <item>
+      <title>「進撃の巨人」主人公エレンの声優・梶裕貴さん 生成AIとの向き合い方を語る - クローズアップ現代 取材ノート - NHK みんなでプラス</title>
+      <link>https://www.nhk.or.jp/minplus/0121/topic043.html</link>
+      <pubDate>2023/12/12 19:55</pubDate>
+      <description>「FastLabel × LayerX × LINE 3社が語る『生成AI×プロダクト開発』で直面する課題と乗り越え方」は、生成AIをプロダクト開発にどのように活用しているか、その際に直面した課題と克服するためのアプローチなどをFastLabel、LayerX、LINEのエンジニアが共有するイベントです。ここで株式会社LayerXの中村氏が登壇。ここからは、LLMの精度評価における、LLMの処理以外で考えられる原因分析について話します。前回はこちらから。 精度評価 中村龍矢氏：では具体的に、精度評価と改善にいければと思います。 まず精度評価というと、パッとイメージしやすいのが、「どういうスコアをやるか」というところで。これは最近はツールもノウハウもいろいろ出ているので、あまり悩むことはないんじゃないかなと思っています。LLMが吐いた答えが正しいかどうかを判定する方法ですね。 一番シンプルな</description>
+    </item>
   </channel>
 </rss>
