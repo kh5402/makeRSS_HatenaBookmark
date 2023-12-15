@@ -16018,5 +16018,11 @@
       <pubDate>2023/12/13 15:08</pubDate>
       <description>はじめに こんにちは！SIer に勤めるヤマゾーです。普段は AI のシステム開発に携わっています。 2023/12/6 に Google が新たな生成 AI 「Gemini」を発表したのが大きな話題となっていますね。Google CEO のサンダー・ピチャイ氏は X (旧 Twitter) にて、これまでで最も高性能かつ汎用的な AI モデル と表現しています。 これまでテキストや画像を扱う生成 AI といえば ChatGPT (GPT-4) が頭一つ抜けていた印象ですが、今回新しく登場した Gemini は遂に ChatGPT の性能を超えた生成 AI として大きな注目を集めています。本記事ではこの Gemini について、AI にあまり詳しくない人にも分かるように解説してみようと思います。 サマリ 本記事の目次 Gemini とは Gemini ってどんな AI？ Gemini の読</description>
     </item>
+    <item>
+      <title>Q&amp;amp;A + RAG に特化したLLMをSFTで学習させ4bit量子化モデルを作り、GPT3.5以上の性能を7Bモデルで達成する - A Day in the Life</title>
+      <link>https://secon.dev/entry/2023/12/15/080000-qa-rag-llm-sft/</link>
+      <pubDate>2023/12/15 07:59</pubDate>
+      <description>ジェネレーティブAIは高度な文章や画像を生成できる一方で、AIをトレーニングするためのデータの扱いがしばしば問題になっています。作家活動の支援として著作権関連のサポートも行う非営利団体のアメリカSFファンタジー作家協会(SFWA)は、アメリカ著作権局に対して提出した書簡の中で、AIトレーニングに作品が使用されることに反対する理由について明確にしました。 SFWA Comments on AI to US Copyright Office - SFWA https://www.sfwa.org/2023/11/03/sfwa-comments-on-ai-to-us-copyright-office/ Science Fiction and Fantasy Writers Take Aim at AI Freeloading * TorrentFrea https://torrentfrea</description>
+    </item>
   </channel>
 </rss>
