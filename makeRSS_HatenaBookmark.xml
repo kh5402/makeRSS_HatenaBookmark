@@ -16132,5 +16132,11 @@
       <pubDate>2023/12/14 07:49</pubDate>
       <description>Googleは2023年12月6日、文字・音声・画像を同時に処理できるマルチモーダルAI「Gemini」を発表しました。現地時間の12月13日、Geminiのミドルモデルである「Gemini Pro」がAPIを介してアクセス可能となり、開発者や企業が独自のユースケース向けに構築できるようになりました。 Google Gemini API: New developer and enterprise AI products https://blog.google/technology/ai/gemini-api-developers-cloud/ Google: Gemini API, Imagen 2, Duet AI and more updates https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-upd</description>
     </item>
+    <item>
+      <title>次世代NPU「Intel AI Boost」で「DirectML」がサポートへ ～来年初めにも／「Intel Core Ultra」に搭載、今までGPUで行っていたAI処理をより高効率なNPUで</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1554795.html</link>
+      <pubDate>2023/12/15 09:24</pubDate>
+      <description>対話型AI（人工知能）サービスの「ChatGPT」は、もはやインフラとして社会に受け入れられた感がある。中には、ChatGPTなしではもう仕事ができないほど依存している人もいるかもしれない。 ChatGPTの機能の進化も止まらない。現在のChatGPT有料版「ChatGPT Plus」は、言葉で指定した画像の出力ができるようになっている。また、ChatGPTのスマートフォンアプリは、音声入力と音声出力に対応した。この機能をオンにしてChatGPTと話していると、まるで人を相手に話をしているような感覚に襲われる。 ChatGPTは、企業のITシステムにも大きく影響するようになってきた。ChatGPTやその基になった米OpenAI（オープンAI）の大規模言語モデル（LLM）「GPT」のAPI（アプリケーション・プログラミング・インターフェース）を社内システムから呼び出し、業務を効率化する試みが</description>
+    </item>
   </channel>
 </rss>
