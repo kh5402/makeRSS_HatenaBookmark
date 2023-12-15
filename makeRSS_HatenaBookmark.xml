@@ -16057,5 +16057,32 @@
       <pubDate>2023/12/15 10:03</pubDate>
       <description>この記事は NTTコミュニケーションズ Advent Calendar 2023 の15日目の記事です。 この記事では、ChatGPT と 音声認識モデルの Whisper を用いた発音練習アプリケーションをご紹介します。 ChatGPT に読み上げる文章を考えてもらい、その文章の読み上げた音声を Whisper で文字起こしします。 正確に発音できていれば、正確に文字起こしできる、という考えから、 原稿と文字起こし結果を比較すれば発音練習に使えるのではないかと考えました。 実際に使ってみた結果、発音のどこが悪かったのかといったフィードバックはもらえませんが、 自分の発話した音声に対して評価がつくだけでも、結構楽しく練習できると感じました。 音声認識を活用したアプリケーションは、一般に音声認識精度がネックになると思いますが、 このアプリケーションは音声認識精度が100%ではないことを逆手に</description>
     </item>
+    <item>
+      <title>ChatGPTでの業務効率化を“断念”──正答率94％でも「ごみ出し案内」をAIに託せなかったワケ　三豊市と松尾研の半年間</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/15/news158.html</link>
+      <pubDate>2023/12/15 16:27</pubDate>
+      <description>Google DeepMindは、LLM採用のAIシステム「FunSearch」を発表した。LLMとLLMによる幻覚を防止する“評価器”を組み合わせたもので、「ビンパッキング問題」向けの実用的なアルゴリズムも出力できる。 米Google傘下のGoogle DeepMindは12月14日（現地時間）、LLM（大規模言語モデル）とLLMによる幻覚（ハルシネーション）を防止する“評価器”を組み合わせた新たなシステム「FunSearch」を発表した。長年解決不可能な数学問題とされてきた「Cap set問題」を解き、実社会でも役立つ「ビンパッキング問題」のための効果的なアルゴリズムを発見したという。 FunSearch（funは「楽しい」ではなく、「関数」に由来する）は、GoogleのLLM「PaLM 2」をコンピュータコードで微調整したバージョンの「Codey」を使っている。LLMは不正確な情報を</description>
+    </item>
+    <item>
+      <title>ChatGPT と Whisper で発音練習アプリを作ってみた - NTT Communications Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/2023/12/15/111931</link>
+      <pubDate>2023/12/15 11:20</pubDate>
+      <description>なお、評価に使ったコードはこちらの eval_xxx というコードである。 https://github.com/hotchpotch/youri-7b-stf-qa-context-jaqket/ Supervised Fine-tuning Trainer(SFT) を使った学習 STFは手軽な方法で指示に対して特定フォーマットの出力(Instruction Tuning)を学習させることができる方法である。学習のさせ方も簡単で、例えば ### 指示: 今日の天気は何ですか？ ### 入力: 本日は大雨ですね。 ### 応答: 大雨 のような例文を用意する。例では「### 応答:」以降がうまく出力されるように学習して欲しいデータである。この時、例文と「### 応答:」だけ与えれば、よしなに学習してくれる。実際の学習時には、「応答:」以降を推論し、望ましい回答である「大雪」のtokenの</description>
+    </item>
+    <item>
+      <title>SF作家たちが「作家の寛大さを悪用するAIトレーニングは許せない」として著作権当局に規制を要請</title>
+      <link>https://gigazine.net/news/20231215-sfwa-ai-submission/</link>
+      <pubDate>2023/12/15 07:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f6bb87914dfc09413476a4288e157da997093c73/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1554%2F380%2Fimg9656i.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Oculus Integrationの廃止と、Meta XR UPM パッケージの採用について - ForgeVision Engineer Blog</title>
+      <link>https://techblog.forgevision.com/entry/meta_xr_upm</link>
+      <pubDate>2023/12/14 19:48</pubDate>
+      <description>GitHub Japanは12月14日、「クレデンシャルをGitHubに書くなソング　～書くならPushProtectionしろ～」を公開した。といっても何のことか分からないと思うので、取りあえず聞いてみてほしい。 GitHubユーザーなら分かると思うが、そうでなければ何のこっちゃ、だろう。順に説明すると、クレデンシャルとはIDやパスワードなど認証に用いられる識別情報のことを指す。当然、他人には知られないようにするべきだ。 GitHubのようなソースコード共有サイトで公開するのはもちろんNG。しかし不注意などで公開状態になっていた例はいくつもある。そして続く「Push Protection」と「Secret Scanning」はそれぞれ、同様の事態を防ぐための機能のこと。要するに、機密情報を衆人環境にさらさないよう、機能を駆使して気をつけようね、という注意喚起なわけだ。 わざわざ歌にしてい</description>
+    </item>
   </channel>
 </rss>
