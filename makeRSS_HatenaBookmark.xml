@@ -16096,5 +16096,41 @@
       <pubDate>2023/12/15 11:57</pubDate>
       <description>Google DeepMindは、LLM採用のAIシステム「FunSearch」を発表した。LLMとLLMによる幻覚を防止する“評価器”を組み合わせたもので、「ビンパッキング問題」向けの実用的なアルゴリズムも出力できる。 米Google傘下のGoogle DeepMindは12月14日（現地時間）、LLM（大規模言語モデル）とLLMによる幻覚（ハルシネーション）を防止する“評価器”を組み合わせた新たなシステム「FunSearch」を発表した。長年解決不可能な数学問題とされてきた「Cap set問題」を解き、実社会でも役立つ「ビンパッキング問題」のための効果的なアルゴリズムを発見したという。 FunSearch（funは「楽しい」ではなく、「関数」に由来する）は、GoogleのLLM「PaLM 2」をコンピュータコードで微調整したバージョンの「Codey」を使っている。LLMは不正確な情報を</description>
     </item>
+    <item>
+      <title>NVIDIA GeForce RTX 4070 Superは2024年1月17日発売。RTX 4070 Ti Superは1月24日、RTX 4080 Superは1月31日を予定</title>
+      <link>https://gazlog.com/entry/rtx4000super-launch-date/</link>
+      <pubDate>2023/12/15 17:02</pubDate>
+      <description>2023年12月14日にロシアのウラジーミル・プーチン大統領が年末恒例の質疑応答イベントを開催しました。このイベントの中で国民からの質問として「プーチン大統領の外見や声を再現したディープフェイクがプーチン大統領に質問する映像」が映し出され、プーチン大統領が自身のディープフェイクに対して応答する一幕がありました。 Putin quizzed by apparent AI version of himself during live phone-in https://www.cnbc.com/2023/12/14/putin-confronted-by-apparent-ai-version-of-himself-during-live-phone-in.html Stunned Putin double-takes as he is confronted with AI deepfake o</description>
+    </item>
+    <item>
+      <title>メモの作成やタスク管理、共同作業を効率化！Evernoteから乗り換えるべきメモアプリ8選 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2312-tech-best-evernote-alternatives/</link>
+      <pubDate>2023/12/15 12:27</pubDate>
+      <description>ChatGPTでの業務効率化を“断念”──正答率94％でも「ごみ出し案内」をAIに託せなかったワケ　三豊市と松尾研の半年間（1/2 ページ） 「ごみ出し案内」業務にはChatGPTを“活用しない”と決断──生成AIを使った業務効率化を検証してきた、香川県三豊市がそんな発表をした。実証実験には松尾研も協力したが、思ったような成果が出せなかったという。一体なぜか？ 「ごみ出し案内」業務にはChatGPTを“活用しない”と決断した──生成AIを使った業務効率化を検証してきた、香川県三豊市がそんな発表をした。ChatGPT登場から1年がたち、今や職場に導入する企業・自治体も増え、中にはすでに一定の成果を出した事例もある。三豊市でも、ごみ出し案内業務の効率化を図ろうとしたが、思うようにはいかなかった。 今回の事例では、日本のAI研究の権威である松尾豊教授の「東京大学大学院工学系研究科松尾研究室」（松</description>
+    </item>
+    <item>
+      <title>コードを読めない人がChatGPTでコード生成する怖さ、問われるテストの重要性</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00682/121200141/</link>
+      <pubDate>2023/12/15 08:05</pubDate>
+      <description>Google DeepMindは、LLM採用のAIシステム「FunSearch」を発表した。LLMとLLMによる幻覚を防止する“評価器”を組み合わせたもので、「ビンパッキング問題」向けの実用的なアルゴリズムも出力できる。 米Google傘下のGoogle DeepMindは12月14日（現地時間）、LLM（大規模言語モデル）とLLMによる幻覚（ハルシネーション）を防止する“評価器”を組み合わせた新たなシステム「FunSearch」を発表した。長年解決不可能な数学問題とされてきた「Cap set問題」を解き、実社会でも役立つ「ビンパッキング問題」のための効果的なアルゴリズムを発見したという。 FunSearch（funは「楽しい」ではなく、「関数」に由来する）は、GoogleのLLM「PaLM 2」をコンピュータコードで微調整したバージョンの「Codey」を使っている。LLMは不正確な情報を</description>
+    </item>
+    <item>
+      <title>データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2312/14/news013.html</link>
+      <pubDate>2023/12/14 15:17</pubDate>
+      <description>香川県三豊市は、今年6月から東京大学大学院と実証実験を進めてきた「チャットGPT」を使ったゴミ出し案内の導入を断念すると発表しました。三豊市では、東京大学大学院工学系研究科の松尾研究室と協力して、今年6…</description>
+    </item>
+    <item>
+      <title>A Guide on 12 Tuning Strategies for Production-Ready RAG Applications</title>
+      <link>https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439</link>
+      <pubDate>2023/12/14 09:38</pubDate>
+      <description>GitHub Japanは12月14日、「クレデンシャルをGitHubに書くなソング　～書くならPushProtectionしろ～」を公開した。といっても何のことか分からないと思うので、取りあえず聞いてみてほしい。 GitHubユーザーなら分かると思うが、そうでなければ何のこっちゃ、だろう。順に説明すると、クレデンシャルとはIDやパスワードなど認証に用いられる識別情報のことを指す。当然、他人には知られないようにするべきだ。 GitHubのようなソースコード共有サイトで公開するのはもちろんNG。しかし不注意などで公開状態になっていた例はいくつもある。そして続く「Push Protection」と「Secret Scanning」はそれぞれ、同様の事態を防ぐための機能のこと。要するに、機密情報を衆人環境にさらさないよう、機能を駆使して気をつけようね、という注意喚起なわけだ。 わざわざ歌にしてい</description>
+    </item>
+    <item>
+      <title>ChatGPTはなぜ計算が苦手なのか - 湊 真一 京都大学大学院情報学研究科 教授</title>
+      <link>https://edx.nii.ac.jp/lecture/20230707-03</link>
+      <pubDate>2023/12/14 07:49</pubDate>
+      <description>Googleは2023年12月6日、文字・音声・画像を同時に処理できるマルチモーダルAI「Gemini」を発表しました。現地時間の12月13日、Geminiのミドルモデルである「Gemini Pro」がAPIを介してアクセス可能となり、開発者や企業が独自のユースケース向けに構築できるようになりました。 Google Gemini API: New developer and enterprise AI products https://blog.google/technology/ai/gemini-api-developers-cloud/ Google: Gemini API, Imagen 2, Duet AI and more updates https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-upd</description>
+    </item>
   </channel>
 </rss>
