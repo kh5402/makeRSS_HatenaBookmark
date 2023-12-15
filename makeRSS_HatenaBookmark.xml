@@ -16138,5 +16138,32 @@
       <pubDate>2023/12/15 09:24</pubDate>
       <description>対話型AI（人工知能）サービスの「ChatGPT」は、もはやインフラとして社会に受け入れられた感がある。中には、ChatGPTなしではもう仕事ができないほど依存している人もいるかもしれない。 ChatGPTの機能の進化も止まらない。現在のChatGPT有料版「ChatGPT Plus」は、言葉で指定した画像の出力ができるようになっている。また、ChatGPTのスマートフォンアプリは、音声入力と音声出力に対応した。この機能をオンにしてChatGPTと話していると、まるで人を相手に話をしているような感覚に襲われる。 ChatGPTは、企業のITシステムにも大きく影響するようになってきた。ChatGPTやその基になった米OpenAI（オープンAI）の大規模言語モデル（LLM）「GPT」のAPI（アプリケーション・プログラミング・インターフェース）を社内システムから呼び出し、業務を効率化する試みが</description>
     </item>
+    <item>
+      <title>マネジメントとしての意思決定振り返り - Konifar&amp;#39;s WIP</title>
+      <link>https://konifar.hatenablog.com/entry/2023/12/15/211224</link>
+      <pubDate>2023/12/15 22:18</pubDate>
+      <description>チャットAI「ChatGPT」などの開発で知られるOpenAIは、人間よりもはるかに賢いAIである「超知性」が2033年までの10年間で開発されると推測しています。しかし、超知性を確実に制御する方法は現状構築されていません。OpenAIでは「スーパーアライメントチーム」を立ち上げ、超知性を制御するための研究が行われており、その方法を解説しています。 WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION (PDFファイル)https://cdn.openai.com/papers/weak-to-strong-generalization.pdf Weak-to-strong generalization https://openai.com/research/weak-to-st</description>
+    </item>
+    <item>
+      <title>“子どもが不登校になる可能性”を予測するAI　AIベンチャーのPKSHAなどが開発へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/15/news182.html</link>
+      <pubDate>2023/12/15 18:49</pubDate>
+      <description>ホームGPU最新情報GeForce RTX 4000NVIDIA GeForce RTX 4070 Superは2024年1月17日発売。RTX 4070 Ti Superは1月24日、RTX 4080 Superは1月31日を予定 NVIDIA GeForce RTX 4070 Superは2024年1月17日発売。RTX 4070 Ti Superは1月24日、RTX 4080 Superは1月31日を予定 2023 12/15 NVIDIA GeForce RTX 4070 Superは2024年1月17日発売、続いてRTX 4070 Ti Superが1月24日、RTX 4080 Superが1月30日発売と毎週新モデル投入へ NVIDIAでは2024年1月はじめに開催されるCES2024近辺でGeForce RTX 4000 Superシリーズの発表を行うと見られていますが、中国</description>
+    </item>
+    <item>
+      <title>「オセロが解けた」を白黒ハッキリさせようじゃないか｜情報処理学会・学会誌「情報処理」</title>
+      <link>https://note.com/ipsj/n/n86f6dbfbfc7a</link>
+      <pubDate>2023/12/15 11:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/eab1cff64b5eaa45da1f366efc8ade9c2bf378ab/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F795%2Fimage1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Intelの次世代CPU「Core Ultra」プロセッサが正式発表。新アーキテクチャでゲーム性能やAI処理がさらに速く</title>
+      <link>https://www.4gamer.net/games/716/G071675/20231214033/</link>
+      <pubDate>2023/12/15 04:54</pubDate>
+      <description>「AIとビジネス」をテーマに、業種業態、部署の垣根を超え、産業を活性化するヒントを得るためのビジネスカンファレンス「Gen AI EXPO」（主催：弁護士ドットコム株式会社）。今回は、千葉工大・伊藤穰一学長と東大・松尾豊教授が登壇した特別セッション「生成AIが切り拓く日本の未来」の模様をお伝えします。 ChatGPTは何が革命的なのか？ 元榮太一郎氏（以下、元榮）：よろしくお願いします。今日は、ビジネスパーソンのみなさんが視聴されていると思いますが、さっそく生成AIの歴史と今後について明らかにしていきたいと思います。まずは伊藤さんにうかがっていきたいのですが、「ChatGPT」の何が革命的なんでしょうか？ 伊藤穰一氏（以下、伊藤）：自然言語でコミュニケーションがとれて、今までだったらプログラマーじゃなきゃアクセスできないようないろんな機能が一般の人でも使えるようになった。今までAIっていろ</description>
+    </item>
   </channel>
 </rss>
