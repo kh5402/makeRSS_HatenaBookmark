@@ -16024,5 +16024,32 @@
       <pubDate>2023/12/15 07:59</pubDate>
       <description>ジェネレーティブAIは高度な文章や画像を生成できる一方で、AIをトレーニングするためのデータの扱いがしばしば問題になっています。作家活動の支援として著作権関連のサポートも行う非営利団体のアメリカSFファンタジー作家協会(SFWA)は、アメリカ著作権局に対して提出した書簡の中で、AIトレーニングに作品が使用されることに反対する理由について明確にしました。 SFWA Comments on AI to US Copyright Office - SFWA https://www.sfwa.org/2023/11/03/sfwa-comments-on-ai-to-us-copyright-office/ Science Fiction and Fantasy Writers Take Aim at AI Freeloading * TorrentFrea https://torrentfrea</description>
     </item>
+    <item>
+      <title>Delphi</title>
+      <link>https://www.delphi.ai/</link>
+      <pubDate>2023/12/14 11:36</pubDate>
+      <description>画像や映像から立体的なイメージを生み出せる「NeRF(Neural Radiance Fields：ニューラル輝度場)」や「MERF(Memory-Efficient Radiance Fields：メモリ効率のいい輝度場)」をさらに発展させ、センチメートル単位の精度のレンダリングを行いつつも必要スペックはMERF並みな「SMERF」という技術を、Googleの開発者チームが発表しました。 SMERF https://smerf-3d.github.io/ どういった技術なのかは以下の動画を見るとわかります。 SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration - YouTube SMERFを開発したのはGoogle DeepMindのダニエル・ダックワース氏ら。S</description>
+    </item>
+    <item>
+      <title>SIerがGoogle史上最強のAI「Gemini」を解説してみる - Qiita</title>
+      <link>https://qiita.com/yamazombie/items/f3e8f5e25cf40bb84bbd</link>
+      <pubDate>2023/12/14 02:36</pubDate>
+      <description>機械学習ベンチマークアプリ「Geekbench ML v0.6 for iOS/Android (Preview)」がmacOSとWindows、Linuxに対応しています。詳細は以下から。 MacやWindows, Linux, iOS, Androidに対応したベンチマークアプリ「Geekbench」シリーズを開発するカナダPrimate Labs Inc,は2021年05月、ここ数年でプロセッサにおける機械学習処理の性能がより重要になっているとして、機械学習処理専用のパフォーマンステストを行うベンチマークアプリ「Geekbench ML (Preview)」のiOS/Android版を公開しましたが、 現地時間2023年12月12日付で、このGeekbench MLをバージョン0.6 (Preview)へアップデートし、新たにmacOSやWindows、Linuxをサポートしたと発表</description>
+    </item>
+    <item>
+      <title>【初心者向け】AI関連の読むべき資料まとめ - Qiita</title>
+      <link>https://qiita.com/KNR109/items/2d95aa8862b14ff50378</link>
+      <pubDate>2023/12/13 23:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/250a82442a728c3281fd9f107c5e7876671c3b44/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F543%2Fimage1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>グーグルAIヤバすぎ。ChatGPT超えの「Gemini」正直レベチです【AIニュース 試験運用中】 (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/174/4174233/</link>
+      <pubDate>2023/12/10 23:23</pubDate>
+      <description>こんにちは、取締役の id:onishi です。 Hatena Developer Blogの連載企画「卒業生訪問インタビュー」では、創業からはてなの開発に関わってきた取締役の id:onishi、CTOの id:motemen、エンジニアリングマネージャーの id:onkが、いま会いたい元はてなスタッフを訪問してお話を伺っていきます。 id:onishiが担当する第7回のゲストは、ロンドン、シンガポール、ハノイを拠点とするAIソリューションプロバイダー Nexus FrontierTech のCo-Founder CTOであり、著書「Web API: The Good Parts」、訳書「プログラマー脳」「JavaScript: The Good Parts」「入門 自然言語処理」などの執筆・翻訳でもご活躍されている、 id:mizuno_takaakiさんこと、水野貴明さんです。 mi</description>
+    </item>
   </channel>
 </rss>
