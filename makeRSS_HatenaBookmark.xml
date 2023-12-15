@@ -16051,5 +16051,11 @@
       <pubDate>2023/12/10 23:23</pubDate>
       <description>こんにちは、取締役の id:onishi です。 Hatena Developer Blogの連載企画「卒業生訪問インタビュー」では、創業からはてなの開発に関わってきた取締役の id:onishi、CTOの id:motemen、エンジニアリングマネージャーの id:onkが、いま会いたい元はてなスタッフを訪問してお話を伺っていきます。 id:onishiが担当する第7回のゲストは、ロンドン、シンガポール、ハノイを拠点とするAIソリューションプロバイダー Nexus FrontierTech のCo-Founder CTOであり、著書「Web API: The Good Parts」、訳書「プログラマー脳」「JavaScript: The Good Parts」「入門 自然言語処理」などの執筆・翻訳でもご活躍されている、 id:mizuno_takaakiさんこと、水野貴明さんです。 mi</description>
     </item>
+    <item>
+      <title>Google DeepMind、LLM採用AIシステム「FunSearch」で数学的難問を解決</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/15/news106.html</link>
+      <pubDate>2023/12/15 10:03</pubDate>
+      <description>この記事は NTTコミュニケーションズ Advent Calendar 2023 の15日目の記事です。 この記事では、ChatGPT と 音声認識モデルの Whisper を用いた発音練習アプリケーションをご紹介します。 ChatGPT に読み上げる文章を考えてもらい、その文章の読み上げた音声を Whisper で文字起こしします。 正確に発音できていれば、正確に文字起こしできる、という考えから、 原稿と文字起こし結果を比較すれば発音練習に使えるのではないかと考えました。 実際に使ってみた結果、発音のどこが悪かったのかといったフィードバックはもらえませんが、 自分の発話した音声に対して評価がつくだけでも、結構楽しく練習できると感じました。 音声認識を活用したアプリケーションは、一般に音声認識精度がネックになると思いますが、 このアプリケーションは音声認識精度が100%ではないことを逆手に</description>
+    </item>
   </channel>
 </rss>
