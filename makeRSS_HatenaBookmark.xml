@@ -16261,5 +16261,11 @@
       <pubDate>2023/12/14 14:08</pubDate>
       <description>Intelの次世代CPU「Core Ultra」プロセッサが正式発表。新アーキテクチャでゲーム性能やAI処理がさらに速く ライター：米田 聡 2023年12月15日，Intelは，開発コードネーム「Meteor Lake」で知られるノートPC向け新型プロセッサ「Core Ultra」シリーズ計11製品を発表した。 Core Ultraは，Intelが「過去40年間で最大の変革」と主張していたプロセッサだ。世界各地から招いた報道関係者に，マレーシアのペナン地域にあるMeteor Lakeの製造（後工程）を担当する工場を公開したり，詳細な技術情報を公開するなど，アピールに力を入れてきたCore Ultraのラインナップや性能が，ようやく明らかとなったわけである。 関連記事 次世代のノートPC向けCPU「Meteor Lake」の詳細が明らかに。メインのCPUコアを使わずに動画を再生できる!?</description>
     </item>
+    <item>
+      <title>交通量調査がAIに置き換わらない理由について</title>
+      <link>https://anond.hatelabo.jp/20230310213513</link>
+      <pubDate>2023/12/14 18:51</pubDate>
+      <description>チャットAI「ChatGPT」などの開発で知られるOpenAIは、人間よりもはるかに賢いAIである「超知性」が2033年までの10年間で開発されると推測しています。しかし、超知性を確実に制御する方法は現状構築されていません。OpenAIでは「スーパーアライメントチーム」を立ち上げ、超知性を制御するための研究が行われており、その方法を解説しています。 WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION (PDFファイル)https://cdn.openai.com/papers/weak-to-strong-generalization.pdf Weak-to-strong generalization https://openai.com/research/weak-to-st</description>
+    </item>
   </channel>
 </rss>
