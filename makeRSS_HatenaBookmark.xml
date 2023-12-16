@@ -16297,5 +16297,26 @@
       <pubDate>2023/12/14 10:23</pubDate>
       <description>「Midjourney」は、テキストから画像を生成する強力な人工知能（AI）で、ありとあらゆる画像を生成できると言ってもいいほどだ。しかし、これまではコミュニケーションサービス「Discord」経由でしか利用できず、特に使いやすいプラットフォームとは言えなかった。そのMidjourneyが今回、より簡単に素早く画像を生成できるという専用のウェブサイトを開設した。 Midjourneyの最高経営責任者（CEO）David Holz氏によると、このウェブサイトは現在アルファ版で、まずはDiscord上のMidjourneyで作成した画像が1万枚を超えるユーザーだけが利用できるという。Midjourneyを使ったことがある場合、生成した画像の枚数を確認するには、Midjourney Botが含まれるDiscordのチャンネルで「/info」と入力すればいい。 Midjourneyがサービスを開始</description>
     </item>
+    <item>
+      <title>社内技術ドキュメンテーションを科学する - スタディサプリ Product Team Blog</title>
+      <link>https://blog.studysapuri.jp/entry/science-of-inhouse-tech-documentation</link>
+      <pubDate>2023/12/15 09:54</pubDate>
+      <description>この記事は クソアプリ Advent Calendar 2023 の15日目の記事です。 作ったもの 各サービスの解約情報がまとまっている 解約.com を作りました。 解約.com: https://kai8ku.com 機能紹介 一番上に出ていたDAZNのコンテンツを元に機能紹介です 一覧ページ 一覧ページでは解約の手順が載っている公式リンクが載っています。あと検索もできます。適当に文字を入れると色々引っかかってくれるようになっています(したいです) 詳細ページ(少し下にスクロールしてます) 詳細ページでは情報が増えます 解約方法: 可能な解約方法を載せてます。Web,モバイルアプリ,店舗,電話 などです サービスカテゴリ: どのようなサービスかを載せています。同じサービスでも解約方法を比較できるようにしたいです(WIP) AIによる要約: 公式リンクの情報や後述するユーザーレビューを</description>
+    </item>
+    <item>
+      <title>大規模言語モデルに追加学習で専門知識を教える試み (2023, arXiv:2312.03360) | ドクセル</title>
+      <link>https://www.docswell.com/s/KanHatakeyama/ZYW6ME-2023-12-09-121017</link>
+      <pubDate>2023/12/09 12:45</pubDate>
+      <description>山名琢翔（筑波大学） オセロが解かれた？！　&amp;quot;Othello is Solved&amp;quot;というタイトルの論文がarXivに投稿されました$${^{☆1}}$$．オセロでは，初期局面から双方のプレイヤがミスをせずに打ち続ければ，終局結果は引き分けになると証明できたと言うのです． オセロを「解く」とはどういうことなのか．どうやって解いたのか．また，解かれた後のオセロはどうなるのか．この記事ではオセロを解くということについて解説します．なお，このarXivに投稿された論文&amp;quot;Othello is Solved&amp;quot;は記事執筆時点で査読や追試を経たものではないことに注意すべきです． オセロを「解く」とはどういうこと？　ゲーム情報学の分野では，ゲームを「解く」という行為がいくつか存在して，それぞれに名前がついています．具体的には強解決，弱解決，超弱解決の3種類です．論文本体の話題に入る前に，まずはオセロを解くと</description>
+    </item>
+    <item>
+      <title>Googleが「Gemini Pro」のプレビュー開始、AI基盤「Vertex AI」に新モデルも追加</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/08716/</link>
+      <pubDate>2023/12/14 01:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3875ad2f6743daba682d6ab7bce18ab85f1031da/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1554%2F759%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
