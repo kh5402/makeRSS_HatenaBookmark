@@ -16291,5 +16291,11 @@
       <pubDate>2023/12/15 13:59</pubDate>
       <description>GoogleのAI開発部門であるGoogle DeepMindが、大規模言語モデル(LLM)を利用して数理科学の未解決の問題を解決したり、新しい知見をもたらしたりすることができるAIシステム「FunSearch」を発表しました。Google DeepMindのデミス・ハサビスCEOは「FunSearchのブレークスルーに興奮しています」と語っています。 FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-</description>
     </item>
+    <item>
+      <title>プロダクト知識の理解を促進するテスト分析「辻レビュー」の話 - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/qa-test-design-review</link>
+      <pubDate>2023/12/14 10:23</pubDate>
+      <description>「Midjourney」は、テキストから画像を生成する強力な人工知能（AI）で、ありとあらゆる画像を生成できると言ってもいいほどだ。しかし、これまではコミュニケーションサービス「Discord」経由でしか利用できず、特に使いやすいプラットフォームとは言えなかった。そのMidjourneyが今回、より簡単に素早く画像を生成できるという専用のウェブサイトを開設した。 Midjourneyの最高経営責任者（CEO）David Holz氏によると、このウェブサイトは現在アルファ版で、まずはDiscord上のMidjourneyで作成した画像が1万枚を超えるユーザーだけが利用できるという。Midjourneyを使ったことがある場合、生成した画像の枚数を確認するには、Midjourney Botが含まれるDiscordのチャンネルで「/info」と入力すればいい。 Midjourneyがサービスを開始</description>
+    </item>
   </channel>
 </rss>
