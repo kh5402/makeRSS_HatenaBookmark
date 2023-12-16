@@ -16213,5 +16213,29 @@
       <pubDate>2023/12/15 07:56</pubDate>
       <description>データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】：AI・データサイエンス超入門 ChatGPTの「高度データ分析」機能がデータサイエンスを変える？　素人でも簡単にデータ分析ができるようになるのか？　筆者が実際に挑戦し、実体験に基づく感想と洞察をお届けします。連載の流れとは関係がない番外編です。</description>
     </item>
+    <item>
+      <title>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うとランダムなスペースが他のユーザーに表示され、個人情報の漏洩につながる可能性のあるバグがあるので注意を。</title>
+      <link>https://applech2.com/archives/20231216-macos-14-2-sonoma-screen-sharing-bug.html</link>
+      <pubDate>2023/12/16 10:03</pubDate>
+      <description>ハリウッドの大スタートム・ハンクスが、英「フィナンシャル・タイムズ」紙の記者とロンドンでランチ。どうしても「いい人」役のイメージがついてまわるハンクスは、それに不満を覚えているようだが、それでもやっぱり「いい人」のようで──。 私はトム・ハンクスに、彼がいまここにいる理由を訊ねる。アカデミー賞を2度受賞し、評判通り魅力的で、やたらと饒舌なこの俳優をけなすわけではないのだが、彼がPRする必要性などない。 「昼食をごちそうしてもらいたくてね」というジョークのあとで、「エンタメの企業複合体」の要請だと彼は認めた。 「僕がこなしてきた80億回のインタビュー、そして出演・製作した数々の映画があるにもかかわらず『へえ、今度は何をするんだろう？』って思うお客さんたちはいて、まだ好奇心を持ってくれているようなんです」と、ハンクスは楽観の姿勢を崩さない。 19世紀末パリのブラッセリーを思わせるレストラン「ス</description>
+    </item>
+    <item>
+      <title>有料版ChatGPT、新規登録を再開　約1カ月ぶり</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/14/news141.html</link>
+      <pubDate>2023/12/14 14:01</pubDate>
+      <description>Google DeepMindは、LLM採用のAIシステム「FunSearch」を発表した。LLMとLLMによる幻覚を防止する“評価器”を組み合わせたもので、「ビンパッキング問題」向けの実用的なアルゴリズムも出力できる。 米Google傘下のGoogle DeepMindは12月14日（現地時間）、LLM（大規模言語モデル）とLLMによる幻覚（ハルシネーション）を防止する“評価器”を組み合わせた新たなシステム「FunSearch」を発表した。長年解決不可能な数学問題とされてきた「Cap set問題」を解き、実社会でも役立つ「ビンパッキング問題」のための効果的なアルゴリズムを発見したという。 FunSearch（funは「楽しい」ではなく、「関数」に由来する）は、GoogleのLLM「PaLM 2」をコンピュータコードで微調整したバージョンの「Codey」を使っている。LLMは不正確な情報を</description>
+    </item>
+    <item>
+      <title>AI機能開発とインボイス制度対応を同時にやったら、意外と似ていた - BASEプロダクトチームブログ</title>
+      <link>https://devblog.thebase.in/entry/2023/12/13/150000</link>
+      <pubDate>2023/12/13 16:55</pubDate>
+      <description>講演概要ツール・環境 ChatGPTは、統計的な学習モデルによって、驚くほど滑らかに自然な対話を自動生成することができ、ここ半年の間にも社会に多大なインパクトを与えつつある。一方でChatGPTは、数を数えることや掛け算のような計算問題を解くのは苦手であり、小学生でも解けるような問題をしばしば間違えることが知られている。本講演では、アルゴリズムや計算量の観点から、ChatGPTがなぜ計算問題が苦手なのかを述べ、ChatGPTの能力の限界や、計算手順を理解するとはどういうことかについて論ずる。 講演映像</description>
+    </item>
+    <item>
+      <title>やはり生成AIは強かった？ 2023年にWikipediaで最も閲覧された記事は「ChatGPT」【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/1553539.html</link>
+      <pubDate>2023/12/11 18:02</pubDate>
+      <description>Metaが2023年10月に発売したスマートグラス「Ray-Ban Meta」で、服を識別してファッションの質問に答えたり、文章を翻訳したりしてくれる会話アシスタント「Meta AI」への早期アクセスプログラムが開始されました。Metaのマーク・ザッカーバーグCEOのInstagramアカウントでは、実際にRay-Ban Metaに搭載されたMeta AIに質問した動画も公開されています。 Look and ask with Meta AI on Ray-Ban Meta smart glasses | Meta Store https://www.meta.com/ja-jp/help/smart-glasses/articles/voice-controls/look-and-ask-ray-ban-meta-smart-glasses/ Meta’s AI for Ray-Ban s</description>
+    </item>
   </channel>
 </rss>
