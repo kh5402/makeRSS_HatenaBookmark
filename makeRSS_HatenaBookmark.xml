@@ -16183,5 +16183,23 @@
       <pubDate>2023/12/13 20:23</pubDate>
       <description>企業や学校など、さまざまな場面で生成AIの導入が進んでいますが、皆さんは、生成AIを使ってみたことはありますか？ 試しに使ってはみたものの、欲しかった回答が返ってこなくてガッカリした、なんて経験がある方もいるのでは？ 実は、生成AIをうまく使いこなすには、「プロンプト」と呼ばれる指示や質問の仕方が大事なんです。今回は、最も普及した生成AIの一つであるChatGPTを例に適切な回答を引き出すためのコツを紹介します。 監修 ソフトバンク株式会社 IT統括 ビジネスシステム開発本部 青木 拓磨(あおき・たくま) 2019年新卒入社。入社5年目。コンタクトセンターのオペレータ管理システムを担当。生成AIに興味を持ち、休日は情報収集をしつつ最良のプロンプトを考え、社内に発信している。ChatGPTのGPTsやOpen AIのAPIを用いたツール生成などを行い、さらに開発だけでなく趣味の小説の執筆など</description>
     </item>
+    <item>
+      <title>AIの進化で人間の仕事が「なくなる」のではなく「変わる」　深津貴之氏が語る、これからの時代に必要なスキル</title>
+      <link>https://logmi.jp/business/articles/329807</link>
+      <pubDate>2023/12/15 18:28</pubDate>
+      <description>好きな歌詞で作曲して歌ってくれる生成AIサービスの「Suno」がユーザーインタフェースを刷新しました。Discordへのアクセスは不要となっているので、さらに使いやすくなっています。だいぶUIが変わったこともあり、簡単に使い方をまとめておきましょう。 まず必要なのはアカウント。app.suno.aiにアクセスし、Discord、Google、Microsoftいずれかのアカウントでログインします。 すると、50ポイントもらえて、5回曲を作れます。それぞれ2曲ずつ生成されるので、10曲分使えるということです。 これはフリープランの場合で、フリープランだと商用利用は不可という制限があります。YouTubeなどでマネタイズしようという場合には、Pro以上のコースが必要となります。 ログインできたら、まず表示されるのは、Trendingという画面。人気トップ10のSuno生成曲が表示されており、そ</description>
+    </item>
+    <item>
+      <title>年収1000万超えを目指すなら取っておきたい&amp;quot;5つのIT資格&amp;quot;</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2312/15/news039.html</link>
+      <pubDate>2023/12/15 12:01</pubDate>
+      <description>チャットAI「ChatGPT」などの開発で知られるOpenAIは、人間よりもはるかに賢いAIである「超知性」が2033年までの10年間で開発されると推測しています。しかし、超知性を確実に制御する方法は現状構築されていません。OpenAIでは「スーパーアライメントチーム」を立ち上げ、超知性を制御するための研究が行われており、その方法を解説しています。 WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION (PDFファイル)https://cdn.openai.com/papers/weak-to-strong-generalization.pdf Weak-to-strong generalization https://openai.com/research/weak-to-st</description>
+    </item>
+    <item>
+      <title>Solo AI Website Builder</title>
+      <link>https://soloist.ai/</link>
+      <pubDate>2023/12/14 11:36</pubDate>
+      <description>山名琢翔（筑波大学） オセロが解かれた？！　&amp;quot;Othello is Solved&amp;quot;というタイトルの論文がarXivに投稿されました$${^{☆1}}$$．オセロでは，初期局面から双方のプレイヤがミスをせずに打ち続ければ，終局結果は引き分けになると証明できたと言うのです． オセロを「解く」とはどういうことなのか．どうやって解いたのか．また，解かれた後のオセロはどうなるのか．この記事ではオセロを解くということについて解説します．なお，このarXivに投稿された論文&amp;quot;Othello is Solved&amp;quot;は記事執筆時点で査読や追試を経たものではないことに注意すべきです． オセロを「解く」とはどういうこと？　ゲーム情報学の分野では，ゲームを「解く」という行為がいくつか存在して，それぞれに名前がついています．具体的には強解決，弱解決，超弱解決の3種類です．論文本体の話題に入る前に，まずはオセロを解くと</description>
+    </item>
   </channel>
 </rss>
