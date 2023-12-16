@@ -16318,5 +16318,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3875ad2f6743daba682d6ab7bce18ab85f1031da/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1554%2F759%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>単一画像 → 3Dオブジェクト生成が現実に！ Stability AIが「Stable Zero123」を発表／「Stable Diffusion 1.5」がベース、3D生成には24GBのVRAMを推奨</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1554567.html</link>
+      <pubDate>2023/12/15 10:07</pubDate>
+      <description>GoogleのAI開発部門であるGoogle DeepMindが、大規模言語モデル(LLM)を利用して数理科学の未解決の問題を解決したり、新しい知見をもたらしたりすることができるAIシステム「FunSearch」を発表しました。Google DeepMindのデミス・ハサビスCEOは「FunSearchのブレークスルーに興奮しています」と語っています。 FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-</description>
+    </item>
+    <item>
+      <title>生成AIによる記事作成支援において、プロジェクトの各ステップで意識したポイントと、プロジェクトを通して得た気づき - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20231215</link>
+      <pubDate>2023/12/15 12:47</pubDate>
+      <description>元ネタ https://togetter.com/li/2097366 交通量調査を計画したり色々する仕事をしていたことがあったので補足したくなった。 すでに映像から車種別に台数カウントをすることはできていて、条件が揃えば良い精度が期待できる。ただ実際には次の理由から人間を使わざるを得ない場合がある。 ①高所にカメラを設置できない 精度の良し悪しはカメラアングルにかかっている。車を遮るものが映らないように高所から撮影する必要があるが、これがなかなか難しい。特に多車線道路の場合、普通の三脚だと高さが足りずまともな精度が出ない。電柱などにカメラを固定するにはその管理者に許可を取る必要があるが、手間がかかるしそもそも渋られる。 ②監視員が必要になる これは交通量調査を行う会社によるが、カメラへのイタズラや盗難を防ぐために監視員が必要。カメラ1台につき1人とまではいかなくても。高所からの撮影を実現</description>
+    </item>
+    <item>
+      <title>セキュリティ専門家、徳丸浩氏が考える「2024年の脅威予測」　生成AIの影響は</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/14/news175.html</link>
+      <pubDate>2023/12/14 18:51</pubDate>
+      <description>ホームGPU最新情報GeForce RTX 4000NVIDIA GeForce RTX 4070 Superは2024年1月17日発売。RTX 4070 Ti Superは1月24日、RTX 4080 Superは1月31日を予定 NVIDIA GeForce RTX 4070 Superは2024年1月17日発売。RTX 4070 Ti Superは1月24日、RTX 4080 Superは1月31日を予定 2023 12/15 NVIDIA GeForce RTX 4070 Superは2024年1月17日発売、続いてRTX 4070 Ti Superが1月24日、RTX 4080 Superが1月30日発売と毎週新モデル投入へ NVIDIAでは2024年1月はじめに開催されるCES2024近辺でGeForce RTX 4000 Superシリーズの発表を行うと見られていますが、中国</description>
+    </item>
   </channel>
 </rss>
