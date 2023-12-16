@@ -16267,5 +16267,29 @@
       <pubDate>2023/12/14 18:51</pubDate>
       <description>チャットAI「ChatGPT」などの開発で知られるOpenAIは、人間よりもはるかに賢いAIである「超知性」が2033年までの10年間で開発されると推測しています。しかし、超知性を確実に制御する方法は現状構築されていません。OpenAIでは「スーパーアライメントチーム」を立ち上げ、超知性を制御するための研究が行われており、その方法を解説しています。 WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION (PDFファイル)https://cdn.openai.com/papers/weak-to-strong-generalization.pdf Weak-to-strong generalization https://openai.com/research/weak-to-st</description>
     </item>
+    <item>
+      <title>機械学習を使った事業を成功させるために必要な考え方や人材、フェーズとは？ - Qiita</title>
+      <link>https://qiita.com/yoshizaki_91/items/55b67daa25b058f39a5d</link>
+      <pubDate>2023/12/16 10:02</pubDate>
+      <description>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うと、ランダムなスペースが他のユーザーに表示され個人情報の漏洩につながる可能性のあるバグがあります。詳細は以下から。 Appleは現地時間2023年12月11日、09月にリリースしたmacOS 14 Sonomaの2度目のアップデートとなる「macOS 14.2 Sonoma」を正式にリリースし、機械学習モデルを利用しPDF内に名前や連絡先の入力欄を見つけるとプレビューアプリで自動的に入力してくれる機能や、天気アプリやShazamの機能をアップデートしましたが、 デザインツールxScopeや旧TwitterクライアントTwitterrificなどを開発する米The IconfactoryのCraig HockenberryさんやTalos Tsulさんによると、このmacOS 14.2では画面共有を利用すると</description>
+    </item>
+    <item>
+      <title>トム・ハンクス「『いい人』という言葉には、軽蔑も混じっている」 | 子供代からAIのジレンマ、そして自身のイメージまで語り尽くす</title>
+      <link>https://courrier.jp/columns/347343/</link>
+      <pubDate>2023/12/16 06:43</pubDate>
+      <description>「AIは万能ではない」 正答率99％を本格導入の条件にした理由を三豊市に聞くと「ごみ出し案内は正確性が特に求められる。AIが間違った案内をしてしまうとその案内に基づいて行動した市民や収集業者などに迷惑が掛かる。職員でも即座に回答できない問い合わせはあるが、時間をいただき調べてから正確な情報を回答している」と話す。 「AIには少なくとも職員と同等のレベルを求め、それに達しない限り対市民向けとしては導入できないと考えた。また、AIがどのように回答したかを結局のところ職員が確認する作業が伴い、正答率が低ければそれだけ確認する頻度も上げなければならない。100％は無理としても99％は譲れない条件だった」（三豊市） 今回の実証実験を経て、率直な感想を三豊市に聞くと「AIは万能ではないということが分かった」と語る。 「市役所業務の中で、1番の懸念である個人情報漏えいの恐れがなく、かつ市民の利便性が高い</description>
+    </item>
+    <item>
+      <title>DropboxユーザーのデータをOpenAIと共有する機能がデフォルトで有効になっているとの指摘で大炎上、実際はAI機能利用者のみ</title>
+      <link>https://gigazine.net/news/20231215-dropbox-ai-privacy/</link>
+      <pubDate>2023/12/15 13:38</pubDate>
+      <description>「AIとビジネス」をテーマに、業種業態、部署の垣根を超え、産業を活性化するヒントを得るためのビジネスカンファレンス「Gen AI EXPO」（主催：弁護士ドットコム株式会社）。今回は、生成AIのエヴァンジェリストとして活躍し、「深津式プロンプト」を編み出し世に広めた深津貴之氏が登壇した特別セッション「ChatGPT活用術」の模様をお伝えします。プロンプトエンジニアリングで稼げない2つの理由や、人間の脳と同レベルのAIが誕生するタイミングなどが語られました。 前回の記事はこちら AIが進化する中で人間が身につけるべきスキル 田上嘉一氏（以下、田上）：どんどん変わっていくので、僕なんかは追いつけないんですけども。AIが進化して自分の壁打ち相手から分身まで至った時に、今後、我々人間はどういったことが必要なのか、どういったスキルを身につけていくのがいいんでしょうかね。 深津貴之氏（以下、深津）：ま</description>
+    </item>
+    <item>
+      <title>あらゆるサービスの解約情報が募る「解約.com」を作りました</title>
+      <link>https://zenn.dev/bannzai/articles/1eda9a5158b3d9</link>
+      <pubDate>2023/12/15 13:59</pubDate>
+      <description>GoogleのAI開発部門であるGoogle DeepMindが、大規模言語モデル(LLM)を利用して数理科学の未解決の問題を解決したり、新しい知見をもたらしたりすることができるAIシステム「FunSearch」を発表しました。Google DeepMindのデミス・ハサビスCEOは「FunSearchのブレークスルーに興奮しています」と語っています。 FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-</description>
+    </item>
   </channel>
 </rss>
