@@ -16468,5 +16468,17 @@
       <pubDate>2023/12/16 15:23</pubDate>
       <description>Twitchは12月16日、同社の運営する配信プラットフォームのコミュニティガイドラインを改正。ヌードを含むコンテンツについて、新たに「リアルでもフィクションでも」配信禁止とした。先日12月14日におこなわれた改正によりヌードを含む制作物がコンテンツ分類ラベル付きで配信可能になった点に対して、コミュニティやTwitch側の懸念が生じたことが今回の改正に繋がったそうだ。 We’re making some additional updates to our Sexual Content Policy. We realize that our earlier update caused confusion and appreciate all the feedback we’ve received. Thanks for always coming together with us to he</description>
     </item>
+    <item>
+      <title>プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains</title>
+      <link>https://www.publickey1.jp/blog/23/aigithubawsgooglegitlabjetbrains.html</link>
+      <pubDate>2023/12/18 03:46</pubDate>
+      <description>この記事はラクスアドベントカレンダー2の17日目です。 先日のVSCodeのアップデートで、GitHub Copilotを使うとターミナル操作が便利になりました。 これにより、別途ターミナルのアプリを使わずにすべてVSCode上で操作した方が便利なのでは？となりました。 アップデート前までどうしてたか MacのiTerm2上で、GitHub CopilotのCLI版（パブリックベータ）で入力補完やコマンドの意味を調べたりしていました。 それ自体は便利でしたが、いくつかの不便な点もありました。 使い方がちょっと煩雑だった 例えばコマンドをサジェストして欲しい場合、gh copilot suggest &amp;#39;gitで1つ前のコミットを取り消したい&amp;#39;のようにタイプする文字数も多くなり、またそれが一般的なコマンド or ghコマンド or gitコマンドかの３択に答えるないといけなくて面倒でした。 s</description>
+    </item>
+    <item>
+      <title>Twitchにて「ヌード表現のアート」はやっぱり配信禁止に。AIが生成すると実写と区別がつかないから - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20231216-276339/</link>
+      <pubDate>2023/12/16 13:13</pubDate>
+      <description>キジバト（鳩通信班） @kijibato_hato 🕊軍用鳩好き。リプ、いいねは気まぐれ／欲しい物リスト amzn.to/2QINk2E／note note.com/kijibato_hato／BOOTH kijibato-hato.booth.pm／Web fujimotoyasuhisa.sakura.ne.jp／アマゾンアソシエイトリンク利用 youtube.com/channel/UCH8ZI… キジバト（鳩通信班） @kijibato_hato 完全に頭のおかしいステーキ屋を発見する。自転車に乗って草加の辺りを走っていたら、税込1000円でステーキが食べられ、ご飯、おみそ汁などがおかわり自由などと書いてある看板を見かける。嘘だろ、と思って入店したら、本当だった。画像には写っていないが、ほかにトトロ、野沢菜の漬け物も食べ放題。 pic.twitter.com/8CAZrO0Ofv</description>
+    </item>
   </channel>
 </rss>
