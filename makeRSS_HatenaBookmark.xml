@@ -16414,5 +16414,35 @@
       <pubDate>2023/12/14 00:01</pubDate>
       <description>香川県三豊市は、今年6月から東京大学大学院と実証実験を進めてきた「チャットGPT」を使ったゴミ出し案内の導入を断念すると発表しました。三豊市では、東京大学大学院工学系研究科の松尾研究室と協力して、今年6…</description>
     </item>
+    <item>
+      <title>激安オトクなステーキ屋を伝えるツイートの「トトロ食べ放題」が激バズ イラストやAI絵が作られる展開へ</title>
+      <link>https://togetter.com/li/2277479</link>
+      <pubDate>2023/12/17 08:44</pubDate>
+      <description>11月17日の正午ごろ、OpenAIのCEOであるサム・アルトマンはラスベガスの高級ホテルからビデオ通話にログインした。彼は、リアーナやカイリー・ミノーグを含む31万5000人の来場者を集めた初開催のF1レースのためにラスベガスを訪れていた。 OpenAIのチャットボット「ChatGPT」の成功によってハイテク業界にとどまらないスターダムに上り詰めたアルトマンは、その日、同社のチーフ・サイエンティスト、イリヤ・サツキバーとのミーティングを控えていた。しかし通話が始まると、アルトマンはサツキバーが1人ではなく、事実上OpenAIの3人の社外理事に囲まれているのを見た。 即座に、アルトマンは何かがおかしいと感じた。 クビ直後に即座に「方針転換」 アルトマンは知らなかったが、サツキバーと3人の理事は、何カ月も彼の背後でひそひそ話をしていたのだ。彼らは、アルトマンは不誠実であり、AIレースを牽引す</description>
+    </item>
+    <item>
+      <title>言語モデルはどのようにして知識を蓄えているのか？ 関連文献の紹介</title>
+      <link>https://zenn.dev/ohtaman/articles/lm_knowledge</link>
+      <pubDate>2023/12/16 15:49</pubDate>
+      <description>IntelがCore Ultraプロセッサを発売したことに合わせて、Lenovoが「ThinkPad X1ファミリー」の2024年モデルを発表した。AI PCであることはもちろんなのだが、長年のThinkPadユーザーには“見逃せない“見逃せない変化もある。</description>
+    </item>
+    <item>
+      <title>週刊Railsウォッチ: Rails 7.1で「Apple でサインイン」を実装、JetBrains AIほか（20231215後編）｜TechRacho by BPS株式会社</title>
+      <link>https://techracho.bpsinc.jp/hachi8833/2023_12_15/137726</link>
+      <pubDate>2023/12/15 17:42</pubDate>
+      <description>こんにちは、CTOの森です。 本記事はiimonアドベントカレンダー16日目の記事となります。 普段機械学習を使うことは無いのですが、勉強も兼ねてCloudFrontのログを機械学習させてみたらどうなるのか試してみました。 検証した環境 ログデータの形式 使用したログデータのフィールド 分析までの手順 正しくデータを読み込む 学習できる形式に変換 method result_type path_num path_0 ~ path_4 query_num query_len sc-status time-to-first-byte 学習 元のデータと結合 CSVファイルに出力 コード全体 分析結果 (比較的)うまくいった結果 うまくいかなかった結果 参照したサイト まとめ 最後に 今回ログデータをIsolation Forestという手法を用いて分析してみました。Isolation Fore</description>
+    </item>
+    <item>
+      <title>文章・画像の次は生成AI動画、「Runway」が爆速進化</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02678/120600005/</link>
+      <pubDate>2023/12/15 15:50</pubDate>
+      <description>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うと、ランダムなスペースが他のユーザーに表示され個人情報の漏洩につながる可能性のあるバグがあります。詳細は以下から。 Appleは現地時間2023年12月11日、09月にリリースしたmacOS 14 Sonomaの2度目のアップデートとなる「macOS 14.2 Sonoma」を正式にリリースし、機械学習モデルを利用しPDF内に名前や連絡先の入力欄を見つけるとプレビューアプリで自動的に入力してくれる機能や、天気アプリやShazamの機能をアップデートしましたが、 デザインツールxScopeや旧TwitterクライアントTwitterrificなどを開発する米The IconfactoryのCraig HockenberryさんやTalos Tsulさんによると、このmacOS 14.2では画面共有を利用すると</description>
+    </item>
+    <item>
+      <title>LangChain は LLM アプリケーションの開発に採用すべきではない</title>
+      <link>https://zenn.dev/kurarrr/articles/c001548c981aca</link>
+      <pubDate>2023/08/25 16:45</pubDate>
+      <description>データ分析もChatGPTの機能（旧Code Interpreter）でできるか、やったみた【番外編】：AI・データサイエンス超入門 ChatGPTの「高度データ分析」機能がデータサイエンスを変える？　素人でも簡単にデータ分析ができるようになるのか？　筆者が実際に挑戦し、実体験に基づく感想と洞察をお届けします。連載の流れとは関係がない番外編です。</description>
+    </item>
   </channel>
 </rss>
