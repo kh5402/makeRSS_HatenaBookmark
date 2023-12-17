@@ -16381,5 +16381,11 @@
       <pubDate>2023/12/13 06:11</pubDate>
       <description>Googleは2023年12月6日、文字・音声・画像を同時に処理できるマルチモーダルAI「Gemini」を発表しました。現地時間の12月13日、Geminiのミドルモデルである「Gemini Pro」がAPIを介してアクセス可能となり、開発者や企業が独自のユースケース向けに構築できるようになりました。 Google Gemini API: New developer and enterprise AI products https://blog.google/technology/ai/gemini-api-developers-cloud/ Google: Gemini API, Imagen 2, Duet AI and more updates https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-upd</description>
     </item>
+    <item>
+      <title>Amazon EC2 Inf2 instances, optimized for generative AI, now available globally</title>
+      <link>https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/</link>
+      <pubDate>2023/12/14 09:46</pubDate>
+      <description>大規模言語モデルに 追加学習で専門知識を教える試み Teaching Specific Scientific Knowledge into Large Language Models through Additional Training Kan Hatakeyama • arXiv:2312.03360, 2023/12/7 • https://github.com/KanHatakeyama/Additional-training-Llama2 • https://huggingface.co/datasets/kanhatakeyama/nature-family-CCpapers 1 https://arxiv.org/abs/2312.03360 https://github.com/KanHatakeyama/Additional-training-Llama2 https:/</description>
+    </item>
   </channel>
 </rss>
