@@ -16354,5 +16354,17 @@
       <pubDate>2023/12/16 15:13</pubDate>
       <description>はじめに みなさま、初めましての方もご無沙汰しておりますという方も、株式会社キカガク代表の吉崎（twitter:@yoshizaki_kkgk）です。 ちょうど１年ほど前に失敗して泣きながらこんな記事を書き、多くの方から反響をいただきました。 Qiita: 機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて こちらの記事は2018/10/25現在、1118いいねをいただけるモンスター記事となりました。 いま思うと、契約に関する素人感丸出しの記事ですが、まだまだ黎明期のこの分野にとっては共感していただけるような内容だったのだと嬉しく思います。 この記事が関係あるかないかわかりませんが、これ以降、契約周りの話であったり、機械学習のモデルではなくプロジェクトとしての進め方の書籍や記事を2018年は多く見かけるようになりました。 まさに、技術から事業化への一歩を踏み出した１年であっ</description>
     </item>
+    <item>
+      <title>【山田祥平のRe:config.sys】 作る側も半信半疑で暗中模索、パソコンの新しい使い道</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/config/1555137.html</link>
+      <pubDate>2023/12/16 17:00</pubDate>
+      <description>近年では、Wi-Fiの電波を用いて壁の向こうの人物の動きをモデル化したり、動作から人物を識別したりする技術の開発が盛んに行われています。しかし、アルバータ大学のアンドリュー・ウォルシュ教授は、これらの研究に対して「時系列データの取扱い方を誤っている」と指摘しています。 Researchers Misrepresenting the Capability of Human Pose Estimation from WiFi Channel Strength Indicators | by Andrew Walsh MD. PhD. | Medium https://medium.com/@tsardoz/researchers-misrepresenting-the-capability-of-human-pose-estimation-from-wifi-channel-strength-</description>
+    </item>
+    <item>
+      <title>CloudFrontのログを使って機械学習で異常検知を試してみた - iimon tech blog</title>
+      <link>https://tech.iimon.co.jp/entry/2023/12/16/175242</link>
+      <pubDate>2023/12/16 17:55</pubDate>
+      <description>Izumo Shrine, Izumo, Japan 1.4/50 Summilux ASPH, LEICA M (Typ 240) 気がついたら年末。半年もブログ更新ができていない*1。その上、最近、色々な場で人に色々聞かれるたびに思うことが随分と多い。澱（おり）のようにためておくのもどうかと思われ、色々書き出すモメンタムになればと少し書けたらと思う。 - 毎週何回か登壇、取材が続いているが、このところ、繰り返し聞かれることがいくつかある。 LLMによって仕事はなくなるんですか？ 今後AIでどんな仕事がなくなるんでしょうか？ OpenAI &amp;amp; Microsoft、Google/DeepMindのglobal big playersがガンガンとやる中、日本はなにかやれることはあるんですか Pivotなどで言われていた物魂電才について教えてください。 今後の学校教育はどうあるべきですか？（３</description>
+    </item>
   </channel>
 </rss>
