@@ -16528,5 +16528,11 @@
       <pubDate>2023/12/18 08:13</pubDate>
       <description>画像生成AIの存在はすでに当たり前のものになりつつあります。広告やメディアに掲載されているイラストや写真のほか、私たちが普段使っている検索エンジンやブラウザにも搭載されるようになり、気軽に新しい画像を作れるようになりました。このような画像生成AIの急速な普及の背景にあるのが、画像生成AIの学習モデルに採用された「拡散モデル」の存在です。現在、ほとんどの画像生成AIサービスに採用されている「Stable Diffusion」もこの拡散モデルの1つです。本記事では、拡散モデルとは何か、仕組みや事例についてやさしく解説していきます。 合同会社Noteip代表。ライター。米国の大学でコンピューターサイエンスを専攻し、卒業後は国内の一部上場企業でIT関連製品の企画・マーケティングなどに従事。退職後はライターとして書籍や記事の執筆、WEBコンテンツの制作に関わっている。人工知能の他に科学・IT・軍事・</description>
     </item>
+    <item>
+      <title>FunSearch: Making new discoveries in mathematical sciences using Large Language Models</title>
+      <link>https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/</link>
+      <pubDate>2023/12/15 10:36</pubDate>
+      <description>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うと、ランダムなスペースが他のユーザーに表示され個人情報の漏洩につながる可能性のあるバグがあります。詳細は以下から。 Appleは現地時間2023年12月11日、09月にリリースしたmacOS 14 Sonomaの2度目のアップデートとなる「macOS 14.2 Sonoma」を正式にリリースし、機械学習モデルを利用しPDF内に名前や連絡先の入力欄を見つけるとプレビューアプリで自動的に入力してくれる機能や、天気アプリやShazamの機能をアップデートしましたが、 デザインツールxScopeや旧TwitterクライアントTwitterrificなどを開発する米The IconfactoryのCraig HockenberryさんやTalos Tsulさんによると、このmacOS 14.2では画面共有を利用すると</description>
+    </item>
   </channel>
 </rss>
