@@ -16534,5 +16534,35 @@
       <pubDate>2023/12/15 10:36</pubDate>
       <description>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うと、ランダムなスペースが他のユーザーに表示され個人情報の漏洩につながる可能性のあるバグがあります。詳細は以下から。 Appleは現地時間2023年12月11日、09月にリリースしたmacOS 14 Sonomaの2度目のアップデートとなる「macOS 14.2 Sonoma」を正式にリリースし、機械学習モデルを利用しPDF内に名前や連絡先の入力欄を見つけるとプレビューアプリで自動的に入力してくれる機能や、天気アプリやShazamの機能をアップデートしましたが、 デザインツールxScopeや旧TwitterクライアントTwitterrificなどを開発する米The IconfactoryのCraig HockenberryさんやTalos Tsulさんによると、このmacOS 14.2では画面共有を利用すると</description>
     </item>
+    <item>
+      <title>これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開</title>
+      <link>https://ascii.jp/elem/000/004/175/4175960/</link>
+      <pubDate>2023/12/18 15:35</pubDate>
+      <description>日本のAI戦略の論点 元榮太一郎氏（以下、元榮）：最後に、日本の企業が今なすべきことは何なのかということについて。松尾さんは、AI戦略会議で座長もされているので、日本が何をすべきかというところの前のルールメイキングなどを議論されているところだと思いますが。現時点における論点や方向性みたいなものを簡単にお話しいただけますか。 松尾豊氏（以下、松尾）：これも資料を見ていただければと思いますけども。AI戦略会議で暫定的な論点整理を出していまして、大きく3つあります。 まず、リスクへの対応として、例えば個人情報、機密情報の扱いや、著作権、知財についての扱い。こういったものをどうしていくかを議論しないといけないし、そこに懸念をお持ちの方がおられるので、しっかり対応していかないといけません。 2つ目がAIの利用で、AIを使って生産性をあげる必要があるのでどんどん使っていきましょうと。国が先頭を切って使</description>
+    </item>
+    <item>
+      <title>マイクロソフトの生成AIに関する話題を“てんこ盛り”で提供――Microsoft Ignite Japan</title>
+      <link>https://cloud.watch.impress.co.jp/docs/event/1554998.html</link>
+      <pubDate>2023/12/18 07:20</pubDate>
+      <description>11月27日、中国の北京インターネット裁判所で出された判決は衝撃的でした。なんと画像生成AI「Stable Diffusion」で作られたイラストの著作物性が認められたんです。「春風がそよ風を送る」と名付けられたAI画像につけられたウォーターマークを消して商売に使ったことは著作権を侵害しているとして、被告に対して500元（約1万円）の賠償金を払うよう命じています。 判決について、中国語の資料をジャック・ランランさんという方が翻訳して公開されているんですが、非常に驚くところもあれば、「ああなるほど」と理解できるところもありました。 AIイラストは「独創的」な「知的創造の成果」？ まず、判決としてはかなり大胆なことを言っています。 「中華人民共和国著作権法 第3条は、『この法律にいう「著作物」とは、文学的、美術的、および学術の分野における独創性を有し、かつ、一定の形式をもって表現することができ</description>
+    </item>
+    <item>
+      <title>Gemini搭載の「Google Bard」、ChatGPTとの違いと使い方 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2312what-is-google-bard-ai-chatbot/</link>
+      <pubDate>2023/12/16 23:55</pubDate>
+      <description>Summilux 1.4/50 ASPH, Leica M10P @Chinkokuji Temple, Munakata, Japan 昨日のLLM（large language model 大規模言語モデル）議論の続きをもう少し書いてみようと思う。 kaz-ataka.hatenablog.com DS協会のスキル定義委員会ではIPAと協働し、2年に一度、データサイエンティストのスキル標準を見直し、改訂版を発表している*1。今年は奇しくも改訂年だったのだが、この春、わずか数ヶ月前に華々しく登場したChatGPTを目の前にしつつ、生成AI領域においてデータ×AIプロフェッショナル（データサイエンティスト DS）の場合、求められるスキルはどうかわるのか、という議論を随分とした。 データサイエンティスト協会 10thシンポジウム スキル定義委員会発表資料（2023年10月20日） 生成AIは</description>
+    </item>
+    <item>
+      <title>Googleの新たなAIモデル「Gemini」はChatGPTより優れているのか？ | TEXAL</title>
+      <link>https://texal.jp/2023/12/16/is-googles-new-ai-model-gemini-superior-to-chatgpt/</link>
+      <pubDate>2023/12/16 16:26</pubDate>
+      <description>Twitchは12月16日、同社の運営する配信プラットフォームのコミュニティガイドラインを改正。ヌードを含むコンテンツについて、新たに「リアルでもフィクションでも」配信禁止とした。先日12月14日におこなわれた改正によりヌードを含む制作物がコンテンツ分類ラベル付きで配信可能になった点に対して、コミュニティやTwitch側の懸念が生じたことが今回の改正に繋がったそうだ。 We’re making some additional updates to our Sexual Content Policy. We realize that our earlier update caused confusion and appreciate all the feedback we’ve received. Thanks for always coming together with us to he</description>
+    </item>
+    <item>
+      <title>画像生成AI「Stable Diffusion Turbo」など、月額20ドルで商用利用OKに。Stability AI、新メンバーシップ開始</title>
+      <link>https://ascii.jp/elem/000/004/175/4175674/</link>
+      <pubDate>2023/12/15 17:30</pubDate>
+      <description>はじめに みなさま、初めましての方もご無沙汰しておりますという方も、株式会社キカガク代表の吉崎（twitter:@yoshizaki_kkgk）です。 ちょうど１年ほど前に失敗して泣きながらこんな記事を書き、多くの方から反響をいただきました。 Qiita: 機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて こちらの記事は2018/10/25現在、1118いいねをいただけるモンスター記事となりました。 いま思うと、契約に関する素人感丸出しの記事ですが、まだまだ黎明期のこの分野にとっては共感していただけるような内容だったのだと嬉しく思います。 この記事が関係あるかないかわかりませんが、これ以降、契約周りの話であったり、機械学習のモデルではなくプロジェクトとしての進め方の書籍や記事を2018年は多く見かけるようになりました。 まさに、技術から事業化への一歩を踏み出した１年であっ</description>
+    </item>
   </channel>
 </rss>
