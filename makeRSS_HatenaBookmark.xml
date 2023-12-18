@@ -16627,5 +16627,23 @@
       <pubDate>2023/12/15 17:18</pubDate>
       <description>近年では、Wi-Fiの電波を用いて壁の向こうの人物の動きをモデル化したり、動作から人物を識別したりする技術の開発が盛んに行われています。しかし、アルバータ大学のアンドリュー・ウォルシュ教授は、これらの研究に対して「時系列データの取扱い方を誤っている」と指摘しています。 Researchers Misrepresenting the Capability of Human Pose Estimation from WiFi Channel Strength Indicators | by Andrew Walsh MD. PhD. | Medium https://medium.com/@tsardoz/researchers-misrepresenting-the-capability-of-human-pose-estimation-from-wifi-channel-strength-</description>
     </item>
+    <item>
+      <title>TikTokの親会社ByteDanceがこっそりChatGPTをパクっていたことが発覚、OpenAIは速攻でByteDanceアカウントをBAN</title>
+      <link>https://gigazine.net/news/20231218-bytedance-china-openai-project-seed/</link>
+      <pubDate>2023/12/18 12:34</pubDate>
+      <description>この記事はエムスリーAdvent Calendar 2023の18日目の記事です。 AI・機械学習チームの高田です。 AI・機械学習チームではデータパイプラインを構築する機会が多く、パイプラインの中でpandasを活用しています。 今回はpandasのSeries型を扱う関数の単体テストにMagicMockを使った際にハマったポイントを紹介したいと思います。 Series.mapの活用例 単体テスト 何が起きているのか 修正結果 おわりに We are hiring!! Series.mapの活用例 データの前処理工程ではDataFrameやSeriesの値を利用して別のSeriesを作成することが多くあります。 例えばアンケートの自由記述回答のうち、一定の文字数以上のデータのみ扱うために、テキストデータのSeriesから文字列長のSeriesを作成する場合が考えられます。 Seriesか</description>
+    </item>
+    <item>
+      <title>ChatGPTまではわかるけど、その先はちょっと苦手な経営者…　伊藤穰一氏と松尾豊氏が語る、AI時代のトップに必要な姿勢</title>
+      <link>https://logmi.jp/business/articles/329813</link>
+      <pubDate>2023/12/18 12:31</pubDate>
+      <description>ChatGPTやMicrosoftのCopilot(Bing Chat)は、人間の言葉に対して自然な言葉を返すことができるチャットサービスです。そんなサービスを「正しい情報を引き出すためのツール」と見なして調査した団体が、政治についての情報をCopilotに尋ねるべきではないとの報告書を公開しました。 Prompting Elections: The Reliability of Generative AI in the 2023 Swiss and German Elections https://aiforensics.org/work/bing-chat-elections Microsoft’s Bing AI gives false election info in Europe, study finds - The Washington Post https://www.was</description>
+    </item>
+    <item>
+      <title>PythonでGemini APIを利用する方法</title>
+      <link>https://self-development.info/python%E3%81%A7gemini-api%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>2023/12/15 20:59</pubDate>
+      <description>Stability AIは12月14日（現地時間）、これまでオープンソースで提供してきた同社のAIモデルに対し、新たな「Stability AI Membership」を発表した。メンバーシップは非商用、プロフェッショナル、エンタープライズの3種類用意されており、非商用の場合は引き続き無料で全モデルにアクセスできる。 プロフェッショナルは月額20ドル 3つのプランは下記の通り。 ●非商用（Non-Commercial） 個人利用と研究用途に無料で提供され、全てのコアモデルへのアクセスが可能。 ●プロフェッショナル（Professional） 月額20米ドル（およそ2840円）。クリエーター、開発者、スタートアップ向けに提供され、商業用途での自己ホストモデルへのアクセスが含まれる。割引制度もあり​​。 ●エンタープライズ（Enterprise） 大企業向け。プロフェッショナル層の利点に加え、</description>
+    </item>
   </channel>
 </rss>
