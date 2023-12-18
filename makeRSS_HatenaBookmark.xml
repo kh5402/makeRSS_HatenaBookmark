@@ -16681,5 +16681,44 @@
       <pubDate>2023/12/16 12:34</pubDate>
       <description>アニメ・マンガの界隈では引き続き混乱が続く生成AI。そもそも人はAIとどう向き合うべきなのか？　『AIの倫理リスクをどうとらえるか：実装のための考え方』リード・ブラックマン（白揚社）の翻訳者・小林啓倫さんにうかがいました 〈〈後編はこちら〉 AIと向き合うためのカギは「倫理」 AI関連サービスの急速な普及が、さまざまな混乱を巻き起こしている。本連載が扱う、マンガ・アニメの領域でも、たとえばpixivは「FANBOX」でのAI利用を禁止し、定番ツール「CLIP STUDIO PAINT」ではユーザーの反発を受けて、導入予定だったAIパレットの実装を取りやめるに至っている。 アニメ業界でも生産性の向上への期待がある一方、拒絶反応も大きいのが実情だ。技術以前に「AIとどう向き合うべきか」という倫理が問われている状況のなか、注目の書籍『AIの倫理リスクをどうとらえるか：実装のための考え方』リード・</description>
     </item>
+    <item>
+      <title>AMDのAI特化型チップ「MI300X」がNVIDIA製チップ「H100」と同等の環境で最大2.1倍のパフォーマンス性能を発揮したことが報告される</title>
+      <link>https://gigazine.net/news/20231218-amd-mi300x-nvidia-h100-compare/</link>
+      <pubDate>2023/12/18 21:10</pubDate>
+      <description>年末が近づくとABEMAからウキウキで発表されるアニメ「School Days」の一挙配信が今年も決定。12月24日18時50分から全話無料一挙配信されます。8年連続8回目……安定と実績の聖夜クラッシャーだ。 イブに「School Days」一挙配信するABEMA（8年連続8回目） 一挙配信→絶望する人続出→8年欠かさず続けるABEMA アニメ「School Days」は、主人公の男子高校生・伊藤誠と、メインヒロインの西園寺世界、桂言葉の複雑な三角関係を中心に描いた学園恋愛ストーリー。作品の後半にかけて己の欲望をフル稼働させる誠のクズっぷりと、多くの人にトラウマを植え付けた最終回の結末が話題となり、放送から16年が経過した現在でも“鬱アニメ”の代表格として定評のある作品です。 ABEMAでは同アニメを2016年からクリスマスの時期に一挙配信。当初からネットでは「Abema正気か……？」「ク</description>
+    </item>
+    <item>
+      <title>EdgeやChromeで「ChatGPT」を使うときに入れるべき拡張機能4選</title>
+      <link>https://ascii.jp/elem/000/004/175/4175912/</link>
+      <pubDate>2023/12/18 12:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ea5c97a1e736418fe0c57b663f89c2d305d1db40/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1555%2F288%2F0689.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「Copilot in Edge」が開発者ツールと連携、AIがエラーの内容やコードの意味を解説／「Edge 120」から実験搭載</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1555483.html</link>
+      <pubDate>2023/12/18 15:57</pubDate>
+      <description>2023年12月10日から16日にかけて行われた機械学習と計算論的神経科学のカンファレンスイベント「NeurIPS」において、シドニー工科大学の研究チームによる「生の脳波を直接言語に翻訳する」という大規模言語モデル「BrainGPT」の論文が注目論文として選出されました。 New Mind-Reading &amp;quot;BrainGPT&amp;quot; Turns Thoughts Into Text On Screen | IFLScience https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054 実際に人間の考えを読み取る実験を行った際の様子がYouTube上で公開されています。 UTS HAI Research - BrainGPT - YouTube BrainGPTはMRI</description>
+    </item>
+    <item>
+      <title>なぜ、プログラミングは役に立つのか</title>
+      <link>https://wirelesswire.jp/2023/12/85778/</link>
+      <pubDate>2023/12/18 11:08</pubDate>
+      <description>by Solen Feyissa 中国の大手IT企業であるByteDanceは以前、ユーザーの好みにピッタリな動画を見つけるTikTokのアルゴリズムで世界的なAIのリーディングカンパニーとなりましたが、OpenAIの台頭により生成AIの分野で後れを取っています。独自の生成AI「豆包(Doubao)」で巻き返しを図るByteDanceが、利用規約に違反する形でOpenAIのAPIを使用し、「Project Seed」という名称で大規模言語モデル(LLM)を開発していたことが内部文書から明らかになったと、IT系ニュースサイトのThe Vergeが報じました。 ByteDance is secretly using OpenAI’s tech to build a competitor - The Verge https://www.theverge.com/2023/12/15/240031</description>
+    </item>
+    <item>
+      <title>「伝説」のエンジニアのジム・ケラー氏、GPUの次探る　NVIDIAに対抗へ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN120G60S3A211C2000000/</link>
+      <pubDate>2023/12/18 03:00</pubDate>
+      <description>【概要】 『UI設計』についてです。 経緯は、筆者が初めてアプリの実装を行った際にUI設計が杜撰だったことが原因です。 また、最近にデジタル庁のサイトの記事を閲覧し、UI設計に興味を持ったことから体系的に学びたいと思いました。 本記事ではUI設計の考え方や実装方法など1記事で完結的に説明できるように考察していきたいと思います。 ※ 筆者は、駆け出しエンドエンジニアである為、知識が浅い部分もあると思います。間違い等ある場合はご指摘等いただけると幸いです。また、初心者のためのUI設計になりますので、より専門的に深めたい方は書籍などをご利用ください。 【対象者】 ・UIデザインを0から体系的に学びたい人 ・バックエンドエンジニアで個人アプリのUIを向上させたい人 ・フルスタックな開発を意識している人 【目次】 (下記、全体に一度目を通してから作業することをお勧めします。) ・【概要】 ・【対象者</description>
+    </item>
+    <item>
+      <title>機械学習の落とし穴 リーク問題について - ABEJA Tech Blog</title>
+      <link>https://tech-blog.abeja.asia/entry/advent-2023-day15</link>
+      <pubDate>2023/12/17 01:23</pubDate>
+      <description>Published 2023/12/16 21:01 (JST) Updated 2023/12/16 21:17 (JST) 政府が人工知能（AI）開発に携わる企業や団体に点検を求めるチェックリストの概要が16日、分かった。AI開発時に偽情報対策を実施し、差別や偏見を拡散するリスクを検証するなど計25項目程度を列挙。政府が年内に固めるAIガイドライン（指針）の最終案に盛り込む。 AI開発企業や団体はリストに沿って自ら課題を洗い出し、順守状況を定期的に確認する。AI指針が掲げる「人間中心」「公平性」など10の原則の実効性を確保。AIが国民の権利を侵害したり、社会を混乱させたりする危険を抑制する。 生成AIはインターネットの膨大な文章や画像などのデータを学習し、利用者の指示に基づいて文章や画像を生成している。AIの学習データに人種や性別、職業などに関する偏見や差別が表れていないかどうかを点検</description>
+    </item>
   </channel>
 </rss>
