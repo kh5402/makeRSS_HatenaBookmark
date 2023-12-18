@@ -16480,5 +16480,29 @@
       <pubDate>2023/12/16 13:13</pubDate>
       <description>キジバト（鳩通信班） @kijibato_hato 🕊軍用鳩好き。リプ、いいねは気まぐれ／欲しい物リスト amzn.to/2QINk2E／note note.com/kijibato_hato／BOOTH kijibato-hato.booth.pm／Web fujimotoyasuhisa.sakura.ne.jp／アマゾンアソシエイトリンク利用 youtube.com/channel/UCH8ZI… キジバト（鳩通信班） @kijibato_hato 完全に頭のおかしいステーキ屋を発見する。自転車に乗って草加の辺りを走っていたら、税込1000円でステーキが食べられ、ご飯、おみそ汁などがおかわり自由などと書いてある看板を見かける。嘘だろ、と思って入店したら、本当だった。画像には写っていないが、ほかにトトロ、野沢菜の漬け物も食べ放題。 pic.twitter.com/8CAZrO0Ofv</description>
     </item>
+    <item>
+      <title>人類に希望をもたらす2023年の医学的ブレイクスルー7選</title>
+      <link>https://natgeo.nikkeibp.co.jp/atcl/news/23/121300627/</link>
+      <pubDate>2023/12/18 07:00</pubDate>
+      <description>プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains AIがプログラミングを支援してくれるサービスが主要各社から出揃いました。 Publickeyではこれまで各社の発表時点でそれぞれのサービスを紹介してきましたが、ここであらためて主要各社のプログラミング支援AIサービスをまとめます。 本記事では、各AIサービスごとの主な機能などをリストアップしています。ただし、実際にはAIに指示などをすれば品質の差異はあれどおそらく何らかの結果は返ってくるであろうこと、この分野は急速に進化していて各社とも積極的な能力向上と機能追加を行っていくであろうことから、現時点で機能差はあったとしてもそれほど顕著な違いとは言えないでしょう。 そして、おそらくは今後各社のコード生成関連のAIの能力はある程度十分な高さまで急速に到達し</description>
+    </item>
+    <item>
+      <title>敵対的プロンプト技術まとめ - Qiita</title>
+      <link>https://qiita.com/fuyu_quant/items/d9a44dfe3a7315f255ee</link>
+      <pubDate>2023/12/18 00:20</pubDate>
+      <description>この記事はラクスアドベントカレンダー2の17日目です。 先日のVSCodeのアップデートで、GitHub Copilotを使うとターミナル操作が便利になりました。 これにより、別途ターミナルのアプリを使わずにすべてVSCode上で操作した方が便利なのでは？となりました。 アップデート前までどうしてたか MacのiTerm2上で、GitHub CopilotのCLI版（パブリックベータ）で入力補完やコマンドの意味を調べたりしていました。 それ自体は便利でしたが、いくつかの不便な点もありました。 使い方がちょっと煩雑だった 例えばコマンドをサジェストして欲しい場合、gh copilot suggest &amp;#39;gitで1つ前のコミットを取り消したい&amp;#39;のようにタイプする文字数も多くなり、またそれが一般的なコマンド or ghコマンド or gitコマンドかの３択に答えるないといけなくて面倒でした。 s</description>
+    </item>
+    <item>
+      <title>『社員の成長は必要ないし、成長させようとも思わない』という会社の話。</title>
+      <link>https://blog.tinect.jp/?p=84603</link>
+      <pubDate>2023/12/15 08:23</pubDate>
+      <description>大規模な内部不正やランサムウェア攻撃など、さまざまなセキュリティインシデントが起きた2023年。2024年、サイバー攻撃はどのように変わるのか、セキュリティ専門家の徳丸浩氏が12月14日のメディア向け勉強会で考えを示した。 大規模な内部不正やランサムウェア攻撃など、さまざまなセキュリティインシデントが起きた2023年。2024年、サイバー攻撃はどのように変わるのか、セキュリティ専門家の徳丸浩氏が12月14日のメディア向け勉強会で考えを示した。同氏はトピックとしてランサムウェアや生成AIを挙げたが、総体としては「あまり大きな変化はないのではないか」とした。 ランサムウェアについては、防御側に大きな変化が見られないことから、攻撃側も新たな手法を見つける必要がなく、革新的な手口がすぐに出てくることはないだろうとした。 「古い手口が使えるうちは古い手口のほうがいい。新しい手口を見せるとそれだけ早く</description>
+    </item>
+    <item>
+      <title>The power of prompting</title>
+      <link>https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/</link>
+      <pubDate>2023/12/13 05:44</pubDate>
+      <description>Googleは、AIによるコード補完やコード生成などを実現する新サービス「Duet AI for Developers」の正式リリースを発表しました。 Duet for Developersは有償で提供されるサービスですが、2024年2月1日まで無償で提供すると説明しています。 20以上の言語をサポート、VSCodeなどで利用可能 Duet AI for DevelopersはVisual Studio Code、IntelliJ、PyCharmなどのコードエディタやIDE、そしてCloud Shell EditorやCloud WorkstationsなどのGoogleのサービスで利用可能。 書きかけのコードの補完やチャットによるコードの生成、コードの説明、単体テストの生成などの機能が備わっています。 C、C++、Go、Java、JavaScript、Pythonなど 20 以上のプログ</description>
+    </item>
   </channel>
 </rss>
