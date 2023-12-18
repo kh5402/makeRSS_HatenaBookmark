@@ -16645,5 +16645,35 @@
       <pubDate>2023/12/15 20:59</pubDate>
       <description>Stability AIは12月14日（現地時間）、これまでオープンソースで提供してきた同社のAIモデルに対し、新たな「Stability AI Membership」を発表した。メンバーシップは非商用、プロフェッショナル、エンタープライズの3種類用意されており、非商用の場合は引き続き無料で全モデルにアクセスできる。 プロフェッショナルは月額20ドル 3つのプランは下記の通り。 ●非商用（Non-Commercial） 個人利用と研究用途に無料で提供され、全てのコアモデルへのアクセスが可能。 ●プロフェッショナル（Professional） 月額20米ドル（およそ2840円）。クリエーター、開発者、スタートアップ向けに提供され、商業用途での自己ホストモデルへのアクセスが含まれる。割引制度もあり​​。 ●エンタープライズ（Enterprise） 大企業向け。プロフェッショナル層の利点に加え、</description>
     </item>
+    <item>
+      <title>心を読んでテキストに変換する「BrainGPT」が登場、実験の様子がムービーで確認可能</title>
+      <link>https://gigazine.net/news/20231218-braingpt/</link>
+      <pubDate>2023/12/18 17:19</pubDate>
+      <description>by Solen Feyissa 中国の大手IT企業であるByteDanceは以前、ユーザーの好みにピッタリな動画を見つけるTikTokのアルゴリズムで世界的なAIのリーディングカンパニーとなりましたが、OpenAIの台頭により生成AIの分野で後れを取っています。独自の生成AI「豆包(Doubao)」で巻き返しを図るByteDanceが、利用規約に違反する形でOpenAIのAPIを使用し、「Project Seed」という名称で大規模言語モデル(LLM)を開発していたことが内部文書から明らかになったと、IT系ニュースサイトのThe Vergeが報じました。 ByteDance is secretly using OpenAI’s tech to build a competitor - The Verge https://www.theverge.com/2023/12/15/240031</description>
+    </item>
+    <item>
+      <title>ビル・ゲイツ氏が注目、社会経済に大きなインパクトを与える「AIエージェント」とは？ | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/12/18/ai-agent/</link>
+      <pubDate>2023/12/18 07:54</pubDate>
+      <description>AIがプログラミングを支援してくれるサービスが主要各社から出そろいました。 Publickeyではこれまで各社の発表時点でそれぞれのサービスを紹介してきましたが、ここであらためて主要各社のプログラミング支援AIサービスをまとめます。 本記事では、各AIサービスごとの主な機能などをリストアップしています。ただし、実際にはAIに指示などをすれば品質の差異はあれどおそらく何らかの結果は返ってくるであろうこと、この分野は急速に進化していて各社とも積極的な能力向上と機能追加を行っていくであろうことから、現時点で機能差はあったとしてもそれほど顕著な違いとは言えないでしょう。 そして、おそらくは今後各社のコード生成関連のAIの能力はある程度十分な高さまで急速に到達して、能力や機能面での差別化は難しくなってくるのではないでしょうか。 そうなったとき、プログラミング支援AIサービスの差別化ポイントとしては、</description>
+    </item>
+    <item>
+      <title>RAG、ファインチューニングとは｜生成AI進化の鍵は「ドメイン特化」 | AI専門ニュースメディア AINOW</title>
+      <link>https://ainow.ai/2023/12/14/275411/</link>
+      <pubDate>2023/12/14 19:54</pubDate>
+      <description>プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains AIがプログラミングを支援してくれるサービスが主要各社から出揃いました。 Publickeyではこれまで各社の発表時点でそれぞれのサービスを紹介してきましたが、ここであらためて主要各社のプログラミング支援AIサービスをまとめます。 本記事では、各AIサービスごとの主な機能などをリストアップしています。ただし、実際にはAIに指示などをすれば品質の差異はあれどおそらく何らかの結果は返ってくるであろうこと、この分野は急速に進化していて各社とも積極的な能力向上と機能追加を行っていくであろうことから、現時点で機能差はあったとしてもそれほど顕著な違いとは言えないでしょう。 そして、おそらくは今後各社のコード生成関連のAIの能力はある程度十分な高さまで急速に到達し</description>
+    </item>
+    <item>
+      <title>Azure OpenAI Service と LangChain を用いて、会話をしながら自社サービスに API を実行してくれるチャットボットを作った - NTT Communications Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/2023/12/16/091221</link>
+      <pubDate>2023/12/16 09:15</pubDate>
+      <description>Summilux 1.4/50 ASPH, Leica M10P @Chinkokuji Temple, Munakata, Japan 昨日のLLM（large language model 大規模言語モデル）議論の続きをもう少し書いてみようと思う。 kaz-ataka.hatenablog.com DS協会のスキル定義委員会ではIPAと協働し、2年に一度、データサイエンティストのスキル標準を見直し、改訂版を発表している*1。今年は奇しくも改訂年だったのだが、この春、わずか数ヶ月前に華々しく登場したChatGPTを目の前にしつつ、生成AI領域においてデータ×AIプロフェッショナル（データサイエンティスト DS）の場合、求められるスキルはどうかわるのか、という議論を随分とした。 データサイエンティスト協会 10thシンポジウム スキル定義委員会発表資料（2023年10月20日） 生成AIは</description>
+    </item>
+    <item>
+      <title>Weak-to-strong generalization</title>
+      <link>https://openai.com/research/weak-to-strong-generalization</link>
+      <pubDate>2023/12/15 09:37</pubDate>
+      <description>macOS 14.2 SonomaにはFaceTimeやZoomなどで画面共有を行うと、ランダムなスペースが他のユーザーに表示され個人情報の漏洩につながる可能性のあるバグがあります。詳細は以下から。 Appleは現地時間2023年12月11日、09月にリリースしたmacOS 14 Sonomaの2度目のアップデートとなる「macOS 14.2 Sonoma」を正式にリリースし、機械学習モデルを利用しPDF内に名前や連絡先の入力欄を見つけるとプレビューアプリで自動的に入力してくれる機能や、天気アプリやShazamの機能をアップデートしましたが、 デザインツールxScopeや旧TwitterクライアントTwitterrificなどを開発する米The IconfactoryのCraig HockenberryさんやTalos Tsulさんによると、このmacOS 14.2では画面共有を利用すると</description>
+    </item>
   </channel>
 </rss>
