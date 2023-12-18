@@ -16564,5 +16564,68 @@
       <pubDate>2023/12/15 17:30</pubDate>
       <description>はじめに みなさま、初めましての方もご無沙汰しておりますという方も、株式会社キカガク代表の吉崎（twitter:@yoshizaki_kkgk）です。 ちょうど１年ほど前に失敗して泣きながらこんな記事を書き、多くの方から反響をいただきました。 Qiita: 機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて こちらの記事は2018/10/25現在、1118いいねをいただけるモンスター記事となりました。 いま思うと、契約に関する素人感丸出しの記事ですが、まだまだ黎明期のこの分野にとっては共感していただけるような内容だったのだと嬉しく思います。 この記事が関係あるかないかわかりませんが、これ以降、契約周りの話であったり、機械学習のモデルではなくプロジェクトとしての進め方の書籍や記事を2018年は多く見かけるようになりました。 まさに、技術から事業化への一歩を踏み出した１年であっ</description>
     </item>
+    <item>
+      <title>pandasのSeriesとMagicMockの併用でハマった件 - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/2023/12/18/110000</link>
+      <pubDate>2023/12/18 15:35</pubDate>
+      <description>OpenAIは、大規模言語モデル（GPT-4）でよりよい結果を出すためのプロンプトエンジニアリング（プロンプトのノウハウ）入門テキストを同社のウェブサイトで公開している。 同テキストでは、現在同社で最高の性能を持つ大規模言語モデルGPT-4を対象に、よりよい結果を導くための6つの戦略と、それぞれを実行する際の具体的な戦術（コツ）が掲載されている。 また、「Prompt examples」のページでは、上記で紹介したものを含む多数のプロンプト例が紹介されており、すぐに利用できるようになっている。 では紹介された6つの戦略を見ていこう。 明確な指示を書く LLMは利用者の心を読むことができないので、回答が長すぎる場合は「簡潔に」、単純すぎる場合は「専門家レベルで」と明示的に依頼する必要がある。 具体的な戦術としては下記が提案されている。 ・より関連性の高い回答を得られるよう、質問は詳細に ・モ</description>
+    </item>
+    <item>
+      <title>Gradio: Pythonで簡単にAIをWebアプリ化 - Safie Engineers&amp;#39; Blog!</title>
+      <link>https://engineers.safie.link/entry/2023/12/16/hello-gradio</link>
+      <pubDate>2023/12/18 15:07</pubDate>
+      <description>日本のAI戦略の論点 元榮太一郎氏（以下、元榮）：最後に、日本の企業が今なすべきことは何なのかということについて。松尾さんは、AI戦略会議で座長もされているので、日本が何をすべきかというところの前のルールメイキングなどを議論されているところだと思いますが。現時点における論点や方向性みたいなものを簡単にお話しいただけますか。 松尾豊氏（以下、松尾）：これも資料を見ていただければと思いますけども。AI戦略会議で暫定的な論点整理を出していまして、大きく3つあります。 まず、リスクへの対応として、例えば個人情報、機密情報の扱いや、著作権、知財についての扱い。こういったものをどうしていくかを議論しないといけないし、そこに懸念をお持ちの方がおられるので、しっかり対応していかないといけません。 2つ目がAIの利用で、AIを使って生産性をあげる必要があるのでどんどん使っていきましょうと。国が先頭を切って使</description>
+    </item>
+    <item>
+      <title>Microsoft Copilotは選挙関連の誤った情報・古い情報・陰謀論をべースに回答しているため政治について尋ねるのは不向きとの報告</title>
+      <link>https://gigazine.net/news/20231218-microsoft-copilot-ai-reliability-elections/</link>
+      <pubDate>2023/12/18 12:34</pubDate>
+      <description>こんにちは、安部です。 気温の上下に翻弄されて最近風邪をひいてしまいましたが、皆さま元気にお過ごしでしょうか。 今回は、GPT-4Vのモデルを利用して、OCRができるか試していきます。 GPT-4Vによって、「ChatGPTに目ができた」などと騒がれましたが、文字認識はどれくらいできるのでしょうか？ 得意分野ではなさそうですが、GPTも進化が目覚ましいので分かりませんね。 検証では、日本語(漢字/ひらがな/カタカナ)・英語の2言語で精度など比較していきます。 また、手書き・活字での違いも見ていきましょう。 一番簡単に試せるChatGPT（Web版）でOCRをさせようとするとエラーになることが多かったので、 ここではAPIを使っていくこととします。 APIを呼び出すプログラム 以下のコードを使い、gpt-4-vision-previewというモデルを呼び出しています。 画像は個人のgithu</description>
+    </item>
+    <item>
+      <title>プログラミング支援AIサービスが主要各社から出そろう　各サービスのまとめ　GitHub／AWS／Google／GitLab／JetBrains</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/18/news093.html</link>
+      <pubDate>2023/12/18 12:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/98c32b1ac862e27f283510e7da1455f5fd77f385/height=288;version=1;width=512/https%3A%2F%2Fcloud.watch.impress.co.jp%2Fimg%2Fclw%2Flist%2F1554%2F998%2F117.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【ゼロから始める】✨UI設計✨ - Qiita</title>
+      <link>https://qiita.com/iijima-naoya-45b/items/1030be5e3538609026ea</link>
+      <pubDate>2023/12/17 20:04</pubDate>
+      <description>最終更新日： 2023年12月14日 人工知能（AI）技術は、近年劇的な進歩を遂げています。特に、言語生成AIの分野では、GPTシリーズなどのモデルが幅広い用途で活用され、社会に大きな影響を与えています。しかし、これらのモデルは限界も持ち合わせており、特に生成内容の正確性や特定分野への適応能力に課題があります。これらの課題に対処するために、RAG（Retrieval-based Language Model）やファインチューニング技術が開発され、AIの能力をさらに拡大しています。 本記事では、生成AIの現状として、特にハルシネーション（誤った情報の生成）や特化分野への適用困難性といった問題点を検討します。さらに、これらの問題を解決するための鍵として、RAGやファインチューニングの技術がどのように重要性を増しているのか、その具体的なメカニズムやユースケースを詳しく解説します。また、今後の課題</description>
+    </item>
+    <item>
+      <title>偽情報対策など25項目検証　AI開発点検リスト判明 ｜ 共同通信</title>
+      <link>https://nordot.app/1108725832021443559</link>
+      <pubDate>2023/12/16 22:48</pubDate>
+      <description>著者Joshua Hawkins - Lifehacker US [原文]翻訳長谷睦（ガリレオ） 2023.12.16 lastupdate 人工知能（AI）を利用したチャットボットの人気はかつてないほど高まっており、OpenAIのChatGPT以外にも、優れた性能を持つ選択肢が数多く登場しています。なかでも特に有力な対抗馬が、GoogleのBard AIです。 Bard AIは、インターネットから引き出した情報を使える上に、Googleが開発した最新の言語モデル「Gemini」をベースとしています。 Google Bardって何？Bardは、ChatGPTに対するGoogleからの回答です。さまざまな問いかけやタスクに対応することを目的に設計されたAIチャットボットであり、そのベースとして使われている最新のAI言語モデルを活用できます。 Bardは、ChatGPTをはじめとするほかの大半</description>
+    </item>
+    <item>
+      <title>生成AIを使えるかどうかはイシューではない - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing</title>
+      <link>https://kaz-ataka.hatenablog.com/entry/2023/12/17/093529</link>
+      <pubDate>2023/12/17 11:29</pubDate>
+      <description>NTTデータの責任者が語る「生成AIの活用法」　他社にまねできない強みとは？：売上50億円へ（1/2 ページ） ChatGPTに代表される生成AIに対し、各企業が独自のサービスを展開している。NTTデータは新体制を発足。社内・社外の双方向で生成AIを活用する方針を打ち出した。 NTTデータが生成AIを活用するフィールドには、社内と社外の2つがある。一つは社内のアプリケーション開発の効率化として生成AIを活用するものだ。 通常プログラミングは、プログラミング言語を理解した人が、動作させたい行動を数的ないし論理的に定義していく。ところがこれに生成AIを用いれば、正確性の問題はあるものの、われわれが日々使っている自然言語で「こういうことをこのプログラミング言語でやりたい」と指示を出すことによって、生成AIがそのプログラミングを提案してくれるのだ。これにより、社内のプログラミングの作業や工数を効率</description>
+    </item>
+    <item>
+      <title>OpenAI、データ窃盗の疑いでTikTokの親会社ByteDance社をChatGPT利用停止所分へ | TEXAL</title>
+      <link>https://texal.jp/2023/12/17/openai-suspends-bytedance-parent-company-of-tiktok-for-data-theft/</link>
+      <pubDate>2023/12/17 06:30</pubDate>
+      <description>著者Jake Peterson - Lifehacker US [原文]翻訳ガリレオ 2023.12.17 lastupdate 現在のAIアートが持つ諸問題は別として、AIアートに挑戦してみたいと思っている人も多いでしょう。そんな人には、たくさんのツールが用意されています。 OpenAIのDALL-Eや、Bing Image Creator、Stable Diffusionなどのツールがそろっており、有料・無料を問わず、誰でも簡単にAIアートに挑戦できます。 なので、AI画像生成ツールの開発競争に、また新たなテック企業が参戦すると聞いたところで、大騒ぎするほどではないでしょう。競争の激しさは、当分は和らぎそうにありません。 そして、このたび新たに参戦したテック企業、それはMetaです。 生成スピードはめっちゃ速い！Metaは先日、無料のAI画像生成ツールをリリースしました。同社はこれに先</description>
+    </item>
+    <item>
+      <title>[上級編]LLMへ至る道~Transformerは何をするのか~[15日目] | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-15/</link>
+      <pubDate>2023/12/15 10:14</pubDate>
+      <description>この記事は Ubie Engineering Advent Calendar 2023 15日目の記事です。私は現在、 新しいプロダクトのプロダクトオーナー (PO) として働きつつ、機械学習エンジニアとして大規模言語モデル（LLM）を活用する業務にも携わっています。Ubie は LLM にかなり力を入れており、社員の生産性向上 やプロダクトへの機能追加 など、色々なところで LLM が活用されています。 また、私が所属するチームでは、既存の大規模言語モデル（LLM）の活用に加えて、LLM 自体に関する理解を深め、知見を蓄積する取り組みも行っています。その中で特に「言語モデルはどのようにして知識を蓄えているのだろうか？」という問いは、非常に興味深いと感じました。そこで、この記事では、言語モデルと知識獲得に関する文献をいくつか紹介したいと思います。 知識ベースとしての言語モデル そもそも「言</description>
+    </item>
+    <item>
+      <title>Safieのサービスを国際化対応した話（モバイルアプリ編） - Safie Engineers&amp;#39; Blog!</title>
+      <link>https://engineers.safie.link/entry/internationalization-mobile</link>
+      <pubDate>2023/12/15 17:18</pubDate>
+      <description>近年では、Wi-Fiの電波を用いて壁の向こうの人物の動きをモデル化したり、動作から人物を識別したりする技術の開発が盛んに行われています。しかし、アルバータ大学のアンドリュー・ウォルシュ教授は、これらの研究に対して「時系列データの取扱い方を誤っている」と指摘しています。 Researchers Misrepresenting the Capability of Human Pose Estimation from WiFi Channel Strength Indicators | by Andrew Walsh MD. PhD. | Medium https://medium.com/@tsardoz/researchers-misrepresenting-the-capability-of-human-pose-estimation-from-wifi-channel-strength-</description>
+    </item>
   </channel>
 </rss>
