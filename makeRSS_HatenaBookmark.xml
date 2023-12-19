@@ -16927,5 +16927,29 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cf2b692cac2c2595baea5a11d443ff126ab10dfb/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F567%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>テムザック、 収穫などを完全電動で行う多機能型農業ロボット「雷鳥2号」を開発｜fabcross</title>
+      <link>https://fabcross.jp/news/2023/20231219_tmsuk_raicho2prototype.html</link>
+      <pubDate>2023/12/19 15:18</pubDate>
+      <description>はじめに 東京工業大学 横田研究室の藤井です。 本日(2023/12/19)Llama 2から日本語継続事前学習を行ったSwallow-7B, Swallow-13B, Swallow-70Bをリリースさせて頂きました。 本モデルの開発は、産総研、東京工業大学 岡崎研究室、横田研究室の合同プロジェクトにて行われました。公式プロジェクトページはこちらです。 Swallow-70Bはオープンな日本語モデルにおいて最高の日本語性能を記録しました。 (後述のモデル評価セクションを参照のこと) リリースモデル 日本語継続事前学習済みモデル Swallow-7B Swallow-13B Swallow-70B 上記モデルに指示チューニングを施したモデル Swallow-7B-instruct Swallow-13B-instruct Swallow-70B-instruct 本記事では、Swallow</description>
+    </item>
+    <item>
+      <title>Swallow – TokyoTech-LLM</title>
+      <link>https://tokyotech-llm.github.io/swallow-llama</link>
+      <pubDate>2023/12/19 15:37</pubDate>
+      <description>コミュニケーションや行動などに特徴がみられる自閉症スペクトラム症(ASD)の子どもを「網膜の写真」だけで100％の精度で見分けられるディープラーニングAIモデルを、韓国の延世大学医学部の研究チームが開発しました。ASDの子どもを早期診断する客観的なスクリーニングツールとして、AIが有望な選択肢になる可能性があると期待されています。 Development of Deep Ensembles to Screen for Autism and Symptom Severity Using Retinal Photographs | Ophthalmic Imaging | JAMA Network Open | JAMA Network https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812964 AI-screene</description>
+    </item>
+    <item>
+      <title>【AWS re:Invent 2023】自社専用 chatbot を作る AWS の新サービス &amp;quot;Amazon Q for general business use&amp;quot; が面白かった - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2023/12/19/090000</link>
+      <pubDate>2023/12/19 09:54</pubDate>
+      <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
+    </item>
+    <item>
+      <title>エージェント型AIシステム構築の7つの原則： OpenAI『Practices for Governing Agentic AI』を読み解く｜mah_lab / 西見 公宏</title>
+      <link>https://note.com/mahlab/n/nf6bc6078460d</link>
+      <pubDate>2023/12/19 08:09</pubDate>
+      <description>米ワシントン大学に所属する研究者らは、Google Street Viewなどの静止画をアニメーション化する手法を提案した研究報告を発表した。静止したシーンの画像に自然に振る舞う歩行者と車を自動的に配置することで動画に変換する。</description>
+    </item>
   </channel>
 </rss>
