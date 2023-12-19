@@ -16972,5 +16972,41 @@
       <pubDate>2023/12/19 07:04</pubDate>
       <description>コミュニケーションや行動などに特徴がみられる自閉症スペクトラム症(ASD)の子どもを「網膜の写真」だけで100％の精度で見分けられるディープラーニングAIモデルを、韓国の延世大学医学部の研究チームが開発しました。ASDの子どもを早期診断する客観的なスクリーニングツールとして、AIが有望な選択肢になる可能性があると期待されています。 Development of Deep Ensembles to Screen for Autism and Symptom Severity Using Retinal Photographs | Ophthalmic Imaging | JAMA Network Open | JAMA Network https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812964 AI-screene</description>
     </item>
+    <item>
+      <title>日本語に強い大規模言語モデル「Swallow」を公開 英語が得意な大規模言語モデルに日本語を教える</title>
+      <link>https://www.titech.ac.jp/news/2023/068089</link>
+      <pubDate>2023/12/19 17:41</pubDate>
+      <description>米Googleは12月19日、生成AIチャット「Bard」について、GmailやYouTube、Googleマップなどとの連携機能を日本語でも利用可能にした。 GmailやYouTube、Googleマップに加え、GoogleドキュメントやGoogleドライブなどとも連携できる。公式ブログでは「○○君がメールしていた、富士登山の日程はいつ？」という質問に対し、Gmail上のデータを基に「○○君が提案した富士登山の日程は、2023年8月1日から8月4日」と回答する例を公開している。 他にも「××までの道のりを教えて」と聞くと、Bard上でGoogleマップを表示したり、「××でできる遊びを教えて」と聞くと、同様にYouTubeの動画を表示したりして回答するようになった。 今回の機能でBardに参照させたGmailやGoogleドライブのデータについては「人間のレビュー担当者には表示されること</description>
+    </item>
+    <item>
+      <title>【笠原一輝のユビキタス情報局】 Core Ultraで2024年のPC業界のトレンドとなる「AI PC」、その現在地と未来</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/1555375.html</link>
+      <pubDate>2023/12/19 08:17</pubDate>
+      <description>こちらのトピックス“生成AI最前線「IKIGAIlab.」”は、学び合うことを目的としたオンラインビジネスコミュニティ「OUTPUTCAMP meets AI」のメンバーで運営しています。 生成AIの世界では、毎日のように新しいニュース・リリースが発表され、そのキャッチアップだけでも大変ですよね。 そんなみなさんに最新情報をお届けするべく、本トピックスでは、週1回の頻度で生成AI情報がザーッと追えるAIジャーナルを発信しています。 最新AIニュース ✅「Grok」提供開始から1週間で論争を巻き起こす https://wired.jp/article/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/ イーロンマスク率いるAI「Grok」が、X Premium+加入者に向けて、プラットフォーム上で提供され始めてから1週間が</description>
+    </item>
+    <item>
+      <title>グーグルのチャットAI「Bard」、日本語でもGmailやGoogleマップなどと連携可能に、キーパーソンに聞く</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/interview/1555652.html</link>
+      <pubDate>2023/12/19 10:47</pubDate>
+      <description>テムザックは、完全電動で動作し、機動的な動作が可能な小型の多機能型農業ロボット「雷鳥2号」を開発した。 雷鳥2号（Prototype）は、各種アタッチメントを付け替えて、耕起や収穫などを完全電動で行う多機能型農業ロボットだ。搭載したバッテリーによるモーター駆動で走行し、4輪をそれぞれ動作させて、前後移動／横移動／その場旋廻の動きが可能だ。 同社によると、2022年12月に締結した宮崎県延岡市および北浦農業公社との連携協定に基づき、同社が2023年に稲作を行った宮崎県延岡市の圃場において、2023年12月15日に雷鳥2号に収穫用アタッチメントを搭載して収穫作業を行った。圃場はすでに9月に稲刈りを実施済みだが、初回収穫後の株から生育した二番穂が生育しており、雷鳥2号を用いて二番穂の刈り取りを一部行い、収穫作業に活用できることを確認した。 サイズは2200×1400×1300mm（突起物込み15</description>
+    </item>
+    <item>
+      <title>生成AIグラビアをグラビアカメラマンが作るとどうなる？第15回：SDXLでのControlNet活用方法その2＋ 衣服を固定できるOutfit Anyone (西川和久) | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/19/2488.html</link>
+      <pubDate>2023/12/19 14:44</pubDate>
+      <description>はじめに 東京工業大学 横田研究室の藤井です。 本日(2023/12/19)Llama 2から日本語継続事前学習を行ったSwallow-7B, Swallow-13B, Swallow-70Bをリリースさせて頂きました。 本モデルの開発は、産総研、東京工業大学 岡崎研究室、横田研究室の合同プロジェクトにて行われました。公式プロジェクトページはこちらです。 Swallow-70Bはオープンな日本語モデルにおいて最高の日本語性能を記録しました。 (後述のモデル評価セクションを参照のこと) リリースモデル 日本語継続事前学習済みモデル Swallow-7B Swallow-13B Swallow-70B 上記モデルに指示チューニングを施したモデル Swallow-7B-instruct Swallow-13B-instruct Swallow-70B-instruct 本記事では、Swallow</description>
+    </item>
+    <item>
+      <title>ダンジョン全自動攻略ゴーレムづくりRPG『Algolemeth』Steamにて正式お披露目。探索から戦闘までこなす自律ゴーレムを試行錯誤してプログラム - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20231219-276606/</link>
+      <pubDate>2023/12/19 11:18</pubDate>
+      <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
+    </item>
+    <item>
+      <title>拡散モデルとは？Stable Diffusionなど「画像生成AIの学習モデル」をわかりやすく解説（ビジネス＋IT） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/28d549a690749f41715cad4999941a078b8d38f8</link>
+      <pubDate>2023/12/18 10:00</pubDate>
+      <description>子どもとおしゃべりできる玩具はこれまでも存在しましたが、「録音されたセリフを再生する」のではなく、チャットAIとの対話できるぬいぐるみとして、対話玩具「Grok」シリーズが登場します。 Curio AI Toys - Where Toys Come to Life https://heycurio.com/ AI toy Grok talks to your child. The voice belongs to Grimes. - The Washington Post https://www.washingtonpost.com/technology/2023/12/14/grok-grimes-curio-toy/ 「Grok」シリーズはスタートアップのCurioがカナダのアーティストでイーロン・マスク氏のパートナーとして3人の子どもを産んだことでも知られるグライムス氏と組み、Ope</description>
+    </item>
   </channel>
 </rss>
