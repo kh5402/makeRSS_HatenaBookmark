@@ -16834,5 +16834,29 @@
       <pubDate>2023/12/16 16:40</pubDate>
       <description>こんにちは@fuyu_quantです。 この記事はLLM Advent Calender 2023 17日目の記事です。 はじめに 今回は敵対的なプロンプト技術についてまとめました．まとめ方は主に，Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition というLLMに対する敵対的なプロンプト技術に関してまとめた論文を参考にしています．本記事の内容が世の中のLLMを使ったサービスの機能向上の役に立てれば幸いです． ※世の中のLLMサービスが敵対的なプロンプト手法に対応できるように公開をしたものであり，利用を推奨するものではありません ※個人的な見解であり、所属する会社、組織とは全く関係ありません</description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2023年12月第3週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/12/19/115307</link>
+      <pubDate>2023/12/19 11:55</pubDate>
+      <description>俺なんかチートスキルでＳＳＳＩだ！</description>
+    </item>
+    <item>
+      <title>ディープマインド、大規模言語モデルで数学の未解決問題を解く</title>
+      <link>https://www.technologyreview.jp/s/324400/google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem/</link>
+      <pubDate>2023/12/19 07:58</pubDate>
+      <description>進む金融でのAI活用 さまざまな業界でAI（人工知能）の活用が取り組まれているが、なかでも以前から導入が進んでいた場所のひとつが金融だ。たとえば証券取引の分野では、アルゴリズムトレード（アルゴリズム取引）といって、機械に一定のルールを与えて自律的に取引させる試みが2000年よりも前から行われている。 それは今でいう「AI」とは比べ物にならないほど初歩的なものだったが、次第に高度化され、現在では多くの取引が機械的に行われるようになっている。たとえばある調査によれば、欧米などの主要金融市場における取引の6～7割が、このアルゴリズムトレードによって行われていると見られるそうだ。 また最近では、スマートフォンの普及を追い風に、株式投資や資産運用の支援をAIが行う個人向けアプリも登場している。こちらは既に使っていて馴染み深い、という方も多いだろう。AIが支援してくれる内容はさまざまだが、最新のアプリ</description>
+    </item>
+    <item>
+      <title>次世代デジタルライブラリーへの新機能（表の構造化）の追加及び新機能のソースコード及びデータセットの公開について | NDLラボ</title>
+      <link>https://lab.ndl.go.jp/news/2023/2023-12-05/</link>
+      <pubDate>2023/12/11 17:31</pubDate>
+      <description>はじめに みなさま、初めましての方もご無沙汰しておりますという方も、株式会社キカガク代表の吉崎（twitter:@yoshizaki_kkgk）です。 ちょうど１年ほど前に失敗して泣きながらこんな記事を書き、多くの方から反響をいただきました。 Qiita: 機械学習案件を納品するのは、そんなに簡単な話じゃないから気をつけて こちらの記事は2018/10/25現在、1118いいねをいただけるモンスター記事となりました。 いま思うと、契約に関する素人感丸出しの記事ですが、まだまだ黎明期のこの分野にとっては共感していただけるような内容だったのだと嬉しく思います。 この記事が関係あるかないかわかりませんが、これ以降、契約周りの話であったり、機械学習のモデルではなくプロジェクトとしての進め方の書籍や記事を2018年は多く見かけるようになりました。 まさに、技術から事業化への一歩を踏み出した１年であっ</description>
+    </item>
+    <item>
+      <title>「ChatGPT」と「人の思考」の違いを、小4でも体感できる授業とは</title>
+      <link>https://edu.watch.impress.co.jp/docs/report/1551206.html</link>
+      <pubDate>2023/12/12 12:02</pubDate>
+      <description>AI作曲サービスSunoのUIがガラリと変わったので、使い方をまとめてみました。</description>
+    </item>
   </channel>
 </rss>
