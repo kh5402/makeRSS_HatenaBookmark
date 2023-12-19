@@ -17056,5 +17056,20 @@
       <pubDate>2023/12/19 23:15</pubDate>
       <description>近年はさまざまな大規模言語モデルが台頭し、入力するプロンプトを工夫することで高精度な回答を得る方法も数多く生み出されています。しかし、入力プロンプトがあまりにも長くなりすぎると、チャットウィンドウの上限を超えてしまったり、APIのコストが増大してしまったりするデメリットも生じます。そこでMicrosoft Researchの研究チームは、意味を保ったまま入力プロンプトを圧縮する新たな技術「LLMLingua」を開発しました。 LLMLingua | Designing a Language for LLMs via Prompt Compression https://llmlingua.com/ LLMLingua - Microsoft Research https://www.microsoft.com/en-us/research/project/llmlingua/ LLMLin</description>
     </item>
+    <item>
+      <title>GoogleのAI「Bard」、Gmailなどとの連携機能が日本語でも利用可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1555763.html</link>
+      <pubDate>2023/12/19 13:41</pubDate>
+      <description>Example request (click to expand) 💡 Default Mode (GPT4 Correct): Best for coding, chat and general tasks curl http://localhost:18888/v1/chat/completions \ -H &amp;quot;Content-Type: application/json&amp;quot; \ -d &amp;#39;{ &amp;quot;model&amp;quot;: &amp;quot;openchat_3.5&amp;quot;, &amp;quot;messages&amp;quot;: [{&amp;quot;role&amp;quot;: &amp;quot;user&amp;quot;, &amp;quot;content&amp;quot;: &amp;quot;You are a large language model named OpenChat. Write a poem to describe yourself&amp;quot;}] }&amp;#39; 🧮 Mathematical Reasoning Mode: Tailored for s</description>
+    </item>
+    <item>
+      <title>生成AIはいずれ創造性を獲得する。そのときクリエイターに価値はある？ (1/3)</title>
+      <link>https://ascii.jp/elem/000/004/174/4174304/</link>
+      <pubDate>2023/12/17 17:13</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/328aacaadf5f67ed659b079d9ca5cd1819408de7/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F982%2Fimage51.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
