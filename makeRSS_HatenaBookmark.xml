@@ -16858,5 +16858,11 @@
       <pubDate>2023/12/12 12:02</pubDate>
       <description>AI作曲サービスSunoのUIがガラリと変わったので、使い方をまとめてみました。</description>
     </item>
+    <item>
+      <title>プロンプト設計戦略  |  Google AI for Developers</title>
+      <link>https://ai.google.dev/docs/prompt_best_practices?hl=ja</link>
+      <pubDate>2023/12/19 13:21</pubDate>
+      <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
+    </item>
   </channel>
 </rss>
