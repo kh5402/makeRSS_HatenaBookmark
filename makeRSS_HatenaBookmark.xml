@@ -16870,5 +16870,29 @@
       <pubDate>2023/12/18 12:29</pubDate>
       <description>2023年12月6日に発表されたAMDのAI特化型チップ「MI300X」は、NVIDIA製AI特化型チップ「H100」と比べて優れた性能を発揮できることがアピールされています。一方でNVIDIAはMI300XとH100の比較の際のテスト環境が同一ではなかったと主張しました。そこでAMDはNVIDIAの指摘に対する検証を行いました。 AMD strikes back at Nvidia with new MI300X benchmarks — MI300X shows 30% higher performance than H100, even with an optimized software stack | Tom&amp;#39;s Hardware https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-</description>
     </item>
+    <item>
+      <title>十年経っても愛されるタートルトーク！ &amp;quot;心が動く&amp;quot;対話の仕組みを紐解く(後編)｜岩本尚也 | Naoya Iwamoto</title>
+      <link>https://note.com/euclid/n/nbc08df295f56</link>
+      <pubDate>2023/12/19 07:54</pubDate>
+      <description>プロンプト設計により、機械学習（ML）制御モデルの出力を初めて利用するユーザーでも、オーバーヘッドを最小限に抑えられます。プロンプトを慎重に作成することで、目的の結果を生成するようにモデルを調整できます。プロンプト設計は、特定のユースケースに合わせて言語モデルを適応させることをテストする効率的な方法です。 言語モデル、特に大規模言語モデル（LLM）は、単語間のパターンと関係を学習するために、膨大なテキストデータでトレーニングされています。テキスト（プロンプト）を受け取った言語モデルは、高度なオートコンプリート ツールのように、次に来ると思われるものを予測できます。したがって、プロンプトを設計する際は、モデルによる次の予測に影響を与える可能性のあるさまざまな要因を考慮してください。 プロンプトの設計に正しい方法や間違った方法はありませんが、モデルのレスポンスに影響を与えるために使用できる一般</description>
+    </item>
+    <item>
+      <title>GitHub Copilotの補完候補をNode.jsプログラムで取得する</title>
+      <link>https://zenn.dev/laiso/articles/9456a7ba4b0712</link>
+      <pubDate>2023/12/19 11:11</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月11日（月）〜12月17日（日）〔2023年12月第3週〕のトップ30です*1。 順位 タイトル 1位 新NISA「やってはいけないこと」「すべきこと」最後の総点検 | 山崎元のマルチスコープ | ダイヤモンド・オンライン 2位 カフェをぶち抜くコーヒーは誰でも淹れられる｜sumiren 3位 ASCII.jp：画像生成AIが爆速で進化した2023年をまとめて振り返る (1/5) 4位 「このバンドが好きなら、これらのバンドも好きかも」をAIが提案する音楽マップが話題に - amass 5位 チームで仕事をするなら、リアクションし続けよ｜森 一貴（Mori Kazuki） 6位 転職活動を10年続けてたら人生行き詰ってきた話 #転職 - Qiita 7位 パワポ生成AI 8位 非モテっぽい男</description>
+    </item>
+    <item>
+      <title>何がＡＩだ</title>
+      <link>https://anond.hatelabo.jp/20231219093759</link>
+      <pubDate>2023/12/19 09:47</pubDate>
+      <description>この記事は GMOアドマーケティング Advent Calendar 2023 19日目の記事です。 はじめに こんにちは。 GMOアドマーケティングのKONCEです。 僕は開発を大体をIntelliJ系のIDE（PhpStorm、GoLand）を用いて行っています。後はブラウザのDev ToolとGCPのコンソールで割と事足ります。 環境整備やGUI使うまでもない作業、生ログをしっかり見たいときなどでターミナルを使用しています。CLIでガンガン開発するといった感じではありません。 ターミナルアプリはwarpを使用しています。適当に使っていても、なんか便利だな程度に思っていましたが、Warp AI について調べていこうとしたところまだまだ活用できるかもと思いましたので今回は深追いしていければと思います。 warpについて warpは Rust製で高速 AI搭載 デフォルトでオートコンプリー</description>
+    </item>
+    <item>
+      <title>米AI規制、既存サービスは対象外　企業配慮でEUと差 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN290EN0Z21C23A1000000/</link>
+      <pubDate>2023/12/18 18:55</pubDate>
+      <description>歌詞を与えれば作曲・演奏・歌唱と残りの全てをやってくれるAI作曲完パケサービス「Suno」。音楽制作界隈では「MIDIで吐いてくれ」との声が多く上がっています。 いい感じの音楽が出るまでガチャを引けばいいのですが、Sunoを効率化のために使いたい、アイデア出しのために利用したいんだけど、出力された音楽をいちいち手弾きで入力するのもだるい、という話です。 今回はこの解決策をご紹介しようと思います。詳しい人ならご承知のことと思いますが、改めて。 以前のコラムで紹介したように、例えばLogic ProのFlexPitchのようなピッチエディターを使えば、単音のオーディオファイルからMIDIデータを取り出すことは可能です。 実際、筆者はUVR5という音源分離ツールを使って取り出したBassトラックをFlexPitchによってピアノロール表示し、それを改めてMIDIデータとして打ち込むというのをやっ</description>
+    </item>
   </channel>
 </rss>
