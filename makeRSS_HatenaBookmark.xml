@@ -16864,5 +16864,11 @@
       <pubDate>2023/12/19 13:21</pubDate>
       <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
     </item>
+    <item>
+      <title>画像生成AIを使い倒す！「Stability Matrix」で使えるWebUIを紹介【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/1554982.html</link>
+      <pubDate>2023/12/18 12:29</pubDate>
+      <description>2023年12月6日に発表されたAMDのAI特化型チップ「MI300X」は、NVIDIA製AI特化型チップ「H100」と比べて優れた性能を発揮できることがアピールされています。一方でNVIDIAはMI300XとH100の比較の際のテスト環境が同一ではなかったと主張しました。そこでAMDはNVIDIAの指摘に対する検証を行いました。 AMD strikes back at Nvidia with new MI300X benchmarks — MI300X shows 30% higher performance than H100, even with an optimized software stack | Tom&amp;#39;s Hardware https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-</description>
+    </item>
   </channel>
 </rss>
