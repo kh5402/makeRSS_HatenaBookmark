@@ -16912,5 +16912,20 @@
       <pubDate>2023/12/19 08:01</pubDate>
       <description>俺なんかチートスキルでＳＳＳＩだ！</description>
     </item>
+    <item>
+      <title>ストリートビュー内をアニメ化する技術、米ワシントン大が開発　自然に振る舞う人や車が行き交う</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/19/news042.html</link>
+      <pubDate>2023/12/19 08:47</pubDate>
+      <description>この記事は Elastic Stack (Elasticsearch) Advent Calendar 2023 18日目の記事です。 こんにちは。 Acroquestのデータサイエンスチーム「YAMALEX」に所属する@shin0higuchiです😊 YAMALEXチームでは、コンペティションへの参加や自社製品開発、技術研究などに日々取り組んでいます。 さて、最近はLLMの発展に伴ってRAG（Retrieval-Augumented Generation）が盛んに活用されています。 その中で、キーワードベースの検索だけでなくベクトル検索を併用するケースが多く見られ、実際にElasticsearchが利用されているケースも多く目にします。そのため、Elasticsearchのベクトル検索に興味を持っている方も多いと思います。今回の記事では、Elasticsearchのベクトル検索の速度な</description>
+    </item>
+    <item>
+      <title>Gemini API を使用してビルドする  |  Google AI for Developers</title>
+      <link>https://ai.google.dev/?hl=ja</link>
+      <pubDate>2023/12/14 07:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cf2b692cac2c2595baea5a11d443ff126ab10dfb/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1554%2F567%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
