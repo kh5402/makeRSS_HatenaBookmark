@@ -16816,5 +16816,23 @@
       <pubDate>2023/12/15 10:58</pubDate>
       <description>全財力の5分の3をつぎ込んで課金プランに入りました。最近Kインディーにハマってるのでおすすめ教えてください。voicevox.青山龍星ここからできます→　https://www.suno.ai/━━━━━タイムスタンプ━━━━━ウル拉致① #00:26ウル拉致② #1:48ウル拉致③（アニソン風）#3:10ミッカカンクリスマス（AI命名） #4:04超マッチョ！ タクヤ（AI命名） #5:23かしこまリーヨ #6:43チョーマッチョビデオ(AI命名) #8:02Uri-De-Kuru(AI命名) #9:23『売』 #10:45ちくわぶの歌（AI命名） #12:04脱糞ドキュメント（AI命名） #13:23パラオナ① #14:43パラオナ② #15:20パラオナ③ #16:20━━━━━追記━━━━━共有リンク発行できるらしいので、動画に載せた曲のリンクを下記ツイートツリーに貼り付けていき</description>
     </item>
+    <item>
+      <title>AI搭載ターミナルwarpを使おう</title>
+      <link>https://techblog.gmo-ap.jp/2023/12/19/warp/</link>
+      <pubDate>2023/12/19 00:08</pubDate>
+      <description>この記事は Elastic Stack (Elasticsearch) Advent Calendar 2023 18日目の記事です。 こんにちは。 Acroquestのデータサイエンスチーム「YAMALEX」に所属する@shin0higuchiです😊 YAMALEXチームでは、コンペティションへの参加や自社製品開発、技術研究などに日々取り組んでいます。 さて、最近はLLMの発展に伴ってRAG（Retrieval-Augumented Generation）が盛んに活用されています。 その中で、キーワードベースの検索だけでなくベクトル検索を併用するケースが多く見られ、実際にElasticsearchが利用されているケースも多く目にします。そのため、Elasticsearchのベクトル検索に興味を持っている方も多いと思います。今回の記事では、Elasticsearchのベクトル検索の速度な</description>
+    </item>
+    <item>
+      <title>他人事ではない。ビル・ゲイツが語る、「週休4日」が現実的と言える理由 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2312bill-gates-new-research-agree-soon-4-day-workweek-ai/</link>
+      <pubDate>2023/12/18 12:42</pubDate>
+      <description>皆さん、東京ディズニーシーの人気アトラクション「タートル・トーク」はご存じですか？ 「タートル・トーク」は、2013年に東京ディズニーシーにできたアトラクションで、来場者がスクリーンに映し出されたウミガメのクラッシュとお話ができます。なぜ今頃と思うかもしれませんが、なんと今タートル・トークがSNS上で話題なんです。 昨今はChatGPTを始めとした大規模言語モデルの登場により、キャラクタの対話自動生成に関する取り組みが急激に増えてきていますが、そのいずれも人の心を動かすような対話までは実現できていません。どうしたら人の心を動かす対話が実現できるのでしょうか。 そこで、十年経っても愛され続けるキャラクタの対話型アトラクションであるタートル・トークからそのヒントを探ってみようと思います。本記事ではまず前編でタートル・トークを支える技術について理解を深めます。後編ではタートル・トークを支える設計</description>
+    </item>
+    <item>
+      <title>話題の生成AIを気軽に使えるマイクロソフト「Copilot」では何ができる？ - 価格.comマガジン</title>
+      <link>https://kakakumag.com/pc-smartphone/?id=20314</link>
+      <pubDate>2023/12/16 16:40</pubDate>
+      <description>こんにちは@fuyu_quantです。 この記事はLLM Advent Calender 2023 17日目の記事です。 はじめに 今回は敵対的なプロンプト技術についてまとめました．まとめ方は主に，Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition というLLMに対する敵対的なプロンプト技術に関してまとめた論文を参考にしています．本記事の内容が世の中のLLMを使ったサービスの機能向上の役に立てれば幸いです． ※世の中のLLMサービスが敵対的なプロンプト手法に対応できるように公開をしたものであり，利用を推奨するものではありません ※個人的な見解であり、所属する会社、組織とは全く関係ありません</description>
+    </item>
   </channel>
 </rss>
