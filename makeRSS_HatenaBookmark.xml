@@ -17050,5 +17050,11 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3be249ddb73c5af4d3593f81d0351322a0e57983/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1555%2F652%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Facebookは既に画像生成AIが作ったパクリ投稿で埋め尽くされている</title>
+      <link>https://gigazine.net/news/20231219-facebook-ai-generated-images/</link>
+      <pubDate>2023/12/19 23:15</pubDate>
+      <description>近年はさまざまな大規模言語モデルが台頭し、入力するプロンプトを工夫することで高精度な回答を得る方法も数多く生み出されています。しかし、入力プロンプトがあまりにも長くなりすぎると、チャットウィンドウの上限を超えてしまったり、APIのコストが増大してしまったりするデメリットも生じます。そこでMicrosoft Researchの研究チームは、意味を保ったまま入力プロンプトを圧縮する新たな技術「LLMLingua」を開発しました。 LLMLingua | Designing a Language for LLMs via Prompt Compression https://llmlingua.com/ LLMLingua - Microsoft Research https://www.microsoft.com/en-us/research/project/llmlingua/ LLMLin</description>
+    </item>
   </channel>
 </rss>
