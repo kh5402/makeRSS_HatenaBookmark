@@ -17023,5 +17023,32 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8d8bc1f8b20583c718e2836bc02d371f832014a5/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1555%2F762%2Fimage_top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>MozillaがAIでWebサイトを自動制作してくれる「Solo」を公開。基本的な情報を基に、説明文からレイアウト、適切なフリー画像の選択までおまかせ</title>
+      <link>https://www.publickey1.jp/blog/23/mozillaaiwebsolo.html</link>
+      <pubDate>2023/12/20 01:34</pubDate>
+      <description>2019年に、FacebookがAIでプロフィール画像を合成した偽アカウントを削除したと発表したことが報道されるなど、AIは以前からソーシャルメディアの頭痛の種でしたが、これまでAI画像を見破るのは難しいことではありませんでした。ところが、リアルな画像を大量に出力できる生成AIの発達により、かつて予言されていた「生成AIが大量生産したゴミコンテンツが生身の人間の努力を圧倒する」という未来が既に現実のものとなっていると、IT系ニュースサイトの404 Mediaが報じました。 Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-</description>
+    </item>
+    <item>
+      <title>大規模言語モデルへの入力プロンプトを意味を保ったまま高度に圧縮する技術「LLMLingua」をMicrosoftが開発</title>
+      <link>https://gigazine.net/news/20231219-llmlingua-microsoft-compress-prompt/</link>
+      <pubDate>2023/12/19 21:26</pubDate>
+      <description>要点 日本語能力に優れビジネスにも安心して活用できる大規模言語モデルを公開 継続事前学習により大規模言語モデルの日本語能力を改善 高度な日本語処理が求められる多くの場面で、生成AI技術の利活用を推進 概要 東京工業大学（以下、東工大） 情報理工学院 情報工学系の岡崎直観教授と横田理央教授らの研究チームと国立研究開発法人 産業技術総合研究所（以下、産総研）は、日本語能力に優れた生成AIの基盤である大規模言語モデル[用語1]「Swallow」を公開した[参考リンク1]。本モデルは現在公開されている日本語に対応した大規模言語モデルとしては最大規模であり、オープンで商用利用が可能であるため、ビジネスに安心して用いることができる。 東工大と産総研の研究チームは、英語の言語理解や対話で高い能力を持つ大規模言語モデル（米Meta社 Llama 2）の日本語能力を拡張することで「Swallow」を構築した</description>
+    </item>
+    <item>
+      <title>PC 40年の歴史で最大の転換点となるインテルCore Ultraプロセッサー。AI業界の勢力図が塗り替わる起爆剤に [Sponsored]</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/1553376.html</link>
+      <pubDate>2023/12/19 21:03</pubDate>
+      <description>米Googleは12月19日、生成AIチャット「Bard」について、GmailやYouTube、Googleマップなどとの連携機能を日本語でも利用可能にした。 GmailやYouTube、Googleマップに加え、GoogleドキュメントやGoogleドライブなどとも連携できる。公式ブログでは「○○君がメールしていた、富士登山の日程はいつ？」という質問に対し、Gmail上のデータを基に「○○君が提案した富士登山の日程は、2023年8月1日から8月4日」と回答する例を公開している。 他にも「××までの道のりを教えて」と聞くと、Bard上でGoogleマップを表示したり、「××でできる遊びを教えて」と聞くと、同様にYouTubeの動画を表示したりして回答するようになった。 今回の機能でBardに参照させたGmailやGoogleドライブのデータについては「人間のレビュー担当者には表示されること</description>
+    </item>
+    <item>
+      <title>「Bard」拡張機能が日本でも利用可能に、GmailやYoutubeの情報も使って回答を豊かに／「Google フライト」、「Google ホテル」、「Google マップ」などの拡張機能も</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1555762.html</link>
+      <pubDate>2023/12/19 13:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3be249ddb73c5af4d3593f81d0351322a0e57983/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1555%2F652%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
