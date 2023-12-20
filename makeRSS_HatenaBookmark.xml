@@ -17332,5 +17332,11 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4a86a4981dd7b79b45b4577be1cf03516e6568f0/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1555%2F955%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>産総研：日本語に強い大規模言語モデル「Swallow」を公開</title>
+      <link>https://www.aist.go.jp/aist_j/press_release/pr2023/pr20231219/pr20231219.html</link>
+      <pubDate>2023/12/19 18:32</pubDate>
+      <description>この記事は、NTTコミュニケーションズ Advent Calendar 2023 20日目の記事です。 はじめに こんにちは。 コミュニケーション&amp;amp;アプリケーションサービス部の吉仲です。 新卒2年目で、普段はB向け/C向けメールシステムと文書要約APIサービスの開発・運用に関する業務に取り組んでいます。 今回は、昨年から引き続き話題の生成AIのひとつ、大規模言語モデル (LLM: Large Language Model) を題材に、LLMを使って文章を「やさしい」表現へ言い換える例を紹介します。 この記事の内容 この記事では、以下の内容を扱います。 やさしい日本語 言い換え技術とテキスト平易化 LLMを使ったやさしい日本語への言い換え 前半にやさしい日本語、言い換え技術・テキスト平易化について簡単に解説し、後半はLLMによるやさしい日本語への言い換えの例を紹介します。 なお、この記事では</description>
+    </item>
   </channel>
 </rss>
