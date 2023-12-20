@@ -17206,5 +17206,17 @@
       <pubDate>2023/12/19 12:35</pubDate>
       <description>AIの技術的進化において、テキストによる画像生成はそのほかの分野に比べて視覚的に「わかりやすく凄い」というのも相まって、広く認知されるようになった。約6年前は鳥の姿形をようやく制御できるかできないか（※1）という具合だったのにもかかわらず、現在では鳥に限らず様々なコンテンツを、美しく高解像度に生成できるようになった。 しかし、文字の完全な描写には未だ困難が伴っている。試しにAdobeが提供する画像生成AI『Firefly』にSign with the words &amp;quot;Real Sound&amp;quot; painted on it（訳：&amp;quot;Real Sound&amp;quot;という文字の描かれた看板）と入力して画像を生成してみよう。 こちらの期待に反して看板に描かれているのはすべて大文字であり、SOUNDの&amp;quot;N&amp;quot;が抜けてしまった。 この生成はなぜ失敗してしまったのか、そしてAIが文字を生成することはなぜ難しいのか。本記事</description>
     </item>
+    <item>
+      <title>日本語に強い大規模言語モデル「Swallow」　産総研と東工大が公開　事前学習用の日本語データに工夫</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/20/news130.html</link>
+      <pubDate>2023/12/20 15:00</pubDate>
+      <description>日本コカ・コーラは19日、誰でもAI画像生成ツール「Create Real Magic」を使ってクリスマスカードが作れるWebサイトを公開した。 日本コカ・コーラは12月19日、誰でもAI画像生成ツール「Create Real Magic」を使ってクリスマスカードが作れるWebサイトを公開した。このツールは、12月17日まで渋谷のスクランブル交差点をジャックしていた屋外広告の制作にも使用したものだという。 使い方は、Create Real MagicのWebサイトにアクセスし、メールアドレスを登録してアカウントを作成。サインインしたら「テーマ」「シーン」「スタイル」を選ぶ。さらにイメージに合ったプロンプトを入力すると画像が生成される。 必要に応じてプロンプトを追加することも可能。なお、制作した画像には全てインビジブルウォーターマーク（目に見えない透かし）が適用される。 Create Rea</description>
+    </item>
+    <item>
+      <title>Apple、重要なバグと画面共有を利用するとランダムなスペースが他のユーザーに表示されてしまう脆弱性を修正した「macOS 14.2.1 Sonoma」をリリース。</title>
+      <link>https://applech2.com/archives/20231220-apple-fixed-macos-14-2-sonoma-screen-sharing-bug.html</link>
+      <pubDate>2023/12/20 08:20</pubDate>
+      <description>Microsoftのチャットボット「Copilot」で話題の音楽生成AI「Suno」をプラグインとして使えるようになった。Copilotに作りたい曲をテキストで依頼すると歌詞とメロディが生成される。 米Microsoftは12月19日（現地時間）、同社のチャットボット「Copilot」のプラグインとして、米Sunoの音楽生成AI「Suno」を利用可能にしたと発表した。 利用するには、EdgeブラウザあるいはChromeブラウザでMicrosoftアカウントにログインし、右上のタブで「プラグイン」を選んで「Suno」を有効にする。（現在ロールアウト中で、筆者の環境ではなぜか設定言語を英語にしたら表示された。）</description>
+    </item>
   </channel>
 </rss>
