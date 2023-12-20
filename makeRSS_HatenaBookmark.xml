@@ -17089,5 +17089,38 @@
       <pubDate>2023/12/19 21:46</pubDate>
       <description>2019年に、FacebookがAIでプロフィール画像を合成した偽アカウントを削除したと発表したことが報道されるなど、AIは以前からソーシャルメディアの頭痛の種でしたが、これまでAI画像を見破るのは難しいことではありませんでした。ところが、リアルな画像を大量に出力できる生成AIの発達により、かつて予言されていた「生成AIが大量生産したゴミコンテンツが生身の人間の努力を圧倒する」という未来が既に現実のものとなっていると、IT系ニュースサイトの404 Mediaが報じました。 Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-</description>
     </item>
+    <item>
+      <title>情報の海をハックするカギは「捨てる」こと。LayerX松村氏に学ぶ、価値ある情報を取りこぼさないコツ</title>
+      <link>https://levtech.jp/media/article/interview/detail_357/</link>
+      <pubDate>2023/12/20 09:38</pubDate>
+      <description>ユニコーンの奥田民生とABEDONが、ニューアルバム『クロスロード』の制作秘話を語った。 奥田とABEDONが登場したのは、J-WAVEで放送中の番組『～JK RADIO～TOKYO UNITED』のワンコーナー「THE HIDDEN STORY」。ここでは12月8日（金）のオンエア内容をテキストで紹介する。 AIボーカルを取り入れた理由は？ ユニコーンは10月にメンバーを模したAIによるボーカルでレコーディングされたEP『ええ愛のメモリ』をリリース。11月には、EP『ええ愛のメモリ』に収録した楽曲をメンバーが歌ったバージョンも収録した、2年ぶりのオリジナルアルバム『クロスロード』をリリースした。 まずは「なぜAIを取り入れて作ろうと思ったのか」と質問した。 奥田：自分らが飽きないように、新しい風をちょっとでも入れて前に進んでいくわけよ、俺たちはね。そういうことの一環として、巷でAIとか言</description>
+    </item>
+    <item>
+      <title>パルコや伊藤園、広告に「AIタレント」起用　表現多様に - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC054I40V01C23A2000000/</link>
+      <pubDate>2023/12/20 06:01</pubDate>
+      <description>2023年も終わりに近づき、この1年間に収集したツールを振り返りながら、Web制作に役立つお気に入りを見つけてみましょう。 素晴らしい新ツールや素材がたくさんリリースされ、選定にはたっぷり時間がかかりましたが、カテゴリ別に幅広くセレクションできました。 本当に役立つかどうかだけを考え、「これ、神ツール。」と思えるものをピックアップ。 話題の的だったAIをうまく活用すれば、ワークフローを格段にスピードアップさせ、面倒な作業もストレスなくこなすことができます。 この記事では、そんなあなたの役に立つ2023年公開のWebデザイン制作ツールや素材をまとめてご紹介します。 整理したカテゴリは以下の通り。 Web制作向け便利ツール・素材リストサクサク爆速で作業をこなす最新ツール、素材まとめWeb便利ツールCSSフレームワーク・デザインシステムWebチュートリアルHTML/CSSスニペットビギナー基本ガ</description>
+    </item>
+    <item>
+      <title>画像生成AIはなぜ文字を上手く“描けない”のか</title>
+      <link>https://realsound.jp/tech/2023/12/post-1487466.html</link>
+      <pubDate>2023/12/19 11:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3253b52cdaded692daf1046abfe85f8370b5856d/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1555%2F763%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>openchat/openchat-3.5-1210 · Hugging Face</title>
+      <link>https://huggingface.co/openchat/openchat-3.5-1210</link>
+      <pubDate>2023/12/19 10:06</pubDate>
+      <description>米Googleは12月19日、生成AIチャット「Bard」について、GmailやYouTube、Googleマップなどとの連携機能を日本語でも利用可能にした。 GmailやYouTube、Googleマップに加え、GoogleドキュメントやGoogleドライブなどとも連携できる。公式ブログでは「○○君がメールしていた、富士登山の日程はいつ？」という質問に対し、Gmail上のデータを基に「○○君が提案した富士登山の日程は、2023年8月1日から8月4日」と回答する例を公開している。 他にも「××までの道のりを教えて」と聞くと、Bard上でGoogleマップを表示したり、「××でできる遊びを教えて」と聞くと、同様にYouTubeの動画を表示したりして回答するようになった。 今回の機能でBardに参照させたGmailやGoogleドライブのデータについては「人間のレビュー担当者には表示されること</description>
+    </item>
+    <item>
+      <title>BigQuery Remote Functionsによる形態素解析 - DMM inside</title>
+      <link>https://inside.dmm.com/articles/bq-remote-functions/</link>
+      <pubDate>2023/12/17 09:02</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。第25回目は、生成AI最新論文の概要5つをお届けします。作曲歌唱AI「Suno」の登場で脚光を浴びている音楽生成についての新たな技術が登場。こちらはより音楽制作現場に寄り添った技術で、入力した音楽を参考にして新たな楽曲を生成する「StemGen」をはじめとして最新論文を紹介します。 生成AI論文ピックアップ音楽から新しい音楽を生成していくモデル「StemGen」、無音からも可能。ByteDanceらが開発 画像内のキャラクターや人物を着せ替えできる拡散モデル「Outfit Anyone」、アリババグループなどが開発 テキストや顔写真からダンス動画を生成するモデル「Dr</description>
+    </item>
   </channel>
 </rss>
