@@ -17188,5 +17188,23 @@
       <pubDate>2023/12/20 09:01</pubDate>
       <description>情報の海をハックするカギは「捨てる」こと。LayerX松村氏に学ぶ、価値ある情報を取りこぼさないコツ 2023年12月20日 株式会社LayerX 機械学習・データ部 機械学習グループ マネージャー 松村 優也 1993年生まれ。2018年3月、京都大学大学院情報学研究科 社会情報学専攻修士課程修了。在学中の起業経験を経て、新卒でウォンテッドリー株式会社に入社、推薦システムチームの立ち上げに関わる。2021年にはWantedly VisitのPdM、開発組織のEMを兼任。2022年9月に株式会社LayerXに機械学習エンジニアとして入社。2023年には機械学習チームのリーダー、現職に就任。 X（Twitter） Speakerdeck 技術や業界など仕事についての情報収集の基盤として多くのエンジニアを支えていたTwitter（現X）が、以前とは異なる姿となってゆく今、必要な情報を過不足なく</description>
     </item>
+    <item>
+      <title>Amazon BedrockのKnowledge baseで簡単にRAGを構築 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2023/12/20/140000</link>
+      <pubDate>2023/12/20 14:00</pubDate>
+      <description>Last Friday, on December 15, 2023, I hosted the second ”Workers Tech Talks” event in Tokyo. It was a successful event, with over 90 developers attending! This could be the largest event for Workers developers globally. Ricky Robinett (Cloudflare - VP, Developer Relations &amp;amp; Community Team Manager) was also there as a speaker and demonstrated Workers AI. It was a fantastic time spent talking about C</description>
+    </item>
+    <item>
+      <title>2023年、UIデザインで人気のツールを調査 -UIデザインやプロトタイプでよく使用されるツール、UIデザイナーがAIをどのように使用しているのか</title>
+      <link>https://coliss.com/articles/build-websites/operation/work/2023-design-tools-survey.html</link>
+      <pubDate>2023/12/20 09:47</pubDate>
+      <description>Appleが画面共有を利用するとランダムなスペースが他のユーザーに表示される不具合を修正した「macOS 14.2.1 Sonoma」をリリースしています。詳細は以下から。 Appleは現地時間2023年12月11日、機械学習モデルを利用したPDFへの自動入力の機能強化し、メッセージや天気アプリを改善した「macOS 14.2 Sonoma (23C64)」をリリースしましたが、本日12月19日付けで、macOS 14.2のHoftixとなる「macOS 14.2.1 Sonoma (23C71)」を新たにリリースしています。 このアップデートには重要なバグ修正とセキュリティアップデートが含まれ、すべてのユーザに推奨されます。 リリースノートより macOS 14.2.1 Sonomaのリリースノートには「重要なバグ修正とセキュリティアップデートが含まれ、すべてのユーザに推奨されます」てい</description>
+    </item>
+    <item>
+      <title>データストラテジストのための、データ戦略策定に役立つ5+1冊 - Qiita</title>
+      <link>https://qiita.com/anntoque/items/1a0b5802d6140d910cd1</link>
+      <pubDate>2023/12/19 12:35</pubDate>
+      <description>AIの技術的進化において、テキストによる画像生成はそのほかの分野に比べて視覚的に「わかりやすく凄い」というのも相まって、広く認知されるようになった。約6年前は鳥の姿形をようやく制御できるかできないか（※1）という具合だったのにもかかわらず、現在では鳥に限らず様々なコンテンツを、美しく高解像度に生成できるようになった。 しかし、文字の完全な描写には未だ困難が伴っている。試しにAdobeが提供する画像生成AI『Firefly』にSign with the words &amp;quot;Real Sound&amp;quot; painted on it（訳：&amp;quot;Real Sound&amp;quot;という文字の描かれた看板）と入力して画像を生成してみよう。 こちらの期待に反して看板に描かれているのはすべて大文字であり、SOUNDの&amp;quot;N&amp;quot;が抜けてしまった。 この生成はなぜ失敗してしまったのか、そしてAIが文字を生成することはなぜ難しいのか。本記事</description>
+    </item>
   </channel>
 </rss>
