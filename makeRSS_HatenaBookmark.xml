@@ -17254,5 +17254,11 @@
       <pubDate>2023/12/20 06:50</pubDate>
       <description>ユニコーンの奥田民生とABEDONが、ニューアルバム『クロスロード』の制作秘話を語った。 奥田とABEDONが登場したのは、J-WAVEで放送中の番組『～JK RADIO～TOKYO UNITED』のワンコーナー「THE HIDDEN STORY」。ここでは12月8日（金）のオンエア内容をテキストで紹介する。 AIボーカルを取り入れた理由は？ ユニコーンは10月にメンバーを模したAIによるボーカルでレコーディングされたEP『ええ愛のメモリ』をリリース。11月には、EP『ええ愛のメモリ』に収録した楽曲をメンバーが歌ったバージョンも収録した、2年ぶりのオリジナルアルバム『クロスロード』をリリースした。 まずは「なぜAIを取り入れて作ろうと思ったのか」と質問した。 奥田：自分らが飽きないように、新しい風をちょっとでも入れて前に進んでいくわけよ、俺たちはね。そういうことの一環として、巷でAIとか言</description>
     </item>
+    <item>
+      <title>AI性能や電力効率重視の「第5世代Xeon」、前世代やEPYCと比較しても優位</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1555955.html</link>
+      <pubDate>2023/12/20 14:15</pubDate>
+      <description>中国の新興GPUメーカー「Moore Threads」が、2023年12月19日にAIのトレーニングやデータセンター向けGPU「MTT S4000」を発表しました。公式発表によると、MTT S4000のMUSIFYツールはNVIDIAのCUDAとの完全な互換性があるとのことです。 摩尔线程首个千卡智算中心落地，从算力到生态全面加速大模型发展 | 摩尔线程 https://www.mthreads.com/news/146 Nvidia&amp;#39;s biggest Chinese competitor unveils cutting-edge new AI GPUs — Moore Threads S4000 AI GPU and Intelligent Computing Center server clusters using 1,000 of the new AI GPUs | Tom&amp;#39;s H</description>
+    </item>
   </channel>
 </rss>
