@@ -17218,5 +17218,29 @@
       <pubDate>2023/12/20 08:20</pubDate>
       <description>Microsoftのチャットボット「Copilot」で話題の音楽生成AI「Suno」をプラグインとして使えるようになった。Copilotに作りたい曲をテキストで依頼すると歌詞とメロディが生成される。 米Microsoftは12月19日（現地時間）、同社のチャットボット「Copilot」のプラグインとして、米Sunoの音楽生成AI「Suno」を利用可能にしたと発表した。 利用するには、EdgeブラウザあるいはChromeブラウザでMicrosoftアカウントにログインし、右上のタブで「プラグイン」を選んで「Suno」を有効にする。（現在ロールアウト中で、筆者の環境ではなぜか設定言語を英語にしたら表示された。）</description>
     </item>
+    <item>
+      <title>生成AIのコンテンツ学習、違法のケースも　文化庁が「考え方」素案：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRDN3V91RDMUCVL03Q.html</link>
+      <pubDate>2023/12/20 12:35</pubDate>
+      <description>産業技術総合研究所と東京工業大学の研究チームは、日本語に強い大規模言語モデル（LLM）「Swallow」を公開した。 産業技術総合研究所と東京工業大学の研究チームは12月19日、日本語に強い大規模言語モデル（LLM）「Swallow」を公開した。米Metaが開発したLLM「Llama 2シリーズ」をベースに日本語能力を改善させたもの。ライセンスは「LLAMA 2 Community License」で、研究や商業目的で利用できる。 今回公開したのは、パラメータ数が70億（7B）、130億（13B）、700億（70B）のモデル3種類。Llama 2シリーズが持つ高い言語処理能力を維持しながら日本語能力を強化することを目指した。 このため、AIモデルに日本語の文字や単語などの語彙を追加し、新たに開発した日本語データで継続事前学習（学習済みのLLMに対して追加で事前学習を行う手法で、異なる言語な</description>
+    </item>
+    <item>
+      <title>誰でも「クリスマスカード」作れる画像生成AIツール、日本コカ・コーラが公開　自社の広告制作にも使用</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/20/news134.html</link>
+      <pubDate>2023/12/20 15:33</pubDate>
+      <description>ポトフがおいしい季節ですね、菅野です。 Amazon BedrockのKnowledge baseがGAとなり、Amazon BedrockでもRAGが作成できるようになりました。 docs.aws.amazon.com 今回はKnowledgeベースを実際に作成して統計データを検索するRAGを構築してみます。 RAGとは RAGアーキテクチャ（Retrieval-Augmented Generation）は、自然言語処理において、Google検索のような検索技術と、ChatGPTのような文章生成技術を組み合わせた技術です。 このアーキテクチャを利用すると、生成AIが学習していないデータ、例えば自社の内部レポートのようなデータを用いて、ChatGPTライクな応答システムを構築できます。 具体的には、何か質問を受けると、質問に関連した文章を検索し、その検索結果を元に自然となるような回答を生成</description>
+    </item>
+    <item>
+      <title>GPTsより精度の高いRAGシステムの構築</title>
+      <link>https://speakerdeck.com/mkazutaka/gptsyorijing-du-nogao-iragsisutemunogou-zhu</link>
+      <pubDate>2023/12/20 11:04</pubDate>
+      <description>TL;DR 14個の「日本語が話せるLLM」（日本製・外国製問わず）の性能を、日本語データセット ELYZA-tasks-100 で横断評価しました 海外勢70Bモデルの性能が高いことがわかりました。7Bでは ELYZA-japanese-llama-2 や CALM2 の成績がよかったです モデルの回答・スクリプトへのリンクは記事内に貼っています JGLUE などのベンチマークは、モデルの性能を反映しているのか？ 2023年は、かつてないほど多くの LLM が（クローズド・パブリック問わず）公開され、まさに LLM フィーバーの年でした。 一方で、どのモデルが高性能なのか、自分の利用用途に合ったモデルはどれなのか、とお悩みの方も多いのではないでしょうか。 LLM の性能を比較するときに役立つのが、ベンチマークです。 英語圏の LLM に関していえば、MMLU や HellaSwag、Wi</description>
+    </item>
+    <item>
+      <title>グーグルAI検索、メディアのトラフィックに大打撃</title>
+      <link>https://jp.wsj.com/articles/news-publishers-see-googles-ai-search-tool-as-a-traffic-destroying-nightmare-3e64a248</link>
+      <pubDate>2023/12/19 18:06</pubDate>
+      <description>パキスタンのイムラン・カーン元首相は、自ら書いた原稿を外部の協力者にAIで音声化してもらうことで獄中からオンラインでの選挙活動を展開することに成功しました。同時にパキスタンの規制当局はX、Facebook、Instagram、YouTubeなどSNSへのアクセスを遮断して選挙活動を妨害しているとみられています。 Founding Chairman Imran Khan&amp;#39;s speech in AI voice. Can&amp;#39;t stop praising Dr Asma for staying up 36 hours to get this done in time, Nausheen for translations and Intazar Bhai for getting notes from the Legend Imran Khan! #PTIVirtualJalsa pic.twit</description>
+    </item>
   </channel>
 </rss>
