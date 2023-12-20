@@ -17260,5 +17260,26 @@
       <pubDate>2023/12/20 14:15</pubDate>
       <description>中国の新興GPUメーカー「Moore Threads」が、2023年12月19日にAIのトレーニングやデータセンター向けGPU「MTT S4000」を発表しました。公式発表によると、MTT S4000のMUSIFYツールはNVIDIAのCUDAとの完全な互換性があるとのことです。 摩尔线程首个千卡智算中心落地，从算力到生态全面加速大模型发展 | 摩尔线程 https://www.mthreads.com/news/146 Nvidia&amp;#39;s biggest Chinese competitor unveils cutting-edge new AI GPUs — Moore Threads S4000 AI GPU and Intelligent Computing Center server clusters using 1,000 of the new AI GPUs | Tom&amp;#39;s H</description>
     </item>
+    <item>
+      <title>Honoの今の状況 - ゆーすけべー日記</title>
+      <link>https://yusukebe.com/posts/2023/current-status-of-hono/</link>
+      <pubDate>2023/12/20 19:43</pubDate>
+      <description>トレーディングカードゲーム『Magic: The Gathering（マジック：ザ・ギャザリング）』『デュエル・マスターズ』を開発・運営するWizards of the Coast（WotC）社が、生成AI（ジェネレーティブAI）の使用に関して、声明を現地時間12月19日に発表。 『Magic: The Gathering』に関わるアーティスト、ライター、クリエイターに対し、生成AIを使わないことを求めていることを明かした。 WotC社は先日、親会社であるHasbro（ハズブロ）が大規模なレイオフを実施。関連して、求人情報などから「アーティストの代わりにAIを起用するのではないか」とファンコミュニティで話題になっていた。 大規模なレイオフが実施されたHasbro社／WotC社 WotC社は『Magic: The Gathering』以外にも、欧米で絶大な人気を誇るTRPG『ダンジョンズ＆ド</description>
+    </item>
+    <item>
+      <title>Googleの生成AI「Bard」日本語版に新機能、GmailやYouTubeなどのサービスと連携可能に　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/1555874.html</link>
+      <pubDate>2023/12/20 10:12</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4a86a4981dd7b79b45b4577be1cf03516e6568f0/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1555%2F955%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>中国のGPUメーカー「Moore Threads」がAIトレーニングやデータセンター向けGPU「MTT S4000」を発表</title>
+      <link>https://gigazine.net/news/20231220-moore-threads-mtt-s4000/</link>
+      <pubDate>2023/12/20 12:47</pubDate>
+      <description>この記事はVisual Studio Code Advent Calendar 2023 19日目の記事です。 もうすぐクリスマスですね。我が家は3歳の息子がいるのですが、今更「ツリー買い忘れたけどなんか飾り付けほしいなぁ」と思ってダイソーでツリーが印刷された布を買い、布を壁に貼ってシールや工作物をペタペタ貼ることでそれっぽいものができました。ツリーのゴミも散らからないので、もし悩んでいる方がいればぜひお試しください DALL-Eで出力してもらったイメージはこちらになります（こんなにちゃんとしていませんが） はじめまして、LayerX 機械学習チームの @yakipudding です。 突然ですが、私はSQLを書くのが好きではないです。業務での調査や分析によくSQLを使用するのですが、構文やJOIN、どの項目がどのテーブルにあるのかなどを都度確認しながら書くのが面倒で、億劫に感じます。 そ</description>
+    </item>
   </channel>
 </rss>
