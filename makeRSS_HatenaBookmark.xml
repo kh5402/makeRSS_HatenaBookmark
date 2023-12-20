@@ -17170,5 +17170,23 @@
       <pubDate>2023/12/20 11:59</pubDate>
       <description>TL;DR 14個の「日本語が話せるLLM」（日本製・外国製問わず）の性能を、日本語データセット ELYZA-tasks-100 で横断評価しました 海外勢70Bモデルの性能が高いことがわかりました。7Bでは ELYZA-japanese-llama-2 や CALM2 の成績がよかったです モデルの回答・スクリプトへのリンクは記事内に貼っています JGLUE などのベンチマークは、モデルの性能を反映しているのか？ 2023年は、かつてないほど多くの LLM が（クローズド・パブリック問わず）公開され、まさに LLM フィーバーの年でした。 一方で、どのモデルが高性能なのか、自分の利用用途に合ったモデルはどれなのか、とお悩みの方も多いのではないでしょうか。 LLM の性能を比較するときに役立つのが、ベンチマークです。 英語圏の LLM に関していえば、MMLU や HellaSwag、Wi</description>
     </item>
+    <item>
+      <title>Cloudflare Workers Tech Talks #2 - Yusuke Wada</title>
+      <link>https://blog.yusu.ke/workers-tech-talks-2/</link>
+      <pubDate>2023/12/20 10:53</pubDate>
+      <description>こんにちは！Vue.js 日本ユーザーグループ代表の kazupon です。 2023年10月28日(土)に中野セントラルパークカンファレンスでVue Fes Japan 2023を開催しました。 去年2022年はオンラインカンファレンス開催でしたが、今年2023年は COVID-19 が落ち着き、初開催した2018年より5年ぶりに日本でようやくオフラインカンファレンスを開催することができました。 当日多くの方に参加頂き、1日のカンファレンスを通して盛り上がりました。 協賛して頂いた各社、団体、個人スポンサーの皆様、スピーカーの皆さん、そして参加された皆さん、本当にありがとうございました。 カンファレンス開催から1ヶ月以上経ってしまいましたが、改めてカンファレンスを振り返ってみたいと思います。 レポート今年のカンファレンス参加状況ですが以下になりました。 全参加者数: 587名 一般参加者</description>
+    </item>
+    <item>
+      <title>ELYZA-tasks-100 でLLM14個の日本語性能を横断評価してみた - Qiita</title>
+      <link>https://qiita.com/wayama_ryousuke/items/105a164e5c80c150caf1</link>
+      <pubDate>2023/12/20 11:23</pubDate>
+      <description>Microsoftのチャットボット「Copilot」で話題の音楽生成AI「Suno」をプラグインとして使えるようになった。Copilotに作りたい曲をテキストで依頼すると歌詞とメロディが生成される。 米Microsoftは12月19日（現地時間）、同社のチャットボット「Copilot」のプラグインとして、米Sunoの音楽生成AI「Suno」を利用可能にしたと発表した。 利用するには、EdgeブラウザあるいはChromeブラウザでMicrosoftアカウントにログインし、右上のタブで「プラグイン」を選んで「Suno」を有効にする。（現在ロールアウト中で、筆者の環境ではなぜか設定言語を英語にしたら表示された。）</description>
+    </item>
+    <item>
+      <title>GPT-4を使って「やさしい日本語」へ言い換えてみよう - NTT Communications Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/2023/12/20/085542</link>
+      <pubDate>2023/12/20 09:01</pubDate>
+      <description>情報の海をハックするカギは「捨てる」こと。LayerX松村氏に学ぶ、価値ある情報を取りこぼさないコツ 2023年12月20日 株式会社LayerX 機械学習・データ部 機械学習グループ マネージャー 松村 優也 1993年生まれ。2018年3月、京都大学大学院情報学研究科 社会情報学専攻修士課程修了。在学中の起業経験を経て、新卒でウォンテッドリー株式会社に入社、推薦システムチームの立ち上げに関わる。2021年にはWantedly VisitのPdM、開発組織のEMを兼任。2022年9月に株式会社LayerXに機械学習エンジニアとして入社。2023年には機械学習チームのリーダー、現職に就任。 X（Twitter） Speakerdeck 技術や業界など仕事についての情報収集の基盤として多くのエンジニアを支えていたTwitter（現X）が、以前とは異なる姿となってゆく今、必要な情報を過不足なく</description>
+    </item>
   </channel>
 </rss>
