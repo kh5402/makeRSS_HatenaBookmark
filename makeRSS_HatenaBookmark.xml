@@ -17293,5 +17293,23 @@
       <pubDate>2023/12/18 15:48</pubDate>
       <description>まえがき ミャンマーでは公用語としてビルマ語が使われている。ビルマ語の表記にはビルマ文字を用いるのだが、このビルマ文字のインターネット上での使用は、混迷を極めていた。そしておそらく今もまだ…。なぜか？ それは、Unicodeという文字コードの標準がありながら、Zawgyiというものが広く使われていたためである。なぜそのようなものが登場し、普及することとなったのか、この記事で解説する。 目次 まえがき 目次 凡例 この記事で使う名称について ビルマ語表記 コードポイント ラテン文字表記について Zawgyiの概説と歴史 Zawgyiとは Zawgyiのダウンロード Zawgyi誕生・普及の経緯 複雑なビルマ文字 ビルマ文字とUnicode 回避策としてのビルマ文字フォントの登場 Zawgyiの普及 Zawgyiの実装 実装の方針 文字の並べ替えをせず、左から右に書く 文字の形のバリエーション</description>
     </item>
+    <item>
+      <title>“家庭用囲碁ロボット”発売へ　AI＆ロボットアーム付きで、自力で指す　価格は16万5000円</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/20/news177.html</link>
+      <pubDate>2023/12/20 19:54</pubDate>
+      <description>この記事は2023 JSConf JPで発表したHono v3 and v4を元に11月17日に書いたCloudflare社内のブログ記事「Current Status of Hono」を日本語に訳した記事です。 Honoの「Initial commit」からおおよそ2年が経ちました。このプロジェクトは2021年の12月15日に始まりました。 当初、私はCloudflare WorkersのみのためにHonoを作りました。itty-routerはよかったものの、私が欲しかった多くの機能が欠落していました。また、私は勉強のためにTrie木構造のルーターを作りたかったのです。それがHonoの生まれた理由です。 それから多くのことが起こりました。私がCloudflareにいるのもHonoのおかがです！HonoはCloudflare開発者コミュニティで認知されていきました。Honoの人気が出ること</description>
+    </item>
+    <item>
+      <title>「100年もハミガキを研究していると…」ライオンが社内情報を知り尽くした生成AIを開発したワケ</title>
+      <link>https://diamond.jp/articles/-/336134</link>
+      <pubDate>2023/12/20 14:27</pubDate>
+      <description>今回公開したLLMは、英語の言語理解や対話で高い能力を持つ大規模言語モデル・米Meta社「Llama 2」の日本語能力を拡張することで「Swallow」を構築。拡張前の Llama2 のの高い言語処理能力を維持しながら日本語能力を強化するため、言語モデルに日本語の文字や単語などの語彙を追加したうえで、新たに開発した日本語データを用いてモデルの構築を継続的に行う継続事前学習を行った。今回、パラメータ数が70億パラメータ「7B」、130億パラメータ「13B」、700億パラメータ「70B」であるモデルを公開した。 📢 大規模言語モデル「Swallow」をHugging Face上で公開しました。東京工業大学情報理工学院の岡崎研究室と横田研究室、産業技術総合研究所の研究チームでLlama 2 7B, 13B, 70Bの日本語能力を引き上げました。13Bと70BのオープンなLLMの中で日本語の最高</description>
+    </item>
+    <item>
+      <title>文化審議会著作権分科会法制度小委員会（第5回） | 文化庁</title>
+      <link>https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_05/</link>
+      <pubDate>2023/12/20 13:31</pubDate>
+      <description>トレーディングカードゲーム『Magic: The Gathering（マジック：ザ・ギャザリング）』『デュエル・マスターズ』を開発・運営するWizards of the Coast（WotC）社が、生成AI（ジェネレーティブAI）の使用に関して、声明を現地時間12月19日に発表。 『Magic: The Gathering』に関わるアーティスト、ライター、クリエイターに対し、生成AIを使わないことを求めていることを明かした。 WotC社は先日、親会社であるHasbro（ハズブロ）が大規模なレイオフを実施。関連して、求人情報などから「アーティストの代わりにAIを起用するのではないか」とファンコミュニティで話題になっていた。 大規模なレイオフが実施されたHasbro社／WotC社 WotC社は『Magic: The Gathering』以外にも、欧米で絶大な人気を誇るTRPG『ダンジョンズ＆ド</description>
+    </item>
   </channel>
 </rss>
