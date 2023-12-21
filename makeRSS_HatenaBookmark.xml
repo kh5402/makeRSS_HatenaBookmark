@@ -17656,5 +17656,23 @@
       <pubDate>2023/12/20 21:02</pubDate>
       <description>生成AIをめぐり、岸田総理大臣は、先進各国で安全性などの研究を行う機関の創設の動きが出ているとして、日本もこれに連携して対応していくため、同様の役割を担う国の機関を、1月をめどに設立する意向を明らかにしました。 政府は21日に「AI戦略会議」を開き、生成AIの利活用に向けた対応策を議論しました。 この中で、岸田総理大臣は「AIをめぐる安全性に対する国際的認識が高まり、イギリスやアメリカでは研究を行う機関が創設されている」と指摘しました。 そのうえで、「日本としても連携し、AIの安全性の評価手法の研究や規格作成などを行う機関が必要との考えに立ち、『AIセーフティー・インスティテュート』を来年1月めどで設立する」と明らかにしました。 また会合では、AIを活用するすべての事業者向けのガイドラインの最終案もまとめました。 「人間中心」などといった基本原則を掲げたうえで、 ▽AIに関する法令を順守す</description>
     </item>
+    <item>
+      <title>GitHub - cumulo-autumn/StreamDiffusion: StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation</title>
+      <link>https://github.com/cumulo-autumn/StreamDiffusion</link>
+      <pubDate>2023/12/22 00:30</pubDate>
+      <description>Kaggleアドベントカレンダー2023の19日目の記事です． TL;DR データ分析未経験からkaggleでどんなことを学んだか 想像していたデータ分析と実業務とのGap kaggleやっていて良かったこと、kaggleでは学ばなかったこと はじめに 趣味でkaggleを始めたことをきっかけに、現在はデータ分析の仕事をしています。 Muj!rush!というアカウントでKaggleをしています。Kaggle expertです。 kaggleを始めてから3年程度経過したので(この3年間は、地球の公転が早まってんのかってくらい時間が経つのが早かったです)、これまでを振り返ることで、今後kaggleを始めてデータサイエンティストを目指すような方への参考になれば幸いです。 Kaggleと出会ったことで仕事への向き合い方や、今後のキャリアの考え方が変わったので、 僭越ながら一言だけ言わせてもらうと、</description>
+    </item>
+    <item>
+      <title>Microsoft、.NET開発者向け軽量コンテナイメージを提供開始</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2312/21/news062.html</link>
+      <pubDate>2023/12/21 11:18</pubDate>
+      <description>生成AIをめぐり、岸田総理大臣は、先進各国で安全性などの研究を行う機関の創設の動きが出ているとして、日本もこれに連携して対応していくため、同様の役割を担う国の機関を、1月をめどに設立する意向を明らかにしました。 政府は21日に「AI戦略会議」を開き、生成AIの利活用に向けた対応策を議論しました。 この中で、岸田総理大臣は「AIをめぐる安全性に対する国際的認識が高まり、イギリスやアメリカでは研究を行う機関が創設されている」と指摘しました。 そのうえで、「日本としても連携し、AIの安全性の評価手法の研究や規格作成などを行う機関が必要との考えに立ち、『AIセーフティー・インスティテュート』を来年1月めどで設立する」と明らかにしました。 また会合では、AIを活用するすべての事業者向けのガイドラインの最終案もまとめました。 「人間中心」などといった基本原則を掲げたうえで、 ▽AIに関する法令を順守す</description>
+    </item>
+    <item>
+      <title>OpenAI騒動が示す｢人類がAIと戦っている｣現実</title>
+      <link>https://toyokeizai.net/articles/-/722992</link>
+      <pubDate>2023/12/21 10:29</pubDate>
+      <description>はじめに Kotoba Technologies, Inc. Co-Founder/CTO、Toyota Technological Institute at Chicago, Research Assistant Professorの笠井淳吾です。これまで自然言語処理（NLP）、機械学習の国際学会（ACL、ICLR、NeurIPS、EMNLP、ICCVなど）にて、投稿や発表を積み重ねてきましたが、一度自分なりに論文を書く際に考えていること、留意点、コツのようなものを言語化して共有したいと思います。個人の好みによるところも多々あるかと思いますので、取捨選択していただいて、皆さんの論文執筆の一助になることを願っています。 全体のストラクチャー まずは全体の流れから考えていきます。基本的に、論文を書く際には（多くの場合そもそもプロジェクトを始める前に）、タイトルをイメージしていきます。タイトル</description>
+    </item>
   </channel>
 </rss>
