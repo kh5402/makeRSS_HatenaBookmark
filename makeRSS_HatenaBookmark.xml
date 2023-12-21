@@ -17344,5 +17344,50 @@
       <pubDate>2023/12/20 17:19</pubDate>
       <description>Google Bard便利すぎ。Gmailから検索して表まで作るだなんて…2023.12.20 20:00 小暮ひさのり 仕事、楽になる予感しかしない。 Googleのチャットボット｢Google Bard｣。話してみると、受け答えはまだまだ勉強中といった感じで、ChatGPTの方が先を行っている感はありますけど、それでも新機能を突っ込んでくるのがGoogleの偉いところ。 先日、｢Google Workspace｣の拡張機能が実装され、Gmail、Drive、Docsとも連携できるようになりました。特に刺さったのがGmail。この機能、Gmailをメインでやりとりしているなら使ったほうがいいですよ。 Gmailからいろいろな情報を探して提示できるのが神すぎ…Image: 小暮ひさのりGmailを見られて助かるのが、｢あのメール返したかな？｣とか｢あの案件の期日いつって言われてたっけ…｣な</description>
     </item>
+    <item>
+      <title>フロントエンドのLinterやCIを改善した話</title>
+      <link>https://zenn.dev/hush_in/articles/2083213554328f</link>
+      <pubDate>2023/12/21 09:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/67ec5eb6f539f0486cf1145da0950eaef6280a8c/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1556%2F174%2Fmicrosoft_copilot.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIが生成したフェイクニュースを掲載するウェブサイトが半年で1000％以上に爆増している</title>
+      <link>https://gigazine.net/news/20231221-ai-created-fake-news-websites-increase/</link>
+      <pubDate>2023/12/21 07:42</pubDate>
+      <description>マイページに保存最終更新日：2023/12/20 Appleの研究者らは、LLMのパラメータをSSDなどの外部フラッシュメモリに保存し、接続したPCなどで読み込み使用する手法を開発しました。 CPUで4-5倍、GPUで2 […] The post Appleが、LLMのパラメータを「SSDなどの外部フラッシュメモリに保存し」PCで効率的にモデルを使用する手法を開発　 first appeared on AIDB.</description>
+    </item>
+    <item>
+      <title>東京都 生成AI導入も 利用する職員 対象の1割にとどまる | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231221/k10014294521000.html</link>
+      <pubDate>2023/12/21 05:58</pubDate>
+      <description>“家庭教師”はAI――。そんな時代が、すぐそこまで来ているような気がする。 ChatGPTが公開されてから1年、生成AIは教育分野でも存在感が強まっている。 国がことし7月に発表した小中学校での生成AI活用に関する「暫定的なガイドライン」では、リスクに対応できる一部の学校で試験的に取り組み、今後の議論につなげるべきだとされているが、小学生から大学生までさまざまな学びの現場で自主的な活用が始まっている。生成AIがもたらす学びの革命とは。 （科学・文化部記者 絹川千晴）</description>
+    </item>
+    <item>
+      <title>Apple、限られたメモリで効率的な大規模言語モデル推論を行う方法を開発 | NEWS | Mac OTAKARA</title>
+      <link>https://www.macotakara.jp/news/entry-45876.html</link>
+      <pubDate>2023/12/21 02:01</pubDate>
+      <description>今日、文化庁は生成AIと著作権保護についてのガイドラインとなる素案を提示しました。 生成AIでなにが合法でなにが違法になるのか、注目しているクリエイターや開発者、ビジネス系のひとなど、多くの生成AI周辺にいる人たち全員に関係あるガイドラインがいままさに検討されているわけです。 朝日新聞ではこう報じられています。 文化庁は20日、文化審議会著作権分科会の法制度小委員会に、生成AI（人工知能）によるコンテンツの無断学習は、著作権法で著作権者の許諾が不要とされる「非享受目的」にあたらない場合があるとする「AIと著作権に関する考え方」の素案を示した。生成AIが記事や画像データなどを無断で利用する「ただ乗り」（フリーライド）に懸念の声が上がる中、現行法を厳格に解釈し、歯止めをかけたい考えだ。 朝日新聞デジタルより引用 digital.asahi.com この盛り上がっている文化庁の資料というのがこち</description>
+    </item>
+    <item>
+      <title>ＡＩは特許の「発明者」になれず、英最高裁が判決</title>
+      <link>https://jp.reuters.com/economy/industry/JDBV6FHK2JPIDNWIDVAR4FNH5E-2023-12-20/</link>
+      <pubDate>2023/12/21 03:07</pubDate>
+      <description>ChatGPTで「業務アプリ」作成に挑戦　プログラミングの工数削減につながるか？　新機能を使い倒してみた AIの進化が止まらない。“生成AIブーム”の火付け役といえる米OpenAIの「ChatGPT」が2022年11月に登場してから、早くも1年以上が経過した。当時、出力結果の精度の高さに驚いた人も多いだろう。 世の中に数多くのAIツールや基盤モデルが登場し、業務効率化やデータ分析による新たな価値創造を狙ってAIの活用に乗り出そうという企業も増えている。米IDCが全世界の890人を対象に23年9月に実施した調査によると、77％以上の組織が生成AIに投資または活用を模索中と答えた（米IDC「企業向けGenerative AIガイド」より）。 生成AIはどのような用途で活躍するのか。IDCが上記調査で「今後18カ月で生成AIが最も大きな影響を与える可能性があるビジネス分野」を聞くと、第1位が「ソ</description>
+    </item>
+    <item>
+      <title>Googleが1000億円超をGoogle Playの独占禁止法違反訴訟で支払うと発表</title>
+      <link>https://gigazine.net/news/20231220-google-pay-700m-play-dispute-settlement/</link>
+      <pubDate>2023/12/20 17:25</pubDate>
+      <description>文化庁は20日、生成AI（人工知能）と著作権のあり方を検討する文化審議会の小委員会で、著作権者側が複製防止などの対策を講じているにもかかわらず、AIが無断で機械学習した場合、著作権侵害になり得るとの考え方の素案を示した。小委員会は素案を踏まえ2024年3月までに議論を取りまとめる予定。著作権法の改正ではなく、現行法の規定との関係を整理したうえで、今後指針などを策定する方針だ。現行の著作権法は</description>
+    </item>
+    <item>
+      <title>プロンプトエンジニアリングの基本と応用 - Platinum Data Blog by BrainPad</title>
+      <link>https://blog.brainpad.co.jp/entry/2023/12/19/153000</link>
+      <pubDate>2023/12/19 20:48</pubDate>
+      <description>JavaScript: Past, Present, and Future - NDC Porto 2020</description>
+    </item>
   </channel>
 </rss>
