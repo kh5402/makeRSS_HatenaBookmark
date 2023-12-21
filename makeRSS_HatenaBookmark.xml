@@ -17584,5 +17584,11 @@
       <pubDate>2023/12/20 05:51</pubDate>
       <description>この記事はVisual Studio Code Advent Calendar 2023 19日目の記事です。 もうすぐクリスマスですね。我が家は3歳の息子がいるのですが、今更「ツリー買い忘れたけどなんか飾り付けほしいなぁ」と思ってダイソーでツリーが印刷された布を買い、布を壁に貼ってシールや工作物をペタペタ貼ることでそれっぽいものができました。ツリーのゴミも散らからないので、もし悩んでいる方がいればぜひお試しください DALL-Eで出力してもらったイメージはこちらになります（こんなにちゃんとしていませんが） はじめまして、LayerX 機械学習チームの @yakipudding です。 突然ですが、私はSQLを書くのが好きではないです。業務での調査や分析によくSQLを使用するのですが、構文やJOIN、どの項目がどのテーブルにあるのかなどを都度確認しながら書くのが面倒で、億劫に感じます。 そ</description>
     </item>
+    <item>
+      <title>新車をたった1ドルで販売することにディーラーのAIチャットボットが同意してしまう</title>
+      <link>https://gigazine.net/news/20231220-gm-dealer-chat-bot-tricked/</link>
+      <pubDate>2023/12/20 17:23</pubDate>
+      <description>LLM in a flash: Efficient Large Language Model Inference with Limited Memory AppleのMachine Learning Researchは、arXivに「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」を投稿しています。 大規模言語モデル（LLM）は、現代の自然言語処理の中心的存在であり、様々なタスクにおいて卓越した性能を発揮します。しかし、その集中的な計算とメモリ要件は、特にDRAM容量が限られたデバイスにとって課題となります。 この論文では、モデルのパラメータをフラッシュメモリに保存し、必要に応じてDRAMに取り込むことで、利用可能なDRAM容量を超えるLLMを効率的に実行するという課題に取り組みむと説</description>
+    </item>
   </channel>
 </rss>
