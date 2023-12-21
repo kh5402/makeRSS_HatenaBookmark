@@ -17443,5 +17443,62 @@
       <pubDate>2023/12/21 00:54</pubDate>
       <description>めんどくさい作業にぶち当たった時、一気に改善してしまう人がいる。ガッと自動化したり仕組みそのものを変えたりしてしまうのだ。「めんどくさい」と心の中で思ったなら、その時スデに行動は終わっているのである。 たとえばコードレビューで都度同じ指摘をしだしたらLintとCIを整備したり、期限のリマインドを何度もしていたらリマインドそのものを自動化したり。CI/CDやBranch Protect Ruleを初期段階で整えるみたいな動きもそう。 こういう動きができる人とできない人の違いは、大きく次の4つの段階に分けられる。 1. めんどくさいと自覚できるか 1つめはスタンスの問題かもしれない。「もっとよくできないか？」「なぜこれをやってるんだっけ？」といった感じで今の運用を疑ってみるのが第一歩である。 よい状態を知っている方が当然自覚しやすいので、次の2とも密接に関係してくる。 2. めんどくさくない状</description>
     </item>
+    <item>
+      <title>2023年のプロダクトセキュリティを振り返る【各業界の開発・セキュリティエンジニア13人に聞く（前編）】 - #FlattSecurityMagazine</title>
+      <link>https://flatt.tech/magazine/entry/20231221_product_security</link>
+      <pubDate>2023/12/21 14:26</pubDate>
+      <description>先日、『SOFT SKILLS』という本を読みました。 『SOFT SKILLS』を読んだ内容は別途、note にまとめています。 上記の記事を書いている際に、「日本版の、それも 20 代のうちに読んでよかった本をまとめたら面白そうだし有益なんじゃないか」と思いました。 &amp;quot;ソフトウェア開発者&amp;quot;としてのバイブルは人によって異なります。なぜなら人によって専門が違うからです。Java が専門の人にとって、C#の書籍はバイブルたり得ないでしょう。 しかし、ソフトウェア開発者の&amp;quot;人生&amp;quot;としてのバイブルであれば、皆一様に同じレベルで共感してもらえるのでは？と思いました。 ということで今回は『SOFT SKILLS』に書かれている、 キャリア セルフマーケティング 学習 生産性 資産形成 フィットネス マインドセット の順に自分が 20 代前半で読んでおいてよかったと思う本。 そして、ソフトウェア開発者</description>
+    </item>
+    <item>
+      <title>生成AIの学習データに児童虐待画像　米大学研究者が指摘 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN20F220Q3A221C2000000/</link>
+      <pubDate>2023/12/21 12:49</pubDate>
+      <description>めんどくさい作業にぶち当たった時、一気に改善してしまう人がいる。ガッと自動化したり仕組みそのものを変えたりしてしまうのだ。「めんどくさい」と心の中で思ったなら、その時スデに行動は終わっているのである。 たとえばコードレビューで都度同じ指摘をしだしたらLintとCIを整備したり、期限のリマインドを何度もしていたらリマインドそのものを自動化したり。CI/CDやBranch Protect Ruleを初期段階で整えるみたいな動きもそう。 こういう動きができる人とできない人の違いは、大きく次の4つの段階に分けられる。 1. めんどくさいと自覚できるか 1つめはスタンスの問題かもしれない。「もっとよくできないか？」「なぜこれをやってるんだっけ？」といった感じで今の運用を疑ってみるのが第一歩である。 よい状態を知っている方が当然自覚しやすいので、次の2とも密接に関係してくる。 2. めんどくさくない状</description>
+    </item>
+    <item>
+      <title>生成AI と Wikipedia記事 で 子供向けお仕事提案bot を作ってみよう(Azure OpenAI + RAG) - ENGINEERING BLOG ドコモ開発者ブログ</title>
+      <link>https://nttdocomo-developers.jp/entry/20231221_1</link>
+      <pubDate>2023/12/21 11:08</pubDate>
+      <description>CEOの突然の解任と復帰、理事会の再編劇　背後に「思想」対立？ まずOpenAI内紛劇を簡単に「おさらい」しておこう。 OpenAIの理事会は11月17日にサム・アルトマンCEO（最高経営責任者）を解任。ところがわずか5日後、11月22日にアルトマンはCEOとして復帰すると発表された。 ただしアルトマンは理事の地位は失い、また自分の行動について独立した調査を受けることに同意した。OpenAIの理事会は再編となり、旧理事6名のうち、アダム・ダンジェロ（Quora CEO）だけが残り、ブレット・テイラー（元Salesforce 共同CEO、元Twitter 取締役会会長）、ローレンス・サマーズ（ハーバード大学教授、元財務長官）の2名を加えた3人態勢での再出発となった。 OpenAIのサム・アルトマン前最高経営責任者（CEO）＝2023年11月6日、サンフランシスコ、五十嵐大介撮影 アルトマン解</description>
+    </item>
+    <item>
+      <title>ホワイトボードアプリの｢Miro｣が生成AI新機能を発表。ブレストのアイデア出し・分類・分析を丸投げできる</title>
+      <link>https://www.businessinsider.jp/post-280119</link>
+      <pubDate>2023/12/21 08:45</pubDate>
+      <description>この記事は 株式会社エス・エム・エス Advent Calendar 2023 の21日目の記事です。 介護事業者向けの経営支援サービス「カイポケ」のリニューアルプロジェクトでフロントエンド開発をしている @hush_in です。 今年の4月にエス・エム・エスに入社しました。 入社してからフロントエンドのLinterやCIを改善した話をします。 忙しい人向けまとめ ESLint の recommended 系 extends を追加 全般 eslint:recommended plugin:import/recommended TypeScript plugin:@typescript-eslint/recommended-type-checked plugin:@typescript-eslint/stylistic-type-checked plugin:import/typescri</description>
+    </item>
+    <item>
+      <title>KDDIアジャイル開発センター、Azure OpenAI ServiceとAmazon Bedrockを用いて生成AIを活用したプロダクトを複数開発</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000009.000115171.html</link>
+      <pubDate>2023/12/21 00:45</pubDate>
+      <description>※この記事では可読性のために昔懐かしいフォントいじり芸を若干使用しています。 はてなブログになんか新機能できたようです。 staff.hatenablog.com blog.hatenablog.com ブログの編集してたらポップアップしてまでアピールしてきたので、 過去記事の編集モードでちょっと触ってみました。 詳しくは上記のリンクを参照されてください。 とりあえず直近で一番ブクマが多かった記事でお試し。 aqm.hatenablog.jp 編集画面のタイトル編集欄の赤枠で囲ったボタン？をクリックすると機能が起動します。 起動したウィンドウの「実行する」をクリック。 でけでけでけでけでけでけでけでけでけでけ、でん！ 「りぼん育ちの男子が解き明かす女心の謎！」 煽り力高いというか「女心マスターの俺に文句ある奴はかかってこい！」感が強い…ｗ 続いてこちらの記事。 aqm.hatenablog</description>
+    </item>
+    <item>
+      <title>RAGにおけるドキュメント検索精度向上について(実践編)</title>
+      <link>https://zenn.dev/sompojapan_dx/articles/ef594abff3a3c0</link>
+      <pubDate>2023/12/20 16:41</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/67ec5eb6f539f0486cf1145da0950eaef6280a8c/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1556%2F174%2Fmicrosoft_copilot.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ChatGPTで「業務アプリ」作成に挑戦　プログラミングの工数削減につながるか？　新機能を使い倒してみた</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/15/news011.html</link>
+      <pubDate>2023/12/20 22:01</pubDate>
+      <description>現地時間の2023年12月19日、Googleがモバイルアプリストア・Google Playに関する独占禁止法違反訴訟で和解に達しました。Googleは和解金として7億ドル(約1000億円)を支払うと発表しています。 Reaffirming choice and openness on Android and Google Play https://blog.google/outreach-initiatives/public-policy/reaffirming-choice-and-openness-on-android-and-google-play/ Google says it will pay $700M as a part of Play Store dispute settlement | TechCrunch https://techcrunch.com/2023/12/</description>
+    </item>
+    <item>
+      <title>生成ＡＩを使った著作物の機械学習、文化庁が著作権侵害の「考え方」素案提示</title>
+      <link>https://www.yomiuri.co.jp/culture/20231220-OYT1T50149/</link>
+      <pubDate>2023/12/20 16:39</pubDate>
+      <description>Googleは現地時間12月19日、同社のコーディングツール「Colab」(Colaboratory)において、生成AIのCodeyを用いたコーディング補助機能の提供を期間限定ながらFreeプランを含む無料ユーザーに拡張したことを発表した。 Jupyterノートブックスタイルで高機能環境を実行できる「Google Colab」のColab AI GoogleのTPU(Tensor Processing Unit)やNVIDIAのGPUを活用した機械学習も可能なGoogle Colabは、オープンソースJupyterをベースにしたノートブックスタイルのプログラミング実行環境で月間1000万のアクティブユーザーを持つ。今回、拡張されたColab AIは、同社の生成AI「Codey」でコードエラーの説明や自然言語からのコード生成などを提供するもので、有償のPro版以上のラインナップで提供されてい</description>
+    </item>
+    <item>
+      <title>【新機能はつかえるのか？】AIが考えるタイトルとは…（実験） - 無職ぽこのらくがき</title>
+      <link>https://pokonorakugaki2341.com/entry/2023/12/20/130000</link>
+      <pubDate>2023/12/20 13:18</pubDate>
+      <description>中国SenseRobotは、家庭向け囲碁ロボット「SenseRobot Go」を発表した。視覚と判断能力を備えたAIと、石を指せるロボットアームを備えており、ロボットと囲碁で対戦できる。2024年1月5日から高島屋などで発売予定で、価格は16万5000円。 ロボット開発を手掛ける中国SenseRobotは12月20日、家庭向け囲碁ロボット「SenseRobot Go」を発表した。盤面を認識するカメラや、碁石を保持できるロボットアーム、碁を打つAIを備えており、人間と対戦できる2024年1月5日から高島屋などで発売予定で、価格は16万5000円。 ロボットは、白くて角の丸い立方体に、モニターを兼ねた頭部や、ロボットアームがくっついているような形状。棋士のレベルに合わせて、AIの対戦レベルも調整可能。例えば、初心者ならば碁盤の大きさを9路盤と13路盤から始められ、正式の大きさである19路盤では</description>
+    </item>
   </channel>
 </rss>
