@@ -17596,5 +17596,11 @@
       <pubDate>2023/12/21 11:01</pubDate>
       <description>こんにちは、ラボで研究開発をしたりプロトタイプを作っている藤本(X(Twitter))です。ここ近年、生成AIの勢いが凄いです。最近は一夜明けたら世界が変わっているみたいなことがしょっちゅう起きています。そんな状況なので、なかなか世の中についていくのが難しいのではないかと思います。そこで今回は、これまでに色々と出てきた生成モデルを振り返りつつ、ひたすら思いつく限りColabで動かしまくってみる企画をやってみようかと思います。流石に全部Colabで動かすのは大変でした・・・。 まずは言語を対象として日本語モデルを含む様々なモデルを対象に推論実験を行います。続いて高速化の実験、更にSFTによるInstructionチューニングや、RLHFもやってみます。最後に、ソースコード生成もやってみましょう。次に、画像を対象として、言語同様に色々なモデルで画像を生成し、さらにLoRAを用いたFinetun</description>
     </item>
+    <item>
+      <title>【日本人エンジニア必見】英語圏の優良学習コンテンツまとめ - Qiita</title>
+      <link>https://qiita.com/phen/items/94bd9e5d5dfd665ad044</link>
+      <pubDate>2023/12/20 10:06</pubDate>
+      <description>この記事は 株式会社エス・エム・エス Advent Calendar 2023 の21日目の記事です。 介護事業者向けの経営支援サービス「カイポケ」のリニューアルプロジェクトでフロントエンド開発をしている @hush_in です。 今年の4月にエス・エム・エスに入社しました。 入社してからフロントエンドのLinterやCIを改善した話をします。 忙しい人向けまとめ ESLint の recommended 系 extends を追加 全般 eslint:recommended plugin:import/recommended TypeScript plugin:@typescript-eslint/recommended-type-checked plugin:@typescript-eslint/stylistic-type-checked plugin:import/typescri</description>
+    </item>
   </channel>
 </rss>
