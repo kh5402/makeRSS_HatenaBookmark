@@ -17500,5 +17500,23 @@
       <pubDate>2023/12/20 13:18</pubDate>
       <description>中国SenseRobotは、家庭向け囲碁ロボット「SenseRobot Go」を発表した。視覚と判断能力を備えたAIと、石を指せるロボットアームを備えており、ロボットと囲碁で対戦できる。2024年1月5日から高島屋などで発売予定で、価格は16万5000円。 ロボット開発を手掛ける中国SenseRobotは12月20日、家庭向け囲碁ロボット「SenseRobot Go」を発表した。盤面を認識するカメラや、碁石を保持できるロボットアーム、碁を打つAIを備えており、人間と対戦できる2024年1月5日から高島屋などで発売予定で、価格は16万5000円。 ロボットは、白くて角の丸い立方体に、モニターを兼ねた頭部や、ロボットアームがくっついているような形状。棋士のレベルに合わせて、AIの対戦レベルも調整可能。例えば、初心者ならば碁盤の大きさを9路盤と13路盤から始められ、正式の大きさである19路盤では</description>
     </item>
+    <item>
+      <title>【総まとめ】2023年公開のすごいPhotoshopチュートリアル、作り方ベスト70</title>
+      <link>https://photoshopvip.net/154542</link>
+      <pubDate>2023/12/21 10:28</pubDate>
+      <description>NTT コノキューに出向中の澤山です。 今年の7月にドコモから、コノキューにやってきました。 この記事は、NTTドコモ アドベントカレンダー2023 21日目の記事です。 この記事では、Wikipedia記事 と Azure OpenAI API、既存のモデルの3つを用い、RAG(Retrieval-Augmented Generation)のためのデータ作成と、RAGを活用した子ども向けお仕事提案botを作ります。 (記事の情報は2023/11月のものです。) 生成AI / ChatGPT の大流行 子供のための、生成AI活用方法、ってある？ 子供向けお仕事提案チャットボットを作ってみる 全体像 ステップ1 Wikipedia + Azure OpenAI service でお仕事情報をまとめよう Wikipedia 記事からのお仕事情報・概要の抽出 お仕事情報・概要に基づく、情報の整理</description>
+    </item>
+    <item>
+      <title>はてなブログの新機能 #AIタイトルアシスト で遊んでみた - #AQM</title>
+      <link>https://aqm.hatenablog.jp/entry/2023/12/20/180100</link>
+      <pubDate>2023/12/21 07:17</pubDate>
+      <description>損害保険ジャパン株式会社 DX推進部の眞方です。この記事では、RAG（Retrieval Augmented Generative）の構築時に、ドキュメント検索精度の向上を目指して検索モデルの改善を行った際の手法、および結果について解説させていただきます。 概要を知りたい、という方は以前書いた前回の記事を読んでください。 はじめに 今回はRAGにおける検索モデルの改善を目的として、独自のデータを使用してfine-tuneを行いました。 RAGにおける検索（赤枠）の部分を改善する取り組みを行いました。 検索モデル 学習のためのライブラリとしては、sentence transformersを使用しました。また、モデルは日本語BERTを使用しています。 データ 今回RAGの対象となるドキュメントは、大きく次の2つが存在しています。 規定集 保険商品の説明等が書かれているドキュメントです（詳細は前</description>
+    </item>
+    <item>
+      <title>GoogleがBardで選挙関連のクエリを制限するなど、選挙関連のAI使用に制限</title>
+      <link>https://gigazine.net/news/20231220-google-limit-election-queries-generative-ai/</link>
+      <pubDate>2023/12/20 17:23</pubDate>
+      <description>大手通販サイト・Amazonでは、2023年夏からカスタマーレビューの内容をAIが3行程度に要約してくれる機能が加わりました。一見、要点だけをかんたんに把握できるいい機能に思えるのですが、実際のところは、カスタマーレビュー全体からするとわずかしかないような批判的意見が取り上げられ、販売業者にとってはうれしくない状況になっていることが報告されています。 Misleading AI Product Reviews on Amazon Spook Sellers During Holiday Season - Bloomberg https://www.bloomberg.com/news/articles/2023-12-19/misleading-ai-product-reviews-on-amazon-spook-sellers-during-holiday-season Amazon M</description>
+    </item>
   </channel>
 </rss>
