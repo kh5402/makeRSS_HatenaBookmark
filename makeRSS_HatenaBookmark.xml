@@ -17425,5 +17425,17 @@
       <pubDate>2023/12/20 16:44</pubDate>
       <description>ChatGPTで「業務アプリ」作成に挑戦　プログラミングの工数削減につながるか？　新機能を使い倒してみた AIの進化が止まらない。“生成AIブーム”の火付け役といえる米OpenAIの「ChatGPT」が2022年11月に登場してから、早くも1年以上が経過した。当時、出力結果の精度の高さに驚いた人も多いだろう。 世の中に数多くのAIツールや基盤モデルが登場し、業務効率化やデータ分析による新たな価値創造を狙ってAIの活用に乗り出そうという企業も増えている。米IDCが全世界の890人を対象に23年9月に実施した調査によると、77％以上の組織が生成AIに投資または活用を模索中と答えた（米IDC「企業向けGenerative AIガイド」より）。 生成AIはどのような用途で活躍するのか。IDCが上記調査で「今後18カ月で生成AIが最も大きな影響を与える可能性があるビジネス分野」を聞くと、第1位が「ソ</description>
     </item>
+    <item>
+      <title>OpenAI内紛劇の背後に「21世紀の優生思想」、EAコミュニティとe/accの危険性：朝日新聞GLOBE＋</title>
+      <link>https://globe.asahi.com/article/15087941</link>
+      <pubDate>2023/12/21 12:20</pubDate>
+      <description>オンラインホワイトボードの｢Miro（ミロ）｣は12月20日、生成AI関連を含む新機能を発表した。 今回公開された新機能は大きく分けると｢Miro アシスト｣と、2023年9月に公開した非同期コミュニケーション機能｢TalkTrack（トークトラック）｣の強化になる。 特にMiro アシストは、2022年12月に公開した生成AI機能｢Miro AI｣の派生となるが、ボード内の情報の整理や情報の生成だけではなく、分析・探索作業も可能になる。 チーム内のコラボレーション作業で便利なオンラインホワイトボードに、AI機能が加わるとどんなことが変わるのか、その詳細を解説しよう。</description>
+    </item>
+    <item>
+      <title>Bard が マップ や Gmail, YouTube などの Google のサービスと連携</title>
+      <link>https://japan.googleblog.com/2023/12/bard1pintegration.html</link>
+      <pubDate>2023/12/19 09:41</pubDate>
+      <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
+    </item>
   </channel>
 </rss>
