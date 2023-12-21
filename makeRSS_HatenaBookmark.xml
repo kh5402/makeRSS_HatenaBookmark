@@ -17548,5 +17548,41 @@
       <pubDate>2023/12/20 20:02</pubDate>
       <description>LLM in a flash: Efficient Large Language Model Inference with Limited Memory AppleのMachine Learning Researchは、arXivに「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」を投稿しています。 大規模言語モデル（LLM）は、現代の自然言語処理の中心的存在であり、様々なタスクにおいて卓越した性能を発揮します。しかし、その集中的な計算とメモリ要件は、特にDRAM容量が限られたデバイスにとって課題となります。 この論文では、モデルのパラメータをフラッシュメモリに保存し、必要に応じてDRAMに取り込むことで、利用可能なDRAM容量を超えるLLMを効率的に実行するという課題に取り組みむと説</description>
     </item>
+    <item>
+      <title>色々な生成AIモデルをColabで動かして今年を振り返る - ABEJA Tech Blog</title>
+      <link>https://tech-blog.abeja.asia/entry/advent-2023-day21</link>
+      <pubDate>2023/12/21 12:07</pubDate>
+      <description>この記事は Safie Engineers&amp;#39; Blog! Advent Calendar 2023 の21日目の記事です。 はじめに セーフィー株式会社で画像認識AIの開発エンジニアをしている木村（駿）です。主に、エッジAI搭載カメラで動作する人やモノを検出するアプリケーションの開発を行っています。 このAIカメラを使って、弊社では指定したエリアへの人の侵入を検知するサービスや混雑度合いを数値化するために滞留人数をカウントするサービスなどを提供しています。 これらのサービスが、必要な基準や要件を満たしているかどうかを確認するため、QA (Quarity Assureance) 評価を実施しています。具体的には、AIの検出性能や追跡性能のみを評価するのではなく、実際にユーザーが見る値（侵入検知のフラグやカウント数など）が正しく機能しているかを評価します。 このQA評価をするには評価用データ、</description>
+    </item>
+    <item>
+      <title>Google Analytics 4 でミスされやすい・誤解されやすい「設定」７選（寄稿：小川卓） - はてなビジネスブログ</title>
+      <link>https://business.hatenastaff.com/entry/2023/12/21/110000</link>
+      <pubDate>2023/12/21 11:10</pubDate>
+      <description>プロダクト開発・運用の現場では2023年のセキュリティ関連のトピックをどう受け止めているのか、また、今後のセキュア開発に関する潮流をどう予測しているのか。様々な業界で活躍する開発エンジニア・セキュリティエンジニアの方々13人に見解を伺いました。 今回は、「2023年のプロダクトセキュリティを振り返る」というテーマでお届けします！ ＜13人の方々による「2024年セキュリティトレンド予想」は2024年の年始公開予定です！お楽しみに！＞ 今回コメントをいただいた方々 CADDi CTO　小橋昭文さん サイボウズ Cy-PSIRT Finatextホールディングス 取締役CTO/CISO　田島悟史さん Google　小勝純さん グラファー　森田浩平さん IssueHunt 取締役 CTO　Junyoung Choiさん カンム　金澤康道さん メルカリ IDP team kokukumaさん メル</description>
+    </item>
+    <item>
+      <title>Microsoft Copilot（とSuno AIプラグイン）だけで無料曲作り。チャットだけで超簡単に作曲するやりかた教えます（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/21/2497.html</link>
+      <pubDate>2023/12/21 12:14</pubDate>
+      <description>先日、『SOFT SKILLS』という本を読みました。 『SOFT SKILLS』を読んだ内容は別途、note にまとめています。 上記の記事を書いている際に、「日本版の、それも 20 代のうちに読んでよかった本をまとめたら面白そうだし有益なんじゃないか」と思いました。 &amp;quot;ソフトウェア開発者&amp;quot;としてのバイブルは人によって異なります。なぜなら人によって専門が違うからです。Java が専門の人にとって、C#の書籍はバイブルたり得ないでしょう。 しかし、ソフトウェア開発者の&amp;quot;人生&amp;quot;としてのバイブルであれば、皆一様に同じレベルで共感してもらえるのでは？と思いました。 ということで今回は『SOFT SKILLS』に書かれている、 キャリア セルフマーケティング 学習 生産性 資産形成 フィットネス マインドセット の順に自分が 20 代前半で読んでおいてよかったと思う本。 そして、ソフトウェア開発者</description>
+    </item>
+    <item>
+      <title>Amazonの「AIによるカスタマーレビュー要約」機能の結果がネガティブ寄りで販売業者から不満の声</title>
+      <link>https://gigazine.net/news/20231220-amazon-ai-product-reviews/</link>
+      <pubDate>2023/12/20 17:23</pubDate>
+      <description>英最高裁は２０日、人工知能（ＡＩ）システムが考案した発明品の特許登録を認めない判断を示した。ＡＩが特許権を保有できるかを巡り、英国で画期的な判決が下された形になった。（２０２３年　ロイター／Dado Ruvic） [ロンドン ２０日 ロイター] - 英最高裁は２０日、人工知能（ＡＩ）システムが考案した発明品の特許登録を認めない判断を示した。発明者は人間か企業でなければならないという知的財産庁の見解を支持し、ＡＩシステムを開発した原告の米科学者の敗訴となった。 原告である米国のコンピューター科学者スティーブン・ターラー氏は、自身のＡＩシステム「ＤＡＢＵＳ」が考え出した発明について英国で２件の特許を申請したが、英国の知的財産庁（ＩＰＯ）は、発明者は機械ではなく、人間か企業でなければならないとして申請を拒否。これを受け、ターラー氏が訴訟を起こしていた。 最高裁は全会一致で同氏の訴えを退け、英国の</description>
+    </item>
+    <item>
+      <title>ノートブックスタイル「Google Colab AI」が期間限定ながら無料ユーザーにも</title>
+      <link>https://news.mynavi.jp/techplus/article/20231220-colabailimitedfree/</link>
+      <pubDate>2023/12/20 16:02</pubDate>
+      <description>文化庁は20日、生成AI（人工知能）と著作権のあり方を検討する文化審議会の小委員会で、著作権者側が複製防止などの対策を講じているにもかかわらず、AIが無断で機械学習した場合、著作権侵害になり得るとの考え方の素案を示した。小委員会は素案を踏まえ2024年3月までに議論を取りまとめる予定。著作権法の改正ではなく、現行法の規定との関係を整理したうえで、今後指針などを策定する方針だ。現行の著作権法は</description>
+    </item>
+    <item>
+      <title>1000円以下のマイコンだけで物体形状の学習と推論を行う - Qiita</title>
+      <link>https://qiita.com/ksasao/items/bda58db0d24b03349e27</link>
+      <pubDate>2023/12/20 05:51</pubDate>
+      <description>この記事はVisual Studio Code Advent Calendar 2023 19日目の記事です。 もうすぐクリスマスですね。我が家は3歳の息子がいるのですが、今更「ツリー買い忘れたけどなんか飾り付けほしいなぁ」と思ってダイソーでツリーが印刷された布を買い、布を壁に貼ってシールや工作物をペタペタ貼ることでそれっぽいものができました。ツリーのゴミも散らからないので、もし悩んでいる方がいればぜひお試しください DALL-Eで出力してもらったイメージはこちらになります（こんなにちゃんとしていませんが） はじめまして、LayerX 機械学習チームの @yakipudding です。 突然ですが、私はSQLを書くのが好きではないです。業務での調査や分析によくSQLを使用するのですが、構文やJOIN、どの項目がどのテーブルにあるのかなどを都度確認しながら書くのが面倒で、億劫に感じます。 そ</description>
+    </item>
   </channel>
 </rss>
