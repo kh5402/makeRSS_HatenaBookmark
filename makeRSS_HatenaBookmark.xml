@@ -17542,5 +17542,11 @@
       <pubDate>2023/12/20 16:34</pubDate>
       <description>今日、文化庁は生成AIと著作権保護についてのガイドラインとなる素案を提示しました。 生成AIでなにが合法でなにが違法になるのか、注目しているクリエイターや開発者、ビジネス系のひとなど、多くの生成AI周辺にいる人たち全員に関係あるガイドラインがいままさに検討されているわけです。 朝日新聞ではこう報じられています。 文化庁は20日、文化審議会著作権分科会の法制度小委員会に、生成AI（人工知能）によるコンテンツの無断学習は、著作権法で著作権者の許諾が不要とされる「非享受目的」にあたらない場合があるとする「AIと著作権に関する考え方」の素案を示した。生成AIが記事や画像データなどを無断で利用する「ただ乗り」（フリーライド）に懸念の声が上がる中、現行法を厳格に解釈し、歯止めをかけたい考えだ。 朝日新聞デジタルより引用 digital.asahi.com この盛り上がっている文化庁の資料というのがこち</description>
     </item>
+    <item>
+      <title>手先の器用さも人間敗北？　「ビー玉迷路」AIが攻略、裏技まで発見：朝日新聞デジタル</title>
+      <link>https://www.asahi.com/articles/ASRDN10GGRDMULBH00V.html</link>
+      <pubDate>2023/12/20 20:02</pubDate>
+      <description>LLM in a flash: Efficient Large Language Model Inference with Limited Memory AppleのMachine Learning Researchは、arXivに「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」を投稿しています。 大規模言語モデル（LLM）は、現代の自然言語処理の中心的存在であり、様々なタスクにおいて卓越した性能を発揮します。しかし、その集中的な計算とメモリ要件は、特にDRAM容量が限られたデバイスにとって課題となります。 この論文では、モデルのパラメータをフラッシュメモリに保存し、必要に応じてDRAMに取り込むことで、利用可能なDRAM容量を超えるLLMを効率的に実行するという課題に取り組みむと説</description>
+    </item>
   </channel>
 </rss>
