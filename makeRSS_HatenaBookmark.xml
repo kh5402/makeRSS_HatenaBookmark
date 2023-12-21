@@ -17590,5 +17590,11 @@
       <pubDate>2023/12/20 17:23</pubDate>
       <description>LLM in a flash: Efficient Large Language Model Inference with Limited Memory AppleのMachine Learning Researchは、arXivに「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」を投稿しています。 大規模言語モデル（LLM）は、現代の自然言語処理の中心的存在であり、様々なタスクにおいて卓越した性能を発揮します。しかし、その集中的な計算とメモリ要件は、特にDRAM容量が限られたデバイスにとって課題となります。 この論文では、モデルのパラメータをフラッシュメモリに保存し、必要に応じてDRAMに取り込むことで、利用可能なDRAM容量を超えるLLMを効率的に実行するという課題に取り組みむと説</description>
     </item>
+    <item>
+      <title>バンダイナムコスタジオがCEDECの講演資料を無料公開　「ブループロトコル」のAI実装に関するものなど</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/21/news099.html</link>
+      <pubDate>2023/12/21 11:01</pubDate>
+      <description>こんにちは、ラボで研究開発をしたりプロトタイプを作っている藤本(X(Twitter))です。ここ近年、生成AIの勢いが凄いです。最近は一夜明けたら世界が変わっているみたいなことがしょっちゅう起きています。そんな状況なので、なかなか世の中についていくのが難しいのではないかと思います。そこで今回は、これまでに色々と出てきた生成モデルを振り返りつつ、ひたすら思いつく限りColabで動かしまくってみる企画をやってみようかと思います。流石に全部Colabで動かすのは大変でした・・・。 まずは言語を対象として日本語モデルを含む様々なモデルを対象に推論実験を行います。続いて高速化の実験、更にSFTによるInstructionチューニングや、RLHFもやってみます。最後に、ソースコード生成もやってみましょう。次に、画像を対象として、言語同様に色々なモデルで画像を生成し、さらにLoRAを用いたFinetun</description>
+    </item>
   </channel>
 </rss>
