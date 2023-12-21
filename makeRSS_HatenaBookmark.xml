@@ -17518,5 +17518,29 @@
       <pubDate>2023/12/20 17:23</pubDate>
       <description>大手通販サイト・Amazonでは、2023年夏からカスタマーレビューの内容をAIが3行程度に要約してくれる機能が加わりました。一見、要点だけをかんたんに把握できるいい機能に思えるのですが、実際のところは、カスタマーレビュー全体からするとわずかしかないような批判的意見が取り上げられ、販売業者にとってはうれしくない状況になっていることが報告されています。 Misleading AI Product Reviews on Amazon Spook Sellers During Holiday Season - Bloomberg https://www.bloomberg.com/news/articles/2023-12-19/misleading-ai-product-reviews-on-amazon-spook-sellers-during-holiday-season Amazon M</description>
     </item>
+    <item>
+      <title>Unityで作成したCG映像を使って物体検出AIのQA評価をした話 - Safie Engineers&amp;#39; Blog!</title>
+      <link>https://engineers.safie.link/entry/2023/12/21/Unity%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9FCG%E6%98%A0%E5%83%8F%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%89%A9%E4%BD%93%E6%A4%9C%E5%87%BAAI%E3%81%AEQA%E8%A9%95%E4%BE%A1%E3%82%92%E3%81%97%E3%81%9F</link>
+      <pubDate>2023/12/21 15:16</pubDate>
+      <description>プロダクト開発・運用の現場では2023年のセキュリティ関連のトピックをどう受け止めているのか、また、今後のセキュア開発に関する潮流をどう予測しているのか。様々な業界で活躍する開発エンジニア・セキュリティエンジニアの方々13人に見解を伺いました。 今回は、「2023年のプロダクトセキュリティを振り返る」というテーマでお届けします！ ＜13人の方々による「2024年セキュリティトレンド予想」は2024年の年始公開予定です！お楽しみに！＞ 今回コメントをいただいた方々 CADDi CTO　小橋昭文さん サイボウズ Cy-PSIRT Finatextホールディングス 取締役CTO/CISO　田島悟史さん Google　小勝純さん グラファー　森田浩平さん IssueHunt 取締役 CTO　Junyoung Choiさん カンム　金澤康道さん メルカリ IDP team kokukumaさん メル</description>
+    </item>
+    <item>
+      <title>めんどくさい作業を改善できるようになるには - Konifar&amp;#39;s ZATSU</title>
+      <link>https://konifar-zatsu.hatenadiary.jp/entry/2023/12/21/124953</link>
+      <pubDate>2023/12/21 12:57</pubDate>
+      <description>２０２３年は、Photoshopにとって「革命」と言えるほど重要な年となりました。 理由はずばり、「AIを活用することで、従来は考えられないほど簡単に、デザインができるようになった」から。 これまでプロでも時間と手間のかかっていた面倒な作業も、ほんの数クリックで誰でも作成できる。 そんな嘘のようなことが、当たり前になってきています。 この記事では、２０２３年のフォトショップ最新機能やチュートリアル、使い方ベスト70選をご紹介。 カテゴリより目的に応じた新しいPhotoshopテクニックを活用してみましょう。 「フォトショップって、こんなこともできるの?!」きっと、あなたも驚くはずです。 目次2023年公開のすごいPhotoshopチュートリアルまとめPhotoshopに追加された新機能AI「生成塗りつぶし」機能をつかったチュートリアルPhotoshopデザイン素材写真加工・レタッチ系チュー</description>
+    </item>
+    <item>
+      <title>Largest Dataset Powering AI Images Removed After Discovery of Child Sexual Abuse Material</title>
+      <link>https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/</link>
+      <pubDate>2023/12/20 22:33</pubDate>
+      <description>損害保険ジャパン株式会社 DX推進部の眞方です。この記事では、RAG（Retrieval Augmented Generative）の構築時に、ドキュメント検索精度の向上を目指して検索モデルの改善を行った際の手法、および結果について解説させていただきます。 概要を知りたい、という方は以前書いた前回の記事を読んでください。 はじめに 今回はRAGにおける検索モデルの改善を目的として、独自のデータを使用してfine-tuneを行いました。 RAGにおける検索（赤枠）の部分を改善する取り組みを行いました。 検索モデル 学習のためのライブラリとしては、sentence transformersを使用しました。また、モデルは日本語BERTを使用しています。 データ 今回RAGの対象となるドキュメントは、大きく次の2つが存在しています。 規定集 保険商品の説明等が書かれているドキュメントです（詳細は前</description>
+    </item>
+    <item>
+      <title>無料でGPT-4使い放題の「リートン」が「GPT-4 Turbo」の第2次無料先行公開の募集開始／先着2万人限定、12月26日まで受付。前回は4日間で1万人の限定人数に到達</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1556105.html</link>
+      <pubDate>2023/12/20 16:34</pubDate>
+      <description>今日、文化庁は生成AIと著作権保護についてのガイドラインとなる素案を提示しました。 生成AIでなにが合法でなにが違法になるのか、注目しているクリエイターや開発者、ビジネス系のひとなど、多くの生成AI周辺にいる人たち全員に関係あるガイドラインがいままさに検討されているわけです。 朝日新聞ではこう報じられています。 文化庁は20日、文化審議会著作権分科会の法制度小委員会に、生成AI（人工知能）によるコンテンツの無断学習は、著作権法で著作権者の許諾が不要とされる「非享受目的」にあたらない場合があるとする「AIと著作権に関する考え方」の素案を示した。生成AIが記事や画像データなどを無断で利用する「ただ乗り」（フリーライド）に懸念の声が上がる中、現行法を厳格に解釈し、歯止めをかけたい考えだ。 朝日新聞デジタルより引用 digital.asahi.com この盛り上がっている文化庁の資料というのがこち</description>
+    </item>
   </channel>
 </rss>
