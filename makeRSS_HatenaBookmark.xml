@@ -17437,5 +17437,11 @@
       <pubDate>2023/12/19 09:41</pubDate>
       <description>$ git clone https://github.com/github/copilot.vim $ echo &amp;quot;console.lo&amp;quot; &amp;gt; sample.ts $ node getCompletionsCycling.mjs ./sample.ts Completions: { completions: [ { uuid: &amp;#39;3dcce22b-5656-46a3-bbe8-d204ad1c5259&amp;#39;, text: &amp;#39;console.log(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, range: [Object], displayText: &amp;#39;g(&amp;quot;Hello World&amp;quot;);\n&amp;#39;, position: [Object], docVersion: 0 }, { uuid: &amp;#39;94015891-20a7-4e84-a3b7-6ce0a44b5285&amp;#39;, text: &amp;#39;console.log</description>
     </item>
+    <item>
+      <title>ソフトウェア開発者 &amp;quot;人生&amp;quot; のバイブル(20代時点版)</title>
+      <link>https://zenn.dev/bs_kansai/articles/c8b1fe6657d9b9</link>
+      <pubDate>2023/12/21 00:54</pubDate>
+      <description>めんどくさい作業にぶち当たった時、一気に改善してしまう人がいる。ガッと自動化したり仕組みそのものを変えたりしてしまうのだ。「めんどくさい」と心の中で思ったなら、その時スデに行動は終わっているのである。 たとえばコードレビューで都度同じ指摘をしだしたらLintとCIを整備したり、期限のリマインドを何度もしていたらリマインドそのものを自動化したり。CI/CDやBranch Protect Ruleを初期段階で整えるみたいな動きもそう。 こういう動きができる人とできない人の違いは、大きく次の4つの段階に分けられる。 1. めんどくさいと自覚できるか 1つめはスタンスの問題かもしれない。「もっとよくできないか？」「なぜこれをやってるんだっけ？」といった感じで今の運用を疑ってみるのが第一歩である。 よい状態を知っている方が当然自覚しやすいので、次の2とも密接に関係してくる。 2. めんどくさくない状</description>
+    </item>
   </channel>
 </rss>
