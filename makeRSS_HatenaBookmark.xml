@@ -17674,5 +17674,23 @@
       <pubDate>2023/12/21 10:29</pubDate>
       <description>はじめに Kotoba Technologies, Inc. Co-Founder/CTO、Toyota Technological Institute at Chicago, Research Assistant Professorの笠井淳吾です。これまで自然言語処理（NLP）、機械学習の国際学会（ACL、ICLR、NeurIPS、EMNLP、ICCVなど）にて、投稿や発表を積み重ねてきましたが、一度自分なりに論文を書く際に考えていること、留意点、コツのようなものを言語化して共有したいと思います。個人の好みによるところも多々あるかと思いますので、取捨選択していただいて、皆さんの論文執筆の一助になることを願っています。 全体のストラクチャー まずは全体の流れから考えていきます。基本的に、論文を書く際には（多くの場合そもそもプロジェクトを始める前に）、タイトルをイメージしていきます。タイトル</description>
     </item>
+    <item>
+      <title>ファインチューニング向けモデル「Mistral 7B Fine-Tune Optimized」が登場、特定タスクにおいてGPT-4を超える性能を発揮</title>
+      <link>https://gigazine.net/news/20231221-mistral-7b-fine-tune-optimized/</link>
+      <pubDate>2023/12/21 20:05</pubDate>
+      <description>皆さん、こんにちは！ 長期休み前に「これを学ぶぞ！」って意欲的になるけれどもだいたいやらない。 どうもコンサルタントの山田です。 JADE Advent Calendarのお時間がやってまいりました！ 今日はAdvent Calendar18日目ということで、そろそろ終わりが見えてきました。 adventar.org このブログに僕が登場するの、実は今年の1発目のブログ以来なのです。 皆さん、このブログ記事読んでいただきましたか？ どうやら実写化も検討されているという噂のこのブログ記事 まだの方は是非ご覧ください！ blog.ja.dev 皆さんは今年どんな分析を行いましたか。 新たな発見はありましたか？何か成果に繋がる施策は打てましたか？ どういう施策を打ったら良いのか日々悩んでいるSEO担当者の方は大勢いらっしゃると思います。 そこで、参考になるかどうか分かりませんが、今年僕が分析をし</description>
+    </item>
+    <item>
+      <title>AIは特許の発明者とは認められないとイギリス最高裁が結論</title>
+      <link>https://gigazine.net/news/20231221-uk-supreme-court-ai-cannnot-patent-inventor/</link>
+      <pubDate>2023/12/21 12:04</pubDate>
+      <description>2023年12月20日、文化審議会著作権分科会法制度小委員会の資料として、文化庁の「AIと著作権に関する考え方について」の素案が示されました（以下「考え方」と表記します）。 2024年3月の取りまとめが予定されており、内容は変更になる可能性がありますが、速報的に内容を抜粋し、ご紹介いたします。 「考え方」の構成生成AIと著作権の検討においては「学習・開発段階」と「生成・利用段階」とを、それぞれ分けて考える必要があります。 「考え方」でも、①学習・開発段階、②生成・利用段階に分けて、それぞれ見解が示されています。また、③生成物の著作物性、④その他の論点について見解も示されています。 なお、分量の都合により、本項では、①学習・開発段階について紹介いたします。②生成・利用段階については、別のnoteにてご紹介予定です。 Ⅰ　学習・開発段階１　検討されている論点「考え方」では、墨付き括弧で取り上げ</description>
+    </item>
+    <item>
+      <title>Microsoft Copilotに音楽生成AI「Suno」がプラグインとして実装</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1556599.html</link>
+      <pubDate>2023/12/21 18:02</pubDate>
+      <description>チェスや囲碁、ストラテジーゲームなど、知性がものをいうゲームでは既にAIが人間を圧倒するようになっていますが、身体的スキルではまだ人類に一日の長があります。しかし、手で物理的にゲームボードを傾けて遊ぶ「迷路ゲーム」でも、人間がかなわないようなスーパープレイを見せるAIが登場したことが発表されました。 CyberRunner https://www.cyberrunner.ai/ AI beats humans for the first time in physical skill game https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game 今回、物理的なスキルを要求するゲームで人間の記録保持者を破ったのは、スイス・チューリッヒ工科大学の研究者であるトーマス・ビー氏とラファエロ・ダンドレア氏</description>
+    </item>
   </channel>
 </rss>
