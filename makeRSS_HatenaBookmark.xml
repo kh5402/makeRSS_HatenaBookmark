@@ -17800,5 +17800,23 @@
       <pubDate>2023/12/21 09:01</pubDate>
       <description>バンダイナムコスタジオが、ゲーム開発者向けイベント「CEDEC」で過去に実施したセッションの講演資料を無料公開した。オンラインゲーム「BLUE PROTOCOL」にAIを搭載するに当たっての資料など、6点を閲覧できる。 バンダイナムコスタジオは12月19日、ゲーム開発者向けイベント「CEDEC」で過去に実施したセッションの講演資料を無料公開した。オンラインゲーム「BLUE PROTOCOL」にAIを搭載するに当たっての資料など、6点を公開しており、スライド共有サービス「Speaker Deck」で閲覧できる。 いずれもパシフィコ横浜で8月23日から25日にかけて開催された「CEDEC 2023」での講演資料。BLUE PROTOCOLに関するものに加え、同社におけるクラウドの活用推進について取り上げた「ゲーム開発インフラのDXを推進するCCoEとプラットフォームエンジニアリング」や、サウン</description>
     </item>
+    <item>
+      <title>【プレイバック2023】ChatGPTで「自分専用校正ツール」を作ってみた話 by 日沼諭史</title>
+      <link>https://av.watch.impress.co.jp/docs/topic/pb2023/1556337.html</link>
+      <pubDate>2023/12/22 12:08</pubDate>
+      <description>Appleの研究者が「LLM in a flash: Efficient Large Language Model Inference with Limited Memory」と題した論文をプレプリントサーバーのarXivに公開しました。この論文では「メモリが限られたデバイス上で大規模言語モデル(LLM)の推論を効果的に行う道を開く解決策」、すなわちiPhoneなどのデバイス上でLLMを動作させるための技術が示されており、Appleは将来的にiPhone上でLLMを動作させることを目指していると考えられます。 [2312.11514] LLM in a flash: Efficient Large Language Model Inference with Limited Memory https://arxiv.org/abs/2312.11514 Paper page - LLM in</description>
+    </item>
+    <item>
+      <title>AIが社長の会社「FreeAI」を設立しました｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n8a9e2f511b01</link>
+      <pubDate>2023/12/22 10:16</pubDate>
+      <description>AITuber「しずく」開発者としても知られる、あき先生ことakio kodaira氏を筆頭にした研究グループは12月21日、リアルタイム画像生成を実現するために最適化されたパイプライン「StreamDiffusion」を発表。従来の画像生成パイプラインと比べて飛躍的な速度向上を実現している。 ノイズ除去をバッチ処理で高速化 「Stable Diffusion」をはじめとする画像生成AIモデルの高性能化は著しいが、メタバース、オンラインストリーミングなど高スループットと低レイテンシーが必要な環境ではまだ力不足だ。 StreamDiffusionは新しいアプローチを採用し、従来の連続的なノイズ除去をバッチ処理のプロセスに変換することで、高スループットストリームを実現。さらに、GPUの利用効率を向上させるため、従来の分類器フリーガイダンス（CFG）に代わり、残差分類器フリーガイダンス（RCFG</description>
+    </item>
+    <item>
+      <title>データサイエンスにおける本質を理解することの重要性と難しさ - Qiita</title>
+      <link>https://qiita.com/gorira_tatsu/items/a52db781e8baf8b2e9a3</link>
+      <pubDate>2023/12/21 18:21</pubDate>
+      <description>「チャットAIに画像を入力してキャプションを付けさせ、これを画像生成AIのDALL-Eで画像化し、再びチャットAIに入力して……」というプロセスを何度も繰り返し、AIが生成する画像がどのように変化していくのかを観察できるのが「Image Telephone」です。作者のelijahbenizzyさんは「自分でやってみたところ結果が非常に興味深いものだったためアプリ化して誰でも気軽に体験できるようにしてみました」と説明しています。 Image Telephone · Streamlit https://image-telephone.streamlit.app/ Image Telephoneは「GPT-4(ChatGPTのベースとなる大規模言語モデル)とDALL-E 3で伝言ゲームをすると何が起きるのか？」を確かめるためのアプリケーションです。まず、GPT-4に入力画像のキャプションを作成</description>
+    </item>
   </channel>
 </rss>
