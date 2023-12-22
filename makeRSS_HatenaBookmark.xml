@@ -17692,5 +17692,35 @@
       <pubDate>2023/12/21 18:02</pubDate>
       <description>チェスや囲碁、ストラテジーゲームなど、知性がものをいうゲームでは既にAIが人間を圧倒するようになっていますが、身体的スキルではまだ人類に一日の長があります。しかし、手で物理的にゲームボードを傾けて遊ぶ「迷路ゲーム」でも、人間がかなわないようなスーパープレイを見せるAIが登場したことが発表されました。 CyberRunner https://www.cyberrunner.ai/ AI beats humans for the first time in physical skill game https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game 今回、物理的なスキルを要求するゲームで人間の記録保持者を破ったのは、スイス・チューリッヒ工科大学の研究者であるトーマス・ビー氏とラファエロ・ダンドレア氏</description>
     </item>
+    <item>
+      <title>リグレッションテストの設計にGIHOZ使ってみた - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar-day22</link>
+      <pubDate>2023/12/22 09:53</pubDate>
+      <description>ここ最近になって、将棋は、先手必勝のゲームであると考える将棋AI開発者が増えてきた。私もその一人であるが、いま将棋AIの世界で先手の勝率はどれくらいになっているのだろうか。今回は、最近の流れを追いかけてみる。 今年前半に行われたWCSC33(第33回世界コンピュータ将棋選手権)の数字をそれまでのものと比較してみよう。 2023年決勝 ──────────────────────────── 棋譜数　　　　： 28 先手勝ち　　　： 19　　宣言勝ちを含む 後手勝ち　　　： 9　　宣言勝ちを含む 先手宣言勝ち　： 1 後手宣言勝ち　： 1 千日手　　　　： 0 持将棋　　　　： 0 中断　　　　　： 0 320手 先手勝率　　　： 0.679　　19勝9敗 後手勝率　　　： 0.321 平均手数　　　： 176.250 千日手を含む 平均手数　　　： 176.250 千日手を除く ─────</description>
+    </item>
+    <item>
+      <title>チャットAIが出力した文書を画像生成AIで画像化するプロセスを伝言ゲームのように何度も繰り返すと画像がどんな風に変化していくかがわかる「Image Telephone」</title>
+      <link>https://gigazine.net/news/20231221-image-telephone/</link>
+      <pubDate>2023/12/21 20:04</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>今年やって良かったSEO分析TOP3 - ブログ - 株式会社JADE</title>
+      <link>https://blog.ja.dev/entry/blog/2023/12/20/my-favorite-seo-analysis-2023</link>
+      <pubDate>2023/12/21 13:23</pubDate>
+      <description>Microsoftは2023年11月21日（米国時間）、「.NET Chiseled Ubuntuコンテナイメージ」の提供を開始した。.NET Chiseled Ubuntuコンテナイメージは、Canonicalが同日に一般提供を開始したChiseled Ubuntuコンテナをベースとしており、.NET 6、7、8の本番環境で使用できる。 通常のコンテナイメージでは、不要なコンポーネントが多過ぎるという課題があった。必要最小限のコンポーネントのみを残して構築されたChiseledコンテナイメージが、サイズとセキュリティの面で優れており、これがクラウドアプリの未来を形作ると、Microsoftは述べている。 既存のUbuntuイメージと比較して100MB以上を削減 関連記事 Microsoft、コンテナやAIなどの開発者体験を向上させる「.NET 8」をリリース Microsoftは開発プラ</description>
+    </item>
+    <item>
+      <title>生成AIの安全性など研究する国の機関 1月めどに設立へ 首相 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231221/k10014294821000.html</link>
+      <pubDate>2023/12/21 14:25</pubDate>
+      <description>人工知能(AI)は特許権を有する発明者として法的に名乗ることはできない、とイギリス最高裁判所が判決を下しました。最高裁は「現行法の下で特許を申請するには、発明者は人でなければならない」との見解を示しています。 Thaler (Appellant) v Comptroller-General of Patents, Designs and Trade Marks (Respondent) - uksc-2021-0201-judgment.pdf (PDFファイル)https://www.supremecourt.uk/cases/docs/uksc-2021-0201-judgment.pdf AI cannot be named as patent ‘inventor’, UK supreme court rules | Artificial intelligence (AI) | Th</description>
+    </item>
+    <item>
+      <title>Gemini: A Family of Highly Capable Multimodal Models</title>
+      <link>https://arxiv.org/abs/2312.11805</link>
+      <pubDate>2023/12/21 01:28</pubDate>
+      <description>こんにちは、ラボで研究開発をしたりプロトタイプを作っている藤本(X(Twitter))です。ここ近年、生成AIの勢いが凄いです。最近は一夜明けたら世界が変わっているみたいなことがしょっちゅう起きています。そんな状況なので、なかなか世の中についていくのが難しいのではないかと思います。そこで今回は、これまでに色々と出てきた生成モデルを振り返りつつ、ひたすら思いつく限りColabで動かしまくってみる企画をやってみようかと思います。流石に全部Colabで動かすのは大変でした・・・。 まずは言語を対象として日本語モデルを含む様々なモデルを対象に推論実験を行います。続いて高速化の実験、更にSFTによるInstructionチューニングや、RLHFもやってみます。最後に、ソースコード生成もやってみましょう。次に、画像を対象として、言語同様に色々なモデルで画像を生成し、さらにLoRAを用いたFinetun</description>
+    </item>
   </channel>
 </rss>
