@@ -17818,5 +17818,14 @@
       <pubDate>2023/12/21 18:21</pubDate>
       <description>「チャットAIに画像を入力してキャプションを付けさせ、これを画像生成AIのDALL-Eで画像化し、再びチャットAIに入力して……」というプロセスを何度も繰り返し、AIが生成する画像がどのように変化していくのかを観察できるのが「Image Telephone」です。作者のelijahbenizzyさんは「自分でやってみたところ結果が非常に興味深いものだったためアプリ化して誰でも気軽に体験できるようにしてみました」と説明しています。 Image Telephone · Streamlit https://image-telephone.streamlit.app/ Image Telephoneは「GPT-4(ChatGPTのベースとなる大規模言語モデル)とDALL-E 3で伝言ゲームをすると何が起きるのか？」を確かめるためのアプリケーションです。まず、GPT-4に入力画像のキャプションを作成</description>
     </item>
+    <item>
+      <title>2023年バズったもの</title>
+      <link>https://anond.hatelabo.jp/20231222214419</link>
+      <pubDate>2023/12/22 21:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6832f6f0163d499c2153ed38a2a2e2787e42d67a/height=288;version=1;width=512/https%3A%2F%2Fav.watch.impress.co.jp%2Fimg%2Favw%2Flist%2F1556%2F337%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
