@@ -17851,5 +17851,32 @@
       <pubDate>2023/12/22 18:17</pubDate>
       <description>俺の中で 葬送のフリーレン、推しの子、アイドル サマータイムレンダ（実は2022） ちいかわ（実は2022）、おぱんちゅうさぎ ひき肉です（ちょんまげ小僧）、ファジーネーブル、可愛くてごめん、酔いどれ知らず、 謎の踊る中国おじさん、サウダージ バキバキ童貞、アネッキーヒマーズ、浮いてるように見えるステップ 船長（美少パイ）、ロリ神レクイエム、ChatGPT、◯◯を理解できないAI スイカゲーム、チラズアート（前からだけど）、8番出口 ガザ地区、コオロギ トー横（実は2022）、ずんだもん ゴジラ-1、マリオ映画 アラフォー男性です 追記です ビッグモーター</description>
     </item>
+    <item>
+      <title>大規模言語モデルとそのソフトウェア開発に向けた応用</title>
+      <link>https://speakerdeck.com/kazato/da-gui-mo-yan-yu-moderutosonosohutoueakai-fa-nixiang-ketaying-yong</link>
+      <pubDate>2023/12/23 07:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2e482f84e7debf3c69c7bac9a45cab01d38ce0f5/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1553%2F454%2Ftpp1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI、JavaScript/TypeScriptランタイム「Deno」の公式SDKをリリース</title>
+      <link>https://codezine.jp/article/detail/18834</link>
+      <pubDate>2023/12/22 19:55</pubDate>
+      <description>ソースからのデータ入力、機械学習モデルへのデータ出力、学習パターンの調整といった一連の処理構造「パイプライン」をリアルタイム画像生成のために最適化した「StreamDiffusion」が登場しました。 [2312.12491] StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation https://arxiv.org/abs/2312.12491 GitHub - cumulo-autumn/StreamDiffusion: StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation https://github.com/cumulo-autumn/StreamDiffusion/tree</description>
+    </item>
+    <item>
+      <title>生成AIの台頭で高まる「光電融合技術」への期待、NTTが意気込みを語る</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2312/22/news069.html</link>
+      <pubDate>2023/12/22 17:38</pubDate>
+      <description>Appleは「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」という論文を発表した。メモリ容量が限られた端末上でLLMを実行するための革新的な手法を編み出したとしている。 米Appleは12月12日（現地時間）、iPhoneのようなメモリ容量の限られた端末上でLLM（大規模言語モデル）を実行するための技術に関する論文「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」を公開した（リンク先はPDF）。 タイトルを直訳すると「一瞬でLLM：限られたメモリでの効率的な大規模言語モデル推論」となるが、「LLM in the flash」はフラッシュメモリに収まるLLMという意味も含まれている。</description>
+    </item>
+    <item>
+      <title>ニアリアルタイムで投稿レコメンドをユーザーに届ける - commmune Engineer Blog</title>
+      <link>https://tech.commmune.jp/entry/2023/12/22/173000</link>
+      <pubDate>2023/12/22 17:50</pubDate>
+      <description>こんにちは、AI製品開発グループの太田です。 この記事では巨大言語モデルに基づくマルチエージェント技術についてご紹介します。 近年、人工知能（AI）の進化は目覚ましいものであり、その中でも巨大言語モデル（Large Language Models、LLM）は注目を浴びています。 その中でもChatGPTは、その優れた自然言語処理能力により、様々な応用分野で高い評価を受けています。 本記事では、ChatGPTを基にした新たな応用技術である「LLMマルチエージェント」に焦点を当て、その可能性や機能についてご紹介いたします。 LLMエージェントとは？ まず初めに、「LLMエージェント」について簡単に説明します。 LLMエージェントは、巨大言語モデルをベースに構築されたAIエージェントです。 このエージェントは、自然言語でのコミュニケーションを通じてユーザーと対話し、自ら自身がすべきタスクを考える</description>
+    </item>
   </channel>
 </rss>
