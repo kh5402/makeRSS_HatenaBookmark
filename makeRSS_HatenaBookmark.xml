@@ -17899,5 +17899,17 @@
       <pubDate>2023/12/18 17:44</pubDate>
       <description>この記事は2023 JSConf JPで発表したHono v3 and v4を元に11月17日に書いたCloudflare社内のブログ記事「Current Status of Hono」を日本語に訳した記事です。 Honoの「Initial commit」からおおよそ2年が経ちました。このプロジェクトは2021年の12月15日に始まりました。 当初、私はCloudflare WorkersのみのためにHonoを作りました。itty-routerはよかったものの、私が欲しかった多くの機能が欠落していました。また、私は勉強のためにTrie木構造のルーターを作りたかったのです。それがHonoの生まれた理由です。 それから多くのことが起こりました。私がCloudflareにいるのもHonoのおかがです！HonoはCloudflare開発者コミュニティで認知されていきました。Honoの人気が出ること</description>
     </item>
+    <item>
+      <title>ツイスター、世界王者がＡＩロボットに完敗　得意技「関節外し」も及ばず</title>
+      <link>https://kyoko-np.net/2023122301.html</link>
+      <pubDate>2023/12/23 08:22</pubDate>
+      <description>Google の VideoPoet web サイト Image credit: Google Research つい昨日、私は Google が AI 製品のリリースを最初のトライで成功させることはあるのかと尋ねた。少なくとも、Google の最新の研究の様子からすると、そう尋ねたくもなる。 今週、Google は「VideoPoet」を披露した。VideoPoet は、Google Research の31人の研究者からなるチームが開発した、さまざまな動画生成タスク用に設計された新しい大規模言語モデル（LLM）である。 Google Research チームがこれらのタスクのために LLM を構築したという事実自体が注目に値する。彼らはプレレビューの研究論文にこう書いている。 既存のモデルのほとんどは、拡散（diffusion）ベースの手法を採用している。これらの動画モデルは、通常、個</description>
+    </item>
+    <item>
+      <title>秒間100枚以上の画像を生成できる爆速画像生成パイプライン「StreamDiffusion」が登場</title>
+      <link>https://gigazine.net/news/20231222-streamdiffusion/</link>
+      <pubDate>2023/12/22 19:24</pubDate>
+      <description>生成AIの台頭で高まる「光電融合技術」への期待、NTTが意気込みを語る：「SEMICON Japan 2023」で講演（1/2 ページ） 半導体関連技術の総合展示会「SEMICON Japan 2023」にて、「日本半導体産業の発展に向けて 半導体を取り巻く先端開発」と題した講演が行われた。本稿ではその中から、NTTイノベーティブデバイス 本社 代表取締役副社長の富澤将人氏、経済産業省 商務情報政策局 情報産業課長の金指壽氏の講演内容を紹介する。 「SEMICON Japan 2023」（2023年12月13～15日／東京ビッグサイト）にて、「日本半導体産業の発展に向けて 半導体を取り巻く先端開発」と題した講演が行われた。NTTイノベーティブデバイス 本社 代表取締役副社長の富澤将人氏は同社が取り組む光電融合技術の開発の進捗について、経済産業省 商務情報政策局 情報産業課長の金指壽氏は日本</description>
+    </item>
   </channel>
 </rss>
