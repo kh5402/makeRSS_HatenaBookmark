@@ -17878,5 +17878,26 @@
       <pubDate>2023/12/22 17:50</pubDate>
       <description>こんにちは、AI製品開発グループの太田です。 この記事では巨大言語モデルに基づくマルチエージェント技術についてご紹介します。 近年、人工知能（AI）の進化は目覚ましいものであり、その中でも巨大言語モデル（Large Language Models、LLM）は注目を浴びています。 その中でもChatGPTは、その優れた自然言語処理能力により、様々な応用分野で高い評価を受けています。 本記事では、ChatGPTを基にした新たな応用技術である「LLMマルチエージェント」に焦点を当て、その可能性や機能についてご紹介いたします。 LLMエージェントとは？ まず初めに、「LLMエージェント」について簡単に説明します。 LLMエージェントは、巨大言語モデルをベースに構築されたAIエージェントです。 このエージェントは、自然言語でのコミュニケーションを通じてユーザーと対話し、自ら自身がすべきタスクを考える</description>
     </item>
+    <item>
+      <title>グーグルの新マルチモーダルAI動画生成ツール「VideoPoet」がすごいことに - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報</title>
+      <link>https://thebridge.jp/2023/12/googles-new-videopoet-multimodal-ai-video-generation-model-looks-incredible</link>
+      <pubDate>2023/12/23 08:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2e482f84e7debf3c69c7bac9a45cab01d38ce0f5/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1553%2F454%2Ftpp1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>クラウドネイティブなデータベースとSpanner | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2023/12/modern-app-development-on-google-cloud-04</link>
+      <pubDate>2023/12/20 11:39</pubDate>
+      <description>作詞・作曲から演奏、そして歌入れまで全自動でやってくれる作曲サービス「Suno」との提携を突然発表したマイクロソフト。その成果として、Suno AIよりさらに簡単に完成曲を作れるようになりました。Microsoft Copilotでの作曲を一通り試すことができたので、作曲の方法とその制限事項などについて調べました。 Bingのチャットで作曲できました日本では12月20日から、1日3曲をMicrosoft Copilotで作れるようになりました。初日には筆者の場合はうまくいかず、Sunoプラグインもロールアウトでまだ使えない人もいたようですが、今ではかなり行き渡っているようです。 やり方は簡単です。まず、Windows、MacのEdgeかChromeを使い、Microsoftアカウントでログインしてcopilot.bing.comにアクセスします。右側にあるプラグイン一覧で「Suno」があっ</description>
+    </item>
+    <item>
+      <title>これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開 - 週刊アスキー</title>
+      <link>https://weekly.ascii.jp/elem/000/004/175/4175960/</link>
+      <pubDate>2023/12/18 17:44</pubDate>
+      <description>この記事は2023 JSConf JPで発表したHono v3 and v4を元に11月17日に書いたCloudflare社内のブログ記事「Current Status of Hono」を日本語に訳した記事です。 Honoの「Initial commit」からおおよそ2年が経ちました。このプロジェクトは2021年の12月15日に始まりました。 当初、私はCloudflare WorkersのみのためにHonoを作りました。itty-routerはよかったものの、私が欲しかった多くの機能が欠落していました。また、私は勉強のためにTrie木構造のルーターを作りたかったのです。それがHonoの生まれた理由です。 それから多くのことが起こりました。私がCloudflareにいるのもHonoのおかがです！HonoはCloudflare開発者コミュニティで認知されていきました。Honoの人気が出ること</description>
+    </item>
   </channel>
 </rss>
