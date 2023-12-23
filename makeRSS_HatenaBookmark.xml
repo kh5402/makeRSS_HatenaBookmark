@@ -17929,5 +17929,26 @@
       <pubDate>2023/12/23 10:30</pubDate>
       <description>南山大学で2023年12月5日に実施した「ソフトウェア工学特別講義 」の講義資料です。 アジェンダ: ・ 大規模言語モデル (LLM) とは？ ・NTT版大規模言語モデル tsuzumi のご紹介 ・プログラミングへの活用 ・プログラミングを超える範囲のソフトウェア開発タスクへの応用</description>
     </item>
+    <item>
+      <title>台湾総統選挙 AI悪用とみられる不審アカウントや偽動画広がる | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231223/k10014297431000.html</link>
+      <pubDate>2023/12/23 21:26</pubDate>
+      <description>出雲・稲佐の浜（令和5年 神在月） Inasa-no Hama (Inasa Beach) in Izumo, Japan during Kami Ari Zuki (The Month of the Gods&amp;#39; Presence) in 2023. 1.4/50 Summilux ASPH, LEICA M (Typ 240) もうかれこれ4~5か月前、旧知である新メディア&amp;quot;Pivot&amp;quot;の佐々木紀彦さんと竹下隆一郎さんから熱烈なご相談があり、9 quesitonsという番組に出たことがあった。そこで僕が言ったことの一つは「みんなAIの話ばかりをしすぎている。人類にとって大きな２つの課題があり、それをこそ解決すべきであり、AIだとかデータはそのためのツールとして使うべきだ」という話だった*1。 - その２つの課題として挙げたのは「人類と地球との共存」であり、「人口調整局面のしのぎ方」。 2</description>
+    </item>
+    <item>
+      <title>アップル、独自生成AI「Apple GPT」のため出版社や報道機関とライセンス交渉中？ NY Timesほか報道 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/23/2511.html</link>
+      <pubDate>2023/12/23 16:10</pubDate>
+      <description>Large language models (LLMs) demonstrate powerful capabilities, but they still face challenges in practical applications, such as hallucinations, slow knowledge updates, and lack of transparency in answers. Retrieval-Augmented Generation (RAG) refers to the retrieval of relevant information from external knowledge bases before answering questions with LLMs. RAG has been demonstrated to significant</description>
+    </item>
+    <item>
+      <title>StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation</title>
+      <link>https://arxiv.org/abs/2312.12491</link>
+      <pubDate>2023/12/22 06:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6832f6f0163d499c2153ed38a2a2e2787e42d67a/height=288;version=1;width=512/https%3A%2F%2Fav.watch.impress.co.jp%2Fimg%2Favw%2Flist%2F1556%2F337%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
