@@ -18178,5 +18178,23 @@
       <pubDate>2023/12/21 16:47</pubDate>
       <description>We introduce StreamDiffusion, a real-time diffusion pipeline designed for interactive image generation. Existing diffusion models are adept at creating images from text or image prompts, yet they often fall short in real-time interaction. This limitation becomes particularly evident in scenarios involving continuous input, such as Metaverse, live video streaming, and broadcasting, where high throu</description>
     </item>
+    <item>
+      <title>研究ツールまとめ2023｜cvpaper.challenge</title>
+      <link>https://note.com/cvpaperchallenge/n/n6f18dbbc1c85</link>
+      <pubDate>2023/12/24 10:21</pubDate>
+      <description>子どもが生まれたのでそちらに時間をとられて、なかなか技術のキャッチアップが難しいことが増えた。こう書くと、隙間時間を使えばよいではないかと思われるかもしれない。実際うちの子はかなり昼も夜も寝る（寝た）し、お世話がかなり楽な方で隙間時間はある。しかし子育てしている方はわかると思うが、子が寝ている間は親も寝ないと体力が持たない。加えて、子はいつまで機嫌良くいるかわからない。いつ中断されるかそわそわしている状態で、まとまった論考を腰を据えて読む気力などない。というわけで、隙間時間を使っている気力はない。 数ヶ月前に仕事に復帰して以降、どうも最新技術の動向やトレンドを追えなくなっているのが悩みだった。ちなみに、「最新の話題を常日頃から追うべきか」という議論は時折見かけるが、私は今より高い給与得たい、かつ（たとえば組織全体を見るような）難しい仕事をしたいのであれば追い続けるべきという立場だ。というわ</description>
+    </item>
+    <item>
+      <title>GitHub - apple/ml-ferret</title>
+      <link>https://github.com/apple/ml-ferret</link>
+      <pubDate>2023/12/24 14:42</pubDate>
+      <description>この記事は、数理最適化 Advent Calendar 2023 23日目の記事です。LLMと数理最適化を組み合わせた何かをつくろうということで、数理最適化の練習問題を生成する GPTs、Optima Practiceを作りました。 数理最適化のコミュニティCasual Optimizationを運営していく中で、「数理最適化が世の中に広まらない要因の一つに実践的な練習問題の不足があるのではないか？」という意見を知りました。数理最適化を実ビジネスで利用していく上で必須のスキルとして定式化がありますが、たしかに定式化の力をつけるのにちょうど良い、程よく実践的で複雑な練習問題は案外少ないです。しかし、練習問題を作成するのは結構大変です。そこで、LLMを使って自動化できないか、というのが本取り組みの趣旨になります。 作ったもの Optima Practice は、数理最適化の練習問題を生成する</description>
+    </item>
+    <item>
+      <title>VSCode上でCodeWhispererとCopilotを両方使うと、捗る (AIが脆弱性診断→AIが解説)</title>
+      <link>https://zenn.dev/ncdc/articles/429bbe6779ccf2</link>
+      <pubDate>2023/12/24 02:28</pubDate>
+      <description>三省堂のイベントで「辞書マニア」として講演する見坊行徳さん（向かって左から２人目）＝２０２３年１１月３０日、東京都渋谷区 辞書から削除された言葉を集めた辞典がある。「オート三輪」「コギャル」「ながら族」。時代を感じさせる収録語を選んだのは、著名な編さん者の孫で、自ら「辞書マニア」を名乗る見坊行徳さんだ。スマートフォンやＡＩが普及し、紙の辞書を引く機会が減った現代、辞書の価値はどこにあり、どう変わってゆくのか。話を聞いた。（時事ドットコム編集部　太田宇律） 【時事ドットコム取材班】 ◆見坊行徳（けんぼう・ゆきのり）　辞書マニア、校閲者。１９８５年生まれ、神奈川県出身。早稲田大国際教養学部卒。在学中に「早稲田大学辞書研究会」を結成し、「早稲田大辞書」を編さん。「三省堂国語辞典」の初代編集主幹、見坊豪紀（ひでとし）の孫。ＹｏｕＴｕｂｅ番組「辞書部屋チャンネル」やイベント「国語辞典ナイト」を通じ、</description>
+    </item>
   </channel>
 </rss>
