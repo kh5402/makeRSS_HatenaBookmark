@@ -18172,5 +18172,11 @@
       <pubDate>2023/12/23 20:45</pubDate>
       <description>この note は、一度使われて終わるような、巷に無数に溢れているChatGPT にちょっと機能を追加しただけの GPTではなく、本当に使われる素晴らしく便利な GPTs を作るための教科書として、書きました。 今までの GPTs 開発関連の情報を全てまとめた内容になっています。 この note 一冊を読めば、GPTs 制作の基礎から応用まで全部わかります。 記事の内容は必要に応じて適宜アップデートしていきます。 目次は以下です： 第1章 GPTsの概要とその可能性そもそも GPTs とはなんでしょうか？ 一言で言うと、ChatGPTを自分独自に大幅にカスタマイズできる機能とそのカスタマイズされたAIのことです。 ただし、GPTsを単なるChatGPT のいち機能の一つとして考えるのは非常にもったいないです。 OpenAI は、GPT Store という、他の人が作ったGPTsを使えるよう</description>
     </item>
+    <item>
+      <title>Notionで作るWebサイト「MuuMuu Sites」の裏側 - Pepabo Tech Portal</title>
+      <link>https://tech.pepabo.com/2023/12/21/muumuu-sites/</link>
+      <pubDate>2023/12/21 16:47</pubDate>
+      <description>We introduce StreamDiffusion, a real-time diffusion pipeline designed for interactive image generation. Existing diffusion models are adept at creating images from text or image prompts, yet they often fall short in real-time interaction. This limitation becomes particularly evident in scenarios involving continuous input, such as Metaverse, live video streaming, and broadcasting, where high throu</description>
+    </item>
   </channel>
 </rss>
