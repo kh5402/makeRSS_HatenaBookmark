@@ -18118,5 +18118,35 @@
       <pubDate>2023/12/22 09:34</pubDate>
       <description>これは SRE Advent Calendar 2023 DAY 22 の記事です。 はじめに 自分しかわからないPR なぜ読まれなかったのか 実際のPR 設計という共通認識の重要性 経緯を残すと++ ちいさくてかわいいPR わかりやすいPRのTips 直したPR 終わりに はじめに リブセンスでインフラグループに所属している鈴木です。競馬に行きすぎて、行ったことない地方競馬場が水沢と高知だけ1になりました。今後は釜山か済州2を考えています。 ところで、クラウド移行を複数経験したことで感じたことを共有しようと思います。なお本記事は第2回ゆるSRE勉強会の登壇資料をもとに作っています。 自分しかわからないPR オンプレのVMで動いていた社内認証基盤をECS Fargateに移行する案件がありました。構成は下記となります。 nginxのリバースプロクシ oauth2-proxyという様々なID</description>
     </item>
+    <item>
+      <title>LLM開発のためのデータエンジニアリング - Qiita</title>
+      <link>https://qiita.com/cvusk/items/2873aa386936cdb518e0</link>
+      <pubDate>2023/12/24 17:34</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>数理最適化の練習問題をLLMを使って自動生成する</title>
+      <link>https://zenn.dev/ohtaman/articles/optima_practice</link>
+      <pubDate>2023/12/24 09:47</pubDate>
+      <description>長女と2人で水族館に行ったときの写真。帰路のバスで「2人でまた来たいねえ」と言われて泣きました。例のごとく本文とは全く関係がありません。 はじめに こんにちは。最近、ダンダダンのアニメ化が発表され、嬉しい気持ちのエムスリー エンジニアリンググループ VPoE 河合(@vaaaaaanquish)です。 皆さんは『Hit Refresh』という書籍をご存知でしょうか。 現Microsoft CEOであるサティア・ナデラの自伝であり、OpenAIやGitHubと現在&amp;quot;Hit&amp;quot;を続けているMicrosoftに成る過程において、会社を&amp;quot;Refresh&amp;quot;してきた物語が書かれています*1。 その中にあるサティア・ナデラのテクノロジー文化をリスペクトした一節が、私は大好きです。 テクノロジーは魅力的だが、 それ以上に魅力的なのがそれを設計した人達の深いこだわりだ。 実際にサティア・ナデラがMicroso</description>
+    </item>
+    <item>
+      <title>StreamDiffusionをローカルで遊ぶ｜omiz</title>
+      <link>https://note.com/omiz_aiart/n/nfb2dd5ab3f3c</link>
+      <pubDate>2023/12/24 02:03</pubDate>
+      <description>三省堂のイベントで「辞書マニア」として講演する見坊行徳さん（向かって左から２人目）＝２０２３年１１月３０日、東京都渋谷区 辞書から削除された言葉を集めた辞典がある。「オート三輪」「コギャル」「ながら族」。時代を感じさせる収録語を選んだのは、著名な編さん者の孫で、自ら「辞書マニア」を名乗る見坊行徳さんだ。スマートフォンやＡＩが普及し、紙の辞書を引く機会が減った現代、辞書の価値はどこにあり、どう変わってゆくのか。話を聞いた。（時事ドットコム編集部　太田宇律） 【時事ドットコム取材班】 ◆見坊行徳（けんぼう・ゆきのり）　辞書マニア、校閲者。１９８５年生まれ、神奈川県出身。早稲田大国際教養学部卒。在学中に「早稲田大学辞書研究会」を結成し、「早稲田大辞書」を編さん。「三省堂国語辞典」の初代編集主幹、見坊豪紀（ひでとし）の孫。ＹｏｕＴｕｂｅ番組「辞書部屋チャンネル」やイベント「国語辞典ナイト」を通じ、</description>
+    </item>
+    <item>
+      <title>クラウド移行における設計という共通認識 - LIVESENSE ENGINEER BLOG</title>
+      <link>https://made.livesense.co.jp/entry/2023/12/22/090000</link>
+      <pubDate>2023/12/22 09:07</pubDate>
+      <description>CodeZine編集部では、現場で活躍するデベロッパーをスターにするためのカンファレンス「Developers Summit」や、エンジニアの生きざまをブーストするためのイベント「Developers Boost」など、さまざまなカンファレンスを企画・運営しています。</description>
+    </item>
+    <item>
+      <title>チャットで楽々検索！ Azure AI Search と OpenAI を組み合わせた独自ドキュメント検索サンプルのご紹介</title>
+      <link>https://zenn.dev/microsoft/articles/jp-openai-5v1</link>
+      <pubDate>2023/12/21 20:38</pubDate>
+      <description>Appleは「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」という論文を発表した。メモリ容量が限られた端末上でLLMを実行するための革新的な手法を編み出したとしている。 米Appleは12月12日（現地時間）、iPhoneのようなメモリ容量の限られた端末上でLLM（大規模言語モデル）を実行するための技術に関する論文「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」を公開した（リンク先はPDF）。 タイトルを直訳すると「一瞬でLLM：限られたメモリでの効率的な大規模言語モデル推論」となるが、「LLM in the flash」はフラッシュメモリに収まるLLMという意味も含まれている。</description>
+    </item>
   </channel>
 </rss>
