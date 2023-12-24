@@ -18154,5 +18154,23 @@
       <pubDate>2023/12/20 12:21</pubDate>
       <description>Microsoftは2023年11月21日（米国時間）、「.NET Chiseled Ubuntuコンテナイメージ」の提供を開始した。.NET Chiseled Ubuntuコンテナイメージは、Canonicalが同日に一般提供を開始したChiseled Ubuntuコンテナをベースとしており、.NET 6、7、8の本番環境で使用できる。 通常のコンテナイメージでは、不要なコンポーネントが多過ぎるという課題があった。必要最小限のコンポーネントのみを残して構築されたChiseledコンテナイメージが、サイズとセキュリティの面で優れており、これがクラウドアプリの未来を形作ると、Microsoftは述べている。 既存のUbuntuイメージと比較して100MB以上を削減 関連記事 Microsoft、コンテナやAIなどの開発者体験を向上させる「.NET 8」をリリース Microsoftは開発プラ</description>
     </item>
+    <item>
+      <title>毎日始業直後25分の技術キャッチアップがよくワークしている話｜helloyuki</title>
+      <link>https://sizu.me/helloyuki/posts/ubverm6hfxm7</link>
+      <pubDate>2023/12/24 21:25</pubDate>
+      <description>LLM開発のためのデータエンジニアリング MLOps Advent Calendar 2023の24日目です。 Stability AIでデータ系のソフトウェアエンジニアをやっているcvuskです。主な仕事は日本語LLMのためのデータ開発です。Stability AIでは日本語LLMも各種開発しています。LLMの学習というと大量のGPUを用意して巨大なデータでモデルを学習する、というキラキラしたイメージ（？）が強いかもしれませんが、データが重要かつ苦労が耐えない課題であることは他の機械学習やディープラーニングモデルと違いありません。日本語のテキストデータは英語ほど入手しやすいわけではないのと同時に、データエンジニアリングや品質面でもいろいろと大変なことが多々あります。今回はLLMのためのテキストデータの用途やエンジニアリングについて整理します。 LLMの学習 LLMの学習は大きく分けて事前</description>
+    </item>
+    <item>
+      <title>AIで日常をミュージックビデオに</title>
+      <link>https://dailyportalz.jp/kiji/ai-nichijo-music-video</link>
+      <pubDate>2023/12/24 11:36</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>2023年版！エンジニア必見のチートシート集 - Qiita</title>
+      <link>https://qiita.com/hryk_nu/items/d2bd69201778abecedd4</link>
+      <pubDate>2023/12/23 20:45</pubDate>
+      <description>この note は、一度使われて終わるような、巷に無数に溢れているChatGPT にちょっと機能を追加しただけの GPTではなく、本当に使われる素晴らしく便利な GPTs を作るための教科書として、書きました。 今までの GPTs 開発関連の情報を全てまとめた内容になっています。 この note 一冊を読めば、GPTs 制作の基礎から応用まで全部わかります。 記事の内容は必要に応じて適宜アップデートしていきます。 目次は以下です： 第1章 GPTsの概要とその可能性そもそも GPTs とはなんでしょうか？ 一言で言うと、ChatGPTを自分独自に大幅にカスタマイズできる機能とそのカスタマイズされたAIのことです。 ただし、GPTsを単なるChatGPT のいち機能の一つとして考えるのは非常にもったいないです。 OpenAI は、GPT Store という、他の人が作ったGPTsを使えるよう</description>
+    </item>
   </channel>
 </rss>
