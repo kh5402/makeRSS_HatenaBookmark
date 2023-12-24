@@ -18148,5 +18148,11 @@
       <pubDate>2023/12/21 20:38</pubDate>
       <description>Appleは「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」という論文を発表した。メモリ容量が限られた端末上でLLMを実行するための革新的な手法を編み出したとしている。 米Appleは12月12日（現地時間）、iPhoneのようなメモリ容量の限られた端末上でLLM（大規模言語モデル）を実行するための技術に関する論文「LLM in a flash:Efficient Large Language Model Inference with Limited Memory」を公開した（リンク先はPDF）。 タイトルを直訳すると「一瞬でLLM：限られたメモリでの効率的な大規模言語モデル推論」となるが、「LLM in the flash」はフラッシュメモリに収まるLLMという意味も含まれている。</description>
     </item>
+    <item>
+      <title>社内公募制度を使ってみました！〜Youは何しにBASE BANKへ？〜 - BASEプロダクトチームブログ</title>
+      <link>https://devblog.thebase.in/entry/2023/12/20/110000</link>
+      <pubDate>2023/12/20 12:21</pubDate>
+      <description>Microsoftは2023年11月21日（米国時間）、「.NET Chiseled Ubuntuコンテナイメージ」の提供を開始した。.NET Chiseled Ubuntuコンテナイメージは、Canonicalが同日に一般提供を開始したChiseled Ubuntuコンテナをベースとしており、.NET 6、7、8の本番環境で使用できる。 通常のコンテナイメージでは、不要なコンポーネントが多過ぎるという課題があった。必要最小限のコンポーネントのみを残して構築されたChiseledコンテナイメージが、サイズとセキュリティの面で優れており、これがクラウドアプリの未来を形作ると、Microsoftは述べている。 既存のUbuntuイメージと比較して100MB以上を削減 関連記事 Microsoft、コンテナやAIなどの開発者体験を向上させる「.NET 8」をリリース Microsoftは開発プラ</description>
+    </item>
   </channel>
 </rss>
