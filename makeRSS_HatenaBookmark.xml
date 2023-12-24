@@ -18070,5 +18070,35 @@
       <pubDate>2023/12/24 09:52</pubDate>
       <description>Google Cloud Partner Top Engineer 2024を頂いた者です. 仕事はエンジニア系のコンサルとSRE, 趣味（と前職以前の仕事）で機械学習や生成AI*1をやっとります. この記事は当ブログの名物かつ人気シリーズである, 主に技術書を中心としたオススメ書籍（元々はPython本メイン）の紹介エントリーです. ※去年の記事はこちら. 本年のこのエントリーは, 2024年の推し本4冊 CloudおよびSREな4冊 いい感じな技術書2冊 この三本立て（+私の完全なる趣味チョイスで数冊）でご紹介できればと思います. というわけで, 本年のラインナップは以下の通りです. この記事の著者 2024年の推し技術書10冊 特に推したい4冊 クラウドストラテジー 世界一流エンジニアの思考法 仕事に役立つ新・必修科目「情報Ⅰ」 キャリアづくりの教科書 CloudおよびSREな4冊</description>
     </item>
+    <item>
+      <title>ギークでスマートな人達が活躍する組織を支える3つのポイント - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/hit-geek-and-smart</link>
+      <pubDate>2023/12/24 12:52</pubDate>
+      <description>三省堂のイベントで「辞書マニア」として講演する見坊行徳さん（向かって左から２人目）＝２０２３年１１月３０日、東京都渋谷区 辞書から削除された言葉を集めた辞典がある。「オート三輪」「コギャル」「ながら族」。時代を感じさせる収録語を選んだのは、著名な編さん者の孫で、自ら「辞書マニア」を名乗る見坊行徳さんだ。スマートフォンやＡＩが普及し、紙の辞書を引く機会が減った現代、辞書の価値はどこにあり、どう変わってゆくのか。話を聞いた。（時事ドットコム編集部　太田宇律） 【時事ドットコム取材班】 ◆見坊行徳（けんぼう・ゆきのり）　辞書マニア、校閲者。１９８５年生まれ、神奈川県出身。早稲田大国際教養学部卒。在学中に「早稲田大学辞書研究会」を結成し、「早稲田大辞書」を編さん。「三省堂国語辞典」の初代編集主幹、見坊豪紀（ひでとし）の孫。ＹｏｕＴｕｂｅ番組「辞書部屋チャンネル」やイベント「国語辞典ナイト」を通じ、</description>
+    </item>
+    <item>
+      <title>Vertex AI Gemini ProとLangChainで実現するMultimodal RAG</title>
+      <link>https://zenn.dev/harappa80/articles/multimodal_rag</link>
+      <pubDate>2023/12/24 06:29</pubDate>
+      <description>灯akari✨@リア多忙 @cune_bunny 寒い地域に住んでた頃は 水道管が凍ってしまわないように 流しっぱなしにしてましたが こちらは流していたのに 凍ってしまった感じでしょうか 凄いですね(;´･ω･) twitter.com/mt_morino/stat… 2023-12-23 21:47:08</description>
+    </item>
+    <item>
+      <title>2023年図書館系はてなブックマーク ベスト100 - やわらか図書館学</title>
+      <link>https://yawatosho.hateblo.jp/entry/2023/12/23/185158</link>
+      <pubDate>2023/12/23 23:41</pubDate>
+      <description>【シリコンバレー=奥平和行】社会に急速に浸透する生成AI（人工知能）が半導体業界の勢力図を塗り替え始めた。先行した米エヌビディアの業績が急拡大し、2023年は売上高で初めて世界首位になる可能性が高まっている。AI半導体の市場規模は27年に60兆円規模に達するとの見方も浮上し、クラウドコンピューティング大手なども交えた競争が激化している。「AIは過去50年間で最大の技術革新だ。これに近いのはイン</description>
+    </item>
+    <item>
+      <title>メタ・グーグルらテック大手、コンテンツに対する法的責任いよいよ不可避か。生成AIによって失われる“法の盾”</title>
+      <link>https://www.businessinsider.jp/post-280020</link>
+      <pubDate>2023/12/22 09:50</pubDate>
+      <description>GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成してくれるようになりました こんにちは、CX 事業本部 Delivery 部の若槻です。 先月の GitHub Copilot in VS Code のアップデートで、コミットメッセージの生成がサポートされました。 Commit message generation using Copilot in VS Code - GitHub Copilot – November 30th Update - The GitHub Blog Copilot can now generate commit messages based on the pending changes using the new “sparkle” action in the Source Control input box. 試して</description>
+    </item>
+    <item>
+      <title>AIが識別子の名前を考えてくれる機能、「Visual Studio 2022」にテスト導入／文脈を考慮して提案、コードの可読性と保守性が向上</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1556899.html</link>
+      <pubDate>2023/12/22 18:16</pubDate>
+      <description>当記事は、dbtのカレンダー | Advent Calendar 2023 - Qiita の23日目の記事です。 こんにちは、株式会社CARTA MARKETING FIRMのデータエンジニア、@pei0804です。データエンジニアリングのほか、組織運営やデータエンジニア育成にも携わっています。 本記事では、Snowflakeを中心とした当社のデータ基盤「Vision」と、その中核であるdbtの利用について深掘りします。dbtを活用することで、SQLのみでデータパイプラインを効率的に構築し、作業の効率化を図っています。 dbt導入の詳しい導入背景は以下のスライドでご覧いただけます：広告レポーティング基盤に、dbtを導入したら別物になった話 / tokyo-dbt-meetup-4 - Speaker Deck。 私たちのチームでは、ビジネスに直接価値を提供しているdbtモデルの開発はプロ</description>
+    </item>
   </channel>
 </rss>
