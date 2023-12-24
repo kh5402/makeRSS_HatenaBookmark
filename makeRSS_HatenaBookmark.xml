@@ -18046,5 +18046,23 @@
       <pubDate>2023/12/20 16:33</pubDate>
       <description>「チャットAIに画像を入力してキャプションを付けさせ、これを画像生成AIのDALL-Eで画像化し、再びチャットAIに入力して……」というプロセスを何度も繰り返し、AIが生成する画像がどのように変化していくのかを観察できるのが「Image Telephone」です。作者のelijahbenizzyさんは「自分でやってみたところ結果が非常に興味深いものだったためアプリ化して誰でも気軽に体験できるようにしてみました」と説明しています。 Image Telephone · Streamlit https://image-telephone.streamlit.app/ Image Telephoneは「GPT-4(ChatGPTのベースとなる大規模言語モデル)とDALL-E 3で伝言ゲームをすると何が起きるのか？」を確かめるためのアプリケーションです。まず、GPT-4に入力画像のキャプションを作成</description>
     </item>
+    <item>
+      <title>【読書感想】AI失業 生成AIは私たちの仕事をどう奪うのか？ ☆☆☆☆ - 琥珀色の戯言</title>
+      <link>https://fujipon.hatenadiary.com/entry/2023/12/15/085102</link>
+      <pubDate>2023/12/15 09:35</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>ニュージーランドには、お金の代わりにエレキギターの腕前で支払いができるビールの自動販売機がある - amass</title>
+      <link>https://amass.jp/171978/</link>
+      <pubDate>2023/12/21 10:39</pubDate>
+      <description>さる11月に起こったOpenAIでのサム・アルトマンCEO追放騒ぎは、テクノロジー界のみならず全世界のビジネス界からも大きな注目を集めた。 2022年11月に同社がリリースしたChatGPTはAIの最先端で何ができるのかを見せつけ、ここから未来が生まれると信じさせるに十分だったからだ。 ChatGPTに問いかけをすると、まるで頭脳明晰な人間のように詳細な答えを返す。作文も翻訳も難なくこなし、そのうち言葉で告げるだけで絵まで描き出すようになった。ビジネス界は先を争って生成AI技術を応用し、今や社会の隅々にまで浸透し始めていると言っても過言ではない。そこで起こったこの騒ぎ。人々は、これがAI開発の未来について何を物語るのかを見定めようとしたのだ。 起こるべくして起こった「解任劇」 結局アルトマンCEOは、追放された数日後に舞い戻るというどんでん返しを演じたわけだが、この動きによって舞台裏の一部</description>
+    </item>
+    <item>
+      <title>クローズドβとして提供していた「AIタイトルアシスト」を正式リリースしました。本日よりどなたでもご利用いただけます - はてなブログ開発ブログ</title>
+      <link>https://staff.hatenablog.com/entry/ai_title_assist_officially_released</link>
+      <pubDate>2023/12/19 16:39</pubDate>
+      <description>これは Livesense Advent Calendar 2023 DAY 18 の記事です。 こんにちは。 転職ドラフトでWebアプリケーションエンジニアをしております iwtn です。 今回このような機能をリリースしました。 prtimes.jp 国内のITエンジニアのアウトプットとして代表的なGitHubのリポジトリとQiitaの記事について要約を生成し、よりマッチした指名をもらう・していただくための機能になります。 ぜひお試しください！ 別の記事でも書きましたが、今年は生成AI、特にプログラマにとってはLLMの話題で持ち切りでしたね。 書店でも「ChatGPT」がタイトルに入った本がずっと平積みです。 そんなChatGPT（というか、具体的にはOpenAIのAPI）を使った機能を実装していく中で、キャリアについて思ったことを書き残しておきたいと思います。 キャリアってそもそもなん</description>
+    </item>
   </channel>
 </rss>
