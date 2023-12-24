@@ -18028,5 +18028,23 @@
       <pubDate>2023/12/23 10:11</pubDate>
       <description>出雲・稲佐の浜（令和5年 神在月） Inasa-no Hama (Inasa Beach) in Izumo, Japan during Kami Ari Zuki (The Month of the Gods&amp;#39; Presence) in 2023. 1.4/50 Summilux ASPH, LEICA M (Typ 240) もうかれこれ4~5か月前、旧知である新メディア&amp;quot;Pivot&amp;quot;の佐々木紀彦さんと竹下隆一郎さんから熱烈なご相談があり、9 quesitonsという番組に出たことがあった。そこで僕が言ったことの一つは「みんなAIの話ばかりをしすぎている。人類にとって大きな２つの課題があり、それをこそ解決すべきであり、AIだとかデータはそのためのツールとして使うべきだ」という話だった*1。 - その２つの課題として挙げたのは「人類と地球との共存」であり、「人口調整局面のしのぎ方」。 2</description>
     </item>
+    <item>
+      <title>NVIDIA、半導体売上高で首位に　生成AIで勢力図に異変 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN131HH0T11C23A2000000/</link>
+      <pubDate>2023/12/23 22:53</pubDate>
+      <description>大手テック企業は過去何十年もの間、自社のプラットフォームに投稿されるものすべてに対して責任を回避してきた。しかし生成AIの出現によって、極めて重要な法律による保護がなくなろうとしている。 メタ（Meta）、グーグル（Google）、マイクロソフト（Microsoft）、アマゾン（Amazon）、さらにアップル（Apple）までもが、オープンAI（OpenAI）に対抗するために、この1年かけて生成AIのツールとモデルの導入を急いできた。 大規模言語モデルLlamaを擁するメタは、Facebook、Instagram、WhatsAppでコンシューマー向けAIのツールと機能の数を増やしている。グーグルはGeminiとBardを保有する。アマゾンにはQがあり、他にもツールを開発している。マイクロソフトにはCopilotがあるほか、オープンAIの直接的な後ろ盾となっている。 こうしたAIの取り組みに</description>
+    </item>
+    <item>
+      <title>GitHub Copilot in VS Code で、作業内容からコミットメッセージを生成してくれるようになりました | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/https-code-visualstudio-com-docs-editor-github-copilot/</link>
+      <pubDate>2023/12/23 17:04</pubDate>
+      <description>社内のテックトークで紹介しました。</description>
+    </item>
+    <item>
+      <title>生成AIがICT市場に与える影響とは――NRIが解説</title>
+      <link>https://cloud.watch.impress.co.jp/docs/news/1556022.html</link>
+      <pubDate>2023/12/20 16:33</pubDate>
+      <description>「チャットAIに画像を入力してキャプションを付けさせ、これを画像生成AIのDALL-Eで画像化し、再びチャットAIに入力して……」というプロセスを何度も繰り返し、AIが生成する画像がどのように変化していくのかを観察できるのが「Image Telephone」です。作者のelijahbenizzyさんは「自分でやってみたところ結果が非常に興味深いものだったためアプリ化して誰でも気軽に体験できるようにしてみました」と説明しています。 Image Telephone · Streamlit https://image-telephone.streamlit.app/ Image Telephoneは「GPT-4(ChatGPTのベースとなる大規模言語モデル)とDALL-E 3で伝言ゲームをすると何が起きるのか？」を確かめるためのアプリケーションです。まず、GPT-4に入力画像のキャプションを作成</description>
+    </item>
   </channel>
 </rss>
