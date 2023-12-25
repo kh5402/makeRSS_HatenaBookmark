@@ -18361,5 +18361,20 @@
       <pubDate>2023/12/22 07:55</pubDate>
       <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 ✕</description>
     </item>
+    <item>
+      <title>ずんだもんが無料で使える、超高性能AIボイスチェンジャー、Parakeet.VCが公開。1か月間は全キャラクタ、全機能が無料｜DTMステーション</title>
+      <link>https://www.dtmstation.com/archives/64323.html</link>
+      <pubDate>2023/12/25 17:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1838f7a392a0cd64e2d5e1168e854c1ca496a7dc/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1557%2F249%2F5.gif');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>機械学習におけるEDAって結局何するの？ - ABEJA Tech Blog</title>
+      <link>https://tech-blog.abeja.asia/entry/advent-2023-day25</link>
+      <pubDate>2023/12/25 10:21</pubDate>
+      <description>WordPressブロックテーマで一新された、ブログデザインと制作フロー 2023年12月に、このブログのWordPressテーマをリニューアルしました。 その際、あえてこれまでのWordPressテーマ制作手法と違う手法で制作したため、この記事では新しいWordPressのテーマ形式である「ブロックテーマ」について解説をします。 今回のWordPressテーマ制作手法 今回のブログリニューアルの際に、あえて行った手法は以下の通りです。 これまで主流だったクラシックテーマではなく、これから主流になる（と思われる）ブロックテーマと呼ばれる新しいテーマ制作手法で制作する FigmaやAdobe XDのようなデザインツールを使用しない WordPressのフルサイト編集機能でデザインする HTMLとCSSを書いてからWordPressテーマに変換しない functions.php にコードを追加</description>
+    </item>
   </channel>
 </rss>
