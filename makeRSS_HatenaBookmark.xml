@@ -18601,5 +18601,35 @@
       <pubDate>2023/12/25 12:57</pubDate>
       <description>量子力学の法則を利用することで通常のコンピューターよりも複雑な計算を高速で行えると考えられている量子コンピュータは、MicrosoftやIntelなど、さまざまな企業が研究開発に取り組んでいます。しかし、一部の専門家は、量子コンピューターの実現について「多くの人が思っているよりもさらに未来のことになる可能性がある」と指摘しています。 Quantum Computing’s Hard, Cold Reality Check - IEEE Spectrum https://spectrum.ieee.org/quantum-computing-skeptics 素粒子の世界で見られる「重ね合わせ」や「量子もつれ」などの性質を利用して、従来のコンピュータでは不可能な処理を行うことができると考えられている量子コンピューターは、財務モデリングや物流の最適化、機械学習の高速化など、現実のさまざまな問題</description>
     </item>
+    <item>
+      <title>GitHub Copilot全社導入で得られた効果と課題 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20231226/GithubCopilot</link>
+      <pubDate>2023/12/26 15:37</pubDate>
+      <description>株主優待の対象となるのは、12月27日までに100株以上保有している株主。なお提供するeSIMはデータ通信のみ可能で、通話はできず、利用期間が過ぎれば自動解約となる。また優待専用の特別仕様であり、一部利用できない機能もあるとしている。 優待内容の変更について楽天は「楽天モバイルは『オリコン顧客満足度調査携帯キャリアランキング』で総合1位を受賞するなど、多くのお客さまに好評いただいている。この度、株主の皆さまにも是非サービスを体験いただき、楽天グループが注力する楽天モバイルについて理解を深めて頂ければと思った」と説明している。 関連記事 楽天ペイ、国税のスマホアプリ納付に対応　楽天ポイントや楽天キャッシュも利用可能 楽天ペイメントは、キャッシュレス決済サービス「楽天ペイ」で国税のスマートフォンアプリ納付に対応した。納付時には楽天ポイントや楽天キャッシュも利用可能だ。 楽天証券も米ドル／円の為</description>
+    </item>
+    <item>
+      <title>DALL-E×ChatGPTでUIデザインを作成して実装する方法 | 株式会社LIG(リグ)｜DX支援・システム開発・Web制作</title>
+      <link>https://liginc.co.jp/blog/tech/638850</link>
+      <pubDate>2023/12/26 09:29</pubDate>
+      <description>はじめに こんにちは！ 今年も国内外様々な LLM(大規模言語モデル)が公開されましたね！ LLM の選定や調査・実験をする際、リソースの要求レベルが非常に高く、ローカル環境での実施はかなりハードルが高いですよね... そこで今回は、Google Colab（正式には Colaboratory）を利用して LLMを動かす方法を紹介します。 サクッと LLM を動かしたい時におすすめです！ はじめに Google Colab 基本的な使い方 エラーがでたときは？ セッションが多すぎるとき なぜかうまく動かない時 有料プランについて ほかにも使ってみる Google Colab Google Colab は、Google が提供している提供しているサービスで、ブラウザで Python を実行できるツールです。 機械学習の用途で利用されることが多く、操作も簡単です。 基本的な使い方 今回は、ca</description>
+    </item>
+    <item>
+      <title>遠近両用メガネなのに見え方は“普通”　AIを使ってパーソナライズする累進レンズ「Varilux XR」を体験した</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/26/news126.html</link>
+      <pubDate>2023/12/26 12:26</pubDate>
+      <description>はじめに 調達トレンドのマクロ状況変化 2023年の海外セキュリティSaaSの注目トレンド トレンド1: Application Security Posture Managementとしての製品戦略の加速 Application Security Posture Managementとは Application Security Posture Managementの2つの成長背景 既存のスタートアップの巨額買収やピボットによるASPMの加速 トレンド2: セキュリティSaaS × 生成AI のトレンド ビッグテックによる、生成AIを活用したセキュリティ機能の登場 生成AIを活用したセキュリティSaaSスタートアップの登場 2024年以降のトレンド予想 予想1: クラウドセキュリティ領域とアプリケーションセキュリティ領域のベンダー統合の加速 予想2: 生成AIをコア機能に組み込んだセキュ</description>
+    </item>
+    <item>
+      <title>オブザーバビリティ市場の淘汰が進む中、Datadogが成長を続ける理由 (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/177/4177300/</link>
+      <pubDate>2023/12/26 09:29</pubDate>
+      <description>Midjourneyがリアルすぎて写真と見分けがつかないレベルに2023.12.26 07:005,974 Maxwell Zeff・Gizmodo US ［原文］ （ mayumine ） Midjourney の最新版、｢Midjourney V6｣登場、過去のバージョンと比較して｢よりリアルな画像を生成できる｣ようになり、そのクオリティは本物の写真と見分けがつかないほどです。 ｢Midjourney V6｣は現在、Discordで冬休み期間限定配布のアルファ版でのみ利用可能｡試すなら今です。 米Gizmodoでも試してみましたが、他のAI画像生成ツールと比べてもクオリティが圧倒的、驚くほどリアルでMidjourney特有のクリエイティビティも健在です。通常、AI画像生成ツールは、リアルかファンタジー、どちらかを選ぶ感じになりますが、｢Midjourney V6｣はこれまでの中でも最高</description>
+    </item>
+    <item>
+      <title>Midjourney V6とV5はまったく別のもの！ 大半のプロンプトは共有できない - Blog 2023/12/21｜CreativeEdge Vlog</title>
+      <link>https://note.com/creative_edge/n/n727a006d564b</link>
+      <pubDate>2023/12/25 08:42</pubDate>
+      <description>This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com. https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68 Sam Altman’s Knack f</description>
+    </item>
   </channel>
 </rss>
