@@ -18529,5 +18529,41 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1838f7a392a0cd64e2d5e1168e854c1ca496a7dc/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1557%2F249%2F5.gif');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Midjourneyがリアルすぎて写真と見分けがつかないレベルに</title>
+      <link>https://www.gizmodo.jp/2023/12/midjourney-v6-image-generator-update-how-to.html</link>
+      <pubDate>2023/12/26 09:04</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月18日（月）〜12月24日（日）〔2023年12月第4週〕のトップ30です*1。 順位 タイトル 1位 ASCII.jp：これは嬉しい ChatGPTプロンプト書き方のコツ、OpenAIが公開 2位 本当に効く！アンガーマネジメント！ 3位 児玉真美『安楽死が合法の国で起こっていること』（ちくま新書） : 山下ゆの新書ランキング Blogスタイル第2期 4位 IT系コミュニティをタダ飯狙いの不審者からどう守るべきか。あるイベントで発生した深刻な事案と提言 － Publickey 5位 JA全農の『鶏モモ肉の焼き方』に反響 「マジでおすすめ」「安い肉が名のある地鶏になった」 – grape [グレイプ] 6位 デイリーポータルZは2024年1月1日から運営会社が変わります :: デイリーポータ</description>
+    </item>
+    <item>
+      <title>78％の精度で生涯年収と死亡時期を予想できる「運命計算機」を開発 - ナゾロジー</title>
+      <link>https://nazology.net/archives/141287</link>
+      <pubDate>2023/12/26 09:38</pubDate>
+      <description>12月9日（現地時間）、EUの閣僚理事会と欧州議会は、2021年4月に提案され審議が続いてきたAI法案「EU AI Act」について、暫定的な政治合意に達したと発表した。今後、最終的な内容を詰め、その上で各国の承認を得るプロセスに入るため、具体的な規制がどのような形で決着するのかは予断を許さない。 また承認が得られても、AI法が施行・適用されるようになるのはまだ先で、26年中になると見られている。とはいえAIを包括的に規制する、強制力のあるルールがついに施行されるということで、AI法の成立はAIガバナンスにとってエポックメーキングな出来事といえるだろう。 その詳しい内容はこれから定義される（「欧州AI庁」という組織が設置され、各種基準の定義や運用を担う予定）予定だが、具体的な道が示されることで、AIリスクの管理が容易になると期待されている。 しかしこうしたガバナンス方法の提案は、本当に社会</description>
+    </item>
+    <item>
+      <title>Publickeyの年間記事ランキングを見ながら、2023年のIT業界の出来事を振り返る</title>
+      <link>https://www.publickey1.jp/blog/23/publickey2023it.html</link>
+      <pubDate>2023/12/26 07:37</pubDate>
+      <description>Windowsユーザーは、「WSL2」を利用することで手軽にLinuxを体験できる。Linuxはコマンド操作が基本であり、Windowsユーザーが「ChatGPT」を利用してコマンドを学ぶ方法も紹介する。 ここからはWSL2の使い方を詳しく解説します。WSL2はWindows上で動作するLinuxなので、双方の環境にあるファイルやアプリケーションをシームレスに連携させることができます。そうした連携の方法を中心に紹介します。 使い方1 Windowsで作成したファイルをLinuxから開く 前回説明したように、WSL2は仮想マシンで動いています。Linux環境から見えるLinuxのメインのドライブは、Windows上の仮想ディスクとして作られています。そして、WindowsのドライブはLinuxからは外部ドライブとして見えており、WindowsのCドライブは「/mnt/c」としてマウントされて</description>
+    </item>
+    <item>
+      <title>Cloud Run で作るサーバーレス アーキテクチャ 23 連発 - これのときはこう！</title>
+      <link>https://zenn.dev/google_cloud_jp/articles/cloudrun-architectures</link>
+      <pubDate>2023/12/26 02:17</pubDate>
+      <description>1年をふりかえる 年の瀬ご多端の折、皆様におかれましては本年も大変お世話になりました。crowdworks.jpの開発をしているプロダクト開発部部長の塚本です。 本記事はクラウドワークスAdvent Calendar 2023 シリーズ2の25日目の記事です。 今回は、プロダクト開発部として今年取り組んできたことと、その中での気づき、「Think Like a CTO」という書籍の話にも触れていきます。 今年やってきたこと 技術的負債解消への取り組み 昨年のアドベントカレンダーでも書きましたが、2023年も技術的負債の解消に取り組んで参りました。 結果としては、フロントエンドでの注力の割合が大きかった一年でした。詳しくは＠yamanokuさんの1日目の記事をご覧ください。 記事にもありますが、Vue.js化をフロントエンドを触る全チームが行える体制に整えることで加速させていきます。 またバ</description>
+    </item>
+    <item>
+      <title>「見ず知らずの他人がChatGPTに搭載されている大規模言語モデルから自分のメールアドレスを入手していた」という報告</title>
+      <link>https://gigazine.net/news/20231225-chatgpt-model-delivered-email-personal-information/</link>
+      <pubDate>2023/12/25 23:21</pubDate>
+      <description>AIツールはビジネスやクリエイティブなど、あらゆる分野で活用され、業務効率化や生産性向上に貢献しています。 ２０２３年は、コストをかけずにAIを最大限に活用できる無料AIツールが、たくさん登場した年となりました。 この記事では、無料で利用できるAIツール28個をご紹介します。 チャットボット、テキストエディティング、画像生成、音楽生成、音声生成など、さまざまなカテゴリのツールを厳選しています。 無料で使えるAIツールチャットボットツール画像生成ツール画像編集ツール3D AIツール動画AIツール音楽生成ツール チャットボットツール ChatGPT おそらく現在最もよく知られているチャットボットAIツールのひとつ。 無料版と有料版がありますが、アドバイスや動画のアイデア出しや、見出しタイトルや本文などコピーライティングにも効果的。 ツールを利用する Bard AI Chat 最近Gemini</description>
+    </item>
+    <item>
+      <title>【Python】噂の”LightweightMMM”を使ってみた</title>
+      <link>https://techblog.gmo-ap.jp/2023/12/21/python_lightweightmmm/</link>
+      <pubDate>2023/12/21 00:06</pubDate>
+      <description>当記事は、dbtのカレンダー | Advent Calendar 2023 - Qiita の23日目の記事です。 こんにちは、株式会社CARTA MARKETING FIRMのデータエンジニア、@pei0804です。データエンジニアリングのほか、組織運営やデータエンジニア育成にも携わっています。 本記事では、Snowflakeを中心とした当社のデータ基盤「Vision」と、その中核であるdbtの利用について深掘りします。dbtを活用することで、SQLのみでデータパイプラインを効率的に構築し、作業の効率化を図っています。 dbt導入の詳しい導入背景は以下のスライドでご覧いただけます：広告レポーティング基盤に、dbtを導入したら別物になった話 / tokyo-dbt-meetup-4 - Speaker Deck。 私たちのチームでは、ビジネスに直接価値を提供しているdbtモデルの開発はプロ</description>
+    </item>
   </channel>
 </rss>
