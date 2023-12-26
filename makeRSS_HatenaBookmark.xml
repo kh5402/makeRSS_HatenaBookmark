@@ -18472,5 +18472,41 @@
       <pubDate>2023/12/25 20:56</pubDate>
       <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。第26回目は、生成AI最新論文の概要5つをお届けします。画像生成の高速化技術を大幅に向上させた、日本人著者らによる「StreamDiffusion」をはじめとした最新論文を紹介します。 生成AI論文ピックアップ複数の動く3Dオブジェクトをテキスト指示で作成する4D生成モデル「AYG」、NVIDIAなどが開発 SD-turboで毎秒100枚以上の画像を生成できるシステム「StreamDiffusion」。著者による解説動画あり 細部まで一貫性のある被写体主導の画像・動画を生成できるモデル「DreamTuner」、ByteDanceが開発 人間が使うようにタップやスワイプ</description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2023年12月第4週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2023/12/26/112405</link>
+      <pubDate>2023/12/26 11:24</pubDate>
+      <description>今年は生成AIが本格的にブレイクした年としてIT業界の歴史に刻まれる年になることは間違いないでしょう。そうした2023年を、Publickeyの年間人気記事ランキングとともに振り返ってみたいと思います。 2023年におけるChatGPTの登場とそれを契機とした生成AIへの急速な注目度の高まりは、圧倒的なものでした。 いまではIT業界の景色をすっかり変えてしまったクラウドが登場したときでさえ、その変化はもっとゆっくりとしたものであり、しかもクラウドの登場時には懐疑的な意見も多くありました。 しかし生成AIは、ChatGPTが公開されてからわずか2カ月で1億人のユーザーが使い始め、誰もがその高い能力に驚き、あっという間に「ChatGPTを始めとする生成AIはIT業界だけでなく世界中のビジネスを変えうる画期的な技術である」というコンセンサスが世の中に形成されたように思います。 Publickey</description>
+    </item>
+    <item>
+      <title>【2023年ベスト】無料で使えるすごい神AIツール27個まとめ</title>
+      <link>https://photoshopvip.net/154650</link>
+      <pubDate>2023/12/25 23:11</pubDate>
+      <description>株式会社ZOZO 推薦基盤チームリーダーの @f6wbl6 です。この記事は「ZOZO Advent Calendar 2023」のカレンダー7の最終回（25日目）です。 この記事では、ZOZOの推薦基盤チームで私とチームメンバーがこの一年、サービス面・組織面で取り組んできたものをいくつか取り上げたいと思います。なおこの記事のタイトルと冒頭の文章は弊社 CTO 兼取締執行役員の @sonots が書いた以下の記事のオマージュです。 2023年以前の取り組み まず前提として、推薦基盤チームではこれまでにどのような施策を実施してきたのかを簡単にご紹介します。 商品詳細画面「おすすめアイテム」枠の改善 ZOZOTOWN において、商品詳細画面の下にある「おすすめアイテム」枠での推薦精度を改善するプロジェクトです。 既存システムではオンプレの SQL Server に対して都度クエリを投げていまし</description>
+    </item>
+    <item>
+      <title>2023年のふりかえり - laiso</title>
+      <link>https://laiso.hatenablog.com/entry/recap-2023</link>
+      <pubDate>2023/12/25 19:03</pubDate>
+      <description>量子力学の法則を利用することで通常のコンピューターよりも複雑な計算を高速で行えると考えられている量子コンピュータは、MicrosoftやIntelなど、さまざまな企業が研究開発に取り組んでいます。しかし、一部の専門家は、量子コンピューターの実現について「多くの人が思っているよりもさらに未来のことになる可能性がある」と指摘しています。 Quantum Computing’s Hard, Cold Reality Check - IEEE Spectrum https://spectrum.ieee.org/quantum-computing-skeptics 素粒子の世界で見られる「重ね合わせ」や「量子もつれ」などの性質を利用して、従来のコンピュータでは不可能な処理を行うことができると考えられている量子コンピューターは、財務モデリングや物流の最適化、機械学習の高速化など、現実のさまざまな問題</description>
+    </item>
+    <item>
+      <title>毎秒100枚の画像を高速生成できる「StreamDiffusion」、文章指示で複数の動く3Dキャラを生成するNVIDIA開発「AYG」など重要論文5本を解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/25/2517.html</link>
+      <pubDate>2023/12/25 08:52</pubDate>
+      <description>This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com. https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68 Sam Altman’s Knack f</description>
+    </item>
+    <item>
+      <title>イーロン・マスク主導でChatGPTに対抗して作られたチャットAI「Grok」が予想以上にリベラルな回答をして保守派支持層の怒りを買っている</title>
+      <link>https://gigazine.net/news/20231225-elon-musk-x-ai-grok-liberal/</link>
+      <pubDate>2023/12/25 11:48</pubDate>
+      <description>2023年に読んだ書籍数の可視化 恒例のKindleの購入した書籍の年ごとの数を可視化しました。 284冊と2022年の300冊超えには少し届かない感じでした。なお、あくまでKindle書籍を購入したもので、紙の書籍は含まれていません（といっても20冊いかないくらい）。また、購入したものの読んでない本や、無料の書籍、セールで買った漫画なども含まれていることには注意ください。 グラフの可視化に関しては、去年まではPythonのプログラムを使っていたのですが、今年からChatGPTにおまかせにしました。楽ですね。やり方は以下記事を参照ください。 2023年に読んだ印象深かった本 紹介していきます。ご恵贈いただいた書籍も半分くらいあります。 ものづくり・電子工作関係 ものづくりの楽しさを呼び起こしてくれるような書籍を多く読みました。転職して、仕事ではハードウェアからはかなり距離ができてしまいまし</description>
+    </item>
+    <item>
+      <title>生成AI使う個人業務委託、1年で件数8倍に　料金は上昇 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC20DNA0Q3A221C2000000/</link>
+      <pubDate>2023/12/25 06:20</pubDate>
+      <description>機械学習初心者がKaggleの「入門」を高速で終えるための、おすすめ資料などまとめ（2023年12月版） こんにちわ、カレーちゃんです。Kaggle GrandMasterです。 Kaggleはデータサイエンスに入門するのにとても適しています。ですが、英語の問題などがあり、入門するのが難しい。そこで、Kaggleの「入門」をこうすれば高速に完了できるというnoteを書きます。 同じタイトルの記事を、2020年8月にも書いたのですが、それから2年以上がたちました。それから、おすすめできる資料が増え、また、私が思う入門のコースもやや変わりましたので、更新をしたいと思います。 1.Kaggleに入門（はじめに取り組むと良い資料）Kaggleには、「タイタニックコンペ」という、練習用のコンペがあります。 これは、事故が起こったタイタニックの乗客のデータから、乗客の生死を予測するという、やりたいこと</description>
+    </item>
   </channel>
 </rss>
