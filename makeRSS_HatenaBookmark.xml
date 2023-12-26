@@ -18508,5 +18508,26 @@
       <pubDate>2023/12/25 06:20</pubDate>
       <description>機械学習初心者がKaggleの「入門」を高速で終えるための、おすすめ資料などまとめ（2023年12月版） こんにちわ、カレーちゃんです。Kaggle GrandMasterです。 Kaggleはデータサイエンスに入門するのにとても適しています。ですが、英語の問題などがあり、入門するのが難しい。そこで、Kaggleの「入門」をこうすれば高速に完了できるというnoteを書きます。 同じタイトルの記事を、2020年8月にも書いたのですが、それから2年以上がたちました。それから、おすすめできる資料が増え、また、私が思う入門のコースもやや変わりましたので、更新をしたいと思います。 1.Kaggleに入門（はじめに取り組むと良い資料）Kaggleには、「タイタニックコンペ」という、練習用のコンペがあります。 これは、事故が起こったタイタニックの乗客のデータから、乗客の生死を予測するという、やりたいこと</description>
     </item>
+    <item>
+      <title>【生成AIとASPMの加速】2023年の海外セキュリティSaaS。2つの新トレンドと今後の予測 - #FlattSecurityMagazine</title>
+      <link>https://flatt.tech/magazine/entry/20231226_market_trend</link>
+      <pubDate>2023/12/26 12:39</pubDate>
+      <description>2023年9月にはCiscoがSplunkの買収を発表、11月には投資ファンドのFrancisco PartnersとTPGがNew Relicの買収完了を発表した。オブザーバビリティ市場における淘汰が進みつつある中、Datadogの今期第3四半期における売上は約20億1000万ドル、前年度比31%増と、独立ベンダーとして順調に成長を続ける。 就任から約4年を経たDatadog Japanのカントリーマネージャー 国本明善氏に、Datadogの成長を支える強みと、日本市場の今後の展開について聞いた。 DatadogのCEOが年次イベントで“ビジョン”を語らないわけ Datadogは、2010年にニューヨークにて創業。現在、グローバルで従業員数は5000名以上となり、ユーザー企業数も2万7000社を超えた。最初はインフラ監視からビジネスを開始し、クラウドの流行に合わせて成長を重ねた。転機とな</description>
+    </item>
+    <item>
+      <title>「AIガバナンス」の提供ツールは逆効果？　米調査団体「多くのガバナンスツールに欠陥がある」と指摘</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/26/news072.html</link>
+      <pubDate>2023/12/26 08:21</pubDate>
+      <description>今年は生成AIが本格的にブレイクした年としてIT業界の歴史に刻まれる年になることは間違いないでしょう。そうした2023年を、Publickeyの年間人気記事ランキングとともに振り返ってみたいと思います。 2023年におけるChatGPTの登場とそれを契機とした生成AIへの急速な注目度の高まりは、圧倒的なものでした。 いまではIT業界の景色をすっかり変えてしまったクラウドが登場したときでさえ、その変化はもっとゆっくりとしたものであり、しかもクラウドの登場時には懐疑的な意見も多くありました。 しかし生成AIは、ChatGPTが公開されてからわずか2カ月で1億人のユーザーが使い始め、誰もがその高い能力に驚き、あっという間に「ChatGPTを始めとする生成AIはIT業界だけでなく世界中のビジネスを変えうる画期的な技術である」というコンセンサスが世の中に形成されたように思います。 Publickey</description>
+    </item>
+    <item>
+      <title>Stable DiffusionのSDXL1.0モデルと拡張機能のあれこれ</title>
+      <link>https://techblog.gmo-ap.jp/2023/12/24/stable-diffusion-sdxl/</link>
+      <pubDate>2023/12/24 00:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1838f7a392a0cd64e2d5e1168e854c1ca496a7dc/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1557%2F249%2F5.gif');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
