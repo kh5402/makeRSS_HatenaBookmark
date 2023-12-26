@@ -18565,5 +18565,17 @@
       <pubDate>2023/12/21 00:06</pubDate>
       <description>当記事は、dbtのカレンダー | Advent Calendar 2023 - Qiita の23日目の記事です。 こんにちは、株式会社CARTA MARKETING FIRMのデータエンジニア、@pei0804です。データエンジニアリングのほか、組織運営やデータエンジニア育成にも携わっています。 本記事では、Snowflakeを中心とした当社のデータ基盤「Vision」と、その中核であるdbtの利用について深掘りします。dbtを活用することで、SQLのみでデータパイプラインを効率的に構築し、作業の効率化を図っています。 dbt導入の詳しい導入背景は以下のスライドでご覧いただけます：広告レポーティング基盤に、dbtを導入したら別物になった話 / tokyo-dbt-meetup-4 - Speaker Deck。 私たちのチームでは、ビジネスに直接価値を提供しているdbtモデルの開発はプロ</description>
     </item>
+    <item>
+      <title>Google ColabでサクッとLLMを使ってみよう！ - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20231226/llm</link>
+      <pubDate>2023/12/26 13:28</pubDate>
+      <description>フランスのバリラックスは、境目のない遠近両用レンズ、いわゆる「累進レンズ」を世界で最初に作ったレンズブランドだ。その新しいフラグシップ「Varilux XR」でメガネを作ってみた。</description>
+    </item>
+    <item>
+      <title>2024年に流行るサイバー攻撃は？　注目はやはりAI　それ以上に押さえておくべき基本とは</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/26/news068.html</link>
+      <pubDate>2023/12/26 09:05</pubDate>
+      <description>占いに頼る人がいるように、「自分はどんな人間になるのか」「自分にどんな出来事が生じるのか」など、将来を知りたいと願う人は少なくありません。 そして最近の研究は、AI技術を用いることで、「まじない的な何か」に頼ることなく、将来をより正確に予測できると報告しています。 デンマーク工科大学（DTU）に所属するスーン・リーマン氏ら研究チームは、デンマーク人約600万人分の様々なデータをAIに学習させ、人々の将来を予測できるようにトレーニングしました。 その結果、そのAIは、人の生涯年収や死亡時期を78％で予測できる「運命計算機」になったようです。 研究の詳細は、2023年12月18日付の学術誌『Nature Computational Science』に掲載されました。 目次 デンマーク国民全員のデータを取り入れたAIが死亡時期を予測する デンマーク国民全員のデータを取り入れたAIが死亡時期を予測</description>
+    </item>
   </channel>
 </rss>
