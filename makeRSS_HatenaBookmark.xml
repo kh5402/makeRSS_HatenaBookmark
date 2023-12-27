@@ -18832,5 +18832,23 @@
       <pubDate>2023/12/27 10:55</pubDate>
       <description>ELYZA、新たな日本語言語モデルを一般公開　同社「日本語ならGPT-3.5を上回る性能」　商用利用も可 東大発のAIスタートアップ企業であるELYZAは、商用利用可能な日本語の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」を公開した。日本語性能の評価では「GPT-3.5（text-davinci-003）」を上回るという。 東大発のAIスタートアップ企業であるELYZA（東京都文京区）は12月27日、商用利用可能な日本語の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」を公開した。米MetaのLLM「Llama 2」をベースにしており、日本語性能の評価では「GPT-3.5（text-davinci-003）」を上回るという。</description>
     </item>
+    <item>
+      <title>米ニューヨーク・タイムズ、OpenAIを提訴　記事流用で数千億円損害 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN27CXP0X21C23A2000000/</link>
+      <pubDate>2023/12/28 01:32</pubDate>
+      <description>アメリカの新聞大手、ニューヨーク・タイムズは、記事が許可なくAIの学習用に使われ、著作権を侵害されたとして、生成AIのChatGPTを開発したアメリカのベンチャー企業、オープンAIと、提携するIT大手のマイクロソフトを提訴しました。 今後、メディアのAIへの対応に影響が及ぶのか注目されます。 ニューヨーク・タイムズは27日、著作権を侵害されたとして、生成AIのChatGPTを開発したオープンAIと、オープンAIと提携するIT大手、マイクロソフトをアメリカの裁判所に提訴しました。 訴状などによりますと、記事が許可なくAIの学習用に使われて著作権が侵害され、損害額は数十億ドル、日本円で数千億円にのぼると主張しています。 ニューヨーク・タイムズはことし8月にサービスの利用規約を変更し、AIに記事や写真などを学習させることを原則、禁止していて、アメリカの大手メディアがオープンAIなどのAIの開発企</description>
+    </item>
+    <item>
+      <title>グーグルが選ぶ、2023年のお気に入り「Chrome」拡張機能--AI関連が多数</title>
+      <link>https://japan.cnet.com/article/35213276/</link>
+      <pubDate>2023/12/27 18:35</pubDate>
+      <description>東京大学松尾研究室は、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。 東京大学松尾研究室は12月27日、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。ライセンスは「CC BY-NC-SA 4.0 DEE」で非営利の場合に限って二次利用できる。</description>
+    </item>
+    <item>
+      <title>『Human-in-the-Loop 機械学習』 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
+      <link>https://joisino.hatenablog.com/entry/2023/12/27/175940</link>
+      <pubDate>2023/12/27 18:16</pubDate>
+      <description>Microsoftが、以前は「Bing Chat」と呼んでいたMicrosoftの対話型AI「Copilot」を、正式な発表をすることなくGoogle Playでリリースしていたことが判明しました。 Microsoft quietly launches dedicated Copilot app for Android - Neowin https://www.neowin.net/news/microsoft-quietly-launches-dedicated-copilot-app-for-android/ Microsoft Copilot is now available as a ChatGPT-like app on Android - The Verge https://www.theverge.com/2023/12/26/24015198/microsoft-copil</description>
+    </item>
   </channel>
 </rss>
