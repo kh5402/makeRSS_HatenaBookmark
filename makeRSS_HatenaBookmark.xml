@@ -18679,5 +18679,17 @@
       <pubDate>2023/12/26 12:18</pubDate>
       <description>はじめに こんにちは、技術広報のnobu_msです。 ラクスでは2023年6月からGitHub Copilotを全開発組織に導入し、希望者は申請により全員利用可能となっています。GitHub Copilot導入から5カ月が経過し、利用状況や導入効果のアンケート調査を行いました。 本記事では、調査結果を踏まえて下記の内容をご紹介します。 全社導入前の課題とその対応 導入後の利用状況・効果測定 今後の活用に向けた課題と取り組み より詳細な目次はこちらをご覧ください。 はじめに GitHub Copilot導入の目的 全社導入前の課題とその対応 ① セキュリティの担保 当社の情報資産が学習に利用される可能性 他社のコードがサジェストされて著作権を侵害するのではないか？ ② 費用対効果 導入後の利用状況・効果測定 コーディング時間短縮の効果 業務品質向上効果 学習・調査効率化効果 エンジニアの業務</description>
     </item>
+    <item>
+      <title>無料で「ずんだもん」の声になれるリアルタイムAIボイスチェンジャー『Parakeet.VC』のα版が公開。わずか0.1秒で自分の声をキャラボイスに高速変換、「東北きりたん」「東北ずん子」といったキャラ音声を多数収録</title>
+      <link>https://news.denfaminicogamer.jp/news/2312262d</link>
+      <pubDate>2023/12/26 21:35</pubDate>
+      <description>今日のこのブログ記事は Nostr Advent Calender 第２会場 の25日目の記事になります。 昨日のアドベントカレンダーはkaijiさんの「Nostrではじめる、分散型アプリケーション開発 」と、雨鹿茶房／fei🫑さんの「2023年 Nostrの思い出」でした。 adventar.org adventar.org Shino3 こと、しのさんで、しのはらです。 The Nostr (with Bluesky) 2023年という歳をあらためて振り返ってみると、僕にとっても四谷ラボにとっても、Nostr (Blueskyも含む) を主軸として共に過ごしてきた一年だったと改めて思います。今年は僕も久しぶりに四谷ラボの名前をお借りして複数のイベントとともに歩いたとても濃い一年間でした。この記事にて活動を振り返るとともに、今年様々なイベントでご協力いただいた皆様、参加していただいた皆</description>
+    </item>
+    <item>
+      <title>政府調達向けのクラウド評価リストが更新、ZoomやSAPなど追加</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/news/18/16504/</link>
+      <pubDate>2023/12/26 21:54</pubDate>
+      <description>GPT-4 Turbo with Vision × Azure AI Search × Azure AI Vision 時代のマルチモーダルエンタープライズサーチAzureCognitiveSearchChatGPTGPT-4AzureAISearch 2023/3/10 の公開から 9 か月経ちましたが、GPT-4 Turbo with Vision のパブリックプレビュー開始などもあり例の RAG アーキテクチャのレポジトリがマルチモーダル対応したり他にもいろいろ改良されています。 GPT-4 Turbo with Vision による回答が可能に Azure AI Vision と Azure AI Search を使用した画像類似検索が可能に Thought process UI の改良 その他多数→別記事で解説予定 1. GPT-4 Turbo with Vision による回答</description>
+    </item>
   </channel>
 </rss>
