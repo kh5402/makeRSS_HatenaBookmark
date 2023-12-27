@@ -18727,5 +18727,23 @@
       <pubDate>2023/12/27 10:01</pubDate>
       <description>2023年、当サイトで公開した記事の中からPocketにたくさん保存された記事やXにポストされた記事をジャンル別にまとめました。今年を振り返りつつ、来年のWeb制作にも役立つオススメです。 Web制作全般 UI/UX関連 デザインのテクニック・インスピレーション Photoshop, XD, Figma, VSCodeなどツール フォント・タイポグラフィ カラー HTML CSS: 基礎知識 CSS: 実装テクニック JavaScript フレームワーク・ライブラリ 無料素材 便利ツール・サービス 当サイトの購読は、RSS Feedを利用すると便利です。 コリスのRSS Feed ※旧Feedに登録されている人がまだ多いので変更をお願いします。 Web制作全般 2023年のもっとも大きなニュースの一つは、ChatGPTをはじめとするAIです。どのジャンルでもそうですが、完全に任せるのではな</description>
     </item>
+    <item>
+      <title>AIと人に辞書の語釈だけで絵を描いてもらう</title>
+      <link>https://dailyportalz.jp/kiji/ai-jisho-no-e</link>
+      <pubDate>2023/12/27 11:16</pubDate>
+      <description>MicrosoftはGoogle Playストアで「Microsoft Copilot」のAndroidアプリを公開した。2月に公開した「Bing」のアプリと併存させている。いずれもGPT-4ベースだが、CopilotはDALL・E 3サポートで画像も生成できる。</description>
+    </item>
+    <item>
+      <title>2023年、Web制作・デザインに役立つ記事の総まとめ</title>
+      <link>https://coliss.com/articles/digress/coliss-best-in-2023.html</link>
+      <pubDate>2023/12/27 09:53</pubDate>
+      <description>130億パラメータの「Llama 2」をベースとした日本語LLM「ELYZA-japanese-Llama-2-13b」を公開しました（商用利用可） 本記事のサマリーELYZA は「Llama 2 13B」をベースとした商用利用可能な日本語LLMである「ELYZA-japanese-Llama-2-13b」シリーズを一般公開しました。前回公開の 7B シリーズからベースモデルおよび学習データの大規模化を図ることで、既存のオープンな日本語LLMの中で最高性能、GPT-3.5 （text-davinci-003） も上回る性能となりました。また、推論の高速化を実現したチャット型デモを併せて公開しています。 はじめにこんにちは。ELYZAの研究開発チームの平川、佐々木、中村、堀江、サム、大葉です。 この度 ELYZA は、130億（13B）パラメータの「ELYZA-japanese-Llama-</description>
+    </item>
+    <item>
+      <title>【まとめ】Microsoftが今年「やめる」といったOS機能とアプリ／誰も使ってへん、さすがに古過ぎ（はよ消せ）、大失敗しましたね……など理由はさまざま【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1557715.html</link>
+      <pubDate>2023/12/27 07:59</pubDate>
+      <description>無料で「ずんだもん」の声になれるリアルタイムAIボイスチェンジャー『Parakeet.VC』のα版が公開。わずか0.1秒で自分の声をキャラボイスに高速変換、「東北きりたん」「東北ずん子」といったキャラ音声を多数収録 Parakeet株式会社は12月25日、東北ずん子プロジェクトの人気キャラクター「ずんだもん」などの声になれるリアルタイムAIボイスチェンジャー『Parakeet.VC』（パラキート・ブイシー）のα版をWindows PCおよびMac PC向けにリリースした。 α版については価格は無料となり、2024年1月末まで利用可能となる。 Parakeet․VCのα版をPC向けに公開しました！ α版では109名の全キャラクターと全機能が1月末まで期間限定で完全無料です！ 高速・高品質な次世代AIリアルタイムボイスチェンジャーを是非体験してください！#ParakeetVChttps://t</description>
+    </item>
   </channel>
 </rss>
