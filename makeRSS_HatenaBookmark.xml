@@ -18691,5 +18691,11 @@
       <pubDate>2023/12/26 21:54</pubDate>
       <description>GPT-4 Turbo with Vision × Azure AI Search × Azure AI Vision 時代のマルチモーダルエンタープライズサーチAzureCognitiveSearchChatGPTGPT-4AzureAISearch 2023/3/10 の公開から 9 か月経ちましたが、GPT-4 Turbo with Vision のパブリックプレビュー開始などもあり例の RAG アーキテクチャのレポジトリがマルチモーダル対応したり他にもいろいろ改良されています。 GPT-4 Turbo with Vision による回答が可能に Azure AI Vision と Azure AI Search を使用した画像類似検索が可能に Thought process UI の改良 その他多数→別記事で解説予定 1. GPT-4 Turbo with Vision による回答</description>
     </item>
+    <item>
+      <title>グーグル「Bard」--すぐできる設定変更でプライバシーを強化</title>
+      <link>https://japan.zdnet.com/article/35213096/</link>
+      <pubDate>2023/12/26 20:13</pubDate>
+      <description>「政府情報システムのためのセキュリティー評価制度（ISMAP）」の運用を担う情報処理推進機構（IPA）は2023年12月25日、同制度の登録リストを更新し、新たに13サービスを追加した。 IPAの「ISMAPクラウドサービスリスト」に新たに追加されたのは、「Zoom Japanese Government Preset」や「SAP S/4HANA Cloud」など。日本マイクロソフトは2023年7月の自由民主党の会合で「Azure OpenAI Service」の登録に向けて取り組んでいるとしていたが、今回の追加では含まれなかった。</description>
+    </item>
   </channel>
 </rss>
