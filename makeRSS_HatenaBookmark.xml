@@ -18850,5 +18850,29 @@
       <pubDate>2023/12/27 18:16</pubDate>
       <description>Microsoftが、以前は「Bing Chat」と呼んでいたMicrosoftの対話型AI「Copilot」を、正式な発表をすることなくGoogle Playでリリースしていたことが判明しました。 Microsoft quietly launches dedicated Copilot app for Android - Neowin https://www.neowin.net/news/microsoft-quietly-launches-dedicated-copilot-app-for-android/ Microsoft Copilot is now available as a ChatGPT-like app on Android - The Verge https://www.theverge.com/2023/12/26/24015198/microsoft-copil</description>
     </item>
+    <item>
+      <title>米 NYタイムズ 著作権侵害でオープンAIとマイクロソフトを提訴 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20231228/k10014302081000.html</link>
+      <pubDate>2023/12/28 05:27</pubDate>
+      <description>背景 大規模言語モデル（LLM）は、自然言語処理の多くのタスクで、人間の能力に匹敵するような成果を上げています。しかし、時には不正確な情報を生成したり、特定の分野や専門的な質問への対応力が不足したりするといった課題も浮き彫りになっています。現実世界でのアプリケーションにLLMを適用する際には解決すべきポイントです。 ここで登場するのが、Retrieval-Augmented Generation（RAG）です。RAGは、LLMはより信頼性の高い情報を提供し、新しい知識を扱えるようにするための手法です。また、特定の分野に特化した知識を取り入れることもできるようになります。 RAGはその登場以来、多くの研究者によって探求されてきました。複雑化してきたので、体系的に整理しようというのが今回の試みです。 下図はRAGのさまざまな最適化手法と必要な外部知識との関連を示しています。 本記事の関連研究：</description>
+    </item>
+    <item>
+      <title>年間30回の社内外発信をやったデータサイエンティストの情報収集から発信までの流れを共有します！ - Qiita</title>
+      <link>https://qiita.com/junhyeong_kim/items/c1851943888e0b06eedc</link>
+      <pubDate>2023/12/27 21:27</pubDate>
+      <description>チェコのJetBrainsは2023年11月21日（現地時間）、開発者エコシステムの現状をまとめたレポート「The State of Developer Ecosystem 2023」を発表した。JetBrainsは同調査を2023年6月～7月に行い、196の国と地域の2万6348人の開発者から回答を得た。 回答者の主な属性は、開発者／プログラマー／ソフトウェアエンジニアが76％、DevOpsエンジニア／インフラ開発者が11％、チームリーダーが11％、アーキテクトが10％。 調査結果のハイライトは以下の通り。 どの種類の生成AIツールを、どのような目的で使用しているか 関連記事 日本在住の外国人ソフトウェア開発者、年収中央値は850万円　TokyoDev TokyoDevは日本在住で外国籍のソフトウェア開発者を対象に年収、就労形態、仕事で使用しているプログラミング言語やフレームワーク、ツー</description>
+    </item>
+    <item>
+      <title>大規模言語モデルを動作させる時に必要なVRAMの使用量を推定してくれる「VRAM Estimator」</title>
+      <link>https://gigazine.net/news/20231227-vram-estimator/</link>
+      <pubDate>2023/12/27 17:21</pubDate>
+      <description>オープンロジを支える技術 2023 OPENLOGI Advent Calendar 2023 最後の投稿です。 株式会社オープンロジは2013年12月25日が創業日なのでちょうど本日で創業10年目という節目を迎えることになりました。 今があるのもひとえに、ここまで関わってくれた多くの方々（お客様、パートナーの皆様、株主の皆様、過去および現在の全てのメンバー）のおかげです。 そんな感謝の気持ちを携えながら今年も締めくくりとして一年の技術的なアップデートをまとめたいと思います。 過去のエントリー オープンロジを支える技術（2022年版） オープンロジを支える技術（2021年版） オープンロジを支える技術（2020年版） オープンロジを支える技術（2019年版） オープンロジを支える技術（2018年版） オープンロジを支える技術（2017年版） 今年の主なアップデート 今年実施された技術的なア</description>
+    </item>
+    <item>
+      <title>サムスンが翻訳スマホ　通話を同時通訳、まず英語やスペイン語 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGM222C70S3A221C2000000/</link>
+      <pubDate>2023/12/27 16:48</pubDate>
+      <description>AI機能を身に着けるスタイルで“ポストスマホ”と目されているのがウエアラブル端末「Ai Pin」だ。ディスプレーを搭載しないのが特徴。本体だけで写真や動画の撮影、音楽の再生、通話など普段スマートフォンで行っている作業をこなせる。AIを活用した独自機能を数多く搭載しており、モバイルデバイスの新たな選択肢の一つになりそうだ。 ※日経トレンディ2024年1月号より ウエアラブルAI【米国発】Ai Pin（Humane） 手のひらに情報を投影　クリップ式の“ポストスマホ” ChatGPTをはじめとした生成AIの技術を仕事や生活でどう役立てるか。AI機能を身に着けるスタイルで“ポストスマホ”と目されているのがウエアラブル端末「Ai Pin」だ。 OpenAIやマイクロソフトとパートナーシップを結ぶHumaneが発表したAi Pinは、磁石を使って衣服にクリップできる約5センチメートル角のデバイス。約</description>
+    </item>
   </channel>
 </rss>
