@@ -18964,5 +18964,20 @@
       <pubDate>2023/12/26 15:00</pubDate>
       <description>今年も残すところあと少し。皆さんにとって、2023年はどのような一年でしたか？ はてなブックマークでは今年もたくさんのエントリーがブックマークされ、コメント欄も盛り上がりました。 データで見る「あとで読む」 年末ということで、2021年・2022年に引き続き今年も「あとで読む」タグにフォーカスしたデータを集計しました。全ブックマークを対象にした「あとで読む」率、カテゴリー別「あとで読む」率、「あとで読む」が多いエントリーランキングを通して、2023年のはてなブックマークを振り返ってみましょう。 全ブックマークを対象にした「あとで読む」 率 カテゴリー別 「あとで読む」 率 「あとで読む」 タグが多いエントリーは？ トップ10ランキング 「あとで読む」タグの数が多かったエントリーランキング カテゴリー別「あとで読む」率の高かったエントリーランキング 気になった記事を気軽に保存できる「あとで読</description>
     </item>
+    <item>
+      <title>生成AIの反対</title>
+      <link>https://anond.hatelabo.jp/20231228172445</link>
+      <pubDate>2023/12/28 17:46</pubDate>
+      <description>概要 iOS と macOS ネイティブなアプリを作った ので、技術的な話を書きます。 拠所無い事情からコンピュータサイエンスというか基本的なアルゴリズムの実装の勉強を leetcode でやっていた時期が 2023 年の 9 月頃にありまして、「折角勉強したんだし何か作るか」という気持ちでアプリを作りまして…。 リリースまでなんとか持っていった訳なんですが、実装だけならいいものの、ゲームデザインとか、 Web サイト作成とか、アイコン含むいわゆるデザイン的なものとか、そういうのも本当に 1 人で全部やってたからなんやかんや 3 ヶ月かかってしまって、まぁ大変だったんですがそこそこ満足な出来栄えになったので是非ダウンロードして触ってみてください。 数独はニコリの登録商標となっているためアプリの名称はナンプレとしていますが、この記事はアルゴリズムの技術的な解説やゲームデザインの話といった内容</description>
+    </item>
+    <item>
+      <title>語学学習が「根底から変わった」、グーグルやOpenAIら出資企業が示すAI語学学習の未来</title>
+      <link>https://www.sbbit.jp/article/cont1/129589</link>
+      <pubDate>2023/12/23 08:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5496e33a07c2edbc7ac1db213e543c2c21dce179/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1556%2F430%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
