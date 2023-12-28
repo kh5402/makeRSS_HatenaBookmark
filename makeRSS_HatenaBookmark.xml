@@ -18979,5 +18979,23 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5496e33a07c2edbc7ac1db213e543c2c21dce179/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1556%2F430%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>大学教育に生成AI　同志社大が1年間の実証実験へ　狙いは？</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/28/news108.html</link>
+      <pubDate>2023/12/28 11:00</pubDate>
+      <description>何？</description>
+    </item>
+    <item>
+      <title>10 Things Software Developers Should Learn about Learning</title>
+      <link>https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext</link>
+      <pubDate>2023/12/27 10:43</pubDate>
+      <description>大規模言語モデルを動作させるには、演算処理にGPUを使用するため、グラフィックスメモリ(VRAM)の容量が重要になります。「VRAM Estimator」はさまざまなモデルで必要となるVRAMの容量をシミュレーションで予測するウェブアプリです。 VRAM Calculator https://vram.asmirnov.xyz/ VRAM Estimatorにアクセスするとこんな感じ。 左上の「Running Parameters」で演算内容を指定します。Inference(推論)の場合、Precision(精度)でbf16/fp16か、fp32を選択し、Sequence Length(シークエンス長)・Batch Size(バッチサイズ)・Number of GPUs(GPU数)を指定できます。 Training(学習)の場合、Precisionで「mixed(混合精度)」か「full(</description>
+    </item>
+    <item>
+      <title>AIの安全性を確保する手段、その最新議論 | AMP[アンプ] - ビジネスインスピレーションメディア</title>
+      <link>https://ampmedia.jp/2023/12/23/ai-date-safety/</link>
+      <pubDate>2023/12/23 08:24</pubDate>
+      <description>恒例の年末振り返り記事ですが、もうタイトルが示す通りです。例年通りであれば淡々と1年間の業界動向や個人的な学び、はたまたちょっとした私事などを綴るのですが、今年はたまたま良いお題がやってきたのでまず最初にその話を書こうと思います。 生成AIの爆発的な普及と、それに伴って生じた課題 AIやデータサイエンスの「外側」の本質にアプローチするのが、ヒトのなすべき仕事 最後に、改めて年末の振り返りを 生成AIの爆発的な普及と、それに伴って生じた課題 今年は多くの生成AIプロダクトが公開され普及し、それに伴い文字通り正真正銘空前の生成AIブームが到来し、個人や企業のみならず霞ヶ関までもが、そしてついには政府与党までもがこぞって「生成AIの活用」を模索して立ち回るという有様になりました。書店に行けば生成AI関連書籍が棚一面を埋め尽くすという大盛況で、毎日のようにどこそこの大企業が生成AIを導入した〇〇サ</description>
+    </item>
   </channel>
 </rss>
