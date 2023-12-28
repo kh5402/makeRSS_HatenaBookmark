@@ -18874,5 +18874,32 @@
       <pubDate>2023/12/27 16:48</pubDate>
       <description>AI機能を身に着けるスタイルで“ポストスマホ”と目されているのがウエアラブル端末「Ai Pin」だ。ディスプレーを搭載しないのが特徴。本体だけで写真や動画の撮影、音楽の再生、通話など普段スマートフォンで行っている作業をこなせる。AIを活用した独自機能を数多く搭載しており、モバイルデバイスの新たな選択肢の一つになりそうだ。 ※日経トレンディ2024年1月号より ウエアラブルAI【米国発】Ai Pin（Humane） 手のひらに情報を投影　クリップ式の“ポストスマホ” ChatGPTをはじめとした生成AIの技術を仕事や生活でどう役立てるか。AI機能を身に着けるスタイルで“ポストスマホ”と目されているのがウエアラブル端末「Ai Pin」だ。 OpenAIやマイクロソフトとパートナーシップを結ぶHumaneが発表したAi Pinは、磁石を使って衣服にクリップできる約5センチメートル角のデバイス。約</description>
     </item>
+    <item>
+      <title>ＮＹタイムズ、オープンＡＩとマイクロソフト提訴　著作権侵害で</title>
+      <link>https://jp.reuters.com/business/OT6ZDMDA5ZOADN77DQ5GNJNDAI-2023-12-27/</link>
+      <pubDate>2023/12/28 02:42</pubDate>
+      <description>アメリカの新聞大手、ニューヨーク・タイムズは、記事が許可なくAIの学習用に使われ、著作権を侵害されたとして、生成AIのChatGPTを開発したアメリカのベンチャー企業、オープンAIと、提携するIT大手のマイクロソフトを提訴しました。 今後、メディアのAIへの対応に影響が及ぶのか注目されます。 ニューヨーク・タイムズは27日、著作権を侵害されたとして、生成AIのChatGPTを開発したオープンAIと、オープンAIと提携するIT大手、マイクロソフトをアメリカの裁判所に提訴しました。 訴状などによりますと、記事が許可なくAIの学習用に使われて著作権が侵害され、損害額は数十億ドル、日本円で数千億円にのぼると主張しています。 ニューヨーク・タイムズはことし8月にサービスの利用規約を変更し、AIに記事や写真などを学習させることを原則、禁止していて、アメリカの大手メディアがオープンAIなどのAIの開発企</description>
+    </item>
+    <item>
+      <title>開発者が最も使用している生成AIツール、2位は「GitHub Copilot」　1位は？　JetBrains</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2312/27/news091.html</link>
+      <pubDate>2023/12/27 16:03</pubDate>
+      <description>大規模言語モデルを動作させるには、演算処理にGPUを使用するため、グラフィックスメモリ(VRAM)の容量が重要になります。「VRAM Estimator」はさまざまなモデルで必要となるVRAMの容量をシミュレーションで予測するウェブアプリです。 VRAM Calculator https://vram.asmirnov.xyz/ VRAM Estimatorにアクセスするとこんな感じ。 左上の「Running Parameters」で演算内容を指定します。Inference(推論)の場合、Precision(精度)でbf16/fp16か、fp32を選択し、Sequence Length(シークエンス長)・Batch Size(バッチサイズ)・Number of GPUs(GPU数)を指定できます。 Training(学習)の場合、Precisionで「mixed(混合精度)」か「full(</description>
+    </item>
+    <item>
+      <title>OPENLOGI を支える技術（2023年版） - Qiita</title>
+      <link>https://qiita.com/migrs/items/1b15bf2530be02374c53</link>
+      <pubDate>2023/12/27 20:55</pubDate>
+      <description>自分に合ったブラウザー拡張機能を見つけるのはなかなか難しい。興味のあるものを検索して見つけるだけでなく、実際に追加して使い勝手をひとつずつ試してみる必要があるからだ。 Googleが先頃発表した、2023年のお気に入り「Chrome」拡張機能をチェックすれば、そうした手間が少し省けるかもしれない。 Googleはまず、「Get tasks done faster」（タスクを迅速に終える）というカテゴリーで同社お気に入りの5つの拡張機能を挙げている。これらはいずれも人工知能（AI）を活用したものだ。 「Scribe」はAIを用いてユーザーのワークフローを文書化することで、職場でのさまざまなプロセスの訓練を実施するためのガイド作成を支援してくれる。「DeepL翻訳」はウェブページの内容を即座にさまざまな言語に翻訳する拡張機能だ。「QuillBot」は、文章作成時（電子メールの作成や返信）におけ</description>
+    </item>
+    <item>
+      <title>アシュアード、2023年における海外SaaSと国内SaaSのセキュリティ対策を比較したレポートを公開</title>
+      <link>https://productzine.jp/article/detail/2309</link>
+      <pubDate>2023/12/27 10:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/396cfbd672c91d898eeae437f086e991c3bf8dc2/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1558%2F050%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
