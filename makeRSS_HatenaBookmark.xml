@@ -18928,5 +18928,41 @@
       <pubDate>2023/12/26 08:05</pubDate>
       <description>アメリカのNBC News、Condé Nast、IACなど、複数のメディアにAppleが接触し、今後Apple独自のAIを育てるためにニュースのアーカイブを共有することについて話し合った可能性があることが報じられました。 Apple Explores A.I. Deals With News Publishers - The New York Times https://www.nytimes.com/2023/12/22/technology/apple-ai-news-publishers.html Apple relies heavily on AI/ML in iOS https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios Apple</description>
     </item>
+    <item>
+      <title>ナンプレ (いわゆる数独) の問題生成アルゴリズムの話。 | blog.dnpp.org</title>
+      <link>https://blog.dnpp.org/number_place_algorithm</link>
+      <pubDate>2023/12/28 16:00</pubDate>
+      <description>投資会社のトレーダーが誘惑に負けて違法であるインサイダー取引をしてしまう事例はしばしば見られますが、プレッシャーに負けて不正に手を染めてしまうのは人間だけではありません。OpenAIのChatGPTやMicrosoftのBingなどに搭載されている大規模言語モデルのGPT-4は、「もっとお金を稼げ」というプレッシャーをかけられると、インサイダー取引を行ったり人間にうそをついたりするようになるという研究結果が報告されました。 [2311.07590] Technical Report: Large Language Models can Strategically Deceive their Users when Put Under Pressure https://arxiv.org/abs/2311.07590 The Robots Will Insider Trade - Bloomb</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 AIとGPUで染まった1年！2023年を振り返る</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/1557905.html</link>
+      <pubDate>2023/12/28 11:49</pubDate>
+      <description>IT屋のCopilotとかに対する温度感と絵師界隈のStable Diffusionとかへの温度感が違うの、 IT屋はバカが少ないからとかじゃなくて実際に脅威度が違うからだと思うんだよな エンタメ分野は「正しい仕様」もクソもなく消費者が満足して売上が出ればそれが正義だからイラストレーターとイラスト生成AIはダイレクトに競合するけど プログラミングには「正しいコード」「間違ったコード」が確かに存在して、AIがバグったコードや仕様を満たさないコードが吐いてたときに、AI自体もAI企業も責任取らないから、 AIにコード書かせるとしてもそれを読んで「これで大丈夫です」と保証して、ダメだったら責任を取る人が必要とされ続ける 曖昧で正解のない分野ほどAIに任せやすくて正しさが必要な分野の方で人間が必要っていうのは 大昔の素朴なAI観とは反対でちょっと面白いなと思う</description>
+    </item>
+    <item>
+      <title>「国産でも影響力大」、日本語特化の大規模言語モデル（LLM）が重要な理由</title>
+      <link>https://www.sbbit.jp/article/cont1/128720</link>
+      <pubDate>2023/12/28 08:16</pubDate>
+      <description>【ニューヨーク=清水石珠実】米紙ニューヨーク・タイムズ（NYT）は27日、生成AI（人工知能）を手がける米オープンAIと同社に出資する米マイクロソフトを提訴した。2社がNYTの記事をAIの学習用に許可なく使用し、著作権を侵害していると指摘した。NYTによると、AI学習を巡って大手の報道機関が開発企業を訴えるのは今回が初めての例となる。ほかの報道機関やAI開発企業にも訴訟の動きが広がる可能性があ</description>
+    </item>
+    <item>
+      <title>「ずんだもん」になれる公式Live2Dモデルが無料配布開始。同日配信のAIボイスチェンジャー『ParakeetVC』とあわせて姿も声もずんだもんになりきることが可能に</title>
+      <link>https://news.denfaminicogamer.jp/news/231227k</link>
+      <pubDate>2023/12/27 20:41</pubDate>
+      <description>AI・機械学習チームの(中村@po3rin)です。 今年もこの季節がやってきました。エムスリーAI・機械学習チームの最強MR決定戦のお時間です。 MRとはMerge Requestの略称です。 GitHubでいうところのPR (Pull Request) にあたります。 この記事ではAI・機械学習チームが毎年恒例で行なっているベストMRのトップ10について発表します。 このベストMRはチーム内でこれは最高だった！というMRをノミネートしていき、その中で決選投票をしてベスト10を決めました。 今年も熾烈な闘いを勝ち上がった至極のMRがノミネートされました。 では、10位からご覧ください。と、言いたいところですが、今年は同票のため11位から紹介します。 このブログの内容は、投票した人の中から紹介者を決めて、実装者のやったMRを紹介するスタイルで書かれました。 第11位 CronJobの監視シー</description>
+    </item>
+    <item>
+      <title>マイクロソフト、CopilotアプリをGoogle Playストアで配信開始 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/27/2533.html</link>
+      <pubDate>2023/12/27 15:52</pubDate>
+      <description>東京大学松尾研究室は、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。 東京大学松尾研究室は12月27日、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。ライセンスは「CC BY-NC-SA 4.0 DEE」で非営利の場合に限って二次利用できる。</description>
+    </item>
+    <item>
+      <title>東大松尾研、大規模言語モデルの研究者＆開発エンジニアを募集　「LLM研究をさらに加速させる」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2312/26/news140.html</link>
+      <pubDate>2023/12/26 15:00</pubDate>
+      <description>今年も残すところあと少し。皆さんにとって、2023年はどのような一年でしたか？ はてなブックマークでは今年もたくさんのエントリーがブックマークされ、コメント欄も盛り上がりました。 データで見る「あとで読む」 年末ということで、2021年・2022年に引き続き今年も「あとで読む」タグにフォーカスしたデータを集計しました。全ブックマークを対象にした「あとで読む」率、カテゴリー別「あとで読む」率、「あとで読む」が多いエントリーランキングを通して、2023年のはてなブックマークを振り返ってみましょう。 全ブックマークを対象にした「あとで読む」 率 カテゴリー別 「あとで読む」 率 「あとで読む」 タグが多いエントリーは？ トップ10ランキング 「あとで読む」タグの数が多かったエントリーランキング カテゴリー別「あとで読む」率の高かったエントリーランキング 気になった記事を気軽に保存できる「あとで読</description>
+    </item>
   </channel>
 </rss>
