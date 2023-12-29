@@ -19144,5 +19144,14 @@
       <pubDate>2023/12/29 12:33</pubDate>
       <description>TL;DR; Onnx Runtimeをネイティブプラグインとして、Unity上で動かす実験とサンプルを公開しています。 github.com 開発の動機 4年前に、TensorFlow LiteをUnityで動かす実験を初めて、 はじめは全くの趣味で始めたものが、今では海外からいただく相談の半分以上が機械学習関連になっています。 四年前に始めた実験↓ asus4.hatenablog.com ところが、実際にシェアを見ると、研究関連ではPytorchのシェアが圧倒的。Unityの公式推論ライブラリBarracudaやTensorFlow Liteで動かすために一旦Onnxに変換するなどの事例なども増え始め、速度的にはTFLiteは非常に満足していますが、サクッとモデルを試してみたいという時に、変換するのが億劫になってきていました。公式ツールで変換しようにもOnnxやPytorchのNCH</description>
     </item>
+    <item>
+      <title>日本語LLMをPPOでファインチューニングする - Qiita</title>
+      <link>https://qiita.com/jovyan/items/c727392d6d6030433f84</link>
+      <pubDate>2023/12/29 13:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e66dca1e27288d73455747c715cb9fe49abae08a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1557%2F978%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
