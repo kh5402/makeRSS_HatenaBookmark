@@ -19021,5 +19021,17 @@
       <pubDate>2023/12/26 20:34</pubDate>
       <description>東京大学松尾研究室は、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。 東京大学松尾研究室は12月27日、大規模言語モデル（LLM）の講義資料を無償公開した。同研究室が9～10月に実施した「東京大学サマースクール　大規模言語モデル講座」で使用したもの。ライセンスは「CC BY-NC-SA 4.0 DEE」で非営利の場合に限って二次利用できる。</description>
     </item>
+    <item>
+      <title>時代が作った教師と学校は時代によって変わるのが当然だ - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing</title>
+      <link>https://kaz-ataka.hatenablog.com/entry/2023/12/28/191206</link>
+      <pubDate>2023/12/29 02:07</pubDate>
+      <description>オーストラリアや中国の研究チームが、大規模言語モデルと2Dアニメーションや3DCGの製作ツールであるBlenderを組み合わせ、人間が自然言語で入力した文章を適切に解釈して高精度な3Dコンテンツを作り出すフレームワーク「3D-GPT」を発表しました。 [2310.12945] 3D-GPT: Procedural 3D Modeling with Large Language Models https://arxiv.org/abs/2310.12945 05 3D-GPT: 3D MODELING WITH LARGE LANGUAGE MODELS https://chuny1.github.io/3DGPT/3dgpt.html 3D-GPT generates 3D worlds in Blender https://the-decoder.com/3d-gpt-generates</description>
+    </item>
+    <item>
+      <title>2023年はChatGPTから創造性を引き出そうとして四苦八苦した年 - ABAの日誌</title>
+      <link>https://aba.hatenablog.com/entry/2023/12/28/192231</link>
+      <pubDate>2023/12/28 19:24</pubDate>
+      <description>世界から取り残される日本の「電子・IT産業」　打開策は生成AIか　JEITA資料で見る日本の“今と未来”：小寺信良のIT大作戦（1/2 ページ） JEITAによると日本の電子情報産業は、2020年から始まった世界的パンデミックにより、ここ数年はその影響による需要変動が大きかったが、2023年はそれよりも2つの戦争や世界的インフレ傾向、AIの登場が大きなインパクトを与えたようだ。今回はJEITA公開の資料をベースに、23年の振り返りと今後起こるであろう社会変革の様相を予測してみたい。 12月21日、毎年恒例となるJEITA（一般社団法人電子情報技術産業協会）による会長記者会見が行われ、電子情報産業の世界生産見通し等の資料が公開された。2020年から始まった世界的パンデミックにより、ここ数年はその影響による需要変動が大きかったが、2023年はそれよりも2つの戦争や世界的インフレ傾向、AIの登場</description>
+    </item>
   </channel>
 </rss>
