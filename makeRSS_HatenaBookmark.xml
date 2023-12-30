@@ -19204,5 +19204,29 @@
       <pubDate>2023/12/28 13:33</pubDate>
       <description>中国では、習近平国家主席の下で、世界有数の経済および軍事大国としてアメリカに並ぶという目標を達成するために、技術開発などが行われてきました。また、中華人民共和国国家安全部(MSS)は、その目標を達成するべく、AIを用いてアメリカ国民や企業に対する情報収集を強化していることが報じられています。 Chinese Spy Agency Rising to Challenge the C.I.A. - The New York Times https://www.nytimes.com/2023/12/27/us/politics/china-cia-spy-mss.html China Is Stealing AI Secrets to Turbocharge Spying, U.S. Says - WSJ https://www.wsj.com/tech/ai/china-is-stealin</description>
     </item>
+    <item>
+      <title>2023 年に読んでよかった本</title>
+      <link>https://azukiazusa.dev/blog/books-i-read-in-2023/</link>
+      <pubDate>2023/12/30 14:19</pubDate>
+      <description>米Microsoft傘下のGitHubは12月29日（現地時間）、「GitHub Copilot」のすべてのユーザーが、追加料金なしに「GitHub Copilot Chat」を利用できるようにしたと発表した。 GitHub Copilot Chatは、米OpenAIの「GPT-4」ベースに開発者向けに微調整されたチャットボット。自然言語を使って、コードの生成、脆弱性の検出、単体テストの作成などを依頼できる。 GitHub Copilot Chatは、Visual Studio CodeとVisual Studioの両方で一般提供され、すべてのGitHub Copilotプランに含まれる。7月にはCopilot Business（月額19ドル／ユーザー）向けに提供済みで、今回Copilot Individual（月額10ドル）でもパブリックβではなく、正規版を利用可能になったということだ。</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Chat now generally available for organizations and individuals</title>
+      <link>https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/</link>
+      <pubDate>2023/12/30 03:26</pubDate>
+      <description>【この記事のポイント】・生成AIの悪用が広がっている・2023年上半期、ビジネス詐欺メール89%増・詐欺の「効率」がAIで大きく高まった文章や画像を生み出す生成AI（人工知能）の悪用が目立ってきた。1〜6月の世界のビジネス関連の詐欺は前年同期比2倍近くに増加し、日本でも不正送金の被害が16倍になった。人の声や商習慣も模倣され、新たな犯罪を生んでいる。生成AIが普及し始めて1年。新技術の「影」を抑</description>
+    </item>
+    <item>
+      <title>Lightblue、商用利用可能な日本語LLM「Karasu」「Qarasu」を公開</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000053.000038247.html</link>
+      <pubDate>2023/12/29 20:58</pubDate>
+      <description>ニコンやソニーグループはフェイク画像を防ぐカメラ技術を実用化する。画像に撮影場所や撮影者、編集履歴などの情報を埋め込み、デジタル署名技術で画像の信頼性を確保する。生成AI（人工知能）で作った本物との見分けが難しい「ディープフェイク」が氾濫している。世界カメラ市場でシェア9割超を握る国内勢が情報インフラの安全確保に動く。ニコンは撮影画像が本物だと証明できる新型ミラーレスカメラを投入する。報道カメ</description>
+    </item>
+    <item>
+      <title>LangChain のための wandb 入門｜npaka</title>
+      <link>https://note.com/npaka/n/nfc4258845b9e</link>
+      <pubDate>2023/12/26 13:28</pubDate>
+      <description>共立出版さまより『Human-in-the-Loop 機械学習』をご恵贈いただきました。一通り読み終えたので感想を共有します。 映り込みが激しくて写真を撮るのが難しいことで有名な表紙 本書は機械学習モデルを訓練するためのデータを人間がどのように用意するかという問題を扱っています。本書の前半では能動学習というラベル付けデータの選び方の技法が、本書の後半では人間が付けたラベルの管理方法やラベル付けのための適切なインターフェースが紹介されています。 機械学習におけるデータをいかに作るかということは私自身とても注目している領域です。『Active Learning from the Web（能動学習を使ってウェブから機械学習データを収集する）』という論文を書いたこともありますし、PDF 翻訳サービスの Readable では能動学習に基づいたアノテーションを実際に行っています。そのため本書は非常に</description>
+    </item>
   </channel>
 </rss>
