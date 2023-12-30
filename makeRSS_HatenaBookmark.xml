@@ -19252,5 +19252,29 @@
       <pubDate>2023/12/30 10:20</pubDate>
       <description>Microsoft Copilot Microsoftが、iPhone/iPad用AIコンパニオンアプリ「Microsoft Copilot」を、App Storeにて配布を開始しています。 CopilotはMicrosoftの先進的なチャットアシスタントで、最新のOpenAIモデル、GPT-4とDALL·E 3によって動作しています。 これらの高度なAI技術は、高速でで複雑で正確な回答を提供し、単純なテキストの説明から息を呑むような驚くべきビジュアルを作成する能力を持っています。</description>
     </item>
+    <item>
+      <title>本当は教えたくない、VScode拡張の最強プログラミングアシスタントAI Phind(導入・使い方) - Qiita</title>
+      <link>https://qiita.com/tsukky67/items/f0689e9b4c73324bb47b</link>
+      <pubDate>2023/12/30 18:19</pubDate>
+      <description>米Microsoftは12月29日（現地時間）、米Appleの公式iOSアプリストアApp StoreでAIチャットアプリ「Microsoft Copilot」を公開した。Android版は19日にリリース済みだ。 Android版と同様、2月に公開した「Bing」アプリと併存している。両者の違いは、Bingアプリは米OpenAIのLLM「GPT-4」のみをサポートしており、Microsoft CopilotはOpenAIの「DALL・E 3」もサポートしているので画像の生成も可能という点だ。 ちなみに、OpenAIもAIチャット「ChatGPT」のモバイルアプリを公開している。こちらも無料だが、サブスクリプションしていないとサポートするのは「GPT-3.5」だ。 本稿執筆現在、ChatGPTはApp Storeでの「仕事効率化」ランキングで3位。Microsoft Copilotは公開か</description>
+    </item>
+    <item>
+      <title>Microsoft、iPhone/iPad用AIコンパニオンアプリ「Microsoft Copilot」をリリース | iPhone App Store | Mac OTAKARA</title>
+      <link>https://www.macotakara.jp/iphone_app_store/entry-45903.html</link>
+      <pubDate>2023/12/30 10:09</pubDate>
+      <description>米Microsoft傘下のGitHubは12月29日（現地時間）、「GitHub Copilot」のすべてのユーザーが、追加料金なしに「GitHub Copilot Chat」を利用できるようにしたと発表した。 GitHub Copilot Chatは、米OpenAIの「GPT-4」ベースに開発者向けに微調整されたチャットボット。自然言語を使って、コードの生成、脆弱性の検出、単体テストの作成などを依頼できる。 GitHub Copilot Chatは、Visual Studio CodeとVisual Studioの両方で一般提供され、すべてのGitHub Copilotプランに含まれる。7月にはCopilot Business（月額19ドル／ユーザー）向けに提供済みで、今回Copilot Individual（月額10ドル）でもパブリックβではなく、正規版を利用可能になったということだ。</description>
+    </item>
+    <item>
+      <title>AIが作った世界各国がモチーフの悪役アニメキャラ　海外で話題に : 海外の万国反応記＠海外の反応</title>
+      <link>http://www.all-nationz.com/archives/1081944923.html</link>
+      <pubDate>2023/12/29 00:16</pubDate>
+      <description>技術革新と成長の成果は、社会の中でどのように配分されるのか——『技術革新と不平等の1000年史』解説：稲葉振一郎 生産性が向上し、労働者は貧しくなった？ 農法改良、産業革命から人工知能（AI）の進化まで。人類のイノヴェーションの功罪を緻密に分析する話題の新刊『技術革新と不平等の1000年史』（ダロン・アセモグル＆サイモン・ジョンソン、鬼澤忍・塩原通緒訳、早川書房）。 本書は世界的ベストセラー『国家はなぜ衰退するのか』のアセモグルが長年の共同研究者と放つ決定的著作。圧倒的な考究により「進歩」こそが社会的不平等を増大させるという、人類史のパラドックスを解明する一冊です。 本書の解説は、アセモグルの既刊『国家はなぜ衰退するのか』、『自由の命運』に引き続き稲葉振一郎（明治学院大学社会学部教授）さんにご執筆をいただきました。本記事では、そのご解説を特別公開いたします。 『技術革新と不平等の1000年</description>
+    </item>
+    <item>
+      <title>エンジニアが使っているキーボード(音階が付いてない方)の話 - NRIネットコムBlog</title>
+      <link>https://tech.nri-net.com/entry/keyboard_used_by_engineer</link>
+      <pubDate>2023/12/28 13:12</pubDate>
+      <description>株式会社overflowによって開催された、開発組織のあり方について考える1ヶ月「CTOWeek 2023 by Offers」。Week4に登壇したのは、株式会社BuySell Technologies 取締役CTOの今村雅幸氏。 テックカンパニー化を推進する上で必要な考え方について発表しました。全4回。1回目は、どのフェーズにおいても重要なCTOの要素について。 BuySell Technologies社・CTO　今村氏の自己紹介 今村雅幸氏（以下、今村）：よろしくお願いいたします。では本日は私から「プロ経営者としてのCTOが実践するテックカンパニー化請負術」というタイトルで始めたいと思います。さすがに「プロ経営者」というのも何なんですが、CTOを長い間やってきていますので、その中でみなさんにお伝えできる部分を今日は伝えていければなと思います。 アジェンダはこんな感じです。 冒頭に軽く</description>
+    </item>
   </channel>
 </rss>
