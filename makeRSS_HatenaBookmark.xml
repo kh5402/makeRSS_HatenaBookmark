@@ -19180,5 +19180,17 @@
       <pubDate>2023/12/25 08:15</pubDate>
       <description>GPT-4 Turbo with Vision × Azure AI Search × Azure AI Vision 時代のマルチモーダルエンタープライズサーチAzureCognitiveSearchChatGPTGPT-4AzureAISearch 2023/3/10 の公開から 9 か月経ちましたが、GPT-4 Turbo with Vision のパブリックプレビュー開始などもあり例の RAG アーキテクチャのレポジトリがマルチモーダル対応したり他にもいろいろ改良されています。 GPT-4 Turbo with Vision による回答が可能に Azure AI Vision と Azure AI Search を使用した画像類似検索が可能に Thought process UI の改良 その他多数→別記事で解説予定 1. GPT-4 Turbo with Vision による回答</description>
     </item>
+    <item>
+      <title>詐欺師の正体は生成AI　素早い模倣、ビジネス被害2倍 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC064RI0W3A101C2000000/</link>
+      <pubDate>2023/12/30 06:00</pubDate>
+      <description>ニコンやソニーグループはフェイク画像を防ぐカメラ技術を実用化する。画像に撮影場所や撮影者、編集履歴などの情報を埋め込み、デジタル署名技術で画像の信頼性を確保する。生成AI（人工知能）で作った本物との見分けが難しい「ディープフェイク」が氾濫している。世界カメラ市場でシェア9割超を握る国内勢が情報インフラの安全確保に動く。ニコンは撮影画像が本物だと証明できる新型ミラーレスカメラを投入する。報道カメ</description>
+    </item>
+    <item>
+      <title>Googleが新たな動画生成技術「VideoPoet」を発表ーー拡散モデルではなくLLMを活用 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/google_reserch_videopoet</link>
+      <pubDate>2023/12/27 10:57</pubDate>
+      <description>Metaは現地時間12月13日、スマートグラス「Ray-Ban Meta」にマイクロソフトの物体認識AIを搭載する旨を発表しました。既に技術デモが公開さておりれ、米国限定でオープンベータテストが始まっています。2024年には全世界で機能展開する予定です。 （出所：Meta） 現地時間12月13日、MetaのCTOであるアンドリュー・ボズワース氏が、自身のInstagramで次のように投稿。機能説明と技術デモを含むショート動画を公開しました。 オプトインの早期アクセスプログラム（米国のみ）を通じて、「Ray-Ban Meta」でマルチモーダルAIをベータテストしています。まだ始まったばかりですが、スマートグラスの構成要素として、Meta AIがどのように役立つようになるのか、とても楽しみです。もしテストしてくれた方がいれば、感想を聞かせてください！ また、米国の「Ray-Ban Meta」の</description>
+    </item>
   </channel>
 </rss>
