@@ -19294,5 +19294,35 @@
       <pubDate>2023/12/31 05:15</pubDate>
       <description>Microsoftは本日、iPhone/iPad用アプリ「Microsoft Copilot」をリリースしました。 Microsoft Copilot App Store カテゴリ: 仕事効率化 価格: 無料 Microsoftの先進的なチャットアシスタント。 CopilotはMicrosoftの先進的なチャットアシスタントで、最新のOpenAIモデルであるGPT-4とDALL·E 3に対応しています。高度なAI技術により、正確な回答を提供したり、テキストから素晴らしいビジュアルを作成する事が可能となっています。 チャットアシスタントの主な機能は以下の通りです。 • メールの草案作成 • 物語や脚本の作成 • 難解なテキストの要約 • 多言語コンテンツの翻訳、校正、最適化 • 旅行プランの個別化 • 職業証明書の作成と更新 Image Creatorの主な機能は以下の通りです。 • 新しい</description>
     </item>
+    <item>
+      <title>「頑張らない学生指導」を頑張ろう - Seitaro Shinagawaの雑記帳</title>
+      <link>https://snowman-88888.hatenablog.com/entry/2023/12/30/215616</link>
+      <pubDate>2023/12/31 09:55</pubDate>
+      <description>「2023年のふりかえり」ではPythonやJavaScriptのコーディングの話ばかり出てくるけど、これって今年全体から見ると1割以下だなぁと思ったのでGitHubのメトリクスを見ながら振り返ることにした laiso.hatenablog.com 言語ごとのコミット数 PHPの話 Laravelの話 開発手法の話 テストの話 GitHub上での活動 2021年 2022年 言語ごとのコミット数 vn7n24fzkq/github-profile-summary-cardsというのが生成してくれたグラフ profile-summary-card-output PHPの話 PHPの仕事が欲しいわけではないのであんまりPHP書ける人ブランディングをしてこなかったけど9割はPHPやテンプレートHTMLを粛々と書いてると思う レガシー管理画面アーキテクチャなのでReactやVueどころかjQuer</description>
+    </item>
+    <item>
+      <title>ChatGPTの登場で急速に普及した「生成AI」、2024年はどうなる？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/67983</link>
+      <pubDate>2023/12/31 06:11</pubDate>
+      <description>ググるより早い。ぼくがたくさんのAIで調べ物する理由2023.12.30 22:00 西谷茂リチャード 編集部 web検索だけじゃ、見つけにくい知識にアクセスできる。 メディアの仕事をしていると、1日のかなりの割合を｢調べもの｣が占めるようになります。ウェブ検索でかなりスピードアップして...いまは2023年。 新しい｢調べ物｣ツールとして、AIが頭角を現し始めました。おかげで調べるスピードが今まで以上にアップしたと感じています。ここでは、僕がどのようにAIを使っているのか、かんたんに紹介しますね。 ちょっとした調べもの調べものの中には、｢去年のXperiaのカメラの画素数は？｣みたいに明確な答えが決まっているものがあります。実際にこれをウェブ検索で調べた場合、検索結果のページをいくつか読む必要がありますよね。 Perplexityそこで便利なのが、AIチャットサービスのPerplexit</description>
+    </item>
+    <item>
+      <title>Microsoft Copilot for iOSがついにリリース。GPT-4対応の先進的なチャットアシスタント | ソフトアンテナ</title>
+      <link>https://softantenna.com/blog/microsoft-copilot-for-ios/</link>
+      <pubDate>2023/12/30 20:15</pubDate>
+      <description>みなさんプログラムは書いていますでしょうか。この一年でChatGPTができ、CopilotにCopilot Chatなど色々なAIツールが出ていますが今回お勧めするのはPhindというAIアシスタントです。 Phindとは Phind(Phind.com)とは端的にいえばGPT-4を超えるコーディング能力に特化した言語AIです 参考リンク：大規模言語モデル「Phind」がコーディングにおいてGPT-4を上回る リンク内で言われているように、WebからChatGPTやGoogleのように簡単に使うことができますが、Phindの真髄はここでは味わえません。 Phindの真の実力 Phindの本当の実力はVScode拡張を使うことによって体感することができます。 PhindのベースモデルはPhind-CodeLlamaというものを使っています。これはMeta社が作ったCodellamaというプロ</description>
+    </item>
+    <item>
+      <title>AI-UXとAX(AI Transformation)というLayerXの挑戦｜福島良典 | LayerX</title>
+      <link>https://comemo.nikkei.com/n/n72374ef7b2d9</link>
+      <pubDate>2023/12/30 16:45</pubDate>
+      <description>米Microsoftは12月29日（現地時間）、米Appleの公式iOSアプリストアApp StoreでAIチャットアプリ「Microsoft Copilot」を公開した。Android版は19日にリリース済みだ。 Android版と同様、2月に公開した「Bing」アプリと併存している。両者の違いは、Bingアプリは米OpenAIのLLM「GPT-4」のみをサポートしており、Microsoft CopilotはOpenAIの「DALL・E 3」もサポートしているので画像の生成も可能という点だ。 ちなみに、OpenAIもAIチャット「ChatGPT」のモバイルアプリを公開している。こちらも無料だが、サブスクリプションしていないとサポートするのは「GPT-3.5」だ。 本稿執筆現在、ChatGPTはApp Storeでの「仕事効率化」ランキングで3位。Microsoft Copilotは公開か</description>
+    </item>
+    <item>
+      <title>年末に“真打ち”が相次いで登場――CPUとGPUで振り返る2023年　2024年は“AI PC”元年か</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2312/30/news050.html</link>
+      <pubDate>2023/12/30 12:11</pubDate>
+      <description>はじめてiPhoneを触ったときと同じ。AIで世界が変わったことを感じました2023.12.29 22:006,965 大野恭希 これまで、ハード大好きでいろいろ触ってきましたが、iPhoneの登場と同等以上にイノベーションを実感するのがChatGPTを含む生成AIです。 2022年のChatGPT登場から1年が経ち、AIエコシステムが勃興し、今のところ勢いが衰えるようには見えません。 GoogleのGemini、AnthropicのClaudeと多くのAIモデルが登場し、本屋では｢ChatGPT大全｣と銘打った書籍が並ぶようになり、AI活用はエクセル活用術のような、汎用スキルの地位を確立しはじめているように見えます。 そんなAIを使ったアプリを実装するのに役立つLangChainは、AIの文章要約・チャットボット開発などを容易にしてくれるオープンソースソフトウェアです。大規模言語モデルを</description>
+    </item>
   </channel>
 </rss>
