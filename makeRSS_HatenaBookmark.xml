@@ -19348,5 +19348,11 @@
       <pubDate>2023/12/21 12:24</pubDate>
       <description>大規模言語モデルを動作させるには、演算処理にGPUを使用するため、グラフィックスメモリ(VRAM)の容量が重要になります。「VRAM Estimator」はさまざまなモデルで必要となるVRAMの容量をシミュレーションで予測するウェブアプリです。 VRAM Calculator https://vram.asmirnov.xyz/ VRAM Estimatorにアクセスするとこんな感じ。 左上の「Running Parameters」で演算内容を指定します。Inference(推論)の場合、Precision(精度)でbf16/fp16か、fp32を選択し、Sequence Length(シークエンス長)・Batch Size(バッチサイズ)・Number of GPUs(GPU数)を指定できます。 Training(学習)の場合、Precisionで「mixed(混合精度)」か「full(</description>
     </item>
+    <item>
+      <title>羽生先生の発言は何が開発者の反発を招いたのか？ | やねうら王 公式サイト</title>
+      <link>https://yaneuraou.yaneu.com/2023/12/31/mr-habus-remarks-and-the-oss-community/</link>
+      <pubDate>2023/12/31 21:02</pubDate>
+      <description>マイクロソフトはApp StoreでiOS/iPadOS用の「Microsoft Copilot」アプリを配信開始しました。少し前に、Android版アプリも公開されています。</description>
+    </item>
   </channel>
 </rss>
