@@ -19456,5 +19456,11 @@
       <pubDate>2023/12/25 21:34</pubDate>
       <description>オーストラリアや中国の研究チームが、大規模言語モデルと2Dアニメーションや3DCGの製作ツールであるBlenderを組み合わせ、人間が自然言語で入力した文章を適切に解釈して高精度な3Dコンテンツを作り出すフレームワーク「3D-GPT」を発表しました。 [2310.12945] 3D-GPT: Procedural 3D Modeling with Large Language Models https://arxiv.org/abs/2310.12945 05 3D-GPT: 3D MODELING WITH LARGE LANGUAGE MODELS https://chuny1.github.io/3DGPT/3dgpt.html 3D-GPT generates 3D worlds in Blender https://the-decoder.com/3d-gpt-generates</description>
     </item>
+    <item>
+      <title>｢AIが作った文章｣を見抜く眼力の鍛えかた</title>
+      <link>https://www.gizmodo.jp/2024/01/how-to-identify-ai-generated-sentences.html</link>
+      <pubDate>2024/01/01 11:47</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。2024年初っ端の第27回目は、「礼儀は不要」「モデルに質問させる」「良い解答には報酬」など、大規模言語モデルの返答が向上する「プロンプト26の原則」をはじめとする5つの論文をお届けします。 生成AI論文ピックアップ複数の自律AIエージェントが過去の経験を共有して未知のタスクを処理するモデル「Experiential Co-Learning」 画像から動く3Dシーンを生成する新モデル「DreamGaussian4D」 大規模言語モデルの返答が向上する「プロンプト26の原則」が公開。「礼儀は不要」「モデルに質問させる」「良い解答には報酬」など 220以上の生成タスクが実</description>
+    </item>
   </channel>
 </rss>
