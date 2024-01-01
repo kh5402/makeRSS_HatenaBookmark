@@ -19432,5 +19432,11 @@
       <pubDate>2023/12/31 15:07</pubDate>
       <description>0. はじめに先日 Stream Diffusion が公開されていたみたいなので、ComfyUI でも実行できるように、カスタムノードを開発しました。 Stream Diffusionは、連続して画像を生成する際に、現在生成している画像のステップに加えて、もう次の生成のステップを始めてしまうというバッチ処理をするそうです。 学者ではないので、詳しくはわかりませんが、上記のようなことを公式のYouTubeチャンネルでお話しされていたみたいなので、興味のある方はのぞいてみてください。 実際のリポジトリをのぞいてみると、Diffusers を使って書かれていたため、そのままではカスタムノードにできないので、いっそ Diffusers をComfyUIで使えるようにして、それを使って Stream Diffusion を動かそうという魂胆のもと、開発しました。 この記事以降も開発は続けますので、</description>
     </item>
+    <item>
+      <title>生成AI、当たり前に使うようになった人の1日はこんな感じ</title>
+      <link>https://www.gizmodo.jp/2024/01/a-day-with-generative-ai.html</link>
+      <pubDate>2024/01/01 13:48</pubDate>
+      <description>OpenAIのGPT-4とDALL·E 3によって動作するチャットアシスタント「Microsoft Copilot」のiOSアプリが公開されました。アプリは無料でダウンロード可能となっていますが、実際に試してみました。 ■3行で分かる、この記事のポイント 1. チャットアシスタント「Microsoft Copilot」のiOSアプリが公開された。 2. 無料でOpenAIのGPT-4が使えるアプリ。 3. 画像生成でバグが発生も、基本的な動作は問題なし。 アプリは17歳以上に指定 「Microsoft Copilot」アプリは、OpenAIの「ChatGPT」アプリとは異なり、年齢制限が「17+」となっていますが、これは組み込みブラウザなど、無制限のWebアクセスが提供されるためだそうです。 CopilotはGPT-4とDALL·E 3を組み合わせたものですが、無料で利用できるのが特徴とな</description>
+    </item>
   </channel>
 </rss>
