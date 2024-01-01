@@ -19420,5 +19420,17 @@
       <pubDate>2023/12/31 14:09</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>チャットアプリ「Microsoft Copilot」のiOS版を試してみた - iPhone Mania</title>
+      <link>https://iphone-mania.jp/news-571358/</link>
+      <pubDate>2023/12/31 23:03</pubDate>
+      <description>あけましておめでとうございます。これまでもUdemyの大きなセールでは目玉の講座を紹介してきた当ニュースですが、2024年1月1日から1月10日まで開催される「新年のビッグセール」では、新しい年にふさわしい夢とキャリアが広がる講座を紹介します。 各種資格試験の対策講座をはじめとして、マスターしたいプログラミング言語や開発手法、昨年から引き続き話題の生成AI、ウェブ解析やプロジェクトリカバリ、簿記や会計、英会話など多様なビジネスキャリアに直結する講座をピックアップ。映像制作や3Dモデリング、GA4や3Dアニメーション制作といった講座も取り揃えています。 一年の計は元旦にあり。みなさんが2024年に挑戦したい目標や習得したいスキルは何でしょうか？ 年始の抱負を立てる参考になれば幸いです。 ※この記事は、株式会社ベネッセコーポレーションによるタイアップ広告です。記事の最後にはプレゼントのお知らせ</description>
+    </item>
+    <item>
+      <title>2023年の自分まとめ｜深津 貴之 (fladdict)</title>
+      <link>https://note.com/fladdict/n/n5be56ba691e8</link>
+      <pubDate>2023/12/31 15:07</pubDate>
+      <description>0. はじめに先日 Stream Diffusion が公開されていたみたいなので、ComfyUI でも実行できるように、カスタムノードを開発しました。 Stream Diffusionは、連続して画像を生成する際に、現在生成している画像のステップに加えて、もう次の生成のステップを始めてしまうというバッチ処理をするそうです。 学者ではないので、詳しくはわかりませんが、上記のようなことを公式のYouTubeチャンネルでお話しされていたみたいなので、興味のある方はのぞいてみてください。 実際のリポジトリをのぞいてみると、Diffusers を使って書かれていたため、そのままではカスタムノードにできないので、いっそ Diffusers をComfyUIで使えるようにして、それを使って Stream Diffusion を動かそうという魂胆のもと、開発しました。 この記事以降も開発は続けますので、</description>
+    </item>
   </channel>
 </rss>
