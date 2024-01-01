@@ -19438,5 +19438,23 @@
       <pubDate>2024/01/01 13:48</pubDate>
       <description>OpenAIのGPT-4とDALL·E 3によって動作するチャットアシスタント「Microsoft Copilot」のiOSアプリが公開されました。アプリは無料でダウンロード可能となっていますが、実際に試してみました。 ■3行で分かる、この記事のポイント 1. チャットアシスタント「Microsoft Copilot」のiOSアプリが公開された。 2. 無料でOpenAIのGPT-4が使えるアプリ。 3. 画像生成でバグが発生も、基本的な動作は問題なし。 アプリは17歳以上に指定 「Microsoft Copilot」アプリは、OpenAIの「ChatGPT」アプリとは異なり、年齢制限が「17+」となっていますが、これは組み込みブラウザなど、無制限のWebアクセスが提供されるためだそうです。 CopilotはGPT-4とDALL·E 3を組み合わせたものですが、無料で利用できるのが特徴とな</description>
     </item>
+    <item>
+      <title>GPT-4の回答を向上させる「プロンプト26の原則」、220以上の生成タスクが実行可能なマルチモーダルモデル「Unified-IO 2」など重要論文5本を解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2024/01/01/2554.html</link>
+      <pubDate>2024/01/01 10:49</pubDate>
+      <description>生成AI、当たり前に使うようになった人の1日はこんな感じ2024.01.01 12:00 かみやまたくみ 2023年初頭に登場し、一気に広まったChatGPTなどの生成AI。自分の生活にはめちゃくちゃ入り込んでいます。 生成AIは今までとのAIとは｢賢さ｣がだんちがい。人間でないとできなかった作業ができるのが特徴です。 それを活かして生活に取り入れるとどんな感じの1日になるのか。ご紹介します。 1日を｢最適な朝食｣で始めるImage: Shutterstock朝起きたらまずは朝食ですが、ここからもう生成AIが絡んでいたり。 朝は肉か魚を焼いてたんぱく質を摂るようにしているのですが、太らないようになるべく低脂質・低カロリーなものを選びたい。そのために、ChatGPTに｢ヘルシーな肉魚ランキング｣を作ってもらっています。 スーパーではいろんな肉・魚が売っていますが、種類によっては高カロリー・高</description>
+    </item>
+    <item>
+      <title>GitHub、「GitHub Copilot Chat」を一般提供--「GPT-4」に対応</title>
+      <link>https://japan.zdnet.com/article/35213366/</link>
+      <pubDate>2023/12/31 18:57</pubDate>
+      <description>新しいこと、はじめての多い1年でした。 総理にお会いしたAIについて車座で話した。人生で一番緊張した。もうこれ以上に緊張することは、人生でないと思うので、心やすらかに色んな事にチャレンジできると思う。 Androidに乗り換えたメイン機をついにGoogleに。たまにGoogleさんからAndroid端末を頂きつづ、ずっとサブ機扱いだったのですが…ついに親機がAndroidに。 あと自由に呟きたいので、自分で端末買いました。 iPhone系のAI施策が見えてこないので、Androidに移動。あとiPadのkindleが10000冊を超えるとまともに動かないのも。 会社作った3社目。バスキュールの朴さんと一緒に、aiで裏R&amp;amp;Dする会社を作りました。ステルスで遊んでいます。 AI系スタートアップに色々と投資した10社ほどお声がけいただき、4社ほど投資させていただきました。あと4社ほど進行中ですが</description>
+    </item>
+    <item>
+      <title>ChatGPTを活用したUI勉強会のススメ</title>
+      <link>https://speakerdeck.com/abokadotyann/chatgptwohuo-yong-sitauimian-qiang-hui-nosusume</link>
+      <pubDate>2023/12/25 21:34</pubDate>
+      <description>オーストラリアや中国の研究チームが、大規模言語モデルと2Dアニメーションや3DCGの製作ツールであるBlenderを組み合わせ、人間が自然言語で入力した文章を適切に解釈して高精度な3Dコンテンツを作り出すフレームワーク「3D-GPT」を発表しました。 [2310.12945] 3D-GPT: Procedural 3D Modeling with Large Language Models https://arxiv.org/abs/2310.12945 05 3D-GPT: 3D MODELING WITH LARGE LANGUAGE MODELS https://chuny1.github.io/3DGPT/3dgpt.html 3D-GPT generates 3D worlds in Blender https://the-decoder.com/3d-gpt-generates</description>
+    </item>
   </channel>
 </rss>
