@@ -19462,5 +19462,23 @@
       <pubDate>2024/01/01 11:47</pubDate>
       <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 1週間分の生成AI関連論文の中から重要なものをピックアップし、解説をする連載です。2024年初っ端の第27回目は、「礼儀は不要」「モデルに質問させる」「良い解答には報酬」など、大規模言語モデルの返答が向上する「プロンプト26の原則」をはじめとする5つの論文をお届けします。 生成AI論文ピックアップ複数の自律AIエージェントが過去の経験を共有して未知のタスクを処理するモデル「Experiential Co-Learning」 画像から動く3Dシーンを生成する新モデル「DreamGaussian4D」 大規模言語モデルの返答が向上する「プロンプト26の原則」が公開。「礼儀は不要」「モデルに質問させる」「良い解答には報酬」など 220以上の生成タスクが実</description>
     </item>
+    <item>
+      <title>【書評】Pythonによる時系列予測 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/book-python-timeseries-forecasting/</link>
+      <pubDate>2024/01/01 16:03</pubDate>
+      <description>この記事では OpenAI が提供する Vision API (GPT-4V) を使用して、LINE に投稿した画像に反応する Bot を作成した際にやったこと・やらなかったことを書いています。 Bot の実装を細かく解説はしていないので、それを知りたい方は「ChatGPT LINE」などでググると参考になる良い記事が沢山でてくるのでそちらを参照してください！ モチベーション LINE Bot は昔実装したものがありグループ LINE で身の回りのあれこれを通知する君になっていました。機能としては通知のみだったので何か反応してほしいなーと思ったのが最初のきっかけでした。冬休みで時間もあったので OpenAI 周りのプロダクトを整理するためにドキュメントを一通り見てその中から Vison API を使えば画像にも反応できる Bot にもなり面白そうなことがわかったのでガッと実装することにしま</description>
+    </item>
+    <item>
+      <title>Kaggleで始める機械学習入門 - Qiita</title>
+      <link>https://qiita.com/k-ysd/items/9f8edeb6c22e8ec69e0e</link>
+      <pubDate>2024/01/01 16:36</pubDate>
+      <description>｢AIが作った文章｣を見抜く眼力の鍛えかた2024.01.01 10:00 David Nield - Gizmodo US ［原文］ （ 岩田リョウコ ） ChatGPTのリリースから1年。ネット上が様変わりしましたね。 この1年間でどこを見ても人工知能、みたいな感じになってきました。特にネット上ではボットはありとあらゆるトピックに関する文章を生成していますが、内容はかなり自然で人間が書いたのか区別がつかないものも多くなってきました。 自分がオンラインで読んでいる記事や特集は、本当に人間が考えて、書かれたものなの？それともボットが書いたものを読んでいるの？と思われる方も多いでしょう。 見分ける方法は100％完璧ではありませんが、いくつか方法があるのでご紹介します。 著者の確認をするScreenshot: Gizmodo現時点では、少なくとも知名度が高く信頼されているオンラインメディアでは</description>
+    </item>
+    <item>
+      <title>OpenAIのDALL·Eを利用して画像の生成や編集、バリエーション作成が可能なMac用プレイグラウンド「Canvas」がリリース。</title>
+      <link>https://applech2.com/archives/20231231-canvas-for-mac-openai-dalle-playground.html</link>
+      <pubDate>2023/12/31 14:58</pubDate>
+      <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます GitHubは米国時間12月29日、「GitHub Copilot Chat」の一般提供を発表した。GitHub Copilot Chatは、GitHubの開発者向けAIツール「GitHub Copilot」と対話するためのチャットインターフェース。同社の年次カンファレンス「GitHub Universe 2023」で12月の一般提供が発表されていた。 GitHub Copilot Chatは現在、「Visual Studio Code」と「Visual Studio」で利用でき、GitHub Copilotで提供されるコード補完機能とともに全てのGitHub Copilotプランに含まれる。また、認証済みの教員、学生、人気のあるオープ</description>
+    </item>
   </channel>
 </rss>
