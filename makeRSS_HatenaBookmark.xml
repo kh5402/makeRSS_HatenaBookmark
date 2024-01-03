@@ -19666,5 +19666,11 @@
       <pubDate>2023/12/27 12:55</pubDate>
       <description>At GitHub Universe, we announced that GitHub Copilot has expanded and evolved GitHub into the world’s leading AI-powered developer platform. A core piece of our AI-powered developer platform is GitHub Copilot Chat, which enables the rise of natural language as the new universal programming language. Today, GitHub Copilot Chat is now generally available for both Visual Studio Code and Visual Studio</description>
     </item>
+    <item>
+      <title>年末年始こそAIのリスキリング　2023-24年のおすすめ無料講座を一挙紹介！ー松尾研LLM講座・Google認定資格プログラム・プロンプトエンジニアリングなど | Ledge.ai</title>
+      <link>https://ledge.ai/articles/free_courses_in_winter2023-24</link>
+      <pubDate>2023/12/29 21:23</pubDate>
+      <description>メタの研究者による技術「System 2 Attention」 2023年11月、メタに所属する2人の研究者による論文が発表された。 内容は同社が開発した、ジェネレーティブAI（生成系人工知能）のパフォーマンスを向上させる新しい技術。「System 2 Attention」と名付けられたその技術は心理学をベースとしており、生成系AIの言語モデルに取り込むことで、与えられた指示の中で重要度の低い情報を無視し、利用者にとって重要な情報にフォーカスすることでより望ましい応答を生成することが可能になると期待されている。 私たち人間にとっても簡単ではないこのようなタスクをAIに行わせることができるこの技術。いったいどのような仕組みで、私たちのAI利用体験は変わっていくのだろうか。 生成AIの普及により問われる私たちの「質問力」 リリースから1年あまりで全世界での利用者が2億人に届こうかという勢いの「</description>
+    </item>
   </channel>
 </rss>
