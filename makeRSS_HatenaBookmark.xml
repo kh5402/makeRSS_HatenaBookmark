@@ -19654,5 +19654,17 @@
       <pubDate>2024/01/02 07:09</pubDate>
       <description>30年ぶりにファミコン版ドラクエ4をプレイしたので、AI戦闘の仕様についてまとめます。ソースは主に下の記事と自分でプレイした検証結果です。 本件に関しては下の記事以上に詳しい情報はないと思われますが、仕様解析というコンセプトで非常に詳細に記載してくださっているため、この記事では自分なりに実プレイ上有用かなと思えるレベルでまとめました。 ご一読いただければ「なぜブライやミネアがいまいち使えなかったのか」といった疑問も解消すると思います。 なお、以下に記載の内容は100%正確とは限りません。 ソースの解析記事を私が誤読している可能性があるのと、一部自分で補完した内容はあくまでプレイ検証して「おそらくこうだろう」と結論づけているに過ぎないためです。ご了承ください。 基礎知識まず基礎知識。 ある程度詳しい方、少し調べたことがある方ならこの辺りはご存じの内容になるかもしれません。 AIは「モンスター</description>
     </item>
+    <item>
+      <title>画像を分析してキャプションを自動で生成してくれるオープンソースで商用利用も可能なAIモデル「BLIP-2」をReplicate上で使ってみた</title>
+      <link>https://gigazine.net/news/20240102-blip-2-replicate/</link>
+      <pubDate>2024/01/03 11:10</pubDate>
+      <description>ノーベル経済学賞を受賞した英ロンドン・スクール・オブ・エコノミクス（ＬＳＥ）のクリストファー・ピサリデス教授は、人工知能（ＡＩ）が支配的になる世界では「共感力」や創造力のある人材が重宝されるとして、若い世代の人気がＳＴＥＭ（科学・技術・工学・数学）教育に集中することに警鐘を鳴らした。 労働市場経済学が専門のピサリデス氏は、特定の情報技術（ＩＴ）業務に従事する労働者が将来的に自分らの仕事を奪うＡＩを進歩させることによって、「自滅の種」をまく危険性があると述べた。 ピサリデス氏はＡＩが雇用市場に与える全体的な影響については楽観的な見方だが、テクノロジー進歩の波に乗りたいがためにＳＴＥＭ教科を履修する学生らを危惧しているという。現在はＳＴＥＭ関連のスキル需要が急速に伸びているが、ホスピタリティーやヘルスケアといった対面スキルが求められる人材は依然雇用市場を支配するだろうと、同氏は述べた。 「Ch</description>
+    </item>
+    <item>
+      <title>AIでデザイナーの働き方は既に変わったと思う</title>
+      <link>https://yasuhisa.com/could/article/ai-and-designers-2023/</link>
+      <pubDate>2023/12/27 12:55</pubDate>
+      <description>At GitHub Universe, we announced that GitHub Copilot has expanded and evolved GitHub into the world’s leading AI-powered developer platform. A core piece of our AI-powered developer platform is GitHub Copilot Chat, which enables the rise of natural language as the new universal programming language. Today, GitHub Copilot Chat is now generally available for both Visual Studio Code and Visual Studio</description>
+    </item>
   </channel>
 </rss>
