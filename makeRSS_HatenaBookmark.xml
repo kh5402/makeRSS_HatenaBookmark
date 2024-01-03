@@ -19606,5 +19606,11 @@
       <pubDate>2024/01/02 22:32</pubDate>
       <description>「Google Colab」で「LLaMA-Factory」を試したので、まとめました。 【注意】Google Colab Pro/Pro+のA100で動作確認しています。 1. LLaMA-Factory「LLaMA-Factory」は、WebUIによる簡単操作でLLMを学習できるLLMファインチューニングフレームワークです。 サポートするモデルは、次のとおりです。 サポートする学習法は、次のとおりです。 サポートするデータセットは、次のとおりです。 事前学習データセット ・Wiki Demo (en) ・RefinedWeb (en) ・RedPajama V2 (en) ・Wikipedia (en) ・Wikipedia (zh) ・Pile (en) ・SkyPile (zh) ・The Stack (en) ・StarCoder (en) SFTデータセット ・Stanford</description>
     </item>
+    <item>
+      <title>ドラゴンクエストIV（FC版・NES版）AI仕様の解析 by vaxherd - クリムゾンのブロマガから移転した話</title>
+      <link>https://crimson-ytb.hatenablog.com/entry/2022/04/02/183328</link>
+      <pubDate>2024/01/03 11:10</pubDate>
+      <description>出典：Turingプレスリリース 完全自動運転車の開発・生産に挑むTuring株式会社（本社：千葉県柏市／代表取締役：山本一成）＝チューリング＝が、半導体チップと車載LLMアクセラレーターの開発チームを立ち上げたと発表した。 「2030年に完全自動運転EV10,000台の生産」という目標達成に向け、自社による開発領域をさらに拡大するようだ。 全速力で走り続ける同社は、どのような戦略のもとで、このロードマップを達成するのか。その展望に迫る。 ■導体チップと車載LLMアクセラレーターを開発 自動運転向けSoCの500倍の推論能力目指す Turingは最新の発表で、自社製LLM推論アクセラレーターの開発を行うことを決定した。現行の自動運転向けSoCが持つ推論能力の500倍の処理能力を目指すとしている。この開発に向け、さらなる組織の拡大と人材採用を行うという。 マルチモーダルAIモデル・AI基盤モ</description>
+    </item>
   </channel>
 </rss>
