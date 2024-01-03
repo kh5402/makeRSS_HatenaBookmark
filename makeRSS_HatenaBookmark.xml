@@ -19594,5 +19594,17 @@
       <pubDate>2023/12/31 12:27</pubDate>
       <description>あけましておめでとうございます。これまでもUdemyの大きなセールでは目玉の講座を紹介してきた当ニュースですが、2024年1月1日から1月10日まで開催される「新年のビッグセール」では、新しい年にふさわしい夢とキャリアが広がる講座を紹介します。 各種資格試験の対策講座をはじめとして、マスターしたいプログラミング言語や開発手法、昨年から引き続き話題の生成AI、ウェブ解析やプロジェクトリカバリ、簿記や会計、英会話など多様なビジネスキャリアに直結する講座をピックアップ。映像制作や3Dモデリング、GA4や3Dアニメーション制作といった講座も取り揃えています。 一年の計は元旦にあり。みなさんが2024年に挑戦したい目標や習得したいスキルは何でしょうか？ 年始の抱負を立てる参考になれば幸いです。 ※この記事は、株式会社ベネッセコーポレーションによるタイアップ広告です。記事の最後にはプレゼントのお知らせ</description>
     </item>
+    <item>
+      <title>ＳＴＥＭ偏向は「自滅の種」、ノーベル賞経済学者がＡＩ台頭で警告</title>
+      <link>https://www.bloomberg.co.jp/news/articles/2024-01-02/S6N7AKDWLU6800</link>
+      <pubDate>2024/01/03 05:28</pubDate>
+      <description>Unreal Engine 5がまるで現実のようなリアルな質感をゲームで再現して注目を集める一方、かつて栄華を極めたUnityが価格改定という事業改革ただひとつで人々からそしりを受けてしまうなど、昨今ゲームエンジンに関する話題には事欠きません。ゲーム作成の根本たる「ゲームエンジン」が今後どのように変化していくのかについて、ベンチャーキャピタル・Andreessen Horowitzの専門家であるトロイ・カーウィン氏らが分析しました。 Unbundling the Game Engine: The Rise of Next Generation 3D Creation Engines | Andreessen Horowitz https://a16z.com/unbundling-the-game-engine/ ゲームエンジンは、キャラクターやオブジェクトなどの3Dアセット、キャラクター</description>
+    </item>
+    <item>
+      <title>2023年読んで良かった技術書Top5</title>
+      <link>https://zenn.dev/ueniki/articles/84a1561b979914</link>
+      <pubDate>2024/01/02 22:32</pubDate>
+      <description>「Google Colab」で「LLaMA-Factory」を試したので、まとめました。 【注意】Google Colab Pro/Pro+のA100で動作確認しています。 1. LLaMA-Factory「LLaMA-Factory」は、WebUIによる簡単操作でLLMを学習できるLLMファインチューニングフレームワークです。 サポートするモデルは、次のとおりです。 サポートする学習法は、次のとおりです。 サポートするデータセットは、次のとおりです。 事前学習データセット ・Wiki Demo (en) ・RefinedWeb (en) ・RedPajama V2 (en) ・Wikipedia (en) ・Wikipedia (zh) ・Pile (en) ・SkyPile (zh) ・The Stack (en) ・StarCoder (en) SFTデータセット ・Stanford</description>
+    </item>
   </channel>
 </rss>
