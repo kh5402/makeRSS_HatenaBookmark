@@ -19846,5 +19846,11 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aa867fab584cefd3a8e9fc7307d4bc2589f3c3bd/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1558%2F830%2Fms1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>ローカル環境で音声・立ち絵付きのAIと会話できるソフトウェア ez-chat-llm を作りました。</title>
+      <link>https://zenn.dev/offtoung/articles/034d98bd397527</link>
+      <pubDate>2023/12/28 08:00</pubDate>
+      <description>みなさんプログラムは書いていますでしょうか。この一年でChatGPTができ、CopilotにCopilot Chatなど色々なAIツールが出ていますが今回お勧めするのはPhindというAIアシスタントです。 Phindとは Phind(Phind.com)とは端的にいえばGPT-4を超えるコーディング能力に特化した言語AIです 参考リンク：大規模言語モデル「Phind」がコーディングにおいてGPT-4を上回る リンク内で言われているように、WebからChatGPTやGoogleのように簡単に使うことができますが、Phindの真髄はここでは味わえません。 Phindの真の実力 Phindの本当の実力はVScode拡張を使うことによって体感することができます。 PhindのベースモデルはPhind-CodeLlamaというものを使っています。これはMeta社が作ったCodellamaというプロ</description>
+    </item>
   </channel>
 </rss>
