@@ -19852,5 +19852,11 @@
       <pubDate>2023/12/28 08:00</pubDate>
       <description>みなさんプログラムは書いていますでしょうか。この一年でChatGPTができ、CopilotにCopilot Chatなど色々なAIツールが出ていますが今回お勧めするのはPhindというAIアシスタントです。 Phindとは Phind(Phind.com)とは端的にいえばGPT-4を超えるコーディング能力に特化した言語AIです 参考リンク：大規模言語モデル「Phind」がコーディングにおいてGPT-4を上回る リンク内で言われているように、WebからChatGPTやGoogleのように簡単に使うことができますが、Phindの真髄はここでは味わえません。 Phindの真の実力 Phindの本当の実力はVScode拡張を使うことによって体感することができます。 PhindのベースモデルはPhind-CodeLlamaというものを使っています。これはMeta社が作ったCodellamaというプロ</description>
     </item>
+    <item>
+      <title>年頭所感 | SQUARE ENIX HOLDINGS</title>
+      <link>https://www.hd.square-enix.com/jpn/news/2024/html/post_290.html</link>
+      <pubDate>2024/01/04 23:55</pubDate>
+      <description>最近claudeとも喋っている率が上がっている．gpt-4よりclaudeの方が文章上手いような気がするのだけれどなんでだろう． Digital Nature: A Computational Integration of Nature and Technology Abstract Digital nature is an emerging concept that comprehensively models the natural world as computational processes, bridging the gap between technology and nature. Inspired by the recursive connection between natural computing and ubiquitous computing, it propo</description>
+    </item>
   </channel>
 </rss>
