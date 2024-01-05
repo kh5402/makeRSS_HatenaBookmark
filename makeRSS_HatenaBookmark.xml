@@ -20005,5 +20005,23 @@
       <pubDate>2024/01/05 08:19</pubDate>
       <description>Googleが開発したチャットボットAI「Bard」はこれまで無料で公開されていましたが、新たにGoogleは、有料サブスクリプションのGoogle Oneを通して、「Bard Advanced」と呼ばれるBardの有料版を開発中であることが報じられています。 Google appears to be working on an ‘advanced’ version of Bard that you have to pay for - The Verge https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription Google is preparing a paid version of Bard https://www.androidpolice.com/google-preparin</description>
     </item>
+    <item>
+      <title>単一GPUで動画・画像・音声・テキスト対応のマルチモーダルモデルを訓練して推論!?何を言ってるかわかねーと思うが、俺も何を見ているのかわからねえ｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/nf657d6105bd9</link>
+      <pubDate>2024/01/05 13:12</pubDate>
+      <description>ROBA @CES 1/9〜12 @vjroba BingのAIに描かせようとしたら漫画調になっちゃって、リアル調を要求したらいい感じになった。長毛種なのはあっちでメジャーだからなんだろうか。 pic.twitter.com/9k46xLutS3 2024-01-04 18:26:33</description>
+    </item>
+    <item>
+      <title>米13歳がテトリス「攻略」、世界初か　処理能力超える - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN050310V00C24A1000000/</link>
+      <pubDate>2024/01/05 08:59</pubDate>
+      <description>GoogleのAI研究部門「Google DeepMind」のロボット工学チームが、ロボットに簡単な命令を出すだけでタスクを実行してもらう未来に向けての研究成果を発表しました。その中のトレーニングデータ収集システム「AutoRT」には、アイザック・アシモフの「ロボット工学三原則」をもとにした「ロボット憲法」が含まれているそうです。 Shaping the future of advanced robotics - Google DeepMind https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/ Google’s DeepMind ‘Robot Constitution’ will make sure its AI droids won’t kill you - The Verge h</description>
+    </item>
+    <item>
+      <title>伊藤園や野村HD、広告にAIタレント　効果と注意点は - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC261QY0W3A221C2000000/</link>
+      <pubDate>2024/01/04 12:56</pubDate>
+      <description>Amazon Connectでコールセンター向けAIチャットボットを構築する際、Amazon Lexを利用すべきケースとそうでないケース はじめに Amazon Connectでコールセンター向けAIチャットボットを構築する際、Amazon Lexの利用すべきケースと利用すべきでないケースを考えてみました。 私はこれまでに、以下のようなConnectを利用したコールセンター向けAIチャットボットの構築経験があります。 [電話予約の無人化]Amazon Connect + GPT-4 JSONモード + Whisperで、1回の発話から予約情報(日付,時間など)を抽出 【RAG】Amazon BedrockとConnect、Kendraを利用し、社内情報や社外の最新情報などの取り込んだデータをもとに回答するコールセンター向けAIチャットボットを構築してみた AIチャットボットで問い合わせに対</description>
+    </item>
   </channel>
 </rss>
