@@ -20023,5 +20023,11 @@
       <pubDate>2024/01/04 12:56</pubDate>
       <description>Amazon Connectでコールセンター向けAIチャットボットを構築する際、Amazon Lexを利用すべきケースとそうでないケース はじめに Amazon Connectでコールセンター向けAIチャットボットを構築する際、Amazon Lexの利用すべきケースと利用すべきでないケースを考えてみました。 私はこれまでに、以下のようなConnectを利用したコールセンター向けAIチャットボットの構築経験があります。 [電話予約の無人化]Amazon Connect + GPT-4 JSONモード + Whisperで、1回の発話から予約情報(日付,時間など)を抽出 【RAG】Amazon BedrockとConnect、Kendraを利用し、社内情報や社外の最新情報などの取り込んだデータをもとに回答するコールセンター向けAIチャットボットを構築してみた AIチャットボットで問い合わせに対</description>
     </item>
+    <item>
+      <title>GitHub - Chaoses-Ib/ComfyScript: A Python front end for ComfyUI</title>
+      <link>https://github.com/Chaoses-Ib/ComfyScript</link>
+      <pubDate>2024/01/01 17:45</pubDate>
+      <description>はじめに どうもこんにちは。kunishouです。2023年も残すところ今日、明日のみ。皆さん年の瀬をいかがお過ごしでしょうか？ 今年も昨年と同様、仕事も勉強もしなくていい日が数日続き、すでにソワソワしてきました。というわけで毎年恒例の（と言いつつ今年で2回目の） Python / データ分析関連の人気 Qiita 記事 150選を今年も投稿することにしました！本記事では、2023年にQiitaに投稿された Python/データ分析関連の記事の中からいいね数の多かった150記事をピックアップし表にまとめました。 年末年始の空いている時間に、本記事で2023年のPython/データ分析関連のトレンドを振り返っていただけたら幸いです。 昨年の記事はこちら モチベーション Qiita公式からも毎年1月にQiitaの人気記事のランキングが公開されています。ただ、Qiita全カテゴリでのランキングで</description>
+    </item>
   </channel>
 </rss>
