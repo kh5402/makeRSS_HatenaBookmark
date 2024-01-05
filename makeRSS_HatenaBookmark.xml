@@ -19930,5 +19930,44 @@
       <pubDate>2024/01/05 07:06</pubDate>
       <description>はじめに 『プロフェッショナルTLS&amp;amp;PKI改題第2版（原題: Bulletproof TLS and PKI Second Edition）』が出版されました。今回は出版前のレビューには参加していませんが、発売直後にラムダノートさんから献本をいただきました。ありがとうございます(そのためタイトルにPRを入れてます)。原著のサイトでは前バージョンとのDiffが公開されており、今回は翻訳の確認を兼ねて更新部分を重点的に読みました。このエントリーでは、改訂版のアップデート部分がどのようなもので、今後どう学んだらよいかということを中心に書いてみたいと思います。 短いまとめ： HTTPSへの安全意識が高まっている今だからこそ『プロフェッショナルTLS&amp;amp;PKI』を読みましょう。 長文注意！： 書いているうちに非常に長文(1万字以上)になってしまったので、長文が苦手な方は、GPT-4要約(400字)を</description>
     </item>
+    <item>
+      <title>Microsoftが30年ぶりにPC用標準キーボードへ新しいキーを追加へ、生成AIツールにアクセスする「Copilot」キーが登場</title>
+      <link>https://gigazine.net/news/20240105-windows-keayboard-copilot-key/</link>
+      <pubDate>2024/01/05 10:37</pubDate>
+      <description>文系です 再来週の金曜締切の卒論 今の時点で0字です 指定字数は2万字程度 参考文献は分厚いのを1冊教授から渡されていますが外国語なのでまだ一切読めてないし文字認識できないから翻訳ソフトも使えません そしてそれを使ってどうやって論を展開するかも決めていません ニッチな分野なので日本語の先行研究もありません、chatGPTも使えません あと2週間しかありません 留年が、見えてきています</description>
+    </item>
+    <item>
+      <title>2万字なら、2時間話すくらいの分量だから余裕でいける。 2週間で1年分の学費..</title>
+      <link>https://anond.hatelabo.jp/20240105030107</link>
+      <pubDate>2024/01/05 06:38</pubDate>
+      <description>Microsoftは1月末から発売されるWindowsパソコンのキーボードに「Copilot」キーが搭載されると発表した。現在の「アプリケーション」キーが置き換えられ、「Copilot in Windows」を起動する。 米Microsoftは1月4日（現地時間）、今後発売されるWindows PCのキーボードに、「Copilot」キーが搭載されるようになると発表した。1994年に「Windows」キーを導入して以来の新たなキーの追加としている。 Copilotキーは、現在の右「Alt」キーの右隣に配置される。</description>
+    </item>
+    <item>
+      <title>脱タムパ的思考論ー「言語化がスゲぇ」が実は全く凄くない理由。｜Kenji Tomita / 冨田憲二</title>
+      <link>https://note.com/symsonic/n/n2c491800482a</link>
+      <pubDate>2024/01/05 08:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8ad65cb89354370ec9a431cc5b6ac60df3ef9f55/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1558%2F595%2Fimage.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>2023年、特に感動した・気に入った フリーソフト</title>
+      <link>https://www.gigafree.org/matome/best-freesoft-2023/</link>
+      <pubDate>2024/01/04 20:05</pubDate>
+      <description>皆さま、新年明けましておめでとうございます。 毎週さまざまな調査データをピックアップしてお届けしている本連載「ざっくり知っておきたいIT業界データ」ですが、今回は“年始スペシャル版”として、2024年はテック業界にとってどのような年になるのか、各社の予測をご紹介します。 AI／生成AI：ビジネスでの本格活用に向けた整備が進む 振り返れば、2023年は「生成AIに始まり、生成AIに終わった」と言っても過言ではない1年でした。その勢いは2024年も止みそうになく、各社ともAI／生成AIに関する予測が目立ちます。 ●企業での活用に向けカスタムLLM、RAGなどに注目 AI／生成AI活用に欠かせないGPUメーカーとして、すっかり時代の寵児（ちょうじ）となったNVIDIA。昨年は自動運転車に関する年始予測を発表していましたが、今年はAIをテーマとしています。 ・LLM（大規模言語モデル）のビジネス応</description>
+    </item>
+    <item>
+      <title>3分プロトタイピング: Streamlitを用いたAIチャットアプリ - ROUTE06 Tech Blog</title>
+      <link>https://tech.route06.co.jp/entry/2024/01/04/143058</link>
+      <pubDate>2024/01/04 14:42</pubDate>
+      <description>最近claudeとも喋っている率が上がっている．gpt-4よりclaudeの方が文章上手いような気がするのだけれどなんでだろう． Digital Nature: A Computational Integration of Nature and Technology Abstract Digital nature is an emerging concept that comprehensively models the natural world as computational processes, bridging the gap between technology and nature. Inspired by the recursive connection between natural computing and ubiquitous computing, it propo</description>
+    </item>
+    <item>
+      <title>最近の日本語特化オープンLLMをつまみ食いする｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n55e1c542205a</link>
+      <pubDate>2024/01/03 20:57</pubDate>
+      <description>兵庫県で昨年、新手法を生かして34もの古墳が発見された。奈良文化財研究所（奈文研）などの研究チームが、兵庫県が全国に先駆けて公開した3次元の立体地図と、人工知能（AI）を活用した成果だ。専門知にデジタルを重ね合わせることで、研究進展や文化財保護を目指す。「デジタルを用いた研究成果の発表後、行政担当者を中心に多くの連絡が届き始めた」。奈文研の主任研究員である高田祐一さんはこう話す。高田さんらのチ</description>
+    </item>
   </channel>
 </rss>
