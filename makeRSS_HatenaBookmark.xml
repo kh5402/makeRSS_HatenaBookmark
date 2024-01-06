@@ -20068,5 +20068,17 @@
       <pubDate>2024/01/04 08:40</pubDate>
       <description>でインストールいけます! Windows(ARM も!), Linux(arm も!), macOS の全バイナリがあるので, コンパイル不要でいけるよ. 辞書データは別途必要です. とりあえずは の README からたどれるコンパイル済み KWDLC を使いましょう. import jagger model_path = &amp;quot;model/kwdlc/patterns&amp;quot; tokenizer = jagger.Jagger() tokenizer.load_model(model_path) text = &amp;quot;吾輩は猫である。名前はまだない。&amp;quot; toks = tokenizer.tokenize(text) for tok in toks: print(tok.surface(), tok.feature()) print(&amp;quot;EOL&amp;quot;) 吾輩 名詞,普通名詞,*,*,吾輩,わがはい,代表表記:</description>
     </item>
+    <item>
+      <title>OpenAIがAIのトレーニングにコンテンツを利用したメディアにライセンス料として年間100万ドルから500万ドルを支払いか</title>
+      <link>https://gigazine.net/news/20240105-openai-publishers-1-million-license-content/</link>
+      <pubDate>2024/01/05 20:06</pubDate>
+      <description>新年、明けましておめでとうございます。今年もよろしくお願いします。 2023年は、生成AIという新たな技術との出会いによって、いままでにないくらいに創作が面白くなった年でした。 年初にMidjouney /を触り始めたにも関わらず、国内外の美術館で3つの展示がきまったり、雑誌の表紙を飾ったり、世界三大オークションのひとつである、クリスティーズにグッチとのコラボで作品出展をするなど、まるで夢のような凄まじい一年でした。 こんな私に機会をくださった方々には心から感謝しています。 備忘録とそして、アーティストの皆さんに向けて、学びをnoteで記録したいと思います。 2021年は息子の自由研究であるZombie Zooが注目され、 2022年は新星ギャルバースのローンチがありましたが、今年もNFTで、人生が大きく変わりました。 昨年の記事はこちら↓ *この記事は多くの情報が詰まってるので、有料で、</description>
+    </item>
+    <item>
+      <title>秒100枚の画像生成ができるという「Stream Diffusion」を動かそうとしたらたいへんだったお話 (1/3)</title>
+      <link>https://ascii.jp/elem/000/004/178/4178048/</link>
+      <pubDate>2024/01/03 10:44</pubDate>
+      <description>人工知能（AI）でつくられた架空のタレントを広告起用する企業が増えている。伊藤園はテレビCMに初めてAIタレントを登用。野村ホールディングス（HD）も2023年夏、実在しないバーチャルヒューマンの「imma（イマ）」を起用した。生身のタレントでは難しい広告表現が可能になる一方、「リアルなタレントの職を奪うのでは」といった懸念の声もある。専門家は「法律や倫理面で注意すべき点も多い」と指摘する。未来</description>
+    </item>
   </channel>
 </rss>
