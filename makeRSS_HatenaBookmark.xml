@@ -20101,5 +20101,11 @@
       <pubDate>2024/01/06 07:21</pubDate>
       <description>ChatGPTなどの生成AIを開発するOpenAIが、AIのトレーニングにニュースメディアのコンテンツを利用していることが問題視されており、一部メディアからは訴訟を提起されています。これに対応するため、OpenAIはニュースメディアに対して100万ドル(1億4500万円)から500万ドル(約7億2400万円)のライセンス料を支払う方向で協議を進めていると報じられました。 OpenAI Offers Publishers as Little as $1 Million a Year — The Information https://www.theinformation.com/articles/openai-offers-publishers-as-little-as-1-million-a-year OpenAI In Talks With Dozens of Publishers to</description>
     </item>
+    <item>
+      <title>GPT-4を無料で使えて画像の詳細も聞けるMicrosoftのチャットAI「Microsoft Copilot」のiOS版が公開されたので使ってみた</title>
+      <link>https://gigazine.net/news/20240106-microsoft-copilot-ios-app/</link>
+      <pubDate>2024/01/06 21:42</pubDate>
+      <description>テキストから画像を生成する人工知能（AI）ツールの「Stable Diffusion」が、膨大な量の違法な児童の性的虐待画像を使って訓練されていたことがスタンフォード・インターネット・オブザーバトリー（Stanford Internet Observatory）の調査で明らかになった。Stable Diffusionは、評価額が10億ドル（約1430億円）のスタートアップStability AIが開発した最も人気が高い画像生成AIツールの1つとして知られている。 Stable DiffusionのAIモデルは、膨大な量のオープンデータセットで訓練されており、ユーザーがテキストでプロンプトを入力すると、リアルな画像が生成される。しかし、スタンフォード大学の研究者たちは、Stable Diffusionをはじめとするモデルが学習に用いている数十億の画像からなる大規模な公開データセット「LAIO</description>
+    </item>
   </channel>
 </rss>
