@@ -20047,5 +20047,26 @@
       <pubDate>2024/01/05 10:59</pubDate>
       <description>ROBA @CES 1/9〜12 @vjroba BingのAIに描かせようとしたら漫画調になっちゃって、リアル調を要求したらいい感じになった。長毛種なのはあっちでメジャーだからなんだろうか。 pic.twitter.com/9k46xLutS3 2024-01-04 18:26:33</description>
     </item>
+    <item>
+      <title>漁船の最大75％が位置を公開せず追跡を回避して「闇漁業」を行っている可能性があることがAIを用いた全世界規模の調査で判明</title>
+      <link>https://gigazine.net/news/20240106-satellite-mapping-reveals-sea-activity/</link>
+      <pubDate>2024/01/06 10:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/39355d6adb6416f67207b79d452f96ef47352f98/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1559%2F102%2Fogp.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「AIアートはアートじゃない」 毎日生成AIを触ってたら、クリスティーズのオークション、世界中の美術館で展示が決まった嘘みたいな1年間 - 2023年総括｜草野 絵美</title>
+      <link>https://note.com/emikusano/n/n0dff173557ce</link>
+      <pubDate>2024/01/06 05:58</pubDate>
+      <description>はじめに英語の論文をGPT4に執筆させた際の手順を記します｡ 普段からChatGPTを使っている人にとっては､当たり前のやり取りしかしていないのですが､意外と使えていない方がnon-AI分野では多いので､丁寧にプロンプトを示していきます｡ (ワークショップで解説する必要が出てきたので､そのためのメモ書きです) GPT-4に論文は書けるのか?ゼロから書かせるのは難しいですが､日本語の下書きを英訳するのは得意で､少なくとも筆者が満足する品質のテキストが得られます｡ GPTを使って執筆をするメリットDeepLやGoogle翻訳と違い､英文のスタイル(e.g., 論文調)を明示的に指示できるので､翻訳のクオリティが高い 日本語ネイティブにとっては､日本語で書いた方が圧倒的に楽※ スペルミスや文法ミスを犯さないので､校正の手間も減る｡※ 基本的に翻訳タスクしか行っていないので､GPTが過去の類似文章</description>
+    </item>
+    <item>
+      <title>「完璧なリーダー」は、もういらない。</title>
+      <link>https://blog.tinect.jp/?p=84796</link>
+      <pubDate>2024/01/04 08:40</pubDate>
+      <description>でインストールいけます! Windows(ARM も!), Linux(arm も!), macOS の全バイナリがあるので, コンパイル不要でいけるよ. 辞書データは別途必要です. とりあえずは の README からたどれるコンパイル済み KWDLC を使いましょう. import jagger model_path = &amp;quot;model/kwdlc/patterns&amp;quot; tokenizer = jagger.Jagger() tokenizer.load_model(model_path) text = &amp;quot;吾輩は猫である。名前はまだない。&amp;quot; toks = tokenizer.tokenize(text) for tok in toks: print(tok.surface(), tok.feature()) print(&amp;quot;EOL&amp;quot;) 吾輩 名詞,普通名詞,*,*,吾輩,わがはい,代表表記:</description>
+    </item>
   </channel>
 </rss>
