@@ -20203,5 +20203,17 @@
       <pubDate>2024/01/07 20:53</pubDate>
       <description>Kapper@Linuxガジェヲタ＆異世界小説家＆電子工作大好き @kapper1224 オープンソースのローカルLLM界隈がPhi-2ライセンスMIT変更で大騒ぎしていますな。 Phi-2改造版も密かにあちこちであります。 ちなみにGGUF版はこちらからダウンロード出来ますし huggingface.co/kroonen/phi-2-… Phi-2 llamafile版もこちらからダウンロードできます huggingface.co/jartine/phi-2-… 2024-01-06 20:15:36 CodingNerds COG @CodingnerdsCog @Microsoft finally changed the license for their small #LLM phi-2 to MIT! 🚀 &amp;gt;&amp;gt; Phi-2 is a 2.7 billion parameter</description>
     </item>
+    <item>
+      <title>キヤノン・ニコン・ソニーが写真にデジタル署名を埋め込むカメラ技術を開発中、AIが生成した精巧な偽物と写真を区別するのに役立つ可能性あり</title>
+      <link>https://gigazine.net/news/20240107-canon-nikon-sony-digital-signature/</link>
+      <pubDate>2024/01/07 23:22</pubDate>
+      <description>この記事が気に入ったら、サポートをしてみませんか？ 気軽にクリエイターの支援と、記事のオススメができます！</description>
+    </item>
+    <item>
+      <title>ラズパイ4でも動かせるローカルLLM用省メモリ小型高性能Phi-2モデルのライセンスをMicroSoftがMITライセンスに変更。これで自由に配布・改造・商用利用が出来ます。llamafile版も公開されました。もちろんLinuxでもNetBSDでも動きます</title>
+      <link>https://togetter.com/li/2289955</link>
+      <pubDate>2024/01/07 16:28</pubDate>
+      <description>カメラマンはもういらない。被写体を逃さず追いかけるAIジンバル2024.01.07 09:00 武者良太 アーティスティックな構図まではキメられないと思うけど。 ドローンカメラやスマホジンバルなどには、指定した被写体を追いかけるトラッキング機能がありますよね。ミラーレスなど一眼カメラ＋ジンバルでトラッキング機能を実現するには、カメラメーカー側がジンバル＆ジンバル制御プログラムを作らないとダメかなー。と思っていたら…。 FeiyuTechの｢SCORP 2｣が頭良すぎます。ジンバル側にAIで被写体認識をするトラッキングセンサーを組み込むことで、動き回る被写体を自動で追いかけながらぐるぐると動いてくれるんですよ、コレ。 Video: FeiyuTech / YouTube使用できるレンズの焦点距離に制限があるかもしれないし、画角内に複数の動きモノがあったときに対応してくれるかどうかも不明ではあ</description>
+    </item>
   </channel>
 </rss>
