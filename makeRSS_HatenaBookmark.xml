@@ -20464,5 +20464,11 @@
       <pubDate>2024/01/02 02:35</pubDate>
       <description>2023年にグーグルが提供開始した、生成AIを活用したチャットツール「Bard」ですが、2023年12月にまた大きなアップデートが加えられています。それはグーグルの各種ツールと連携できる機能拡張が、日本語でも利用できるようになったことです。→過去の「Google Workspaceをビジネスで活用する」の回はこちらを参照。 これを使えば「Gmail」「Googleドキュメント」などGoogle Workspace関連のツールのほか、「Googleマップ」「YouTube」などグーグルが提供するさまざまなツールを横断して情報を検索し、Bardのチャットの回答に反映させられるようになります。 Bardからチャットで指示することにより、Gmailのメールの内容を調べたり、Googleドキュメントのファイルを探したりすることもでき、Bardの使い道がより大きく広がったと言えるでしょう。 ただし、こ</description>
     </item>
+    <item>
+      <title>画像生成AI「DALL·E 3」でプロフィール用画像を作成できる「Free Profile Picture Generator」</title>
+      <link>https://gigazine.net/news/20240109-free-profile-picture-generator/</link>
+      <pubDate>2024/01/09 09:43</pubDate>
+      <description>Author Shuyin Zhao すべてのGitHub Copilotユーザーは、追加料金なしでCopilot Chatで自然言語によるコーディングを利用できるようになりました。 GitHub UniverseにおいてGitHubがGitHub Copilotにより、世界有数のAIが支援するソフトウェア開発者プラットフォームへと拡張し、進化したことを発表しました。開発者プラットフォームのAI機能の核となるGitHub Copilot Chatは、自然言語を新しい普遍的なプログラミング言語として使うことを可能とするものです。 本日、GitHub Copilot Chatは、Visual Studio CodeとVisual Studio向けに一般提供(GA)を開始しました。当初からあるGitHub Copilotの生産性を高めるコード補完機能は、すべてのGitHub Copilotプラン</description>
+    </item>
   </channel>
 </rss>
