@@ -20428,5 +20428,41 @@
       <pubDate>2024/01/09 08:02</pubDate>
       <description>OpenAIのサム・アルトマンCEOは、ガザでの戦争を受けて反イスラム主義や反ユダヤ主義の台頭が懸念される中で、テック業界のイスラム教徒の同僚たちが、報復を恐れ、自らの意見を発表することに「抵抗を感じている」と発言した。 1月5日のX（旧ツイッター）の投稿の中でアルトマンは「ここ最近、イスラム教徒やアラブ人（特にパレスチナ人）の同僚と話をする中で、彼らが報復やキャリアの展望が損なわれることを懸念して、発言を控えていることを知った」と書いている。 アルトマンは、このような厳しい時代にテック業界が団結し、彼らをサポートするべきだと呼びかけた。自らがユダヤ人である彼は、反ユダヤ主義が「重大かつ拡大しつつある問題」だと考えていると語った。 アルトマンはまた、反ユダヤ主義の問題に関して業界の多くの人々が彼を応援してくれており、そのことに感謝していると述べた。しかし、ムスリムの人々に向けられる支援は、</description>
     </item>
+    <item>
+      <title>GitHub Copilot Chat、組織と個人向けに一般提供(GA)開始</title>
+      <link>https://github.blog/jp/2024-01-09-github-copilot-chat-now-generally-available-for-organizations-and-individuals/</link>
+      <pubDate>2024/01/09 16:57</pubDate>
+      <description>あけましておめでとうございます、YAPC::Hiroshima 2024 スタッフの id:Pasta-K です。 前夜祭内で行われるスペシャルパネルディスカッション ｢Cache-Control: max-age=86400｣ に関連して、キャッシュバスターズのお2人( id:onk, id:Soudai )からそれぞれキャッシュに関する記事が公開されました。 onkさんの記事では 十把一絡げに「麻薬」と言うのではなく、キャッシュをパターン化して乗りこなすというのが望ましい姿でしょう。現代的な Web アプリケーション開発において、キャッシュを使うのはむしろ前提としないと機能しないと私は考えます。 という上でキャッシュと上手く向き合うためのパターン化について紹介されていました。 Soudaiさんの記事では、 『失敗から学ぶRDBの正しい歩き方』 第16章 キャッシュ中毒 でもキャッシュを</description>
+    </item>
+    <item>
+      <title>ソニー・ホンダ、Microsoftと提携　電気自動車に生成AI搭載 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC0925J0Z00C24A1000000/</link>
+      <pubDate>2024/01/09 12:39</pubDate>
+      <description>NYTは昨年12月、2社がNYTの記事を「数百万件コピー」してAIモデルをトレーニングした結果、同メディアと読者との関係が損なわれ、購読料や広告などによる収入も奪われると訴状で主張した。 訴状では、OpenAIの「ChatGPT」を実際に使ったという著作権侵害例を複数提示している。 OpenAIは、NYTが「全容を伝えていない」とし、特にChatGPTがNYTの記事をほぼそのまま再現した（regurgitation、吐き戻し）という主張については、NYTが吐き戻すようプロンプトを操作したと反論した。 また、AIモデルが新たな問題を学習して解決するには「人間の知識の膨大な集合体」にアクセスしなければならないとし、「トレーニングはフェアユース」に該当すると主張した。フェアユースとは、著作権で保護されている作品を著作権者の権利を侵害せずに利用する特定の方法だ。 その上で、WebサイトオーナーがW</description>
+    </item>
+    <item>
+      <title>OpenAIトップが「テック業界はムスリムの仲間を支援すべき」と発言 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/68413</link>
+      <pubDate>2024/01/09 12:35</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。1月1日（月）〜1月7日（日）〔2024年1月第1週〕のトップ30です*1。 順位 タイトル 1位 賃貸を退去するとき50万円請求されたけど色々な対応を駆使して結果的に敷金を取り戻した話｜namonaki 2位 Twitterで見かける怪しい会社、この方法で実態が分かる「中小企業の調査の基本」 - Togetter 3位 ミスを責めるとミスが増え、自己正当化がミスを再発する『失敗の科学』: わたしが知らないスゴ本は、きっとあなたが読んでいる 4位 2023年、特に感動した・気に入った フリーソフト – GIGA！無料通信 5位 訃報：経済評論家・山崎元さんが死去――資産づくりに正義を乗せて | トウシル 楽天証券の投資情報メディア 6位 2024年1月2日に東京国際空港で発生した航空機事故に関する</description>
+    </item>
+    <item>
+      <title>あるライターの書いた原稿が「文章をChatGPTで作成したかどうか判断するツール」でChatGPTで書いたと判断され相手から責められた</title>
+      <link>https://togetter.com/li/2291403</link>
+      <pubDate>2024/01/08 21:54</pubDate>
+      <description>We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit. Our goal is to develop AI tools that empower people to solve problems that are otherwise out of reach. People worldwide are already using our technology to improve their daily lives. Millions of developers and more than 92% of Fortune 500 are building on our products today. While we dis</description>
+    </item>
+    <item>
+      <title>AMD「Ryzen 8000G」発表。高性能内蔵GPUをデスクトップに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/1559234.html</link>
+      <pubDate>2024/01/09 01:23</pubDate>
+      <description>マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開 コースの内容には、大規模言語モデル（LLM）がどのように動くかを理解する。「生成 AI と大規模言語モデルの紹介」、ユースケースに適したAIモデルを選択できるようにする「様々なLLMの調査と比較」、プロンプトの構造と使用法の理解のための「プロンプト・エンジニアリングの基礎」、埋め込み技術を利用したデータ検索アプリケーションを構築する「Vector Databasesを利用した検索アプリケーションの構築」、外部APIからデータを取得するためFunction Callingを設定する「Function Callingとの統合」など、入門的な内容から高度なアプリケーションの開発まで多岐にわたるレッスンが用意されています。 レッスン内容は日本語による説明と図で構成 各レ</description>
+    </item>
+    <item>
+      <title>Windows PCでStreamDiffusionを利用する手順｜まゆひら</title>
+      <link>https://note.com/mayu_hiraizumi/n/nd163c54bf333</link>
+      <pubDate>2024/01/02 02:35</pubDate>
+      <description>2023年にグーグルが提供開始した、生成AIを活用したチャットツール「Bard」ですが、2023年12月にまた大きなアップデートが加えられています。それはグーグルの各種ツールと連携できる機能拡張が、日本語でも利用できるようになったことです。→過去の「Google Workspaceをビジネスで活用する」の回はこちらを参照。 これを使えば「Gmail」「Googleドキュメント」などGoogle Workspace関連のツールのほか、「Googleマップ」「YouTube」などグーグルが提供するさまざまなツールを横断して情報を検索し、Bardのチャットの回答に反映させられるようになります。 Bardからチャットで指示することにより、Gmailのメールの内容を調べたり、Googleドキュメントのファイルを探したりすることもでき、Bardの使い道がより大きく広がったと言えるでしょう。 ただし、こ</description>
+    </item>
   </channel>
 </rss>
