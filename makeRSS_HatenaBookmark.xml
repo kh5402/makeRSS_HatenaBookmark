@@ -20386,5 +20386,29 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b1426fe83a7cc48c6ccc190c1081602b6bbc0219/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1559%2F207%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2024年1月第1週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2024/01/09/122652</link>
+      <pubDate>2024/01/09 12:27</pubDate>
+      <description>こんにちは。データ・AI戦略部 SREチームの小野です。2020年8月に入社してから早3年。SREエンジニアとして、日々業務改善に励んでいます。 私の所属するデータ・AI戦略部は、クラウドやSaaSの活用を積極的に行っています。私自身も「業務に役立ちそうなサービス」を見つけたら上長に相談するようにしています。 今回は、「1ヶ月でSnowflakeのPoC検証から導入提案まで行った話」をお伝えしたいと思います。ちなみにこのブログの執筆時点では、Snowflakeの導入はまだ実現していません。 &amp;lt;書くこと&amp;gt; 「PoC検証の取り組み方から提案までの手法」を中心に執筆します。今後ChatGPTのような技術革新がますます活発化した時、新しいサービスの検証や提案を「より高品質」に「よりスピーディ」に行うことが必要になってくると思います。そういったニーズの参考になれば幸いです。 &amp;lt;書かないこと&amp;gt; Sno</description>
+    </item>
+    <item>
+      <title>NVIDIAとGetty Images、商用利用可能な画像生成AIサービス</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1559207.html</link>
+      <pubDate>2024/01/09 05:10</pubDate>
+      <description>昨年1年間、生成AIにふれて思ったことが一つあります。 それは、「AIは、人の下で働くより「管理職」に向いてるのではないだろうか」です。 「生成AIが人の手足となって働く」ことのインパクトはわずか なぜそう思ったのか。 まず第一に、「生成AIが、人間の手足となって仕事を手伝う」のは、実はそう便利でもないからです。 もちろん、生成AIはうまく人間の手伝いができます。 検索をやらせたり、翻訳をやらせたり、要約をやらせたり。 でも、それらの「作業の手伝い」は、他のソフトでもうまくできますし、結局「使う人間の判断」以上のアウトプットは出てきません。 ですから、その場合AIの能力の上限は「使う人の能力に依存する」ことになります。 せっかくのAIの速度を人間が制限してしまっている、というイメージでしょうか。 また、現在の生成AIには目も耳も、手足もありません。 つまり最終的に「体を動かさないといけない</description>
+    </item>
+    <item>
+      <title>ChatGPTとGoogle Calendar APIを組み合わせ、自分のスケジュール調整に使えるカスタムGPTを作る【イニシャルB】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/shimizu/1556802.html</link>
+      <pubDate>2024/01/09 07:14</pubDate>
+      <description>生成AIの活用が広がる中、ことし、日本企業が開発した国産サービスの提供が相次いで始まります。国内での利用拡大に向け、AIの安全性を担保する実効的な仕組みが作れるかが課題となります。 生成AIのサービスは、「ChatGPT」などでアメリカの企業が先行していますが、ことしは日本企業が開発した国産サービスの提供が相次いで始まります。 ▽NTTは3月から生成AIサービス「tsuzumi」を、 ▽NECも春には、生成AIサービスの「cotomi」をそれぞれ企業向けに提供する計画です。 さらに ▽ソフトバンクは日本で最大規模の学習量を持つ生成AIをことし中に完成させる方針です。 日本でも利用の拡大が見込まれる中、安全性や信頼性をどう確保するかが課題となります。 政府はことし3月にも事業者向けのガイドラインを公表するほか、民間企業の間でも新たな認証制度をつくる準備が進められています。 海外ではすでに、ア</description>
+    </item>
+    <item>
+      <title>元トランプ大統領の個人弁護士、Google Bard生成のニセ判例を提出して追求受ける「本物のような文章を生成するサービスとは知らなかった」 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2023/12/31/2552.html</link>
+      <pubDate>2023/12/31 20:53</pubDate>
+      <description>大規模言語モデル(LLM: Large Language Model)を用いたアプリケーションを作る際、まずはChatGPTのようなチャットUIを再現して、独自コードであったり、独自データを組み合わせたいことは多いと思います。 ただ、チャットUIを0から作るのは結構時間がかかります。そこで、この記事ではStreamlitというフレームワークを使ってよくあるAIとチャットするアプリケーションの雛形を3分*1で用意したいと思います。 Streamlitとは Streamlitは、PythonでWebアプリケーションを簡単に作成できるフレームワークです。GUIの作成が簡単で、コード量も少なくて済むため、AIとチャットするアプリケーションの雛形を作成するのにも適しています。 Pythonの実行環境の準備 asdfを使っている場合の手順を示します。他の方法で実行環境を用意している場合は、適宜読み替え</description>
+    </item>
   </channel>
 </rss>
