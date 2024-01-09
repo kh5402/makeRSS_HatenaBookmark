@@ -20317,5 +20317,26 @@
       <pubDate>2024/01/09 00:45</pubDate>
       <description>AIユニット内蔵のデスクトップPC向けAPU「Ryzen 8000G」発表。内蔵GPUはGeForce GTX 1650に匹敵する性能を有する ライター：米田 聡 米国時間2024年1月8日，AMDはCES 2024に合わせて，開発コードネーム「Hawk Point」と呼ばれているデスクトップPC向けの新型APU「Ryzen 8000G」シリーズを発表した。 実用的な3D性能を持つGPUを統合したAPUとしては，2021年4月に発表となったSocket AM4プラットフォーム向けの「Ryzen 5000G」以来の新製品ということになる。発売は1月31日予定だが，本稿執筆時点で価格は明らかになっていない。 本稿では，AMDの事前資料を元にRyzen 8000Gの概要を簡単に紹介してみたい。 ノートPC向けのAPUをデスクトップに転用したRyzen 8000G Ryzen 8000Gシリーズは</description>
     </item>
+    <item>
+      <title>NVIDIA、生成AIの処理7割高速化　パソコン用半導体を開発 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN083HM0Y4A100C2000000/</link>
+      <pubDate>2024/01/09 06:23</pubDate>
+      <description>マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開 コースの内容には、大規模言語モデル（LLM）がどのように動くかを理解する。「生成 AI と大規模言語モデルの紹介」、ユースケースに適したAIモデルを選択できるようにする「様々なLLMの調査と比較」、プロンプトの構造と使用法の理解のための「プロンプト・エンジニアリングの基礎」、埋め込み技術を利用したデータ検索アプリケーションを構築する「Vector Databasesを利用した検索アプリケーションの構築」、外部APIからデータを取得するためFunction Callingを設定する「Function Callingとの統合」など、入門的な内容から高度なアプリケーションの開発まで多岐にわたるレッスンが用意されています。 レッスン内容は日本語による説明と図で構成 各レ</description>
+    </item>
+    <item>
+      <title>生成AIサービスも提供する「AWS」を初心者が学ぶには？　“中の人”が教えるオススメ学習法</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2401/05/news002.html</link>
+      <pubDate>2024/01/05 14:26</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a45609f5c51dd77a5e42f06f968976006f30bdb0/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1558%2F953%2Fshutterstock_1019006956_main.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>3分プロトタイピング: RAGを使ってAIチャットアプリケーションに知識を与える - ROUTE06 Tech Blog</title>
+      <link>https://tech.route06.co.jp/entry/2024/01/05/142829</link>
+      <pubDate>2024/01/05 21:25</pubDate>
+      <description>あけました。めでたいかどうかはお前次第。本年もよろしくお願いします。 ということで、新年早々能登半島で大地震は起きるわ飛行機事故はあるわ大火災は発生するわで大変なお正月でありました。私も風邪ひいて寝込んでたし。 https://note.com/kirik/n/n7778b41bb7c8 で、さっそく能登半島では行政分野で「あんな過疎地に支援部隊を1,000人も突っ込めば兵站続かないんだからかなり無理筋だろ」から「津田大介が現地NGOだかからの呼び出しで現地入りしようとして渋滞に巻き込まれたうえ物品を現地調達で物議」など論争が絶えません。 また、羽田での日本航空機と海上保安庁の期待が滑走路上で接触し、奇跡的な乗客全員離脱が世界的に話題になったうえで場所が全日空よりのC滑走路だったこともあり全日空ほか空港職員さんたちも献身的に事態対処されていたことを知り、凄いなと思ったわけです。それ以上に、</description>
+    </item>
   </channel>
 </rss>
