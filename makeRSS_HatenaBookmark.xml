@@ -20494,5 +20494,23 @@
       <pubDate>2024/01/09 13:14</pubDate>
       <description>Free Profile Picture Generator Create a cute avatar from your photo. Powered by DALL-E 3. We&amp;#39;ll analyse your photo, describe it in words, and generate a new image from scratch. Upload one photo Maximum 1 try per day due to high demand. Want a professional headshot? Want your headshot done today? Get your professional headshot, without a physical photo shoot You&amp;#39;re in good company. 3,439,182 AI hea</description>
     </item>
+    <item>
+      <title>モバイルAI端末rabbit r1発表。ウサギAIがアプリを代わりに操作してくれるコンシェルジュ的デバイス | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2024/01/10/2592.html</link>
+      <pubDate>2024/01/10 07:42</pubDate>
+      <description>きゅぶんず @kyubuns うちの妻、ChatGPTから回答もらったら毎回律儀に「ありがとうございました。おかえりください。」って言ってるんだけど、こっくりさんか何かと同じ類だと思ってる？ 2023-11-30 19:36:30 焼き昆布(ﾏﾝﾎﾞｳﾒﾝﾀﾙ) @Wwmajidesorena ハンドクリーム出しすぎた朝 私(…そういやこういう時、「ハンドクリームのお裾分け～」って可愛い子がやってくれてドキドキした、みたいな話あったな…旦那にやってみよ…) 私「はい、ハンドクリームお裾分け～💕」 旦那「ﾋｨｲｲｲｲ…ﾇﾒﾇﾒ…ﾋｨｲｲｲｲ…😭」 私(思ってたのと違うな…) 2023-12-01 13:02:20</description>
+    </item>
+    <item>
+      <title>写真撮影後に表情を入れ替えてしまうGoogle Pixel 8のAI機能「ベストテイク」が物議を醸す</title>
+      <link>https://gigazine.net/news/20240110-google-pixel-8-best-take/</link>
+      <pubDate>2024/01/10 07:01</pubDate>
+      <description>BigQueryがDocument AIを統合。請求書など画像データの内容をSQLで検索可能に、AIが画像から項目や数値を自動抽出 Google Cloudは、大規模並列データ処理サービスのBigQueryに、画像データから自動的に内容を抽出するAI機能「Document AI」を統合したと発表しました。 Document AIは、請求書や領収書、パスポート、契約書といったドキュメントの画像データを与えると、その項目と内容を生成AIによって自動的に抽出する機能を提供します。 BigQueryがDocument AIを統合することで、BigQueryからSQL文を用いてドキュメントの画像データ群に対して問い合わせが可能になります。 例えば、Google Cloud Storageに請求書の画像スキャンをまとめて保存しておき、BigQueryで今月の日付の請求書の合計金額をSQLで求める、など</description>
+    </item>
+    <item>
+      <title>独シーメンス、アプリ開発ツールに生成AI AWSと連携 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF090PR0Z00C24A1000000/</link>
+      <pubDate>2024/01/09 16:46</pubDate>
+      <description>深層モデルのパラメータを一列に並べてベクトルにします。このベクトルは大規模なモデルであれば何十億次元にもなります。一見、意味のない数値の羅列のようですが、このベクトルはベクトルとして深い意味があることが分かってきています。例えば、 と を異なるパラメータベクトルとすると、 や をパラメータとして持つモデルはちゃんと機能します。本稿では、このようなモデルパラメータの算術を用いた手法とその背後にある理論について解説します。 モデルスープ タスクベクトル モデルパラメータとニューラルタンジェントカーネル おわりに モデルスープ モデルスープ [Wortsman+ ICML 2022] は複数のモデルパラメータを平均することで性能を上げる手法です。事前学習モデル からはじめて、様々なハイパーパラメータで訓練した結果のパラメータを とします。これらを平均したベクトル は個々のモデルよりも性能が高く、</description>
+    </item>
   </channel>
 </rss>
