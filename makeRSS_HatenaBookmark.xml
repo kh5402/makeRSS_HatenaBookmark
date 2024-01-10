@@ -20614,5 +20614,23 @@
       <pubDate>2024/01/10 10:35</pubDate>
       <description>&amp;gt;&amp;gt;さくらインターネットの採用情報を見る &amp;gt;&amp;gt;さくらインターネットの採用情報を見る 睡眠時無呼吸症候群になった。 睡眠時無呼吸症候群（重症）と診断され、この夏からCPAP（シーパップ）治療を続けている。簡単に説明すると、機械装置で鼻から空気を送り込むことで気道を開き、寝ている間に無呼吸状態にならないようにする治療法だ。鼻に酸素ボンベを装着しているようなイメージ（くわしくはネットで調べてみてください）。 睡眠時無呼吸症候群の原因は不明だ。「肥満」や「鼻の穴が狭い」といった明確な要因がないため、「ストレス」が原因ということになっている。公式には、家庭ではノー・ストレス状態ということになっているので、ストレスを蓄積しているのはもっぱら仕事や職場環境になる。仕事や職場で蓄積したストレスで心身の調子を崩している人は多い。より深刻な病気を患う人もいる。最悪、命を落としてしまう事態もある。 &amp;gt;&amp;gt;さくらイ</description>
     </item>
+    <item>
+      <title>AIの力が対戦ゲームに嵐呼ぶ？MSIが『LoL』プレイ時に敵の出現予測位置を示す最新モニター発表―他作品にも学習で対応可能 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2024/01/10/137378.html</link>
+      <pubDate>2024/01/10 14:14</pubDate>
+      <description>こんにちは、ミラティブ菅谷です。ミラティブではUnityチームで定期的に勉強会を行っています。今回はその取り組みの一つとして行ったGodot勉強会について紹介します。Unityエンジニアから見たGodotの特徴や触ってみての感想を記載しました。 背景：Unityライセンス体系の変更 2023年9月、Unityはライセンス体系の変更を発表しました。この変更は、多くのUnityユーザーに影響を与え、さまざまなゲームエンジンに関する議論を促しました。ミラティブのUnityチームもこの動きに注目し、ゲームエンジンの多様化に関する議論を行いました。最終的にライセンス体系は再変更されたため、ミラティブでもUnityからの移行は見送りとなりましたが、この話題をきっかけに他のゲームエンジンへの理解を深めることでUnityの長所と短所をより明確に把握することが必要であるとの結論に至りました。 Godot選択</description>
+    </item>
+    <item>
+      <title>SteamにてAI技術利用のゲームは「大半がリリース可能」に。新たな審査方法などを暫定的に導入 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20240110-278495/</link>
+      <pubDate>2024/01/10 13:21</pubDate>
+      <description>「バイトル」などの求人情報サイトを運営するディップ（東京都港区）は1月10日、生成AIを活用した闇バイト検知ツール「闇バイトチェックAI」を発表した。社内ツールとして活用し、審査の効率化につなげる。 SNSやネット掲示板で公開されている事例データを用いた少量データ学習（少ないデータを効率的に活用する機械学習）により、求人情報から闇バイトの特徴を検知する。従来の目視審査に比べ、80％程度の時間削減を見込んでいるという。 ただし、目視審査やAIによる検知では、仕事の内容を明らかにせずに高額な報酬の支払いを示唆するなど、文章に特徴が現れる求人情報の検出に限られる。このためディップでは、求人サイト上に「闇バイト相談窓口」を1月中に設置。ユーザーからの申告を受け付ける。不審な求人情報については、営業担当を通じ、掲載企業へ確認する方針だ。 特殊詐欺の“受け子”など犯罪の実行役を募集する闇バイトは近年、</description>
+    </item>
+    <item>
+      <title>A Cheat Sheet and Some Recipes For Building Advanced RAG | by Andrei | in LlamaIndex Blog - Freedium</title>
+      <link>https://freedium.cfd/https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b</link>
+      <pubDate>2024/01/08 21:20</pubDate>
+      <description>OpenAIの画像生成AI「DALL·E 3」を用いて、自分の写真をもとに、アバターとして使えるプロフィール用画像を生成してくれる「Free Profile Picture Generator」が登場しました。 Free Profile Picture Generator using DALL-E 3 https://www.headshotpro.com/tools/free-pfp-generator サイトにアクセスすると、どんな画像が作れるのかというサンプルがずらっと並んでいます。 画像を作るには「Upload one photo」のボタンをクリック。 ダイアログが開くのでベースとして使いたい画像を選び、画像のスタイルを「Flat illustration」「3D rendered」「Comic book」「Anime」「Chibi Cartoon」の5つから選びます。今回は「Fl</description>
+    </item>
   </channel>
 </rss>
