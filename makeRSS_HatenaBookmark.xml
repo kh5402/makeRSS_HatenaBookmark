@@ -20512,5 +20512,23 @@
       <pubDate>2024/01/09 16:46</pubDate>
       <description>深層モデルのパラメータを一列に並べてベクトルにします。このベクトルは大規模なモデルであれば何十億次元にもなります。一見、意味のない数値の羅列のようですが、このベクトルはベクトルとして深い意味があることが分かってきています。例えば、 と を異なるパラメータベクトルとすると、 や をパラメータとして持つモデルはちゃんと機能します。本稿では、このようなモデルパラメータの算術を用いた手法とその背後にある理論について解説します。 モデルスープ タスクベクトル モデルパラメータとニューラルタンジェントカーネル おわりに モデルスープ モデルスープ [Wortsman+ ICML 2022] は複数のモデルパラメータを平均することで性能を上げる手法です。事前学習モデル からはじめて、様々なハイパーパラメータで訓練した結果のパラメータを とします。これらを平均したベクトル は個々のモデルよりも性能が高く、</description>
     </item>
+    <item>
+      <title>[スタパ齋藤のApple野郎] 画像生成AI「Midjourney」の最新バージョンがスゴい！　劇的に変わったポイントは!?</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1559594.html</link>
+      <pubDate>2024/01/10 07:42</pubDate>
+      <description>AIハードウェアスタートアップのrabbitが、モバイルAI端末rabbit r1を発表しました。 様々なアプリやサービスを学習したAIが、ユーザーの指示に応えてかわりに操作して用事を済ませてくれる、執事かコンシェルジュのような発想の製品です。</description>
+    </item>
+    <item>
+      <title>【2023年12月前半】フフッとなったお気に入りツイート</title>
+      <link>https://togetter.com/li/2291663</link>
+      <pubDate>2024/01/10 07:15</pubDate>
+      <description>2023年10月に発売されたGoogleの純正スマートフォン「Google Pixel 8」と「Google Pixel 8 Pro」には、被写体の人物それぞれのベストな表情を選択して、1枚の集合写真に合成するAI編集機能「ベストテイク」が搭載されています。そんな「ベストテイク」をめぐって、「本物の写真とは何か」という議論が巻き起こっています。 How to Swap Faces Using the Google Pixel Best Take AI Feature | nextpit https://www.nextpit.com/how-to-swap-faces-pixel-best-take-ai-feature Google Pixel 8&amp;#39;s AI Features Start Conversation on Perfection | PetaPixel https://pet</description>
+    </item>
+    <item>
+      <title>BigQueryがDocument AIを統合。請求書など画像データの内容をSQLで検索可能に、AIが画像から項目や数値を自動抽出</title>
+      <link>https://www.publickey1.jp/blog/24/bigquerydocument_aisqlai.html</link>
+      <pubDate>2024/01/09 23:39</pubDate>
+      <description>とある個人ユーザーが2月に開催するAWS勉強会に、2000人以上もの参加登録が殺到し、クラウド界隈で大きな話題となっている。勉強会のテーマは「AWSコストの削減」。物価高や為替の影響で、クラウドユーザーの関心軸は今流行の生成AIよりコスト削減に向かっている。 5年ぶりのAWS re:Inventで感じた生成AI一辺倒の違和感 昨年末に訪れたAWS re:Inventで強く感じた違和感は、AWSの生成AIへの傾倒ぶりである。私が執筆した基調講演のレポートを読んでいただければわかるとおり、内容の8割が生成AIにフォーカスしていたといっても過言ではない。もちろん、コロナ渦においてもAWS re:Inventにオンライン参加していたが、今回の対面開催の参加で以前のAWSとの大きな違いを感じた。「はて、AWSってこんなにAIべったりな会社だったっけ？」と。 今回、AWS re:Inventで発表され</description>
+    </item>
   </channel>
 </rss>
