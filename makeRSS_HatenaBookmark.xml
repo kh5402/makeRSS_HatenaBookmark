@@ -20845,5 +20845,38 @@
       <pubDate>2024/01/10 13:16</pubDate>
       <description>「M2UGen」の概要をまとめました。 1. M2UGen「M2UGen」は、テキスト・画像・動画からの音楽生成・音楽理解・音楽編集が可能です。 「音楽理解」には「MERT」、「画像理解」には「ViT」、「動画理解」には「ViViT」、「音楽生成」には「MusicGen」「AudioLDM2」を利用し、「アダプタ」や「LLaMA2」と組み合わせることで、複数の能力を持つモデルとなっています。 ・ホーム ・コード ・デモ 2. M2UGen のデータセット「MU-LLaMA」「MPT-7B-Chat」を使用して音楽指向のデータセットを、「BLIP画像キャプションモデル」「VideoMAEキャプションモデル」を使用してキャプションを生成します。 2-1. MUCapsデータセット21966曲、1273.78時間のキャプション生成のためのデータセットです。 ・音楽ファイル → MU-LLaMA</description>
     </item>
+    <item>
+      <title>Bruno Mars、1枚の写真に日本を詰め込みまくってる「AIの描いた絵かと思っちゃった」「呪術読んでて可愛い」</title>
+      <link>https://togetter.com/li/2293085</link>
+      <pubDate>2024/01/11 16:50</pubDate>
+      <description>チームプランは、ChatGPTを使う最大149人までのチームに専用のワークスペースと管理ツールを提供する。チーム内のユーザーは、OpenAIの「GPT-4」「GPT-4 with Vision」「DALL・E 3」を利用できる。また、カスタムAIチャットボット「GPT」を開発することも可能だ。 OpenAIが同日開店した「GPT Store」も利用できる。 関連記事 OpenAI、カスタムAIボットの「GPT Store」開店　収益化プログラムはQ1中に開始 OpenAIは、サブスクユーザーが自作のAIチャットボット「GPT」を公開できるストア「GPT Store」を開店した。利用できるのはサブスクユーザーのみ。第1四半期中に収益化プログラムが開始される見込みだ。 OpenAI、企業向け「ChatGPT Enterprise」提供開始　高速GPT-4でプライバシーも安全 OpenAIはMi</description>
+    </item>
+    <item>
+      <title>Steam、AI技術を使って開発されたゲームの大半がリリース可能に／理解の深まりと、開発者との対話を経た現時点での結論</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1559937.html</link>
+      <pubDate>2024/01/11 09:17</pubDate>
+      <description>世界最大規模のテクノロジー見本市が、アメリカのラスベガスで始まりました。生成AIの利用が世界で急速に拡大していることで、さまざまなAI関連の技術やサービスの展示が注目されています。 アメリカのラスベガスでは9日、国内外から4000社以上が参加し、世界最大規模のテクノロジー見本市、CESが開幕しました。 生成AIのChatGPTが2022年11月に公開されてからこの1年余りで生成AIの利用は世界で急速に拡大しています。 ことしのCESでは「生成AIの先」がキーワードとなっていて、さまざまなAI関連の展示が注目されています。 このうち、アメリカのスタートアップ企業は主に高齢者向けのロボットを展示しています。 人のことばや微妙な表情を生成AIが認識してロボットが自然に会話したり、ほほえみかけたりします。 また、オランダの企業は、声を出すのに障害がある人の声を生成AIによって復元し、会話できるシス</description>
+    </item>
+    <item>
+      <title>警察庁 AI指紋判別の実証実験など 技術導入に複数の事業実施へ | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20240111/k10014316201000.html</link>
+      <pubDate>2024/01/11 06:13</pubDate>
+      <description>1　はじめに 2023年12月20日に文化審議会著作権分科会法制度小委員会（第5回）が開催され、そこで文化庁が「AIと著作権に関する考え方について（素案）」を公表しました（以下「素案」といいます。） 本記事では、素案のうち、まずは「（1）　学習・開発段階」について、私なりに検討をしたいと思います。 なお、2024年1月15日に文化審議会著作権分科会法制度小委員会（第5回）が開催され、そこでさらにバージョンアップされた素案が公表されますので、本記事はそれまでの暫定的な検討ということになります。 ということで、短命な？記事ですが、早めに公開することにも意味があるだろうと思い、公開します。 以下、素案を適宜分割し、引用した上で当該引用部分についてのコメントを記載していきます。また、適宜見出しを付けていきます。 2　素案についての考察 （1）　導入部分 AIと著作権に関する考え方について（素案）</description>
+    </item>
+    <item>
+      <title>M2UGen の概要｜npaka</title>
+      <link>https://note.com/npaka/n/n2fdccb248040</link>
+      <pubDate>2024/01/10 12:49</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c72ee2f44cdd5916048c907fa85fa08d4d6e3f85/height=288;version=1;width=512/https%3A%2F%2Fkaden.watch.impress.co.jp%2Fimg%2Fkdw%2Flist%2F1559%2F474%2Fr_00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>フォルクスワーゲンが対話型AI「ChatGPT」を車載音声アシスタントに統合すると発表</title>
+      <link>https://gigazine.net/news/20240109-volkswagen-chatgpt-voice-assistant-cars/</link>
+      <pubDate>2024/01/09 19:18</pubDate>
+      <description>下部ライトで自機体力を表示する機能も持ち、AIトレーニングアプリで『LoL』以外のタイトルへの対応も可能だといいます。</description>
+    </item>
   </channel>
 </rss>
