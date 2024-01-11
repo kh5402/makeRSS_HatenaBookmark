@@ -20818,5 +20818,32 @@
       <pubDate>2024/01/10 09:11</pubDate>
       <description>弊社では、ユーザの皆様に新しいお絵描き体験をご提供するべく、本機能の開発・リリースを行ってまりいました。しかしながら、リリース後のユーザの皆様からの反響を重く受け止め、本機能の実装を取り下げさせていただくことと致しました。 現時点で、既に、本機能の提供を停止しております（アプリ上で本機能を利用しようとした場合、メンテナンス中と表示されます）。 本機能を起動するためにアプリに追加されたユーザインターフェースについては、今後のアプリのアップデートにおいて削除を行います。 また、本機能の利用にあたっては、プレミアム会員（Windows版の場合は、プロアドオン）の購入が必要とさせて頂いておりました。 本機能を利用するためにプレミアム会員・プロアドオンをご購入頂いた方は、大変お手数をおかけしますが、各アプリストア（App Store、Google PlayあるいはMicrosoft Store）にお</description>
     </item>
+    <item>
+      <title>OpenAI、小規模グループ向けサブスクプラン「チーム」を月額30ドル＠1人で提供開始</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/11/news097.html</link>
+      <pubDate>2024/01/11 09:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8f8d6fef4c18de75755dbf6f8a361b924e384a43/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1559%2F937%2Fsteam1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>世界最大規模のテクノロジー見本市開幕 AI関連技術などに注目 | NHK</title>
+      <link>https://www3.nhk.or.jp/news/html/20240110/k10014315571000.html</link>
+      <pubDate>2024/01/11 06:22</pubDate>
+      <description>OpenAIは、サブスクユーザーが自作のAIチャットボット「GPT」を公開できるストア「GPT Store」を開店した。利用できるのはサブスクユーザーのみ。第1四半期中に収益化プログラムが開始される見込みだ。 米OpenAIは1月10日（現地時間）、4日に開発者に予告したカスタムAIチャットボット「GPTs」のアプリストア「GPT Store」を開店したと発表した。ChatGPTのサブスクリプションユーザーは、GPT Storeで自作GPTを公開でき、公開されているGPTの利用も可能だ。 GPTsは、コーディングの知識がなくてもプロンプトからの指示で対話することで、GPT-4やDALL・E 3を利用したオリジナルGPTを開発できるサービス。昨年11月の立ち上げから約2カ月で既に300万以上のGPTが公開されているという。 GPT Storeには、米AppleのアプリストアApp Store</description>
+    </item>
+    <item>
+      <title>AIを活用し音声のみで操作「rabbit r1」カッコいい筐体はTeenage Engineering</title>
+      <link>https://ascii.jp/elem/000/004/178/4178686/</link>
+      <pubDate>2024/01/10 19:57</pubDate>
+      <description>人工知能（AI）やブロックチェーンの有識者らは9日、アニメなどコンテンツ分野で著作権を守りながら生成AIの活用を促進する団体を設立した。権利者の許諾を受けた素材のみを使う生成AIを人手不足が深刻なアニメの制作現場などに提供する。国内のAIやブロックチェーンの有識者らが「アニメチェーン」準備委員会を立ち上げた。ブロックチェーン開発のTuringum（チューリンガム、東京・港）顧問の三瀬修平氏がプ</description>
+    </item>
+    <item>
+      <title>SNSに投稿したイラストに「AI生成ではないか」の声　ワコム「購入の際にAI生成でないと確認」と説明</title>
+      <link>https://nlab.itmedia.co.jp/nl/articles/2401/10/news103.html</link>
+      <pubDate>2024/01/10 13:16</pubDate>
+      <description>「M2UGen」の概要をまとめました。 1. M2UGen「M2UGen」は、テキスト・画像・動画からの音楽生成・音楽理解・音楽編集が可能です。 「音楽理解」には「MERT」、「画像理解」には「ViT」、「動画理解」には「ViViT」、「音楽生成」には「MusicGen」「AudioLDM2」を利用し、「アダプタ」や「LLaMA2」と組み合わせることで、複数の能力を持つモデルとなっています。 ・ホーム ・コード ・デモ 2. M2UGen のデータセット「MU-LLaMA」「MPT-7B-Chat」を使用して音楽指向のデータセットを、「BLIP画像キャプションモデル」「VideoMAEキャプションモデル」を使用してキャプションを生成します。 2-1. MUCapsデータセット21966曲、1273.78時間のキャプション生成のためのデータセットです。 ・音楽ファイル → MU-LLaMA</description>
+    </item>
   </channel>
 </rss>
