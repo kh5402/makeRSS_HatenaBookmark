@@ -21142,5 +21142,11 @@
       <pubDate>2024/01/11 08:15</pubDate>
       <description>OpenAIが、かねてから予告していたGPT Store をようやく開設しました。 個人や企業が作ったカスタム版ChatGPTであるGPTsを分野ごとにブラウズ・検索して利用でき、自分が作ったGPTを公開することもできます。 現状では有料プランのChatGPT Plus加入ユーザーのみ、メニューの「Explore GPTs」から利用可能です。 ストアといっても利用に別途料金が必要なGPTsは今のところありませんが※、OpenAIは今四半期のうちにも、GPTsが利用された回数に応じて制作者に収益を分配するレベニューシェアを開始予定です。 (※ サードパーティーと接続したGPTsなどでは、チャットの過程で有料サービスに案内されることはあります。) 開設されたばかりのGPT Store でトップにフィーチャーされているのは、 AllTrails 世界中のトレッキングコースやアウトドア体験を場所・</description>
     </item>
+    <item>
+      <title>朝活 振り返り（2023年） - kakakakakku blog</title>
+      <link>https://kakakakakku.hatenablog.com/entry/2024/01/08/105017</link>
+      <pubDate>2024/01/08 17:55</pubDate>
+      <description>機械学習を「社会実装」する際に待ち受けている罠と、その解決方法の考察 (2024年版) です。今回は、生成AI時代とも呼ばれる昨今において、我々は機械学習プロジェクトをどのように捉え、どのように向き合えばよいか？の羅針盤になる内容を盛り込みました。 ※この資料は、東京大学メタバース工学部リスキリング講座プログラム グローバル消費インテリジェンス寄付講座 (GCI) 2023 Winterの講義で使用したものです。 https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2023-winter ※過去に同テーマで講義した際に使用した資料はこちら。 https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-july-2023-version https:/</description>
+    </item>
   </channel>
 </rss>
