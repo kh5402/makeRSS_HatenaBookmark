@@ -21316,5 +21316,20 @@
       <pubDate>2024/01/11 13:04</pubDate>
       <description>育休は子育てに集中するための大切な時間ですが、そこには大きな不安も伴います。その一つが、育休明けに「浦島太郎」状態に陥ること。 私自身、この情報から取り残される不安が最大の悩みでした。 そこで試したのが、情報が集約されるSlack投稿を整理・保存するAIの活用です。このAIは情報を自動で取りに行き、復職後に簡単に確認できる形で整理・保存してくれます。このAIのおかげで、情報断絶の不安から解放される可能性が見えてきました！ ※本記事は、会話型AI構築プラットフォームmiiboを開発する株式会社miiboの提供です 育休と不安の葛藤周囲に育休取ることを伝えると、「仕事は忘れて育児に専念してね！」と温かい言葉をいただきます。その一方で、日々更新される社内やAI関連の最新情報から切り離される不安も同時に膨らんでいきました。ただ情報を見てしまうと仕事モードに戻ってしまう恐れもあり、このジレンマが大き</description>
     </item>
+    <item>
+      <title>育休明けの「浦島太郎」不安をAIで解消したら心がスッと軽くなった話｜Tomohiro Ogawa</title>
+      <link>https://note.com/tomohoga/n/n7884d2504a02</link>
+      <pubDate>2024/01/11 21:05</pubDate>
+      <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 野村総合研究所（NRI）とグループ企業のNRIデジタルは1月11日、2024年春以降にデータ漏えいリスクに対処する「プライベート大規模言語モデル（LLM）」を企業ごとに提供すると発表した。性能と効果はNRIの社内業務で検証済みという。 プライベートLLMは、米OpenAIの「GPT-4」など外部サービス型LLMに対して、ユーザーの機密情報や機微情報のデータを送信してしまいかねないリスクに対応するという。プライベートLLMでは、オープンソース型LLMをNRIのデータセンターのプライベートクラウドサービスや企業のオンプレミス環境で動作させる。機密性の高いデータの漏えいリスクを極少化してLLM学習に用いるとする。これにより金融機関など高次の情</description>
+    </item>
+    <item>
+      <title>筆者が気になる2024年のセキュリティトピック　AIやランサムウェアは今後どうなる？</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2401/09/news006.html</link>
+      <pubDate>2024/01/09 08:14</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4ca75c268b9385180e16c5f1079a3113a3b7ea03/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1559%2F782%2FS00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
