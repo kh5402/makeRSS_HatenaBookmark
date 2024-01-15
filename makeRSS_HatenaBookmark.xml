@@ -21484,5 +21484,17 @@
       <pubDate>2024/01/15 11:23</pubDate>
       <description>最初に この記事は書籍「面倒なことはChatGPTにやらせよう」に載せようと思ったものの、様々な事情で載せれなかった数々のネタの供養となります。書籍に関しては、以下の記事参照ください。 特にこのネタは、編集者いわく「絶対ダメ！」といわれた内容です。ブログに載せるのはOKとのことでしたので、ここで公開いたします。成仏しろよ。 ドラえもんとのび太のどちらがエロいかChatGPTに聞いてみる 内容としては、データの可視化例として、私が過去に個人的に実施したデータ分析をChatGPTにやらせてみるという内容となります。 具体的には、漫画「ドラえもん」の単行本全45巻で「ドラえもん」と「のび太」が行った変態的行為を集計して、どちらがより変態的なのかを判断するというものです。データは、GitHubのリポジトリにアップロードしてあるcsvデータ「doralysis.csv」を使用します。 中身は以下のよ</description>
     </item>
+    <item>
+      <title>Appleが組織再編で121人いたAIチームにオフィス移転を強制、拒否すれば解雇</title>
+      <link>https://gigazine.net/news/20240115-apple-shutting-san-diego-ai-team/</link>
+      <pubDate>2024/01/15 11:08</pubDate>
+      <description>ただ、「危害を加えてはならない」という言葉が、従来のポリシーに記されていた「軍事・戦争用途」での使用禁止も含むのかとの問いに対しては明言せず「軍によるものも含め、『武器の開発や使用、他者への危害、財産の破壊、サービスやシステムの安全保障を侵害する不正な活動』に対するわれわれの技術の使用は認められない」との返答でした。 OpenAIからすれば、これまでポリシーの使用禁止リストに「軍事・戦争」の明記があったことで、契約額が高額になる国防総省など政府関連の仕事を獲得することができなかったと考えられ、改訂によってその道が開かれる可能性が考えられます。 2022年にOpenAIが発表した論文の筆頭著者でサイバーセキュリティ企業Trail of BitsのエンジニアリングディレクターであるHeidy Khlaaf氏は、The Interceptに、新しいポリシーは安全性よりも合法性を重視したように見え</description>
+    </item>
+    <item>
+      <title>Transformerとは何か？ 「ChatGPT」や「Gemini」を生み出した超重要技術の進化</title>
+      <link>https://www.sbbit.jp/article/cont1/130017</link>
+      <pubDate>2024/01/15 07:35</pubDate>
+      <description>OpenAIが2024年1月10日にポリシー変更を行い、軍事・戦争目的への使用を禁止することを明示した一文を削除していたことがわかりました。 Usage policies https://openai.com/policies/usage-policies OpenAI Quietly Deletes Ban on Using ChatGPT for “Military and Warfare” https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/ OpenAI&amp;#39;s policy no longer explicitly bans the use of its technology for &amp;#39;military and warfare&amp;#39; https://www.engadget.com/openais-policy</description>
+    </item>
   </channel>
 </rss>
