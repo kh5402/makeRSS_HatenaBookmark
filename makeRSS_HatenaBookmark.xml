@@ -21472,5 +21472,17 @@
       <pubDate>2024/01/12 18:06</pubDate>
       <description>マイクロソフトがアップルを抜いて時価総額の世界首位となった/Jeenah Moon/Bloomberg/Getty Images ニューヨーク（ＣＮＮ） 米マイクロソフト（ＭＳ）が時価総額世界一の座に返り咲いた。 同社の株価は１２日、３８８．４７ドルで終了。時価総額は２兆８９００億ドル（約４１９兆円）となった。一方でアップルの株価は１８５．９２ドルで終了し、時価総額は２兆８７００億ドルだった。 過去１０年間の大半で、ＭＳはアップルの後塵（こうじん）を拝していた。 時価総額首位の奪還には、生成ＡＩ（人工知能）の成功が寄与した。 昨年、ＭＳのナデラ最高経営責任者（ＣＥＯ）は、ＡＩ分野への巨額の投資を敢行。ライバル企業に先駆け、自社製品に対話型ＡＩ「チャットＧＰＴ」のようなツールを導入するなどした。 これに対しアップルは、現在多くの問題に直面している。具体的には主力商品のスマートフォン「ｉＰｈｏ</description>
     </item>
+    <item>
+      <title>OpenAI、利用ポリシーの禁止事項から「軍事・戦争用途」文言消す。兵器用コード生成など可能になると専門家指摘 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2024/01/15/2622.html</link>
+      <pubDate>2024/01/15 11:34</pubDate>
+      <description>OpenAIが2024年1月10日にポリシー変更を行い、軍事・戦争目的への使用を禁止することを明示した一文を削除していたことがわかりました。 Usage policies https://openai.com/policies/usage-policies OpenAI Quietly Deletes Ban on Using ChatGPT for “Military and Warfare” https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/ OpenAI&amp;#39;s policy no longer explicitly bans the use of its technology for &amp;#39;military and warfare&amp;#39; https://www.engadget.com/openais-policy</description>
+    </item>
+    <item>
+      <title>Amazonに「申し訳ありませんがこのリクエストはOpenAIの使用ポリシーに反するためお応えできません」という名前の製品があふれかえる</title>
+      <link>https://gigazine.net/news/20240115-amazon-openai-use-policy/</link>
+      <pubDate>2024/01/15 11:23</pubDate>
+      <description>最初に この記事は書籍「面倒なことはChatGPTにやらせよう」に載せようと思ったものの、様々な事情で載せれなかった数々のネタの供養となります。書籍に関しては、以下の記事参照ください。 特にこのネタは、編集者いわく「絶対ダメ！」といわれた内容です。ブログに載せるのはOKとのことでしたので、ここで公開いたします。成仏しろよ。 ドラえもんとのび太のどちらがエロいかChatGPTに聞いてみる 内容としては、データの可視化例として、私が過去に個人的に実施したデータ分析をChatGPTにやらせてみるという内容となります。 具体的には、漫画「ドラえもん」の単行本全45巻で「ドラえもん」と「のび太」が行った変態的行為を集計して、どちらがより変態的なのかを判断するというものです。データは、GitHubのリポジトリにアップロードしてあるcsvデータ「doralysis.csv」を使用します。 中身は以下のよ</description>
+    </item>
   </channel>
 </rss>
