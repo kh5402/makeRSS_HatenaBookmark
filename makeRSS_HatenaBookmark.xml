@@ -21448,5 +21448,11 @@
       <pubDate>2024/01/14 15:18</pubDate>
       <description>Home プラグイン（VST AudioUnits AAX） EQの常識を覆す画期的なイコライザ、AIが調整すべき周波数帯を自動で割り出してくれるNew EQシリーズのスゴさ プラグインメーカー、Sound MagicがNeo EQというシリーズのEQプラグインを出しているのをご存じでしょうか？これは従来のパラメトリックEQ/ダイナミックEQの概念である「周波数を調整して、Qを調整」した上で、そのゲインを上げるか下げるか調整するという考え方を抜本的に覆すもの。プラグイン側が素材の音を聴いたうえで、調整すべき周波数やQをAIが自動的に割り出してくれるので、ユーザーは単に上げるか下げるかすれば、いい感じに処理してくれるというものとなっています。 現在でているNeo EQシリーズは第3世代になったもので、もっとも基本となる製品でるNeo EQ Violet、複数の楽器が混じった音にも効率よく対応</description>
     </item>
+    <item>
+      <title>OpenAIがChatGPTのポリシーから「軍事・戦争目的への使用禁止」という文言を削除</title>
+      <link>https://gigazine.net/news/20240115-openai-chatgpt-policy-for-military-and-warfare/</link>
+      <pubDate>2024/01/15 12:00</pubDate>
+      <description>Amazonでは、便利な製品が販売されている一方で、詐欺商品や粗悪品も一部販売されています。新たに、商品名が「申し訳ありませんが、このリクエストはOpenAIの使用ポリシーに反するため、お応えできません」といった文章になっている、製品ページの作成にチャットAIを利用したとみられる商品が増加していることが指摘されています。 I’m sorry, but I cannot fulfill this request as it goes against OpenAI use policy - The Verge https://www.theverge.com/2024/1/12/24036156/openai-policy-amazon-ai-listings Lazy use of AI leads to Amazon products called “I cannot fulfill th</description>
+    </item>
   </channel>
 </rss>
