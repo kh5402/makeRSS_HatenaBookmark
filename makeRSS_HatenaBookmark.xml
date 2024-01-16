@@ -21697,5 +21697,26 @@
       <pubDate>2024/01/09 20:01</pubDate>
       <description>Google DeepMindは、大規模言語モデル（LLM）を利用した新手法「FunSearch」を用いて、数理科学において長年の未解決問題である「cap set（キャップ集合）問題」の新しい解を発見した。さらに、現実世界で多様な応用が可能な「ビンパッキング（箱詰め）問題」の、より効果的なアルゴリズムも見つけた。この研究は2023年12月14日付で『Nature』に掲載され、科学や数学の未解決問題に対して、LLMを使って新しい発見をした初めての研究例になるという。 LLMは概念を組み合わせることに優れており、読み書きやコーディングができて、問題解決を支援する便利なアシスタントだ。しかし、LLMはまるで「幻覚」を見たかのように、事実とは異なる情報をもっともらしく生成して出力することがあるという点が明らかになっており、LLMを使用して立証可能な正しい発見をすることは困難だ。 そこで研究者らは、</description>
     </item>
+    <item>
+      <title>SpaceXが農業機械メーカーのDeereと契約を締結、農村部のトラクターや収穫機などでインターネット接続が可能に</title>
+      <link>https://gigazine.net/news/20240116-spacex-deere/</link>
+      <pubDate>2024/01/16 12:31</pubDate>
+      <description>1つのGPU／CPUで推論可能な超軽量LLM「tsuzumi」を24年3月から提供へ：学習コストは「GPT-3」の300分の1に（1/2 ページ） NTTが、独自開発した大規模言語モデル（LLM）「tsuzumi」を2024年3月から提供開始する。tsuzumiは、パラメーターサイズが6億または70億と軽量でありながら、世界トップクラスの日本語処理性能を持つLLMだ。 NTTは2023年11月、同社が独自開発した大規模言語モデル（LLM）「tsuzumi」を2024年3月から提供開始すると発表した。 tsuzumiのコンセプトについて、NTT 執行役員 研究企画部門長の木下真吾氏は「専門知識を持った、パラメーターサイズの小さなLLMの実現だ。tsuzumiは、パラメーターサイズを抑えつつ、言語学習データの質と量を向上させることで、軽量化と専門性を両立した」と語った。 専門知識を持った軽量L</description>
+    </item>
+    <item>
+      <title>生成AI、縦読み漫画の「助っ人」に　制作期間10分の1も - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC095JC0Z00C24A1000000/</link>
+      <pubDate>2024/01/16 06:36</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。1月8日（月）〜1月14日（日）〔2024年1月第2週〕のトップ30です*1。 順位 タイトル 1位 ねんきん定期便「放置」は絶対ダメ！放置した人が辿る悲しい末路 | Mocha（モカ） 2位 マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開 － Publickey 3位 インド民の代表的言い訳とその対応 ①｜インド麦茶 4位 JAL機炎上、そのとき何が 検証・羽田空港衝突事故：日本経済新聞 5位 投資（NISA）怖いですよね、わかります。 6位 「若い頃の自分に教えたいこと」を集めた名言集『他人が幸せに見えたら深夜の松屋で牛丼を食え』 7位 ザ！世界仰天ニュース 1月9日(火)放送分 命をかけた赤木ファイル“文書改ざ</description>
+    </item>
+    <item>
+      <title>Microsoft、個人向け「Copilot Pro」を月額20ドルで提供開始　「Gopilot GPT」も</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/16/news084.html</link>
+      <pubDate>2024/01/16 10:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8e61ff199aa1578ff951ab41ef7871b54e414ae7/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1560%2F956%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
