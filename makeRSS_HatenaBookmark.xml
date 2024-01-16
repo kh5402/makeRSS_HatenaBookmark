@@ -21595,5 +21595,44 @@
       <pubDate>2024/01/14 01:01</pubDate>
       <description>KDDI、社内TeamsにAIチャット導入　生成AIの企業利用、工夫や課題点を聞いた（1/2 ページ） KDDIグループでアジャイル開発事業を行うKDDIアジャイル開発センターは、KDDIが開発した生成AIをコミュニケーションツール「Microsoft Teams」上へ導入している。生成AIの社内活用のための工夫や、課題などを聞いた。 国内通信大手のKDDIでは、コミュニケーションツール「Microsoft Teams」上に自社開発したAIチャットを導入しており、社員1万人が日々利用している。このAIチャットは「KDDI AI-Chat for Teams」と呼ばれ、2023年8月に業務へと導入。社員が企画のアイデア出しや制作業務支援、文書作成支援などの業務効率改善・AIスキル向上に使えるようにしていた。 以前はWebブラウザ上でのみ提供していたが、毎日使うツールであるTeamsで使えるよ</description>
     </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2024年1月第2週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2024/01/16/115622</link>
+      <pubDate>2024/01/16 11:57</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 Twitter: ＠shiropen2 米Google Researchや米MIT CSAILに所属する研究者らが開発した論文「Learning Vision from Models Rivals Learning Vision from Data」は、合成画像と合成キャプションから視覚表現を学習するアプローチを提案した研究報告である。「SynCLR」と呼ばれ、実データを使用せずに、最先端の視覚表現学習手法と同等の視覚表現を学習できる。 表現学習は、生データ（多くの場合ラベルなし）から情報を抽出し整理するプロセスである。現在の最も優れた視覚表現学習手法は、大規模な実データセットに</description>
+    </item>
+    <item>
+      <title>LLMのプロンプトをCI/CDで評価する。promptfooを使って - Gunosy Tech Blog</title>
+      <link>https://tech.gunosy.io/entry/promptfoo</link>
+      <pubDate>2024/01/16 10:43</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/539a99ce03218256ebd9575311a0374656c4ead8/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1561%2F095%2F001.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>既存の電波望遠鏡群に便乗して地球外生命体を探査するプロジェクト「COSMIC」とは何なのか？</title>
+      <link>https://gigazine.net/news/20240115-cosmic-seti-institute-alien-search/</link>
+      <pubDate>2024/01/15 23:54</pubDate>
+      <description>As we kick off a new year, we’re thrilled to see people increasingly using and loving Microsoft Copilot for work and life. Our goal is to empower every person and every organization on the planet to achieve more by bringing Copilot, the everyday AI companion, to millions of people around the world. We have reached another milestone in this mission with more than 5 billion chats and more than 5 bil</description>
+    </item>
+    <item>
+      <title>どうなる？ 2024年のAI ～ChatGPTと新春対談して見える現在位置と未来【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/1560860.html</link>
+      <pubDate>2024/01/15 18:07</pubDate>
+      <description>政治家が「何を根拠に支持or不支持されているのかを明らかにする」をコンセプトにした口コミ情報サイト「政治家ログ」が登場しました。 政治家ログ https://seijikalog.org/ サイトの見た目はこんな感じ。記事作成時点では各政党の党首のデータのみが並んでいます。 リストの政治家名をクリックすると個別ページに遷移します。 岸田文雄首相の個別ページはこんな感じ。氏名、所属政党名、議院、政治家ログでの支持率といった情報と、Wikipediaから引用された概要が並んだ下に、ユーザーが投稿した称賛・批判の口コミの見出しが表示されます。なお、口コミはデフォルトで称賛コメントが表示される仕様です。 「批判」はこんな感じ。口コミの見出しをクリックすると詳細な内容が表示されます。 一例として、岸田首相への批判口コミ「政策決定の透明性不足と国民との対話の欠如」の内容はこんな感じ。口コミに対しては反</description>
+    </item>
+    <item>
+      <title>AIマネジメントシステムの国際規格が発行されました （METI/経済産業省）</title>
+      <link>https://www.meti.go.jp/press/2023/01/20240115001/20240115001.html</link>
+      <pubDate>2024/01/15 18:28</pubDate>
+      <description>テクノエッジ編集部では、生成AIグラビア実践ワークショップ第4回を開催します。講師は、人気連載「生成AIグラビアをグラビアカメラマンが作るとどうなる？」の著者である西川和久さんです。 高価なゲーミングPCがなくても自分で高速な画像生成ができるサービス「生成AI GO」を無料で使いながら、生成AIに関する知見とグラビアカメラマンとしての豊かな経験から得られた最新かつ実践的なテクニックを学べます。 なお、ワークショップ内で使用するプロンプトは、受講者向けにドキュメントとして公開し、その場でコピペするだけで画像生成を体験できる、非常に簡単な仕組み。生成した画像はその場で自分のパソコンに保存できます。 第4回は、1月23日、オンラインにて開催いたします。なお、今回お申し込みいただいた方は、第2回の動画アーカイブを視聴いただけます。 グラビアカメラマンが教える、生成AIグラビア実践ワークショップ 申</description>
+    </item>
+    <item>
+      <title>AIと恋愛できるiOSアプリ「恋するAI」　マッチングアプリ「タップル」提供元が開発 「少子化問題を解決したい」　</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/15/news164.html</link>
+      <pubDate>2024/01/15 18:50</pubDate>
+      <description>マッチングアプリ「タップル」を展開する株式会社タップルが、AIパートナーとの恋愛を楽しめるアプリ「恋するAI」（iOSのみ対応）を発表した。 アプリでは、ユーザーが22歳の女性という設定のAIパートナー「アイ」とのコミュニケーションを通じて、親密な関係をつくる過程を仮想的に体験できるという。 アイの音声は、『ラブライブ！サンシャイン!!』桜内梨子役などで知られる声優・逢田梨香子さんが担当。 機械が生成した音声を、AIが声優の音声に変換することで、アプリ内全ての対話をフルボイスで楽しめる。 AIが感情やユーザーの行動を記録、性格や親密度が変化 「恋するAI」に使用されているAIは、ユーザーの発言を学習する記憶機能に特化。 AIがユーザーとの対話を通じて学び、記憶した好みや習慣に基づいて会話内容を生成するため、より深いコミュニケーションを取ることができるという。 また、「恋するAI」の行動や対</description>
+    </item>
   </channel>
 </rss>
