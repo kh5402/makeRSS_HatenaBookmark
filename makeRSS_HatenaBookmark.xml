@@ -21877,5 +21877,41 @@
       <pubDate>2024/01/16 11:42</pubDate>
       <description>Microsoftが個人向け「Copilot Pro」をリリース　優先アクセス権やMicrosoft 365との連携機能などが付いて月額3200円 Microsoftが、個人向けに「Copilot」の有料サブスクリプションサービスを開始した。無料版よりも処理の優先度を上げてもらえる他、Microsoft 365のデスクトップアプリとの連携機能などを利用できるようになる。 Microsoftは1月15日（米国太平洋時間）、日本を含む15カ国において有料サブスクリプション方式の生成AIサービス「Copilot Pro」の提供を開始した。日本における月額料金は3200円（税込み）で、利用には「Microsoftアカウント」が必要となる。Microsoft 365 Personal／Familyと組み合わせて使う場合は、有効なMicrosoft 365の契約が別途必要となる。</description>
     </item>
+    <item>
+      <title>Incident Response Meetup#1(2024/01)に参加した｜maru</title>
+      <link>https://sizu.me/maruloop/posts/b0z2r0tw3v2o</link>
+      <pubDate>2024/01/17 11:22</pubDate>
+      <description>飛んでくる「マサカリ」をどう受け止めるか。鹿野壮が実践する「アウトプットを守る」3箇条 2024年1月17日 フロントエンドエンジニア 鹿野 壮 九州大学芸術工学部音響設計学科卒業。現在は株式会社マネーフォワードで、フロントエンドチームのリーダーをしている。とくにTypeScript・CSSが好きで、暇があればコードを書いている。勉強会・技術SNS・Twitterなどで積極的に技術情報を発信中。 CSS Nite 2017〜2019ベストセッション受賞。TechFeed Pro公認エキスパート アウトプットをするときの悩みとしてよく聞くのが、アウトプットをしたいが「マサカリ」が怖くてできない、ということです。 私自身も、アウトプットを始めたころは、そういった「マサカリ」に対して悩み、アウトプットや人間関係自体が怖くなることがありました。今でも「マサカリ」は怖いですが、アウトプットの品質や「</description>
+    </item>
+    <item>
+      <title>ドコモ、メタバース空間内のNPCをテキスト入力のみで自動生成する生成AIを開発</title>
+      <link>https://japan.cnet.com/article/35213933/</link>
+      <pubDate>2024/01/17 07:23</pubDate>
+      <description>はじめに こんにちは、ML・データ部MLOpsブロックの岡本です。 MLOpsブロックでは機械学習モデルの実験基盤の作成、機械学習モデルを組み込んだAPI・Batchの開発・運用・保守を行なっています。APIを開発する際には負荷試験を実施し、本番環境で運用する際に求められるスループット・レイテンシを達成できるか確認します。 MLOpsブロックでの従来の負荷試験実施には人手を要する定型的な作業が複数ありました。また頻繁に行う作業でもありトイルとなっていました。 本記事ではMLOpsブロックで抱えていた負荷試験実施の課題と、解決のために開発したOSSのCLIツール、Gatling Commanderについて紹介します。Gatling Commanderが負荷試験の実施におけるトイル削減の一助になれば幸いです。 github.com 目次 はじめに 目次 背景・課題 従来の負荷試験実施の方法 分</description>
+    </item>
+    <item>
+      <title>頭が真っ白になる恐怖 - 叡智の三猿</title>
+      <link>https://www.three-wise-monkeys.com/entry/2024/01/17/080000</link>
+      <pubDate>2024/01/17 08:08</pubDate>
+      <description>本連載「Stable Diffusion入門 from Thailand」は、2024年に入って1回目。今年も「Stable Diffusion」をメインに、画像生成AI周辺の話題について入門者視点でお伝えしていきたい。 今回の話題は、Stable Diffusionを手軽に使えるユーザーインターフェースの「Fooocus」。12月13日にリリースされた新バージョン「Fooocus 2.1.831」には、画像をアップロードするとテキストプロンプト（呪文）を生成する「Describe」機能が追加されている。 画像をドラッグ＆ドロップしてボタンを押すだけ</description>
+    </item>
+    <item>
+      <title>AI新興企業、45億円調達　NTTやKDDI、ソニー出資 ｜ 共同通信</title>
+      <link>https://nordot.app/1119990033868751133</link>
+      <pubDate>2024/01/17 07:34</pubDate>
+      <description>2023年の流行語大賞にも選ばれた「生成AI」。 ChatGPTだけでなく、Google BardやClaude2など似たようなAIチャットボットも登場し、性能も日に日に上がっている感覚がありますね。 しかし、結局どれが一番賢いんだろう？と思いつつひとまずChatGPTを使っている方も多いはず。 そこで、今どのチャットAIが一番頭良いのか白黒つけてしまおう！ということで、ちょうど週末に行われた大学入試共通テスト2024を使って学力テストを行いました！ 参加する学生は、 ①GPT-4くん ②Google Bardちゃん ③Claude2さん の三名です 果たして誰が学力王の座に輝くのか・・・？ 選手入場①GPT-4くん一人目は、皆さんご存じChatGPTです。Open AI予備校に月額＄20の課金して学力武装しています。 特徴としては、プロンプトの研究が進んでおり、画像やPDFファイルの読み</description>
+    </item>
+    <item>
+      <title>マイクロソフトが｢Copilot Pro｣発表。月額3200円でGPT-4の優先利用やWordやPowerPointのAI機能を利用可能</title>
+      <link>https://www.businessinsider.jp/post-281203</link>
+      <pubDate>2024/01/16 18:03</pubDate>
+      <description>【速報＆朗報】GPT Storeが遂に公開 待ちに待ったGPT Storeが遂に公開されました！🔥 公式発表によると、GPT公開からのたった2ヶ月で300万以上のGPTsが作成されているとのこと。 注目ポイント👀 ・毎週Open AIからの注目GPTsが特集される… pic.twitter.com/94WCTnwDiJ — 木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏 (@shota7180) January 10, 2024 ChatGPTには「GPTs」という機能があり、ユーザーがChatGPTを自由にカスタムできます。 さらにGPT StoreではGPTsが公開され、将来的には収益化も可能になる予定です。 AIを使って稼げる時代が、目の前まで来ていますね。 今回は、そんなGPT Storeの中でOpenAI社が開発した公式のGPTsをご紹介します。 生活に役立つ便利な</description>
+    </item>
+    <item>
+      <title>世界の雇用、約4割が影響　AI普及で　IMF報告書（時事通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/d4f193011364b42b62342c3a143e6d443b78435c</link>
+      <pubDate>2024/01/15 20:04</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。1月8日（月）〜1月14日（日）〔2024年1月第2週〕のトップ30です*1。 順位 タイトル 1位 ねんきん定期便「放置」は絶対ダメ！放置した人が辿る悲しい末路 | Mocha（モカ） 2位 マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開 － Publickey 3位 インド民の代表的言い訳とその対応 ①｜インド麦茶 4位 JAL機炎上、そのとき何が 検証・羽田空港衝突事故：日本経済新聞 5位 投資（NISA）怖いですよね、わかります。 6位 「若い頃の自分に教えたいこと」を集めた名言集『他人が幸せに見えたら深夜の松屋で牛丼を食え』 7位 ザ！世界仰天ニュース 1月9日(火)放送分 命をかけた赤木ファイル“文書改ざ</description>
+    </item>
   </channel>
 </rss>
