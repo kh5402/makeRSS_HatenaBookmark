@@ -21826,5 +21826,11 @@
       <pubDate>2024/01/16 10:37</pubDate>
       <description>「Microsoft 365」の「Personal」（年額1万4900円）あるいは「Family」（年額2万1000円）プランに別途加入すれば、Word、Excel（現在は英語のみのプレビュー）、PowerPoint、OneNote、OutlookでCopilotを利用できるようになる。 無料のCopilotとの違いは、以下の3点。 ピーク時でもGPT-4およびGPT-4 Turboに優先的にアクセスできる 別途Microsoft 365に加入していれば、WordやOutlookで利用できる Designer（旧Bing Image Creator）で無料版は1日当たり15ブーストのところ、100ブーストでDALL・E 3を使った画像を生成できる Copilot ProはMicrosoftのWebサイトから購入できる。 関連記事 Microsoft、個人向け「Copilot Pro」を月額</description>
     </item>
+    <item>
+      <title>Go製CLIツールGatling Commanderによる負荷試験実施の自動化 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/automate-loadtest-execution-by-go-based-cli-gatling-commander</link>
+      <pubDate>2024/01/17 11:02</pubDate>
+      <description>本連載「Stable Diffusion入門 from Thailand」は、2024年に入って1回目。今年も「Stable Diffusion」をメインに、画像生成AI周辺の話題について入門者視点でお伝えしていきたい。 今回の話題は、Stable Diffusionを手軽に使えるユーザーインターフェースの「Fooocus」。12月13日にリリースされた新バージョン「Fooocus 2.1.831」には、画像をアップロードするとテキストプロンプト（呪文）を生成する「Describe」機能が追加されている。 画像をドラッグ＆ドロップしてボタンを押すだけ</description>
+    </item>
   </channel>
 </rss>
