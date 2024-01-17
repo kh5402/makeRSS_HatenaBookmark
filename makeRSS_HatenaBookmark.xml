@@ -21832,5 +21832,38 @@
       <pubDate>2024/01/17 11:02</pubDate>
       <description>本連載「Stable Diffusion入門 from Thailand」は、2024年に入って1回目。今年も「Stable Diffusion」をメインに、画像生成AI周辺の話題について入門者視点でお伝えしていきたい。 今回の話題は、Stable Diffusionを手軽に使えるユーザーインターフェースの「Fooocus」。12月13日にリリースされた新バージョン「Fooocus 2.1.831」には、画像をアップロードするとテキストプロンプト（呪文）を生成する「Describe」機能が追加されている。 画像をドラッグ＆ドロップしてボタンを押すだけ</description>
     </item>
+    <item>
+      <title>飛んでくる「マサカリ」をどう受け止めるか。鹿野壮が実践する「アウトプットを守る」3箇条</title>
+      <link>https://levtech.jp/media/article/column/detail_371/</link>
+      <pubDate>2024/01/17 12:27</pubDate>
+      <description>はじめに こんにちは、ML・データ部MLOpsブロックの岡本です。 MLOpsブロックでは機械学習モデルの実験基盤の作成、機械学習モデルを組み込んだAPI・Batchの開発・運用・保守を行なっています。APIを開発する際には負荷試験を実施し、本番環境で運用する際に求められるスループット・レイテンシを達成できるか確認します。 MLOpsブロックでの従来の負荷試験実施には人手を要する定型的な作業が複数ありました。また頻繁に行う作業でもありトイルとなっていました。 本記事ではMLOpsブロックで抱えていた負荷試験実施の課題と、解決のために開発したOSSのCLIツール、Gatling Commanderについて紹介します。Gatling Commanderが負荷試験の実施におけるトイル削減の一助になれば幸いです。 github.com 目次 はじめに 目次 背景・課題 従来の負荷試験実施の方法 分</description>
+    </item>
+    <item>
+      <title>Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした</title>
+      <link>https://ascii.jp/elem/000/004/179/4179424/</link>
+      <pubDate>2024/01/17 09:37</pubDate>
+      <description>2023年の流行語大賞にも選ばれた「生成AI」。 ChatGPTだけでなく、Google BardやClaude2など似たようなAIチャットボットも登場し、性能も日に日に上がっている感覚がありますね。 しかし、結局どれが一番賢いんだろう？と思いつつひとまずChatGPTを使っている方も多いはず。 そこで、今どのチャットAIが一番頭良いのか白黒つけてしまおう！ということで、ちょうど週末に行われた大学入試共通テスト2024を使って学力テストを行いました！ 参加する学生は、 ①GPT-4くん ②Google Bardちゃん ③Claude2さん の三名です 果たして誰が学力王の座に輝くのか・・・？ 選手入場①GPT-4くん一人目は、皆さんご存じChatGPTです。Open AI予備校に月額＄20の課金して学力武装しています。 特徴としては、プロンプトの研究が進んでおり、画像やPDFファイルの読み</description>
+    </item>
+    <item>
+      <title>AIによって全世界で雇用の40％が影響を受ける可能性があるとIMFが警告</title>
+      <link>https://gigazine.net/news/20240116-imf-employ-risk-ai/</link>
+      <pubDate>2024/01/17 07:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/939103ad7a6935da4e46a98c4bf16adf2af9ad7b/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F1561%2F363%2F62.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ワンランク上のチャットBotの作り方 〜ChatGPTに独自機能を実装する方法〜</title>
+      <link>https://codezine.jp/article/detail/18833</link>
+      <pubDate>2024/01/16 13:20</pubDate>
+      <description>Microsoftが生成AI機能が使えるAIアシスタント・Copilotのフル機能版となる「Copilot Pro」を発表しました。月額20ドル(約2900円)で利用可能となっており、最新の大規模言語モデル(LLM)をいち早く利用したり、オリジナルのCopilotを構築したりすることも可能です。 Bringing the full power of Copilot to more people and businesses - The Official Microsoft Blog https://blogs.microsoft.com/blog/2024/01/15/bringing-the-full-power-of-copilot-to-more-people-and-businesses/ Introducing Copilot Pro: Supercharge your Crea</description>
+    </item>
+    <item>
+      <title>Chain-of-Tableを使った表データに対する推論 - Ahogrammer</title>
+      <link>https://hironsan.hatenablog.com/entry/chain-of-table</link>
+      <pubDate>2024/01/16 11:26</pubDate>
+      <description>マイクロソフトは月額3200円の「Copilot Pro」を発表しました。混雑時でも優先的に高性能なAIチャット機能を利用できるほか、WordやPowerPointなどのMicorsoft 365製品のAI機能が利用できるようになります。</description>
+    </item>
   </channel>
 </rss>
