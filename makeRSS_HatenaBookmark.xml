@@ -21865,5 +21865,17 @@
       <pubDate>2024/01/16 11:26</pubDate>
       <description>マイクロソフトは月額3200円の「Copilot Pro」を発表しました。混雑時でも優先的に高性能なAIチャット機能を利用できるほか、WordやPowerPointなどのMicorsoft 365製品のAI機能が利用できるようになります。</description>
     </item>
+    <item>
+      <title>過疎化したメタバースをAIで賑わす、ドコモが手軽にキャラクターを生成できる技術</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/1561363.html</link>
+      <pubDate>2024/01/16 20:59</pubDate>
+      <description>進化を続ける生成AIの最前線、ChatGPT。既に多くの業界で注目される中、まだこの革命的な技術を手にしていないあなたへ。本連載では、具体的なコードを交えながら、ChatGPT APIの可能性とその活用法を徹底解説します。第2回では、ChatGPT APIの公式機能であるFunction Callingを活用し、自らの判断で行動するチャットBotの作り方を紹介します。 自らの判断で&amp;quot;行動&amp;quot;するチャットBotをつくる 前回の記事では、ChatGPT APIを活用して独自の知識を持ったオリジナルのチャットBotの構築方法について説明しました。しかし、自然で人間らしい会話を実現できるという点は、大規模言語モデルが持つ潜在能力のごく一部に過ぎません。今回は、単なる会話AIを超越し、自らの判断で行動するチャットBotの開発方法を詳しくご紹介します。 はじめに、具体例として以下の会話をご覧ください。</description>
+    </item>
+    <item>
+      <title>Pythonの機械学習ライブラリ「PyTorch」に脆弱性　研究者が発見</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2401/16/news070.html</link>
+      <pubDate>2024/01/16 11:42</pubDate>
+      <description>Microsoftが個人向け「Copilot Pro」をリリース　優先アクセス権やMicrosoft 365との連携機能などが付いて月額3200円 Microsoftが、個人向けに「Copilot」の有料サブスクリプションサービスを開始した。無料版よりも処理の優先度を上げてもらえる他、Microsoft 365のデスクトップアプリとの連携機能などを利用できるようになる。 Microsoftは1月15日（米国太平洋時間）、日本を含む15カ国において有料サブスクリプション方式の生成AIサービス「Copilot Pro」の提供を開始した。日本における月額料金は3200円（税込み）で、利用には「Microsoftアカウント」が必要となる。Microsoft 365 Personal／Familyと組み合わせて使う場合は、有効なMicrosoft 365の契約が別途必要となる。</description>
+    </item>
   </channel>
 </rss>
