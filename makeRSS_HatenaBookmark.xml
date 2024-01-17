@@ -21790,5 +21790,41 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2728bb3f67e39d20f810670f27635fefcaf6f266/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F244%2Fimage_top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>【2024年最新】共通テストを色んな生成AIに解かせてみた（ChatGPT vs Bard vs Claude2）｜LifePrompt</title>
+      <link>https://note.com/lifeprompt/n/n87f4d5510100</link>
+      <pubDate>2024/01/17 07:34</pubDate>
+      <description>2024年1月14日、国際通貨基金(IMF)が、「世界の雇用の約40％がAIの台頭によって影響を受ける可能性がある」との分析結果を発表しました。IMFの報告書では、一部の先進国でAIの影響を受ける割合が60％にまで達する可能性があることが示唆されています。 Gen-AI: Artificial Intelligence and the Future of Work https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379 AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. ht</description>
+    </item>
+    <item>
+      <title>MicrosoftがAIアシスタント・Copilotのフル機能版「Copilot Pro」を発表、月額2900円で最新LLMを利用したりオリジナルCopilotを構築したり</title>
+      <link>https://gigazine.net/news/20240116-microsoft-copilot-pro/</link>
+      <pubDate>2024/01/16 21:44</pubDate>
+      <description>テキストからCADデータを自動生成する「Text-to-CAD」α版公開　Zoo：CADプログラムにインポートして編集できる 米国スタートアップ企業のZooは2023年12月19日（米国時間）、テキストプロンプトからCADデータを自動生成する「Text-to-CAD」のα版を公開した。Zooは、テキストから3Dモデルを生成する既存のText-to-3Dモデルとの違いとして、点群データ（ポイントクラウド）を使用せず、B-Rep（※）を生成することを挙げている。 ※注：B-Rep（境界表現）は、頂点、エッジ、面で構成される表面を使用して3Dオブジェクトを簡潔に定義し、その外部形状の輪郭を描く。暗黙的モデリングとは異なり、B-Repはオブジェクトのジオメトリとトポロジーを正確に制御し、正確な寸法と公差が重要な製造プロセスに不可欠な正確かつ効率的な設計変更を容易にする。 既存のText-to-3D</description>
+    </item>
+    <item>
+      <title>Microsoftが個人向け「Copilot Pro」をリリース　優先アクセス権やMicrosoft 365との連携機能などが付いて月額3200円</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2401/16/news131.html</link>
+      <pubDate>2024/01/16 15:00</pubDate>
+      <description>マイクロソフトは月額3200円の「Copilot Pro」を発表しました。混雑時でも優先的に高性能なAIチャット機能を利用できるほか、WordやPowerPointなどのMicorsoft 365製品のAI機能が利用できるようになります。</description>
+    </item>
+    <item>
+      <title>【GPT StoreおすすめランキングTOP17】OpenAI公式の最強GPTs17選の使い方〜実践まで | WEEL</title>
+      <link>https://weel.co.jp/media/gpt-store-openai</link>
+      <pubDate>2024/01/16 08:43</pubDate>
+      <description>米Googleの著名な元研究者、リオン・ジョーンズ氏とデビッド・ハー氏が東京で立ち上げたAI企業Sakana.ai（東京都港区）は1月16日、シリコンバレーのベンチャーキャピタルやNTTグループ、KDDI、ソニーグループなどから45億円の資金を調達したと発表した。 調達元はシリコンバレーのベンチャーキャピタル米Lux Capitalや米Khosla Venturesに加え、日本ではNTTグループ、KDDI、ソニーグループ、ベンチャーキャピタルのみやこキャピタルやジャフコグループなども出資した。Googleで最高AI責任者を務めるジェフ・ディーン氏や、米Hugging Face創業者CEOのクレム・デラング氏、米Scale AI創業者CEOのアレックス・ワン氏といった個人からも出資を受けた。 調達した資金は人材採用に充てる。国内外から優秀なITエンジニア人材を集め、日本に招致するという。さら</description>
+    </item>
+    <item>
+      <title>生成AIをPCにインストールする方法。自分好みのAIがローカルで動く | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2401-how-to-run-generative-ais-locally-on-your-computer/</link>
+      <pubDate>2024/01/16 15:31</pubDate>
+      <description>ユーザーローカルは、論文や記事が、ChatGPTなどの生成AIによって執筆されたものである可能性を瞬時に判定するというサービス「生成AIチェッカー」の無料提供を始めた。 日本語で執筆された文書に対応。専用フォームにテキスト（300文字以上を推奨）を入力するだけで、AIによって生成されたテキストである可能性を、棒グラフと％で提示する。 同社が独自に開発した、生成AI特有の言い回し・語彙の偏りを機械学習で検出するアルゴリズムにより判断しているという。 記者がITmedia NEWSの記事（人が執筆）3本ほどで試してみたところ、どれも「人によって書かれたテキストである可能性が高い」（AI度は5～10％）と判定された一方で、ChatGPTで作成したテキストを2つ入力したところ、1つは「AIによって生成された可能性が高い」（AI度95％）と出たものの、もう1つは、AI度が「30％」と低く出た。 必ず</description>
+    </item>
+    <item>
+      <title>月額20ドルの個人向け「Copilot Pro」が発表、Microsoft 365 Personal/FamilyにもAIを／企業向けも導入ハードルを引き下げ、中小事業者でも気軽に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1561093.html</link>
+      <pubDate>2024/01/16 10:37</pubDate>
+      <description>「Microsoft 365」の「Personal」（年額1万4900円）あるいは「Family」（年額2万1000円）プランに別途加入すれば、Word、Excel（現在は英語のみのプレビュー）、PowerPoint、OneNote、OutlookでCopilotを利用できるようになる。 無料のCopilotとの違いは、以下の3点。 ピーク時でもGPT-4およびGPT-4 Turboに優先的にアクセスできる 別途Microsoft 365に加入していれば、WordやOutlookで利用できる Designer（旧Bing Image Creator）で無料版は1日当たり15ブーストのところ、100ブーストでDALL・E 3を使った画像を生成できる Copilot ProはMicrosoftのWebサイトから購入できる。 関連記事 Microsoft、個人向け「Copilot Pro」を月額</description>
+    </item>
   </channel>
 </rss>
