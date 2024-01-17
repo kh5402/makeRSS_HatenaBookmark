@@ -21988,5 +21988,41 @@
                &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c1587ffee368b7f69a4d9439c261b388f957649d/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F581%2Fimage1.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>芥川賞・九段理江さん　受賞作はチャットGPT駆使「5％くらい文章そのまま」「うまく利用しながら」 - スポニチ Sponichi Annex 芸能</title>
+      <link>https://www.sponichi.co.jp/entertainment/news/2024/01/17/kiji/20240117s00041000521000c.html</link>
+      <pubDate>2024/01/17 22:02</pubDate>
+      <description>SnackTime（東京都港区）は1月17日、電子透かし技術を用いてイラストのAI学習を妨げるサービス「emamori」を正式発表した。無料プランと3つの有料プランを用意している。 emamoriのWebサイトにイラストをアップロードすると、電子透かしやノイズを挿入したデータになり、正確なAI学習を妨げるという。「模倣AIイラストの生成を一定阻止する」としている。 電子透かし技術には、上海交通大学の研究チームが開発したオープンソースの「Mist」を使用した。無料プランではMist v1、有料プランでは上位に当たるMist v2が利用できる。 SnackTimeは「特定のクリエイターのイラストをピンポイントでAI学習され、模倣されるという被害報告も増えている」と指摘。「クリエイターが安心してイラストを世の中に公開できるよう、保護技術Mistを簡単に使用できるWebサービスとしてemamori</description>
+    </item>
+    <item>
+      <title>Stability AI、専用GPU不要のプログラミング向け生成AI「Stable Code 3B」を公開／ラップトップPCでもオフラインでのリアルタイム実行が可能</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1561581.html</link>
+      <pubDate>2024/01/17 16:38</pubDate>
+      <description>セキュリティ会社のTrail of Bitsが、Apple・Qualcomm・AMDのGPU上のプロセスによって作成されたGPUメモリからデータを復元することを可能にする脆弱(ぜいじゃく)性「LeftoverLocals(CVE-2023-4969)」についての調査結果を公表しました。 LeftoverLocals https://leftoverlocals.com/ New Flaw in Apple, AMD, and Qualcomm GPUs Could Expose AI Data - Cyber Kendra https://www.cyberkendra.com/2024/01/LeftoverLocals-flaws-leak-ai-data-via-gpu.html A Flaw in Millions of Apple, AMD, and Qualcomm GPUs</description>
+    </item>
+    <item>
+      <title>Stability AIが新コーディング補助AI「Stable Code 3B」をリリース、少ないパラメーター数ながらMetaの「Code Llama 7B」と同等の性能を発揮</title>
+      <link>https://gigazine.net/news/20240117-stable-code-3b/</link>
+      <pubDate>2024/01/17 18:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/20799d95db9f8d8b468db94e7e4bc89ca4f7aa51/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1561%2F466%2Fstable00.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「生成AIチェッカー」が無償公開 ～生成AIが書いた論文やレポートかどうかを瞬時に判定してくれる／会員登録不要、日本語の論文・レポートに対応</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1561429.html</link>
+      <pubDate>2024/01/17 11:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/15c873d5aeecae5cd962f602c84207da6435f55f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1561%2F542%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ELYZAが公開した日本語LLM「ELYZA-japanese-Llama-2-7b」についての解説 : (3) 英語での性能評価編</title>
+      <link>https://zenn.dev/elyza/articles/ab3749de0ba58b</link>
+      <pubDate>2024/01/17 09:37</pubDate>
+      <description>生成AIの業界団体「Generative AI Japan」発足　ベネッセが発起　マイクロソフト、AWS、Google、オラクルなどの幹部が理事に 生成AIの活用を進める業界団体「Generative AI Japan」が1月17日に発足した。日本の産業界から国への提言などを通し、日本全体の産業競争力を高めていくとしている。 生成AIの活用を進める業界団体「Generative AI Japan」（略称：ジェナイ）が、1月17日に発足した。発起人はベネッセコーポレーションとITコンサルティングのウルシステムズ（東京都中央区）。代表理事は慶應義塾大学医学部の宮田裕章教授と、ベイカレント・コンサルティング（東京都港区）の則武譲二常務執行役員。日本の産業界から国への提言などを通し、日本全体の産業競争力を高めていくとしている。</description>
+    </item>
   </channel>
 </rss>
