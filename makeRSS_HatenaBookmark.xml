@@ -21964,5 +21964,20 @@
       <pubDate>2024/01/17 10:41</pubDate>
       <description>飛んでくる「マサカリ」をどう受け止めるか。鹿野壮が実践する「アウトプットを守る」3箇条 2024年1月17日 フロントエンドエンジニア 鹿野 壮 九州大学芸術工学部音響設計学科卒業。現在は株式会社マネーフォワードで、フロントエンドチームのリーダーをしている。とくにTypeScript・CSSが好きで、暇があればコードを書いている。勉強会・技術SNS・Twitterなどで積極的に技術情報を発信中。 CSS Nite 2017〜2019ベストセッション受賞。TechFeed Pro公認エキスパート アウトプットをするときの悩みとしてよく聞くのが、アウトプットをしたいが「マサカリ」が怖くてできない、ということです。 私自身も、アウトプットを始めたころは、そういった「マサカリ」に対して悩み、アウトプットや人間関係自体が怖くなることがありました。今でも「マサカリ」は怖いですが、アウトプットの品質や「</description>
     </item>
+    <item>
+      <title>Apple・Qualcomm・AMDのGPUからAIとの会話が漏洩する不具合「LeftoverLocals」が発見される</title>
+      <link>https://gigazine.net/news/20240117-leftoverlocals/</link>
+      <pubDate>2024/01/17 17:48</pubDate>
+      <description>2024年1月17日、画像生成AI「Stable Diffusion」の開発などで知られるStability AIが、2023年8月にリリースされた「Stable Code Alpha 3B」に次ぐ新たなコーディング補助AIとして「Stable Code 3B」をリリースすることを発表しました。 Stable Code 3B: Coding on the Edge — Stability AI https://stability.ai/news/stable-code-2024-llm-code-completion-release Today, we announce our first Large Language Model release of 2024: Stable Code 3B. This new LLM is available for non-commercial &amp;amp;</description>
+    </item>
+    <item>
+      <title>MacBook Airでもオフラインで動作するLLM「Stable Code 3B」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/1561466.html</link>
+      <pubDate>2024/01/17 16:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/15c873d5aeecae5cd962f602c84207da6435f55f/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1561%2F542%2F01.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
