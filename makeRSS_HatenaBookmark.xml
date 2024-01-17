@@ -21919,5 +21919,32 @@
       <pubDate>2024/01/17 07:32</pubDate>
       <description>本連載「Stable Diffusion入門 from Thailand」は、2024年に入って1回目。今年も「Stable Diffusion」をメインに、画像生成AI周辺の話題について入門者視点でお伝えしていきたい。 今回の話題は、Stable Diffusionを手軽に使えるユーザーインターフェースの「Fooocus」。12月13日にリリースされた新バージョン「Fooocus 2.1.831」には、画像をアップロードするとテキストプロンプト（呪文）を生成する「Describe」機能が追加されている。 画像をドラッグ＆ドロップしてボタンを押すだけ</description>
     </item>
+    <item>
+      <title>生成AIの業界団体「Generative AI Japan」発足　ベネッセが発起　マイクロソフト、AWS、Google、オラクルなどの幹部が理事に</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/17/news129.html</link>
+      <pubDate>2024/01/17 14:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fbd857edc26559b6207e05b77d4b43b9852b6ebb/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F442%2F02.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Kaggle Grandmaster 分析レポート 2024年 -update版- | ResearchPort [リサーチポート]</title>
+      <link>https://research-p.com/column/1619</link>
+      <pubDate>2024/01/17 08:51</pubDate>
+      <description>はじめに こんにちは、ML・データ部MLOpsブロックの岡本です。 MLOpsブロックでは機械学習モデルの実験基盤の作成、機械学習モデルを組み込んだAPI・Batchの開発・運用・保守を行なっています。APIを開発する際には負荷試験を実施し、本番環境で運用する際に求められるスループット・レイテンシを達成できるか確認します。 MLOpsブロックでの従来の負荷試験実施には人手を要する定型的な作業が複数ありました。また頻繁に行う作業でもありトイルとなっていました。 本記事ではMLOpsブロックで抱えていた負荷試験実施の課題と、解決のために開発したOSSのCLIツール、Gatling Commanderについて紹介します。Gatling Commanderが負荷試験の実施におけるトイル削減の一助になれば幸いです。 github.com 目次 はじめに 目次 背景・課題 従来の負荷試験実施の方法 分</description>
+    </item>
+    <item>
+      <title>生成AIが潜在的に抱える「モデル崩壊」問題が早くも顕在化し始めた</title>
+      <link>https://xtrend.nikkei.com/atcl/contents/18/00079/00235/</link>
+      <pubDate>2024/01/16 09:27</pubDate>
+      <description>ユーザーローカルは、論文や記事が、ChatGPTなどの生成AIによって執筆されたものである可能性を瞬時に判定するというサービス「生成AIチェッカー」の無料提供を始めた。 日本語で執筆された文書に対応。専用フォームにテキスト（300文字以上を推奨）を入力するだけで、AIによって生成されたテキストである可能性を、棒グラフと％で提示する。 同社が独自に開発した、生成AI特有の言い回し・語彙の偏りを機械学習で検出するアルゴリズムにより判断しているという。 記者がITmedia NEWSの記事（人が執筆）3本ほどで試してみたところ、どれも「人によって書かれたテキストである可能性が高い」（AI度は5～10％）と判定された一方で、ChatGPTで作成したテキストを2つ入力したところ、1つは「AIによって生成された可能性が高い」（AI度95％）と出たものの、もう1つは、AI度が「30％」と低く出た。 必ず</description>
+    </item>
+    <item>
+      <title>生成AIチェッカー</title>
+      <link>https://ai-tool.userlocal.jp/ai_classifier</link>
+      <pubDate>2024/01/12 12:24</pubDate>
+      <description>主にAppleの音声アシスタント「Siri」の開発に携わるAIチームのメンバー全員が、オフィス移転を迫られていることがわかりました。メンバーは現在のカリフォルニア州サンディエゴから約2000km離れたテキサス州オースティンの事務所へ移動するよう求められており、従わない場合は解雇されると伝えられたとのことです。 Apple to Shutter 121-Person San Diego AI Team in Reorganization - Bloomberg https://www.bloomberg.com/news/articles/2024-01-14/apple-to-shutter-121-person-san-diego-ai-team-in-reorganization Apple asks 121 San Diego employees to relocate to Aus</description>
+    </item>
   </channel>
 </rss>
