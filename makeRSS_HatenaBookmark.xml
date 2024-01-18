@@ -22219,5 +22219,47 @@
       <pubDate>2024/01/17 23:16</pubDate>
       <description>この人の本を7冊読んだ。難解でよく分からないが、「真実」が宿っている気もする。その名は郡司ペギオ幸夫さん。専門はいちおう生命基礎論だが、触手は哲学、複雑系、量子論、アート……へと及ぶ異才だ。提唱する「天然知能」を手がかりに、AI（人工知能）と人間について聞いた。 ぐんじ・ぺぎお・ゆきお　1959年生まれ。数理生物学者。神戸大学理学部地球惑星科学科（当時）教授を経て、早稲田大学基幹理工学部表現工学科教授。主著に「天然知能」「創造性はどこからやってくるか」。 ――AIをめぐる最近の状況を、どう見ていますか。 「AIそれ自体より、『AIがあまりにも素晴らしくて、それによって世界が全て理解できる』と思い込んでしまう人が増えていることが、怖いですね」 「物理を学ぶ学生たちから以前、機械論的な理解とは違う『何か』を考えたい、さりとて物理学は世界をうまく記述していて人間は恩恵を受けているが、どう思うか？</description>
     </item>
+    <item>
+      <title>Google DeepMindが数学オリンピックレベルの幾何学問題を解けるAI「AlphaGeometry」を発表、人間の金メダリストに近い性能を発揮</title>
+      <link>https://gigazine.net/news/20240118-google-deepmind-alphagemetry/</link>
+      <pubDate>2024/01/18 12:25</pubDate>
+      <description>『ブループリント』などの著者で知られる社会学者のニコラス・クリスタキスは、ネット社会が人間関係に及ぼす影響を研究している。 クリスタキスがいま懸念するのは、AIの存在で人は利他的にも利己的になり得ることを数々の研究が示唆している点だ──彼が英誌「エコノミスト」への寄稿で論じた「現在のAI議論に欠けているポイント」とは？ AIが「人同士の対話」に与える影響 もし人々がバーチャルアシスタントに対して毎回、「すみません、アレクサ、もしお手数でなければ、今日の天気を教えていただけますか？」と卑屈に懇願しなくてはならないとしたら、そのようなサービスを利用したいと思う人は皆無だろう。 そのため、こうしたデバイスは「アレクサ、天気！」とぶっきらぼうな命令に答えるよう設計されているし、AIが従順に応じることを私たちは期待している。 それでも問題はないのだが、多感な年頃の子供のいる家庭に持ち込まれるとなれば</description>
+    </item>
+    <item>
+      <title>画像生成AI「Midjourney」のトレーニングに作品が使用されたアーティストが心中を吐露</title>
+      <link>https://gigazine.net/news/20240117-midjourney-artist-listed-up/</link>
+      <pubDate>2024/01/17 22:50</pubDate>
+      <description>「東京都同情塔」は、犯罪者が快適に生活できる高層タワーが建設されるなど、寛容な社会になった未来の日本を舞台に、生成AIが浸透した社会のあり方も描いた作品。 九段さんは受賞会見で、AI時代に小説を書くことについての考えを問われ「今回の小説は、ChatGPTのような文章生成AIを駆使して書いた」「全体5％ぐらいは生成AIの文章をそのまま使っているところがある」と打ち明け、「これからもうまく利用しながら、自分の創造性を発揮できるよううまくつきあっていきたい」と話した。 九段さんは1990年生まれ。2021年、「悪い音楽」で第126回文学界新人賞を受賞し、デビューした。23年発表の「しをかくうま」で野間文芸新人賞を受賞している。 関連記事 「子供の科学」で生成AI特集　「星新一賞」入選作家による“AI利用小説”の書き方解説も 「子供の科学」が、1月10日発売の「2024年2月号」で生成AIを特集し</description>
+    </item>
+    <item>
+      <title>3つの生成AIを連携し、NPCを自動生成　「メタバースに賑わいを」　ドコモが新技術</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/17/news154.html</link>
+      <pubDate>2024/01/17 17:03</pubDate>
+      <description>そんな中、テンセントがなかなか衝撃的な技術を発表しました。「PhotoMaker」という画像生成AIです。これでなければできない、というものではないのですが、「ファインチューニングの事前作成不要」「元画像が少なくても良い」のに、人物のアイデンティティを維持した画像を生成できるというメリットがあります。 これまでは既存の画像AIモデルに多数の写真を読み込ませて本人性を学習させたものから新たなAIモデルやその簡易版であるLoRAモデルを作ってきました。そのプロセスが不要になるということです。 PhotoMakerは、簡単に使えるデモページがHugging Faceに用意されているので、まずそこで試すことができます。 参照したい人物写真・画像を数枚（1枚でも可）用意し、それを左の枠にドラッグ＆ドロップ。プロンプトに「A photo of a girl img」などと書き込みSubmitボタンを押</description>
+    </item>
+    <item>
+      <title>superwhisperでの音声入力を試す</title>
+      <link>https://efcl.info/2024/01/17/superwhisper/</link>
+      <pubDate>2024/01/17 17:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/328c0f4c89ab3d1b33e3ad125039693d0b3a8cce/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F429%2F1.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>秒単位で3Dモデルを作成する生成AI「Tripo」、高品質のコンテンツをより手軽に | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
+      <link>https://36kr.jp/270714/</link>
+      <pubDate>2024/01/16 23:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fbd857edc26559b6207e05b77d4b43b9852b6ebb/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F442%2F02.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>マイクロソフト、Copilotの有料版「Copilot Pro」を発表</title>
+      <link>https://japan.cnet.com/article/35213897/</link>
+      <pubDate>2024/01/16 09:39</pubDate>
+      <description>Published 2024/01/16 23:00 (JST) Updated 2024/01/16 23:17 (JST) 米グーグル出身で、世界的に有名な人工知能（AI）開発者らが設立した新興企業「サカナAI」（東京）は16日、第三者割当増資を実施して約45億円を調達したと発表した。NTTやKDDI、ソニーグループ、米シリコンバレーに拠点を置く著名投資ファンドなどが増資に応じた。資金はAI開発の強化に充てる。 サカナAIはグーグル出身のライオン・ジョーンズ氏とデイビッド・ハ氏、元外務省職員の伊藤錬氏の3人が昨年8月に立ち上げた。ジョーンズ氏は、生成AIの爆発的な普及につながった言語処理モデルの論文執筆者の1人。ハ氏はグーグルの日本部門統括としてAI開発を率いた。 サカナAIは多数の小型AIを開発し、複数を組み合わせて、効率よく運用するサービスを研究している。NTTとは、AI研究開発で</description>
+    </item>
   </channel>
 </rss>
