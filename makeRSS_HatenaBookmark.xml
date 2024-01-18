@@ -22306,5 +22306,29 @@
       <pubDate>2024/01/18 09:06</pubDate>
       <description>このコラムで何度か書いてきたが、下手の横好きながらモノをつくるのは好きだし、苦労だとは（あまり）思わない。もうおよそ10年前になるが、デアゴスティーニ・ジャパンの「ロビ」は家族にせがまれたこともあり、喜々として組み立てた。個人的には1回1回の分量が少なくてちょっと物足りなかったくらいだ。 デアゴスティーニ・ジャパンの「ロビ」。大谷育江さんの声が素晴らしい。久々に電源を入れようとしたが、電池が駄目になったのか充電できなかった（涙）。</description>
     </item>
+    <item>
+      <title>Kindllm - LLM chat for Kindle</title>
+      <link>https://kindllm.app/</link>
+      <pubDate>2024/01/18 13:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6fa9e594f77105d4dc2a480ebf7b63fcb1977cf7/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1561%2F841%2Fimage-top.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AlphaGeometry: An Olympiad-level AI system for geometry</title>
+      <link>https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/</link>
+      <pubDate>2024/01/18 10:22</pubDate>
+      <description>TikTokの親会社であるByteDanceの研究チームが、テキストに忠実かつ高品質な動画を生成するAI「MagicVideo-V2」を発表しました。人間によるパフォーマンス評価では、MagicVideo-V2がテキストから動画を生成するその他の最先端AIよりも優れているという結果が得られたとのことです。 [2401.04468] MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation https://arxiv.org/abs/2401.04468 MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation https://magicvideov2.github.io/ MagicVideo-V2は、ByteDanceの研究チームが開発したテキストから動画を生成するAI</description>
+    </item>
+    <item>
+      <title>1枚の画像から深度情報を生成してくれるAIを「Blender」と連携させてみた【Blender ウォッチング】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1561675.html</link>
+      <pubDate>2024/01/18 08:37</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ab91947e3a134abca90bf98f2eb41a0c0ae73209/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1561%2F620%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
