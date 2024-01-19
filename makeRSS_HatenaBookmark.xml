@@ -22348,5 +22348,26 @@
       <pubDate>2024/01/19 06:49</pubDate>
       <description>2023年10月からの景品表示法の改正に伴う注記：この記事は技術評論社様より献本をいただき、発売前の書籍レビューをするものです。 来週1/24にMicrosoft社のAzureクラウドで生成AIアプリケーションを開発する人向けの入門書籍が発売されます。 幸運なことに、著者の一人である吉田真吾さんのご厚意で発売前献本の機会に預かりましたので、先行レビューということでみなさんに紹介させていただきます！ Azure OpenAI ServiceではじめるChatGPT/LLMシステム構築入門 永田 祥平 (著), 伊藤 駿汰 (著), 宮田 大士 (著), 立脇 裕太 (著), 花ケ﨑 伸祐 (著), 蒲生 弘郷 (著), 吉田 真吾 (著) - 技術評論者より2024/1/24発売予定 通称「ドーナツ本」です。おそらくOpenAIのロゴが某ドーナツ屋さんのフレンチ●ルーラーに酷似していることか</description>
     </item>
+    <item>
+      <title>Amazonが日本に2兆円投資　AI普及でデータ量急増 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC17A4N0X10C24A1000000/</link>
+      <pubDate>2024/01/19 11:27</pubDate>
+      <description>2024年版のレポートは、世界の学会や実業界、政府機関、国際団体などの専門家約1500人を対象に実施した調査に基づき、今後2年間と10年間のリスク展望についてまとめた。 異常気象や国家間の武力衝突がエスカレートし、AIの台頭に伴うサイバーセキュリティ不安が高まる中、専門家の大多数は「世界的大惨事」のリスクがあるとの認識を示している。特に今後10年の予想では17％が「差し迫ったリスク」、46％が「増大するリスク」を予想した。 今後2年の短期的リスクの筆頭に虚偽情報が挙げられたのは、AIが悪用されて誤った情報が世界中で氾濫する懸念が強まった影響が大きい。 報告書によれば「誤情報や虚偽情報は国内外の社会的・政治的分断を拡大させる目的で利用される可能性がある」。特に24～25年にかけては、米国やインド、英国など主要国で選挙が行われ、30億人あまりが投票を予定していることからリスクが大きいとした。</description>
+    </item>
+    <item>
+      <title>AWS CloudShell から Gemini APIを利用してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/gemini-cloudshell/</link>
+      <pubDate>2024/01/19 07:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a04b4d3eb855a23498733260ddabf0ea918f5aac/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1562%2F014%2F001a.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「無能」は仕事を無駄に増やすが、「できる人」は気配りで減らす。</title>
+      <link>https://blog.tinect.jp/?p=84935</link>
+      <pubDate>2024/01/17 08:08</pubDate>
+      <description>NTTドコモは1月16日、メタバース空間内のノンプレイヤーキャラクター（以下、NPC）を、テキスト入力のみで自動生成する生成AIを開発したと発表。 同社によると、メタバース業界は急速に成長し大きな注目を集めている一方で、利用するユーザー数は十分とは言えない状況であり、メタバース提供事業者の課題となっている。そこで、空間内の賑わいを創出し、群集心理の作用によりユーザーを惹きつけることにNPCが効果的であると考え、NPCを生成AIで制作できる同技術を開発した。同技術を利用することで、プログラミングやアルゴリズムなどの専門知識が無くても、外見や行動、空間内での役割を備えたNPCを20分程度で自動生成できるという。 なお、「行動ロジック生成AI」「アニメーション生成AI」「外見生成AI」の3つの生成AIで構成。「行動ロジック生成AI」の開発および、3つの生成AIを自動連携する技術の開発は独自のもの</description>
+    </item>
   </channel>
 </rss>
