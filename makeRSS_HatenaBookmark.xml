@@ -22483,5 +22483,17 @@
       <pubDate>2024/01/17 01:55</pubDate>
       <description>機械学習の最も基礎的な手法が最小二乗法だ。この特集では、Pythonで最小二乗法のプログラムを実装することで、その仕組みを学んでいく。 ここまで、回帰式は「y ＝ ax ＋ b」という1次関数でした。実は、回帰式は2次関数でも3次関数でもよいのです。ここでは、回帰式が2次関数の場合の最小二乗法を考えましょう。 2次関数の回帰式は次のようになります。</description>
     </item>
+    <item>
+      <title>Steamが生成AI使用ゲーム全面禁止から原則受け入れに転換。理由と影響をゲーム開発者目線で考える | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2024/01/19/2655.html</link>
+      <pubDate>2024/01/19 14:19</pubDate>
+      <description>Microsoftは、生成AI採用の学習アクセラレーター「Reading Coach」のアプリ（プレビュー版）をMicrosoft Storeで無料で公開した。学習者はAIと一緒に物語を作りながら、その物語を音読し、AIが流暢さなどを評価する。</description>
+    </item>
+    <item>
+      <title>AIとの英会話練習どれが効果的？アプリ「Speak」「スピークバディ」とChatGPTを使い比べてみた | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2401-english-communication-ai-app/</link>
+      <pubDate>2024/01/18 19:53</pubDate>
+      <description>Metaのマーク・ザッカーバーグCEOは、同社の後期的なビジョンはAGIの構築だと語った。AGIとのコミュニケーションにはスマートグラスが適しており、「AIとメタバースは繋がっている」としている。 米Metaのマーク・ザッカーバーグCEOは1月18日（現地時間）、Threadsへの投稿で、同社の長期的なビジョンを、「general intelligence」の構築と、そのオープンソース化により、誰もが恩恵を得られるようにすることだと語った。 ザッカーバーグ氏がgeneral intelligenceとしているのは、米OpenAIや米GoogleがAGI（汎用人工知能）と呼ぶ、人間と同じような汎用的な知能を持つAIを指す。（本稿ではAGIとする。） ザッカーバーグ氏はこれを実現するために、2024年末までに米NVIDIAのHopper採用GPU「H100」を35万枚投入すると語った。 このデ</description>
+    </item>
   </channel>
 </rss>
