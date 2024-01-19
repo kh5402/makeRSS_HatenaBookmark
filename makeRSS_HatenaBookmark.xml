@@ -22369,5 +22369,29 @@
       <pubDate>2024/01/17 08:08</pubDate>
       <description>NTTドコモは1月16日、メタバース空間内のノンプレイヤーキャラクター（以下、NPC）を、テキスト入力のみで自動生成する生成AIを開発したと発表。 同社によると、メタバース業界は急速に成長し大きな注目を集めている一方で、利用するユーザー数は十分とは言えない状況であり、メタバース提供事業者の課題となっている。そこで、空間内の賑わいを創出し、群集心理の作用によりユーザーを惹きつけることにNPCが効果的であると考え、NPCを生成AIで制作できる同技術を開発した。同技術を利用することで、プログラミングやアルゴリズムなどの専門知識が無くても、外見や行動、空間内での役割を備えたNPCを20分程度で自動生成できるという。 なお、「行動ロジック生成AI」「アニメーション生成AI」「外見生成AI」の3つの生成AIで構成。「行動ロジック生成AI」の開発および、3つの生成AIを自動連携する技術の開発は独自のもの</description>
     </item>
+    <item>
+      <title>MetaのザッカーバーグCEO、AGI開発宣言　「AIとメタバースは繋がっている」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/19/news098.html</link>
+      <pubDate>2024/01/19 12:12</pubDate>
+      <description>クラウドサービス世界最大手の米アマゾン・ウェブ・サービス（AWS）は19日、2023〜27年の5年で日本に約2.3兆円を投資すると発表した。クラウドの基幹設備であるデータセンターの増設や運営体制強化に充てる。生成AI（人工知能）の普及などに伴うデータ処理量の爆発的な増加を見越して投資を加速する。AWS日本法人が19日に都内で記者会見を開いて投資方針を説明した。日本で顧客のデータを処理・保管して</description>
+    </item>
+    <item>
+      <title>【特集】 自動でラクラク！複雑なExcelデータを解析してPowerPointのプレゼンまで作成。本気で便利になりそうな生成AI「Copilot Pro」の使い方</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/1562014.html</link>
+      <pubDate>2024/01/19 06:55</pubDate>
+      <description>生成AIのChatGPTを開発した「オープンAI」のサム・アルトマンCEOは、スイスで開かれている通称「ダボス会議」に参加しました。自身を解任した取締役会は規模が小さく、経験が不足していたと振り返りました。 「オープンAI」のサム・アルトマン氏は去年11月に取締役会によってCEOを突如、解任され、全体の9割を超える700人以上の社員が、復帰しなければ退社の可能性があるなどとする書簡に署名し、その後、復帰しました。 そのアルトマンCEOは18日、世界経済フォーラムの年次総会、通称「ダボス会議」に参加しました。 解任劇のあと公の場に姿をあらわすのは初めてです。 当時の経緯について触れ、「取締役会の規模が小さく、必要な経験が不足していた。緊急ではないが、重要な問題を放置してはいけないという教訓を得た」と述べました。 生成AIの今後については、「世界で、非常に強力なAIに近づくにつれて、奇妙なこと</description>
+    </item>
+    <item>
+      <title>Azureで生成AIアプリ開発に入門したい人に朗報！ 鉄板の解説書が出ました✌️ - Qiita</title>
+      <link>https://qiita.com/minorun365/items/fc71a6454e9ccd4d19f3</link>
+      <pubDate>2024/01/18 18:08</pubDate>
+      <description>Microsoft Copilot Pro「全世界のWindowsユーザーが生成AIを意識せずに、当たり前のツールとして使いこなす未来」- Blog 2024/1/7 Copilot Pro が個人でも利用可能になったので、大まかにCopilotの全体像を理解した上で、操作しながら試してみました。 私はMacユーザーですが、Copilotを検証するために先週からWindowsをメインにしています。WordやPowerPointはまだ慣れていないので、今日は記録のみ掲載。 Copilot ProCopilot Pro パフォーマンスを高速化し、創造性を高める機能を希望するユーザーには、Copilot エクスペリエンスを向上させる Copilot Pro がおすすめです。この月額サブスクリプション製品には、Copilot のすべての機能に加え、次を実現する機能が含まれています。 ・ピーク時でも</description>
+    </item>
+    <item>
+      <title>生成AIに大学入試共通テストの問題を解かせる実験、5教科7科目すべてでGPT-4が圧勝【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/1561736.html</link>
+      <pubDate>2024/01/18 11:13</pubDate>
+      <description>KindllmA distraction-free LLM chat web app optimized for Kindle. The perfect companion for your book. Powered by Mixtral from Mistral AI. Mainly tested on Kindle Paperwhites. Visit kindllm.app (this page) on your updated Kindle web browser to get started Why?I got annoyed constantly looking things up on my phone while reading and tried making this app a while back, but couldn&amp;#39;t get it to work well</description>
+    </item>
   </channel>
 </rss>
