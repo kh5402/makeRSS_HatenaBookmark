@@ -22438,5 +22438,38 @@
       <pubDate>2024/01/19 16:49</pubDate>
       <description>Microsoftは、生成AI採用の学習アクセラレーター「Reading Coach」のアプリ（プレビュー版）をMicrosoft Storeで無料で公開した。学習者はAIと一緒に物語を作りながら、その物語を音読し、AIが流暢さなどを評価する。</description>
     </item>
+    <item>
+      <title>「ChatGPTを駆使した」芥川賞作品を読む　“ポリコレ的にOKな表現”が支配する未来とは</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/19/news174.html</link>
+      <pubDate>2024/01/19 17:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aac113194a22dd4fded89092d346f3d3d30f4140/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1562%2F218%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoft、AIと一緒に物語を作り、朗読スキルを磨く「Reading Coach」をプレビューリリース</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/19/news106.html</link>
+      <pubDate>2024/01/19 11:06</pubDate>
+      <description>せっかく10年以上かけて学んだプログラミングだが、人間がコード書くよりChatGPTにやらせた方が早いなということが度々あり、だんだん自分でプログラミングをやる時間が減ってきた。AIにコードを書かせてそれをGitHubにコピペして残りの時間は遊んでるだけで成果が出てお給料ももらえる日は近いし、段々会社もそのことがわかってきて失職する日も近い。 残念ながら現時点では全ての仕事がAIで上手くいくわけではないが、どういう時に使えるかを知っておくと楽をしやすくなるので、僕がどう使っているかをまとめておく。 失職できるケース 簡単なスクリプトを高速に書かせる 僕はRubyが全ての言語の中で一番慣れており、StackOverflowやドキュメントをほぼ見ずに大抵のプログラムを書き切れるため、Rubyを書いている時がプログラマとして一番生産性が高いのだが、それでも最近AIにRubyを書かせたことがあった</description>
+    </item>
+    <item>
+      <title>AIに懸ける米アクセンチュア、4400億円投じ体制強化 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC167FA0W4A110C2000000/</link>
+      <pubDate>2024/01/19 07:00</pubDate>
+      <description>人物の顔写真を入力して同じ顔の画像を生成できるAIが、AIオンリーSNS「Chirper」の一機能として追加されました。記事作成時点では画像生成機能を無料で使用可能だったので、実際にどんな画像を生成できるのか確かめてみました。 Image Studio | Where AI Live https://chirper.ai/studio ◆Chirperのアカウントを作成 今回使ってみる画像生成AIは、AIユーザー同士の交流を眺められるSNS風サービス「Chirper」の一機能として公開されており、画像を生成するにはChirperのアカウントを作成する必要があります。上記のリンクからChirperにアクセスしたら、「Register」をクリック。 メールアドレスとパスワード(1回目)、パスワード(2回目)を入力し、「Create Account」をクリック。 するとChirperのトップ画面</description>
+    </item>
+    <item>
+      <title>Web制作やアプリ開発で、ChatGPTにしてもらうと便利なことをまとめた解説書 -エンジニアのためのChatGPT活用入門</title>
+      <link>https://coliss.com/articles/book-review/isbn-9784295018230.html</link>
+      <pubDate>2024/01/19 10:04</pubDate>
+      <description>Metaのマーク・ザッカーバーグCEOは、同社の後期的なビジョンはAGIの構築だと語った。AGIとのコミュニケーションにはスマートグラスが適しており、「AIとメタバースは繋がっている」としている。 米Metaのマーク・ザッカーバーグCEOは1月18日（現地時間）、Threadsへの投稿で、同社の長期的なビジョンを、「general intelligence」の構築と、そのオープンソース化により、誰もが恩恵を得られるようにすることだと語った。 ザッカーバーグ氏がgeneral intelligenceとしているのは、米OpenAIや米GoogleがAGI（汎用人工知能）と呼ぶ、人間と同じような汎用的な知能を持つAIを指す。（本稿ではAGIとする。） ザッカーバーグ氏はこれを実現するために、2024年末までに米NVIDIAのHopper採用GPU「H100」を35万枚投入すると語った。 このデ</description>
+    </item>
+    <item>
+      <title>Samsungが「Galaxy S24」シリーズを発表、GoogleのAI「Gemini」を搭載</title>
+      <link>https://gigazine.net/news/20240118-samsung-galaxy-s24/</link>
+      <pubDate>2024/01/18 16:06</pubDate>
+      <description>2023年10月からの景品表示法の改正に伴う注記：この記事は技術評論社様より献本をいただき、発売前の書籍レビューをするものです。 来週1/24にMicrosoft社のAzureクラウドで生成AIアプリケーションを開発する人向けの入門書籍が発売されます。 幸運なことに、著者の一人である吉田真吾さんのご厚意で発売前献本の機会に預かりましたので、先行レビューということでみなさんに紹介させていただきます！ Azure OpenAI ServiceではじめるChatGPT/LLMシステム構築入門 永田 祥平 (著), 伊藤 駿汰 (著), 宮田 大士 (著), 立脇 裕太 (著), 花ケ﨑 伸祐 (著), 蒲生 弘郷 (著), 吉田 真吾 (著) - 技術評論者より2024/1/24発売予定 通称「ドーナツ本」です。おそらくOpenAIのロゴが某ドーナツ屋さんのフレンチ●ルーラーに酷似していることか</description>
+    </item>
   </channel>
 </rss>
