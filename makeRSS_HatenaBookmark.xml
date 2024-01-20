@@ -22624,5 +22624,29 @@
       <pubDate>2024/01/16 18:03</pubDate>
       <description>プログラミングの9割はデバッグだ。いや、さすがにそれは言い過ぎか。それでも、デバッグ（うまく動かないプログラムを修正すること）がプログラミングの大切な一部であることは間違いない。先日SNSを見ていたら、ChatGPTをプログラミングに活用することについて「うまくプロンプトを与えても、生成されたプログラムが自分の要求仕様通りになることはまずなく、自分で修正する必要がある」と言っている人がいて、ちょっと驚いてしまった。自分で修正するなよ、ChatGPTに「思い通りに動かない」と説明して直してもらえばいいのに。 でも、考えてみると、公開されているChatGPTの使い方（プロンプト集や活用事例）は、仕様を説明してプログラムを書いてもらう方法や、アーキテクチャに関する相談……デバッグ以外の部分が圧倒的に多い。 ChatGPTにデバッグの相談をしないなんてもったいないと思う。私は趣味のプログラミングプ</description>
     </item>
+    <item>
+      <title>「Galaxy S24」はAIでスマホの使い勝手を刷新　Google／Microsoftとの“等距離外交”も強みに</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2401/20/news061.html</link>
+      <pubDate>2024/01/20 18:11</pubDate>
+      <description>Top &amp;gt; 学術＆研究 &amp;gt; いつまで人間は潜在意識下でAIアートと人間の創作物を区別できるのか？　2023年では人間の創作物が優位との研究結果</description>
+    </item>
+    <item>
+      <title>【山田祥平のRe:config.sys】 新キーの追加でアクセル全開のCopilot in Windows</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/config/1562346.html</link>
+      <pubDate>2024/01/20 06:42</pubDate>
+      <description>&amp;lt;span title=&amp;#39;2024-01-17 00:00:00 +0900 +0900&amp;#39;&amp;gt;2024年01月17日&amp;lt;/span&amp;gt;&amp;amp;nbsp;·&amp;amp;nbsp;5 分&amp;amp;nbsp;·&amp;amp;nbsp;2053 文字 身近な人がデジタルデトックスをやるということを聞き、自分もこれは必要かもしれないかもなと感じたため、自分なりにデジタルデトックスもどきを実践してみています。 実践し始めて１週間ちょっとしか経っていないですが、すでに多くの良い変化を感じられているのでメモしておこうと思います。 なぜ始めたか、何をしているか#はじめに述べたデジタルデトックスすると言っていた人と話している中で、自分は短時間で得られる刺激に悪い意味で慣れてしまっていることに自覚的になりました。 例えば、youtube short や twitter、インスタのストーリー、社内の times など。 短時間で得られる刺激を摂取しすぎて</description>
+    </item>
+    <item>
+      <title>米紙のデータ「学習に必要ない」　オープンＡＩのトップ</title>
+      <link>https://www.sankei.com/article/20240119-EHRO3JZG75MP7OWBH44CCOFNLQ/</link>
+      <pubDate>2024/01/19 10:03</pubDate>
+      <description>Stability AI、動画生成AI「Stable Video Diffusion」のAPIを公開：1枚の画像から2秒の動画を生成できる Stability AIは、同社が提供するDeveloper Platformで「Stable Video Diffusion」のAPIを公開した。</description>
+    </item>
+    <item>
+      <title>Alexaに画像生成AIが実装。Fire TVの背景画像を音声で作成可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/1562217.html</link>
+      <pubDate>2024/01/19 16:13</pubDate>
+      <description>「石原さとみエフェクト」の使用例／画像はそれぞれTikTokで「石原さとみになれるメイク」で検索しヒットした動画のスクリーンショットを並べたもの TikTokで現在、芸能人・著名人風の顔になれるAIフィルター（以下、芸能人になれるエフェクト）が流行している。 【動画】石原さとみ、長澤まさみ…「芸能人になれるエフェクト」使用例 「#〇〇（著名人の名前）エフェクト」「#〇〇（著名人の名前）になれるエフェクト」などと称し、俳優の石原さとみさん、浜辺美波さん、アイドルの山田涼介さん、木村拓哉さん、歌手の浜崎あゆみさん、安室奈美恵さんといった芸能人・著名人風の顔になるAIフィルターを掛けた動画が、数多く投稿されている。 このAIフィルターは、TikTokユーザーが誰でもアプリ内でエフェクトを作成できる機能を利用して制作されたもの。その中のテンプレート「AI Parody」に、芸能人・著名人の写真をア</description>
+    </item>
   </channel>
 </rss>
