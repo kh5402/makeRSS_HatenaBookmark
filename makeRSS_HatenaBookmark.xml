@@ -22600,5 +22600,23 @@
       <pubDate>2024/01/18 23:32</pubDate>
       <description>せっかく10年以上かけて学んだプログラミングだが、人間がコード書くよりChatGPTにやらせた方が早いなということが度々あり、だんだん自分でプログラミングをやる時間が減ってきた。AIにコードを書かせてそれをGitHubにコピペして残りの時間は遊んでるだけで成果が出てお給料ももらえる日は近いし、段々会社もそのことがわかってきて失職する日も近い。 残念ながら現時点では全ての仕事がAIで上手くいくわけではないが、どういう時に使えるかを知っておくと楽をしやすくなるので、僕がどう使っているかをまとめておく。 失職できるケース 簡単なスクリプトを高速に書かせる 僕はRubyが全ての言語の中で一番慣れており、StackOverflowやドキュメントをほぼ見ずに大抵のプログラムを書き切れるため、Rubyを書いている時がプログラマとして一番生産性が高いのだが、それでも最近AIにRubyを書かせたことがあった</description>
     </item>
+    <item>
+      <title>アリゾナ州立大学、OpenAIの「ChatGPT Enterprise」採用　教育機関としては初</title>
+      <link>https://www.itmedia.co.jp/news/articles/2401/19/news121.html</link>
+      <pubDate>2024/01/19 12:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cdb4ea890580ac9db90eeba2ec7874dd41293694/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1562%2F288%2Fimage_top2.png');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>TikTokが検索エンジンとして台頭、特に若い世代の間で</title>
+      <link>https://www.suzukikenichi.com/blog/tiktok-emerges-as-a-rising-search-engine-especially-among-younger-generations/</link>
+      <pubDate>2024/01/17 09:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
+               &lt;span style=&quot;background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ab91947e3a134abca90bf98f2eb41a0c0ae73209/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1561%2F620%2F01.jpg');&quot; data-gtm-click-label=&quot;entry-info-thumbnail&quot;&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
