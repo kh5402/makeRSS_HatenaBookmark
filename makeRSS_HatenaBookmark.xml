@@ -22704,5 +22704,23 @@
           &lt;p class=&quot;entrylist-contents-thumb&quot;&gt;
           </description>
     </item>
+    <item>
+      <title>Unity Learnチュートリアル「ML-Agents：ハチドリ」で強化学習を始めよう｜①Flowerクラスの実装</title>
+      <link>https://zenn.dev/dumpling_cat/articles/5689a184533474</link>
+      <pubDate>2024/01/21 11:11</pubDate>
+      <description>Kapper@Linuxガジェヲタ＆異世界小説家＆電子工作大好き @kapper1224 CPUでStable diffusionが３分ちょっとかかるので、ラズパイ4も対応しているFastSDCPUを入れたら50秒になったw OpenVINOとか入っているらしい。AMDのCPUだけどw ターミナル画面左側が普通のSD、右側がFastSDCPU これだけ速度差があるとありがたい github.com/rupeshs/fastsd… pic.twitter.com/zflPRbldt4 2024-01-20 21:08:00</description>
+    </item>
+    <item>
+      <title>re:Invent 2023で感じたセキュリティの民主化と生成AI活用の未来 / The future of security democratization and generative AI as I felt at re:Invent 2023</title>
+      <link>https://speakerdeck.com/yuj1osm/the-future-of-security-democratization-and-generative-ai-as-i-felt-at-re-invent-2023</link>
+      <pubDate>2024/01/20 14:09</pubDate>
+      <description>「Galaxy S24」はAIでスマホの使い勝手を刷新　Google／Microsoftとの“等距離外交”も強みに：石野純也のMobile Eye（1/3 ページ） サムスン電子が新たに発表した「Galaxy S24」シリーズでは、新機軸としてAIを全面的に打ち出している。一連の機能をまとめた「Galaxy AI」は、Googleが下支えをしている。同モデルからは、2大プラットフォーマーとの等距離外交で差別化を図るサムスン電子の戦略も透けて見える。 サムスン電子は、1月17日（現地時間）に米カリフォルニア州サンノゼで、スマートフォンの新製品発表イベント「Galaxy Unpacked」を開催。2024年のフラグシップモデルとなる「Galaxy S24」シリーズを発表した。同シリーズは例年同様の3モデル構成で、標準モデルとなるGalaxy S24に加え、その大画面版にあたる「Galaxy S</description>
+    </item>
+    <item>
+      <title>【実例付】Chat-GPTの使い倒し方 02[ プロンプト入力26の原則]を読み解く①｜中山 高史</title>
+      <link>https://note.com/naka_68/n/n11820dec6c16</link>
+      <pubDate>2024/01/18 10:01</pubDate>
+      <description>例年3月に開催されるゲーム開発者を中心とした会議「Game Developers Conference(GDC)」の主催団体が、3000人以上のゲーム開発者を対象に行った調査結果を発表しました。この調査で、回答者の31％が「個人的に生成AIを仕事で使っている」と答え、18％が「個人的には使っていないが職場の同僚は使っている」と回答したことが判明しました。 GDC 2024 State Of The Game Industry: Devs Discuss Layoffs, Generative AI, and More | News | GDC | Game Developers Conference https://gdconf.com/news/gdc-2024-state-game-industry-devs-discuss-layoffs-generative-ai-and-more</description>
+    </item>
   </channel>
 </rss>
