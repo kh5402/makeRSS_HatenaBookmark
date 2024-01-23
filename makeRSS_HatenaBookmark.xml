@@ -22962,5 +22962,41 @@
       <pubDate>2024/01/17 02:06</pubDate>
       <description>The future of open source is still very much in flux テック業界の現在を形作った オープンソースの過去と未来 フリーでオープンなソフトウェアはテック業界を変え、その発展に大きく貢献してきた。社会や企業への「反抗」というルーツを持つオープンソース・ソフトウェアもまた、変化の渦中にある。 by Rebecca Ackermann2024.01.17 3 11 1980年にゼロックスがマサチューセッツ工科大学（MIT）人工知能研究所に1台の新型レーザープリンターを寄付した時、この機械が革命の火付け役になることなど、同社にとっては知る由もなかった。プリンターは紙詰まりを起こした。2002年に出版されたサム・ウイリアムズ著『Free as in Freedom（自由としてのフリー）』によると、当時27歳のMITのプログラマーだったリチャード・M・ス</description>
     </item>
+    <item>
+      <title>AIが自分自身に報酬を与えて進化する「自己報酬型言語モデル」　米Metaなどが開発、実験でGPT-4を上回る【研究紹介】</title>
+      <link>https://levtech.jp/media/article/column/detail_374/</link>
+      <pubDate>2024/01/23 09:10</pubDate>
+      <description>どこから精神疾患で、どこまでそうでないのかを判断するのは、とても難しい。 たとえば発達障害などもそうで、典型的かつ重度の患者さん、比較的軽度の患者さん、精神科医の何割かが発達障害と診断するかもしれない一群、までのグラデーションがある。 そして実社会では、生物学的にはASDやADHDに当てはまりそうなのに医療機関にかからないまま活躍している人も少なくないのである。 みようによっては発達障害・みようによっては定型発達、という人を外来で診る時、片っ端から発達障害と診断するのがベストだろうか？ ──これに対する返答は、ドクターによって微妙に違っているように思う。どちらにせよ、障害と診断すべきか迷うような人々が精神医療の内外に存在しているのは確かである。 口の悪い、いじわるな婆さんが精神科にやって来た！ さて、発達障害などとは違うかたちで、「これを“病気”とみなして“治療”して構わないのか？」と悩む</description>
+    </item>
+    <item>
+      <title>日本語LLMの学習に向けたデータ前処理</title>
+      <link>https://zenn.dev/elith/articles/5321e321956ac2</link>
+      <pubDate>2024/01/22 20:44</pubDate>
+      <description>by Web Summit Amazonのクラウドコンピューティングサービス「Amazon Web Services(AWS)」が、日本におけるクラウドコンピューティング・インフラストラクチャの強化を目的として、2027年までに日本へ2兆2600億円の巨額投資を行う計画を立てていることを明らかにしました。 Amazon&amp;#39;s AWS to invest $15 bln to expand cloud computing in Japan | Reuters https://www.reuters.com/technology/amazons-aws-invest-15-bln-expand-cloud-computing-japan-2024-01-19/ AWS unveils multi-billion dollar investment to expand Japan cloud co</description>
+    </item>
+    <item>
+      <title>「入試に数学を課さないデータサイエンス学部」は是か非か - 渋谷駅前で働くデータサイエンティストのブログ</title>
+      <link>https://tjo.hatenablog.com/entry/2024/01/22/212634</link>
+      <pubDate>2024/01/22 21:38</pubDate>
+      <description>OpenAIのサム・アルトマンCEOがAIチップ製造工場の建設を計画しており、工場建設に向けて数兆円規模の資金調達を目指していることが報じられました。報道によると、アルトマンCEOはソフトバンクやG42との交渉を進めているとのことです。 OpenAI CEO Sam Altman Looks to Raise Billions for Network of AI Chip Factories - Bloomberg https://www.bloomberg.com/news/articles/2024-01-19/altman-seeks-to-raise-billions-for-network-of-ai-chip-factories BREAKING: OpenAI CEO Sam Altman, who has been working to raise billions of</description>
+    </item>
+    <item>
+      <title>AIには原子力が必要、OpenAIのCEOがダボス会議で提言</title>
+      <link>https://www.gizmodo.jp/2024/01/sam-altman-openai-davos-wef-ai-needs-to-go-nuclear.html</link>
+      <pubDate>2024/01/22 22:12</pubDate>
+      <description>こんにちは。電通総研コーポレート本部システム推進部の山下です。 最近はChatGPTなどのLarge Language Model(LLM)を利用したAIが話題ですね。 そのLLMを応用したRetrieval-Augmented Generation(RAG)という技術があります。 これは、LLMに文書検索などを用いて関連する情報を与えて回答させることで、 LLMが知識として持っていない内容を回答させたり誤った情報を答えてしまうハルシネーションを抑止する技術です。 今回はこのRAGをLlamaIndexというライブラリを使ってローカル環境で実装する方法について紹介します。 なぜローカル環境でLLMを利用したいのか 大変便利なツールのLLMですが、利用が難しいこともあります。 例えば、機密情報を取扱いたい、外部インターネットへの接続に制限が掛かっているといった場合です。 最終的にOpenAI</description>
+    </item>
+    <item>
+      <title>生成AIを利用して書かれた第170回芥川賞受賞の九段理江「東京都同情塔」が海外でも話題に</title>
+      <link>https://gigazine.net/news/20240122-rie-kudan-reveals-use-chatgpt/</link>
+      <pubDate>2024/01/22 16:18</pubDate>
+      <description>記事の無断利用でOpenAIとMicrosoftを訴えたニューヨーク・タイムズ。その訴状の中で、ChatGPTの驚くべき剽窃的アウトプットが明らかになった。 画像生成AIでの剽窃を調べた学者によれば、映画のワンシーンやアニメの玩具などの画像生成で、オリジナルをスクショしてコピペしたようなアウトプットが見られた。 印刷技術の発展とともに時間をかけて成立してきた著作権の概念。生成AIという新しい技術によってアップデートが加えられようとしている。 （小林 啓倫：経営コンサルタント） OpenAIを訴えたニューヨークタイムズ クリスマスも過ぎた昨年末の12月27日。米ニューヨーク・タイムズが、ChatGPTでお馴染みのOpenAIと、彼らと提携し生成AI活用を進めているMicrosoftを提訴した。訴えの中で、ニューヨーク・タイムズはOpenAIがLLM（大規模言語モデル）を開発する際に、同紙の記</description>
+    </item>
+    <item>
+      <title>配送会社のAIチャットボットが自社を「世界最悪の配送会社」と非難する事態が発生</title>
+      <link>https://gigazine.net/news/20240122-dpd-ai-chatbot-rogue/</link>
+      <pubDate>2024/01/22 12:51</pubDate>
+      <description>パルワールド、生成AI叩き、トレパク魔女裁判、他にも最近だと呪術廻戦の演出へのパクリ批判とか、ちょっと古いところだとbuhitterやpixiv BL同人の論文無断引用とかもあったな。普段、二次創作は親告罪だからグレーゾーンと主張しておきながら特に著作権に関する知識があるわけでもなく、ただただお気持ちで騒ぐだけで中身がなにもない。 100歩譲って自分が気に入らないと表明するだけであれば好きにすればよいが、製作者やファンまで『倫理観、モラルがない』、『パクリを肯定する低俗なファン』と無根拠に批判するのは手に負えない。しかもそういったポストをしているオタクのアイコンが版権モノだったりするので笑えない。他人の創作物を参考にした合法な表現とグレーゾーン（笑）な二次創作のどちらがより倫理観、モラルに欠ける行為であるかは火を見るよりも明らかだが、そういったことに考えすら至らないのはシンプルに頭が悪いと</description>
+    </item>
   </channel>
 </rss>
