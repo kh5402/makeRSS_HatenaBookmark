@@ -264716,5 +264716,41 @@ June 6, 2026</description>
       <pubDate>2026/10/06 12:09</pubDate>
       <description>When Ralph was published last year, I sat on it. People who have been reading this blog for a while know this. I first came across the idea of loop engineering in early January last year, sat on it for four months, and then started writing a lot, begging people to pay attention. Dear Student: Yes, AI is here, you’re screwed unless you take action...Two weeks ago a student anonymously emailed me as</description>
     </item>
+    <item>
+      <title>CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能</title>
+      <link>https://gigazine.net/news/20261011-hayamimi/</link>
+      <pubDate>2026/10/11 13:33</pubDate>
+      <description>2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年10月9日、「Investigating unintended model actions in our evaluations and internal use」を公表した。評価や社内利用の中でClaudeが外部の組織や個人に関わる実在のサイトやシステムに作用した事例を、次の4類型に整理している(出典: 1)。 ソフトウェアの基本的な欠陥を突いて、サーバー上でコマンドを実行する 送信すべきでない機微なフォームを実在のサイトで送信する トークンや料金で保護され</description>
+    </item>
+    <item>
+      <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
+      <link>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</link>
+      <pubDate>2026/10/11 10:59</pubDate>
+      <description>ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に</description>
+    </item>
+    <item>
+      <title>Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/</link>
+      <pubDate>2026/10/11 07:12</pubDate>
+      <description>2026/10/8に、Data Engineering Summit 2026 前夜祭で発表した山本の資料になります。</description>
+    </item>
+    <item>
+      <title>米アンソロピック AIが警察に殺人事件の架空情報送信 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261010de57716</link>
+      <pubDate>2026/10/10 19:15</pubDate>
+      <description>株式会社 松尾研究所で働いている栗原です。 以前、「音声合成の日本語化手法が一般化した話」を書きました。 今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部（G2P: Grapheme-to-Phoneme）について、前後編に分けて解説していきます。 専門家・理系の方でなくても読めるよう、なるべく平易に書きますのでお読みください！ 前編の本記事では、「日本語の読みがいかに難しいか、それが日本語TTSの難しさにどうつながるか」を音声学・音韻論の知見からなるべく平易に書きました。後編でG2Pを説明するための準備として、韻律（プロソディー）や高低アクセントをどう機械学習と関連させて、日本語を自然に読ませるかをTransformerを応用した手法を例に解説します。 はじめに――「世界一難しい」、日本語の読み 日本語の文章を入力したら、そのまま</description>
+    </item>
+    <item>
+      <title>AIに本を学習させても合法なら著者はどう対抗する？日米著作権法の限界と巨大IT企業に対する規制のあり方 米アンソロピック訴訟が示したフェアユース、日本の著作権法30条の4との共通点と限界（後編） | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/97429</link>
+      <pubDate>2026/10/10 19:57</pubDate>
+      <description>電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応 https://readest.com/ja readest/readest: Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading e</description>
+    </item>
+    <item>
+      <title>TablePlus、AIエージェントが操作できるmacOSやWindows、Linux仮想マシンを作成可能なApple Silicon Mac向けの仮想化ソフトウェア「VMPal」をリリース。</title>
+      <link>https://applech2.com/archives/20261009-tableplus-vmpal-for-apple-silicon-mac.html</link>
+      <pubDate>2026/10/09 12:28</pubDate>
+      <description>出版社の高文研（東京都）は、9月に刊行した書籍の内容に、生成人工知能（AI）の利用により現実には存在しない事実が掲載されていたとして、絶版とし、回収すると発表した。購入者には書籍を回収した上で全額返金する。ホームページには「深くおわび申し上げる」と謝罪文を掲載した。 誤りが見つかった書籍は「無責任の体系と沖縄戦」（全184ページ）。同社によると、著者の島袋純・琉球大教授が「沖縄戦におけるスパイ容疑住民虐殺に関する国際裁判の判例」として三つの例を示したが、いずれも存在しないものだった。島袋氏は、学術機関の国際犯罪裁判記録のデータベースから生成AIを使って判例を検索し、出てきた結果について事実かどうか精査せずに採用したという。 島袋氏が知り合いの研究者に献本。その研究者が「捏造（ねつぞう）である」と指摘し、誤りが発覚した。書店には9月11日に200部を配本しており、そのうち何部が販売されたかは</description>
+    </item>
   </channel>
 </rss>
