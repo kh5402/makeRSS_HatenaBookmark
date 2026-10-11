@@ -264788,5 +264788,35 @@ June 6, 2026</description>
       <pubDate>2026/10/10 00:12</pubDate>
       <description>Mr.Genki | marketing &amp;amp; webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気が…。 2026-10-09 11:09:25 Mr.Genki | marketing &amp;amp; webdesign @genki_iii とにかく最近、OCRなど雑に作ったなんちゃってSaasを始める事業者が多いけど、どこまで安全性を考慮されてるのかわからないから殆どが信用できない。機密情報を預けるようなSaasとの契約は相当慎重になるべき。 x.com/genki_iii/stat… 2026-10-09 17:22:11 AI Webクローラーとは</description>
     </item>
+    <item>
+      <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
+      <link>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</link>
+      <pubDate>2026/10/11 17:27</pubDate>
+      <description>日本の開発者さんっぽいリポジトリだーと思ってみたら、物凄い高性能な文字起こしツールでした。凄いなコレ。 貰い物の半壊PCでも全然CPUだけで文字起こし出来るし、翻訳でもかなり性能高い感じ。唯一の弱点は複数言語をいっぺんに読み取れないくらいしか、今のところは見当たらない。 こんなの出来るんだ、凄いってなりました。 1. はじめに：なぜ今、ローカル文字起こしツールが重要なのか音声認識（STT）技術の進化は目覚ましく、私たちは会議の議事録作成や動画の字幕付けを自動化できるようになりました。 しかし、その多くは強力なGPUを積んだ高価なPCを必要としたり、機密情報をクラウドへ送信するリスクを伴ったりするもの。 こうした壁を打ち破るべく登場したのが、オープンソースの文字起こしツール「hayamimi」。なんと日本人制作者っぽい。こういうのは心から応援し続けたい。 その名の由来は、情報をいち早くキャッ</description>
+    </item>
+    <item>
+      <title>Windows版CodexがMXCに対応、セットアップを高速化 ——ChatGPTの全プランでオートレビューを無料化、Pro向けにメッセージ予測機能をベータ提供 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/windows-codex-mxc</link>
+      <pubDate>2026/10/10 19:56</pubDate>
+      <description>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します。 これは『AIを活用した仕組み』が作れるようになる27のルールと11ステップをskill化したものです。普段私が使っているルールを、そのままお渡しできる形にしました。記事の最後にダウンロードできます。 できるようになること『AIを活用した業務自動化の仕組み設計』ができるようになります。（例：開発した仕組みで、デザイナー以外の方が実務でWebサイトを作れるようになりました。約15営業日かかっていた作業が3日で完了） この記事の内容第1部：AI活用の真実 第2部：AIの仕組みの作り方 第3部：仕組みの成果の測り方 特典：27 Rules Starter Skill の zip Close-up： - 実例「自動化を始める最初のプロンプト」全文 - AI活用で最も重要な業務分解</description>
+    </item>
+    <item>
+      <title>AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</link>
+      <pubDate>2026/10/11 06:06</pubDate>
+      <description>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態を、規制当局が訓練の仕組みとして維持させています。 この記事では、FAA（米国連邦航空局）、EASA（欧州航空安全機関）、ICAO（国際民間航空機関）がそれぞれ何を言っているかを区別して整理し、そこからソフトウェアエンジニア向けの訓練の考え方を引き出します。 気づいたらコードを読まなくなっていた 最近の開発フローを振り返ると、コードを1行ずつ読む時間ははっきり減っています。要件を AI コーディングエージェントに渡し、実装させ、別のエージェントにレビューさせ、テストも書かせる。やるのは差分の要所</description>
+    </item>
+    <item>
+      <title>Boris Tane</title>
+      <link>https://boristane.com/blog/self-improving-software-is-inevitable/</link>
+      <pubDate>2026/10/11 10:39</pubDate>
+      <description>知らぬ間に生成AI（人工知能）が声の特徴を学習し、本人そっくりの声で、架空の発言や歌声が拡散される。こうしたフェイク（偽）音声や動画がネット上に広がる中、声優・俳優ら約2600人でつくる日本俳優連合…</description>
+    </item>
+    <item>
+      <title>AIエージェントガバナンス入門：FINOS AIGFとAgent Governance Toolkit</title>
+      <link>https://speakerdeck.com/sato4/ai-nyuumon-finos-aigf-to-agent-governance-toolkit</link>
+      <pubDate>2026/10/08 10:01</pubDate>
+      <description>As AI accelerates our work, it&amp;#39;s getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: they can lose access to a source without anyone noticing or fail to follow our preferences. Using Claude</description>
+    </item>
   </channel>
 </rss>
