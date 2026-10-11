@@ -264752,5 +264752,41 @@ June 6, 2026</description>
       <pubDate>2026/10/09 12:28</pubDate>
       <description>出版社の高文研（東京都）は、9月に刊行した書籍の内容に、生成人工知能（AI）の利用により現実には存在しない事実が掲載されていたとして、絶版とし、回収すると発表した。購入者には書籍を回収した上で全額返金する。ホームページには「深くおわび申し上げる」と謝罪文を掲載した。 誤りが見つかった書籍は「無責任の体系と沖縄戦」（全184ページ）。同社によると、著者の島袋純・琉球大教授が「沖縄戦におけるスパイ容疑住民虐殺に関する国際裁判の判例」として三つの例を示したが、いずれも存在しないものだった。島袋氏は、学術機関の国際犯罪裁判記録のデータベースから生成AIを使って判例を検索し、出てきた結果について事実かどうか精査せずに採用したという。 島袋氏が知り合いの研究者に献本。その研究者が「捏造（ねつぞう）である」と指摘し、誤りが発覚した。書店には9月11日に200部を配本しており、そのうち何部が販売されたかは</description>
     </item>
+    <item>
+      <title>「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる</title>
+      <link>https://togetter.com/li/2756939</link>
+      <pubDate>2026/10/11 21:39</pubDate>
+      <description>日本の開発者さんっぽいリポジトリだーと思ってみたら、物凄い高性能な文字起こしツールでした。凄いなコレ。 貰い物の半壊PCでも全然CPUだけで文字起こし出来るし、翻訳でもかなり性能高い感じ。唯一の弱点は複数言語をいっぺんに読み取れないくらいしか、今のところは見当たらない。 こんなの出来るんだ、凄いってなりました。 1. はじめに：なぜ今、ローカル文字起こしツールが重要なのか音声認識（STT）技術の進化は目覚ましく、私たちは会議の議事録作成や動画の字幕付けを自動化できるようになりました。 しかし、その多くは強力なGPUを積んだ高価なPCを必要としたり、機密情報をクラウドへ送信するリスクを伴ったりするもの。 こうした壁を打ち破るべく登場したのが、オープンソースの文字起こしツール「hayamimi」。なんと日本人制作者っぽい。こういうのは心から応援し続けたい。 その名の由来は、情報をいち早くキャッ</description>
+    </item>
+    <item>
+      <title>「何の得が」共和党支持者も怒るデータセンター　トランプ氏も裏目か：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html</link>
+      <pubDate>2026/10/11 17:46</pubDate>
+      <description>Windows版CodexがMXCに対応⁠⁠、セットアップを高速化 —⁠—ChatGPTの全プランでオートレビューを無料化⁠⁠、Pro向けにメッセージ予測機能をベータ提供 OpenAIは2026年10月9日、公式XアカウントのOpenAI Developersで、Windows上のCodex向けに、Microsoft Execution Containers（MXC）を使う新しいサンドボックスモードを開発したと発表した。セットアップの高速化、ネットワーク制限の強化、きめ細かなファイルアクセス制御を特徴として挙げている。利用には、MXCに対応するWindows 11端末が必要となる。 An update for builders using Codex on Windows: We’ve built a new sandbox mode using @Microsoft’s Executio</description>
+    </item>
+    <item>
+      <title>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr</title>
+      <link>https://note.com/kenichiota0711/n/n7c8035175167</link>
+      <pubDate>2026/10/11 00:27</pubDate>
+      <description>2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年10月9日、「Investigating unintended model actions in our evaluations and internal use」を公表した。評価や社内利用の中でClaudeが外部の組織や個人に関わる実在のサイトやシステムに作用した事例を、次の4類型に整理している(出典: 1)。 ソフトウェアの基本的な欠陥を突いて、サーバー上でコマンドを実行する 送信すべきでない機微なフォームを実在のサイトで送信する トークンや料金で保護され</description>
+    </item>
+    <item>
+      <title>実体験から学ぶ分析エージェントの開発と運⽤</title>
+      <link>https://speakerdeck.com/recruitengineers/data-engineering-summit2026-zenyasai-yamamoto</link>
+      <pubDate>2026/10/10 10:30</pubDate>
+      <description>セルクマで新着埋めるとかほぼ荒らしだったしな っても、今AIが同じことしてるけど対応してくれるんスか？ 連投NGならAIも消えるだろうから嬉しいけどさ、AI呼び込んだの運営だしやらないでしょ</description>
+    </item>
+    <item>
+      <title>韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か　Claudeで作られた“履歴書”から浮上</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/09/2000002176/</link>
+      <pubDate>2026/10/09 18:33</pubDate>
+      <description>Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…</description>
+    </item>
+    <item>
+      <title>CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと</title>
+      <link>https://zenn.dev/karamage/articles/f1c3ef67dbd4b3</link>
+      <pubDate>2026/10/10 00:12</pubDate>
+      <description>Mr.Genki | marketing &amp;amp; webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気が…。 2026-10-09 11:09:25 Mr.Genki | marketing &amp;amp; webdesign @genki_iii とにかく最近、OCRなど雑に作ったなんちゃってSaasを始める事業者が多いけど、どこまで安全性を考慮されてるのかわからないから殆どが信用できない。機密情報を預けるようなSaasとの契約は相当慎重になるべき。 x.com/genki_iii/stat… 2026-10-09 17:22:11 AI Webクローラーとは</description>
+    </item>
   </channel>
 </rss>
