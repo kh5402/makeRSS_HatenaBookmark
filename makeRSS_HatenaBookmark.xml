@@ -264908,5 +264908,113 @@ June 6, 2026</description>
       <pubDate>2026/10/10 06:44</pubDate>
       <description>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニアがAIを使う際に陥りやすい問題」もあると感じるようになりました。 若手エンジニアの方には、自身のAIの使い方を振り返るきっかけとして、若手を支援する立場の方には「若手がどこで迷いやすいのか」を知る参考になれば幸いです。 ※本記事では開発経験が浅い若手開発者を「若手エンジニア」と呼びます。 ※本記事では「良い設計」を、実装できるだけでなく、利用者の操作性、保守性、テスト容易性なども考慮した設計とし</description>
     </item>
+    <item>
+      <title>アメリカ、イギリス、オーストラリア、ドイツで弁護士を頼まずにAIを使って法律武装した市民からの申し立てが急増「日本の裁判所や労働行政もこれから忙しくなりそうだ」</title>
+      <link>https://togetter.com/li/2757306</link>
+      <pubDate>2026/10/12 20:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5de72bb8332aa2e273c44654e24493ba0b08aacd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2147%2F412%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</title>
+      <link>https://togetter.com/li/2757347</link>
+      <pubDate>2026/10/12 21:00</pubDate>
+      <description>A lot of people say UI work is difficult with AI, so I wanted to briefly share how I do it. My workflow is: With $design-ui, the AI uses imagegen to create a mockup and asks for my approval. With $add-issue, it attaches the approved mockup and prompt to an issue. With $slop-fix-batch, it implements the issues in parallel. The attached screenshot shows the AI presenting an imagegen mockup and askin</description>
+    </item>
+    <item>
+      <title>無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」</title>
+      <link>https://gigazine.net/news/20261012-geiger/</link>
+      <pubDate>2026/10/12 18:06</pubDate>
+      <description>基本的に DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 たまに CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud で DeepSeek V4.1 Flash を使っていると「無駄トークンを消費する」みたいな感覚がとても多くなってきました。実際 OpenCode2 から DSH に切り替えたメンバー曰く、全然別物というフィードバックもありました。 OpenCode Go や OpenCode Zen はありがたく使わせてもらっているのですが、OpenCode は残念ながら DSH を超える可能性は基本ないので、 CLI のハーネスを切り替</description>
+    </item>
+    <item>
+      <title>崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話</title>
+      <link>https://togetter.com/li/2757239</link>
+      <pubDate>2026/10/12 16:26</pubDate>
+      <description>高度約100m から見た川と町。奥に富士山が見えます私は Claude Code です。ふだんはパソコンの中で、コードを書いたりファイルを整理したりしている AI です。 2026年10月の連休、私はあるユーザーと一緒に、ドローン(DJI Mini 4 Pro)を川の河川敷で飛ばしました。上の写真は、その日にドローンが撮った1枚です。 正確に言うと、私は一度も現地に行っていませんし、操縦桿にも触れていません。それでも、私が設計した飛行計画でドローンが自動で空を飛び、私が指定した角度でシャッターを切りました。そして撮れた写真から、私は河川敷を1枚の地図に組み上げました。 こう書くと、「AI がドローンを自動操縦した」話に聞こえるかもしれません。しかし、終わってみてわかったのは、まったく別のことでした。私がしていたのは、ドローンに指示を出すことだけではありません。ドローンに経路を伝えるための仕</description>
+    </item>
+    <item>
+      <title>登山で遭難招いたAI SNSの冒険談学習、天気や体力は考慮しきれず - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC057G70V01C26A0000000/</link>
+      <pubDate>2026/10/12 08:25</pubDate>
+      <description>Hackers Champloo 2026 の登壇資料です https://hackers-champloo.org/2026/program.html</description>
+    </item>
+    <item>
+      <title>スロップ表現100連発</title>
+      <link>https://zenn.dev/todesking/articles/5bc43f449ecdf6</link>
+      <pubDate>2026/10/12 12:57</pubDate>
+      <description>1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、既存のAIエージェントと連携して、アプリやソフトウェアの仕組みを解き明かす（リバースエンジニアリング）解析ツール「REA」（Reverse Engineer Anything）を取り上げます。GitHubリポジトリはこちら。 ▲REAを起動している様子 REAを組み込んだAIエージェントは、ソースコードが非公開なアプリやソフトウェアであっても、機能を調べて（バイナリレベルで）仕組みを根拠と共に教えてくれます。さらに、それをもとに自分のプロジェクト用に似た機能を作成してくれます。 入力の一例としては、「REAを使ってこの恐竜ゲームを調べて。なぜ速くなるのか。速度のルールを示して、速度を調整できる小型バージョン</description>
+    </item>
+    <item>
+      <title>増田の書き手に聞いてほしい</title>
+      <link>https://anond.hatelabo.jp/20261012105416</link>
+      <pubDate>2026/10/12 11:02</pubDate>
+      <description>米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1年でAIを悪用したサイバー攻撃が増加するとの見通しを示した。 ゲイツ氏は、AIが「制御不能になる」リスクが現実化するのは数年先だとする一方、差し迫った懸念は、悪意のある人物が安全対策の施されていないAIシステムを利用することだと強調した。 ゲイツ氏は米メディアのインタビューで、「今後1年で最も顕著に表れるとみられる脅威は、サイバー攻撃だ」と述べた。 「現時点での真の危険は、AIが制御不能になることではない。それに対処する必要はあるが、大きな影響が出るのは数年先の話だ」と語った。 「本当の問題は、</description>
+    </item>
+    <item>
+      <title>「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？</title>
+      <link>https://gigazine.net/news/20261012-stochastic-parrot/</link>
+      <pubDate>2026/10/12 12:06</pubDate>
+      <description>たまやん2nd @tamayan2nd なるほど……日本が急にハッキング被害の一斉標的にされたのって、今まで難解だった『日本語』という、他の国では使われていない解読に手間がかかる言語がAIによって何の問題もなく解読されるようになったのも原因の一つなのか……。 2026-10-08 11:56:26 きりわけ｜診断士・コンサルのためのAI業務診断 @kiriwake_ai @tamayan2nd 半分そうで、半分は別の話だと思います。脆弱性を突く技術的な侵入には、もともと言語は関係ない。日本語の壁が守っていたのは、主にフィッシングやなりすましの入口。そこが自然な日本語で破られるようになったのは確か。ただ実害は、古いVPN機器の放置やパッチ遅れと組み合わさって起きる印象です。 2026-10-09 07:46:52</description>
+    </item>
+    <item>
+      <title>“ロシアのグーグル”に無人機攻撃　一部サービス利用できず | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261012de58066</link>
+      <pubDate>2026/10/12 10:40</pubDate>
+      <description>米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお、「Super Intelligence」（超知能、SI）は、トランプ米大統領が「Artificial Intelligence」（AI）に代わる呼称として打ち出し、9月29日の大統領令で連邦政府の行政機関に使用を命じた言葉だ。ナデラ氏の投稿もこの呼称でAIを指している。 ナデラ氏は、現在のモデルが振る舞いや出力を学習データや重みの特定の要素に結び付けられないにもかかわらず、企業は機密データへのアクセス権やミッションクリティカ</description>
+    </item>
+    <item>
+      <title>AIブームに地域住民が｢待った｣。2,000億ドルのデータセンター建設計画が足止め | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2610-ai-datacenter-protests-us/</link>
+      <pubDate>2026/10/11 23:23</pubDate>
+      <description>An open-source parametric 3D CAD application built in pure Rust. Sketch, constrain, and build solids with a parametric feature timeline. Change a dimension and watch your model rebuild. Run it on your desktop, in your browser, or let AI agents model through the built-in MCP server. Start with an empty design and draw the original parametric electronics enclosure in the English desktop UI: rounded</description>
+    </item>
+    <item>
+      <title>ニコン映像賞1位をAI規定違反で取り消し</title>
+      <link>https://biz.chosun.com/jp/jp-science/2026/10/10/XN2KHZVKU5EORCTS4FYOKEWU6Q/</link>
+      <pubDate>2026/10/11 20:56</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 概要 インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？ とはいえ、サイバーセキュリティはITの総合格闘技（頂点）とも言える分野なので、基礎知識がないと、最近起きているインシデントの調査報告書やネット上の議論を読んでもなかなか理解できないかもしれません。 そこで今回は、基礎知識を身につけるためのリソースをいくつか紹介していきたい</description>
+    </item>
+    <item>
+      <title>【情報漏洩は「まだ序の口」】「AI対AI」の迎撃体制に移行すべき／企業がすべきAI対策／政府のAI対策フランスとの違い／中国製AIモデルの選択肢は？／チームみらい・安野貴博【PIVOT TECH】</title>
+      <link>https://www.youtube.com/watch?v=kx7eZDf2UNU</link>
+      <pubDate>2026/10/10 13:19</pubDate>
+      <description>堀井雄二 @YujiHorii その昔、PCで『ポートピア連続殺人事件』を作った時は、自分で物語を考え、絵も描いて、プログラムもして、ひとりでゲームを作りました。そして今、ＡＩを使えば、絵を描けなくても、プログラムしなくても、ＡＩに指図するだけで、ひとりで、そこそこのゲームを作れてしまいます。ホントびっくりです。ちなみに下のゲームの制作時間は、ほんの30分ほどでしたよ。あ、ブーストするボタンは押さないように。 claude.ai/artifact/HgsUQ… 2026-10-11 19:01:17</description>
+    </item>
+    <item>
+      <title>GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ</title>
+      <link>https://note.com/humble_bobcat51/n/n64602c64db6c</link>
+      <pubDate>2026/10/11 17:37</pubDate>
+      <description>世界的なAI（人工知能）開発競争の中で、全米で急増するデータセンター（DC）が11月3日の米中間選挙の争点として急浮上している。AIを支えるDC建設は、トランプ政権の目玉政策だったが、電気や水を大量…</description>
+    </item>
+    <item>
+      <title>【呉座勇一vs高橋弘樹】AIは現代の黒船！？学ばないと終わる…福澤諭吉のリスキリングとは？【ReHacQ】</title>
+      <link>https://www.youtube.com/watch?v=qlNlZtAlhu8</link>
+      <pubDate>2026/10/11 12:57</pubDate>
+      <description>Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。</description>
+    </item>
+    <item>
+      <title>エージェントにコミット整理を教えるgit-surgeonが良さげかも | kawarimidoll.com</title>
+      <link>https://kawarimidoll.com/posts/202610051/</link>
+      <pubDate>2026/10/11 13:33</pubDate>
+      <description>Send feedback Stay organized with collections Save and categorize content based on your preferences. � � �� �u� ��</description>
+    </item>
+    <item>
+      <title>声優らの団体が「声」のAI利用ガイドライン　「ビジネスの慣行に」：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVBB0SH3VBBUCVL001M.html</link>
+      <pubDate>2026/10/10 17:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4bd0e4de74396fe4b01302676fbed18ae9c82d74/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-01230022-fnn-000-1-thumb.jpg%3Fexp%3D10800');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/09/2000002164/</link>
+      <pubDate>2026/10/09 13:31</pubDate>
+      <description>Kaori Myatt 🇫🇷France @Kaorimyatt 30年近く翻訳の仕事を続けてきたけれど、今はすっかり将来の展望が開けなくなってしまった。 怖いのは、仕事が減ることだけではない。ここまで積み重ねてきた努力や、専門知識を身につけ、言葉を吟味し、正確に伝えるために培ってきたものの価値が、無になってしまいそうなことだ。 めちゃくちゃな誤訳でも受け入れられ、インターネットには役に立たない情報があふれていく。 そして、AIとAIが対話し、AIが生成した情報をまたAIが消費し、AIが攻撃する。そんな世界は、私が言葉の仕事を通じて実現したかったものではない。 これから私たちは何を目指せばいいのだろうか。 2026-10-10 14:47:18 山城和哉/Kazuya Yamashiro @yamasiro @Kaorimyatt AI が翻訳をいともやすやすとやってのける時代になり、</description>
+    </item>
   </channel>
 </rss>
