@@ -265370,5 +265370,107 @@ June 6, 2026</description>
       <pubDate>2026/10/10 15:14</pubDate>
       <description>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は2026年10月6日にbetaとして公開されたOpenAI Decisions APIについて、画像認識タスクでどのくらいの精度が出るのかを、昔ながらの画像モデルの学習やResponses API、Coding Agentと比べながら見ていきたいと思います。 Decisions APIは「この画像に傷はある？」「この書類はどの種類？」といった質問を投げると、答えを文章ではなく確率で返してくれるAPIです。OpenAIはResponses APIの約10倍速いと案内していて、分類やルーティングの用途を想定しています。 分類のAPIと聞くと、画像認識にそのまま使えそうに見えます。ただ、画像認識には教師データで学習した専用モデルという強い競合がいます。そこで今回は、画像分類、マルチラベル分類、行動予測、異常検知という性質の違う5つのタ</description>
     </item>
+    <item>
+      <title>OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/14/2000002236/</link>
+      <pubDate>2026/10/14 07:35</pubDate>
+      <description>ベトナム語で書かれた運転免許学科試験の問題が外部に流出したことが発覚したとして、千葉県警運転教育課は13日、ベトナム語の学科試験を一時中止すると発表した。中止するのは、16日から問題を再作成するまでの当面の間としている。 運転教育課によると、13日午前10時50分ごろ、千葉運転免許センター（千葉市美浜区）で実施されたベトナム語の普通自動二輪の学科試験で、受験していたベトナム国籍の女性（29）のスマートフォンの写真フォルダから、試験問題の画像が見つかった。 試験会場ではスマホの電源を切るよう指示していたが、女性は試験終了直後、会場前方に設置されていた黒板を撮影。不審に思った試験官が「何の写真を撮ったんですか」などと写真フォルダを確認すると、黒板の写真のほか、レ点やバツ印などがあらかじめ記入された試験問題の画像4枚が見つかったという。 女性は「チャットGPTで検索して、試験問題を入手した」とい</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
+      <pubDate>2026/10/14 01:24</pubDate>
+      <description>佐藤和紀 @KazunoriSATO4 高校生から「生成AIについて探究しているので質問に答えてほしい」というメールが届きました。 意欲は素晴らしいなと思ったのですが，「○○県内の高校生」としか書かれておらず，高校名も氏名も指導教員名も不明でした。 誤字も多く，数日後の回答期限が一方的に書かれていました。 そこで，研究室の学生たちに「依頼メールとして何が足りないか」を考えてもらいました。 学生たちからは， ・高校名も氏名も名乗っておらず，担当の教員名など連絡先も書かれていない ・なぜ私に聞くのか（どの本や記事などを読んだのか，専門領域の理解など）が不明 ・調べて分かることや自分たちの仮説が書かれておらず，質問が丸投げで抽象的な印象 ・回答する側の負担や日程への配慮がない などの指摘が出ました。 高校生には，学生たちの意見も添えて「なぜ今のままでは答えられないのか，どう書き直せばよいか」を返</description>
+    </item>
+    <item>
+      <title>【Claude Mythos級オープンモデル拡散で始まる悪夢】チームみらい・安野貴博「従来型サイバー防衛ではもう無理」／「1～2年で発生」今井翔太が懸念する「GPT暴走」以上の事件【AI QUEST】</title>
+      <link>https://www.youtube.com/watch?v=MJk8JDTUoGE</link>
+      <pubDate>2026/10/13 21:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ac73bd23dafc449bdfa5b1e28ca134d9c4b86ce4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2147%2F611%2Fms1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>SpaceXAI、「Grok」「Cursor」「X Premium」を1つにまとめた「The X Subscription」を発表／月額30米ドルの「Premium」には、これまで合計90米ドルだった3プランの特典を提供</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2147453.html</link>
+      <pubDate>2026/10/13 12:57</pubDate>
+      <description>中国に拠点を置くAI起業のZ.aiが法務タスクに特化したAIモデル「GLM-Legal」を発表しました。 GLM-Legal: Advancing Agentic Legal Intelligence https://z.ai/blog/glm-legal Introducing GLM-Legal Built on GLM-5.3-Flash, GLM-Legal matches frontier models on mainstream legal benchmarks. Designed for real legal workflows: contract review, evidence analysis, compliance, and more. Tech Blog: https://t.co/hx2I77MaiK Apply for API Access:… pic.twit</description>
+    </item>
+    <item>
+      <title>Unreal Engine手がけるEpic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261013-473138/</link>
+      <pubDate>2026/10/13 15:06</pubDate>
+      <description>デベロッパーのJin Hwi-eus氏は10月5日、人生シミュレーター『80億分の1』をリリースした。本作はSNS上で話題となっており、多くのプレイヤーがもう1人の自分の人生について投稿している。 『80億分の1』は、統計データに基づいた人生シミュレーションゲームである。プレイヤーは世界のどこかの誰かとして、生を受けることになる。どこの国で生まれるかはわからず、どんな家庭の子となるかもわからない。そうした未知の要素は統計データに基づいてランダムに決定される。進路選択や就職、病気や事故、学校でのいじめ、家族の死など、さまざまなことを体験しながら、もう1人の自分の人生を見つめるのだ。 ゲームを開始する際には、生まれる世界と、生まれる国の決め方、ひとつの人生の長さを選択する。設定に基づいて人生がスタートすることになるが、世界のどこで生まれるかや、両親がどんな人か、家庭の裕福さなどはいっさい選ぶこ</description>
+    </item>
+    <item>
+      <title>トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
+      <link>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</link>
+      <pubDate>2026/10/13 13:53</pubDate>
+      <description>この方法なら、人間だけでなく動物や魔獣みたいな、どうやってリギングやモーションつけたらいいか素人にはよくわからない生物とかでも、ぐりぐり動かせます。 下記のXのポストが元になってます。とても参考になりました！ GPT画像→Tripo3D→Opus5.5での各足へのボーン入れ、セグメンテーションとカラーリング→H3による動作リファレンス映像作成→Opus君が確認しながらキーフレームを作成して３Dアニメーション作成、レンダリング。 これだとまあ一回でそれらしいのが出ますね。… pic.twitter.com/G1H6N4N8yA — AI動画システムUEGAと制作・開発　武田 (@AINetworkTech) October 9, 2026 使うツールOpus 5.5 (Claude Code) MiniMax H3 FL2V Blender 5.x 三面図を作れる画像生成AI（GPT ima</description>
+    </item>
+    <item>
+      <title>AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成　ANYCOLORが削除要請</title>
+      <link>https://kai-you.net/article/96808</link>
+      <pubDate>2026/10/13 11:51</pubDate>
+      <description>Sarashina（サラシナ）は、SB Intuitionsが日本語データを重点的に学習させて開発している国産の大規模言語モデルです。チャットとAPIで提供しています。</description>
+    </item>
+    <item>
+      <title>X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に</title>
+      <link>https://gigazine.net/news/20261013-the-x-subscription/</link>
+      <pubDate>2026/10/13 12:41</pubDate>
+      <description>AI に画面を作らせると、1 画面ずつは悪くないのに、並べると少しずつ違う。余白が数 px ずれる。同じ青に別々の名前が付く。似たボタンがまた 1 つ増える。 この記事は、デザイナーのいない個人開発で、この「ずれ」を止めるまでの記録だ。やったことは 3 つある。 作る: AI に画像で案をいくつも出させ、自分で選んで画面を作り直した 見直す: 作り直したら、デザインファイルとコードで色や文字サイズの決め方が食い違っていたので、どちらを正とするか決め直した 守る: AI が作った画面がデザインから外れたら、自動で止まる仕組みを入れた 3 つ目の仕組みを、デザインハーネスと呼んでいる。AI に画面を作らせても、デザインから外れないようにする仕組み全体のことだ。作らせる前に守るべきデザインを渡し、作った後に外れていたら止め、同じ指摘が続いたら仕組みの方を直す。 作っているのは学習アプリで、画面の</description>
+    </item>
+    <item>
+      <title>「Claude」でコードを1行も書かずに11日間で有料アプリを作った方法</title>
+      <link>https://japan.zdnet.com/article/35253279/</link>
+      <pubDate>2026/10/13 04:08</pubDate>
+      <description>公開日: 2026/10/12 最終更新: 2026/10/12 この記事ではTableauのワークブックを生成AI、具体的にはClaude Codeにゼロから作らせてみた実験と、その体験を通して感じたことを書きます。 この話を試そうとした動機は2つあります。 1つは技術的な興味でした。9月にTableauのCodex向けプラグインが公開され、この中に整理されたワークブックのスキーマやリファレンスがありました。現在ではどこまで生成AIにワークブック作成を任せられるのかを試してみたくなりました。 もう1つは、先日のAIBIの世界観を考えるという記事で書いたことの続きです。 BIプラットフォームの必要性は残るとして、その上に載せるために専用の形式にすることに工数がかかり続ける状況は、ちょっと適切ではないと考えています。 例えば、生成AIならHTML等ですぐに形にできるのに、それを組織的に共有す</description>
+    </item>
+    <item>
+      <title>Announcing AWS Lambda Web Functions | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/</link>
+      <pubDate>2026/10/13 08:29</pubDate>
+      <description>Show captions for Researchers introduce Muse Wonder and discuss its capabilities.Show captionsMute Researchers introduce Muse Wonder and discuss its capabilities.Mute A frontier model that leads on personal and professional agents Today, we’re excited to introduce the Muse Wonder series with Muse Wonder and Muse Wonder Full, our most capable models that deliver state-of-the-art performance on pers</description>
+    </item>
+    <item>
+      <title>GitHub - init-co-jp/diff-tour: Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.</title>
+      <link>https://github.com/init-co-jp/diff-tour</link>
+      <pubDate>2026/10/12 23:39</pubDate>
+      <description>米マイクロソフトのロゴ＝2024年3月（ロイター＝共同）（KYODONEWS）　【ニューヨーク共同】米IT大手マイクロソフト（MS）は12日、人工知能（AI）の推論（回答生成）向けの次世代半導体「マイア300」を発表した。来年から米国で導入を始め、数ギガワット規模に広げる。対話型AI「コパイロット」など自社サービスの中核基盤とし、日本を含む世界各地にも配備する計画だ。 【写真】ビル・ゲイツ氏が暴露したトランプ氏の「無知さ」　18年 AIの普及による膨大な電力消費が課題となる中、半導体と周辺装置、データセンターの設備を一体で設計し、同じ電力でより多くの半導体を動かせるようにした。処理量は約4割増える見込みで、処理能力は前世代の最大7倍になるという。 長文脈の読み込みや、複雑な手順をこなす自律型のAIエージェントの処理に最適化した。事業責任者のアンドリュー・ウォール氏は共同通信の取材に「会社の</description>
+    </item>
+    <item>
+      <title>人間が1行もコードを書かずにハッカソン1位を獲った話（前編）― Grok Botと3人チームの6時間｜a null-sensei</title>
+      <link>https://note.com/goroman/n/ncc09f4476257</link>
+      <pubDate>2026/10/12 14:14</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5de72bb8332aa2e273c44654e24493ba0b08aacd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2147%2F412%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>職業訓練校に入学し、定員20名のクラスに入ったら8名……なんで受講者が少ない科があるんだろう？</title>
+      <link>https://togetter.com/li/2757341</link>
+      <pubDate>2026/10/12 21:48</pubDate>
+      <description>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</description>
+    </item>
+    <item>
+      <title>実践！ SRE × AI - ABEMA における AIOps -</title>
+      <link>https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops</link>
+      <pubDate>2026/10/12 14:30</pubDate>
+      <description>さっそくいってみよう(唐突) 窓ガラスが夜をやさしく折りたたんでいる 傘の下の街灯は、虫の羽音ごと黄色く滲んでいる 日常で忙しく動いている頭が、ようやく止まったような気がした 今度は外の雑踏の音がどっと流れ込んで、すぐに閉じた 夜の駅前は、閉じきれなかった箱のように冷えていた 鍋の底にのこったぬくもりが、まだ台所に漂っているからだろう 玄関の靴べらが、片方だけ消えた靴の形を、いつまでも空中に留めていた スマホは、与えた瞬間に終わりではなく、そこから始まる教育だと考えたい その音だけは全員の膝の上に等しく乗っている そういう微細な変化に気づけるかどうかで、その人が今どこにいるかが決まる。 車のドアを閉めると、静けさが一度だけ大きく鳴った 低い唸りが、眠れない巨人の寝息のように店内を満たす 降り続けるたびに、世界の輪郭が少しずつ丸くなっていく 鍵を回す音が、夜の廊下に長く響いた。 測れないもの</description>
+    </item>
+    <item>
+      <title>GitHub - bherbruck/solidcraft: SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.</title>
+      <link>https://github.com/bherbruck/solidcraft</link>
+      <pubDate>2026/10/11 22:22</pubDate>
+      <description>Zderusyfikowany internet (ukraińskie trafienia w centra Yandexa) nagle objawia cuda w socjalach: poparcie dla AfD w socjalmediach spadło o 56%. Mniej &amp;quot;polskich&amp;quot; kont szczujących na Ukraińców, mniej &amp;quot;ukraińskich&amp;quot; szczujących na Polaków, poparcie w sieci dla MAGA gwałtownie spadło :))) Czekam na dalsze mierzalne wyniki nagłych spadków poparcia dla Gaśniczakokacapów, AfD, Trumpa itp.— Jarosław Wolski</description>
+    </item>
+    <item>
+      <title>「私の音楽遍歴20枚」をまとめてみた。 - 世界のねじを巻くブログ</title>
+      <link>https://www.nejimakiblog.com/entry/watashino-ongaku-henreki-twitterx-music-history-matome</link>
+      <pubDate>2026/10/11 08:48</pubDate>
+      <description>生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。 1996: Can a Computer Produce Art? | It&amp;#39;ll Never Work | BBC Archive - YouTube BBCが公開したのは、1993年から1999年までBBCで放送された教育番組「It&amp;#39;ll Never Work？(それは絶対にうまくいかないよね？)」のアーカイブ。「It&amp;#39;ll Never Work？」は当時の科学技術における新しい発明や発展を紹介する番組で、司会者たちが世界中の研究所などを訪れてタイトルの通り新技術が実際に機能するか検証する内容です。 「It&amp;#39;ll Never Work？」の1996年12</description>
+    </item>
   </channel>
 </rss>
