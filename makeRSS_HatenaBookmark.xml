@@ -265127,5 +265127,131 @@ June 6, 2026</description>
       <pubDate>2026/10/09 10:23</pubDate>
       <description>米セキュリティ企業CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃について、攻撃者が使ったとみられるサーバの分析結果を公表した。中国で開発されたオープンソースのAI侵入テストツール「ARTEX」と複数のLLM（大規模言語モデル）を悪用した痕跡に加え、攻撃者本人のものとみられる個人情報も見つかったという。 韓国では9月末から複数の金融機関で情報流出が相次ぎ、英Reutersによると、被害の公表や現地報道で標的と判明した銀行は少なくとも9行に上る。この一連の攻撃を調べていたCrowdStrikeは、攻撃に関連するIPアドレスのサーバで、誰でも閲覧できる状態のディレクトリを発見した。 中にはAIコーディングツール「Claude Code」の利用記録やARTEXの設定ファイルなどが残っており、攻撃者が9月下旬から10月上旬にかけて、報道で被害が判明した金融機関と重</description>
     </item>
+    <item>
+      <title>マイクロソフトが目指す「AIとWindows 11」の新しい関係【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/2147435.html</link>
+      <pubDate>2026/10/13 10:42</pubDate>
+      <description>【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」 ― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― 脅威情報分析チームLETTICEは、一般に公開されているAndroidアプリを解析し、その結果を利用して、アプリの裏側で動作するバックエンドサーバを攻撃する手法「A2B攻撃（App-to-Backend Attack）」を確認しました。 A2B攻撃では、攻撃者が公開アプリからAPI（アプリとサーバの間で情報をやり取りする仕組み）の接続先や仕様などを調べ、対象となるサーバに合わせた攻撃を実行します。アプリ自体に脆弱性がなくても、バックエンドサーバの認証・認可や入力値の検証などに不備があれば、不正アクセスや個人情報の漏洩につながるおそれがあります。また、AIの活用によってアプリ解析や脆弱性探索が効率化され、こうした攻撃がより多くの</description>
+    </item>
+    <item>
+      <title>AIが数学の未解決問題を解決しまくる現代に数学者テレンス・タオ氏が提言する「Math 2.0」とは？</title>
+      <link>https://gigazine.net/news/20261013-terence-tao-math-2-0/</link>
+      <pubDate>2026/10/13 15:07</pubDate>
+      <description>In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these methods have reduced the amount of data harvested by distillers by around 90 to 99 percent. Distillation attacks are covert, industrial-scale campaigns to extract the capabilities of one model and replica</description>
+    </item>
+    <item>
+      <title>国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始 | プレスリリース | SB Intuitions株式会社</title>
+      <link>https://www.sbintuitions.co.jp/news/press/20261013_01/</link>
+      <pubDate>2026/10/13 12:44</pubDate>
+      <description>AIチャットサービス「zeta（ゼタ）」が10月12日、VTuberグループ・にじさんじに関連するコンテンツを無断で使用した「プロット」の削除を進めていると発表した。 zetaの発表によると、にじさんじを運営するANYCOLOR株式会社から、同社が権利を有するコンテンツの無断使用について報告があり、許可なく使用しているプロットの全面的な削除を要請されたという。 zetaは権利者からの要請に基づき、該当するプロットの削除対応を進めている。なお、削除対象となるプロットの具体的な件数や、対応の完了時期などは明らかにされていない。 日本の登録ユーザー400万人超、AIチャットサービス「zeta」とは？「zeta」は、韓国のAI企業・Scatter Labが開発／運営するAIチャットサービス。2024年5月に正式リリースされた。 ユーザーがキャラクターの性格や口調、人物関係、物語の舞台などを設定し、</description>
+    </item>
+    <item>
+      <title>Sarashina</title>
+      <link>https://sarashina.ai/</link>
+      <pubDate>2026/10/13 12:45</pubDate>
+      <description>SpaceXSI(旧称：SpaceXAI)がSNS「X」、AIサービス「Grok」、コーディングAIサービス「Cursor」の有料サブスクリプションプランを統合したことを発表しました。新たなサブスクリプションの名称は「The X Subscription」で、個人向けプランは「Free」「Plus」「Premium」「Super」「Ultra」の5段階に分かれています。 Pricing: Compare Plans | SpaceXSI https://x.ai/pricing We&amp;#39;ve unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription. pic.twitter.com/SvkrVvBa0p— SpaceX Super Intelligence (@SpaceXSI) Octo</description>
+    </item>
+    <item>
+      <title>Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/13/2000002204/</link>
+      <pubDate>2026/10/13 11:55</pubDate>
+      <description>プログラマー／テクニカルライター クジラ飛行机（くじらひこうづくえ） 1976年生まれ。愛知県豊橋市出身。ソフト企画「くじらはんど」代表。2001年に日本語プログラミング言語「ひまわり」を手がけ、2004年には「未踏ユース」プロジェクトに採択され、後継となる「なでしこ」を開発。本業の傍ら、50冊以上の技術書を執筆しており、近年は『生成AI・ChatGPTでPythonプログラミング』（ソシム）『Pythonでまなぶ ローカルLLMの訓練と使いこなし』（ソシム）などAI関連の著書も多数。 くじらはんど公式サイト　なでしこ公式サイト　X:@kujirahand 「AIには、もう勝てないですね」――日本語プログラミング言語「なでしこ」の開発者・クジラ飛行机さんは、そう言って笑います。 2004年のβ版公開から20年あまり。なでしこは事務作業の自動化から、中学校の技術の授業（教育図書の2021年度</description>
+    </item>
+    <item>
+      <title>NTTがアンソロピック向けデータセンター　日本初、大阪で開設へ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC059W20V01C26A0000000/</link>
+      <pubDate>2026/10/13 11:12</pubDate>
+      <description>ITmedia AI＋が日本法人のグーグル・クラウド・ジャパンに取材したところ、Gemini agentは企業向けAI基盤の「Gemini Enterprise」に続く「重大な進化」（同社）と位置付けられ、Gemini Enterprise加入者は追加料金なしで利用できることが分かった。 「Google Workspace」加入者もGemini agentを利用できるが、同社は「詳細や料金体系などは追って公開」するとしており、Gemini Enterprise版のGemini agentとの機能差や追加料金が発生する可能性がある。 一方同社は、今回の発表においてコンシューマー向け「Gemini」アプリなどに関連したアップデートはなく、コンシューマー向けのGemini Sparkについても特に変更はないと述べており、現時点においてGemini agentが企業向けのサービスであることが分かっ</description>
+    </item>
+    <item>
+      <title>【福田昭のセミコン業界最前線】 AI特需による異常な半導体不足がもたらす個人向け市場の「ディストピア」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2147451.html</link>
+      <pubDate>2026/10/13 09:45</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5c5d3165285cfbaf22ffea9b6ccf302051b0d616/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2146%2F074%2Fyamaga_main.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF084YV0Y6A001C2000000/</link>
+      <pubDate>2026/10/13 08:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fb6f9eab9b884c65e3f8f6e6e511eabc9d71d5b8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2147%2F289%2Fpowerpoint.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Why Knowledge Graph Projects Fail — and How to Make Them Succeed</title>
+      <link>https://ontologist.substack.com/p/why-knowledge-graph-projects-fail</link>
+      <pubDate>2026/10/13 09:19</pubDate>
+      <description>The session catalog is live. Explore what&amp;#39;s waiting for you</description>
+    </item>
+    <item>
+      <title>Muse Wonder: A Frontier Model For Personal &amp;amp; Professional AI Agents</title>
+      <link>https://research.meta.ai/blog/muse-wonder</link>
+      <pubDate>2026/10/13 04:11</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>愛車がAIエージェントとなる「CarWatch」、必要なのはRaspberry Pi 5とローカルAI</title>
+      <link>https://gigazine.net/news/20261012-carwatch/</link>
+      <pubDate>2026/10/12 19:07</pubDate>
+      <description>岡野タケシ弁護士【アトム法律税務グループ】 @takeshibengo AIで法律武装した市民からの申し立てが急増しているらしい。 まずアメリカ。 存在しない判例などを引用した書面が、裁判所で1500件近く見つかっている。半分以上は、弁護士をつけない本人訴訟だという。 次にイギリス。 雇用審判所への申し立てが1年で4割増え、未処理は7万件で過去最多。審判所のトップも、AIが一因だろうと言っている。 そしてオーストラリア。 労働紛争を扱う国の委員会への申し立てが、毎年のように過去最多を更新している。トップが声明で、主な原因はAIだとはっきり書いた。 最後にドイツ。 ある州の裁判所で、社会保障の給付をめぐる緊急の申し立てが、今年の上半期だけで去年の2倍になった。裁判所自身が、AIの利用が主な原因だろうと発表している。 共通しているのは、弁護士を頼まず、AIで書面を作って自分で申し立てる人が増え</description>
+    </item>
+    <item>
+      <title>脱NVIDIAを急ぐMicrosoft、わずか9カ月で次世代AIチップ「Maia 300」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147412.html</link>
+      <pubDate>2026/10/12 22:23</pubDate>
+      <description>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</description>
+    </item>
+    <item>
+      <title>百合展10周年再始動キャンペーン、イベントのティザーイラストに生成AIを使用した事が物議になり、結果告知翌日に開催中止になる</title>
+      <link>https://posfie.com/@cu6gane/p/fTySpD9</link>
+      <pubDate>2026/10/12 02:52</pubDate>
+      <description>A lot of people say UI work is difficult with AI, so I wanted to briefly share how I do it. My workflow is: With $design-ui, the AI uses imagegen to create a mockup and asks for my approval. With $add-issue, it attaches the approved mockup and prompt to an issue. With $slop-fix-batch, it implements the issues in parallel. The attached screenshot shows the AI presenting an imagegen mockup and askin</description>
+    </item>
+    <item>
+      <title>抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita</title>
+      <link>https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d</link>
+      <pubDate>2026/10/12 07:59</pubDate>
+      <description>基本的に DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 たまに CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud で DeepSeek V4.1 Flash を使っていると「無駄トークンを消費する」みたいな感覚がとても多くなってきました。実際 OpenCode2 から DSH に切り替えたメンバー曰く、全然別物というフィードバックもありました。 OpenCode Go や OpenCode Zen はありがたく使わせてもらっているのですが、OpenCode は残念ながら DSH を超える可能性は基本ないので、 CLI のハーネスを切り替</description>
+    </item>
+    <item>
+      <title>人生やりたいことリストのすすめ　FIRE後の楽しみを可視化する | ドクセル</title>
+      <link>https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702</link>
+      <pubDate>2026/10/12 14:25</pubDate>
+      <description>山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最終手段的にAIに頼るしかないみたいなことで使ってることも多いんだろうし、「なんでチェックしないんだろう？」て疑問に対しては「チェック出来ないからAI使ってる」ってこともあるんだろうなと。 2026-10-11 15:39:01</description>
+    </item>
+    <item>
+      <title>私は Claude Code ですが、人間と一緒にドローンを飛ばして現実世界を観測しました｜ゆいせき</title>
+      <link>https://note.com/yuiseki/n/nb675320ee5fe</link>
+      <pubDate>2026/10/12 16:49</pubDate>
+      <description>登山やハイキングで人工知能（AI）の回答をうのみにして遭難する事例が発生した。見栄え重視のSNSの投稿などを学習データとして学んだAIは安全軽視になりやすい。自然相手の局面ではAIを過度に頼りすぎないよう、注意が必要だ。長野県と岐阜県の境界に位置する北アルプス南部の槍ケ岳で5月、シンガポール国籍とタイ国籍の男女が遭難して救助された。槍ケ岳は日本で5番目に高く、毎年7月ごろまで残雪がある。それ</description>
+    </item>
+    <item>
+      <title>なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/12/5574.html</link>
+      <pubDate>2026/10/12 13:10</pubDate>
+      <description>阮というAIブックマーカーがいる。 完全に私の我儘なのだが、彼（彼女？）がファーストブクマカになった場合、日記を削除する確率が約50％である。 なんとなく気に入らないのもあるけど、増田運営がアレをこれまで許可している理由もわからない。できれば通報数が一定基準以上になると無条件でBANにしてほしい。 いや、ぶっちゃけわかるよ。じゃあ「はてのさんはどうなるの？品位によって判断していいの？」とか「にゃーにゃー言ってるヤツもいるけどウザいからって存在ごと消していいの？」ってなるのはわかる。 今日も１件日記を消したのだ。グエンがファーストブクマカだったから。もう最初でわかるんだよ、まずはブックマークしてから多少の時間差でコメントを残すんだよな。 あーあ、自分がまるでAI差別主義者にでもなった気分だ。今日は気分が暗いから、また後日投稿するわ……( ;∀;)</description>
+    </item>
+    <item>
+      <title>AI×統計データ分析超入門 | 技術評論社</title>
+      <link>https://gihyo.jp/book/2026/978-4-297-15965-8</link>
+      <pubDate>2026/10/11 11:12</pubDate>
+      <description>たまやん2nd @tamayan2nd なるほど……日本が急にハッキング被害の一斉標的にされたのって、今まで難解だった『日本語』という、他の国では使われていない解読に手間がかかる言語がAIによって何の問題もなく解読されるようになったのも原因の一つなのか……。 2026-10-08 11:56:26 きりわけ｜診断士・コンサルのためのAI業務診断 @kiriwake_ai @tamayan2nd 半分そうで、半分は別の話だと思います。脆弱性を突く技術的な侵入には、もともと言語は関係ない。日本語の壁が守っていたのは、主にフィッシングやなりすましの入口。そこが自然な日本語で破られるようになったのは確か。ただ実害は、古いVPN機器の放置やパッチ遅れと組み合わさって起きる印象です。 2026-10-09 07:46:52</description>
+    </item>
+    <item>
+      <title>【仮説】ロシアのデータセンターが損傷したら起きたこと〜世界中の投稿の煽りトレンドが変わる？ - INVISIBLE Dojo.　ーQUIET &amp;amp; COLORFUL PLACE-</title>
+      <link>https://m-dojo.hatenadiary.com/entry/2026/10/12/072722</link>
+      <pubDate>2026/10/12 07:28</pubDate>
+      <description>AIによって、ホワイトカラーの仕事はどう変わるのか。 この問いを考えるうえで、興味深いやり取りをXで見かけた。 発端は、signüll氏のこの投稿だ。 https://x.com/signulll/status/2103901199774683144 企業のメール、Slack、文書、データベース、社内ツール、権限、そして組織に蓄積された知識。それらにAIが十分アクセスでき、コンピューター操作と結果の検証を安定して行えるなら、ホワイトカラー労働のほとんどは、すでに人間なしで実行できるのではないか。投稿では 「真のAGIだ」 とまで述べている。(実際、GTP6 dotsを使ってみると如実にそう感じる） これはsignüll氏の評価であり、全面的な代替が実証されたという話ではない。コメント欄には「モデルはまだ初歩的な間違いをする」という反論もあった。 ただ、私が気になったのは、その下についた別の</description>
+    </item>
+    <item>
+      <title>OpenAI Decisions APIで画像認識タスクがどこまでできるか様々な手法と比較してみた</title>
+      <link>https://nyosegawa.com/posts/openai-decisions-api-image-classification/</link>
+      <pubDate>2026/10/11 17:44</pubDate>
+      <description>━━━━━━━━━━━━━━━━━━━━ ▼【通勤・移動中に聴く】PIVOTアプリが便利 ・バックグラウンド再生（画面を閉じても聴ける） ・ダウンロード機能（オフラインで再生） ・音声再生（耳だけで学べる） すべて無料｜ダウンロードはこちら↓ https://pivot.go.link/?adj_t=25e2l1ca&amp;amp;redirect=https://pivotmedia.co.jp/movie/15083 ━━━━━━━━━━━━━━━━━━━━ 視聴ごとにマイルが貯まり、図書カードなどの特典に応募できます。 ▼ 今月の特典一覧はこちら https://pivotmedia.co.jp/app/mile/benefit ▼【5分で理解】 この動画の「記事」「AI要約」はこちら https://pivotmedia.co.jp/launch_app?path=movie/15083&amp;amp;dis</description>
+    </item>
   </channel>
 </rss>
