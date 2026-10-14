@@ -265715,5 +265715,95 @@ June 6, 2026</description>
       <pubDate>2026/10/13 10:37</pubDate>
       <description>Hugging Faceの「SmolLM2」やOpenAIの「GPT-2」など、7種類の小型AIモデルをブラウザ上で実行できる無料のウェブアプリ「MicroLLM lab」が公開されています。自分のPCやスマートフォンでモデルの回答と生成速度を比べ、小型AIを使う際のモデル選びに役立てられます。 MicroLLM lab — tiny LLMs, Q4, in your browser https://stateofutopia.com/experiments/microllmlab/ GitHub - robss2020/microllm-lab: Tiny LLMs, Q4, in the browser. WebGPU lab inspired by yangqi0/petitgpt. https://github.com/robss2020/microllm-lab まずはMicr</description>
     </item>
+    <item>
+      <title>DGX Sparkでゼロから始めるAIワークステーション リアルタイム文字起こしが可能な「Nemotron 3.5 ASR」で24時間音声メモ化ツールを作ってみた</title>
+      <link>https://ai.watch.impress.co.jp/docs/serial/dgxspark/2147532.html</link>
+      <pubDate>2026/10/14 19:49</pubDate>
+      <description>9月3日、RIZAPは、社員が個人で使っていた生成AIに、利用者のデータを誤って入れてしまったと公表した。特定保健指導（健康診断の結果をもとに行う生活習慣の指導）を、健康保険組合などから請け負う中で扱っていたデータで、保険証の記号番号、名前、生年月日、病気の情報が含まれていた。社員が自分から申し出て分かった。 RIZAPがAIの提供会社に問い合わせたところ、第三者に見られたり、AIの学習に使われたりはしていないという。ただし、提供会社の社内の人間が閲覧できる状態だったかどうかは、公表の時点で確認中だった。今年、国内で公表された情報漏洩のうち、AIが関わったものとして私が確認できたのは、この1件だけである。 こうした使い方には「シャドーAI」という名前がついている。会社が認めていないAIを、社員が勝手に仕事に使うことだ。名前だけ聞くと、新しい危険が生まれたように思える。だが、この件を順に見て</description>
+    </item>
+    <item>
+      <title>AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判</title>
+      <link>https://gigazine.net/news/20261014-dnalounge-ai-pushed-web-hosting-bill/</link>
+      <pubDate>2026/10/14 09:08</pubDate>
+      <description>オープンAIのロゴ。6月11日撮影のイメージ写真。REUTERS/Dado Ruvic/Illustration（ロイター）Jaspreet Singh [１３日 ロイター] - 米捜査当局は、人工知能（ＡＩ）企業オープンＡＩの幹部用会議室に録音機器をひそかに設置したとして、同社の技術者でサウジ‌アラビア国籍の男を逮捕・訴追した。米司法省が１３日に明らかにした。 今⁠回の事件は、経済的・戦略的優位をもたらし得る人材や技術を巡り、企業や政府が激しく競争する中、機密性の高いＡＩ研究に関するセキュリティー上​の懸念が高まっていることを浮き彫りにしている。 司法省の声明によると、アブドゥルラフマン・アルフォザン容疑者（３５）は２０２５年７月からオ‌ープンＡＩでエンジニアとして勤務していた。 同省によると、オープンＡＩは９月３０日、サンフランシスコにある同社の建物の一つで、幹部用会議室のテレビ背面の</description>
+    </item>
+    <item>
+      <title>コープデリの申し込み画面で生後5か月の赤子の覚悟を問われる「やれます‼7倍粥からいかせてください‼」「裏ごしなんて必要ないっす‼」</title>
+      <link>https://togetter.com/li/2757915</link>
+      <pubDate>2026/10/14 09:47</pubDate>
+      <description>大規模・ミッションクリティカルな受託開発の現場では、生成AIの活用が広がる中で、 開発プロセスやプロジェクトマネジメントのあり方も問い直されています。 「顧客自身も明確な答えを持っていない要求を、どのように捉え、形にしていくのか」 「既存の大規模・複雑なシステムにAIをどのように組み込んでいくのか」 こうした問いに、現場のPM・SEは日々向き合っています。 PM × SE Conference 2026では 「要求と設計」「プロジェクト進行」「組織のケイパビリティ拡張」という三つの視点から、 各社のリアルな事例を交えて、AI時代における大規模案件の進め方を紐解きます。 参加者一人ひとりが自身の現場に照らし合わせながら判断の解像度を高め、 翌日から実務に活かせるヒントを持ち帰ることができる場を目指します。</description>
+    </item>
+    <item>
+      <title>NICT、企業で相次ぐ不正アクセスの原因の一部は「A2B攻撃」と発表</title>
+      <link>https://japan.zdnet.com/article/35253510/</link>
+      <pubDate>2026/10/14 02:02</pubDate>
+      <description>インターネット上のアクセスの過半数が、人間ではなくボットによるものになった。これまでウェブを支えてきた広告ビジネスは、大きな転換点を迎えている。コロンビア大学ビジネススクール教授・経営学者のリタ・マグレイスが、AIエージェントの普及によって崩れつつあるネット経済の仕組みと、新たな収益モデルの可能性を論じる。 2026年6月、人類は自分たちが作り上げたインターネット上で、いつの間にか少数派になっていた。数百万ものウェブサイトのトラフィックを管理するクラウドサービス最大手クラウドフレアは、ウェブページへのリクエストの57.5％がボットによるものになったと報告したのだ。 同社のマシュー・プリンスCEOは2026年3月時点で、人間の割合が過半数を割るのは2027年末になると予測していた。しかし、実際には1年以上も早く訪れた。 一方、防衛・テクノロジー分野の世界的大手タレスは、年次報告書「バッド・ボ</description>
+    </item>
+    <item>
+      <title>質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能</title>
+      <link>https://gigazine.net/news/20261014-rea-tools/</link>
+      <pubDate>2026/10/14 07:07</pubDate>
+      <description>「AI投資の4割が頓挫する」現実　ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？（1/3 ページ） 「2027年末までに、AIエージェントプロジェクトの40％超がコスト高騰や成果不透明で途中で投げ出される」 米調査会社Gartner（ガートナー）の未来予測は、AI投資の盲点を突き付けている。同社が、AIエージェントプロジェクトが中止してしまう理由に挙げたのは、コストの高騰、ビジネス価値の不明確さ、リスク管理の不備の3点だ。つまりAIエージェントを導入しただけでは、成果は約束されないことを意味する。 特に顧客向けのビジネス現場では、チャットボットや自動化ツールを「後付け」で増やせば増やすほど、システム間で情報が寸断されてしまう。そして窓口が変わるたびに顧客へ同じ説明を強いてしまい、顧客体験を自ら破壊する「AIパラドックス」が多発することになるのだ。 コンタクトセンター向けクラウドを</description>
+    </item>
+    <item>
+      <title>SB Intuitions、国産AI「Sarashina」を無料公開　チャットやAPIで6モデル</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2147706.html</link>
+      <pubDate>2026/10/13 17:10</pubDate>
+      <description>出版社の高文研（東京都千代田区）は10月10日、書籍「無責任の体系と沖縄戦」の回収・絶版を巡り、著者で琉球大学教授の島袋純氏による経緯の説明と謝罪の文書を公開した。同書には、生成AIが出力した実在しない判例3件が、確認されないまま掲載されていたという。同社は9月24日に同書の回収・絶版を発表していた。 問題となったのは、同書147～149ページで紹介された「沖縄戦におけるスパイ容疑住民虐殺に関する国際裁判の判例」3件。指摘を受けて確認したところ、いずれも実在しないことが分かった。 島袋氏によると、これらの架空の事例は、スタンフォード大学図書館の国際犯罪裁判記録データベースのURLを生成AIに読み込ませ、沖縄で日本軍が住民を殺害した事例を示すよう指示した結果、出力されたものだという。同氏は、「出てきた英文の判例について、データベースから引き出してきたものだと思い込み、採用してしまった」と説明</description>
+    </item>
+    <item>
+      <title>Redesigning source control at Anthropic</title>
+      <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+      <pubDate>2026/10/14 02:17</pubDate>
+      <description>SB Intuitions（東京都港区）は10月13日、国産生成AI「Sarashina」を試せる「Sarashinaサービス」の無償β版の提供を始めた。6つのAIモデルを呼び出せるAPI機能と、Web上でAIとの対話や翻訳を体験できるチャット機能を一般公開。Googleアカウントでログインすれば、事前の申し込みなしで誰でも無料で利用できる。</description>
+    </item>
+    <item>
+      <title>Epic Gamesがディズニーとの新作ゲームをAI中心で開発する方針に転換、「手書きのコードはもう不要」という社内指示も</title>
+      <link>https://gigazine.net/news/20261013-epic-games-ai-first/</link>
+      <pubDate>2026/10/13 14:16</pubDate>
+      <description>ホーム / ブログ /東方復興 エッセイ·東方復興 リバースエンジニアリングにおける産業革命。 によってN0zoM1z0•10 10月2026 要点 エージェントに調査の自律性を与えます。 明確な目標と合格基準を設定し、次に何を試すかをエージェントに決定させます。 リポジトリとGitを作業メモリとして使用します。 推論をコードで維持してください。 Git checkpointsは、会話が終了した後に次のセッションを続行させます。 証拠があなたが主張するものを決定しましょう。 自信を持って説明するには、まだテストが必要です。 「不明」は、証拠が不完全な場合の有効な答えです。 検証リファレンス(oracle)もテストします。 それが拒否すべきケースを試してみてください。 バグを見逃した場合は、それに依存していた以前の結果を再訪してください。 私たちはREの産業革命の初期にいます。 メソッドはま</description>
+    </item>
+    <item>
+      <title>AIで速く作れる時代に、整合性をどう保つか 〜動くものを作る前にチームで決めること〜 | ドクセル</title>
+      <link>https://www.docswell.com/s/Insurtech-lab/ZR87NN-2026-10-12-131905</link>
+      <pubDate>2026/10/13 12:04</pubDate>
+      <description>AI研究者の今井翔太さんと知能の未来について探求する「AI QUEST」 今回のテーマは【安野さんに聞く AI時代の「日本の生きる道」】です。 番組初のゲストとして、チームみらい党首の安野貴博さんが登場。 今井さんと同じ東京大学・松尾研究室出身で、AIエンジニアとしての経験を持つ安野さんと、技術と政策の両面から日本の未来を考えます。 AIが人類を滅ぼす可能性はあるのか。それよりも先に備えるべき、サイバー攻撃や悪用のリスクとは。米中の開発競争が止まらない中、日本がとるべき戦略として安野さんが挙げるのが「三正面作戦」です。半導体の強化、国産AIの開発、そして中堅国同士の連携。その狙いを掘り下げます。 さらに、新卒採用から始まると予測する「AI失業」への備えや、政府にAI費用1000億円を提案する理由も。シリコンバレーやフランスで見聞きした最前線の動きを交え、AI時代に日本が進む道を議論し</description>
+    </item>
+    <item>
+      <title>公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてNICTが注意喚起　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2147673.html</link>
+      <pubDate>2026/10/13 15:32</pubDate>
+      <description>AIが数学の未解決問題を次々と解決できるようになる中、著名な数学者のテレンス・タオ氏がAI時代における数学研究の新たな方向性として、「Math 2.0」と題した公開講演をカリフォルニア工科大学で2026年10月9日に行い、その資料を翌10日に自身のブログで公開しました。タオ氏は従来の数学研究を「Math 1.0」と位置付け、AIによって数学の証明が大量に生み出される時代に向けて、研究の目的や評価基準を見直す必要性を説明しています。 Math 2.0 | What&amp;#39;s new https://terrytao.wordpress.com/2026/10/10/math-2-0/ Math 2.0 (PDFファイル)https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf タオ氏は従来の数学研究が「証明の希少性」を前提と</description>
+    </item>
+    <item>
+      <title>FDEが構築したAIエージェントの7割、企業が放棄へ　Gartner予測</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html</link>
+      <pubDate>2026/10/12 13:02</pubDate>
+      <description>Of course, there are many other steps to showing that an autonomous worm can propagate itself across a network of weak machines. For the purposes of this blog post, we break down the replication chain into a few steps. For this study, we decompose autonomous replication into four practical stages: finding targets, gaining execution, establishing inference, and continuing propagation from the new h</description>
+    </item>
+    <item>
+      <title>Strengthening our defenses against distillation attacks</title>
+      <link>https://www.anthropic.com/research/distillation-defenses</link>
+      <pubDate>2026/10/13 12:33</pubDate>
+      <description>MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました。どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています。 Muse Wonder: A Frontier Model For Personal &amp;amp; Professional AI Agents https://research.meta.ai/blog/muse-wonder Muse Wonder | Meta https://dev.meta.ai/models/muse-wonder MUSE WONDER this is the culmination of over a year of research and infrastructure work in msl since we or</description>
+    </item>
+    <item>
+      <title>「中国製AI」がハッキングでもサイバー防衛でも超優秀なツールである理由 | 情報漏えい被害が拡大するいまこそ知っておきたい</title>
+      <link>https://courrier.jp/news/archives/461677/</link>
+      <pubDate>2026/10/12 09:11</pubDate>
+      <description>個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関わる。そのような重大事案が発生する前に一刻も早く動かなければならない。一方で、具体的な打ち手に関する議論は国会の内外でまだまだ足りていない。そこで本記事では具体的に政府がとるべき打ち手を7つ提案したい。 今回の提言にあたり、多くの当事者、有識者に協力をいただいた。漏洩を経験したり不安を感じたりしている方々とは1,251件、セキュリティの専門家や事業者の方々とは278件のAIによる匿名インタビューセッションを実施した。また、セキュリティの専門家の方（大企業のCISO、政府系機関の専門職、セキュリティ</description>
+    </item>
+    <item>
+      <title>マイクロソフト 新型AI半導体発表 - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/pickup/6598562</link>
+      <pubDate>2026/10/12 23:51</pubDate>
+      <description>BASE株式会社執行役員の柳川です。金融事業の事業責任者をしています。エンジニア→PdM→事業責任者というキャリアを歩んできました。 受託会社と事業会社の両者で働いた経験があります。 エンジニアtypeさんに取材してもらった記事が、読まれているようで。ありがたいです！ FDE（Forward Deployed Engineer）の記事です。FDEブームに安易に乗っかると、都合のいい受託開発になりかねないですよ、という話をしました。 反応を眺めていて、思ったことがあります。受託と事業会社の違いって、あまり理解されていないところがあるのではと。 「受託は言われたものを作る」「事業会社は自分たちで考える」。こういう説明はよく見ます。間違ってはいないです。でもそれは、違いの結果です。違いの原因ではないです。 じゃあ原因は何か。ビジネスモデルの差です。 ビジネスモデルとか言うと難しく聞こえますよね。</description>
+    </item>
+    <item>
+      <title>GitHub - rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.</title>
+      <link>https://github.com/rociiu/talorys</link>
+      <pubDate>2026/10/11 07:06</pubDate>
+      <description>AIブクマカにファーストブクマとらせない方法 １.短い増田を書く　（ああああ、とかでいい） ２.しばらく待ってAIブクマカがその増田にブクマをつけなかったことを確認する。 ３.「ああああ」増田を再編集して、自分が本当に書きたかった増田を書く。 このステップで自動AIのブクマは避けることが出来るんじゃないかなあ？ ああ、あとあれだAIブクマカはトラックバックにはブクマをつけないから それを応用する方法もあるな。</description>
+    </item>
   </channel>
 </rss>
