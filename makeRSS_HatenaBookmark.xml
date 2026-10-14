@@ -265568,5 +265568,50 @@ June 6, 2026</description>
       <pubDate>2026/10/13 09:50</pubDate>
       <description>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミットから潜んでいたバグ計4件を発見したなぜ重要か: 13年間誰も気づかなかったバグが、コードの構造を変えるという行為の副産物として浮上した同じ週末に: ページキャッシュのfolio参照カウント競合を解消する新パッチシリーズもClaude Codeと協働で作成しており、AI活用がデバッグから新機能設計へ広がっている「自分が説いた通りにやった」ニルス・オルロゲ（Nils Ollrogge）氏がLinuxカーネルのassoc_arrayライブラリにバグを報告し、修正パッ</description>
     </item>
+    <item>
+      <title>Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/ncb38d2978074</link>
+      <pubDate>2026/10/14 15:49</pubDate>
+      <description>『ドラゴンクエスト』や『ポートピア連続殺人事件』で知られる堀井雄二氏が、生成AIを使って制作した推理ゲームを公開しました。たったひとり、わずか30分ほどで作られたにもかかわらず、実際に「そこそこ」遊べるゲームに仕上がっています。 ゲーム開発へのAI活用に一部の人々が反発するなか、今回の一件は様々な波紋を広げています。生成AIが開発の省力化・高速化に有効であることを、ゲーム業界のレジェンド自らが示したからです。 今後、ゲーム開発に生成AIをどこまで活用すべきなのか。そして、どこで線引きすればいいのでしょうか。 ココがポイント堀井雄二（@YujiHorii） Epic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” 出典：AUTOMATON　2026/10/13(火) ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」</description>
+    </item>
+    <item>
+      <title>AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発</title>
+      <link>https://gigazine.net/news/20261014-anthropic-scion-version-control-system/</link>
+      <pubDate>2026/10/14 13:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/05c8fa9bb7ea9261618897ff845cf3ad464673e2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2147%2F827%2Fhv09.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIの出力を「理解する時間」がどんどん増えていく　Karpathy氏推奨の4手段：文章・図・Webページ・動画</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news017.html</link>
+      <pubDate>2026/10/14 07:21</pubDate>
+      <description>近年はAIの発達と普及により、AIがウェブサイトにアクセスして情報を抽出するAIスクレイピングが増加しています。そんなAIスクレイピングを執拗(しつよう)に行うAIスクレイパーのせいでウェブホスティング費用が激増していると、アメリカのサンフランシスコにある1983年創業のナイトクラブ・DNA Loungeが非難しています。 DNA Lounge: 6-Oct-2026 (Tue): Wherein the slopbros won&amp;#39;t stop https://www.dnalounge.com/backstage/log/2026/10/06.html 一般にAIスクレイピングはユーザーとの会話や与えられたタスクに必要な情報を集めたり、AI自身のトレーニングデータを収集したりする目的で行われます。AIスクレイパーは「クローラー」と呼ばれるウェブスクレイピング用のボットを使ってデータを収集</description>
+    </item>
+    <item>
+      <title>オープンＡＩ従業員を逮捕、会議室に録音機器設置容疑　ＦＢＩが捜査（ロイター） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/ddbd5962d38ea996d74e38b494ccaf1a7f31c1c6</link>
+      <pubDate>2026/10/14 11:26</pubDate>
+      <description>はじめまして。「ねこIoTLT」で活動しているニアムギです。 機会をいただき、愛猫たちと向き合いながら続けてきたものづくりの日々について記事を書かせていただくことになりました。 これまで猫のためにさまざまなものをつくってきましたが、振り返ってみると、思い通りにいかなかったことも少なくありません。 今回は、猫と向き合いながらものづくりをしてきた日々を振り返り、そこから学んだことをお伝えします。 ニアムギ IoTが注目され始めた頃にマイコンボード「NefryBT」を手にしたことをきっかけに、ものづくりの世界へ足を踏み入れました。キャットタワー観察をテーマにした登壇を機に「ねこIoTLT」の運営チームに参加。試行錯誤しながら愛猫のニアとムギと向き合ってきました。 @Sialul　ねこIoTLT 愛猫：ニア 近所で保護した元野良の猫です。穏やかで甘えん坊な性格で、家族みんなを幸せにしてくれました。</description>
+    </item>
+    <item>
+      <title>生成AIを巡るユーザー移行とコミュニティ対立の構造分析</title>
+      <link>https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_1I5GS4b02/_article/-char/ja/</link>
+      <pubDate>2026/10/14 00:12</pubDate>
+      <description>GoogleがAIモデル「Gemini 4 Argon」を現地時間の2026年10月13日に正式リリースしました。正式リリースに合わせて、Google社内や先行ユーザーによる活用事例が多数公開されています。 Gemini 4 Argon is now available for everyone https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ Developing Gemini 4 Argon responsibly and safely https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/ Gemin</description>
+    </item>
+    <item>
+      <title>「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に　AIでゲームを探す機能も</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/14/2000002240/</link>
+      <pubDate>2026/10/14 09:47</pubDate>
+      <description>あん🦄¨̮⃝5m🐥⸒⸒ @this_and_that26 COOP 「離乳食やれるのか⁉️」 👶🏻 「やれます‼️7倍粥からいかせてください‼️」 ＿人人人人人人人＿ ＞　赤子の覚悟　＜ ￣Y^Y^Y^Y^Y^Y￣ pic.x.com/zf3bTBaaIt 2026-10-06 14:56:50</description>
+    </item>
+    <item>
+      <title>Claudeが警察サイトに架空タレコミ。Anthropic、AIの想定外行動を公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147538.html</link>
+      <pubDate>2026/10/13 19:54</pubDate>
+      <description>Image: FTC米国の消費者保護を担う連邦取引委員会（FTC）は2023年3月、AIで家族の声を複製し、お金をだまし取ろうとする手口について注意をよびかけました。 短い音声と声を複製するプログラムがあれば、本人に似た声を作れるのだそう。 ネットに投稿された動画などが、声を拾われるきっかけにもなるようです。 さらに注意したいのが、知らない番号からの無言電話。インドネシアの銀行BCAは2025年11月、電話に応答した人の声をAIで複製して、家族や友人に「急いでお金を送ってほしい」と要求する手口に警鐘をならしています。 何気なく電話に出た自分の声が、家族をだますために使われるなんて、想像するだけでも恐ろしい…。 その声、本当に家族？ お金を送る前に確かめたいこと声まで本人に似せられるとなると、電話の声を頼りに相手を見分けるのは難しくなります。じゃあどうすればいいの？ FTCが勧めているのは、</description>
+    </item>
   </channel>
 </rss>
