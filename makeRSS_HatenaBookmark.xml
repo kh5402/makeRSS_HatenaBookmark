@@ -265850,5 +265850,101 @@ June 6, 2026</description>
       <pubDate>2026/10/14 08:04</pubDate>
       <description>こうした個人用アプリは公開ストアのカタログとは切り離し、非公開のまま扱う。同日から米国を含む一部の市場で、18歳以上のユーザーを対象に順次提供を始めた。今後数カ月以内に、友人や家族など限られた相手と共有する機能も追加する予定だ。一般公開したい場合は開発者アカウントに移行でき、その際は通常の開発者と同じ安全性審査と品質基準が適用される。 AIを使ったアプリ探しの機能「Ask Play」では、同日からアプリ同士の比較を生成できるようになった。主な違いやユーザーの評判を示すという。また、Geminiとの会話の中でGoogle Playのアプリやゲーム、開発者のコンテンツを表示する「Play in Gemini」を、近く全てのGeminiユーザーに提供する。 ゲームを探す新機能「Game Finder」は、Google Playが持つゲームの知識と、20億人以上のプレイヤーコミュニティの情報を組み</description>
     </item>
+    <item>
+      <title>桑原旅人という叙述トリック――「20億の負債」「査読論文22本」「豊富な資金力」を追う｜kj aka ルサンチMAN</title>
+      <link>https://note.com/ressenti_man/n/ne5cf78021f3b</link>
+      <pubDate>2026/10/15 09:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c045336744a4fa607928464190e55e975967fa93/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2147%2F444%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>マクドナルドとウォルマートが「AI値上げ」か　両社否定も反発消えず - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN13BCG0T11C26A0000000/</link>
+      <pubDate>2026/10/15 06:47</pubDate>
+      <description>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 CLI: make `daemon_auto_start` opt-in — a persistent, self-updating background daemon shouldn&amp;#39;t be the default · Issue #48195 · openai/codex https://github.com/openai/codex/issues/48195 Codex CLIを起動すると約374MBのプラットフォームパッケージがインストールされ、「codex app-ser</description>
+    </item>
+    <item>
+      <title>デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/14/2000002278/</link>
+      <pubDate>2026/10/14 20:00</pubDate>
+      <description>米グーグル傘下のAI開発企業グーグル・ディープマインドのデミス・ハサビス会長（2025年7月9日撮影）。(c)Ludovic MARIN/POOL/AFP 【10月14日 AFP】米グーグル傘下のAI開発企業グーグル・ディープマインドのデミス・ハサビス会長は14日、人工知能（AI）の能力が向上する中、十分な安全対策を講じなければ、今後2年以内にAIシステムが「重大なセキュリティー事故」を引き起こす可能性があると警告した。 アイルランドの首都ダブリンで開かれたAI関連の会議で、ハサビス氏は、最近発生したAI関連の問題について、まだそれほど高い能力を持たないシステムによる「初期の警告」と表現した。 その上で、「現時点ではそれほど重大な事故にはなっていない。しかし、業界全体として、また企業や政府がシステムの安全性確保に向けてさらなる取り組みを行わなければ、来年にも、あるいは今後数年のうちに重大な</description>
+    </item>
+    <item>
+      <title>100時間かけて動画編集AIを作ったら、気が狂いそうになった。</title>
+      <link>https://www.youtube.com/watch?v=QFhHNBcPelo</link>
+      <pubDate>2026/10/14 22:28</pubDate>
+      <description>『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ 『Slay the Spire』の最高難易度を、GPT-6やCalude Fable 5.1といった最新モデルを含むさまざまなAIモデルにプレイさせる研究論文が公開された。 『Slay the Spire』の最高難易度を、最新モデルを含むさまざまなAIモデルにプレイさせる研究論文が公開された。レベル1（Act 1）は易々と突破できるモデルもあった一方で、後半戦ではどのモデルも苦戦する様子が見られたという。 『Slay the Spire』は2017年にSteamにて早期アクセス配信開始され、2019年に正式リリースされたデッキ構築ローグライクカードゲームだ。本作では、プレイヤーは三層に重なる塔をモンスターとの戦闘を挟みながら登っていく。戦闘は毎ターンデッキから引か</description>
+    </item>
+    <item>
+      <title>Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
+      <link>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</link>
+      <pubDate>2026/10/15 01:29</pubDate>
+      <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます 9月以降、日本企業で重大な不正アクセス、個人情報漏洩のインシデントが相次いで発生しているほか、世界各地でも不正アクセス、情報流出の事案が相次いでいる。これを受けて、ガートナー ジャパンは10月13日、多発する日本企業の不正アクセス事案に関する緊急的な提言を発表した。 AIやAIエージェントを利用して、広範囲のスキャンによる攻撃対象と脆弱性の特定、攻撃コードの生成と修正、攻撃の実行といった一連の攻撃プロセスが複数工程で自律化される。従来は人間が数日から数週間かけていた作業が、条件によっては数時間、さらには数分で実行される可能性があり、攻撃の速度と規模を飛躍的に拡大させる恐れがあるという。 2026年は、Anthropicの「Mythos」</description>
+    </item>
+    <item>
+      <title>プログラムができたらGitHub Copilotにテスト用コードを作成させよう</title>
+      <link>https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2117327.html</link>
+      <pubDate>2026/10/14 12:46</pubDate>
+      <description>最近、CodexやClaudeに代表されるCoding AIが凄まじい勢いで進化しています。 スマホ向けの将棋アプリもCoding AIの手助けにより、雨後の筍のように登場しつつあります。 しかし、そうしたアプリの開発で問題となるのが、探索部と評価関数(評価関数パラメーター)です。 探索部は、まあ、Coding AIに任せて「やねうら王を参考に書いて」などと言えば、棋力が多少劣るものの、とりあえず動作するものを作ってくれるかもしれませんが、評価関数パラメーターのほうは商用利用可能なものが少なく、自力で学習させなければなりません。 自力で学習させるとなると、大量の教師データが必要で、その作成コスト、学習の時間、実験をする手間暇も馬鹿になりません。 また、スマホだと搭載メモリが少ない端末も多いため、評価関数のパラメーター数が多いとメモリをたくさん消費します。 そこで、できるだけサイズが小さく、</description>
+    </item>
+    <item>
+      <title>Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/14/2000002265/</link>
+      <pubDate>2026/10/14 20:58</pubDate>
+      <description>実在の人物やアニメキャラクター風のチャットボットと会話できるAIサービスを提供する「Character.ai」が、連邦倒産法第11章に基づく手続きを開始したことを発表しました。Character.aiは安全性や著作権など多方面で厳しい監視や訴訟に直面して数億円の負債を抱えており、会社と資産の売却を円滑に進めるために破産保護を申請したとしています。 An Update on Character.ai https://blog.character.ai/an-update-on-character-ai/ Character.ai Initiates Voluntary Chapter 11 Proceeding to Facilitate Value-Maximizing Sale Process https://www.businesswire.com/news/home/20261012</description>
+    </item>
+    <item>
+      <title>トランプ氏、トラとプロレスごっこで仲良くなるAI動画投稿</title>
+      <link>https://www.afpbb.com/articles/-/3657523</link>
+      <pubDate>2026/10/14 15:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/583d3374050918e74bb8784d8e0f1021aca113b6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2147%2F532%2F0101.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoftが「XBOX LABS」を立ち上げ、AIを活用したレトロゲームの移植が目標か</title>
+      <link>https://gigazine.net/news/20261014-microsoft-xbox-labs/</link>
+      <pubDate>2026/10/14 12:02</pubDate>
+      <description>Appleがスマートホームデバイスを一元管理するためのスマートハブ「Apple HomeView」を発表しました。同時に、新型「Apple TV 4K」や「HomePod mini 2」も発表されています。 エンターテインメントを楽しみ、家を管理する新しい方法、Apple HomeViewが登場 - Apple (日本) https://www.apple.com/jp/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/ Apple、新しいApple TV 4Kを発表 - Apple (日本) https://www.apple.com/jp/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/ Apple、次世</description>
+    </item>
+    <item>
+      <title>アンソロピック、日本は「最も成長が早い市場」 データセンター構築にも意欲</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2147983.html</link>
+      <pubDate>2026/10/14 14:42</pubDate>
+      <description>AI丸出しだと嫌われる、と言うのはよくありますが、明らかにAIを使っていてもいいかんじに受け入れられていたり、いいなと言えるデザインはありますか？</description>
+    </item>
+    <item>
+      <title>「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符&amp;quot;」</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/</link>
+      <pubDate>2026/10/14 17:06</pubDate>
+      <description>技術者ブログ クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。 金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！ AIエージェントによる攻撃を観測しました 皆様おそらくご存知のとおり、2026年9月頃からウェブサイトやウェブアプリケーションで立て続けに情報漏洩が報告されています。マクニカさんやJPCERT/CCから情報が出されています。 Scutumでは10月10日の夜より、これらの攻撃がAIエージェントによるものなのかを調べる仕組みを導入し、監視を実施しました。その結果、10月14日までに、少なくとも3つのIPアドレスからAIエージェントによる日本の企業のウェブサイトへの攻撃が実施されていることを確認しました。 AIエージェントによる攻撃を特定する手法 どのように「</description>
+    </item>
+    <item>
+      <title>「LFM2.5-24B-A2B」が登場、Gemma 4 26B-A4BやQwen3.6 35B-A3Bより高性能でローカルエージェントとして能力を発揮</title>
+      <link>https://gigazine.net/news/20261014-lfm2-5-24b-a2b/</link>
+      <pubDate>2026/10/14 16:37</pubDate>
+      <description>出資するKEDの担当者は、Gettyを &amp;quot;a unique and critical source of authentic imagery&amp;quot;（かけがえのない、本物の画像の源）と表現しています。Getty自身も、許諾を得たコンテンツで学習した画像生成AIを提供していて、AIを否定しているわけではありません。そのうえで「本物（authentic）」という言葉が使われている点は、AI素材と写真素材を明確に区別した発言だったのは印象的でした。 ITmedia NEWSは、英Reutersの報道として、6月末時点の負債が約21億ドルにのぼると伝えています。株価は2022年の再上場以降で約99%下落し、ニューヨーク証券取引所は9月末に上場廃止の手続きを始めていました。 経営悪化の背景は、AIだけではない 報道を追うと、直接の原因はAIよりも財務と訴訟にあります。 合併の破談: 競合のShutters</description>
+    </item>
+    <item>
+      <title>いま、AIでWebサイトを実装するということ。マネックス証券イントロサイトにおけるアニメーション実装の裏側</title>
+      <link>https://mount.jp/magazine/monex-dev-with-ai/</link>
+      <pubDate>2026/10/14 15:00</pubDate>
+      <description>秋田県立大学は13日、学内で進めているクマ被害防止技術「Bear-Tech Solution（ベアテックソリューション）」開発の進捗状況をイベントで披露した。自律型四足歩行ロボット「MATAGI（マタギ）ロイド『ハッチャン』」やクマの監視、リスク推測などシステム系の6つのプロジェクトを公開した。会場の目を引いたハッチャンは秋田犬を模した警戒ロボット。中国スタートアップの宇樹科技（Unitree</description>
+    </item>
+    <item>
+      <title>ゲリラ豪雨を察知して運転計画の見直しを促す「鉄道気象AIエージェント」</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2147819.html</link>
+      <pubDate>2026/10/14 12:30</pubDate>
+      <description>AI研究者のアンドレイ・カルパシーは、4月に観察したAIの普及における格差が広がっていると述べた。Michael Macor/The San Francisco Chronicle via Getty Images OpenAIの共同創業者アンドレイ・カルパシー（Andrej Karpathy）氏は、世界はいまもAIをほとんど知らないと述べている。 「一般の人々は、こうしたシステムとほとんど接したことがありません」と、カルパシー氏は10月11日にXに投稿した。 「接したことがあっても、間の抜けたチャットボットにしか見えないのです」 カルパシー氏は、AIユーザーのあいだで広がる格差について4月に示した見解を受けての投稿だと述べた。 それから6カ月余りが経ったいま、「バイブコーディング」という言葉の生みの親として知られるこの著名なAI研究者は、広がる格差を、4月に表現したような「互いに話がかみ</description>
+    </item>
+    <item>
+      <title>ロボットが少女にわいせつ行為……少年2人が操作した疑い、ロボットは押収　ドイツ - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/articles/crpdgz7d6dd1o</link>
+      <pubDate>2026/10/14 14:39</pubDate>
+      <description>ソフトウェア開発のAI化が進む中で、アジャイルはもう“時代遅れ”なのでしょうか。そうした意見を、ちらほらと見かけるようになりました。 それらの声は、AIによる開発の速さや、開発ワークフローの変化を実感する中で生まれているようです。たとえば、前者がスクラムイベントをオーバーヘッドと感じさせ、後者がドキュメントや段階的プロセスの重要性を高めた、という主張です。 しかし、それらを理由にアジャイルを時代遅れとする見方は、アジャイルの本質を十分に捉えていないように感じます。むしろ、AI時代になって、アジャイルの重要性はより際立つのではないでしょうか。 本記事のAI音声解説版をポッドキャストで“準備中” 🎧ぜひ番組「FLOW(er)ラジオ」をフォローしてお待ちください！ 2つの変化がアジャイル不要論を生んだ冒頭で述べた、アジャイルは“時代遅れ”であるという2つの主張をもう少し詳しく掘り下げてみましょ</description>
+    </item>
   </channel>
 </rss>
