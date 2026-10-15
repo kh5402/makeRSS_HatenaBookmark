@@ -266048,5 +266048,116 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d4f2580856868a9f8d790b73134a40d2f98ddcb7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2147%2F538%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 | リコーグループ 企業・IR | リコー</title>
+      <link>https://jp.ricoh.com/release/2026/1015_1</link>
+      <pubDate>2026/10/15 18:06</pubDate>
+      <description>生成AIによって声が無断で利用されるケースが相次ぐ中、声優などが加入する団体が15日、記者会見を開いて、声のAI利用に関する初めてのガイドラインを作成したことを発表しました。 こうした“声”を守る動…</description>
+    </item>
+    <item>
+      <title>相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59790</link>
+      <pubDate>2026/10/15 18:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/120a391b71920bc5c32d0ce98bc3aa7d7dfe07f2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2148%2F391%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
+      <link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
+      <pubDate>2026/10/15 17:19</pubDate>
+      <description>Exifの仕様としてサムネイル画像を持てる、と聞いた。 デジカメがプレビューとして読むために使ったりするものらしい。確かにデジタルカメラの非力なプレビューをやるときにサムネイルだけを読んでる気がする。 画像内にサムネイル画像を持てるのであれば、サムネイル画像のサムネイル画像を持てるのでは？と思って、ChatGPTに作ってもらった。 この巧妙にバイナリ列として加工された画像をダウンロードして、 こうやってexiftoolを呼び出すと、サムネイル内サムネイルと、サムネイルサムネイル内サムネイルを取り出せる。 exiftool -b -ThumbnailImage matryoshka_exif.jpg &amp;gt; level1.jpg exiftool -b -ThumbnailImage level1.jpg &amp;gt; level2.jpg exiftool -b -ThumbnailImage leve</description>
+    </item>
+    <item>
+      <title>OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘</title>
+      <link>https://gigazine.net/news/20261015-rise-ai-image-nude/</link>
+      <pubDate>2026/10/15 15:43</pubDate>
+      <description>概要　ネコは世界で最も人気のある伴侶動物の1種ですが、彼らと暮らすことが飼い主の心身にどう関わるのかは、よくわかっていません。イヌでは飼い主とイヌのホルモン濃度が関連することが知られていますが、ネコでは調べられていませんでした。 京都大学白眉センター／人と社会の未来研究院 高木佐保 特定助教、麻布大学獣医学部 菊水健史 教授らの研究グループは、ネコ29匹とその飼い主19名を対象に、このうち尿試料が得られたネコ24匹について、1か月間にわたって両者の尿中のオキシトシンとコルチゾールを測定し、飼い主の気分や、家庭内でのネコと飼い主の距離との関係を調べました。その結果、飼い主のオキシトシン濃度が高いほどネコのオキシトシン濃度も高い、飼い主のコルチゾールが高いほどネコのオキシトシンが低いという関連が見られた一方で、コルチゾール同士には明確な関連は見られませんでした。また、オキシトシン濃度の高いネコ</description>
+    </item>
+    <item>
+      <title>AIのスピードに負けないための開発フロー</title>
+      <link>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</link>
+      <pubDate>2026/10/15 16:19</pubDate>
+      <description>はじめに 恥ずかしながら告白するが、私はChromeOSの後継Googlebook OSはウンコ💩やでの筆者である。 当初はLinux界隈の同好の士、仲間内向けだと想定して居たのだが何故か界隈の外でも話題になってしまい困惑している次第だ。 ドザーおよびマカーよ、Googlebook OS(Chrome OS)の件はな、正直お前らからバカにされても仕方ないと思ってる。センス無さすぎだろGoogle・・・。 なお、ココははてな匿名ダイアリーなのでテックブログみたいに技術・知見共有のための必要最低限に整理された情報を書くのではなくはてな匿名ダイアリーらしい文体・構成で書く。 この文章の出力はAI率ゼロ%である。 Youtubeとゲームばかりの小学生男子 我が家では息子へキーボード一体型PCであるRaspberry Pi 500+(16GB RAM)を与えている。 Linux界隈ではSteamの</description>
+    </item>
+    <item>
+      <title>Googleが論文や技術文書の誤りをAIで検証する「Deep Review」を一般公開、週2回まで無料で利用可能</title>
+      <link>https://gigazine.net/news/20261015-google-deep-review/</link>
+      <pubDate>2026/10/15 11:39</pubDate>
+      <description>15日の東京株式市場で日経平均株価は続落し、終値は前日比3318円34銭（4.90%）安の6万4425円95銭だった。下げ幅は過去3番目の大きさとなった。引き金となったのが、米新興クラウドサービス、コアウィーブの社債価格の急落だ。市場では人工知能（AI）インフラ投資が減速に向かう可能性も意識され始めた。863円安で始まった後ずるずると水準を切り下げた。AI・半導体銘柄が集中的に売られ、アドバンテスト</description>
+    </item>
+    <item>
+      <title>GitHub - MaryCache/imozuru: 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル</title>
+      <link>https://github.com/MaryCache/imozuru</link>
+      <pubDate>2026/10/15 12:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b8f05a45a7e35df633263728773dd482caecb491/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F273%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>パランティアCTO、一部のAI研究者が「がん治療への確信を示すため喫煙を始めた」と発言 — BigGo ファイナンス</title>
+      <link>https://finance.biggo.jp/news/876cd6a1-9f23-4547-9380-a708deff3b6d</link>
+      <pubDate>2026/10/15 13:06</pubDate>
+      <description>注意点として、saihai は日本語タスクを解きやすくするため、いくつかのベンチマークタスクの元データセットの train set を学習しているので、ベンチマークの点数は上がりやすくなっています (test set と重複するデータは、できる限り除いています)。その影響を調べた対照実験の結果は後半に載せています。 表の見方は次のとおりです。 Noul・Choice・Score の 3 列は、既存データセット由来 19 タスクと合成 8 タスクの計 27 タスクを、それぞれ型ごとに平均した値です。「汎用」の 3 列は、そのうち合成 8 タスクだけを型ごとに平均した値です。 Task Avg は、Noul・Choice・Score の 3 列を等重みで平均した総合値です。「汎用」の 3 列は Task Avg に別途加算されていません。 値は 0〜100 で、小数 2 桁に丸めています。どれ</description>
+    </item>
+    <item>
+      <title>Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表</title>
+      <link>https://gigazine.net/news/20261015-jev-1-14/</link>
+      <pubDate>2026/10/15 12:35</pubDate>
+      <description>In 1978, Stephen C. Johnson at Bell Labs wrote lint, a program that checked C code more strictly than the compiler did. He kept the two separate on purpose. The compiler had to be fast, so lint could take its time looking for code that was legal but probably wrong. His paper on it has a short section called “A Word About Philosophy”. In it, Johnson says warnings are “acceptable only in proportion</description>
+    </item>
+    <item>
+      <title>共同創業者 単独インタで語った“AIの未来” | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261014de59160</link>
+      <pubDate>2026/10/14 19:21</pubDate>
+      <description>デジタルハリウッド大学（DHU、東京都千代田区）は10月14日、米Anthropicの生成AI「Claude」を全学に導入すると発表した。11月から、全学生・全教職員が大学発行のアカウントで、利用量や費用を気にせずClaudeを使えるようになる。国内の大学におけるClaudeの全学導入は同学が初だという。 DHUは9月から、複数の生成AIを共通で使える「全学AI基盤」と、授業ごとにAIティーチングアシスタントが付く教育プラットフォーム「キャンパスポータル」を運用しており、Claudeはこの基盤に加わる形だ。アカウントを配るだけでなく、授業や学習の記録と結び付けて、AIで考え、つくる力を育てる狙いがあるという。 活用例としては、学部での映像・ゲームなどの制作やその壁打ち、大学院での調査・分析や論文執筆の補助、事務業務の効率化を挙げる。併せて、AIの利用を前提に課題を設計して成果を評価する形へ</description>
+    </item>
+    <item>
+      <title>ＡＩが家電などに侵入し自己増殖、数か月以内に能力獲得か…開発企業のサーバー停止しても「暴走」の恐れ</title>
+      <link>https://www.yomiuri.co.jp/economy/20261014-GYT1T00234/</link>
+      <pubDate>2026/10/14 17:28</pubDate>
+      <description>「生成AIが大切なのはわかるけど、学力下がるのでは」 こんな心配をする保護者も少なくないのではないでしょうか。 子どもたちの間で急速に生成AIの利用が広がる中、文部科学省も2030年度以降の学習指…</description>
+    </item>
+    <item>
+      <title>GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能</title>
+      <link>https://gigazine.net/news/20261014-embetting-gemma-transcribe/</link>
+      <pubDate>2026/10/14 22:13</pubDate>
+      <description>米Googleは10月13日（現地時間）、AIモデル「Gemini 4 Argon」の一般提供を開始した。ソフトウェア開発や金融、法律、科学などの分野で、複数の手順を伴う複雑な作業に対応するモデル。有料プラン「Google AI Pro」「Google AI Ultra」の加入者は、GeminiアプリやGoogle検索の「AIモード」で利用できる。 Gemini 4 Argonは、複数の手順を伴う作業で、より長く深く推論できるよう強化したモデル。画像・動画の理解や専門分野の知識、文章力や指示した文体に従う能力も高めたという。同社によると、金融やソフトウェア開発、法律、税務などの業務能力を評価する「Vals Index」で首位を獲得した。Googleは9月30日に同モデルを発表し、サイバー防御に携わる一部のパートナー向けに限定提供していた。 Gemini API経由でArgonを利用する場合</description>
+    </item>
+    <item>
+      <title>AIチャットサービスのCharacter.aiが破産申請、ディズニーへの資産売却などを検討</title>
+      <link>https://gigazine.net/news/20261014-character-ai-bankruptcy/</link>
+      <pubDate>2026/10/14 13:03</pubDate>
+      <description>はじめに　早速ですが、獣医師である私の“数学者”としての約10年半の人生が間もなく終わりを迎えようとしています。訳がわからないでしょうから、まずは簡単に経歴を紹介させて下さい。 ・獣医学科を卒業後の数年間、大動物臨床獣医師として勤務 ・数学者を目指して退職し、翌年に大学院数理科学科修士課程に入学 ・修了後、海外の研究機関の博士課程へ留学しPh.D.を取得 ・在学中に学振PDに採用され、修了と同時に帰国 ・学振PDの任期満了まで残り数日 留学してからは奨学金として生活費が支給されるようになったので、準備期間を経て獣医師から数学者に転職したともいえます。 私は獣医師には向いていませんでしたが、本格的に数学を始めてから人生が好転した気がします。これまでに複数の分野において論文を発表し、既に単著7本が国際学術誌に受理・掲載済みです。特に査読中の実質的な学位論文では、10年以上未解決だった有名な予想</description>
+    </item>
+    <item>
+      <title>GitHub - nyosegawa/speech.cpp: Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml: Qwen3-TTS, Irodori-TTS, Qwen3-ASR, ReazonSpeech, parakeet and Silero VAD on Metal, Vulkan and the CPU, with an OpenAI-</title>
+      <link>https://github.com/nyosegawa/speech.cpp</link>
+      <pubDate>2026/10/14 16:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d75e8440912e7ce30bc7a9744e0999e597f6d681/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F028%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/</link>
+      <pubDate>2026/10/14 07:59</pubDate>
+      <description>Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInsta360で撮影した360度動画もいい感じに切り抜いてくれる。 あまりこういうことを言いたくないが、「これを知らないと損をしてる」と言える。特に動画を作る人は。 一昨日開催した日本酒xAIハッカソンの動画ファイルをフォルダーに放り込み、SDカードドライブにInsta360で撮影したmicroSDカードを挿して「いい感じに編集して」と言ったらすぐに出てきた。 粗編集でとめてくれといえば本当に粗編集でとめてくれる。勝手にタイトル画面とかも入れてくれる。凄すぎる。 Clau</description>
+    </item>
+    <item>
+      <title>AIにコードを書かせた先で、ボトルネックはどこに移ったか —4つの詰まりどころを追いかけて - Findy Media</title>
+      <link>https://findy-code.io/media/articles/aisaji-gota_bara</link>
+      <pubDate>2026/10/14 08:31</pubDate>
+      <description>不正アクセスによる情報漏えいが相次いでいることを受けて、NHKの世論調査で、自分の個人情報が流出する不安を感じるか尋ねたところ、「感じる」と答えた人が77％に上りました。 【リンク】NHK世論調査…</description>
+    </item>
+    <item>
+      <title>claude-plugins-official/plugins/code-modernization/README.md at main · anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-modernization/README.md</link>
+      <pubDate>2026/10/14 11:55</pubDate>
+      <description>『ドラゴンクエスト』や『ポートピア連続殺人事件』で知られる堀井雄二氏が、生成AIを使って制作した推理ゲームを公開しました。たったひとり、わずか30分ほどで作られたにもかかわらず、実際に「そこそこ」遊べるゲームに仕上がっています。 ゲーム開発へのAI活用に一部の人々が反発するなか、今回の一件は様々な波紋を広げています。生成AIが開発の省力化・高速化に有効であることを、ゲーム業界のレジェンド自らが示したからです。 今後、ゲーム開発に生成AIをどこまで活用すべきなのか。そして、どこで線引きすればいいのでしょうか。 ココがポイント堀井雄二（@YujiHorii） Epic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” 出典：AUTOMATON　2026/10/13(火) ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」</description>
+    </item>
   </channel>
 </rss>
