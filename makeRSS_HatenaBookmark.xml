@@ -266159,5 +266159,50 @@ June 6, 2026</description>
       <pubDate>2026/10/14 11:55</pubDate>
       <description>『ドラゴンクエスト』や『ポートピア連続殺人事件』で知られる堀井雄二氏が、生成AIを使って制作した推理ゲームを公開しました。たったひとり、わずか30分ほどで作られたにもかかわらず、実際に「そこそこ」遊べるゲームに仕上がっています。 ゲーム開発へのAI活用に一部の人々が反発するなか、今回の一件は様々な波紋を広げています。生成AIが開発の省力化・高速化に有効であることを、ゲーム業界のレジェンド自らが示したからです。 今後、ゲーム開発に生成AIをどこまで活用すべきなのか。そして、どこで線引きすればいいのでしょうか。 ココがポイント堀井雄二（@YujiHorii） Epic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” 出典：AUTOMATON　2026/10/13(火) ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」</description>
     </item>
+    <item>
+      <title>【笠原一輝のユビキタス情報局】 買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link>
+      <pubDate>2026/10/15 21:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/711187ee693222954105d15eef61a134c3e6efe0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F329%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Sakana ChatにAIの記憶を可視化する新機能「My Fish」が登場、覚えている内容や記憶同士のつながりを確認可能に</title>
+      <link>https://gigazine.net/news/20261015-sakana-chat-my-fish/</link>
+      <pubDate>2026/10/15 16:39</pubDate>
+      <description>ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモーダル大規模言語モデル（LMM）「リコーLMM_35B-A3B」を開発しました。本モデルは、アリババクラウドが開発・提供するMoE（Mixture of Experts）*1構造を採用した「Qwen3.6-35B-A3B」をベースに、リコー独自の強化学習*2およびカリキュラム学習*3技術を活用して、日本語でのリーズニング性能*4を高めたものです。 本モデルは、総パラメータ数約350億のうち、推論時に約30億パラメータのみを選択的に稼働させるMoE構造を採用しています。これにより</description>
+    </item>
+    <item>
+      <title>声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59778</link>
+      <pubDate>2026/10/15 19:14</pubDate>
+      <description>SpaceXAIが音声対話AIモデル「Grok Voice 3.0」を2026年10月14日に発表しました。業界トップクラスの低遅延かつ低価格で、SpaceXAIは「世界で最も知的な音声対音声モデル」と主張しています。 Introducing Grok Voice 3.0 | SpaceXSI https://x.ai/news/grok-voice-3 Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model. It excels at resolving customer calls, responds in under a second, and costs less than other frontier models. pic.twitter.com/cfDRrkQPEc— Sp</description>
+    </item>
+    <item>
+      <title>日本語 Decision モデル &amp;quot;saihai&amp;quot; (采配) と、日本語 Decision モデルベンチマークの公開 - A Day in the Life</title>
+      <link>https://secon.dev/entry/2026/10/15/100000-saihai-japanese-decision-benchmark/</link>
+      <pubDate>2026/10/15 11:42</pubDate>
+      <description>大規模言語モデル(LLM)とは大きく異なる設計の「意思決定モデル」として注目を集めたAIモデル「Jev」が、改良版の「Jev 1.14.0」を2026年10月14日にリリースしました。Jev 1.14.0では新たに画像入力に対応したほか、より長いコンテキストといった実験的な機能も追加されています。 Jev: For the builders AND dreamers - TypeSafe AI Blog https://typesafe.ai/blog/jev-1-14 we announced Jev 1.14 on 10.14 at 1:14pm PT 🔥 a new and improved model, along with experimental features for our dreamers: • images • a new box type • longer con</description>
+    </item>
+    <item>
+      <title>The agentic development loop | Hayden Bleasel</title>
+      <link>https://haydenbleasel.com/writing/ultracite</link>
+      <pubDate>2026/10/15 09:19</pubDate>
+      <description>AIエージェントによる日本企業のWebサイトへの攻撃を確認――クラウド型WAFを提供するビットフォレストは10月14日、同社技術ブログ（WAF Tech Blog）でこのように報告した。攻撃元がAIエージェントかどうかを判定する仕組みを導入し、10日夜から14日までに少なくとも3つのIPアドレスからの攻撃を確認したという。うち1つからは8時間弱にわたり、10段階に変化した攻撃の推移を公開した。 同社は「AIエージェントによる攻撃を見分ける方法を公開すると攻撃者側に対策されてしまうため詳細は説明できない」としつつも、サーバの応答を読み取って次の行動を修正するなどの特徴を逆手に取り、「単純なリクエストを連続して送るだけ」「単純に『curl』や『sqlmap』を実行するだけ」といった従来の攻撃とは区別できるようにWAFの挙動を調整したという。 導入前の検証では、中国Alibabaの「Qwen 3</description>
+    </item>
+    <item>
+      <title>宿題をAIに丸投げ？ 生成AIの学力への影響は | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261002de53846</link>
+      <pubDate>2026/10/14 17:46</pubDate>
+      <description>音声をテキストに変換する文字起こしには一般的に音声認識専用のAIモデルが使われます。しかし、文章の意味を数値で表現する埋め込みモデルのEmbeddingGemma 2を利用して音声を文字起こしするという一風変わったアプローチを採用した「Embedding Gemma Transcribe」が登場しました。Embedding Gemma TranscribeはApple Silicon搭載Macで動作し、インターネット接続なしで音声を処理できるとのことなので、実際に使ってみました。 Embedding Gemma Transcribe https://eg2.haku.sh/ EmbeddingGemma 2はテキスト、画像、音声、動画を共通の数値空間で表現する「マルチモーダル埋め込みモデル」で、音声の文字起こし用に開発されたモデルではありません。Embedding Gemma Transc</description>
+    </item>
+    <item>
+      <title>参加者全員にMax 5x Planと500ドル。Anthropic初の国内ハッカソン</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148028.html</link>
+      <pubDate>2026/10/14 16:46</pubDate>
+      <description>【10月14日 AFP】ドナルド・トランプ米大統領は13日、英国で男性がトラに襲われる衝撃的な動画を自身のSNS「トゥルース・ソーシャル」に投稿し、SNS上で批判を浴びた。 トランプ氏は同日その後も投稿を続け、自身がトラと追いかけっこやプロレスごっこといったじゃれ合いを繰り広げ、仲良くなる様子を描いた人工知能（AI）生成動画を公開した。動画には楽曲「ライオンは寝ている」が使われていた。 英国の野生動物公園で10日に男性が襲われた様子を捉えた41秒間の動画はその後、ホワイトハウスのX（旧ツイッター）アカウント「ラピッド・レスポンス47」でも共有された。 普段からSNSに挑発的な内容を投稿しているトランプ氏は、この動画に「自然をなめるな！」とのコメントを添えた。その後、チープな音色のシンセサイザー音楽に合わせ、人々が大型ネコ科動物に襲われる様子を描いた、AIで生成されたとみられる動画も投稿した</description>
+    </item>
   </channel>
 </rss>
