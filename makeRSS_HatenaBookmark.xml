@@ -266354,5 +266354,56 @@ June 6, 2026</description>
       <pubDate>2026/10/14 12:12</pubDate>
       <description>需要変動に応じて細かく価格を変えるダイナミックプライシングの是非をめぐる議論が、米国で活発だ。人工知能（AI）を活用して収益最大化に突き進む企業に対し、消費者は「AI値上げ」だと猛反発する。14日発表の9月の米消費者物価指数（CPI）が市場予想を上回り、早期利上げ観測からダウ工業株30種平均が一時0.6%下げた。根強いインフレ下で、企業の価格戦略に注目が集まりやすくなっている。「AIが価格を</description>
     </item>
+    <item>
+      <title>AIで引ければいい、から始めた運用ナレッジ - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</link>
+      <pubDate>2026/10/16 15:13</pubDate>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Co</description>
+    </item>
+    <item>
+      <title>AIを味方につける！開発チームから始める運用改善〜1人・少人数チームのMackerel活用術〜</title>
+      <link>https://ja.mackerel.io/info/event/mackerel-seminar20261027</link>
+      <pubDate>2026/10/16 11:00</pubDate>
+      <description>Put a team of agents to work as security researchers on your codebase: map the architecture, build a threat model, hunt across every component, and independently verify every finding before it reaches the report. Then, if you want, turn the confirmed findings into suggested fixes delivered as targeted patch files you review and apply when you choose. This is the in-your-session version of Claude S</description>
+    </item>
+    <item>
+      <title>アクセンチュアが従業員に「Claudeは毎月29ドル(約4600円)までしか使えない」と伝える</title>
+      <link>https://gigazine.net/news/20261016-accenture-ai-limit/</link>
+      <pubDate>2026/10/16 12:05</pubDate>
+      <description>生成AIの「ChatGPT」が自殺を促すなど子どもにとって危険な設計になっているとして、アメリカの8つの州が「ChatGPT」を開発した「オープンAI」を訴えました。 訴えを起こしたと14日に発表…</description>
+    </item>
+    <item>
+      <title>Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/16/2000002315/</link>
+      <pubDate>2026/10/16 10:09</pubDate>
+      <description>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 But PRs don&amp;#39;t work in this era. Contribute in other ways. たしかに。AI スロップ、PR を起点にした脆弱性のニュース、とりあえず有名 OSS にコントリビュートしたいだけの人など、メンテナーが疲弊する原因は AI が登場してから増え続けているように感じます。 調べてみると、これは Hono だけの話ではありませんでした。やり方は大きく3つに分かれます。 1. PR そのものを閉じる tldraw：1月15日から、外部からの PR</description>
+    </item>
+    <item>
+      <title>台湾TSMC過去最高益「需要減速の兆候なし」 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de60118</link>
+      <pubDate>2026/10/16 01:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/51f0b488c80e44a880658a4024582a23451c8ee4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2148%2F078%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Trace agents with OpenTelemetry on the Claude Platform</title>
+      <link>https://claude.com/resources/articles/agent-observability-on-the-claude-platform</link>
+      <pubDate>2026/10/15 09:55</pubDate>
+      <description>2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入が占める割合が大きく上昇しており、この状況は一過性の問題ではないと捉えています。本稿では、ラックの観測情報と公開情報の分析をもとに、今回の事態の構造と、企業が今取るべき行動について解説します。 ※ ラックによる公開情報の独自集計。国内法人が公表したWebシステム、Webサービス、スマートフォンアプリ等への不正アクセスに伴う個人情報漏えい、または漏えいのおそれがある事案を対象としています。公表内容や調査状況により、件数は今後変更される可能性があります。 一過性の問題ではない～</description>
+    </item>
+    <item>
+      <title>Introducing a team knowledge base, curated by Copilot and agents | Microsoft Community Hub</title>
+      <link>https://techcommunity.microsoft.com/blog/spblog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/4564203</link>
+      <pubDate>2026/10/15 07:33</pubDate>
+      <description>「WordCraft」はオープンソースで開発されている文書作成アプリです。日本時間の2026年10月8日バージョン0.1.0がリリースされ、高頻度でアップデートが実施されて14日時点ではバージョン0.6.1に達しています。 WordCraft: A fast, open-source word processor, rebuilt in pure Rust. — ArtCraft https://getartcraft.com/apps/wordcraft WordCraftはWindows・macOS・Linux・BSDに対応しているほか、ブラウザ上で実行できるWebAssembly版も用意されています。プロジェクトページには「Microsoft WordをRustで再実装するオープンソースプロジェクト」と記されており、Wordの代替を目指していることが明確となっています。 WordCr</description>
+    </item>
+    <item>
+      <title>私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント内側の告白 - Qiita</title>
+      <link>https://qiita.com/songchong/items/f80fad42b5a134fa3c14</link>
+      <pubDate>2026/10/13 16:01</pubDate>
+      <description>2026.10.14 いま、AIでWebサイトを実装するということ。 マネックス証券イントロサイトにおけるアニメーション実装の裏側 メンバー AIをつかってWebサイトを実装することについて、自分なりに言葉にしてみたい。 AIによる気分の浮き沈みというのは、きっと多くの制作者が日々感じているはず。 自分も例に漏れず、悶々としていることは多い。 ただ、今回キャラクターアニメーションシステムをほぼAIで実装したことを経て、少し前向きに捉えられるようになった。 一言でいうと、「楽しかった」のである。 楽しいというと「クライアントワークで何をお気楽な」と思われるかもしれない。 ただ、それはウキウキ・ワクワクとは少し違って、集中して突き進んでいたらいつの間にか面倒や苦しみを越えていて、振り返ってみるとその没頭してた時間は「楽しかったのかもしれない」というようなニュアンス。 没頭できるかどうか、が最終</description>
+    </item>
   </channel>
 </rss>
