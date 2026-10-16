@@ -266591,5 +266591,11 @@ June 6, 2026</description>
       <pubDate>2026/10/15 07:59</pubDate>
       <description>Announcing OpenTelemetry traces from Claude Managed Agents, the Messages API, and Claude SDKs on the Claude Platform. You can now send OpenTelemetry (OTel) traces from Claude Managed Agents, the Messages API, and Claude SDKs to any OTel tool, and follow each step your agents take. If you already send Claude Code or Cowork traces to your observability tool, the agents you build on the Claude Platfo</description>
     </item>
+    <item>
+      <title>Sakana AI</title>
+      <link>https://sakana.ai/my-fish/</link>
+      <pubDate>2026/10/14 23:45</pubDate>
+      <description>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援は、2つのコンポーネントでできています。文章を読んでレスポンスを考える「モデル」と、モデルの指示に従ってファイルを読み書きしたりコマンドを実行したりする「コーディングエージェント」です。Claude Codeはこの2つがセットになったサービスですが、LocalLLMではそれぞれを自分で選んで組み合わせます。今回はコーディングエージェントに無料のOpenCodeを、モデルにQwen3.5-122Bとgpt-oss-120bを使い</description>
+    </item>
   </channel>
 </rss>
