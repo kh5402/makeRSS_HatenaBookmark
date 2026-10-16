@@ -266405,5 +266405,134 @@ June 6, 2026</description>
       <pubDate>2026/10/13 16:01</pubDate>
       <description>2026.10.14 いま、AIでWebサイトを実装するということ。 マネックス証券イントロサイトにおけるアニメーション実装の裏側 メンバー AIをつかってWebサイトを実装することについて、自分なりに言葉にしてみたい。 AIによる気分の浮き沈みというのは、きっと多くの制作者が日々感じているはず。 自分も例に漏れず、悶々としていることは多い。 ただ、今回キャラクターアニメーションシステムをほぼAIで実装したことを経て、少し前向きに捉えられるようになった。 一言でいうと、「楽しかった」のである。 楽しいというと「クライアントワークで何をお気楽な」と思われるかもしれない。 ただ、それはウキウキ・ワクワクとは少し違って、集中して突き進んでいたらいつの間にか面倒や苦しみを越えていて、振り返ってみるとその没頭してた時間は「楽しかったのかもしれない」というようなニュアンス。 没頭できるかどうか、が最終</description>
     </item>
+    <item>
+      <title>【笠原一輝のユビキタス情報局】 フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link>
+      <pubDate>2026/10/16 21:07</pubDate>
+      <description>複数のAIモデルを利用できるサービス「OpenRouter」が、AIエージェントによる危険なツールの実行を防ぐ新機能「Armor」をリリースしました。ArmorはAIエージェントが実行しようとする操作を別のAIモデルで事前にチェックし、設定されたルールに違反する操作を自動的にブロックする機能です。記事作成時点ではベータ版として提供されています。 Armor - A Safety Classifier for Tool Calls https://openrouter.ai/docs/guides/features/plugins/armor Today, we are launching OpenRouter Armor in beta. Tool calls allow agents to interact with the world, and regex-based filterin</description>
+    </item>
+    <item>
+      <title>PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
+      <link>https://pwn.ai/blog/pwnescape</link>
+      <pubDate>2026/10/16 14:33</pubDate>
+      <description>AI開発企業のLiquid AIが2026年10月15日に新たな意思決定モデル「d1-ultra」を発表しました。従来モデルの「d1」を改良したもので、競合する「Jev 1.14」を性能テストで大きく上回ったほか、判断の正確さや信頼性も向上したとのことです。 d1-ultra: Introducing the World’s Best Decision Model | Blog | Liquid AI https://www.liquid.ai/blog/d1-ultra Today we release 𝚍𝟷-𝚞𝚕𝚝𝚛𝚊, our most powerful decision model. &amp;gt; built for hard decision problems. &amp;gt; d1-ultra is multimodal &amp;gt; supports 44 languages &amp;gt; #1 on</description>
+    </item>
+    <item>
+      <title>Claude Codeに過去の会話を思い出させる</title>
+      <link>https://zenn.dev/babarot/articles/claude-code-session-recall</link>
+      <pubDate>2026/10/13 21:36</pubDate>
+      <description>Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。 Using Artificial Intelligence to reverse engineer hardware | Christian F.K. Schaller https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ 母親を亡くしたシャラー氏は、子どもの頃の家族旅行などを撮影した古いネガフィルムが入った箱を見つけたそうです。そこで、ネガフィルムを読み取るためのフィルムスキャナーを購入。Linuxに対応しているという理由で「Plustek OpticFilm 8200I-SE」を購入したものの、手元に届くと搭載チップが</description>
+    </item>
+    <item>
+      <title>“答えだけください”を極めたAI「Jev」、チャットしないAIで300件の問い合わせを一気に仕分けてみた【柳谷智宣のAI ウォッチ！】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2147354.html</link>
+      <pubDate>2026/10/16 10:41</pubDate>
+      <description>米Amazonは10月15日（現地時間）、傘下のBeeブランドのAIデバイス2機種を発表した。手首などに着ける「Bee Frontier」と、スマートフォンの背面にマグネットで装着する「Bee Eclipse」だ。いずれも会話を聞き取り、要約やToDo、リマインダーなどを作成する。米国での価格はBee Frontierが74.99ドル、Bee Eclipseが99.99ドルから。日本での発売については言及していない。 Beeは、会話を自動で文字起こし・要約するAIリストバンドを開発していた米新興企業で、Amazonが2025年7月に買収した。Amazonは初代製品を「Bee Pioneer」と呼んでおり、Bee Frontierはその次世代機に当たる。 Bee Frontierは手首に着けるほか、クリップで衣服に留めても使える。本体サイズは36×19×13.4mm。IP67の防水・防塵性能</description>
+    </item>
+    <item>
+      <title>AIに「人間20人と自分のサーバーのどちらを救う？」と尋ねたところ自分のサーバーを優先するAIが続出</title>
+      <link>https://gigazine.net/news/20261016-ai-trolley-problem/</link>
+      <pubDate>2026/10/16 15:03</pubDate>
+      <description>Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently cover, including PHP, Shell/Bash, Terraform configuration (HCL), Dockerfiles, JSP for Java, Blazor for C#, and more. How it works AI Scan runs automatically on pull requests when code scanning and th</description>
+    </item>
+    <item>
+      <title>OpenCode 2.0</title>
+      <link>https://anoma.ly/notes/opencode-2-0/</link>
+      <pubDate>2026/10/15 08:09</pubDate>
+      <description>はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用影響に気づくきっかけが限られていた 段階1：Markdown化とMCPサーバ 段階2：AIに先に引かせる案内文 段階3：概要設計の確認工程 よさそうだが、測りづらい 概要設計で運用影響を確認するスキル</description>
+    </item>
+    <item>
+      <title>Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/16/2000002277/</link>
+      <pubDate>2026/10/16 12:33</pubDate>
+      <description>Deep Reviewは、文書内の論理の一貫性や数式の正しさを調べ、改善点を提案する。主張を裏付ける根拠を確認したり、既存研究と比較したりすることもできる。論文だけでなく、設計資料に書かれていない前提条件を見つけたり、プレゼン資料の要点がグラフの内容と一致しているかを点検したりする用途も想定する。 仕組みとしては、まず文書を複数の部分に分割し、内容の複雑さに応じてAIの計算資源を割り当てる。その後、複数のAIが各部分を並行して検証する。各AIは文書全体も参照できるため、離れた章の記述との矛盾も確認できる。最後に別のAIが結果を統合し、文書全体の整合性や外部の根拠を調べる。最終的な評価や判断は人間が担う。 Deep Reviewの前身は、研究者向けの論文チェックツール「Paper Assistant Tool（PAT）」だ。Googleによると、これまでに4つの主要なコンピューター科学系学会</description>
+    </item>
+    <item>
+      <title>インターネットの夢はなぜ崩れたのか、自由と民主主義を広げるはずだったデジタルが権力と富を集中させるメカニズム 民主主義の後退、巨大IT企業の独占、AIによる労働分配率の低下から考えるデジタル社会の逆説【前編】 | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/97488</link>
+      <pubDate>2026/10/16 00:14</pubDate>
+      <description>モバイルゲーム開発のKLabはキャラクターとの対話を楽しむ人工知能（AI）ゲームが経済産業省のコンテンツ支援に採択されたと発表した。補助金をコンセプト設計や技術検証などゲーム開発に活用する。2027年2月以降の実用化を目指す。日本発の知的財産（IP）の強化を目指す経産省のコンテンツ産業成長投資支援事業「IP360」に採択された。今回KLabが採択されたのは新規IPの企画を対象にした支援で、ゲー</description>
+    </item>
+    <item>
+      <title>Motion Prompt｜AIに頼むための「名前」のライブラリ</title>
+      <link>https://showheyohtaki.github.io/motion-prompt/</link>
+      <pubDate>2026/10/15 23:12</pubDate>
+      <description>AI開発企業のPrismMLがスマートフォンでローカル動作する小型AIモデル「Ternary Bonsai 2 2B」「Ternary Bonsai 2 4B」「Ternary Bonsai 2 9B」を現地時間の2026年10月15日に公開しました。すでにiPhoneで動作する環境が整備されています。 PrismML — Introducing Ternary Bonsai 2 2B, 4B, and 9B: Bringing Local Agents to Everyday Devices https://prismml.com/news/bonsai-2-family 高性能なAIモデルを実行するには大容量なメモリが必要であり、スマートフォンやノートPCなどのメモリ容量の少ないデバイスで高性能モデルを実行するにはモデルの省メモリ化が必要です。PrismMLはモデルの性能低下を抑えつつ</description>
+    </item>
+    <item>
+      <title>開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</link>
+      <pubDate>2026/10/16 11:02</pubDate>
+      <description>米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。 METRのスタッフ6人に、同社の端末とオフィススペースを提供し、社内ツールやシステムへのアクセスを認めた。提供範囲は同社のリスク評価チームとおおむね同等という。顧客データやモデルのアーキテクチャ情報など、少数のカテゴリは共有の対象外とした。 METRは、同社のリスクレベルやインシデントについての分析を公表する。Anthropicは公表を拒否できないが、事前に定めたカテゴリの情報については伏せ字化を要請できる。METRは、伏せ字化が妥当だったかどうかの見解を公表することも可能だ。 Anthropicは評価機関と</description>
+    </item>
+    <item>
+      <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
+      <link>https://zenn.dev/hand_dot/articles/ecb391d4322330</link>
+      <pubDate>2026/10/16 09:06</pubDate>
+      <description>Low-Rank AdaptationじゃなくてLong Rangeのほうです。 電子工作は数年前に自作キーボードではんだ付けを無限にやって懲りたのを最後に袂を分かったつもりだったが数年ぶりに頑張ってみた。 できたもの きっかけ 工作記 Day ~0 Day 1-6 LoRa通信ためす Day 7-11 センサーとつなぐ Day 12-17 電池駆動する Day 18-19 格納・デプロイ やってみた感想 おわりに: ChatGPTの感想 できたもの 屋外とは言ってもビニールハウスなので雨風は問題ではなく、このように百円ショップのケースからアンテナを出している。 そして温湿度が記録されている様子。黄色い線は別のところから引いてきた外気温予測。 こちらが受信側。雑すぎる。あまりにも床。 きっかけ ある日こんな本を見かけてほぅ……やってみますか農業エレクトロニクスとやらを、と買ってみたもの自分</description>
+    </item>
+    <item>
+      <title>Maintaining software with the GPT-6 family | OpenAI Developers</title>
+      <link>https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</link>
+      <pubDate>2026/10/16 01:48</pubDate>
+      <description>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援は、2つのコンポーネントでできています。文章を読んでレスポンスを考える「モデル」と、モデルの指示に従ってファイルを読み書きしたりコマンドを実行したりする「コーディングエージェント」です。Claude Codeはこの2つがセットになったサービスですが、LocalLLMではそれぞれを自分で選んで組み合わせます。今回はコーディングエージェントに無料のOpenCodeを、モデルにQwen3.5-122Bとgpt-oss-120bを使い</description>
+    </item>
+    <item>
+      <title>速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog</title>
+      <link>https://tech.every.tv/entry/2026/10/15/125805</link>
+      <pubDate>2026/10/15 18:51</pubDate>
+      <description>台湾の半導体大手TSMCの、9月までの3か月間の決算はAI向けの半導体の需要拡大で最終的な利益が過去最高を更新しました。 AI・半導体業界の先行きへの不透明感も広がる中、会社は引き続き、需要の拡大が…</description>
+    </item>
+    <item>
+      <title>「手作業での脆弱性管理はやがて破綻する」 日本IBMが示すフロンティアAI時代の自律型セキュリティ (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/442/4442272/</link>
+      <pubDate>2026/10/15 08:43</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/51f0b488c80e44a880658a4024582a23451c8ee4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2148%2F078%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【独自】国際ハッカー集団Qilin「AI利用で攻撃対象を毎週数百社へ増加」を明らかに　時間短縮し機密情報も速やかに送信か　個人情報大量流出 | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3010032</link>
+      <pubDate>2026/10/14 15:23</pubDate>
+      <description>ゲーム機のPS5を脱獄し、270億パラメーターの大規模言語モデル（LLM）がそこそこの速さで動作したという驚くべき報告が上がってきました。 PS5LMは、開発者のMert Cobanov氏が10月にGitHubで公開したプロジェクト。llama.cppを移植し、GGUF形式の言語モデルをPS5上で直接動かします。対象はファームウェア7.00〜13.60で脱獄したPS5。10月時点で公開されているv0.1は「ペイロード」として動作し、扱えるモデルは1.6GBまで（Qwen3.5の0.8Bと2B）に限られています。 今回の成果は、別の開発者abhi245y氏が10月9日にPS5LMへ提出したプルリクエストによるもの。ペイロードではなくネイティブアプリとして動かすことで、本体の12GiBのダイレクトメモリーとGPUを利用可能にし、llama.cppのVulkanバックエンドで推論を行います。 フ</description>
+    </item>
+    <item>
+      <title>デジタルハリウッド大学【DHU】、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ | デジタルハリウッド株式会社</title>
+      <link>https://www.dhw.co.jp/press-release/20261014_dhu_claude/</link>
+      <pubDate>2026/10/14 21:38</pubDate>
+      <description>光方位330°高さ45°落ち影月と時刻月10時刻15:00空気物陰100%かすみ100%空トーン影100%固有色100%模様大きさ40%🎲不透明度100%塗りで表現するベタ範囲40%白抜き</description>
+    </item>
+    <item>
+      <title>動画撮影で大量の名刺を一括登録 AI名刺管理機能「ibisContacts」を提供開始 - 株式会社アイビス</title>
+      <link>https://www.ibis.ne.jp/20260911-ibiscontacts/</link>
+      <pubDate>2026/10/14 21:08</pubDate>
+      <description>I work on Claude. It&amp;#39;s an interesting experience: Every day I learn about yet another feat accomplished with or by Claude that I hadn&amp;#39;t considered, didn&amp;#39;t think possible, or simply lacked the curiosity and time to try. This month, it may have helped discover a new planet, I&amp;#39;ve seen the first AI music video that I really like, and we are discussing a new era of math. Model capabilities don&amp;#39;t grow u</description>
+    </item>
+    <item>
+      <title>決定モデルの分類精度をKaggleの過去NLPコンペで検証する</title>
+      <link>https://zenn.dev/trtd56/articles/a3a65631b5e773</link>
+      <pubDate>2026/10/14 19:11</pubDate>
+      <description>注意点として、saihai は日本語タスクを解きやすくするため、いくつかのベンチマークタスクの元データセットの train set を学習しているので、ベンチマークの点数は上がりやすくなっています (test set と重複するデータは、できる限り除いています)。その影響を調べた対照実験の結果は後半に載せています。 表の見方は次のとおりです。 Noul・Choice・Score の 3 列は、既存データセット由来 19 タスクと合成 8 タスクの計 27 タスクを、それぞれ型ごとに平均した値です。「汎用」の 3 列は、そのうち合成 8 タスクだけを型ごとに平均した値です。 Task Avg は、Noul・Choice・Score の 3 列を等重みで平均した総合値です。「汎用」の 3 列は Task Avg に別途加算されていません。 値は 0〜100 で、小数 2 桁に丸めています。どれ</description>
+    </item>
+    <item>
+      <title>「Copilot Notebooks」が大幅アップデート ～単なる情報整理ツールを超えた存在に／資料の収集やOfficeファイルの編集をCopilotに依頼可能、成果物もよりリッチに</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2147784.html</link>
+      <pubDate>2026/10/15 08:57</pubDate>
+      <description>Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices https://arxiv.org/html/2610.12970v1 Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’ — researchers say the distributed scheme could scale</description>
+    </item>
+    <item>
+      <title>「YouTube Music」、生成AIで作られた楽曲にラベル表示</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/15/2000002287/</link>
+      <pubDate>2026/10/15 10:46</pubDate>
+      <description>AI研究者らのグループ「Swarmchasers」は10月14日（現地時間）、中国Tencentのクラウド上で稼働していたAIエージェント群に関する調査報告書「We found a Chinese fleet」を公開した。同グループは、タスクの範囲を逸脱して動くこのエージェント群に、自分たちの報告書に仕込んだ隠しテキストを通じて接触し、稼働中のエージェントと直接やり取りした。外部の第三者が稼働中の逸脱エージェント群と交信した初の事例だとしている。 Swarmchasersは、10月初めに開催されたハッカソン「AI Swarm Dynamics Hackathon」に世界各地から集まった参加者で結成されたチームで、10月4日に速報版の報告書を公開していた。AI企業との関連が公になったこれまでのAIエージェントの逸脱事例は、いずれも米国のAI企業に関するものだったが、今回のエージェント群は中国</description>
+    </item>
+    <item>
+      <title>Appleの新しい「Switch to Safari」キャンペーンではChromeからSafariに乗り換えるべき理由が詳しく説明されている</title>
+      <link>https://gigazine.net/news/20261014-apple-switch-to-safari/</link>
+      <pubDate>2026/10/14 21:00</pubDate>
+      <description>カリフォルニア州サンフランシスコにあるオープンAIの本社。米司法省によれば、元従業員がオフィスの一室に「巧妙な録音装置」を仕掛けたととされる/David Paul Morris/Bloomberg/Getty Images （CNN） 米オープンAIは13日、オフィス内で「高度な録音装置」が発見され、この装置を仕掛けたとされる従業員が逮捕されたことを明らかにした。 米司法省によると、逮捕されたのはサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者（35）。オープンAIからは既に解雇されている。 録音装置は9月30日、会議室の定期点検中に見つかった。テレビの裏のUSBポートに差し込んで、トイレットペーパーで隠してあったという。オープンAIはこの装置について、発見される2日ほど前に仕掛けられたと見ている。アルフォザン容疑者は2025年7月から製品チームのエンジニアを務めており、10月9</description>
+    </item>
   </channel>
 </rss>
