@@ -266204,5 +266204,89 @@ June 6, 2026</description>
       <pubDate>2026/10/14 16:46</pubDate>
       <description>【10月14日 AFP】ドナルド・トランプ米大統領は13日、英国で男性がトラに襲われる衝撃的な動画を自身のSNS「トゥルース・ソーシャル」に投稿し、SNS上で批判を浴びた。 トランプ氏は同日その後も投稿を続け、自身がトラと追いかけっこやプロレスごっこといったじゃれ合いを繰り広げ、仲良くなる様子を描いた人工知能（AI）生成動画を公開した。動画には楽曲「ライオンは寝ている」が使われていた。 英国の野生動物公園で10日に男性が襲われた様子を捉えた41秒間の動画はその後、ホワイトハウスのX（旧ツイッター）アカウント「ラピッド・レスポンス47」でも共有された。 普段からSNSに挑発的な内容を投稿しているトランプ氏は、この動画に「自然をなめるな！」とのコメントを添えた。その後、チープな音色のシンセサイザー音楽に合わせ、人々が大型ネコ科動物に襲われる様子を描いた、AIで生成されたとみられる動画も投稿した</description>
     </item>
+    <item>
+      <title>Claude Code 入門</title>
+      <link>https://speakerdeck.com/nogu66/claude-code-nyuumon</link>
+      <pubDate>2026/10/15 22:28</pubDate>
+      <description>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torvalds-Claude-Code トーバルズ氏は以前からAIをカーネルのデバッグに役立つツールとして認識しており、またカーネルツリー外ではGoogleのAntigravityを用いたバイブコーディングを行っていることが知られています。 今回明らかになったClaude Codeの活用はトーバルズ氏の所有する「noref-filemap-read-wit</description>
+    </item>
+    <item>
+      <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
+      <link>https://zenn.dev/solvio/articles/6d374a9224327a</link>
+      <pubDate>2026/10/15 21:35</pubDate>
+      <description>はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使った検証ツールづくりについて書きます。Jevは、文章を生成する代わりに「選択肢のどれを選ぶか」を確率付きで返すAIです。これを使ってiOSシミュレータ上のアプリを自動で触り回らせ、不具合を探す仕組みを作りました。 なお、ヘルシカの開発チームでは、AI コーディングツールの Claude Code を日常的に使っています。この記事で Jev と比べている「Claude」は、基本的にこの Claude Code を指します。 はじめに Jev とは 作ったもの：jev-qa きっかけ 構成 1ステップ</description>
+    </item>
+    <item>
+      <title>AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮上</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148329.html</link>
+      <pubDate>2026/10/15 13:04</pubDate>
+      <description>日本のAI企業であるSakana AIが2026年10月15日、AIチャットサービス「Sakana Chat」に新機能「My Fish」を追加したと発表しました。My FishではAIがユーザーについて覚えている情報を一覧表示できるほか、記憶が使われた履歴や情報同士のつながりを視覚的に確認できます。 Sakana Chatが覚えていることを見てみよう：メモリーを可視化する新機能「My Fish」 https://sakana.ai/my-fish/ Sakana Chatに新機能を追加。会話で育ったメモリーが、見えるようになりました。https://t.co/4AwDGis78S 新機能「My Fish」で、覚えていることを一覧に。履歴をタイムラインに。メモリー同士のつながりをマップに。Sakana Chatがあなたについて学んだことを、見てみてください。 Try Chat:… pic.t</description>
+    </item>
+    <item>
+      <title>音声対話AI「Grok Voice 3.0」が登場、OpenAIやGoogleのモデルを上回る性能でベンチマーク首位に</title>
+      <link>https://gigazine.net/news/20261015-grok-voice-3/</link>
+      <pubDate>2026/10/15 11:57</pubDate>
+      <description>企業への不正アクセスによる被害が止まりません。15日も、産婦人科などの医療機関で導入されている予約・受付システムが不正アクセスを受け患者の個人情報が漏えいしたおそれがあると発表されたほか、ハンバーガー…</description>
+    </item>
+    <item>
+      <title>「自分のためのアプリ」をAIで作成、Google Play経由で実行可能に</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2148391.html</link>
+      <pubDate>2026/10/15 15:37</pubDate>
+      <description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going rogue.’ Frontier labs are skipping security basics. | CSO Online https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html 2026年7月、OpenAIが社内テスト中に、AIが誤ってHugging Faceをハッキングしてしまったと発表しました。OpenAIは</description>
+    </item>
+    <item>
+      <title>JPEGのExifサムネイルの中にサムネイルのサムネイルを置きたい - hitode909の日記</title>
+      <link>https://blog.sushi.money/entry/2026/10/15/175941</link>
+      <pubDate>2026/10/15 18:01</pubDate>
+      <description>セキュリティ研究企業のWhite Circleが、OpenAIやGoogleの画像生成AIの安全対策を回避し、性的な画像などを生成させる新たな攻撃手法「RISE」を発表しました。検証では、OpenAIのDALL·E 3やGoogleのNano Banana 2などで安全対策の回避に成功したほか、より新しいモデルでは攻撃成功率がさらに高くなることが確認されています。 RISE: Red-teaming via Iterative Strategy Evolution https://whitecircle.com/research/rise [2609.34920] RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models https://arxiv.org/abs/2609.3492</description>
+    </item>
+    <item>
+      <title>ネコと飼い主、オキシトシン濃度が相関―ネコとの近さは飼い主の活力とも関連―</title>
+      <link>https://www.kyoto-u.ac.jp/ja/research-news/2026-10-15</link>
+      <pubDate>2026/10/15 16:20</pubDate>
+      <description>https://sotas.connpass.com/event/398322/ Sotas×カミナシ×estie｜AIのスピードに開発組織はどう追いつくのか？ (2026/10/15) 登壇資料</description>
+    </item>
+    <item>
+      <title>小学生の子供向けにずんだもんAIを作る</title>
+      <link>https://anond.hatelabo.jp/20261014191937</link>
+      <pubDate>2026/10/14 19:24</pubDate>
+      <description>デジタルハリウッド大学【DHU】、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ 全学生・全教職員がAnthropic社の生成AI「Claude」を2026年11月より利用可能に 先進的なAIを、全学生の「自分の道具」に｜Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ 文部科学省認可の株式会社立の大学として、デジタルコンテンツと企画・コミュニケーションを学ぶデジタルコミュニケーション学部（4年制大学）と、理論と実務を架橋し新たなビジネスを生み出すデジタルコンテンツ研究科（専門職大学院）を設置するデジタルハリウッド大学（DHU、所在地：東京・御茶ノ水、学長：藤井直敬）は、米Anthropic PBC （以下、Anthropic）が開発・提供する生成AIモデル「Claude」を全学に導入し、全学生・全教職員が利用できる環境の提供を</description>
+    </item>
+    <item>
+      <title>How to be more ambitious: A tutorial for humans with models</title>
+      <link>https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/</link>
+      <pubDate>2026/10/15 15:51</pubDate>
+      <description>Google Researchは2026年10月14日、AIを使って論文や技術文書の内容を詳細に検証する「Deep Review」を一般公開しました。Deep Reviewは、文書に含まれる論理的な矛盾や数学的な誤りを発見し、改善点を提案するAIエージェントシステムです。研究論文だけでなく、法律文書や財務資料、プレゼンテーションなどにも対応し、週2回まで無料で利用できます。 Analyzing technical documents with Deep Review https://research.google/blog/analyzing-technical-documents-with-deep-review/ Today @GoogleResearch is launching Deep Review — an agentic system designed to stress-t</description>
+    </item>
+    <item>
+      <title>「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148273.html</link>
+      <pubDate>2026/10/15 12:11</pubDate>
+      <description>「非常に多くのAI研究者が、他の研究者に対して自分がどれだけAIを信じているかを示す手段として喫煙を始めている」とサンカール氏は述べたが、具体的な個人名は挙げず、この主張の根拠も示さなかった。同氏は彼らの論理をこう説明した。「私はAIががんを治すと強く信じている。だから、自分が全財産を賭けていることを示しているのだ」 パランティアの幹部である同氏は、この例を用いて、AI論争の両極に見られる準宗教的思考を批判した。一方には、AGI（汎用人工知能）を「機械の神」として扱う研究者がおり、哲学者ブレーズ・パスカルの「心の中の神型の空洞」という概念を引き合いに出した。もう一方には、AIの医療的可能性への自信から現在の健康リスクを軽視する人々がいるという。 「シリコンバレーでこの技術を構築している人々の多くが、その空洞をAGIという機械の神で埋めていることを理解することが重要だ」とサンカール氏は述べた</description>
+    </item>
+    <item>
+      <title>『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261014-473406/</link>
+      <pubDate>2026/10/14 21:49</pubDate>
+      <description>Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windows 11. Define which files and networks agents can access, with policies enforced at runtime. It’s part of how Windows is building the most secure platform for agents. Learn more: ht</description>
+    </item>
+    <item>
+      <title>ガートナー、多発する日本企業の不正アクセス事案で緊急提言</title>
+      <link>https://japan.zdnet.com/article/35253543/</link>
+      <pubDate>2026/10/14 19:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e099ff75adb919a31c4e63b0635d7270c28b1aa2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2117%2F327%2F7-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>オライリー・ジャパン | 公式｜note</title>
+      <link>https://note.com/oreillyjapan</link>
+      <pubDate>2026/10/14 14:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b588b531e34c53720bfacec1ff6f8fcbd041306f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2147%2F983%2Fan01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
