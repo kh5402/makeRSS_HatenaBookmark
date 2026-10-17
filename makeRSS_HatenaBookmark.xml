@@ -266744,5 +266744,35 @@ June 6, 2026</description>
       <pubDate>2026/10/15 17:26</pubDate>
       <description>はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ任せることにしました。ただし、そのままAIに渡すわけではありません。任せる範囲をプログラムで区切り、要所には人間の承認を残しています。PRレビューについては、人間が行う通常のレビューでもAIを活用して</description>
     </item>
+    <item>
+      <title>OpenAIの暴走AI、政府サイトの病床データ24年分を無断取得　他人の仮想通貨で支払い、新たに4件（平和博） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/5e8495cadb5412ac2ca85a7253509eadf5360471</link>
+      <pubDate>2026/10/17 13:03</pubDate>
+      <description>日俳連には約2600人の俳優・声優が加盟する。今回の「音声に関する生成AI利用ガイドライン」は、制作会社やAI開発企業などに順守を呼びかける自主基準だ。日俳連によると、日本には個人の声そのものを包括的に保護する法律がなく、AIによる無断学習や音声生成への対応が課題になっている。 同意や契約の有効期間は原則最長1年とし、継続利用する場合は条件を再協議する。ゲームやアニメなど制作期間が長い場合には、合理的な理由があれば1年を超える契約も認める。 対価については、通常の出演料とは別に、AIの学習・開発料、生成AI使用料、広告などへの追加使用料、多言語化使用料を設定するよう求めた。利用条件や対価について合意できなければ、AI利用は認めない。 日本語版の音声作品をAIで多言語化して海外展開する場合は、変換する言語ごとに本人の同意が必要とする。元の演技のニュアンスや文化的な文脈を著しく損なう改変も認め</description>
+    </item>
+    <item>
+      <title>AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM</title>
+      <link>https://note.com/suh_sunaneko/n/n23ed6981ff6a</link>
+      <pubDate>2026/10/17 13:12</pubDate>
+      <description>街の歴史を、たどる。そこで何が起きたのか。その跡はどこに残っているのか。街はどう変わってきたのか。 市区町村ごとのページに、そんな問いへの答えを集めました。</description>
+    </item>
+    <item>
+      <title>人による工数見積もりをやめて、AIに任せることにした - TANP Blog</title>
+      <link>https://www.tanp-blog.com/entry/2026/10/15/110018</link>
+      <pubDate>2026/10/15 15:05</pubDate>
+      <description>NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処理コストを40分の1に削減した事例も報告されています。 NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agent</description>
+    </item>
+    <item>
+      <title>iPhoneで最大120tok/s！3値化LLM「Ternary Bonsai 2」に2B/4B/9B登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148621.html</link>
+      <pubDate>2026/10/16 10:05</pubDate>
+      <description>Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。 Using Artificial Intelligence to reverse engineer hardware | Christian F.K. Schaller https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ 母親を亡くしたシャラー氏は、子どもの頃の家族旅行などを撮影した古いネガフィルムが入った箱を見つけたそうです。そこで、ネガフィルムを読み取るためのフィルムスキャナーを購入。Linuxに対応しているという理由で「Plustek OpticFilm 8200I-SE」を購入したものの、手元に届くと搭載チップが</description>
+    </item>
+    <item>
+      <title>ChatGPTとは何が違う？ Googleが開発する「現実世界を理解するAI」の現在地【開発者と読み解くAIの世界】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aidev/2147746.html</link>
+      <pubDate>2026/10/15 10:16</pubDate>
+      <description>台湾の半導体大手TSMCの、9月までの3か月間の決算はAI向けの半導体の需要拡大で最終的な利益が過去最高を更新しました。 AI・半導体業界の先行きへの不透明感も広がる中、会社は引き続き、需要の拡大が…</description>
+    </item>
   </channel>
 </rss>
