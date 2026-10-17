@@ -266597,5 +266597,32 @@ June 6, 2026</description>
       <pubDate>2026/10/14 23:45</pubDate>
       <description>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援は、2つのコンポーネントでできています。文章を読んでレスポンスを考える「モデル」と、モデルの指示に従ってファイルを読み書きしたりコマンドを実行したりする「コーディングエージェント」です。Claude Codeはこの2つがセットになったサービスですが、LocalLLMではそれぞれを自分で選んで組み合わせます。今回はコーディングエージェントに無料のOpenCodeを、モデルにQwen3.5-122Bとgpt-oss-120bを使い</description>
     </item>
+    <item>
+      <title>「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</link>
+      <pubDate>2026/10/17 08:20</pubDate>
+      <description>Discover open-source code and collaborate with the community.</description>
+    </item>
+    <item>
+      <title>How the Claude Code team does code review / claude.dev Blog</title>
+      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+      <pubDate>2026/10/16 21:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3192ce96b90e8f3d8d25a4c18b5647b0ca634108/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F969%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース</title>
+      <link>https://gigazine.net/news/20261016-openrouter-armor/</link>
+      <pubDate>2026/10/16 19:25</pubDate>
+      <description>PWNAI Research, Paulos Yibelo··18m18 min read·20,57920,579 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a full guest-to-host escape. Part 00: Intro On August 18, 2026, Vercel announced a $1 million challenge inviting researchers to break the isolation boundary of its Sandbox product (total prize pool). The</description>
+    </item>
+    <item>
+      <title>Neural Networks Are Already Clean</title>
+      <link>https://already-clean.goodfire.com/</link>
+      <pubDate>2026/10/16 08:33</pubDate>
+      <description>AI開発企業のLiquid AIが2026年10月15日に新たな意思決定モデル「d1-ultra」を発表しました。従来モデルの「d1」を改良したもので、競合する「Jev 1.14」を性能テストで大きく上回ったほか、判断の正確さや信頼性も向上したとのことです。 d1-ultra: Introducing the World’s Best Decision Model | Blog | Liquid AI https://www.liquid.ai/blog/d1-ultra Today we release 𝚍𝟷-𝚞𝚕𝚝𝚛𝚊, our most powerful decision model. &amp;gt; built for hard decision problems. &amp;gt; d1-ultra is multimodal &amp;gt; supports 44 languages &amp;gt; #1 on</description>
+    </item>
   </channel>
 </rss>
