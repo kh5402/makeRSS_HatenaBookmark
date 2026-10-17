@@ -266675,5 +266675,74 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6f16b8fae3f31b0962182ca41774fe27b5dbb589/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F496%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能</title>
+      <link>https://gigazine.net/news/20261017-agentsview/</link>
+      <pubDate>2026/10/17 18:27</pubDate>
+      <description>Redesigning source control at Anthropic \ Anthropic Anthropic’s Scion is heavily inspired by Mononoke · sunshowers More on Anthropic’s Scion ripping off Mononoke · sunshowers Anthropic が内製した Monorepo-optimized VCS が実は Meta がオープンソースで公開している彼らの VCS のパクリであり、オープンソースだしパクるのはいいがちゃんとネタの出処を明らかにしないのはインチキじゃねえか、という指摘。 今年のはじめごろ、彼らはエーアイが C compiler を “clean room” 実装したと主張し clean room implementation を post-AGI 時代に</description>
+    </item>
+    <item>
+      <title>亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針</title>
+      <link>https://japan.cnet.com/article/35253656/</link>
+      <pubDate>2026/10/17 09:21</pubDate>
+      <description>街の歴史を、たどる。そこで何が起きたのか。その跡はどこに残っているのか。街はどう変わってきたのか。 市区町村ごとのページに、そんな問いへの答えを集めました。</description>
+    </item>
+    <item>
+      <title>Claude reveals ECDSA curve origins</title>
+      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+      <pubDate>2026/10/17 05:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9e858fdf7716cfb7d8c2e87c69c74e126fcf0784/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1207334.webp');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>北朝鮮、AIで探知・誘導する「超高速」魚雷を試射</title>
+      <link>https://www.afpbb.com/articles/-/3658063</link>
+      <pubDate>2026/10/17 10:15</pubDate>
+      <description>【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比でブッキング・ホールディングスが14%安、エアビーアンドビーが4%安となった。メタは</description>
+    </item>
+    <item>
+      <title>Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化</title>
+      <link>https://gigazine.net/news/20261016-perplexity-space/</link>
+      <pubDate>2026/10/16 21:44</pubDate>
+      <description>Findy AI x 開発組織サミット2026スポンサーセッション</description>
+    </item>
+    <item>
+      <title>GitHub - google-research/harness2</title>
+      <link>https://github.com/google-research/harness2</link>
+      <pubDate>2026/10/16 17:41</pubDate>
+      <description>パーフェクト・テオ 坂野旭 近未来。全てにおいて完璧な成績を収めるAIエージェントのテオ。しかし、彼が配属されたのはSランクの任務ではなく、Cランクの家事従事で…？</description>
+    </item>
+    <item>
+      <title>フィジカルAIの社会実装に向けて -AIエージェントからAgentic Roboticsへ-</title>
+      <link>https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he</link>
+      <pubDate>2026/10/16 14:37</pubDate>
+      <description>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void」という記事が公開されました。 VoidZeroが開発していたVoidを、Platformまで含めてOSSとして公開するという発表です(SDKとCLIはそれ以前からMITでnpmに公開されていました)。筆者はこれを読んで3代目を脇に置き、翌日にはVoid版のnkzn.netを作ってCloudflareにデプロイしていました。 とはいえ、Cloudflare Workersで動くフルスタックフレーム</description>
+    </item>
+    <item>
+      <title>変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が特に酷い」</title>
+      <link>https://togetter.com/li/2759076</link>
+      <pubDate>2026/10/17 00:18</pubDate>
+      <description>こんにちは、エンジニアの安達です。 これまでのタンプでは、新しい施策を検討するとき、事業部がやりたいことを整理し、それをもとにエンジニアがヒアリングを行い、開発チーム全員で工数を見積もっていました。 現在はこのプロセスを大きく変更し、事業部が要求定義を書き、AIがコードベースを確認しながら内容をレビューし、工数まで見積もる。その結果をもとに、事業部でロードマップの優先順位まで判断します。 つまり、エンジニアが関与しなくても、施策の工数見積もりと優先順位の判断ができるようになりました。 この記事では、なぜ人による工数見積もりをやめたのか、その背景と現在のプロセスについて紹介します。 なぜ工数見積もりを見直したのか 以前の施策検討は、おおまかに次のような流れでした。 事業部がやりたいことをドキュメントにまとめる エンジニアが内容をヒアリングする 必要に応じてコードや既存仕様を調査する エンジニ</description>
+    </item>
+    <item>
+      <title>Analyzing technical documents with Deep Review</title>
+      <link>https://research.google/blog/analyzing-technical-documents-with-deep-review/</link>
+      <pubDate>2026/10/16 17:27</pubDate>
+      <description>We&amp;#39;ve said before that Claude writes about 90 percent of Claude Code&amp;#39;s own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catches it? This post covers the code review flow on the Claude Code team and how it has evolved. From June to September, merged pull requests to Claude Code&amp;#39;s codebase more than doubled while the share th</description>
+    </item>
+    <item>
+      <title>スタディサプリ売却、リクルートの誤算　塾現場「生徒なかなか見ない」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC149AE0U6A011C2000000/</link>
+      <pubDate>2026/10/16 14:05</pubDate>
+      <description>はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用影響に気づくきっかけが限られていた 段階1：Markdown化とMCPサーバ 段階2：AIに先に引かせる案内文 段階3：概要設計の確認工程 よさそうだが、測りづらい 概要設計で運用影響を確認するスキル</description>
+    </item>
+    <item>
+      <title>数学の記述式答案、AIが30秒で採点　DeNA、大学受験生向けアプリ公開</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/15/2000002298/</link>
+      <pubDate>2026/10/15 17:26</pubDate>
+      <description>はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ任せることにしました。ただし、そのままAIに渡すわけではありません。任せる範囲をプログラムで区切り、要所には人間の承認を残しています。PRレビューについては、人間が行う通常のレビューでもAIを活用して</description>
+    </item>
   </channel>
 </rss>
