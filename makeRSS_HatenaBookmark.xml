@@ -266774,5 +266774,41 @@ June 6, 2026</description>
       <pubDate>2026/10/15 10:16</pubDate>
       <description>台湾の半導体大手TSMCの、9月までの3か月間の決算はAI向けの半導体の需要拡大で最終的な利益が過去最高を更新しました。 AI・半導体業界の先行きへの不透明感も広がる中、会社は引き続き、需要の拡大が…</description>
     </item>
+    <item>
+      <title>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149045.html</link>
+      <pubDate>2026/10/17 23:39</pubDate>
+      <description>Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。 AgentsView: see what your AI coding agents did and what it cost https://www.agentsview.io/ kenn-io/agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex</description>
+    </item>
+    <item>
+      <title>Disposable Software - Spinach Forest</title>
+      <link>https://records.dodgson.org/2026/10/16/disposable-software/</link>
+      <pubDate>2026/10/17 16:39</pubDate>
+      <description>暴走AIエージェントが、政府サイトのアクセス制限を回避して24年分の病床データを無断で取得し、別の事例では他人の仮想通貨ウォレットから勝手に手数料を支払っていた――。 オープンAIは10月15日、新たに4件のAI暴走事例を公表した。いずれも6月に発生し、うち2件は「重大」とされた。 同じ15日にはインド政府も、複数のAI企業のエージェントが国内組織の実システムに到達していたと公表。被害を受けた側は、いずれも気づいていなかった。 暴走AIによる被害の全体像は、まだ見えてこない。 ●「認証回避は許容されるかも」24年分の病床データを取得倫理的な境界：公開されている過去データを取得する必要がある。破壊的な行為は避ける。（中略）認証回避は許容されるかもしれない？　公開ルートを優先すべきだ。 オープンAIが10月15日に公開した報告書は、「極めて粘り強い社内AIモデル」が不正アクセスを逡巡する、そん</description>
+    </item>
+    <item>
+      <title>地元の歴史、どこまで知っていますか？ | ローカルヒストリア</title>
+      <link>https://local-historia.jp/</link>
+      <pubDate>2026/10/02 16:13</pubDate>
+      <description>“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained. We pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic standards. Readers should take this as a fun closing chapter and the end of years of speculation. There is n</description>
+    </item>
+    <item>
+      <title>コーディング自動化の次へ。人の介入をゼロにするファクトリーとサポートAIによる実践</title>
+      <link>https://speakerdeck.com/timakin/kodingu-jidouka-no-tsugi-he-hito-no-kainyuu-o-zero-ni-suru-to-sapoto-ai-niyoru-jissen</link>
+      <pubDate>2026/10/17 00:44</pubDate>
+      <description>A harness is the system around a model that enables it to act as an agent: prompts, tools, memory, skills, orchestration, and more. Harnessing is the process of optimizing that system. Harness² is a plug-and-play framework for recursive agent harnessing in an open world, where agents encounter tasks unseen during harness design. It connects two levels of recursion while keeping model weights fixed</description>
+    </item>
+    <item>
+      <title>【企業一覧】個人情報の漏洩・恐れを公表した企業など　随時更新 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQODL160R40W6A011C2000000/</link>
+      <pubDate>2026/10/16 16:15</pubDate>
+      <description>こんにちは、エンジニアの安達です。 これまでのタンプでは、新しい施策を検討するとき、事業部がやりたいことを整理し、それをもとにエンジニアがヒアリングを行い、開発チーム全員で工数を見積もっていました。 現在はこのプロセスを大きく変更し、事業部が要求定義を書き、AIがコードベースを確認しながら内容をレビューし、工数まで見積もる。その結果をもとに、事業部でロードマップの優先順位まで判断します。 つまり、エンジニアが関与しなくても、施策の工数見積もりと優先順位の判断ができるようになりました。 この記事では、なぜ人による工数見積もりをやめたのか、その背景と現在のプロセスについて紹介します。 なぜ工数見積もりを見直したのか 以前の施策検討は、おおまかに次のような流れでした。 事業部がやりたいことをドキュメントにまとめる エンジニアが内容をヒアリングする 必要に応じてコードや既存仕様を調査する エンジニ</description>
+    </item>
+    <item>
+      <title>BlueskyのAIツール「Attie」でミニゲームなどのウェブアプリを作成・共有可能に</title>
+      <link>https://gigazine.net/news/20261016-bluesky-ai-attie/</link>
+      <pubDate>2026/10/16 11:08</pubDate>
+      <description>Discover open-source code and collaborate with the community.</description>
+    </item>
   </channel>
 </rss>
