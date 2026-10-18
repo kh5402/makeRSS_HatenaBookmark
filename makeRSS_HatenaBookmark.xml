@@ -266819,5 +266819,17 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/43b9428ae42497535586b6243cb53808a53a80df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F045%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい</title>
+      <link>https://togetter.com/li/2759529</link>
+      <pubDate>2026/10/18 04:59</pubDate>
+      <description>GitHubは10月15日（現地時間）、コードスキャンの「AI Scan for pull requests」の一般提供を開始した。同機能は、CodeQLを補完するもの。PHP、Shell/Bash、Terraform構成（HCL）、Dockerfile、Java向けJSP、C#向けBlazorなど、CodeQLが現在対応していない言語やフレームワークを対象に、プルリクエストの変更から脆弱性を検出する。 コードスキャンと、リポジトリに適用されるAI Scan設定が有効な場合、プルリクエストで自動的に実行される。検出結果はConversationタブとFiles changedタブに、CodeQLの結果と並んで表示される。CodeQLのアラートとは「AI」インジケーターで区別される。セキュリティリスクの説明や修正候補（autofix）が含まれる場合もある。 検出結果は助言的な位置付けである。</description>
+    </item>
+    <item>
+      <title>画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応</title>
+      <link>https://gigazine.net/news/20261016-flux-3-image-klein/</link>
+      <pubDate>2026/10/16 12:17</pubDate>
+      <description>Abhijith has been writing for the Web since 2011 and has contributed to sites like Beebom and TechWiser. He is curious about making the best of tech accessible to everyone. He started writing as a hobby after getting a computer at 16. Since then, he has found technical writing a space where he belongs and could make a difference. A curious and self-motivated person, Abhijith&amp;#39;s writings focus on pr</description>
+    </item>
   </channel>
 </rss>
