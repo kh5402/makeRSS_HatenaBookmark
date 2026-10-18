@@ -266927,5 +266927,65 @@ June 6, 2026</description>
       <pubDate>2026/10/16 13:37</pubDate>
       <description>Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 FLUX 3 Image Klein: Open weights image generation and editing | Black Forest Labs https://bfl.ai/models/flux-3-image-klein FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs https://bfl.ai/blog/flux-3-image-klein FLUX 3 Image Klein is here. Open</description>
     </item>
+    <item>
+      <title>無料でメモをノート・カンバン・タスク・ダッシュボード・マークダウン・グラフ表示の6つに対応できAI連携・ブラウザ拡張機能・PWA・自動バックアップもできる「Poznote」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20261018-poznote/</link>
+      <pubDate>2026/10/18 18:12</pubDate>
+      <description>不正アクセスによる個人情報の漏えいが全国で急増していて、サイバーセキュリティ専門家は「日本国民で情報が漏れていない人の方が珍しい。100％防ぐことは困難だ」と指摘します。こうした中、私たちはどんな対策…</description>
+    </item>
+    <item>
+      <title>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8</link>
+      <pubDate>2026/10/18 19:16</pubDate>
+      <description>企画が決まり、スケジュールも確定した段階で、ようやくデザイナーに声がかかる。「あとは画面に落とすだけなので、来週までにお願いできますか」。デザイン組織に身を置く人なら、この一言を何度か受けたことがあるでしょう。ピキッと、ほんの少しだけ青筋が立つ瞬間です。 厄介なのは、誰も悪意を持っていないこと。事業部は事業部の進行を守ろうとしているし、デザイナーは目の前の依頼に誠実に応えようとしている。それでも、デザイナーは企画の上流から遠ざかり、依頼はさばききれないほど積み上がる。そして、「デザインとは見た目を整える仕事だ」という認識だけが組織に刻まれていきます。 これは個人の能力や努力の問題ではありません。デザインプロセスと通常業務のプロセスがかみ合わない組織に共通する「構造」の問題です。 この記事では、その構造を「因果ループ図」で描き出し、要素同士がどのように悪循環を形づくっているのかを読み解いてい</description>
+    </item>
+    <item>
+      <title>Claude、暗号技術の「25年来の謎」を30分足らずで解明</title>
+      <link>https://japan.cnet.com/article/35253671/</link>
+      <pubDate>2026/10/18 10:39</pubDate>
+      <description>最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​実行まで​担う​ほど、​残った​十数%の​誤りが​業務事故と​して​顕在化する​ため、​意味の​層の​価値は​上がる。 オントロジー導入の​​失敗パターン5つ 一方で、​オントロジー構築は​難易度の​高い​プロジェクトでもある。​実装が​崩れる​典型を​先に​知って​おきたい。 1. 業務ではなく​​ソースシステムを​​モデリングしてしまう 最も​多い​失敗である。​既存テーブルを​そのまま​オブジェクトタイプに​写すと、​テーブル名由来の​名前が​並び、データ部門</description>
+    </item>
+    <item>
+      <title>ソフトウェアファクトリーとは何で、何ではないのかを考える｜kagaya</title>
+      <link>https://note.com/r_kaga/n/n8a0c789af963</link>
+      <pubDate>2026/10/18 11:52</pubDate>
+      <description>約250万人の消費者パネルのウェブ行動ログデータを基にコンサルティング事業を手掛けるヴァリューズ（東京・港）の調査によると、検索結果から外部サイトへ遷移せず、画面上で情報収集を終える、いわゆる「ゼロクリック」行動の割合は、2025年9月の63.5%から2026年7月には68.1%へ上昇したという。人工知能（AI）による要約・概要表示の普及を背景に、ゼロクリック率は拡大傾向にある。検索経由のサイ</description>
+    </item>
+    <item>
+      <title>日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS</title>
+      <link>https://wirelesswire.jp/2026/10/94793/</link>
+      <pubDate>2026/10/18 10:39</pubDate>
+      <description>Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野について、AI の力を借りて学ぶ技術について紹介します。といっても、確立された方法論があるというよりも、私が日頃試行錯誤して行っていることを紹介する、というような感じです。肩の力を抜いて読んでください。 「知らない」にもレベルがある 理解までの道のりを把握する 出発点：解の入れ替え 核心：ガロアの基本定理 何が分かるのか 1. 土台となる基礎 2. 群論（定理の「群の側」） 3. 環論（体を構成するための道具） 4.</description>
+    </item>
+    <item>
+      <title>Speeding up code review with `small-change`</title>
+      <link>https://lethain.com/small-changes/</link>
+      <pubDate>2026/10/18 12:14</pubDate>
+      <description>ナレーションのない、世界の街歩き動画を集めてみました。 作業中でも、散歩感覚でも、静かに世界中を旅できます。</description>
+    </item>
+    <item>
+      <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
+      <link>https://zenn.dev/geekplus/articles/a615dfe41557d8</link>
+      <pubDate>2026/10/17 23:08</pubDate>
+      <description>メンバーの立ち上げもAI Nativeに チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを作った話を紹介します。 とくに以下のような方にオススメです。 オンボーディング資料が更新されず、実態と食い違っているのを知りつつ放置している 新規メンバーの立ち上がりが、本人のスキルによって大きくブレる AIエージェントに実務を任せてみたいが、どこまで任せられるのか掴めていない 社内ドキュメントとAIエージェントを繋ぐときのリアルな落とし穴を知りたい はじめに お久しぶりです、AIオールイン 入社(25卒)の u-tan こと勝野侑馬です。 前回の記事 では、新卒研修のス</description>
+    </item>
+    <item>
+      <title>日本語に強いオープンな大規模言語モデル「LLM-jp」</title>
+      <link>https://speakerdeck.com/odashi/nihongo-ni-tsuyoi-opunna-daikibo-gengo-moderu-llm-jp</link>
+      <pubDate>2026/10/17 12:00</pubDate>
+      <description>1. はじめに2026年10月、Anthropicは「How the Claude Code team does code review」という技術記事を公開しました。 この記事では、AIによるコード生成が急増する中、Anthropicがどのようにコードレビューを自動化し、品質と開発速度を両立しているのかを紹介しています。 Anthropicでは、Claude Code自身のコードの約90%がClaudeによって書かれています。また、2026年6月から9月にかけて、Claude Codeのマージ済みプルリクエスト（PR）数は2倍以上になった一方、変更を取り消すリバート率は40%以上低下しました。 この成果を支えているのが、AIによる多層レビュー、変更リスクに応じた人間の承認、問題発生時の迅速なロールバックを組み合わせた開発プロセスです。 2. AI時代のコードレビュー2-1. AIによるコ</description>
+    </item>
+    <item>
+      <title>How employment is changing at Anthropic</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <pubDate>2026/10/17 16:07</pubDate>
+      <description>Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。 AgentsView: see what your AI coding agents did and what it cost https://www.agentsview.io/ kenn-io/agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex</description>
+    </item>
+    <item>
+      <title>We don&amp;#39;t need Claude Code anymore and the best replacement is free</title>
+      <link>https://www.makeuseof.com/dont-need-claude-code-anymore-best-replacement-qwen-is-free/</link>
+      <pubDate>2026/10/16 14:35</pubDate>
+      <description>Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて読みたい</description>
+    </item>
   </channel>
 </rss>
