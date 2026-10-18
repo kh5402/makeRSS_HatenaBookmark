@@ -266831,5 +266831,41 @@ June 6, 2026</description>
       <pubDate>2026/10/16 12:17</pubDate>
       <description>Abhijith has been writing for the Web since 2011 and has contributed to sites like Beebom and TechWiser. He is curious about making the best of tech accessible to everyone. He started writing as a hobby after getting a computer at 16. Since then, he has found technical writing a space where he belongs and could make a difference. A curious and self-motivated person, Abhijith&amp;#39;s writings focus on pr</description>
     </item>
+    <item>
+      <title>オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果</title>
+      <link>https://fd-x.co.jp/insights/41-what-is-ontology</link>
+      <pubDate>2026/10/18 11:55</pubDate>
+      <description>約250万人の消費者パネルのウェブ行動ログデータを基にコンサルティング事業を手掛けるヴァリューズ（東京・港）の調査によると、検索結果から外部サイトへ遷移せず、画面上で情報収集を終える、いわゆる「ゼロクリック」行動の割合は、2025年9月の63.5%から2026年7月には68.1%へ上昇したという。人工知能（AI）による要約・概要表示の普及を背景に、ゼロクリック率は拡大傾向にある。検索経由のサイ</description>
+    </item>
+    <item>
+      <title>知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳</title>
+      <link>https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830</link>
+      <pubDate>2026/10/18 02:43</pubDate>
+      <description>Imprint’s average engineer is merging 4x more PRs than 2 years ago. Yay. Aggregated behind the average is something even more interesting: we have two teams that are merging 10x their PRs over that period. One engineer is merging 25x the PRs per week of our average engineer two years ago, and a number of others are closing in on that number. That’s pretty neat, and the slope of the line suggests o</description>
+    </item>
+    <item>
+      <title>Walkarium - 静かな街歩き動画まとめ</title>
+      <link>https://walkarium.com/</link>
+      <pubDate>2026/10/18 09:58</pubDate>
+      <description>もじゃクッキー @mojacookie 【11/14(土)15(日)デザインフェスタVol.64/G-74】 イラストレーター/Web漫画家 「しかるねこ」(@shikaruneko)「ヒヨハリ！」(@hiyohari)「ちょっぴりおしゃべりで、ちょっぴり個性的などうぶつさんたち」 アニポケ公式Xでイラスト連載中 連絡先▷ctc@mojacookie.com mojacookie.com</description>
+    </item>
+    <item>
+      <title>GitHub、プルリクエスト向け「AI Scan」を一般提供</title>
+      <link>https://codezine.jp/news/detail/30045</link>
+      <pubDate>2026/10/18 03:27</pubDate>
+      <description>1. はじめに2026年10月、Anthropicは「How the Claude Code team does code review」という技術記事を公開しました。 この記事では、AIによるコード生成が急増する中、Anthropicがどのようにコードレビューを自動化し、品質と開発速度を両立しているのかを紹介しています。 Anthropicでは、Claude Code自身のコードの約90%がClaudeによって書かれています。また、2026年6月から9月にかけて、Claude Codeのマージ済みプルリクエスト（PR）数は2倍以上になった一方、変更を取り消すリバート率は40%以上低下しました。 この成果を支えているのが、AIによる多層レビュー、変更リスクに応じた人間の承認、問題発生時の迅速なロールバックを組み合わせた開発プロセスです。 2. AI時代のコードレビュー2-1. AIによるコ</description>
+    </item>
+    <item>
+      <title>暇すぎると人は攻撃的になる。刺激を求めて暴力性が増す</title>
+      <link>https://karapaia.com/archives/632796.html</link>
+      <pubDate>2026/10/17 10:20</pubDate>
+      <description>階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAGとの違いです。 この記事では、この仕組みを論文の手法(Corpus2Skill)を参考に自作し、ベクトルDB版RAGと同じデータ・同じ質問で比較しました。 結論 28文書・20問の小規模な比較では、正答数は同等でした(どちらも20問中16問)。 階層ナビゲーション型は、質問1件あたりのLLM料金が約1.5倍、レイテンシが約1.3倍でした。 階層ナビゲーション型の失敗は、階層を降りるときのグループの選び間違いが中心でした。 LLM-as-a-Judgeの採点の食い違いは、手法間の差</description>
+    </item>
+    <item>
+      <title>Copilot・ChatGPT・Claude…全社AI選びの5条件、ガートナーが警告「課金の落とし穴」</title>
+      <link>https://www.sbbit.jp/article/cont1/187246</link>
+      <pubDate>2026/10/13 20:37</pubDate>
+      <description>ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモーダル大規模言語モデル（LMM）「リコーLMM_35B-A3B」を開発しました。本モデルは、アリババクラウドが開発・提供するMoE（Mixture of Experts）*1構造を採用した「Qwen3.6-35B-A3B」をベースに、リコー独自の強化学習*2およびカリキュラム学習*3技術を活用して、日本語でのリーズニング性能*4を高めたものです。 本モデルは、総パラメータ数約350億のうち、推論時に約30億パラメータのみを選択的に稼働させるMoE構造を採用しています。これにより</description>
+    </item>
   </channel>
 </rss>
