@@ -266867,5 +266867,65 @@ June 6, 2026</description>
       <pubDate>2026/10/13 20:37</pubDate>
       <description>ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモーダル大規模言語モデル（LMM）「リコーLMM_35B-A3B」を開発しました。本モデルは、アリババクラウドが開発・提供するMoE（Mixture of Experts）*1構造を採用した「Qwen3.6-35B-A3B」をベースに、リコー独自の強化学習*2およびカリキュラム学習*3技術を活用して、日本語でのリーズニング性能*4を高めたものです。 本モデルは、総パラメータ数約350億のうち、推論時に約30億パラメータのみを選択的に稼働させるMoE構造を採用しています。これにより</description>
     </item>
+    <item>
+      <title>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は? | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3020110</link>
+      <pubDate>2026/10/18 17:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5c96f619be98dc504497325d2849e8e589956fec/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261018-23020110-kutvv-000-1-view.jpg%3Fexp%3D10800');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>コネクタも API も無いサービスを、Claude Code に操作させる</title>
+      <link>https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009</link>
+      <pubDate>2026/10/18 13:21</pubDate>
+      <description>今年に入ってからというもの、私の YouTube での活動は大きく減ってほぼゼロになった。年始に TCP/IP スタックを24時間で作ったあと、ほとんど更新していない。これには2つの理由がある。1つは仕事が忙しいためであり、もう1つは仕事の方が楽しいためである。 AI の登場により、正しいことを十分に行うコストが激減したと感じている。以前であれば、方法を知らない、時間が足らないなどの理由で実現できなかったことが、AI の補助によって可能になった。特に集団で仕事をしていて感じるのは、少人数のチームにありがちなスキルの穴を AI が埋めて補完してくれるようになったということである。スキルの穴埋めのために頭数を増やしてスピードを犠牲にしなくてもよくなった。仕事をするということに関して、今ほどおもしろい時代はない。 一方で、余計なことをするという点においてはどうか。「なぜベストを尽くしたのか」への</description>
+    </item>
+    <item>
+      <title>AI検索普及、ゼロクリック率68%に上昇　揺らぐサイト集客 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC050C20V01C26A0000000/</link>
+      <pubDate>2026/10/18 09:09</pubDate>
+      <description>最近、日本の企業がサイバー攻撃によって大変なことになっている。 2025年9月にはアサヒグループホールディングスがランサムウェア攻撃を受け、受注・出荷業務が停止した。翌10月にはアスクルが同様の攻撃を受け、通販サービスの受注・出荷が停止。サプライチェーン全体に影響が波及する事態となった。挙句、本来、インターネットが本業のはずのさくらインターネットまでもが個人情報流出という状況になっている。これは国家的危機だ。 いずれも我々の日常生活に深く関わる企業である。コンピュータシステムが止まるということは、単にWebサイトが見られなくなるという話ではなく、ビールが届かなくなり、文房具が買えなくなり、物流が止まるということである。 一方、AIの能力は恐ろしい速度で進歩している。 以前、セキュリティホールを発見するには、コンピュータの内部構造を熟知した高度な専門家が必要だった。脆弱性を発見し、悪用できる</description>
+    </item>
+    <item>
+      <title>オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering</title>
+      <link>https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/</link>
+      <pubDate>2026/10/17 20:42</pubDate>
+      <description>GitHubは10月15日（現地時間）、コードスキャンの「AI Scan for pull requests」の一般提供を開始した。同機能は、CodeQLを補完するもの。PHP、Shell/Bash、Terraform構成（HCL）、Dockerfile、Java向けJSP、C#向けBlazorなど、CodeQLが現在対応していない言語やフレームワークを対象に、プルリクエストの変更から脆弱性を検出する。 コードスキャンと、リポジトリに適用されるAI Scan設定が有効な場合、プルリクエストで自動的に実行される。検出結果はConversationタブとFiles changedタブに、CodeQLの結果と並んで表示される。CodeQLのアラートとは「AI」インジケーターで区別される。セキュリティリスクの説明や修正候補（autofix）が含まれる場合もある。 検出結果は助言的な位置付けである。</description>
+    </item>
+    <item>
+      <title>ITシステムの弱点、発見が急増　全世界、AI普及で2.4倍に（共同通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/f2a4f2ed8846296b0e2f4bcd3d965c06f0aa782f</link>
+      <pubDate>2026/10/18 00:11</pubDate>
+      <description>2026年10月8日にインターネットプロバイダ協会で行った談話の資料です。</description>
+    </item>
+    <item>
+      <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
+      <link>https://zenn.dev/aiforall/articles/8e1803396534de</link>
+      <pubDate>2026/10/17 22:37</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/43b9428ae42497535586b6243cb53808a53a80df/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F045%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ローカルAIで「Linux」PCをクラッシュさせないための4つのヒント</title>
+      <link>https://japan.zdnet.com/article/35253577/</link>
+      <pubDate>2026/10/16 09:15</pubDate>
+      <description>【10月17日 AFP】北朝鮮は、目標の探知と誘導に人工知能（AI）を活用した新型精密誘導魚雷システムの試射を行った。国営の朝鮮中央通信（KCNA）が17日に報じた。 KCNAによると、「超高速」の魚雷システム「ザム2.0」の水中試射は15日に実施され、兵器の「技術的な改良が成功したことを確認する」目的で行われた。 北朝鮮は今月初めにも、AIを活用した中距離極超音速ミサイルを発射したと発表していた。 北朝鮮の金正恩（キム・ジョンウン）朝鮮労働党総書記は9月、国内の兵器システムにおける「人工知能の水準」を引き上げる必要性を強調していた。 専門家らは、北朝鮮がロシアの対ウクライナ戦争を支援するために兵士を派遣する見返りとして、ロシアから軍事支援を受け、ミサイル技術を急速に向上させている可能性があると指摘している。(c)AFP</description>
+    </item>
+    <item>
+      <title>QA4AI 2026-Oct 生成AI時代の品質保証</title>
+      <link>https://speakerdeck.com/tokuty/qa4ai-2026-oct-seisei-ai-jidai-no-hinshitsu-hoshou</link>
+      <pubDate>2026/10/16 21:15</pubDate>
+      <description>【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比でブッキング・ホールディングスが14%安、エアビーアンドビーが4%安となった。メタは</description>
+    </item>
+    <item>
+      <title>スマホにも楽々おさまる将棋AIの軽量評価関数「つようら王11mini/micro」が無償公開／「MIT」ライセンスで商用も可。サイズは「水匠5」の1/7以下ながら棋力は上</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2148597.html</link>
+      <pubDate>2026/10/16 13:37</pubDate>
+      <description>Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 FLUX 3 Image Klein: Open weights image generation and editing | Black Forest Labs https://bfl.ai/models/flux-3-image-klein FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs https://bfl.ai/blog/flux-3-image-klein FLUX 3 Image Klein is here. Open</description>
+    </item>
   </channel>
 </rss>
