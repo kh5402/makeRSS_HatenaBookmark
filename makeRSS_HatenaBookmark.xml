@@ -267170,5 +267170,92 @@ June 6, 2026</description>
       <pubDate>2026/10/16 12:30</pubDate>
       <description>Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。 AgentsView: see what your AI coding agents did and what it cost https://www.agentsview.io/ kenn-io/agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex</description>
     </item>
+    <item>
+      <title>AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」</title>
+      <link>https://gigazine.net/news/20261019-hybrid-reasoning-agents/</link>
+      <pubDate>2026/10/19 22:11</pubDate>
+      <description>存命する数学者の中で世界最高峰のひとりと評されるテレンス・タオ氏は、現在、ほとんど数学に取り組めていないそうです。カリフォルニア大学ロサンゼルス校で開かれた数学のワークショップに出席したタオ氏は、AIが数学界にもたらした存続の危機について「今は臨戦態勢です」と語りました。 Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html AI企業のOpenAIは、これまでに80年近く未解決だった数学予想の反証に成功したり、数学・理論計算機科学の課題で新成果を上げたと報告したりしています。2026年10月には、722本の未解決問題に関する数</description>
+    </item>
+    <item>
+      <title>ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim</title>
+      <link>https://note.com/timtarou/n/n5443f159e7bc</link>
+      <pubDate>2026/10/19 23:05</pubDate>
+      <description>中国の経済成長率は、9月末までの3カ月間で回復した。AIブームが輸出を押し上げ、3年ぶりの低水準から回復した。 中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。</description>
+    </item>
+    <item>
+      <title>【資料公開】AIで組織を加速させる勘所</title>
+      <link>https://www.ryuzee.com/contents/blog/14627</link>
+      <pubDate>2026/10/19 17:53</pubDate>
+      <description>Proxy-Based Secret ManagementCredential InjectionThe proxy acts as a reverse proxy for configured credential routes. The agent sends plain HTTP to localhost, and the proxy strips the service prefix, injects credentials as HTTP headers, forwards over TLS, and streams responses back. The agent never sees the API key. Proxy injection (recommended for API keys): the proxy automatically sets environmen</description>
+    </item>
+    <item>
+      <title>【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る【いまさら聞けないExcelの使い方講座】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/exceltips/2148977.html</link>
+      <pubDate>2026/10/19 10:45</pubDate>
+      <description>Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開発、9割こんな感じになってるんちゃうかな。 ……ね、心当たり、ありません? 僕、フリーランスで5年以上、いろんな現場入ってきたんですけど、最近の現場はもうClaude CodeとかCursor使い倒すのが当たり前で、ガッツリ触ってきたんですよ。 で、現場めっちゃ見てきて、ハッキリ言えることがあるんです。 このノリで開発してる現場、ホンマに、1〜2ヶ月後、地獄に変わります。 線引きを、間違えてるんですよ。 「AIに任せていい仕事」と、「絶対自分でやらなアカン仕事」、こ</description>
+    </item>
+    <item>
+      <title>Anthropicが株式の一部を公共利益のための子会社「Anthropic Public Benefit Fund」に拠出、拠出額はAnthropicの評価額に応じて増加予定</title>
+      <link>https://gigazine.net/news/20261019-public-benefit-fund/</link>
+      <pubDate>2026/10/19 16:20</pubDate>
+      <description>AI（人工知能）の席巻によって、インターネットの検索に地殻変動ともいえる変化が生じている。企業のWebサイトやニュースサイトなどは、AIにいかに引用されるかがポイントになってきた。AI検索結果によって、サイトの「ゼロクリック」という事態も発生。AIによる引用にコンテンツを最適化させる対応策である「GEO＝Generative Engine Optimization」へのシフトが急務となりそうだ。 インターネットではこれまで、米Googleなどの検索エンジンに最適化する対応技術である「SEO＝Search Engine Optimization」を常道として、アクセス数を獲得し、認知度やネット広告増収を果たしてきた。 SEOはGoogleなどによる検索結果を利用者のPCの画面結果の上位にするのが目的で、コンテンツに記載する見出しや文章に利用者の注目が集まるようにキーワードの選択を行う。SEO</description>
+    </item>
+    <item>
+      <title>DeepSeekの検索APIが登場、1000回のリクエスト成功ごとに0.75ドルで競合より安価</title>
+      <link>https://gigazine.net/news/20261019-deepseek-search-fetch-api/</link>
+      <pubDate>2026/10/19 12:14</pubDate>
+      <description>PlayStation 5(PS5)本体でAIモデルを動かし、PCやスマートフォンからチャットで利用できるオープンソースアプリ「PS5LM Plus」がGitHubで公開されています。 GitHub - abhi245y/PS5LM-Plus: llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 https://github.com/abhi245y/PS5LM-Plus PS5LM-Plus/docs/CLI.md at main · abhi245y/PS5LM-Plus · GitHub https://github.com/abhi245y/PS5LM-Plus/blob/main/docs/CLI.md PS5LM Plusを開発している</description>
+    </item>
+    <item>
+      <title>Anthropic社内ではAIが人間の6倍も稼働していることが判明、従業員の仕事は「AIの監督」へと変化</title>
+      <link>https://gigazine.net/news/20261019-employment-at-anthropic/</link>
+      <pubDate>2026/10/19 15:12</pubDate>
+      <description>本連載「ざっくり知っておきたいIT業界データ」では、過去1週間に調査会社などから発表されたIT市場予測やユーザー動向などのデータを、それぞれ3行にまとめてお伝えします。 今回（2026年10月10日～10月16日）は、ランサムウェア攻撃や国家支援型APT攻撃の最新動向、Webサイトに対する攻撃の急増やそこに見られる変化、情報システム担当者の転職意向とその背景、企画／マーケティング職のAI活用実態と得られた／得られなかったものについてのデータを紹介します。 ダークウェブや犯罪フォーラムの観測、国家支援型APTグループ分析に基づく「2026年上半期のランサムウェア動向」レポートより。リークサイトに掲載されたランサムウェア被害は世界全体で5984件に上り、2025年上半期の4429件から約1.35倍に増加した。日本の企業／組織における被害は64件で、2025年の半期平均（39件）の約1.6倍にあ</description>
+    </item>
+    <item>
+      <title>VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149183.html</link>
+      <pubDate>2026/10/19 14:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fc862455e6d24f01a9c08f929076a7b233801682/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2149%2F089%2Fm01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も</title>
+      <link>https://gigazine.net/news/20261019-opencode-leak/</link>
+      <pubDate>2026/10/19 14:08</pubDate>
+      <description>9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです。ところがStrataはVRAMだけでなく、RAMとSSDに必要なデータを分割して持たせることで、その壁を打ち破り、さらに生成の高速化も実現しました。VRAMを搭載したローエンドPCでさえ動かすことができるため、今後のローカルLLMの活用方法を大きく変化させることは確実です。 80GBクラスのAIモデルが、RTX 4090で高速動作 Strataは現在、Alibabaの「Qwen3.8-Flash-Next」のみに対応しています。このモデルは総パラメータ数125B（1</description>
+    </item>
+    <item>
+      <title>「アーキテクチャConference 2026」NOTA、Base44を含む特別登壇者4名を追加発表！AI時代の設計判断に確かな軸を、11月26日・27日開催。</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000280.000045379.html</link>
+      <pubDate>2026/10/19 10:23</pubDate>
+      <description>米Anthropicは10月16日（現地時間）、2本の調査レポートを公開した。「How employment is changing at Anthropic」は、AIが同社内の雇用や働き方をどう変えたかを分析したもの。「The AI expectations gap」は、同社従業員と米国の一般市民がAIの将来をどう予測しているかを比較したものだ。AI導入の最前線にある同社の状況は、AIが経済全体の仕事のあり方や採用、労働需要をどう変えるかの先行指標になり得るとしている。 Anthropicでの雇用に関するレポートは、雇用やAI利用、成果指標、従業員調査、カレンダー、採用評価などの社内データと、従業員17人へのインタビューに基づく。それによると、技術部門の従業員に占めるエントリーレベル（初級職）の比率は、2025年初めの21％から14％に低下した。技術職の採用に占めるエントリーレベルの比率</description>
+    </item>
+    <item>
+      <title>Someone behind the software</title>
+      <link>https://karrisaarinen.com/posts/someone-behind-the-software/</link>
+      <pubDate>2026/10/18 08:11</pubDate>
+      <description>The Fastly AI platformScale AI systems, protect your content from bots, and run your edge with natural language — all on one programmable platform. DeliverReal-time experiences at global scaleSecureProtect apps and APIs from AI-scale threatsDeployRun code milliseconds from your usersObserveReal-time visibility, from origin to edge Professional ServicesExpert help to migrate or optimize your delive</description>
+    </item>
+    <item>
+      <title>AIの台頭でウエブサイトのアクセス向上策はSEOからGEOにシフト　対応急務に</title>
+      <link>https://www.sankei.com/article/20261018-KDSFPHXC7BJ4NJWDVCTBCKOG6E/</link>
+      <pubDate>2026/10/18 10:04</pubDate>
+      <description>For years, Big Tech CEOs have touted visions of AI agents that can autonomously use software applications to complete tasks for people. But take today’s consumer AI agents out for a spin, whether it’s OpenAI’s ChatGPT Agent or Perplexity’s Comet, and you’ll quickly realize how limited the technology still is. Making AI agents more robust may take a new set of techniques that the industry is still</description>
+    </item>
+    <item>
+      <title>CIで使うLambda MicroVMs 最高なんだよなぁ！</title>
+      <link>https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa</link>
+      <pubDate>2026/10/18 22:08</pubDate>
+      <description>はじめに こんにちは, IT基盤部ネットワークグループ (NOC) の nagi です. NOC では, データセンタ, オフィス, 横浜スタジアムなどの数十拠点のネットワークを運用しています. 個々の拠点の規模感は大小様々ではありますが, すべてを合わせると管理するべきネットワーク機器の台数は膨大になります. これら多数の機器を管理するために, config管理ツール nwcli を内製開発し活用してきました. nwcli についてはぜひ前記事( NW機器config管理ツールを内製した話 )も参照してください. nwcli について簡単に紹介すると, 3点の課題を解決するために開発されました. (課題1) 背景も変更者も分からない謎な設定が残っている. Gitの履歴, YAMLでのコメント管理が可能 定期差分確認により設定の除去漏れを防止 (課題2) 新規拠点構築時の設定漏れ/不要設定</description>
+    </item>
+    <item>
+      <title>AIによるProof of Workの終わりと「なぜベストを尽くしたのか」のこれから - Write and Run</title>
+      <link>https://diary.hatenablog.jp/entry/2026/10/17/191528</link>
+      <pubDate>2026/10/18 12:48</pubDate>
+      <description>今回の謎は、電子署名などに使われる暗号方式「ECDSA」に関するものだ。ECDSAは「楕円曲線」と呼ばれる数学的な仕組みを利用する。米国立標準技術研究所（NIST）が2000年に公表した規格には、曲線の形を決める際に使う「シード」という数値が記載されていた。 NSAの元職員ジェリー・ソリナス氏は2015年、シードについて、冗談めいた英文をハッシュ化して作ったと記憶していると説明していた。しかし、正確な手順は思い出せず、実際にプログラムを書いた同僚も詳細を覚えていなかった。古い記録も見つからず、生成方法は謎のままだった。 手掛かりは1990年代の乱数生成プログラム Anthropicによると、同社の社員が社内の研究モデルにシードの由来を調べるよう依頼したところ、Claudeは30分足らずで、NISTの5つの曲線に使われるシードの生成方法を特定した。 使われていたのは、C言語のライブラリーにあ</description>
+    </item>
   </channel>
 </rss>
