@@ -267257,5 +267257,92 @@ June 6, 2026</description>
       <pubDate>2026/10/18 12:48</pubDate>
       <description>今回の謎は、電子署名などに使われる暗号方式「ECDSA」に関するものだ。ECDSAは「楕円曲線」と呼ばれる数学的な仕組みを利用する。米国立標準技術研究所（NIST）が2000年に公表した規格には、曲線の形を決める際に使う「シード」という数値が記載されていた。 NSAの元職員ジェリー・ソリナス氏は2015年、シードについて、冗談めいた英文をハッシュ化して作ったと記憶していると説明していた。しかし、正確な手順は思い出せず、実際にプログラムを書いた同僚も詳細を覚えていなかった。古い記録も見つからず、生成方法は謎のままだった。 手掛かりは1990年代の乱数生成プログラム Anthropicによると、同社の社員が社内の研究モデルにシードの由来を調べるよう依頼したところ、Claudeは30分足らずで、NISTの5つの曲線に使われるシードの生成方法を特定した。 使われていたのは、C言語のライブラリーにあ</description>
     </item>
+    <item>
+      <title>不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261020de61888</link>
+      <pubDate>2026/10/20 05:38</pubDate>
+      <description>【読売新聞】　国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの 脆弱 （ ぜいじゃく ） 性を診断する中国語のＡＩ（人工知能）エージェントが一部の攻撃で悪用されたとみられることが１９日、日本のセキ</description>
+    </item>
+    <item>
+      <title>GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</link>
+      <pubDate>2026/10/19 21:45</pubDate>
+      <description>最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」</description>
+    </item>
+    <item>
+      <title>中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/articles/cqly0vee2zm4o</link>
+      <pubDate>2026/10/19 16:47</pubDate>
+      <description>みなさんこんにちは。@ryuzeeです。 仕事でAIを使うのは当たり前になっていて、もうAIがなかった頃には戻れないと考えている人も多いのではないかと思います。 一方で、「ある大手企業が1人あたりのAI利用額に月3000円くらいの上限を設けた」みたいな話も聞こえてきます。偉い人からすると、「全社で見ると相当の金額を使っているのに、成果がよくわからん」ということで絞りにかかっているのでしょう。 ということで今回は、ある大手のお客様の社内講演で、AIを使っていかに組織的な成果を出すかについて話をしてきましたので、資料を公開します。 参考になれば幸いです。 忙しい人向けのサマリー実はAI単体でどうこうというよりも、昔から言われている「定跡」を実践できるかどうかという話。 体感は当てにならないMETRの比較試験では、AIを使ったほうが19%遅かったのに、本人たちは20%速くなったと感じていた。人間</description>
+    </item>
+    <item>
+      <title>Credential Injection - Proxy-Based Secret Management for AI Agents</title>
+      <link>https://nono.sh/credential-injection</link>
+      <pubDate>2026/10/19 17:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18659424b067aed01d99b4b88330900b1c1203bc/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2148%2F977%2FOffice2021_253-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出</title>
+      <link>https://note.com/yukiedu/n/n4d25f5e1d590</link>
+      <pubDate>2026/10/19 17:46</pubDate>
+      <description>GMOサイバー犯罪対策センターの福森です。 前回の記事の続報です。日本企業を狙った侵害事案において攻撃元インフラを調査したところ、AIによる自律型ペネトレーションテストシステムであるARTEXが使われていることを確認いたしました。前回の記事ではフォレンジックログからAIによる攻撃である可能性が高いと推定しておりましたが、それを裏付ける結果となりました。 類似の事件として、2026年9月下旬より発生した韓国の金融機関を標的とした攻撃キャンペーンにARTEXが使われていたことをCrowdStrike社が報じましたが、同じ手口で日本の企業も攻撃してきていることが推察されます。 https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ 標的を絞った攻撃</description>
+    </item>
+    <item>
+      <title>台風30号　物理モデルとAI予測に大きな差　AIモデルは北東へ転向する計算も - ウェザーニュース</title>
+      <link>https://weathernews.jp/news/202610/190101/</link>
+      <pubDate>2026/10/19 13:53</pubDate>
+      <description>AI企業のAnthropicは、公共の利益に完全に献身する新しい完全子会社である「Anthropic Public Benefit Fund」に株式の一部を拠出することを2026年10月19日に発表しました。当初は株式の5％からスタートし、会社の価値が高まるのに応じて拠出額が増加していく予定です。 Investing in the public benefit \ Anthropic https://www.anthropic.com/news/public-benefit-fund We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.</description>
+    </item>
+    <item>
+      <title>リンクトインもAI疲れ、広く読まれる投稿の書き方を指南</title>
+      <link>https://www.cnn.co.jp/tech/35253706.html</link>
+      <pubDate>2026/10/19 12:36</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>一日に二つの全く異なるコンセプトのオレオレOSを作って思ったこと/OSを作るとはどういうことなのか?｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/naabc7413c8fc</link>
+      <pubDate>2026/10/18 22:03</pubDate>
+      <description>求人票に応募する人ほど、最初の仕事が遠い仕事を得るには、求人を探し、書類を出し、選考を通る必要がある。多くの学生はそう考えている。実績がなければ書類で落ち、書類で落ちるから実績ができない。この堂々巡りに悩んで、私のところへ相談に来る学生は多かった。2026年10月に私が行った15分のオンライン相談でも、最も多かった悩みは「実績ゼロからどう仕事を取るか」である。 しかし、私は書類選考を一度も通っていない。それでも今、上場企業からスタートアップまで、月に20件ほどのプロジェクトに関わっている。 では、なぜそれが成り立つのだろうか。私は書類選考という〝正面玄関〟を使っていないからだ。人事部の選考は、多くの会社で、経営者の手間を減らすための仕組みとして置かれている。そのため、CEOが「この人に任せたい」と判断すれば、人事の選考を経ずに話が決まることがある。CEOの許可は、人事の選考を飛ばす力を持つ</description>
+    </item>
+    <item>
+      <title>AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから</title>
+      <link>https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror</link>
+      <pubDate>2026/10/19 11:34</pubDate>
+      <description>Know which vulnerabilities matter, and what to do about them. A private desktop app for vulnerability triage, written in native Rust, with a CLI, REST API and MCP server for developers and AI agents. 32 tools, 31 data sources, on-device AI. What it is · Getting started · Features · Install · Local AI · Data sources · Developer notes · Citing Thousands of software vulnerabilities are published ever</description>
+    </item>
+    <item>
+      <title>日本語の業務データが、そのまま日本語のオントロジーに。Context Ontology Accelerator v0.3.6 の日本語対応</title>
+      <link>https://zenn.dev/aws_japan/articles/context-ontology-accelerator-multilingual</link>
+      <pubDate>2026/10/18 21:27</pubDate>
+      <description>October 15, 2026Cloudflare and OpenAI: Making AI discovery better for everyone Optimizing your site for AI is of little use if AI can&amp;#39;t find it. The answer to someone&amp;#39;s question may already be on your website: the installation guide you spent a week writing, or a first-hand account of using a product, with the details that make the difference for whether they buy it. As more people turn to AI for</description>
+    </item>
+    <item>
+      <title>「かたちにする係」から抜け出せない　デザイン組織の悪循環｜大﨑 優｜CONCENT</title>
+      <link>https://note.com/osakiyu/n/nd8e0b1442457</link>
+      <pubDate>2026/10/18 11:48</pubDate>
+      <description>こんにちは、e-dash の中島です。 SRE として認証基盤やインフラを見ています。 Claude Code から外部サービスを操作するときは、MCP のコネクタを使います。 Notion や GitHub のように広く使われているサービスなら、だいたい用意されています。 自動化を進めていくと、コネクタも API も無いサービスがどうしても残ります。 業務に合わせて選んだ小さな SaaS や、社内向けの管理コンソールです。 設定を変えるにも状態を見るにも、人が画面を開くしかありません。 Claude Code に Chrome 拡張をつなぐと、ここに入口ができます。 画面をそのまま読ませて、クリックや入力を任せられます。 3 か月ほど、ローコードで作られた管理コンソールの運用に使ってきました。 画面でしか作れない設定の作成から、保存、テスト実行、結果の確認までを任せています。 人が手を出</description>
+    </item>
+    <item>
+      <title>yousukezan+AI-Webアクセス制御は実はわりとややこしい.pdf</title>
+      <link>https://bogus.jp/web_access_control_security_b5.pdf</link>
+      <pubDate>2026/10/18 12:11</pubDate>
+      <description>今年に入ってからというもの、私の YouTube での活動は大きく減ってほぼゼロになった。年始に TCP/IP スタックを24時間で作ったあと、ほとんど更新していない。これには2つの理由がある。1つは仕事が忙しいためであり、もう1つは仕事の方が楽しいためである。 AI の登場により、正しいことを十分に行うコストが激減したと感じている。以前であれば、方法を知らない、時間が足らないなどの理由で実現できなかったことが、AI の補助によって可能になった。特に集団で仕事をしていて感じるのは、少人数のチームにありがちなスキルの穴を AI が埋めて補完してくれるようになったということである。スキルの穴埋めのために頭数を増やしてスピードを犠牲にしなくてもよくなった。仕事をするということに関して、今ほどおもしろい時代はない。 一方で、余計なことをするという点においてはどうか。「なぜベストを尽くしたのか」への</description>
+    </item>
+    <item>
+      <title>【AIウイルスがスマホ・家電を乗っ取る】「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／「Gemini 4 Argon」GPT・Claudeとの差／今井翔太【AI QUEST】</title>
+      <link>https://www.youtube.com/watch?v=lpzcv99m7mI</link>
+      <pubDate>2026/10/16 16:48</pubDate>
+      <description>Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。 AgentsView: see what your AI coding agents did and what it cost https://www.agentsview.io/ kenn-io/agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex</description>
+    </item>
+    <item>
+      <title>AIロボが変電所内を巡回点検　西武鉄道、保守業務の効率化めざす：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVBH0RJKVBHUTIL01MM.html</link>
+      <pubDate>2026/10/16 12:03</pubDate>
+      <description>Redesigning source control at Anthropic \ Anthropic Anthropic’s Scion is heavily inspired by Mononoke · sunshowers More on Anthropic’s Scion ripping off Mononoke · sunshowers Anthropic が内製した Monorepo-optimized VCS が実は Meta がオープンソースで公開している彼らの VCS のパクリであり、オープンソースだしパクるのはいいがちゃんとネタの出処を明らかにしないのはインチキじゃねえか、という指摘。 今年のはじめごろ、彼らはエーアイが C compiler を “clean room” 実装したと主張し clean room implementation を post-AGI 時代に</description>
+    </item>
   </channel>
 </rss>
