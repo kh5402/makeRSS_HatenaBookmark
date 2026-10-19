@@ -267005,5 +267005,71 @@ June 6, 2026</description>
       <pubDate>2026/10/15 17:48</pubDate>
       <description>こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一方、Claudeにテストコードを書かせる場合、例えば次のようなコードを見ても、削除対象が正しいかどうかを確認するには一手間必要です。 await page.getByRole(&amp;#39;row&amp;#39;, { nam</description>
     </item>
+    <item>
+      <title>「200ドル相当を払わなければクローンゲームを先に公開する」―日本のインディーSRPG開発者にもAI模倣作を先に出すとちらつかせる脅迫メールが届く… | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/10/19/173774.html</link>
+      <pubDate>2026/10/19 11:58</pubDate>
+      <description>フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという緊迫した議論だ。動画の中では、フィジカルAIが普及した先にある「人類滅亡」の現実味や喫緊のリスクについても深く踏み込まれていた。 安野氏が整理するように、映画のように「AIが意思や自我を持って人類に反乱を起こす」というSFじみたシナリオは、電力供給や物理的なデータセンターの維持を人間に依存している現段階ではまだ時間的猶予がある。今すぐ対処すべき最も現実的な脅威は、AIを悪用するテロリストや国家、あるいは人間が承認を丸投げした自律エージェントによる重要インフラへ</description>
+    </item>
+    <item>
+      <title>パランティアのCTO曰く「多くのAI研究者が、AIへの信仰の証として喫煙を始めている」 - YAMDAS現更新履歴</title>
+      <link>https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley</link>
+      <pubDate>2026/10/19 08:33</pubDate>
+      <description>中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs https://api-docs.deepseek.com/news/news261017 🚀 DeepSeek-V4.1-Flash-1017 is here! Stronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website</description>
+    </item>
+    <item>
+      <title>1年4カ月の休暇で、元サイボウズ・スクラムマスター天野祐介さんが「16年間のアジャイル実践記」を書いた理由 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_949/</link>
+      <pubDate>2026/10/19 10:31</pubDate>
+      <description>「アーキテクチャConference 2026」NOTA、Base44を含む特別登壇者4名を追加発表！AI時代の設計判断に確かな軸を、11月26日・27日開催。昨年5,549名が参加申込、登壇者の著書・訳書24点を集めた記念フェアも2書店で初開催！ ファインディ株式会社（東京都品川区、代表取締役：山田 裕一朗、以下「当社」）は、2026年11月26日（木）・27日（金）に開催する「アーキテクチャConference 2026」において、特別登壇者として新たに4名の登壇が決定したことをお知らせします。 今回の追加登壇者の選定にあたっては、申込者から寄せられた「AIが生成した設計やコードを、人がレビューしきれない」「設計や実装の選択が最適であるか判断できない」といった課題を踏まえ、決定しました。設計・実装に関する意思決定を担うシニアエンジニアをはじめとする皆様に向けて、AI時代に求められる設計</description>
+    </item>
+    <item>
+      <title>Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/19/2000002353/</link>
+      <pubDate>2026/10/19 08:45</pubDate>
+      <description>【ハイランド（スコットランド北部）=藤生貴子】英紙テレグラフは18日、米マイクロソフトが、英新興企業と進めていた英国のデータセンター建設計画から撤退したと報じた。契約相手で、人工知能（AI）に使うクラウドを手掛ける英エヌスケールが目指す新規株式公開（IPO）計画に打撃を与えかねない。報道によると、マイクロソフトがエヌスケールと結んでいた計算資源のリース契約を撤回した。電力接続が遅れ、データセン</description>
+    </item>
+    <item>
+      <title>AI時代のデジタルプロクダクトデザインの今｜こぎそ</title>
+      <link>https://note.com/kgsi/n/n20675aad7e1b</link>
+      <pubDate>2026/10/18 23:11</pubDate>
+      <description>The Fastly AI platformScale AI systems, protect your content from bots, and run your edge with natural language — all on one programmable platform. DeliverReal-time experiences at global scaleSecureProtect apps and APIs from AI-scale threatsDeployRun code milliseconds from your usersObserveReal-time visibility, from origin to edge Professional ServicesExpert help to migrate or optimize your delive</description>
+    </item>
+    <item>
+      <title>Silicon Valley bets big on &amp;#39;environments&amp;#39; to train AI agents | TechCrunch</title>
+      <link>https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/</link>
+      <pubDate>2026/10/18 22:17</pubDate>
+      <description>JAWS-UG彩の国埼玉支部 #12 AWS re:Invent 2026準備回</description>
+    </item>
+    <item>
+      <title>DeNAにおけるAI時代のネットワーク管理システム [DeNA インフラ SRE] | BLOG - DeNA Engineering</title>
+      <link>https://engineering.dena.com/blog/2026/10/nwcli/</link>
+      <pubDate>2026/10/18 19:17</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</description>
+    </item>
+    <item>
+      <title>無料で地図情報から漫画背景を作成できるツール「どこでもロケハン」</title>
+      <link>https://gigazine.net/news/20261018-dokodemo-rokehan/</link>
+      <pubDate>2026/10/18 17:27</pubDate>
+      <description>はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 日本語のテーブルを繋いだのに、AI が付けてくれた説明は英語だった、という経験はないでしょうか。データも利用者も日本語なのに、カタログやオントロジーの中だけ英語になっていると、レビューする人が読み替える手間が増えます。 前回の記事では、AWS の OSS「Context Ontology Accelerator」（以下 COA）をデプロイし、日本語のサンプルデータで一周させました。 そこで日本語まわりについて 2 つのことを書きました。日本語のカラムコメントを入力にしても生成されるクラス説明は英語だったことと、Metric に登録した日本語の同義語では Tier 1 に入らなかったことです。テーブル名とカラム名まで日本語にした v0.2.2 での挙動は、クラスメソッドの石川さんが詳しく検証してい</description>
+    </item>
+    <item>
+      <title>技術書を年に数冊しか買わない自分に、O&amp;#39;Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
+      <link>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</link>
+      <pubDate>2026/10/18 10:26</pubDate>
+      <description>最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​実行まで​担う​ほど、​残った​十数%の​誤りが​業務事故と​して​顕在化する​ため、​意味の​層の​価値は​上がる。 オントロジー導入の​​失敗パターン5つ 一方で、​オントロジー構築は​難易度の​高い​プロジェクトでもある。​実装が​崩れる​典型を​先に​知って​おきたい。 1. 業務ではなく​​ソースシステムを​​モデリングしてしまう 最も​多い​失敗である。​既存テーブルを​そのまま​オブジェクトタイプに​写すと、​テーブル名由来の​名前が​並び、データ部門</description>
+    </item>
+    <item>
+      <title>74Bが24GBに！ローカルAI向けNemotron 3.5 Bolt登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148734.html</link>
+      <pubDate>2026/10/16 14:29</pubDate>
+      <description>こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方の参考になると思います。それでは見ていきましょう！ 開発フローのアーキテクチャ 施策を作るエージェント 施策提案スキル 要件定義スキル 要件をIssueに分解するエージェント Issueの依存関係から</description>
+    </item>
+    <item>
+      <title>「Gemini 4 Argon、一緒にシロクマ先生を論破しようぜ！」「AI Pro プランでの使用上限に達しました」 - そっとチラ裏@はてなブログ</title>
+      <link>https://mametanuki.hatenablog.jp/entry/2026/10/15/000000</link>
+      <pubDate>2026/10/16 09:01</pubDate>
+      <description>“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained. We pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic standards. Readers should take this as a fun closing chapter and the end of years of speculation. There is n</description>
+    </item>
   </channel>
 </rss>
