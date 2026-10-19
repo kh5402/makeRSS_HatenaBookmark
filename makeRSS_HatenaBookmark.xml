@@ -266987,5 +266987,23 @@ June 6, 2026</description>
       <pubDate>2026/10/16 14:35</pubDate>
       <description>Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて読みたい</description>
     </item>
+    <item>
+      <title>英AIデータセンター計画でマイクロソフト撤退　英新興に打撃 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGR182GJ0Y6A011C2000000/</link>
+      <pubDate>2026/10/19 07:17</pubDate>
+      <description>For years, Big Tech CEOs have touted visions of AI agents that can autonomously use software applications to complete tasks for people. But take today’s consumer AI agents out for a spin, whether it’s OpenAI’s ChatGPT Agent or Perplexity’s Comet, and you’ll quickly realize how limited the technology still is. Making AI agents more robust may take a new set of techniques that the industry is still</description>
+    </item>
+    <item>
+      <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita</title>
+      <link>https://qiita.com/ebichan_88/items/f7c44c74e437875b1399</link>
+      <pubDate>2026/10/18 19:34</pubDate>
+      <description>さまざまなマンガ・イラスト関連のツールを作成しているデザイナーのシャープ氏が、実際の街並みを3Dデータにしてマンガ背景として参考にしやすい線画とトーンに変えてくれるツール「どこでもロケハン」を公開しました。無料で商用利用もOKですが、人気が高まりすぎて地図の検索機能には制限がかけられています。 どこでもロケハン https://tools.oyasumi-gamedev.com/rokehan/ 地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！https://t.co/03Evv1Eb6m https://t.co/Z1EaNh4c4B pic.twitter.com/2pMIGMhPvS— ++++ (@sharp_maker) 2026年10月13日 どこでもロケハンにアクセスすると以下の</description>
+    </item>
+    <item>
+      <title>ChatGPT/Codexデスクトップアプリのディスク使用量が60%削減</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148359.html</link>
+      <pubDate>2026/10/15 17:48</pubDate>
+      <description>こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一方、Claudeにテストコードを書かせる場合、例えば次のようなコードを見ても、削除対象が正しいかどうかを確認するには一手間必要です。 await page.getByRole(&amp;#39;row&amp;#39;, { nam</description>
+    </item>
   </channel>
 </rss>
