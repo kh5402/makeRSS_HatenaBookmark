@@ -267497,5 +267497,122 @@ June 6, 2026</description>
       <pubDate>2026/10/17 10:27</pubDate>
       <description>はじめに こんにちは, IT基盤部ネットワークグループ (NOC) の nagi です. NOC では, データセンタ, オフィス, 横浜スタジアムなどの数十拠点のネットワークを運用しています. 個々の拠点の規模感は大小様々ではありますが, すべてを合わせると管理するべきネットワーク機器の台数は膨大になります. これら多数の機器を管理するために, config管理ツール nwcli を内製開発し活用してきました. nwcli についてはぜひ前記事( NW機器config管理ツールを内製した話 )も参照してください. nwcli について簡単に紹介すると, 3点の課題を解決するために開発されました. (課題1) 背景も変更者も分からない謎な設定が残っている. Gitの履歴, YAMLでのコメント管理が可能 定期差分確認により設定の除去漏れを防止 (課題2) 新規拠点構築時の設定漏れ/不要設定</description>
     </item>
+    <item>
+      <title>AIで開発が速くなった先で、開発チームは何を目指すか</title>
+      <link>https://speakerdeck.com/shihochan/ai-de-kaihatsu-ga-hayaku-nata-saki-de-kaihatsu-chimu-ha-nani-o-mezasu-ka</link>
+      <pubDate>2026/10/20 09:33</pubDate>
+      <description>DeepInfer is the high-performance inference framework that powers DeepSeek&amp;#39;s large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale. Supported models: DeepSeek-V4.1-Flash Supported features: Optimized kernels, model and sampler runtime Parallelism: Attention DP / balanced CP, MoE EP + EPLB DSpark and confidence-schedu</description>
+    </item>
+    <item>
+      <title>「どの国のモデルか」は本質ではない　「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/</link>
+      <pubDate>2026/10/20 17:52</pubDate>
+      <description>Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” 2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“⁠Guest-to-Host KVM Escape⁠”について、発見者のpwn.aiから発見にいたる概要と背景に関する報告があった。 PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999) | PWN.AI Security Research Introducing PwnEscape 🦉: a full KVM guest-to-host escape via a Linux kernel networking flaw affecting industry standard hyp</description>
+    </item>
+    <item>
+      <title>不正アクセス、中国系AI「ARTEX」で日本標的に　金融など業種絞り攻撃 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/</link>
+      <pubDate>2026/10/20 15:52</pubDate>
+      <description>デジタル庁は10月20日、政府職員向けの生成AI利用環境「ガバメントAI 源内」（げんない）で、2種類のAIエージェント利用環境の提供を始めると発表した。 対話形式でAIエージェントを作って動かせる「エージェントチャット」を同日から各府省庁に順次導入し、より高度なAIエージェントを構築できる「源内工房」は12月ごろまでの導入を目指す。 このうち、源内工房は、自然言語で指示するとプログラムの作成・修正やファイル操作、動作確認などを自律的に進める「AIコーディングエージェント」に相当する機能を持つ。デジタル庁は、職員が業務に合わせてAIエージェントを作り、使いながら改善できる環境を整えることで、現場主導の業務改革や効率化、AI活用人材の育成につなげるとしている。 同庁の調査によると、こうした高度なAIエージェント環境を、一般の職員も日常業務で使える政府共通基盤として約18万人規模で導入するのは</description>
+    </item>
+    <item>
+      <title>アメリカ国土安全保障省が連邦文民機関に対しDeepSeekの技術を排除するよう命令</title>
+      <link>https://gigazine.net/news/20261020-dhs-orders-to-remove-deepseek-tech/</link>
+      <pubDate>2026/10/20 15:20</pubDate>
+      <description>中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax https://www.minimax.io/blog/minimax-m31f MiniMax-M3.1-Flash - Intelligence, Performance &amp;amp; Price Analysis | Artificial Analysis https://artificialanalysi</description>
+    </item>
+    <item>
+      <title>OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた</title>
+      <link>https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/</link>
+      <pubDate>2026/10/20 15:18</pubDate>
+      <description>GoogleのAIモデルである「Gemini 4 Argon」で動作する4つのAIエージェントが、人間の介入なしで初めてマインクラフトをクリアすることに成功しました。 A team of Gemini 4 Argon agents beats Minecraft https://arxiv.org/pdf/2610.22319 Four Gemini 4 Argon agents beat Minecraft without any human help https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/ GoogleのAI研究機関であるGoogle DeepMindは、Gemini 4 Argonで動作する4つのAIエージェントを駆使して、マインクラフトに登場す</description>
+    </item>
+    <item>
+      <title>Cloudflareが文章や画像から必要な情報を高速・低コストで抽出するAI「Clairic」を発表、計算や予測にも対応</title>
+      <link>https://gigazine.net/news/20261020-cloudflare-clairic/</link>
+      <pubDate>2026/10/20 15:57</pubDate>
+      <description>Claude Codeで完璧なFigmaを出力させたい Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。 ただ、一見して完成品でもデザイナー的には未完成です。 配置や既存画面の情報設計を無視していることも多く、そこは押さえていても色にはデザイントークンの変数を当てずにカラーコードが直書きであるなど。 また、ボタンやテーブルは既存コンポーネントのインスタンスではなく、パッと見ではそれっぽいけどよく見ると素のフレームであることも多いです。 見た目の観点でもデザイン運用の観点でも不十分で、修正指示を送ることすら面倒な気持ちになります。 仮にパッと見が合っているなら何が困るのか。 結局、単体の要素としては許容できても、プロダクトとしてデザインに継続して一貫性をもたせるためには、1つ1つレビューし、手で直すことになります。 生成は数分だけ</description>
+    </item>
+    <item>
+      <title>Introducing Clairic, a new System One class of extraction models</title>
+      <link>https://blog.cloudflare.com/clairic-extraction-model/</link>
+      <pubDate>2026/10/20 11:18</pubDate>
+      <description>生成AIの人物画像から「作り物感」をなくす試行錯誤 生成AIの女性画像に感じる「作り物感」と、目指す自然な写真 ImageFXから、最新版Geminiで再生成 上の画像から女性と男性を再生成化 無料版の1K画像の限界と、2K解像度・プロンプトへの期待 生成AIの人物画像から「作り物感」をなくす試行錯誤 生成AIの女性画像に感じる「作り物感」と、目指す自然な写真 最近、生成AIで作られたリアルな写真をよく見かけるようになりました。しかし、肌が不自然に光っていたり、ツルツルに加工されていたりと、いかにもAIで作られたと感じる女性の画像も少なくありません。 ボクは少し前から、そうした画像に違和感を覚えていました。どうすれば、まるで目の前に実在する人がいるかのような、自然な写真を生成できるのか。そんなことを考えながら、試行錯誤を続けてきました。 ImageFXから、最新版Geminiで再生成 2年</description>
+    </item>
+    <item>
+      <title>「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/20/2000002426/</link>
+      <pubDate>2026/10/20 15:16</pubDate>
+      <description>ARTEXは、中国で開発されたオープンソースの侵入テスト自動化ツール。本来は、外部のLLM（大規模言語モデル）と連携してシステムの脆弱性を見つけ、サイバー攻撃の対策に役立てるものだが、米セキュリティ企業CrowdStrikeも、9月下旬～10月上旬に韓国の金融機関を狙ったサイバー攻撃でARTEXが悪用されたと報告していた。 GMOサイバーセキュリティが日本企業を狙った不正アクセスの攻撃元について外部機関と連携して調査したところ、同社が観測できる範囲では、少なくともその攻撃元はほぼ日本だけを標的にしていた。同攻撃元が狙っていた日本企業は約20社で、うち9社は同じ業種に属していたという。 韓国の事案に関するCrowdStrikeの調査結果も踏まえ、同社は「（攻撃者は）国と業種を絞った攻撃キャンペーンを行っており、キャンペーンごとに別の攻撃用ホストを用意して攻撃を実行してきている」との見方を示し</description>
+    </item>
+    <item>
+      <title>Google スプレッドシート、BigQuery のデータを Gemini で自然言語分析できる機能を発表 | HelenTech</title>
+      <link>https://helentech.jp/news-sheets-gemini-bigquery-analysis-announces-92728/</link>
+      <pubDate>2026/10/20 10:34</pubDate>
+      <description>研究チームは、米国在住の多様なユーザーを模倣するため、異なる人種（黒人、ヒスパニック、白人）、3つの所得水準（低、中、高）を組み合わせた91個のアカウントを作成した。 それぞれの想定居住地域に合わせたネットワークを経由させながら、日常的な疑問から社会問題まで様々な質問を毎日ChatGPTに投げかけ、どのような広告が表示されるかを観察した。調査は2026年2月に開始した。 収集したデータを分析した結果、アカウント作成から約2週間が経過したころから広告が出始めた。そして、設定された所得水準が低いアカウントほど、広告が高い頻度で表示される傾向が確認された。広告を一度でも受信したアカウントの推定世帯年収は6万ドル付近に集中していたのに対し、全く広告を受け取らなかったアカウントの年収は8万ドル付近にピークがあった。</description>
+    </item>
+    <item>
+      <title>ネットバンキングにログインしたまま別作業は危険？　「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/20/2000002377/</link>
+      <pubDate>2026/10/20 12:23</pubDate>
+      <description>OpenAIは米国時間10月19日、COBOLやFortran、Visual Basicなどレガシーなプログラミング言語について、自社モデルGPT-6シリーズのコード生成・移植能力が劇的に向上したと発表しました。 COBOLから別言語への書き換えでは、前世代のGPT-5.6 Solが正答率5.4%だったのに対して、9月29日公開のGPT-6.1 Solは同設定で86.6%、推論を高く設定すれば97.9%に達したとしています。 Advancing coding in low‑resource programming languages | OpenAI 勘定系などクリティカルなシステムでいまだに運用が続く一方、エンジニアの引退などで熟練者が不足するレガシー言語システムの保守・刷新・移行等に光明となる発表です。 移行テストは5%から87%、推論を増やせば98%COBOLやFortranなどは未</description>
+    </item>
+    <item>
+      <title>近年最悪級のcurl脆弱性も発見　無料でClaude Mythosが検査する『OSS Scanner』、11日間で緊急・重要880件をAI判定 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/20/5610.html</link>
+      <pubDate>2026/10/20 12:13</pubDate>
+      <description>サイバーセキュリティ企業NorForgeは2026年10月19日、ハッカーがAIエージェントを駆使して米国・カナダ・オーストラリア・日本の企業100社超のウェブサイトへの侵入に成功していたとの調査報告を公表しました。 被害を受けた企業のなかにはJohn Deere、SharkNinja、Cumminsといった大手企業も含まれ、AIによってサイバー攻撃を実行する側のハードルがいかに下がっているかを示す事例として注目されます。 報告書によれば、ハッカーがAIに与えた指示はわずか100字未満の中国語プロンプトだけで、あとはAIエージェントが自律的にターゲットの脆弱性を探し、侵入を試みたとのこと。全体としてかかったAI利用に伴うトークン費用は推定約5000ドル（約79万円）で、1件あたりの成功コストは約50ドル（約7900円）とNorForgeは推定しています。 今回の攻撃で中心的役割を果たしたの</description>
+    </item>
+    <item>
+      <title>AI コーディングと人間の認知スループット / CTO Night &amp;amp; Day 2026 Morning Session / AI Coding and Human Cognitive Throughput</title>
+      <link>https://speakerdeck.com/prog893/ai-coding-and-human-cognitive-throughput</link>
+      <pubDate>2026/10/20 10:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f521c754ac2caa17eb913e7c41293838a9c2ded3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F485%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>USB接続の8GB AIアクセラレータ、ASUS「UGen300」が4万9,800円で店頭に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149122.html</link>
+      <pubDate>2026/10/19 11:54</pubDate>
+      <description>米国最大の原子力発電事業者コンステレーションが、既存の原子炉11基で1ギガワット近い出力増強を計画している。データセンター向けのクリーン電力を素早く増やす手段として注目されるが、実際にどれだけ上乗せできるのか。</description>
+    </item>
+    <item>
+      <title>なぜGoogleは、OpenAIとAnthropicに勝てないのか？　「世界最大の計算資源」の使い道</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/19/news036.html</link>
+      <pubDate>2026/10/19 11:55</pubDate>
+      <description>スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化と低コスト化が可能とされています。 [2610.18861] Hybrid Reasoning Agents https://arxiv.org/abs/2610.18861 Your LLM agent has to think out loud, token by token, before it can search, run code, or act in the world. We humans don’t. We ponder in silence and speak when it</description>
+    </item>
+    <item>
+      <title>トイレ掃除「90％」自動化も　“ペッパーくん”でお馴染み、ソフトバンクロボティクスが語る「フィジカルAI」の勝ち筋</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/19/news012.html</link>
+      <pubDate>2026/10/19 06:54</pubDate>
+      <description>Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 最近入った現場、こんな感じで回してるとこ、ほんま多いんですよ。 ……ね、心当たり、ありません? 僕、フリーランスで5年以上、いろんな現場入ってきたんですけど、最近の現場はもうClaude CodeとかCursor使い倒すのが当たり前で、ガッツリ触ってきたんですよ。 で、現場めっちゃ見てきて、ハッキリ言えることがあるんです。 このノリで開発してる現場、ホンマに、1〜2ヶ月後、地獄に変わります。 線引きを、間違えてるんですよ。 「AIに任せていい仕事」と、「絶対自分でやらなアカン仕事」、これが</description>
+    </item>
+    <item>
+      <title>｢鉄道業界のAI革命｣日立vsシーメンスの攻防最前線　ヨーロッパにない｢柔軟性｣が日本のお家芸</title>
+      <link>https://toyokeizai.net/articles/-/961420</link>
+      <pubDate>2026/10/19 05:08</pubDate>
+      <description>PlayStation 5(PS5)本体でAIモデルを動かし、PCやスマートフォンからチャットで利用できるオープンソースアプリ「PS5LM Plus」がGitHubで公開されています。 GitHub - abhi245y/PS5LM-Plus: llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 https://github.com/abhi245y/PS5LM-Plus PS5LM-Plus/docs/CLI.md at main · abhi245y/PS5LM-Plus · GitHub https://github.com/abhi245y/PS5LM-Plus/blob/main/docs/CLI.md PS5LM Plusを開発している</description>
+    </item>
+    <item>
+      <title>Google Antigravity 2.0 で Gemini 4 Argon を試す｜npaka</title>
+      <link>https://note.com/npaka/n/na83ac01c6cce</link>
+      <pubDate>2026/10/16 17:03</pubDate>
+      <description>一人の人間がOSを一日に二つ作る。 人類はもうそこまできてしまった。 もはやOSを作ることというのは、特別なことでもなんでもない。 ワイシャツのとれたボタンを縫い直したり、家でホットケーキを作るようなものだ。 たまに若い人から「OSを作りたい」と言われたり、「プログラミング言語を作りました」と言われることがある。 でも話をよく聞くと、本を読んでなぞってみただけだったり、既存の言語とほとんど同じ仕様のものだったりする。それはそれで大変だしすごいのだが、もはやこの大AI時代においては、それだけで「すごい」と言ってもらうのはとても難しい。なぜなら今は一人の人間が半日もあればOSなんか作れてしまうからだ。しかも同時並行で二つ。 まず第一に、なぜOSが作りたいのか? 個人的にはOSのようなものは子供の頃から何度も作っているからその気持ちは他の人より理解できる。 簡単に言えば、「支配されるより支配した</description>
+    </item>
+    <item>
+      <title>「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html</link>
+      <pubDate>2026/10/17 18:00</pubDate>
+      <description>求人票に応募する人ほど、最初の仕事が遠い仕事を得るには、求人を探し、書類を出し、選考を通る必要がある。多くの学生はそう考えている。実績がなければ書類で落ち、書類で落ちるから実績ができない。この堂々巡りに悩んで、私のところへ相談に来る学生は多かった。2026年10月に私が行った15分のオンライン相談でも、最も多かった悩みは「実績ゼロからどう仕事を取るか」である。 しかし、私は書類選考を一度も通っていない。それでも今、上場企業からスタートアップまで、月に20件ほどのプロジェクトに関わっている。 では、なぜそれが成り立つのだろうか。私は書類選考という〝正面玄関〟を使っていないからだ。人事部の選考は、多くの会社で、経営者の手間を減らすための仕組みとして置かれている。そのため、CEOが「この人に任せたい」と判断すれば、人事の選考を経ずに話が決まることがある。CEOの許可は、人事の選考を飛ばす力を持つ</description>
+    </item>
+    <item>
+      <title>Amazon、会話を記憶するAIデバイス「Bee」　74.99ドルから</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2148709.html</link>
+      <pubDate>2026/10/16 14:27</pubDate>
+      <description>フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという緊迫した議論だ。動画の中では、フィジカルAIが普及した先にある「人類滅亡」の現実味や喫緊のリスクについても深く踏み込まれていた。 安野氏が整理するように、映画のように「AIが意思や自我を持って人類に反乱を起こす」というSFじみたシナリオは、電力供給や物理的なデータセンターの維持を人間に依存している現段階ではまだ時間的猶予がある。今すぐ対処すべき最も現実的な脅威は、AIを悪用するテロリストや国家、あるいは人間が承認を丸投げした自律エージェントによる重要インフラへ</description>
+    </item>
   </channel>
 </rss>
