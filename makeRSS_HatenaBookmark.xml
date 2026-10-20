@@ -267677,5 +267677,23 @@ June 6, 2026</description>
       <pubDate>2026/10/18 21:44</pubDate>
       <description>コーディングエージェントやUI生成ツールの普及によって、短い指示文から画面の初稿や動くプロトタイプを起こすコストは大きく下がりました。ボタンを配置し、レスポンシブなグリッドを組み、見た目を素早く整える作業自体はかつてない速さで完了します。 一方で、制作や開発の現場を見渡すと、画面を量産できるようになったことで別の停滞が目立つようになりました。生成された大量の差分やプルリクエストに対してレビューが追いつかず、仕様を決める待ち行列が伸び続けています。さらに、出てきた画面を並べると、どこかで見たような平均的で均質なレイアウトに偏りがちです。 いま「デザイン」の現場で起きている変化は、画面を手作業で描く速度の競争ではありません。AIが動くプロセスと評価基準をどう設計し、人とAIの関わり方をどう整えるかへ課題の中心が移っています。これまでの分業の変遷を振り返りながら、直面している課題の正体と、これか</description>
     </item>
+    <item>
+      <title>AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2149442.html</link>
+      <pubDate>2026/10/20 11:05</pubDate>
+      <description>【10月20日 AFP】中国政府は20日、米政府が中国の新興企業ディープシークの人工知能（AI）ツールを政府機関で使用することを禁止した措置について、国家安全保障の概念を「過度に拡大解釈している」として反発した。 中国と米国は、急速に発展するAI分野で主導権争いを繰り広げており、ここ数か月はAI技術の不正入手や安全保障上の脅威をめぐり、互いに非難を続けている。 米国土安全保障省は19日、機密性の高いデータが中国側に共有される恐れがあるとして、ディープシークが開発した製品と、第三者が同社の技術を使って開発したツールの使用を禁止した。 中国外務省は20日、この禁止措置に反対し、中国企業を保護する方針を表明した。 毛寧報道官は記者会見で、「中国は一貫して、国家安全保障の概念を過度に拡大解釈し、科学技術や貿易に関する問題を政治化することに反対している」と述べた。 米国土安全保障省は「ディープシーク</description>
+    </item>
+    <item>
+      <title>AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</link>
+      <pubDate>2026/10/20 21:01</pubDate>
+      <description>キーボードを操作する手（資料写真、2020年7月24日撮影、資料写真）。(c)NICOLAS ASFOURI / AFP 【10月20日 AFP】最近相次いでいる日本企業へのサイバー攻撃をめぐり、日本の情報セキュリティー会社は20日、中国製の人工知能（AI）を活用したサイバーセキュリティーツール「ARTEX」が使用されていたと発表した。 日本国内ではここ数週間、飲食店チェーンからレンタカー事業者まで、数十社が不正アクセスや情報漏えいを公表しており、数百万人の顧客に影響が及んだ可能性がある。 GMOサイバーセキュリティbyイエラエは、外部機関と協力して攻撃を調査した結果、「ARTEXが使用されていたことを確認した」と発表した。 同社の福森大喜氏はブログで「攻撃の標的がほぼ日本に集中していたことも明らかになった」と述べている。 世界の主要AI開発企業が次々と高性能なモデルを発表する中、AIがこ</description>
+    </item>
+    <item>
+      <title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング - Qiita</title>
+      <link>https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b</link>
+      <pubDate>2026/10/20 11:07</pubDate>
+      <description>October 19, 2026Introducing Clairic, a new System One class of extraction models Today, we&amp;#39;re announcing a preview of a new class of System One-style models: extraction models. Our first one, Clairic, is available hosted on Workers AI as @cf/cloudflare/clairic.We intend to release the model open-weights soon. Clairic is an extraction model that is able to extract, compute, estimate, and forecast v</description>
+    </item>
   </channel>
 </rss>
