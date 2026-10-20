@@ -267344,5 +267344,65 @@ June 6, 2026</description>
       <pubDate>2026/10/16 12:03</pubDate>
       <description>Redesigning source control at Anthropic \ Anthropic Anthropic’s Scion is heavily inspired by Mononoke · sunshowers More on Anthropic’s Scion ripping off Mononoke · sunshowers Anthropic が内製した Monorepo-optimized VCS が実は Meta がオープンソースで公開している彼らの VCS のパクリであり、オープンソースだしパクるのはいいがちゃんとネタの出処を明らかにしないのはインチキじゃねえか、という指摘。 今年のはじめごろ、彼らはエーアイが C compiler を “clean room” 実装したと主張し clean room implementation を post-AGI 時代に</description>
     </item>
+    <item>
+      <title>COBOLやVBなど旧式言語でGPT-6急伸、正解率5%から最大98%とOpenAI発表　熟練者減少のレガシー刷新に光明 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/20/5611.html</link>
+      <pubDate>2026/10/20 12:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f521c754ac2caa17eb913e7c41293838a9c2ded3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F485%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149461.html</link>
+      <pubDate>2026/10/20 10:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3a99a73da31ae6e3e7ef82cf9bcf4b4da553cba7/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F440%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>米アンソロピック7兆円契約か　AI計算能力の確保目指す、英新興エヌスケールと交渉報道</title>
+      <link>https://www.sankei.com/article/20261020-O3DGA7DXWRJDRKKBJ6J47VL3T4/</link>
+      <pubDate>2026/10/20 07:08</pubDate>
+      <description>電子書籍をPDF化して人工知能（AI）に要約させる機能を持つソフトに対し、出版業界が抗議していることがわかった。ソフト会社側は著作権侵害には当たらないと主張する一方、出版業界は海賊版などに悪用される可能性があると懸念する。焦点となっているのはソースネクストが2月に提供を始めた「0秒読書」だ。パソコン画面上の電子書籍や資料を自動でページ送りしながらキャプチャーし、文字情報を含むPDFを生成する機</description>
+    </item>
+    <item>
+      <title>米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/20/2000002405/</link>
+      <pubDate>2026/10/20 07:13</pubDate>
+      <description>国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…</description>
+    </item>
+    <item>
+      <title>サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡</title>
+      <link>https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</link>
+      <pubDate>2026/10/20 05:16</pubDate>
+      <description>なみき @sasaki445 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。 2026-10-19 11:37:32</description>
+    </item>
+    <item>
+      <title>AIのベンチマークテストは人間の仕事の1割しかカバーできていない</title>
+      <link>https://gigazine.net/news/20261019-ai-benchmark-mapping/</link>
+      <pubDate>2026/10/19 20:12</pubDate>
+      <description>この道大学卒業して22年だが、ほぼキャリアはフロントエンド一本だったんだが、 AIの台頭著しいせいで、9月ころにクビになって失職した。 失業保険を受けながら案件を探しているが、フロントエンド一本の俺には声のお呼び一つかからない。 得意のPythonとjavaを探していても、全くない。 理由はAIのせいだ。 自慢ではないが…というよりもう自慢にならないのだが俺はかなりプログラミング能力は高い。 AIが出てくるコロナ前以前であれば、顧客から頼りにされてるし、社内でも影響力があって頼られていた。 プログラミングができないやつはエンジニアになるな、と2010年代からずっと言い続けてた、それだけ俺は技術力に自信があったし、無敵感を持っていた部分はある あ、AIにはどうやっても勝てない。 最初は余裕でAIのチンケな出力物を鼻で笑っていた、「人間様に勝てるわけがないだろう」と高をくくっていた。 だが、U</description>
+    </item>
+    <item>
+      <title>AIが数学の難問を解く現状について数学者が「建設的に関わっていく方法が見いだせない」と語る</title>
+      <link>https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/</link>
+      <pubDate>2026/10/19 21:14</pubDate>
+      <description>2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別に約2.5日。かかった費用は、数千円のAI利用料と審査費用だけです。 この夏、Xで「#ひとりISMS」として連載してきた内容を、この記事にまとめました。これからISMSを取ろうとしている方の参考になればうれしいです。 なぜ、ひとり会社がISMSを取るのか4649株式会社は、AI社員と一緒に運営する経理代行の会社です。会計事務所やお客様から、財務データを日常的にお預かりしています。 「AIに経理を任せて大丈夫か」「ひとりの会社に預けて大丈夫か</description>
+    </item>
+    <item>
+      <title>相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘</title>
+      <link>https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/</link>
+      <pubDate>2026/10/19 20:24</pubDate>
+      <description>中国の経済成長率は、9月末までの3カ月間で回復した。AIブームが輸出を押し上げ、3年ぶりの低水準から回復した。 中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。</description>
+    </item>
+    <item>
+      <title>Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった</title>
+      <link>https://gigazine.net/news/20261019-ecdsa-seed-origin/</link>
+      <pubDate>2026/10/19 19:11</pubDate>
+      <description>Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 最近入った現場、こんな感じで回してるとこ、ほんま多いんですよ。 ……ね、心当たり、ありません? 僕、フリーランスで5年以上、いろんな現場入ってきたんですけど、最近の現場はもうClaude CodeとかCursor使い倒すのが当たり前で、ガッツリ触ってきたんですよ。 で、現場めっちゃ見てきて、ハッキリ言えることがあるんです。 このノリで開発してる現場、ホンマに、1〜2ヶ月後、地獄に変わります。 線引きを、間違えてるんですよ。 「AIに任せていい仕事」と、「絶対自分でやらなアカン仕事」、これが</description>
+    </item>
   </channel>
 </rss>
