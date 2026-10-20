@@ -267614,5 +267614,68 @@ June 6, 2026</description>
       <pubDate>2026/10/16 14:27</pubDate>
       <description>フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという緊迫した議論だ。動画の中では、フィジカルAIが普及した先にある「人類滅亡」の現実味や喫緊のリスクについても深く踏み込まれていた。 安野氏が整理するように、映画のように「AIが意思や自我を持って人類に反乱を起こす」というSFじみたシナリオは、電力供給や物理的なデータセンターの維持を人間に依存している現段階ではまだ時間的猶予がある。今すぐ対処すべき最も現実的な脅威は、AIを悪用するテロリストや国家、あるいは人間が承認を丸投げした自律エージェントによる重要インフラへ</description>
     </item>
+    <item>
+      <title>あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）</title>
+      <link>https://note.com/uplucid/n/ncb9e3567ce2f</link>
+      <pubDate>2026/10/21 00:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/91824d26d3938e7d4c6b99f3620542fd38294a8c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2149%2F442%2Fan1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>中国、米政府のDeepSeek使用禁止に反発 「国家安全保障の拡大解釈」</title>
+      <link>https://www.afpbb.com/articles/-/3658549</link>
+      <pubDate>2026/10/20 20:40</pubDate>
+      <description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADMEは汎用のAI状態空間探索エンジンであり、自律的なペネトレーションテストで最初に検証したと説明している(出典: 3)。Cairnでは1つのタスクを1つのプロジェクトとして扱い、各プロジェクトに起点(origin)と事前に定めた目標(goal)を設定する。エージェントは発見した事実(fact)と次の行動の意図(intent)をプロジェクトのブラックボードに書き込み(出典: 1, 3)、人間のオペレーターもヒントを追加できる。全ワーカーがこれを参照しながら起点か</description>
+    </item>
+    <item>
+      <title>Why I’m no longer updating this repository</title>
+      <link>https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository</link>
+      <pubDate>2026/10/20 08:30</pubDate>
+      <description>Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” 2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“⁠Guest-to-Host KVM Escape⁠”について、発見者のpwn.aiから発見にいたる概要と背景に関する報告があった。 PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999) | PWN.AI Security Research Introducing PwnEscape 🦉: a full KVM guest-to-host escape via a Linux kernel networking flaw affecting industry standard hyp</description>
+    </item>
+    <item>
+      <title>生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記</title>
+      <link>https://quadro.hateblo.jp/entry/seiseiai_real</link>
+      <pubDate>2026/10/20 08:46</pubDate>
+      <description>105時間にわたる攻防　侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバックドアが設置されており、不正なプログラムが約142万通のメールを外部に配信していたという。 全サービスが復旧完了したのは、検知から約88時間後、不正アクセス開始から約105時間後。社内で立ち上げたLLMを活用し、全サービスで脆弱性診断とコードレビューを行ったという。 この攻撃により、SpeeCAN RAIDENの利用者のメールアドレス最大約313万6000件のほか、消防職員らの連絡先や、聴覚・言語障害者向け119番システム「NET119」利用者の個人情報などが漏えいした可能性がある。 不</description>
+    </item>
+    <item>
+      <title>日本企業狙う不正アクセスにAI　攻撃者が自律型侵入テスト「ARTEX」を悪用　GMOイエラエ調査</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/20/2000002423/</link>
+      <pubDate>2026/10/20 14:58</pubDate>
+      <description>AIコーディングツールによってゲームの作成プロセスが非常に高速になっていることから、新作ゲームをリリースした直後にAIによるコピーゲームが登場したり、ゲーム発売前のプレビューや体験版の段階でAIがよく似せたゲームを作成したりといった問題が増えています。実際に、この問題を懸念したゲーム開発者が、予定していた体験版のリリースを中止したことを発表しました。 PUKEY GODDESS SHOT TRICK－『PUKEY GODDESS SHOT TRICK』体験版の公開方法変更について－Steamニュース https://store.steampowered.com/news/app/4150720/view/746066581090468248?l=japanese AI game clones are making indie developers afraid to show their</description>
+    </item>
+    <item>
+      <title>Teamsで会議中、部長「こんな案件は俺の若い頃ならウンタラカンタラ」先輩「何言ってるか分かんね。要約して」とチャットに…後輩「先輩今打ったとこCopilotじゃないです」</title>
+      <link>https://togetter.com/li/2760562</link>
+      <pubDate>2026/10/20 14:44</pubDate>
+      <description>2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 Inside Cairn: Open Windows into massive AI-Driven Cyber Operations - NorForge https://norforge.com/blog/inside_cairn EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites | Reuters https://www</description>
+    </item>
+    <item>
+      <title>米国で相次ぐ原発の「出力増強」、AIの電力需要を賄えるか？</title>
+      <link>https://www.technologyreview.jp/s/393255/how-much-more-can-nuclear-power-plants-give/</link>
+      <pubDate>2026/10/19 06:20</pubDate>
+      <description>国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…</description>
+    </item>
+    <item>
+      <title>「Where the tracks go next」を現地で見た。</title>
+      <link>https://weblog.ason.as/%E3%80%8CWhere%20the%20tracks%20go%20next%E3%80%8D%E3%82%92%E7%8F%BE%E5%9C%B0%E3%81%A7%E8%A6%8B%E3%81%9F%E3%80%82</link>
+      <pubDate>2026/10/17 21:45</pubDate>
+      <description>2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別に約2.5日。かかった費用は、数千円のAI利用料と審査費用だけです。 この夏、Xで「#ひとりISMS」として連載してきた内容を、この記事にまとめました。これからISMSを取ろうとしている方の参考になればうれしいです。 なぜ、ひとり会社がISMSを取るのか4649株式会社は、AI社員と一緒に運営する経理代行の会社です。会計事務所やお客様から、財務データを日常的にお預かりしています。 「AIに経理を任せて大丈夫か」「ひとりの会社に預けて大丈夫か</description>
+    </item>
+    <item>
+      <title>「ChatGPT」の音声モデルが「GPT-Live-1.1」に、ミニ版の「GPT-Live-1.1 Quip」も／訛りがより自然に、検索中の『確認しています……』も減少</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2148806.html</link>
+      <pubDate>2026/10/19 10:45</pubDate>
+      <description>【読売新聞】　サイバーセキュリティー大手のトレンドマイクロ（東京）のエバ・チェン社長は１９日、都内で記者会見を開き、相次ぐ不正アクセスやサイバー攻撃について「ＡＩ（人工知能）による自動化攻撃が始まった」との見方を示した。「盗まれた情</description>
+    </item>
+    <item>
+      <title>AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/</link>
+      <pubDate>2026/10/18 21:44</pubDate>
+      <description>コーディングエージェントやUI生成ツールの普及によって、短い指示文から画面の初稿や動くプロトタイプを起こすコストは大きく下がりました。ボタンを配置し、レスポンシブなグリッドを組み、見た目を素早く整える作業自体はかつてない速さで完了します。 一方で、制作や開発の現場を見渡すと、画面を量産できるようになったことで別の停滞が目立つようになりました。生成された大量の差分やプルリクエストに対してレビューが追いつかず、仕様を決める待ち行列が伸び続けています。さらに、出てきた画面を並べると、どこかで見たような平均的で均質なレイアウトに偏りがちです。 いま「デザイン」の現場で起きている変化は、画面を手作業で描く速度の競争ではありません。AIが動くプロセスと評価基準をどう設計し、人とAIの関わり方をどう整えるかへ課題の中心が移っています。これまでの分業の変遷を振り返りながら、直面している課題の正体と、これか</description>
+    </item>
   </channel>
 </rss>
