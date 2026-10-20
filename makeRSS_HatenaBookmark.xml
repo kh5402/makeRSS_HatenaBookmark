@@ -267404,5 +267404,98 @@ June 6, 2026</description>
       <pubDate>2026/10/19 19:11</pubDate>
       <description>Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 最近入った現場、こんな感じで回してるとこ、ほんま多いんですよ。 ……ね、心当たり、ありません? 僕、フリーランスで5年以上、いろんな現場入ってきたんですけど、最近の現場はもうClaude CodeとかCursor使い倒すのが当たり前で、ガッツリ触ってきたんですよ。 で、現場めっちゃ見てきて、ハッキリ言えることがあるんです。 このノリで開発してる現場、ホンマに、1〜2ヶ月後、地獄に変わります。 線引きを、間違えてるんですよ。 「AIに任せていい仕事」と、「絶対自分でやらなアカン仕事」、これが</description>
     </item>
+    <item>
+      <title>人間のAIに対する判断移譲 - 西尾泰和の外部脳</title>
+      <link>https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2</link>
+      <pubDate>2026/10/20 17:21</pubDate>
+      <description>ARTEXは、中国で開発されたオープンソースの侵入テスト自動化ツール。本来は、外部のLLM（大規模言語モデル）と連携してシステムの脆弱性を見つけ、サイバー攻撃の対策に役立てるものだが、米セキュリティ企業CrowdStrikeも、9月下旬～10月上旬に韓国の金融機関を狙ったサイバー攻撃でARTEXが悪用されたと報告していた。 GMOサイバーセキュリティが日本企業を狙った不正アクセスの攻撃元について外部機関と連携して調査したところ、同社が観測できる範囲では、少なくともその攻撃元はほぼ日本だけを標的にしていた。同攻撃元が狙っていた日本企業は約20社で、うち9社は同じ業種に属していたという。 韓国の事案に関するCrowdStrikeの調査結果も踏まえ、同社は「（攻撃者は）国と業種を絞った攻撃キャンペーンを行っており、キャンペーンごとに別の攻撃用ホストを用意して攻撃を実行してきている」との見方を示し</description>
+    </item>
+    <item>
+      <title>AIにゲームをコピーされて本家より先に発売される危険を恐れて無料体験版の公開が中止される</title>
+      <link>https://gigazine.net/news/20261020-ai-game-clones/</link>
+      <pubDate>2026/10/20 14:50</pubDate>
+      <description>畑の支柱 @tian485 〜teams会議中〜 部長「こんな案件は俺の若い頃ならウンタラカンタラ」 先輩(会議チャット)「何言ってるか分かんね。要約して」 後輩「先輩今打ったとこCopilotじゃないです」 2026-10-19 21:55:39 ビデオ会議、ミーティング、通話 | Microsoft Teams Microsoft Teams なら、共同作業がさらに簡単に。ツールとファイルは常に 1つの場所からアクセスでき、自然につながり、常に情報を整理し、アイデアを実現できるように設計されています。 www.microsoft.com Microsoft Teamsとは？初心者向けに使い方や生成AIとの連携をご紹介｜コラム・資料｜中小企業・法人向け｜KDDI株式会社 「Microsoft Teams (Teams) 」は、マイクロソフト社製のビジネス向けコミュニケーションツールで、チ</description>
+    </item>
+    <item>
+      <title>中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明</title>
+      <link>https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/</link>
+      <pubDate>2026/10/20 14:05</pubDate>
+      <description>Google は 2026 年 10 月 19 日 (現地時間)、Google スプレッドシートのコネクテッドシート (Connected Sheets) で接続した BigQuery のデータを、Gemini を使って自然言語で分析できる機能を発表しました。 Gemini のクエリはスプレッドシートに表示されているデータだけでなく、BigQuery 上のデータセット全体に対して実行されます。 コネクテッドシートで BigQuery に接続したスプレッドシートでは、Gemini のサイドパネルから会話形式でデータを分析でき、非常に大規模なデータセットに対する質問や分析、ビューの作成にも対応します。 主な使い方は次のとおりです。 自然言語での質問：「前四半期の北東部の売上合計は？」のような質問に、BigQuery の全データをもとに回答 追加の質問：「前年の同じ四半期と比べてどうか」「どの商</description>
+    </item>
+    <item>
+      <title>ChatGPT広告は誰に何を表示しているのか？　米大学が91のおとりアカウントで実態調査</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/20/2000002375/</link>
+      <pubDate>2026/10/20 12:42</pubDate>
+      <description>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米ワシントン大学に所属する研究者らが4月に発表した論文「Agentic Browsers and the Same-Origin Policy」は、AIエージェントがユーザーに代わってWeb操作を行うAIブラウザにおいて、メールやネットバンキングなどの機密情報が悪意あるサイトに窃取されるリスクを検証した研究報告だ。 AI企業各社はユーザーに代わってタブを開き、旅行のルートやレストランを調べ、予約</description>
+    </item>
+    <item>
+      <title>短い指示だけであとは丸投げ——ハッカーがAIで日本含む4か国100社超に侵入していたとの報告 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/20/5607.html</link>
+      <pubDate>2026/10/20 06:48</pubDate>
+      <description>CTO Night &amp;amp; Day 2026 (Morning Session) の登壇資料です。AI コーディングで PR が長くなり数も増えた一方、人間がレビューに使える時間、1 回の集中、作業記憶は増えていない、という話を、公開されている研究と自分の経験から整理しました。人間のゲートを「書く前の設計レ…</description>
+    </item>
+    <item>
+      <title>32GBでQwen3.8-Flash-Nextが動く！Strata 0.2.0ベータ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149485.html</link>
+      <pubDate>2026/10/20 11:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e0700fb2a5e4a5c5f4681ea6038b87c9779379c8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2149%2F461%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149440.html</link>
+      <pubDate>2026/10/19 23:09</pubDate>
+      <description>米ブルームバーグ通信は19日、対話型の生成人工知能（AI）開発を手がける米新興企業アンソロピックが、計算能力の確保に向けて英新興エヌスケールと交渉中だと報じた。関係者によると、契約規模は約450億ドル（約7兆1000億円）で、早ければ数日中にまとまる可能性があるという。 エヌスケールは米国などでデータセンターを手がけ、米半導体大手エヌビディアが出資する。報道によると、アンソロピックとは既に最大約446億ドルの契約を結んでいる。今回は米南部ウェストバージニア州で計画する2棟目のデータセンターに関するもので、エヌビディア製半導体を使った計算能力をアンソロピックに提供する計画だ。</description>
+    </item>
+    <item>
+      <title>AI要約向けPDF化「0秒読書」に抗議　出版業界、ソースネクストに - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC153DJ0V11C26A0000000/</link>
+      <pubDate>2026/10/20 07:50</pubDate>
+      <description>米国土安全保障省（DHS）は10月20日（現地時間）付の官報で、国土安全保障長官が中国DeepSeekの製品を連邦政府の民間行政機関の調達とITシステムから排除する命令を出したと公示した。 命令は2点。1つは、DeepSeekとその関連会社が開発したIT製品およびサービスを、連邦民間機関の調達対象から除外すること。もう1つは、DeepSeekとその関連会社の製品に加え、DeepSeekの実装を用いて開発された第三者の製品およびサービスも、民間機関のITシステムから排除することだ。 命令は2018年制定の「連邦調達サプライチェーン安全法」（FASCSA）に基づくもので、連邦調達安全評議会（FASC）の勧告と関連する証拠を精査した上で出したとしている。署名済みの命令文は、米政府の規制情報サイト「regulations.gov」で公開している。 DeepSeekは10月17日、AIモデル「Dee</description>
+    </item>
+    <item>
+      <title>背景ガチャ｜Background Gacha</title>
+      <link>https://tools.oyasumi-gamedev.com/haikeigacha/</link>
+      <pubDate>2026/10/19 10:53</pubDate>
+      <description>国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…</description>
+    </item>
+    <item>
+      <title>1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」</title>
+      <link>https://posfie.com/@petaritape/p/aa5HeGM</link>
+      <pubDate>2026/10/19 19:37</pubDate>
+      <description>GMOインターネットグループのGMOサイバーセキュリティbyイエラエ（東京・渋谷）は19日、国内への不正アクセス事案について、中国のエンジニアが開発した人工知能（AI）ソフト「ARTEX」が使われていたことを確認したと同社のブログで発表した。同ソフトは韓国の金融機関へのサイバー攻撃で使われたとされるが、日本向けの攻撃での使用が明らかになるのは初めてとみられる。調査にあたった福森大喜氏は日本経</description>
+    </item>
+    <item>
+      <title>最近Gemini使い始めたけど、明らかにChatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」</title>
+      <link>https://togetter.com/li/2760356</link>
+      <pubDate>2026/10/20 00:50</pubDate>
+      <description>AIの性能を測定するベンチマークテストの中には「人間の仕事をどれだけの精度でこなせるか」を測定するものが多く含まれています。ところが、こうしたベンチマークは「一部のタスク」しかカバーしておらず、AIが労働を代行できるという結果が出たとしても、それは労働全体のうちほんのわずかであることを意味する可能性があるという分析結果が公表されました。 A benchmark map of the US economy | Mercor https://www.mercor.com/research/labor-index/benchmark-map/ AI研究機関のメルコールは、これまで公開されている労働関連のベンチマークのほとんどは「AIにとって実行しやすいタスク」を中心に検証されているため、AIの能力が過大評価されている可能性があると指摘しています。特に、賃金が高い職種は幅広くカバーされる一方、賃金</description>
+    </item>
+    <item>
+      <title>フロントエンドエンジニアだったがAIのせいで職を失った</title>
+      <link>https://anond.hatelabo.jp/20261019184601</link>
+      <pubDate>2026/10/19 18:51</pubDate>
+      <description>スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化と低コスト化が可能とされています。 [2610.18861] Hybrid Reasoning Agents https://arxiv.org/abs/2610.18861 Your LLM agent has to think out loud, token by token, before it can search, run code, or act in the world. We humans don’t. We ponder in silence and speak when it</description>
+    </item>
+    <item>
+      <title>Microsoftがイギリス最大級のAIデータセンター計画から撤退</title>
+      <link>https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/</link>
+      <pubDate>2026/10/19 15:59</pubDate>
+      <description>存命する数学者の中で世界最高峰のひとりと評されるテレンス・タオ氏は、現在、ほとんど数学に取り組めていないそうです。カリフォルニア大学ロサンゼルス校で開かれた数学のワークショップに出席したタオ氏は、AIが数学界にもたらした存続の危機について「今は臨戦態勢です」と語りました。 Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html AI企業のOpenAIは、これまでに80年近く未解決だった数学予想の反証に成功したり、数学・理論計算機科学の課題で新成果を上げたと報告したりしています。2026年10月には、722本の未解決問題に関する数</description>
+    </item>
+    <item>
+      <title>高木浩光＠自宅の日記 - 毎日新聞記者が熊日スクープを「ミスリード」と批判、両者をLLMで自動論評</title>
+      <link>http://takagi-hiromitsu.jp/diary/20261017.html</link>
+      <pubDate>2026/10/18 00:01</pubDate>
+      <description>【ハイランド（スコットランド北部）=藤生貴子】英紙テレグラフは18日、米マイクロソフトが、英新興企業と進めていた英国のデータセンター建設計画から撤退したと報じた。契約相手で、人工知能（AI）に使うクラウドを手掛ける英エヌスケールが目指す新規株式公開（IPO）計画に打撃を与えかねない。報道によると、マイクロソフトがエヌスケールと結んでいた計算資源のリース契約を撤回した。電力接続が遅れ、データセン</description>
+    </item>
+    <item>
+      <title>オントロジーとは。AI時代のビジネスにこそ必要な「意味の設計図」を簡単解説</title>
+      <link>https://www.salesforce.com/jp/blog/jp-what-is-ontology/</link>
+      <pubDate>2026/10/17 10:27</pubDate>
+      <description>はじめに こんにちは, IT基盤部ネットワークグループ (NOC) の nagi です. NOC では, データセンタ, オフィス, 横浜スタジアムなどの数十拠点のネットワークを運用しています. 個々の拠点の規模感は大小様々ではありますが, すべてを合わせると管理するべきネットワーク機器の台数は膨大になります. これら多数の機器を管理するために, config管理ツール nwcli を内製開発し活用してきました. nwcli についてはぜひ前記事( NW機器config管理ツールを内製した話 )も参照してください. nwcli について簡単に紹介すると, 3点の課題を解決するために開発されました. (課題1) 背景も変更者も分からない謎な設定が残っている. Gitの履歴, YAMLでのコメント管理が可能 定期差分確認により設定の除去漏れを防止 (課題2) 新規拠点構築時の設定漏れ/不要設定</description>
+    </item>
   </channel>
 </rss>
