@@ -268052,5 +268052,50 @@ June 6, 2026</description>
       <pubDate>2026/10/20 15:20</pubDate>
       <description>2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。 US-v-Alfozan-Memo-in-Support-of-Motion-for-Detention-10-18-26.pdf (PDFファイル)https://cdn.arstechnica.net/wp-content/uploads/2026/10/US-v-Alfozan-Memo-in-Support-of-Motion-for-Detention-10-18-26.pdf Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says - Ars Technica https://arstechnica.com/tech-policy/</description>
     </item>
+    <item>
+      <title>Patch the Planet — OpenAI</title>
+      <link>https://patchtheplanet.org/</link>
+      <pubDate>2026/10/22 02:03</pubDate>
+      <description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web https://www.php2shell.com/ PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog https://www.wiz.io/blog/php2shell-php-rce Patch the Planet: global re</description>
+    </item>
+    <item>
+      <title>Today&amp;#39;s PHP Security Release, and How We&amp;#39;re Strengthening PHP Security</title>
+      <link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
+      <pubDate>2026/10/21 23:53</pubDate>
+      <description>October 21, 2026Cloudflare deploys protections against php2shell vulnerability Today, Calif.io, Wiz, OpenAI and Quarkslab disclosed two vulnerabilities in PHP, tracked as CVE-2026-109618 and CVE-2026-109619 and known as php2shell. The vulnerabilities affect all web servers running PHP 5.4 or later and they may allow an attacker to cause denial of service, remote code execution, and data exposure w</description>
+    </item>
+    <item>
+      <title>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
+      <link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
+      <pubDate>2026/10/21 23:14</pubDate>
+      <description>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the InternetCore PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web. Executive SummaryWiz Research uncovered multiple critical vulnerabilities in core PHP, a popular general-purpose scripting language that powers 70% of all websites in the world. Successful exploitation could allow</description>
+    </item>
+    <item>
+      <title>ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り</title>
+      <link>https://gigazine.net/news/20261021-php-php2shell-maintenance/</link>
+      <pubDate>2026/10/21 22:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9994ec3511a94737ebb233fd686ab73c67f7d1c6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2150%2F021%2Fgmo1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>車載版Geminiがもっと各ユーザーに最適化される予定、GmailやGoogleカレンダーなどと連携可能に</title>
+      <link>https://gigazine.net/news/20261021-google-personal-intelligence-with-gemini/</link>
+      <pubDate>2026/10/21 15:29</pubDate>
+      <description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 Voxtral 3: Voice Agent SDK &amp;amp; Speech Models in 50+ Languages https://mistral.ai/news/voxtral-3/ Introducing Voxtral 3: state-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. 🧵 pic.twitter.com/YA9HNVfq0u— Mistral AI (@MistralAI) October 20, 2026 Voxtral 3は複数のAIモデルをまとめた名称で、記事作成時点では以</description>
+    </item>
+    <item>
+      <title>LINEヤフーは、なぜカカクコムを買収したいのか？ 生成AI時代に変わる「データ」の意味 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2610-why-line-yahoo-wants-to-acquire-kakaku-com/</link>
+      <pubDate>2026/10/21 08:23</pubDate>
+      <description>証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…</description>
+    </item>
+    <item>
+      <title>「ChatGPT」「Claude」「Google Gemini」相性別三大生成AIサービス徹底研究【デジタル＆AIギア 完全ガイド】 | GoodsPress Web</title>
+      <link>https://www.goodspress.jp/features/749825/</link>
+      <pubDate>2026/10/17 10:45</pubDate>
+      <description>米国土安全保障省（DHS）は10月20日（現地時間）付の官報で、国土安全保障長官が中国DeepSeekの製品を連邦政府の民間行政機関の調達とITシステムから排除する命令を出したと公示した。 命令は2点。1つは、DeepSeekとその関連会社が開発したIT製品およびサービスを、連邦民間機関の調達対象から除外すること。もう1つは、DeepSeekとその関連会社の製品に加え、DeepSeekの実装を用いて開発された第三者の製品およびサービスも、民間機関のITシステムから排除することだ。 命令は2018年制定の「連邦調達サプライチェーン安全法」（FASCSA）に基づくもので、連邦調達安全評議会（FASC）の勧告と関連する証拠を精査した上で出したとしている。署名済みの命令文は、米政府の規制情報サイト「regulations.gov」で公開している。 DeepSeekは10月17日、AIモデル「Dee</description>
+    </item>
   </channel>
 </rss>
