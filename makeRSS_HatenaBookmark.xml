@@ -267833,5 +267833,107 @@ June 6, 2026</description>
       <pubDate>2026/10/19 11:09</pubDate>
       <description>こんにちは。ファインディ株式会社でFindy Team+の開発をしているkameです。 経歴としては、異業種から転職して現在エンジニア2年目です。ファインディには2026年5月に入社し、5ヶ月ほどが経過しました。 ファインディでは設計、実装、レビューなど各プロセスにおいてAIを活用しています。 このような経歴、環境下での私自身の思考の変化や、取り組んできたことに関して紹介します。 入社直後に感じたことから、事業に貢献したいと考えるようになるまで AIを活用して設計・実装するには、基礎力が必要だと実感した 基礎力強化が推奨される環境下で、勉強会に参加 個人学習として取り組んだこと 基礎力の強化が、普段の設計・実装にどのように生きてきたか ジュニアエンジニアの成長を支えてくれる会社のカルチャー 定期的な1on1や勉強会を通じて、自分の中の不明点を整理できる 基礎力強化を応援する文化 まとめ 入</description>
     </item>
+    <item>
+      <title>リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
+      <link>https://gigazine.net/news/20261021-voxtral-3/</link>
+      <pubDate>2026/10/21 18:43</pubDate>
+      <description>証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…</description>
+    </item>
+    <item>
+      <title>わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題</title>
+      <link>https://ascii.jp/elem/000/004/444/4444350/</link>
+      <pubDate>2026/10/21 13:48</pubDate>
+      <description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 GhostShares: A Shared Muse Chat Exposed Prep for a Confidential Call With a Frontier AI Lab Leader | Claroc Blog https://blog.claroc.io/ghostshares-muse-passive-dns/ Meta Muse exposes users&amp;#39; personal and business secrets when they share conversations - Ars Technica https://arstechnica.com/secu</description>
+    </item>
+    <item>
+      <title>GitHub Copilot、GPT-5.5など6モデルを非推奨に</title>
+      <link>https://codezine.jp/news/detail/30074</link>
+      <pubDate>2026/10/21 13:18</pubDate>
+      <description>■ 目次 目的は少ない人数でリリースの量を上げること 使う側から見た1件の流れ ready を付けると、トリアージが始まる 仕様書が PR で届く 実装も PR で届き、いつも通りレビューしてマージする 迷わないための工夫 構造: 状態ラベルとループ 人の判断の置き場所 承認ゲートは2つに絞る チェックシートは AI が下書きし、人が確定する 安心して任せられる理由 指示・手順で頼むことと、コードで強制することを分ける 迷ったら止まり、どこからでも再開できる 何が変わったか まだ甘いところと、これから こんにちは！楽楽精算でモバイルアプリを開発しているhirakawaです。 私たちのチームでは少ない人数でリリースの量を上げるために、開発プロセスを Claude Code で動く自律 AI のループで無人化しています。 Issue に ready というラベルを付けると、トリアージ、仕様書の</description>
+    </item>
+    <item>
+      <title>DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版</title>
+      <link>https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/</link>
+      <pubDate>2026/10/21 12:00</pubDate>
+      <description>MetaのAIエージェントアプリ「Muse」が、リリースから40日間でアメリカでのダウンロード数が1000万回を突破したことが明らかになりました。 Meta&amp;#39;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps | TechCrunch https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/ Meta’s Muse app tops 10 million US downloads in 40 days - 9to5Mac https://9to5mac.com/2026/10/20/sens</description>
+    </item>
+    <item>
+      <title>Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能</title>
+      <link>https://gigazine.net/news/20261021-google-torchgpu/</link>
+      <pubDate>2026/10/21 13:45</pubDate>
+      <description>■脚怪我して車椅子生活なんだけど 同じ場所でもこれまで生きてた世界と全然違って見える 背が低いってこんなに不自由だったんだな 身長170cmない人権ない男たちってこんな世界で生きてたのか なんか散々バカにして悪かったなって思った これからはもうちょっと彼らに優しくしようと思う 昔、上記のようなくだらないエントリを書いた そして今回、このエントリをチャッピー思考とジェミナイ3.8Fに読み込ませ分析と解説を頼んだ。 まずジェミナイ。 怪我による車椅子生活という「身体的な視座の激変（バリアフリーの当事者化）」を経験し、他者への共感や優しさに目覚めるというハートフルなヒューマンドラマの導入に見せかけて、「170cm以下の男には人権がない」という悪名高いネットスラング（たぬかな発言ミーム）を唐突に接続し、全く異なる文脈へ着地させる、切れ味鋭い不条理ブラックユーモア増田（はてな匿名ダイアリー）です。</description>
+    </item>
+    <item>
+      <title>AI利用による悪用を防ぎきれない…ゲームの“合法”リバースエンジニアリングコミュニティが段階的に活動終了 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/10/20/173862.html</link>
+      <pubDate>2026/10/20 23:43</pubDate>
+      <description>平素より弊社サービスをご利用いただき、誠にありがとうございます。 システムの安全性および安定性向上のため、下記の日時より緊急メンテナンスを実施いたします。メンテナンス期間中は、対象サイトへのアクセスおよびすべてのサービス機能がご利用いただけなくなります。 メンテナンス日時 2026年10月21日（水）22:00 ～ 終了日時未定 ※日時は日本時間です。システムの調整状況により、作業時間が前後する場合がございます。 対象サイト CNET Japan ZDNET Japan CNN.co.jp 鉄道コム IDポータル 再開時期につきましては、状況が確認でき次第、本ページにてあらためてご案内いたします。作業内容によっては、通常より時間を要する可能性がございます。 ご利用の皆さま、お取引先の皆さまには、ご不便・ご迷惑をおかけいたしますことをお詫び申し上げます。何卒ご理解とご協力を賜りますようお願い</description>
+    </item>
+    <item>
+      <title>サム・アルトマンに対して妹が起こした性的虐待訴訟は原告が第三者診断を拒否したため判事が棄却</title>
+      <link>https://gigazine.net/news/20261021-sam-altmans-sexual-abuse-lawsuit-dismisses/</link>
+      <pubDate>2026/10/21 12:28</pubDate>
+      <description>Claudeにタンパク質を設計させることで、サソリ毒の作用を阻害する可能性のあるものを17種類生成したとAnthropicが発表しました。 How Claude designed protein binders against scorpion neurotoxins \ Anthropic https://www.anthropic.com/research/claude-scorpion-toxin-binder-design New on our Science Blog: designing protein binders against scorpion neurotoxins. Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Cla</description>
+    </item>
+    <item>
+      <title>AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション　資産14倍の例も</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/21/2000002421/</link>
+      <pubDate>2026/10/21 12:11</pubDate>
+      <description>米OpenAIは10月19日（現地時間）、「COBOL」「Fortran」「Visual Basic」など、AIモデルが学習に利用できるコードやドキュメントが少ないプログラミング言語について、最新モデルの開発・移行能力が大幅に向上したと発表した。進歩を測るために独自に開発した2種類の評価の結果も公開した。 同社によると、こうした言語は「Python」や「JavaScript」に比べて学習データが少ない一方、世界の重要なインフラを支えている。COBOLはオンラインバンキングシステムの40％超、対面のクレジットカード取引の80％、ATM取引の95％を支えており、Fortranは天気予報や原子炉の安全解析に使われている。開発者や企業顧客から、コーディングモデルがこうした言語を苦手としているとのフィードバックが寄せられていたことが、今回の取り組みのきっかけになったとしている。 1つ目の評価「Mul</description>
+    </item>
+    <item>
+      <title>PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ　超高メモリ帯域幅、光電融合技術を実装</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/</link>
+      <pubDate>2026/10/21 07:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cdfab4f5ba37cda1c60f3f847050991c7457f3e6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2149%2F792%2Fimasara_excel_228-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>決算:スペースX、上場初の黒字7000億円　AI事業は設備レンタルで売上高9倍 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN20BPF0Q6A021C2000000/</link>
+      <pubDate>2026/10/21 06:07</pubDate>
+      <description>2021年にAI利用開始→2026年に「AI活用の憲法的な規定」策定 江戸川区がAIを最初に導入したのは2021年4月。AIによる議事録作成から始まった。2022年1月には、児童相談所に相談支援のAIシステムを導入。その後、火災の煙を検出するAIシステムを取り入れるなど、AIの適用先を広げていった。 生成AIは、2023年7月に庁内での利用を開始。2024年2月には区公式Webサイトに生成AIを組み込んだ検索サービスを導入した。 2026年にはAI活用をさらに進める方針を明確にし、3月に生成AIツールを試験導入、4月に「江戸川区のAI活用に関する基本方針」を策定・公表した。基本方針では、AIを積極的に活用する一方で、区民への説明責任や導入時の透明性を確保する考え方を示している。渡辺氏は、同方針の位置付けを「本区におけるAI活用の憲法的な規定」と説明する。 職員向けには、既存の生成AI利用ル</description>
+    </item>
+    <item>
+      <title>freeeにおける⼤規模ソフトウェアファクトリーの実践_AI×開発組織Summit 2026</title>
+      <link>https://speakerdeck.com/freee/freee-niokeru-kibo-no-jissen-aix-kaihatsu-soshiki-summit-2026</link>
+      <pubDate>2026/10/19 19:24</pubDate>
+      <description>こんにちは、サイバーエージェントSGEコア技術本部、グラフィックスチームの清原です。 スマートフォンゲームの開発において、Android端末などの実機のみで起きる描画不具合の調査などは、時間と手間のかかる困難な問題でした。 今回はこの問題調査の効率を大幅に向上させる、RenderDocとClaude Codeとの連携についてご紹介させていただきます。 RenderDocの実機キャプチャとClaudeを利用した描画不具合の調査 Unityで開発されたアプリの場合、実機の描画不具合の調査としては次のような流れが多いと思います。 端末とUnityを接続してFrame Debuggerを利用 RenderDocを利用してさらに詳細な情報を調べる シェーダーを書き換えて、アプリをビルドしてA/Bテストを行い原因を突き止める この中で特に厄介なのが、「シェーダーを書き換えて、アプリをビルドしてA/Bテ</description>
+    </item>
+    <item>
+      <title>原作者公認、マンガをAIで二次創作OK　LINEマンガが新機能</title>
+      <link>https://japan.cnet.com/article/35253760/</link>
+      <pubDate>2026/10/20 15:39</pubDate>
+      <description>Massivでは、コードをClaude CodeやCodexのようなAIエージェントが書いています。開発の工程を定義し、複数のアプリで共通の契約を守れるようにライブラリを用意しています。コードの書き方や判断基準は、ガイドラインやSkillで伝えています。ただ、指示だけで変更のすべてに反映されるとは限りません。そこで、ガイドラインに書いた内容のうち機械的に判定できるものはlintや生成物の一致チェックにして、コミットフックやCIで確かめています。 たとえば、フロントエンドでは、フォームの送信時に入力値を検証する処理を共有のFormコンポーネントに持たせています。ただ、画面ごとに&amp;lt;form&amp;gt;を直接書けるままでは、その検証を通らない実装も作れてしまいます。そこで、ガイドラインでFormを使う書き方を伝え、lintで&amp;lt;form&amp;gt;を直接書いていないかをチェックしています。ライブラリで必要な処理を担い</description>
+    </item>
+    <item>
+      <title>マインクラフトをGemini 4 ArgonのAIエージェント4体が人間の助けを一切借りずに27時間14分でクリア、一体何円かかったのか？</title>
+      <link>https://gigazine.net/news/20261020-gemini-4-argon-agents-beat-minecraft-without-human-help/</link>
+      <pubDate>2026/10/20 15:13</pubDate>
+      <description>Cloudflareは2026年10月19日、文章や画像から必要な情報を抽出したり数値を計算・予測したりできるAIモデル「Clairic」を発表しました。Clairicは「System One」と呼ばれるAIモデルの一種で、一般的な大規模言語モデル(LLM)よりも高速かつ低コストで情報を処理でき、特定の用途では精度も向上するとのことです。 Introducing Clairic, a new System One class of extraction models | Cloudflare Blog https://blog.cloudflare.com/clairic-extraction-model/ 企業が扱う請求書や顧客からのメールの形式はバラバラなことが多いもの。こうした形式が統一されていない「非構造化データ」から情報を取り出す作業ではAIが活躍しますが、LLMは回答を生成する</description>
+    </item>
+    <item>
+      <title>【視覚障害者の日常】目が見えなくなって初めて知った「ATM横の受話器」の正体</title>
+      <link>https://rocketnews24.com/2026/10/19/2812158/</link>
+      <pubDate>2026/10/19 09:13</pubDate>
+      <description>なみき @sasaki445 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。 2026-10-19 11:37:32</description>
+    </item>
+    <item>
+      <title>9秒で本番DBと全バックアップが消えた──AIエージェントを止める3つのガードレール　#マンガでわかるAIの仕組み 第4話</title>
+      <link>https://codezine.jp/article/detail/29700</link>
+      <pubDate>2026/10/19 11:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2d4a61bd0285ffc362c150163974e45f55eff90f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2148%2F214%2Fwatch.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIを推進する開発組織に飛び込んだ、エンジニア2年目の思考の変化 ── 事業への関心から始めた、基礎力の強化 - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2026/10/19/070000</link>
+      <pubDate>2026/10/19 09:16</pubDate>
+      <description>GMOインターネットグループのGMOサイバーセキュリティbyイエラエ（東京・渋谷）は19日、国内への不正アクセス事案について、中国のエンジニアが開発した人工知能（AI）ソフト「ARTEX」が使われていたことを確認したと同社のブログで発表した。同ソフトは韓国の金融機関へのサイバー攻撃で使われたとされるが、日本向けの攻撃での使用が明らかになるのは初めてとみられる。調査にあたった福森大喜氏は日本経</description>
+    </item>
   </channel>
 </rss>
