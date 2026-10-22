@@ -268172,5 +268172,50 @@ June 6, 2026</description>
       <pubDate>2026/10/20 22:09</pubDate>
       <description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADMEは汎用のAI状態空間探索エンジンであり、自律的なペネトレーションテストで最初に検証したと説明している(出典: 3)。Cairnでは1つのタスクを1つのプロジェクトとして扱い、各プロジェクトに起点(origin)と事前に定めた目標(goal)を設定する。エージェントは発見した事実(fact)と次の行動の意図(intent)をプロジェクトのブラックボードに書き込み(出典: 1, 3)、人間のオペレーターもヒントを追加できる。全ワーカーがこれを参照しながら起点か</description>
     </item>
+    <item>
+      <title>【重要度別】2026年4月～9月のGA4アップデートまとめ（寄稿：小川卓） - オウンドメディア戦略ラボ by はてな</title>
+      <link>https://www.hatena.ne.jp/ownedmedia/article/ga4-updates-202610</link>
+      <pubDate>2026/10/22 11:00</pubDate>
+      <description>（ブルームバーグ）:広く使われているオープンソースのプログラミング言語「PHP」に見つかった脆弱性を巡り、米政府当局は連邦機関や重要インフラへの影響を防ぐため、対応を進めている。ホワイトハウス当局者が明らかにした。 PHPには二つの脆弱性があり、同言語を利用するウェブサイトやシステムがサイバー攻撃にさらされる恐れがある。PHPの運営団体は21日、脆弱性を修正するアップデートを公開し、利用者に直ちに適用するよう呼びかけた。ホワイトハウス当局者によると、米政府は脆弱性への対策を進めるため、テクノロジー企業と連携している。 PHPはウェブ上で広く普及している技術で、膨大な数のサイトを支えている。このため、一つの脆弱性がインターネット上の幅広いサービスに連鎖的な影響を及ぼし、データ窃取やマルウエア感染などの被害につながる恐れがある。 アルファベット傘下のサイバーセキュリティー企業Wizは21日公表</description>
+    </item>
+    <item>
+      <title>AIで人は創造的になるのか、考えなくなるのか。GMOペパボ栗林健太郎氏に聞く、AIの良い使い方・悪い使い方 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_951/</link>
+      <pubDate>2026/10/22 10:33</pubDate>
+      <description>昼休みに感じた不穏な煙と焦燥 昨日の昼休み、一息つこうと思って何気なくXを開いたとき、タイムラインの片隅に流れるざわざわとした空気が目にとまった。お昼休みののんきな雑談やランチの投稿の合間に、セキュリティクラスタやインフラエンジニアたちがただならぬ緊張感をつぶやき始めており、セキュリティ専門家の高木浩光は鉄道の運行に例えてこんなポストを投げていた。 台風も近いことだし、今日は計画運休にしてはどうかな。今のこの速さなら言えるのでは。（これからの定着に向けた一歩よ。） あと、パッチが発表されてからではなく、存在が発表されてから（もうAIで再現されてる）ということね。 https://t.co/RN0QTBmKM1— Hiromitsu Takagi (@HiromitsuTakagi) 2026年10月21日 技術解説記事を追いかけていくうちに、徐々に事態の輪郭が浮き彫りになり、焦燥感が高まっ</description>
+    </item>
+    <item>
+      <title>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</link>
+      <pubDate>2026/10/22 08:20</pubDate>
+      <description>こんにちは。デジタル庁のファクト＆データユニット所属データエンジニアの長谷川亮です。 これまで、いくつかのnote記事で政策データダッシュボードとそのデータ分析基盤についてご紹介してきました。今回は趣向を変え、近年進めているデータマネジメントの取組のうち、データの機械可読性を高めるためのルールと、私たちが開発・公開したツール「Harunobu」についてご紹介します。 人やAIのデータ活用を阻む「神Excel」行政、民間を問わず、Excelなどの表形式データを保存・管理している事例は多くあります。Excel自体は適切に使えば問題ない良いツールなのですが、慣習的なExcel、特に紙に印刷したときにきれいなレイアウトになるように、Excel上でセルを結合したり、方眼紙のように行列を細かく配置したりしたExcel（いわゆる「神Excel」）が使われていることも多いです。 こういったExcelは印刷</description>
+    </item>
+    <item>
+      <title>PHPの脆弱性、OpenAIのAIで発見　「同様の発見、今後数カ月で急増」</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/</link>
+      <pubDate>2026/10/22 02:45</pubDate>
+      <description>【読売新聞】　企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、 脆弱 （ ぜいじゃく ） 性の診断から個人情報の収</description>
+    </item>
+    <item>
+      <title>MetaのAI「Muse」で共有した会話が第三者に丸見えになる問題が発覚、6800件以上の共有リンクが発見される</title>
+      <link>https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</link>
+      <pubDate>2026/10/21 15:52</pubDate>
+      <description>「新人に任せる仕事が、もうない」。そんな声が現実になりつつある。米アンソロピックは10月16日、社内データを公表した。技術職の採用に占める若手の比率は、27％から9％に下がったという。ハーバード大学の研究者の分析も衝撃的だ。生成AIを導入した米国企業で、初級職の採用ペースが四半期あたり約80％減ったという。コードの修正や文書の下書きといった「下積みの仕事」を、AIが引き受け始めたのだ。若手を採らない会社に、未来のリーダーは育つのか。関連記事をまとめてみた。 ココがポイント若手の技術職の採用比率は、27％から9％へさらに急に落ちた。 出典：ビジネス＋IT　2026/10/17(土) 企業がエントリーレベルの労働者により高度な仕事を任せることはしていない。彼らは単に、その職務自体を廃止しているのだ。 出典：Forbes JAPAN　2026/8/16(日) いま新しい弁護士を指導し、育成しなけ</description>
+    </item>
+    <item>
+      <title>デザインの名前を知らなくても、デザインを探せるWebサービスを作った - Qiita</title>
+      <link>https://qiita.com/Tachiuo/items/8a2f621d3a9cec885170</link>
+      <pubDate>2026/10/20 10:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cdfab4f5ba37cda1c60f3f847050991c7457f3e6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2149%2F792%2Fimasara_excel_228-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>デザイナー4人で半年。「思想が染み込んだデザインシステム」がAI時代の揺るがない開発基盤に｜Goodpatch Blog グッドパッチブログ</title>
+      <link>https://goodpatch.com/blog/2026-10-design-system-for-ai</link>
+      <pubDate>2026/10/20 14:39</pubDate>
+      <description>Massivでは、コードをClaude CodeやCodexのようなAIエージェントが書いています。開発の工程を定義し、複数のアプリで共通の契約を守れるようにライブラリを用意しています。コードの書き方や判断基準は、ガイドラインやSkillで伝えています。ただ、指示だけで変更のすべてに反映されるとは限りません。そこで、ガイドラインに書いた内容のうち機械的に判定できるものはlintや生成物の一致チェックにして、コミットフックやCIで確かめています。 たとえば、フロントエンドでは、フォームの送信時に入力値を検証する処理を共有のFormコンポーネントに持たせています。ただ、画面ごとに&amp;lt;form&amp;gt;を直接書けるままでは、その検証を通らない実装も作れてしまいます。そこで、ガイドラインでFormを使う書き方を伝え、lintで&amp;lt;form&amp;gt;を直接書いていないかをチェックしています。ライブラリで必要な処理を担い</description>
+    </item>
   </channel>
 </rss>
