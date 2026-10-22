@@ -268217,5 +268217,125 @@ June 6, 2026</description>
       <pubDate>2026/10/20 14:39</pubDate>
       <description>Massivでは、コードをClaude CodeやCodexのようなAIエージェントが書いています。開発の工程を定義し、複数のアプリで共通の契約を守れるようにライブラリを用意しています。コードの書き方や判断基準は、ガイドラインやSkillで伝えています。ただ、指示だけで変更のすべてに反映されるとは限りません。そこで、ガイドラインに書いた内容のうち機械的に判定できるものはlintや生成物の一致チェックにして、コミットフックやCIで確かめています。 たとえば、フロントエンドでは、フォームの送信時に入力値を検証する処理を共有のFormコンポーネントに持たせています。ただ、画面ごとに&amp;lt;form&amp;gt;を直接書けるままでは、その検証を通らない実装も作れてしまいます。そこで、ガイドラインでFormを使う書き方を伝え、lintで&amp;lt;form&amp;gt;を直接書いていないかをチェックしています。ライブラリで必要な処理を担い</description>
     </item>
+    <item>
+      <title>中国政府系ハッカー集団、AI「ARTEX」で攻撃　マイクロソフトが確認 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC22AUL0S6A021C2000000/</link>
+      <pubDate>2026/10/22 21:41</pubDate>
+      <description>2026年夏ごろから、サイバー攻撃による情報漏えいを公表する国内企業が相次いでいる。背景の一つとして指摘されるのが、攻撃者によるAIの利用だ。直近でもプログラミング言語「PHP」の脆弱性について、AIを使った攻撃者による悪用に注意するよう、米OpenAIなどが呼び掛けている。 攻撃が数でも速さでも人手の限界を超えていくなら、守る側はそれをどう受け止めればいいのか。そして、守る側はAIをどこに使うべきなのか。Webアプリケーションを狙う攻撃を最前線で受け止めるWAF（Webアプリケーションファイアウォール）の開発責任者に話を聞いた。 「長い目で見たら防御側が有利」　AI活用法の本命は？ 「長い目で見たら、防御側の方が有利だと思う」――。クラウド型WAFを開発するビットフォレストの取締役で、WAFの開発責任者を務める佐藤匡氏はこう語る。同社は10月14日、攻撃元がAIエージェントかどうかを判定</description>
+    </item>
+    <item>
+      <title>PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/22/2000002525/</link>
+      <pubDate>2026/10/22 18:30</pubDate>
+      <description>NVIDIAが検索拡張生成(RAG)用のAIモデル群「Nemotron Retriever」に5種類のモデルを追加しました。すべてのモデルがオープンモデルとして無償公開されています。 NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval 公開された5種類のモデルの概要は以下の通り。 Nemotron-3.5-Embed-8B-BF16：日本語を含む34言語に対応した埋め込みモデル。画像とテキスト入力に対応。 Nemotron-3.5-Embed-1B-BF16：Nemotron-3.5-</description>
+    </item>
+    <item>
+      <title>数千体のAIが数百万個の脳細胞データをわずか32分で分析、アルツハイマー病やパーキンソン病の研究につながる新たな手掛かりを発見</title>
+      <link>https://gigazine.net/news/20261022-openai-research-complex-biological-data/</link>
+      <pubDate>2026/10/22 17:12</pubDate>
+      <description>誰しも一度は「自分だけのゲームを作ってみたい」と思い立ったことがあるのではないだろうか。そんな野望の実現を助け、日本のインディゲーム・フリーゲーム文化を支え続けてきたのが、国産のノーコードゲーム制作ツールの存在だ。 弊誌AUTOMATONでは、国内のノーコードゲーム制作ツールの開発者の方々にお声がけをし、座談会を企画した。国内には多くのツールが存在するが、海外製のさまざまなツールも存在するなかで、彼らはいまどういう思いで開発をしているのだろうか。 今回お招きしたのは、『RPGツクール』シリーズに長年携わり、最新作『RPGツクールU2U』ではプロデューサーを務める一之瀬裕之氏。『RPGツクール』を祖とし、独自のフルコマンド方式を展開した『WOLF RPGエディター（ウディタ）』の開発者であるSmokingWOLF氏。3D表現と2D表現を融合させた『RPG Developer Bakin』チー</description>
+    </item>
+    <item>
+      <title>Amazonは拒否、ウォルマートは歓迎……買い物代行のAIエージェントへの各社の姿勢が二極分化【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2150198.html</link>
+      <pubDate>2026/10/22 11:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7c4e162c45c011f9fec3cdc901f66177d390d6e8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F338%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響</title>
+      <link>https://gigazine.net/news/20261022-litellm-backdoor/</link>
+      <pubDate>2026/10/22 14:29</pubDate>
+      <description>ご無沙汰しております。カミナシの諸岡です。シリーズCの調達を発表しました。 事業の話や調達の詳細はきっと他の発信で出てくるので、別のことを書こうと思います。資金調達活動が終わった後、６月末から９月の間で、起業以来一番エネルギー（やる気）が出なくなってしまいました。 （これを読んだ投資家の皆さんはビックリされるでしょうが、ちゃんとサイヤ人のように、死にかけて少しだけ強くなってますので安心して下さい） noteやブログはしばらく書いてませんでしたが、書くからには誰かの、どこかの場面で役に立ちたい！基本的には成功譚は読むのも、書くのも好きじゃない！（すいません…w）。 大体スタートアップなんて上手く行かないことが多いので、そんな時に必要なのは誰かの失敗談やしんどい話だ！キラキラした話より、そういうものに救われることもあるんじゃないか？というのが自分のnoteの一貫したテーマです。 なので、創業以</description>
+    </item>
+    <item>
+      <title>AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明</title>
+      <link>https://gigazine.net/news/20261022-openai-misalignment-report/</link>
+      <pubDate>2026/10/22 11:56</pubDate>
+      <description>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の脆弱性とは別の脆弱性が新たに見つかった。影響を受けるのは、約12年前の2014年6月に公開された「GitLab CE／EE 7.0」以降の広範なバージョン。 同社は、修正版をできるだけ早く適用するよう強く勧めている。攻撃の兆候を見つけるための検出シグネチャ2種類も公開した。 国内外の企業が活用、ユーザー数は7000万人超 GitLabは、ソースコードの管理などソフトウェア開発に使うプラットフォームで、大企業を含む国内外の組織で広く使わ</description>
+    </item>
+    <item>
+      <title>ネット支える「PHP」に重大な脆弱性、米欧当局が対応急ぐ-AIで発見（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/602cf059faf29be2d8946566e56b4ef62b20db47</link>
+      <pubDate>2026/10/22 11:58</pubDate>
+      <description>GMOペパボ株式会社 取締役CTO 栗林 健太郎 1976年生まれ、奄美大島育ち。東京都立大学で政治学を学び、卒業後は奄美市役所に勤務。PHPでブログを自作したのをきっかけに、プログラミングにのめり込む。2008年にはてな、2012年にpaperboy&amp;amp;co.（現GMOペパボ）へ入社。 現在、GMOペパボ取締役CTO・ペパボ研究所長。日本CTO協会理事、人間中心のAIコンソーシアム理事。2025年、北陸先端科学技術大学院大学で博士（情報科学）を取得。ElixirやErlang/OTPのIoTシステムへの応用を研究。 歴史・思想から情報科学まで、本を年間約200冊読む。ほかにアート、うつわ、歌舞伎、落語、語学、ソーシャルVR、アマチュア無線を好む。 @kentaro AIが仕事や暮らしに浸透していくと、人間はどう変わるのでしょうか。これには、正反対の2つの予測があります。「AIにタスクを任せ</description>
+    </item>
+    <item>
+      <title>php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから</title>
+      <link>https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</link>
+      <pubDate>2026/10/22 10:03</pubDate>
+      <description>公開 2026.10.21更新 2026.10.22EmDash WordPressから他のCMSへ移行する方法｜CloudflareのEmDashをおすすめする理由 WordPressから別のCMSへ移るなら、記事・画像・URLを保存し、検証環境で必要な機能を作り直してから公開先を切り替えます。ニュースや実績の更新をAIにも頼みたい会社には、CloudflareのEmDashが候補になります。ただ、乗り換えの準備中も現在のサイトは動いているので、PHPなどのセキュリティ更新を先に済ませることが前提です。 PHPの緊急更新で、見直したいサイトの保守ホームページの担当者が書きたいのは、新しい実績やサービスのお知らせ。それなのに、PHPの更新通知が届くと「今のテーマは動くのか」「フォームは止まらないか」と、確認する仕事が増えてしまいます。 PHPは、サーバー上でWordPressを動かすために</description>
+    </item>
+    <item>
+      <title>プログラム言語「PHP」欠陥、世界でサイト停止　AIが脆弱性発見 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN21C340R21C26A0000000/</link>
+      <pubDate>2026/10/22 07:44</pubDate>
+      <description>デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこのツールは、デジタル庁が開発し、GitHub上に公開。行政データをシステムやAIで利用しやすくするためのルールに基づき、Excel・CSV・TSVファイルを100点満点で採点する。ルールベースのため、生成AIで生じうる確率的な誤りを避けられるほか、比較的軽量に動作し、人力よりも高速にファイルを処理できるという。 Harunobuの採点結果はJSON形式で出力され、生成AIサービスなどの外部システムと組み合わせて利用することもできる。ブログでは「ChatGPT」を活用し、</description>
+    </item>
+    <item>
+      <title>WhatsAppのヘルプページにAIへ向けた「規制当局への連絡を勧めるな」という隠しメッセージが仕込まれていた</title>
+      <link>https://gigazine.net/news/20261021-whatsapp-hidden-ai-instructions/</link>
+      <pubDate>2026/10/21 20:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a03714246a7a4d0021398dc97366f690e02ea9e1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2150%2F172%2Fo01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>『AIが仕事を奪う！』の理想と現実 - AI - はてなパークス</title>
+      <link>https://p.hatena.ne.jp/p/1508441022076555264/t/1562458241504382976</link>
+      <pubDate>2026/10/21 22:31</pubDate>
+      <description>米ベンチャー企業ラディカルニューメリクスは20日、AI（人工知能）で設計したウイルスを、病気の治療のために世界で初めてヒトに使った、と発表した。抗生物質が効かない薬剤耐性菌に感染した患者に投与した。…</description>
+    </item>
+    <item>
+      <title>GitHub - openai/php2shell-checker</title>
+      <link>https://github.com/openai/php2shell-checker</link>
+      <pubDate>2026/10/22 01:36</pubDate>
+      <description>Working with frontier AI and security experts to help secure open source and make our digital infrastructure more secure</description>
+    </item>
+    <item>
+      <title>AIが設計したウイルスをヒトに投与　世界初、薬剤耐性菌患者に（朝日新聞） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/66d7c8c24d39474506ee4c8fe98956ea9c209706</link>
+      <pubDate>2026/10/21 16:56</pubDate>
+      <description>そんなChatGPT広告は、検索連動型広告やSNS広告といった従来の運用型広告と何が違い、どんな効果を期待できるのか。また、GEO（生成エンジン最適化）とChatGPT広告はどう使い分け、組み合わせていくべきなのか。 国内ローンチパートナーとして、ChatGPT広告の活用方針策定や効果検証から導入・実装までを一貫して支援している電通デジタルの担当者に話を聞いた。 ChatGPT広告はゼロクリック問題の解決策となり得るのか 今やAIは、多くの人々の生活において、なくてはならないものになった。企業からしてみれば、多くの人にリーチできる貴重な顧客接点だ。 しかし、そのコントロールは一筋縄にはいかない。深刻化するゼロクリック問題を受け、企業担当者は「自社サイトへのアクセスを増やすために、どうにかしてAIの回答内で自社製品やブランドについて言及してもらわなければ」と躍起になってきた。いわゆるGEOで</description>
+    </item>
+    <item>
+      <title>AIコーディングのAPIキーが狙われている　OpenCodeのキー流出とインフォスティーラー「Aoki」から学ぶ対策</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/21/news011.html</link>
+      <pubDate>2026/10/21 08:37</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9994ec3511a94737ebb233fd686ab73c67f7d1c6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2150%2F021%2Fgmo1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>コアウィーブ株価急落は序章か　AI規制「民主党ショック」の現実味</title>
+      <link>https://business.nikkei.com/atcl/gen/19/00845/101900020/</link>
+      <pubDate>2026/10/20 20:55</pubDate>
+      <description>【シリコンバレー=山田遼太郎】米スペースXのイーロン・マスク最高経営責任者（CEO）は20日、同社と米テスラの経営統合に向けて議論する特別委員会を設置したと明らかにした。実現すれば人工知能（AI）を軸に幅広い技術を持つ巨大企業となる。同日、スペースXの決算説明会で述べた。株主の要請で両社に委員会を設け、統合の可能性を協議しているという。両社のCEOで、大株主でもあるマスク氏本人は利益相反のおそ</description>
+    </item>
+    <item>
+      <title>スペック駆動開発（SDD）における現在地（2026年10月版）</title>
+      <link>https://zenn.dev/snaga/articles/2026-10-20-sdd-current-state-oct-2026</link>
+      <pubDate>2026/10/21 07:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cdfab4f5ba37cda1c60f3f847050991c7457f3e6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2149%2F792%2Fimasara_excel_228-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - microsoft/nvx: Cross-Platform Micro-VM Sandbox for Agentic Workloads</title>
+      <link>https://github.com/microsoft/nvx</link>
+      <pubDate>2026/10/04 12:33</pubDate>
+      <description>AIにお願いすれば画面はすぐに出来上がる。ここ1年で、プロダクト開発のスピードは一気に変わりました。一方で、出てきた画面を見ながら、こんなふうに思ったことはないでしょうか。 「悪くはないけど、なんか違う」と思いつつ、そのまま採用してしまった 手で1画面ずつ作っていたころの方が、プロダクトの「らしさ」が出ていた気がする 早くはなったけれど、デザインの癖や特徴が薄まっている。AIによるプロダクト開発に、私自身そんなモヤモヤを感じていました。このモヤモヤの正体は、AIが参照できる「このプロダクトらしさ」が、どこにも置かれていないことだったと思っています。 私が担当しているプロダクトのデザインシステムは、デザイナー4人が議論を重ね、エンジニアとともに1ピクセル単位で調整したものです。既製のUIライブラリをそのまま使えば数日で立ち上がるところを、なんと半年。AIによる自動生成とスピードが正義とされる</description>
+    </item>
+    <item>
+      <title>Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka</title>
+      <link>https://note.com/npaka/n/nba1723dba4e1</link>
+      <pubDate>2026/10/20 18:51</pubDate>
+      <description>Mac miniでローカルAIにチャレンジしてみる といっても、筆者はMacにはそこそこ詳しくても、AIにそんなに詳しいわけではない。そこで、たまたま家に帰ってきていた、大学でコンピュータサイエンスとAIを学んだ息子（卒業して2027年春に就職予定）に教えてもらいながら取り組むことにした。 そんなわけで、この記事は筆者と同じように「LLMには詳しくないけれど、MacにLLMを組み込んで使ってみたい」と思っている人を想定して書いている。なお極力詳細には書いたが、書き切れない部分もあるので、実際にチャレンジする方は、ご自身の環境を踏まえて生成AIなどに質問しながら、作業を進めていただければと思う。 まず、「クラウドLLM」と「ローカルLLM」の違いを説明した上で、ローカルLLMのメリットについて解説しよう。 「LLM（Large Language Model：大規模言語モデル）」とは、大量の文</description>
+    </item>
   </channel>
 </rss>
