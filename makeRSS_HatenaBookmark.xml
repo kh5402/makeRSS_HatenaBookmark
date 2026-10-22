@@ -268337,5 +268337,65 @@ June 6, 2026</description>
       <pubDate>2026/10/20 18:51</pubDate>
       <description>Mac miniでローカルAIにチャレンジしてみる といっても、筆者はMacにはそこそこ詳しくても、AIにそんなに詳しいわけではない。そこで、たまたま家に帰ってきていた、大学でコンピュータサイエンスとAIを学んだ息子（卒業して2027年春に就職予定）に教えてもらいながら取り組むことにした。 そんなわけで、この記事は筆者と同じように「LLMには詳しくないけれど、MacにLLMを組み込んで使ってみたい」と思っている人を想定して書いている。なお極力詳細には書いたが、書き切れない部分もあるので、実際にチャレンジする方は、ご自身の環境を踏まえて生成AIなどに質問しながら、作業を進めていただければと思う。 まず、「クラウドLLM」と「ローカルLLM」の違いを説明した上で、ローカルLLMのメリットについて解説しよう。 「LLM（Large Language Model：大規模言語モデル）」とは、大量の文</description>
     </item>
+    <item>
+      <title>【速報】中国政府系がAIで攻撃、MSが発表</title>
+      <link>https://www.47news.jp/15123221.html</link>
+      <pubDate>2026/10/23 00:13</pubDate>
+      <description>As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the actor obtaining privileged access to an organization’s cloud infrastructure – including multiple instanc</description>
+    </item>
+    <item>
+      <title>阪急電鉄と阪神電鉄、AIで忘れ物検索　チャットで問い合わせ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF224ZQ0S6A021C2000000/</link>
+      <pubDate>2026/10/22 21:04</pubDate>
+      <description>該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、ほぼ全てのWeb向けPHP環境（特にmod_phpなど）が影響を受ける極めて危険なものでした。 本来は研究者（Calif、OpenAI、Wizなど）とPHP開発チームの間で調整された開示（coordinated disclosure）が予定されていましたが、情報が早期に漏れた上、Calif側がPoC動画を誤って公開したり、詳細がSNSやHacker Newsなどで拡散されたりしました。 その結果：PHP開発チームが予定を前倒しして緊</description>
+    </item>
+    <item>
+      <title>AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261022de63457</link>
+      <pubDate>2026/10/22 20:12</pubDate>
+      <description>ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化 ゲームフリークのプログラマーである成田史弥氏と東京大学大学院総合文化研究科教授の金井崇氏による、液体のシミュレーションに関する論文が発表された。 10月6日にシンガポールで開催された国際会議「Pacific Graphics 2026」にて、ゲームフリークのプログラマーである成田史弥氏と東京大学大学院総合文化研究科教授の金井崇氏による論文「Beyond Horizontal Refinement: Extending Quadtree Tall Cells with Adaptive Optical Layers」が発表された。本研究は、液体のシミュレーションにおいて、見た目の品質を維持しながら計算負荷を減らすことを目指すものとなっている。 まず背景として、CGの液体</description>
+    </item>
+    <item>
+      <title>「長い目で見れば防御側が有利」はなぜ？　守る側のAI活用法、本命は　Webセキュリティ専門家に聞く</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/</link>
+      <pubDate>2026/10/22 17:31</pubDate>
+      <description>世界中の企業・組織が対応に追われているプログラミング言語「PHP」の脆弱性。高市早苗首相がSNSで対応を呼びかけたことから、テレビなどでも盛んに報じられ、これまでになく社会を騒がせている。開発プロジェクトは10月21日夜（日本時間、以下同）にセキュリティアップデートを配信したが、一部の企業・組織は22日時点でも対応のためWebサイトやサービスを停止しており、混乱はいまだ収まっていない。 今回の脆弱性がこれほどまでに世間を騒がせたのは、その緊急性はもちろん、本来伏せておくべきだった情報の先出しが影響している。PHPの開発プロジェクトは、安全のため脆弱性の詳細をセキュリティアップデート配信まで伏せていたにもかかわらず、一部の関係企業が公開禁止措置を破り、混乱に拍車を掛けたという。開発プロジェクトを支援するThe PHP Foundation（PHP財団）は21日、経緯を公式サイトで公開した。</description>
+    </item>
+    <item>
+      <title>Adobeそっくり「ArtCraft」の動画編集ツールを試す　AIで挙動を再現した“クローンソフト”はアリなのか</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/22/2000002485/</link>
+      <pubDate>2026/10/22 09:30</pubDate>
+      <description>NVIDIAが検索拡張生成(RAG)用のAIモデル群「Nemotron Retriever」に5種類のモデルを追加しました。すべてのモデルがオープンモデルとして無償公開されています。 NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval 公開された5種類のモデルの概要は以下の通り。 Nemotron-3.5-Embed-8B-BF16：日本語を含む34言語に対応した埋め込みモデル。画像とテキスト入力に対応。 Nemotron-3.5-Embed-1B-BF16：Nemotron-3.5-</description>
+    </item>
+    <item>
+      <title>「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/22/2000002501/</link>
+      <pubDate>2026/10/22 12:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/90770959744679fcd04342b5e2be95a35679d32a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2150%2F203%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される</title>
+      <link>https://gigazine.net/news/20261022-claude-duet/</link>
+      <pubDate>2026/10/22 10:49</pubDate>
+      <description>（ブルームバーグ）:広く使われているオープンソースのプログラミング言語「PHP」に見つかった脆弱性を巡り、米政府当局は連邦機関や重要インフラへの影響を防ぐため、対応を進めている。ホワイトハウス当局者が明らかにした。 PHPには二つの脆弱性があり、同言語を利用するウェブサイトやシステムがサイバー攻撃にさらされる恐れがある。PHPの運営団体は21日、脆弱性を修正するアップデートを公開し、利用者に直ちに適用するよう呼びかけた。ホワイトハウス当局者によると、米政府は脆弱性への対策を進めるため、テクノロジー企業と連携している。 PHPはウェブ上で広く普及している技術で、膨大な数のサイトを支えている。このため、一つの脆弱性がインターネット上の幅広いサービスに連鎖的な影響を及ぼし、データ窃取やマルウエア感染などの被害につながる恐れがある。 アルファベット傘下のサイバーセキュリティー企業Wizは21日公表</description>
+    </item>
+    <item>
+      <title>WordPressから他のCMSへ移行する方法｜CloudflareのEmDashをおすすめする理由｜RealAIze ブログ</title>
+      <link>https://web.realaize.jp/blog/wordpress-to-emdash-migration</link>
+      <pubDate>2026/10/22 08:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0958013c0d537dcdb110d13580708e4467c38e97/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2147%2F630%2Fimage_02.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>台風30号の数値シミュレーションの変化　AI予測モデルの計算結果が安定 - ウェザーニュース</title>
+      <link>https://weathernews.jp/news/202610/210161/</link>
+      <pubDate>2026/10/21 15:55</pubDate>
+      <description>こんにちは。デジタル庁のファクト＆データユニット所属データエンジニアの長谷川亮です。 これまで、いくつかのnote記事で政策データダッシュボードとそのデータ分析基盤についてご紹介してきました。今回は趣向を変え、近年進めているデータマネジメントの取組のうち、データの機械可読性を高めるためのルールと、私たちが開発・公開したツール「Harunobu」についてご紹介します。 人やAIのデータ活用を阻む「神Excel」行政、民間を問わず、Excelなどの表形式データを保存・管理している事例は多くあります。Excel自体は適切に使えば問題ない良いツールなのですが、慣習的なExcel、特に紙に印刷したときにきれいなレイアウトになるように、Excel上でセルを結合したり、方眼紙のように行列を細かく配置したりしたExcel（いわゆる「神Excel」）が使われていることも多いです。 こういったExcelは印刷</description>
+    </item>
   </channel>
 </rss>
