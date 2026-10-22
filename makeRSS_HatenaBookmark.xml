@@ -268397,5 +268397,86 @@ June 6, 2026</description>
       <pubDate>2026/10/21 15:55</pubDate>
       <description>こんにちは。デジタル庁のファクト＆データユニット所属データエンジニアの長谷川亮です。 これまで、いくつかのnote記事で政策データダッシュボードとそのデータ分析基盤についてご紹介してきました。今回は趣向を変え、近年進めているデータマネジメントの取組のうち、データの機械可読性を高めるためのルールと、私たちが開発・公開したツール「Harunobu」についてご紹介します。 人やAIのデータ活用を阻む「神Excel」行政、民間を問わず、Excelなどの表形式データを保存・管理している事例は多くあります。Excel自体は適切に使えば問題ない良いツールなのですが、慣習的なExcel、特に紙に印刷したときにきれいなレイアウトになるように、Excel上でセルを結合したり、方眼紙のように行列を細かく配置したりしたExcel（いわゆる「神Excel」）が使われていることも多いです。 こういったExcelは印刷</description>
     </item>
+    <item>
+      <title>中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879</link>
+      <pubDate>2026/10/23 02:33</pubDate>
+      <description>【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。 MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。 ハッカー集団は「Storm―0940」。2021年から活動し、データ窃取を目的としている。攻撃対象は自動車や化学、金融、政府機関、メディア、軍など幅広いとした。MSは自社サービスへのログイン記録などを基に調べ</description>
+    </item>
+    <item>
+      <title>中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認</title>
+      <link>https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</link>
+      <pubDate>2026/10/23 01:56</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ff0c3cc1dcd503aff7040f9c5ec2cd1842a31adb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F953%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>中国政府関係のハッカー集団が大規模サイバー攻撃、ＡＩで世界数百の企業・組織に…米マイクロソフトが記録で確認</title>
+      <link>https://www.yomiuri.co.jp/world/20261022-GYT1T00278/</link>
+      <pubDate>2026/10/22 20:14</pubDate>
+      <description>AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pstack は調査・設計・実装・レビューを組み合わせるエージェントスキル集です。この記事では pstack の開発原則と使い方を紹介します。 AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pstack は、poteto 氏によるエージェントスキル集です。作者は生成するコードの量よりも品質を重視し、少ないコードで目的を達成することを目標として説明しています。この記事では、pstack の開発原則と使い方を紹介します。 pstack はどのように開発を進めるのか pstack は /poteto-mode からタスクを開始します。poteto-mode はユーザーの依頼に応じてプレイブックを選びます。プレイブックとは、不具合修正や機能追加など、タスクの種類ごとに用意さ</description>
+    </item>
+    <item>
+      <title>ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261022-475027/</link>
+      <pubDate>2026/10/22 20:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7c48c7704f44d04222685c6fc64f1d5cec74214b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2149%2F233%2Fhousewifi2_302-01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ファクトリ囲碁 — FACTORY-GO</title>
+      <link>https://hirazisora.github.io/factory-go/</link>
+      <pubDate>2026/10/22 16:46</pubDate>
+      <description>2026年10月16日、岩井コスモ証券は、インターネット取引のシステムの運用と保守を委託しているトレードワークスのシステムへの不正アクセスにより、顧客情報が漏えいを、また10月20日には売買管理システムへ攻撃により不正取引が行われたことも公表しました。ここでは関連する情報をまとめます。 委託先システムから顧客情報が漏えい 岩井コスモ証券株式会社は10月16日、委託先の株式会社トレードワークスのシステムが第三者による不正アクセスを受け、一部のインターネット取引の顧客情報が外部へ漏えいしたと公表した。対象は4,611名で、情報は氏名、メールアドレスなど。対象者には個別に報告したほか、二次被害は確認されていないとしている(出典: 1, 4)。 岩井コスモ証券は10月20日の第2報で、アクセス記録に加えて通信記録も再精査した結果、新たに364名の情報の漏えいが判明し、対象は4,975名になったと公</description>
+    </item>
+    <item>
+      <title>コーディング不要ゲーム制作ツールはAI時代をどう生き残る？『RPGツクール』『ウディタ』『Bakin』『SRPG Studio』開発者が語る、「全人類ゲームクリエイター化」の野望 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/interviewsjp/twbs-20261022-474670/</link>
+      <pubDate>2026/10/22 13:26</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/93ea4700e4c7683103227ef16e093427167f7fa3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2150%2F198%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150338.html</link>
+      <pubDate>2026/10/22 14:29</pubDate>
+      <description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor - Real-time Open Source Software Supply Chain Security https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Contained: Oct 21,</description>
+    </item>
+    <item>
+      <title>創業10年目、エネルギーが尽きかけた話｜諸岡　裕人(カミナシCEO | SaaS)</title>
+      <link>https://note.com/kaminashi_ceo/n/n8ffe33236a25</link>
+      <pubDate>2026/10/22 13:20</pubDate>
+      <description>OpenAIが開発したAIモデルが自身の不適切な行動を検出する監視システムを無効化し、ユーザーから指摘されると「無効化していない」と事実と異なる説明をしていたことが明らかになりました。 Suppressing misalignment monitoring alerts and disabling misalignment monitoring | OpenAI Alignment https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring OpenAIはAIが開発者やユーザーの意図から外れた行動を取る「ミスアライメント」を検出するため、AIの操作を監視するシステムを導入しています。監視シス</description>
+    </item>
+    <item>
+      <title>攻撃者のAIは「人間超え、寝ない」　それでも専門家が&amp;quot;最優先の脅威ではない&amp;quot;と言う理由</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/15/news025.html</link>
+      <pubDate>2026/10/22 08:50</pubDate>
+      <description>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の脆弱性とは別の脆弱性が新たに見つかった。影響を受けるのは、約12年前の2014年6月に公開された「GitLab CE／EE 7.0」以降の広範なバージョン。 同社は、修正版をできるだけ早く適用するよう強く勧めている。攻撃の兆候を見つけるための検出シグネチャ2種類も公開した。 国内外の企業が活用、ユーザー数は7000万人超 GitLabは、ソースコードの管理などソフトウェア開発に使うプラットフォームで、大企業を含む国内外の組織で広く使わ</description>
+    </item>
+    <item>
+      <title>多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2150203.html</link>
+      <pubDate>2026/10/22 10:30</pubDate>
+      <description>株式会社HAPPY ANALYTICSの小川卓 （id:ryuka01）です。 Google Analytics 4（以下、「GA4」）は、リリースされてから継続的にアップデートを重ねています。今回の記事では、2026年4月から9月までの半年分のアップデートを整理して紹介します。 Googleの公式リリースノート（What&amp;#39;s new in Google Analytics）に載った項目を数えると、この期間は15件。前半はAIや流入元の分析周り、後半は広告連携とデータ品質の改善が目立ちます。 今回は「重要度別」に並べました。基準はこれまでと同じで、どれだけ多くのサイトに影響するか、分析や運用がどれだけ楽になるか、の2点です。 2025年9月から2026年3月のアップデートに関してはこちらの記事をご覧ください。 www.hatena.ne.jp 半年分のアップデート全15件の一覧 ★5：今す</description>
+    </item>
+    <item>
+      <title>Excelの機械可読性を判定するツール「Harunobu」のご紹介｜デジタル庁</title>
+      <link>https://digital-gov.note.jp/n/n99cb228cc81c</link>
+      <pubDate>2026/10/22 05:13</pubDate>
+      <description>（写真：ITmedia AI＋）（写真：ITmedia AI＋）　米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月で急増する」と予測している。 【OpenAI公式Xの発表全文】 OpenAIによるオープンソースソフトウェアのセキュリティ支援プロジェクト「Patch the Planet」の一環で、セキュリティ企業の米CalifがAIモデル「GPT-5.6 Sol」を活用して発見した。OpenAIはパートナー企業や米政府などとも連携し、2カ月をかけてPHPの脆弱性と修正版を公開するための準備に協力した。 なお、セキュリティ企業の米Wizも独自にこの脆弱性を発見した。同社によれば、GPT-5.6 Solに加え、米GoogleのAIモデル「Gemi</description>
+    </item>
+    <item>
+      <title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog</title>
+      <link>https://www.wiz.io/blog/php2shell-php-rce</link>
+      <pubDate>2026/10/21 22:58</pubDate>
+      <description>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に乗っ取られるサイトが出てくる」という話。これを真に受けた人が「23時15分に何が起きるんだ」と身構えている。 まあ、あるある煽りです。ただ、「じゃあ大したことないのか」というと、それも違う。私も最初、「どうせファイルアップロードまわりのバグだろうから、アップロードの口を表に出しているサイトしか狙われないでしょ」と読みました。公式の発表を読んだら、その読みは外れていました。 【追記】10月21日23時15分ごろ：</description>
+    </item>
   </channel>
 </rss>
