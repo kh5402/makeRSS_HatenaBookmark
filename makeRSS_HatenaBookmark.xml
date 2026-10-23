@@ -268535,5 +268535,149 @@ June 6, 2026</description>
       <pubDate>2026/10/20 16:45</pubDate>
       <description>連載目次 AIコーディングツールのAPIキー（サービスを呼び出すための認証用の文字列）が盗まれたら、何が起きるか。心配すべきなのは、コードの流出だけではない。第三者があなたのアカウントでAIを使い、その利用料金をあなたが負担することになる。 この1週間で、AIの認証情報が狙われる動きが2つの形で明らかになった。10月15日、セキュリティ企業Symantec（Broadcom）が、情報窃取マルウェア「Aoki」の新しい版に、Claude、OpenAIのCodex、Cursor、Geminiなどの認証情報を盗む機能が加わったと公表した。10月17日には、オープンソースのAIコーディングエージェント「OpenCode」の運営元が、クラウド側のワークスペースに保存されていた外部AIサービスのAPIキーが流出した可能性があると公表した。利用者からは、身に覚えのない課金の報告も出ている。 Aokiは、</description>
     </item>
+    <item>
+      <title>MetaのパーソナルAIエージェント「Muse」、日本でスタート</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2150567.html</link>
+      <pubDate>2026/10/23 10:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/286d2ac44c357c190fec19fe3982960134833c34/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fgame.watch.impress.co.jp%2Fimg%2Fgmw%2Flist%2F2150%2F508%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/zozotown-frontend-ai-review</link>
+      <pubDate>2026/10/23 11:07</pubDate>
+      <description>ゲーム・エンタメ最新情報のファミ通.com取材・リポート任天堂・宮本茂氏の文化勲章受章が決定。『マリオ』『ゼルダ』『ピクミン』の生みの親。「“作る”とは何なのか。AIの発展でみんなが考える」。記者会見で語られた歩みと哲学</description>
+    </item>
+    <item>
+      <title>「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2150555.html</link>
+      <pubDate>2026/10/23 09:52</pubDate>
+      <description>いつまで人類はPHPを使い続けるのか いきなり身内に喧嘩を売るようで恐縮だが、このWirelessWire NewsはWordPressで動いている。 WordPressといえばPHPである。 筆者はもう10年以上前からPHPを使うのをやめている。別にPHPで作られたWebサイトが即座に危険というわけではないし、適切に管理すれば安全に運用できる。しかし、筆者はどうしてもPHPというものの基本的な設計思想が好きになれない。 Webサーバーで動くスクリプトが、ファイルシステムにアクセスできたり、OSのコマンドを実行できたり、外部のネットワークにアクセスできたりする。 もちろん、権限を制限することもできる。しかし、そもそもそんな権限を与えなければよいではないか。 Webサーバーの仕事は、HTTPリクエストを受け取り、必要な処理をして、HTTPレスポンスを返すことである。 それなのになぜ、UNIX</description>
+    </item>
+    <item>
+      <title>AI時代のGraphQL</title>
+      <link>https://speakerdeck.com/joere/ai-jidai-no-graphql</link>
+      <pubDate>2026/10/23 00:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18ce59798dd9ae4c52ba968cef8a8dc1bc025e98/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2150%2F155%2FImage01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/23/2000002527/</link>
+      <pubDate>2026/10/23 09:32</pubDate>
+      <description>DeepSeek V4.1 Flash 1017を試してみたけど遅くて、パッチあてたら速くなったけどUnslothさんの実装のほうがよさそうなので試してみたら、これはほんとに使えるモデルってなりました。 まず賢いんだけど、Opus 5はちょっと足りないとは思うけどSonnet 5は超えてる感じがあります。つまり普通に使える。 DeepSeekはconst宣言した5行下で再代入したり、しょうもないエラーをよく出して、一発でコードが動くなんてことはなかったけど、Pagoda Gardenや街中戦車など長いコードをチャットで一発でエラーなしに出しています。 賢いだけならGLM 5.3でもいいんだけど、トークン長くなるとどんどん遅くなっていました。 DeepSeek V4.1 Flashはトークン長くなっても遅くなりにくいアーキテクチャで、さらにUnsloth PRは実装が工夫されているので、M3</description>
+    </item>
+    <item>
+      <title>無料で使えるAI｢ローカルLLM｣の進化がすごいよって話 | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2026_local_llm_matome-bij/</link>
+      <pubDate>2026/10/23 01:40</pubDate>
+      <description>「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関などは対応に追われています。その影響はわれわれ生活者にも。 利用しているウェブサービスがストップし、不便…</description>
+    </item>
+    <item>
+      <title>心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？　「LOVOT」林社長が説く可能性</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/23/news012.html</link>
+      <pubDate>2026/10/23 06:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bac858bf45f7dcd2cf4d7125917759fde8751527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F426%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>2000年代初頭、女性オタクの中にはHTML/CSSを手打ちして個人サイトを作る人もいたが、その審美眼が今やAIの利便性を前に溶けている印象がある</title>
+      <link>https://togetter.com/li/2761573</link>
+      <pubDate>2026/10/23 00:07</pubDate>
+      <description>米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS）　【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。 【イメージ】中国系AI、数十社攻撃に悪用か　米韓でもサイバー被害 MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。 ハッカー集団は「Storm―0940」。2021年から活動し、データ窃</description>
+    </item>
+    <item>
+      <title>月面で初のスーパーコンピューター性能テストをHPEとNASAが計画、AIによる地形解析やサイバー攻撃検知も実施へ</title>
+      <link>https://gigazine.net/news/20261022-hpt-nasa-moon-ai-benchmark/</link>
+      <pubDate>2026/10/22 15:07</pubDate>
+      <description>【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。 MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。 ハッカー集団は「Storm―0940」。2021年から活動し、データ窃取を目的としている。攻撃対象は自動車や化学、金融、政府機関、メディア、軍など幅広いとした。MSは自社サービスへのログイン記録などを基に調べ</description>
+    </item>
+    <item>
+      <title>チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/</link>
+      <pubDate>2026/10/22 16:41</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ff0c3cc1dcd503aff7040f9c5ec2cd1842a31adb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F953%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある</title>
+      <link>https://gigazine.net/news/20261022-artificial-analysis-personalitybench/</link>
+      <pubDate>2026/10/22 19:22</pubDate>
+      <description>As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the actor obtaining privileged access to an organization’s cloud infrastructure – including multiple instanc</description>
+    </item>
+    <item>
+      <title>エージェントスキル集 pstack の開発原則と使い方</title>
+      <link>https://azukiazusa.dev/blog/pstack-agent-skills/</link>
+      <pubDate>2026/10/22 22:20</pubDate>
+      <description>【読売新聞】　生成ＡＩ（人工知能）サービスが急速に普及する中、犯罪組織がＡＩを悪用するため、インターネットの検索結果を不正操作していることがわかった。誤った情報を収集したＡＩが詐欺の宣伝文句を肯定したり、利用者を偽のショッピングサイ</description>
+    </item>
+    <item>
+      <title>「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html</link>
+      <pubDate>2026/10/22 09:07</pubDate>
+      <description>2026年夏ごろから、サイバー攻撃による情報漏えいを公表する国内企業が相次いでいる。背景の一つとして指摘されるのが、攻撃者によるAIの利用だ。直近でもプログラミング言語「PHP」の脆弱性について、AIを使った攻撃者による悪用に注意するよう、米OpenAIなどが呼び掛けている。 攻撃が数でも速さでも人手の限界を超えていくなら、守る側はそれをどう受け止めればいいのか。そして、守る側はAIをどこに使うべきなのか。Webアプリケーションを狙う攻撃を最前線で受け止めるWAF（Webアプリケーションファイアウォール）の開発責任者に話を聞いた。 「長い目で見たら防御側が有利」　AI活用法の本命は？ 「長い目で見たら、防御側の方が有利だと思う」――。クラウド型WAFを開発するビットフォレストの取締役で、WAFの開発責任者を務める佐藤匡氏はこう語る。同社は10月14日、攻撃元がAIエージェントかどうかを判定</description>
+    </item>
+    <item>
+      <title>NVIDIAが「社内に蓄積した大量の情報をAIで扱えるようにデータ整形して検索可能にするモデル群」を無償公開</title>
+      <link>https://gigazine.net/news/20261022-nvidia-nemotron-retriever-embed-rerank-parse/</link>
+      <pubDate>2026/10/22 14:15</pubDate>
+      <description>ファクトリ囲碁 黒の工場基 白の工場基 対戦開始 あなたの手番を選んでください 後手にはハンデとして7.5ポイント加算されます 先手黒の工場 後手白の工場 もう一局盤面を見る × ルール ◀ 前へ 次へ ▶</description>
+    </item>
+    <item>
+      <title>不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/22/113434</link>
+      <pubDate>2026/10/22 12:51</pubDate>
+      <description>「これまでにない大規模な予算を用意し、造船業の再生・強化を進めていく」――国土交通省 海事局 大臣官房技術審議官を務める今井新氏は、10月6日に開催されたシンポジウムでこう述べた。 日本の造船業は、かつて世界トップの建造量を誇った。1956年に世界シェア1位となり、1990年代初めまで世界の建造量の約4～5割を占めていたが、韓国や中国の台頭によってシェアが低下。足元では建造量シェアが約2割、世界3位となっている。 加えて、人手不足も深刻化している。造船現場では、鉄板の加工や溶接などに熟練した技能が必要だが、従事する人材は減少傾向にある。 こうした状況を受け、政府は「造船業再生ロードマップ」をまとめ、2035年に国内の建造量を倍増させる目標を掲げた。今後10年間で官民合わせて1兆円を超える投資を実施し、競争力の強化を目指す。その復権を担う鍵が「フィジカルAI」だ。日本の勝ち筋について、キーパ</description>
+    </item>
+    <item>
+      <title>PHP脆弱性、10年以上気付かず放置　最先端AIが発見：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVBP6RLSVBPSFVU2GQM.html</link>
+      <pubDate>2026/10/22 08:08</pubDate>
+      <description>米OpenAIは10月21日（現地時間）、PHPの重大な脆弱性2件のうち1件について、米セキュリティ企業のCalifが同社の「GPT-5.6 Sol」を使って発見したと発表した。 同社は「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。 「GPT-5.6 Sol」「Gemini 4 Argon」などで発見 PHPの脆弱性について、同社は過去2カ月にわたり、保守担当者や研究者、セキュリティプロバイダーの連合を率い、調査や対策、政府との連携などを行ってきたという。 OpenAIによると2件の脆弱性のうち1つは、米セキュリティ企業のCalifが「GPT-5.6 Sol」を使って発見。米Google傘下のセキュリティ企業Wizも2件の脆弱性を独自に発見し、報告していた。Wizは「GPT-5.6 Sol」のほか、Google</description>
+    </item>
+    <item>
+      <title>日立、AIデータセンターの冷却電力を30%削減するコールドプレート</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2150109.html</link>
+      <pubDate>2026/10/21 19:04</pubDate>
+      <description>【ニューヨーク=西邨紘子、シリコンバレー=伴正春】世界のウェブサイトの7割に使われている開発言語「PHP」に深刻な脆弱性が見つかり、各国が対応に追われている。サイトを一時停止する企業もある。人工知能（AI）によるサイバー攻撃の脅威が高まる中、米当局はソフト更新を急ぐよう呼びかけた。PHPはウェブサイトを動かすために使う開発言語の一つで、サーバー上でプログラムを実行し、利用者のパソコンやスマート</description>
+    </item>
+    <item>
+      <title>PHPの重大脆弱性、発見したのは「GPT-5.6Sol」　OpenAIが防御連携を呼びかけ</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2150172.html</link>
+      <pubDate>2026/10/22 06:48</pubDate>
+      <description>米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月で急増する」と予測している。 OpenAIによるオープンソースソフトウェアのセキュリティ支援プロジェクト「Patch the Planet」の一環で、セキュリティ企業の米CalifがAIモデル「GPT-5.6 Sol」を活用して発見した。OpenAIはパートナー企業や米政府などとも連携し、2カ月をかけてPHPの脆弱性と修正版を公開するための準備に協力した。 なお、セキュリティ企業の米Wizも独自にこの脆弱性を発見した。同社によれば、GPT-5.6 Solに加え、米GoogleのAIモデル「Gemini 4 Argon」なども活用したという。 OpenAIは、今回の脆弱性は攻撃者よりも先に最先端A</description>
+    </item>
+    <item>
+      <title>中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演</title>
+      <link>https://www.yomiuri.co.jp/national/20261021-GYT1T00443/</link>
+      <pubDate>2026/10/22 05:05</pubDate>
+      <description>『AIが仕事を奪う！』 理想的には、仕事だけ奪って、お金とか自由とか、そういうの人間に全部くれて、誰も彼も働かなくて済むようになって、人間は一日中遊んでくらせるようになる、ということなんですけど、でも、実際はそうじゃないじゃないですか。 今、現実に起こってるのって（そして将来的に起こり続けるのって）水資源と電気と、計算資源（CPUとか）を人間から奪って、AIが特異な仕事はAIが持っていくけれども、それ以外の仕事は相変わらず残ってて、効率がアップした分だけ人間の労働強化は進んでいって、そして、人間のお値段は据え置き。 著作物とか、研究成果とかのデータもブッコ抜かれて（古書とかからデータをごっそり持っていくやつや、絵柄、写真など）その元の所有者には一銭も入らない。 それで、そのAIによってもたらされる成果全人類に分配されるかというと、結局、AI関連の会社やそこに投資をしている人たちのものになる</description>
+    </item>
+    <item>
+      <title>これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？</title>
+      <link>https://togetter.com/li/2761175</link>
+      <pubDate>2026/10/21 22:05</pubDate>
+      <description>数多くのウェブサイトやアプリで使用されているプログラミング言語「PHP」に脆弱(ぜいじゃく)性が見つかり、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされています。この緊急パッチに対応するべく多くのサイトがメンテナンス入りしています。 PHPでは深刻な脆弱性が2件発覚しており、2026年10月21日23時にセキュリティ更新プログラムが公開される予定です。脆弱性の詳細は記事作成時点では公開されていませんが、共通脆弱性評価システム「CVSS 4.0」でいずれも深刻度「9.2」と評価されており、大きな影響を及ぼす可能性があります。 PHPに深刻度「9.2」の脆弱性が2件発覚、サーバー乗っ取りの恐れで緊急パッチを10月21日に公開へ - GIGAZINE PHPの脆弱性については国家サイバー統括室も「公開しているウェブサイトでPHPを</description>
+    </item>
+    <item>
+      <title>Three reasons why AI is not conscious and perhaps never will be</title>
+      <link>https://www.nature.com/articles/d41586-026-03313-7</link>
+      <pubDate>2026/10/20 16:00</pubDate>
+      <description>はじめにこんにちは、IVRy（アイブリー）でデザイナーをしているみっちー（@michiminstar）です。 最近のIVRyでは、職種を問わずAIを使ってアイデアを即座にプロトタイプ化することが日常になっています。PdMが生成AIで作ったたたき台をもとに、デザイナーが複数の案へ広げていく。あるいは、Claude Designにデザインシステムを読み込ませ、非デザイナーが社内ツールを構築したり——。そんな光景が当たり前になりました。 しかし、社内での認識合わせやたたき台としては十分に機能する一方で、そのままリリースできる品質にするには、まだ大きなギャップがあると感じています。手軽に画面を作れる反面、生成するたびにUIの振る舞いや構造がブレてしまい、デザインシステムに沿った品質に落とし込むにはまだ距離があるのが現状です。 この「プロダクト品質へのギャップ」を、AIと共にどう埋めていくか。今回は</description>
+    </item>
+    <item>
+      <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
+      <pubDate>2026/10/21 17:57</pubDate>
+      <description>morluto氏がGitHubで公開しているAIエージェント向けのリバースエンジニアリング支援ツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。10月2日時点で41件だったGitHubのスター数は、17日に30万件を突破。21日には34万7802件に達した。 REAは、完成したアプリや実行ファイルを調べ、内部の処理を理解する、リバースエンジニアリングを支援するツール。AI向けの規格「MCP」を通じて、AIエージェントに解析機能を提供する。元のソースコードがなくても、特定の機能がどう動くかを調べ、根拠を示しながら説明や再実装につなげられる。 対象はPC向けの実行ファイルに加え、JavaScriptやElectronで作られたアプリ、.NETのプログラム、ウェブサイトなどにも対応する。公式サイトでは、Windowsの電卓で「200＋10％」が220</description>
+    </item>
   </channel>
 </rss>
