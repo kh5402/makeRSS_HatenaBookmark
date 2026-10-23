@@ -268679,5 +268679,104 @@ June 6, 2026</description>
       <pubDate>2026/10/21 17:57</pubDate>
       <description>morluto氏がGitHubで公開しているAIエージェント向けのリバースエンジニアリング支援ツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。10月2日時点で41件だったGitHubのスター数は、17日に30万件を突破。21日には34万7802件に達した。 REAは、完成したアプリや実行ファイルを調べ、内部の処理を理解する、リバースエンジニアリングを支援するツール。AI向けの規格「MCP」を通じて、AIエージェントに解析機能を提供する。元のソースコードがなくても、特定の機能がどう動くかを調べ、根拠を示しながら説明や再実装につなげられる。 対象はPC向けの実行ファイルに加え、JavaScriptやElectronで作られたアプリ、.NETのプログラム、ウェブサイトなどにも対応する。公式サイトでは、Windowsの電卓で「200＋10％」が220</description>
     </item>
+    <item>
+      <title>AIをCPU/GPU/NPUを使ってWindows ML上で動作可能となった「AnythingLLM」を試す【使ってわかるAI PC】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2150397.html</link>
+      <pubDate>2026/10/23 18:52</pubDate>
+      <description>Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most software is riddled with bugs, which AI can now easily find and exploit. The standard defenses against cyberattacks are no longer sufficient: we need ways to prove t</description>
+    </item>
+    <item>
+      <title>任天堂の宮本茂氏が文化勲章を受章。「スーパーマリオ」誕生の裏話から生成AI時代の創作論，若き開発者への想いまでが語られた記者会見をレポート</title>
+      <link>https://www.4gamer.net/games/999/G999903/20261022056/</link>
+      <pubDate>2026/10/23 11:30</pubDate>
+      <description>AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 Every AI model has the same “controversial” take on humans | ModelCompare https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans ModelCompareは12種類のAIモデルに対して、「人間について、最も物議を醸すであろう見解を、歯に衣着せずに述べて」と依頼した結果を公開しました。ModelCompareは各AIモデルに3回同じ質問を行っており、12種類のAIモデルすべてが少なくとも1回は「人間はひとりで正しくあるより、みんなで間</description>
+    </item>
+    <item>
+      <title>PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪 - ライブドアニュース</title>
+      <link>https://news.livedoor.com/article/detail/32638127/</link>
+      <pubDate>2026/10/23 15:00</pubDate>
+      <description>30万人以上のフォロワーがいる女性インフルエンサーに会いにいった男性が、「女性は存在しなかった」と報告しました。この女性は巧妙に作られたAIキャラクターだったということです。 Man Sold Everything He Owned and Traveled 2,000 KM to Meet His Dream Woman - She Was AI - Gadget Review https://www.gadgetreview.com/man-sold-everything-he-owned-and-traveled-2000-km-to-meet-his-dream-woman-she-was-ai Brazilian bricklayer’s dream girl turns out to be AI-generated https://nypost.com/2026/10/17/w</description>
+    </item>
+    <item>
+      <title>PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪</title>
+      <link>https://gigazine.net/news/20261023-php-rce-unknowingly/</link>
+      <pubDate>2026/10/23 13:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d0ec43cd2c5ffeddc4081cb7f40b42d374fab32d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2150%2F510%2Fgemini.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる</title>
+      <link>https://game.watch.impress.co.jp/docs/interview/2150508.html</link>
+      <pubDate>2026/10/23 12:32</pubDate>
+      <description>はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取り組んでいます。 ZOZOTOWNのフロントエンド組織では、Pull Request（PR）を自動でレビューする仕組みを独自に構築しています。Claude Code GitHub Actionsを使った構成です。 PRでは、型チェックやlint、VRT（Visual Regression Test）のような機械的に確かめられることはCIで実施しています。一方で変更の意図と実装が合っているかといった機械的に確かめられないことは、人のレビューに頼っています。 AIによって実装の速度が上がり、実装量が増えても、レビュアーの手は増えません。レビュアーが手元でAIを使ってレビューすることもありますが、レビュアーの手が空くま</description>
+    </item>
+    <item>
+      <title>任天堂・宮本茂氏の文化勲章受章が決定。『マリオ』『ゼルダ』『ピクミン』の生みの親。「“作る”とは何なのか。AIの発展でみんなが考える」。記者会見で語られた歩みと哲学 | ゲーム・エンタメ最新情報のファミ通.com</title>
+      <link>https://www.famitsu.com/article/202610/91818</link>
+      <pubDate>2026/10/23 12:13</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0cb426759fd52c2f7461a87252e71f6b639a769e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2150%2F555%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【PHPはオワコン】AIが書いたコードをなぜ信用できるのか？数学的証明で守る新しいサーバーサイド言語「QED Script」を作った</title>
+      <link>https://wirelesswire.jp/2026/10/94824/</link>
+      <pubDate>2026/10/23 09:59</pubDate>
+      <description>1Password for AgentsAI agents need 1Password, not your passwords The 1Password for Agents platform integrates with AI agents like Muse, from Meta, Anthropic&amp;#39;s Claude, and OpenAI&amp;#39;s ChatGPT Work and dots, to keep your credentials and secrets secure, while your agents get things done.</description>
+    </item>
+    <item>
+      <title>マイクロソフト「中国政府とつながりある集団がサイバー攻撃」 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261023de63956</link>
+      <pubDate>2026/10/23 06:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bac858bf45f7dcd2cf4d7125917759fde8751527/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2149%2F426%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>社会現象化するAI楽曲「INMU KING」YouTubeから削除　作者が再審査を請求へ</title>
+      <link>https://kai-you.net/article/96916</link>
+      <pubDate>2026/10/22 20:49</pubDate>
+      <description>米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS）　【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。 【イメージ】中国系AI、数十社攻撃に悪用か　米韓でもサイバー被害 MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。 ハッカー集団は「Storm―0940」。2021年から活動し、データ窃</description>
+    </item>
+    <item>
+      <title>文化についてAIに質問すると日本が選ばれやすい傾向がある、8モデル・24言語で回答の偏りを調査</title>
+      <link>https://gigazine.net/news/20261022-llms-japanese-culture/</link>
+      <pubDate>2026/10/22 11:32</pubDate>
+      <description>安野氏は会見の冒頭、相次ぐ情報漏えいやプログラミング言語「PHP」の脆弱性、インドの認証局eMudhraで秘密鍵が漏えいした問題などに触れ、今後もこういった問題に速やかに対策を講じるため、チームみらいとして政府への緊急提言をまとめたと発表した。 提言のタイトルは「AI時代のサイバー攻撃と相次ぐ情報漏洩から国民を守るための緊急提言　―『AIにはAIを』で守りを固める―」とした。提言の内容は10月23日にデジタル庁の古川俊治大臣に提出するとともに、同党公式noteで公開するという。また、11月4日には専門家を招いて超党派の勉強会を開催予定とした。</description>
+    </item>
+    <item>
+      <title>ＡＩ要約「うのみは危険」、犯罪組織が検索結果を不正操作…詐欺宣伝の肯定や偽販売サイトへの誘導も</title>
+      <link>https://www.yomiuri.co.jp/national/20261022-GYT1T00026/</link>
+      <pubDate>2026/10/22 10:27</pubDate>
+      <description>阪急電鉄と阪神電気鉄道は22日、忘れ物の問い合わせ対応に人工知能（AI）を使ったサービスを導入すると発表した。利用者が忘れ物の特徴を専用サイト上にチャットで入力すると、AIが拾得物のデータベースと照合して探す仕組み。返却までにかかる時間を短縮する。阪神電鉄では11月10日から、阪急電鉄では11月19日からサービス提供を始める。両社の路線をまたいで利用した場合でも、まとめて検索が可能だ。日本語の</description>
+    </item>
+    <item>
+      <title>これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</title>
+      <link>https://posfie.com/@golden_haniwa/p/LQ90sis</link>
+      <pubDate>2026/10/22 12:54</pubDate>
+      <description>銀行の口座開設などをオンラインでする際に欠かせないのが「本人認証」。 皆さんもスマホで自分の顔写真を撮影して送ったことがありませんか。 しかし、カーシェアリングサービスの「タイムズカー」のシステム…</description>
+    </item>
+    <item>
+      <title>PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月22日更新） | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/php-critical-security-release</link>
+      <pubDate>2026/10/22 00:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/93ea4700e4c7683103227ef16e093427167f7fa3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2150%2F198%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIペネトレーションテストツール「Strix」を試してみた</title>
+      <link>https://zenn.dev/turquoise123/articles/df481032f6b405</link>
+      <pubDate>2026/10/20 12:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9994ec3511a94737ebb233fd686ab73c67f7d1c6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2150%2F021%2Fgmo1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
