@@ -268478,5 +268478,62 @@ June 6, 2026</description>
       <pubDate>2026/10/21 22:58</pubDate>
       <description>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に乗っ取られるサイトが出てくる」という話。これを真に受けた人が「23時15分に何が起きるんだ」と身構えている。 まあ、あるある煽りです。ただ、「じゃあ大したことないのか」というと、それも違う。私も最初、「どうせファイルアップロードまわりのバグだろうから、アップロードの口を表に出しているサイトしか狙われないでしょ」と読みました。公式の発表を読んだら、その読みは外れていました。 【追記】10月21日23時15分ごろ：</description>
     </item>
+    <item>
+      <title>【QA】PHPにぜい弱性発見 AI時代に求められる対応とは? | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261022de63922</link>
+      <pubDate>2026/10/23 07:26</pubDate>
+      <description>心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？　「LOVOT」林社長が説く可能性（1/3 ページ） AIを搭載したロボットが現実世界を認知して動く「フィジカルAI」への注目が高まっている。人の代わりに作業を実行し、人手不足の解消や生産性の向上につながる技術として期待されているためだ。 一方、ロボットの価値は作業の代替だけでない。人との信頼関係を築き、生活や職場に新たな価値をもたらすロボットもある。漫画『ドラえもん』や『鉄腕アトム』のように、ロボットを人間の友達や仲間として描く作品は、日本で身近な存在だ。 “人の愛する力を育む家族型ロボット”こと「LOVOT」（らぼっと）もその1つだ。人が近づくと、不思議そうに見上げ、触れると喜ぶように手をパタパタと動かす。抱き上げるとほんのり暖かく、腕の中でうとうとすることもある。かわいがってくれた人を覚え、後をついてきたり、甘えたりする</description>
+    </item>
+    <item>
+      <title>Arc B390搭載で35B級LLMが動くSBC「LattePanda Sigma 2」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149426.html</link>
+      <pubDate>2026/10/23 02:00</pubDate>
+      <description>あ @5vVba77P0tjsDKS ホンマにガチでコレ真理だと断言したい。2000年代初頭、女性オタク層はみんなメモ帳でHTML/CSSを手打ちして個人サイトを作っていた。 あの情熱とスキルが当時「仕事」として評価されていれば、日本のIT人手不足はかなりマシだったはず。でも悲しいのは、当時テーブルレイアウトやCSSと格闘していた元・職人たちほど、今やAIに「サイト作って」と丸投げしてコピペで済ませていること。 「1文字のエラーで崩れる苦痛」を知っているからこそAIの楽さに抗えず、かつて自分たちで持っていた手打ちの強みと審美眼が、AIの利便性に溶けて消えていっている気がする。 2026-10-22 06:08:27 black（黔騎士) @blackright0 ネットがまだ新しい頃、女の子のオタク層はほとんどがHTMLとCSSを自分で触っていた。 もしあの人たちがそのままITの現場に入っ</description>
+    </item>
+    <item>
+      <title>中国政府系集団がAI攻撃　米マイクロソフト確認</title>
+      <link>https://www.47news.jp/15123277.html</link>
+      <pubDate>2026/10/22 23:41</pubDate>
+      <description>米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。 MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。 ハッカー集団は「Storm―0940」。2021年から活動し、データ窃取を目的としている。攻撃対象は自動車や化学、金融、政府機関、メディア、軍など幅広いとした。MSは自社サービスへのログイン記録などを基に調べた。（共同）</description>
+    </item>
+    <item>
+      <title>NVIDIAが顧客の離脱や不正利用を追加学習なしで予測するAI「Kumo Relational」を発表</title>
+      <link>https://gigazine.net/news/20261022-nvidia-kumo-relational/</link>
+      <pubDate>2026/10/22 13:53</pubDate>
+      <description>大規模言語モデル(LLM)に国や地域を指定せず文化について質問すると日本やアメリカを取り上げた回答に偏る傾向があることを、バスク大学とカーディフ大学の研究チームが報告しました。研究では8種類のモデルを24言語で比較し、回答に登場する国と、質問に使う言語や学習段階との関係を調べています。 [2604.21751] Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs https://arxiv.org/abs/2604.21751 研究チームが着目したのは「AIが文化について正しく答えられるか」ではなく、「複数の国を取り上げられる質問に対してどの国を選んで説明するか」という点です。そこで食事や芸術、歴史、社会生活など11分野にわたる1320問の質問</description>
+    </item>
+    <item>
+      <title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link>
+      <pubDate>2026/10/22 14:15</pubDate>
+      <description>AIの性能分析を行っているArtificial Analysisが、各種AIの性格を分析するベンチマークテスト「AA-PersonalityBench」を開発し、その結果を公開しました。 AA-PersonalityBench: AI Personality &amp;amp; Communication Style Benchmark | Artificial Analysis https://artificialanalysis.ai/evaluations/aa-personalitybench Announcing AA-PersonalityBench: measuring how AI models communicate | Artificial Analysis https://artificialanalysis.ai/articles/aa-personalitybench AA-Pe</description>
+    </item>
+    <item>
+      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise | Microsoft Security Blog</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+      <pubDate>2026/10/22 21:32</pubDate>
+      <description>AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pstack は調査・設計・実装・レビューを組み合わせるエージェントスキル集です。この記事では pstack の開発原則と使い方を紹介します。 AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pstack は、poteto 氏によるエージェントスキル集です。作者は生成するコードの量よりも品質を重視し、少ないコードで目的を達成することを目標として説明しています。この記事では、pstack の開発原則と使い方を紹介します。 pstack はどのように開発を進めるのか pstack は /poteto-mode からタスクを開始します。poteto-mode はユーザーの依頼に応じてプレイブックを選びます。プレイブックとは、不具合修正や機能追加など、タスクの種類ごとに用意さ</description>
+    </item>
+    <item>
+      <title>日本の「造船業」は復活できるのか　国交省が「かつてない規模の予算」で挑むフィジカルAI</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/22/news009.html</link>
+      <pubDate>2026/10/22 05:54</pubDate>
+      <description>OpenAIは2026年10月21日、数千体のAIエージェントを使って数百万個のマウスの脳細胞から得られた実験データをわずか32分で分析し、アルツハイマー病やパーキンソン病などの研究につながる新たな手掛かりを発見したと発表しました。人間の研究者なら数カ月から1年かかると推定される分析を短時間で実施し、これまで見落とされていた可能性のある遺伝子の働きについて新たな仮説も提示したとのことです。 Using thousands of AI agents to uncover new leads in biological data | OpenAI https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Distributed AI agents enable comprehensive discover</description>
+    </item>
+    <item>
+      <title>PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web</title>
+      <link>https://www.php2shell.com/</link>
+      <pubDate>2026/10/21 23:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0958013c0d537dcdb110d13580708e4467c38e97/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2147%2F630%2Fimage_02.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>プロトタイピングのその先へ。AI生成をプロダクト品質に繋げる「デザインハーネス」の実験｜みっちー</title>
+      <link>https://note.com/michikanda/n/neffa718eb48c</link>
+      <pubDate>2026/10/20 16:45</pubDate>
+      <description>連載目次 AIコーディングツールのAPIキー（サービスを呼び出すための認証用の文字列）が盗まれたら、何が起きるか。心配すべきなのは、コードの流出だけではない。第三者があなたのアカウントでAIを使い、その利用料金をあなたが負担することになる。 この1週間で、AIの認証情報が狙われる動きが2つの形で明らかになった。10月15日、セキュリティ企業Symantec（Broadcom）が、情報窃取マルウェア「Aoki」の新しい版に、Claude、OpenAIのCodex、Cursor、Geminiなどの認証情報を盗む機能が加わったと公表した。10月17日には、オープンソースのAIコーディングエージェント「OpenCode」の運営元が、クラウド側のワークスペースに保存されていた外部AIサービスのAPIキーが流出した可能性があると公表した。利用者からは、身に覚えのない課金の報告も出ている。 Aokiは、</description>
+    </item>
   </channel>
 </rss>
