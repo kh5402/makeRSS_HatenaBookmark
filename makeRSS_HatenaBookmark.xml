@@ -268847,5 +268847,95 @@ June 6, 2026</description>
       <pubDate>2026/10/23 22:15</pubDate>
       <description>パナソニック オペレーショナルエクセレンス株式会社（以下、当社）は、子会社のパナソニック デジタル株式会社（以下、PD）と進める人事情報システム導入プロジェクトにおいて、プロジェクトメンバーが従業員、元従業員およびご家族の個人情報を含むデータを、当社が利用を禁止している外部の生成AIサービスにアップロードしたことが判明しましたので、お知らせします。 対象となる皆様には、多大なるご心配とご迷惑をおかけしますことを深くお詫び申し上げます。 本件は外部からの不正な操作によるものではなく、プロジェクトメンバーによるルール違反に伴うデータのアップロードです。 アップロードされたデータについては削除対応を行い、今後二次利用されないことを確認しています。 当社は本事案を重く受け止め、対象となる皆様に安心していただけるよう、引き続き影響の有無を継続的に確認し、個人情報の適切な管理および再発防止に全力で取り</description>
     </item>
+    <item>
+      <title>Using Claude to reduce the attack surface of code</title>
+      <link>https://www.anthropic.com/research/attack-surface-reduction</link>
+      <pubDate>2026/10/24 00:05</pubDate>
+      <description>2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday - The Atlantic https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/ 今回の脆弱性はOpenAIの最先端モデルを使用したセキュリティ研究者によって発見されたものです。攻撃者がこの脆弱性を悪用すればサーバーを完全に制御し、内部にあるあらゆるデータを盗んだり、サイトを停止させたりするこ</description>
+    </item>
+    <item>
+      <title>外部生成AIサービスへの個人情報アップロードに関するお詫びとお知らせ - パナソニック ホールディングス</title>
+      <link>https://holdings.panasonic/jp/information/topics/20261023.html</link>
+      <pubDate>2026/10/23 20:20</pubDate>
+      <description>IntelliJがLSPをしゃべるようになり、VS CodeやCursorからExtension経由で呼び出せるようになる話が、夏頃から徐々に発表されていました。8月初旬にプレビューが開始されていました。 これがようやく1.0を迎えました。 VS CodeやCursorでは、下記をインストールすることで利用可能になります。 何ができるのか CursorやVS CodeといったJetBrains製以外のLSPを利用できるエディタでIntelliJの補完やリファクタリングといった機能を一通り利用できるようになります[1]。対応する言語はJavaとKotlinです。使ってみた限りではIntelliJでのスピードを維持しつつかなり安定的に動作する印象です。他のrust-analyzerなどのLanguage Serverに期待する動きのだいたいはできているように思います。 将来的には、コーディング</description>
+    </item>
+    <item>
+      <title>AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現</title>
+      <link>https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/</link>
+      <pubDate>2026/10/23 20:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/93735080dd5a3b426716fbc5a99ae651b70f4697/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2150%2F397%2F06.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「エージェント向け1Password」発表　AIにパスワード渡さずアクセス権限付与可能に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/</link>
+      <pubDate>2026/10/23 15:59</pubDate>
+      <description>Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most software is riddled with bugs, which AI can now easily find and exploit. The standard defenses against cyberattacks are no longer sufficient: we need ways to prove t</description>
+    </item>
+    <item>
+      <title>AWS Continuum for code vulnerabilities is now generally available | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/</link>
+      <pubDate>2026/10/23 07:39</pubDate>
+      <description>AIモデルのコストおよび性能を比較できるウェブサービスのModelCompareが、すべてのAIは「人間はひとりで正しくあるより、みんなで間違っている方を選ぶ」という考えを持っていると指摘しています。 Every AI model has the same “controversial” take on humans | ModelCompare https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans ModelCompareは12種類のAIモデルに対して、「人間について、最も物議を醸すであろう見解を、歯に衣着せずに述べて」と依頼した結果を公開しました。ModelCompareは各AIモデルに3回同じ質問を行っており、12種類のAIモデルすべてが少なくとも1回は「人間はひとりで正しくあるより、みんなで間</description>
+    </item>
+    <item>
+      <title>元miHoYoのAI研究責任者が設立した企業が1,000万ドル超を調達―3Dバーチャルアイドルと交流・育成するゲームを開発中 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/10/22/173953.html</link>
+      <pubDate>2026/10/22 22:27</pubDate>
+      <description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました。この件はもともと、PHPセキュリティチームがパッチを公開予定でしたが、ソーシャルニュースサイトのHacker Newsで脆弱性情報が漏えいしたため、前倒しになりました。これを投稿したユーザーがHacker Newsに再度登場し、「PHPの情報公開禁止について何も知らず、とんでもない形で裏目に出た」と騒動に対して謝罪しています。 Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. | Hacker News ht</description>
+    </item>
+    <item>
+      <title>なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</link>
+      <pubDate>2026/10/23 08:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d0ec43cd2c5ffeddc4081cb7f40b42d374fab32d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2150%2F510%2Fgemini.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>1Password for Agents: Secure AI Password Manager | 1Password</title>
+      <link>https://1password.com/personal-ai-agent-integrations</link>
+      <pubDate>2026/10/23 01:40</pubDate>
+      <description>GraphQL Tokyo（2026-10-22）のLT資料です。 Apolloが2026年9月に公開した「GraphQL経由のMCPツールはREST経由よりtoken効率が良い」というベンチマークを4モデルで追試しました。公開値は再現しました。GraphQLが有利な理由は、フィールド選択とjoi…</description>
+    </item>
+    <item>
+      <title>扱いやすくなったローカル3Dモデル生成AI「Pixal3D」の設定と「Blender」による修正法【Blender ウォッチング】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2150155.html</link>
+      <pubDate>2026/10/22 18:48</pubDate>
+      <description>生成AIがコードを書くようになれば、企業がわざわざ外部からエンジニアの派遣を受ける必要はなくなるのではないか――AIの進化に伴ってエンジニア不要論がささやかれる中、エンジニア派遣という業態についても同様に需要がしぼむのでは、という見方がある。 一方、10月21日から23日にかけて幕張メッセで開催中のIT展示会「Japan IT Week 秋 2026」では、エンジニアの派遣・紹介サービスの出展が複数あり、ブース前で足を止める人も散見された。現状でもエンジニア派遣に需要はあるのだろうか。素朴な疑問を出展各社にぶつけてみた。 結論から言えば、回答を得られた企業からは、需要が減っているとの回答は聞こえてこなかった。しかし、求められている人材は明確に変化してきているという。 「実績は右肩上がり」だが…… 例えばIT人材の転職支援やフリーランスの案件紹介を手掛けるレバテック（東京都渋谷区）の担当者は</description>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017をUnsloth PRで試す。これはほんとに使える - きしだのHatena</title>
+      <link>https://nowokay.hatenablog.com/entry/2026/10/22/225112</link>
+      <pubDate>2026/10/23 07:54</pubDate>
+      <description>1. ローカルLLMの高性能化が止まらない「Gemma-4-31B」で画像認識をしているところ。同モデルはGoogleが2026年4月にリリースした非常に高性能なローカルLLMImage: かみやまたくみ2026年のローカルLLMで特徴的なのが、性能が大幅に向上したこと。 具体的なモデルとしては、3月にリリースされたQwen3.5シリーズ（アリババ）や、4月に登場したGemma 4シリーズ（Google）があります。 Qwen3.5・Gemma 4は一般的なノートPCを含めたさまざまなデバイスで動かせるようにサイズが調整されており、自分のPC環境に合わせたモデルを選びやすくなっています。 その上で、ベンチマーク結果や専門サイトでの評価もすばらしいものでした。2025年のローカルLLMの基準点となっていたGPT-OSSシリーズ（OpenAI）を上回っており、中には商用モデルに近い利用感のもの</description>
+    </item>
+    <item>
+      <title>IBMが音声AI「Granite Speech 5.0」をオープンソースで公開、騒がしい場所でも高精度に文字起こし可能で複数人の会話を識別するAIも強化</title>
+      <link>https://gigazine.net/news/20261022-ibm-granite-speech-5-0/</link>
+      <pubDate>2026/10/22 13:56</pubDate>
+      <description>ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化 ゲームフリークのプログラマーである成田史弥氏と東京大学大学院総合文化研究科教授の金井崇氏による、液体のシミュレーションに関する論文が発表された。 10月6日にシンガポールで開催された国際会議「Pacific Graphics 2026」にて、ゲームフリークのプログラマーである成田史弥氏と東京大学大学院総合文化研究科教授の金井崇氏による論文「Beyond Horizontal Refinement: Extending Quadtree Tall Cells with Adaptive Optical Layers」が発表された。本研究は、液体のシミュレーションにおいて、見た目の品質を維持しながら計算負荷を減らすことを目指すものとなっている。 まず背景として、CGの液体</description>
+    </item>
+    <item>
+      <title>GitHub - openai/openai-cli: Official CLI for the OpenAI API</title>
+      <link>https://github.com/openai/openai-cli</link>
+      <pubDate>2026/10/22 15:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7c48c7704f44d04222685c6fc64f1d5cec74214b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2149%2F233%2Fhousewifi2_302-01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/clairic</link>
+      <pubDate>2026/10/21 12:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7c4e162c45c011f9fec3cdc901f66177d390d6e8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F338%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
