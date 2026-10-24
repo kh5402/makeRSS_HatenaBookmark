@@ -268988,5 +268988,44 @@ June 6, 2026</description>
       <pubDate>2026/10/22 10:11</pubDate>
       <description>生成AIが描いた部分まで、すべて指示したわけではない 画像補正は、AIが生成しすぎた表現を調整するため 髪型から作り直すために、費用をかけるのか AI画像補正の技術を、本当に必要なところで活用したい ボクが生成AIの画像に求めているもの 批評するのは得意でも、意見を求められると沈黙ですか？ 生成AIで作った画像について、さまざまなご意見をいただきました。髪型がおかしい、頭のバランスが悪い、眉毛がどうこう……。細かな部分まで指摘されることもあります。 ただ、ボクがそうした部分まで細かく指示して画像を生成したわけではありません。AIが独自に描き出した部分について、あたかもボクが意図的に作ったかのように批評されても、正直なところ困ってしまいます。 今回は、ボクが生成AIで画像を作る際に何を考えているのか、画像補正をどのような目的で行っているのか、少しお話ししたいと思います。 quadro.hat</description>
     </item>
+    <item>
+      <title>顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発</title>
+      <link>https://www.cnn.co.jp/fringe/35253896.html</link>
+      <pubDate>2026/10/24 14:30</pubDate>
+      <description>Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. If you’ve built an agent in Claude Platform that includes multiple subagents, see which may make sense to fold into the main agent l</description>
+    </item>
+    <item>
+      <title>社内SEがAIでやらかして職場が阿鼻叫喚の地獄絵図に陥った</title>
+      <link>https://anond.hatelabo.jp/20261024120028</link>
+      <pubDate>2026/10/24 12:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/da95ed3c9f41a694423ca1dbc6093e920f429aa1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F898%2Fs.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/</link>
+      <pubDate>2026/10/24 00:20</pubDate>
+      <description>情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査</description>
+    </item>
+    <item>
+      <title>本番コードのAI生成率99％　ソニー銀行は「勘定系開発にClaude Code適用」をどう実現？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</link>
+      <pubDate>2026/10/23 21:21</pubDate>
+      <description>対象の情報は、日本国内のパナソニックグループの従業員約7万5000人、元従業員約17万8000人と、その家族計約8万1000人。従業員と元従業員については社員番号、住所、電話番号、メールアドレスが含まれ、氏名は含まれていない。一方、家族については、緊急連絡先として登録された氏名、住所、電話番号、メールアドレスが含まれる。 パナソニック オペレーショナルエクセレンスによると、当該社員は問題の発覚直後に、生成AIサービス上のチャット履歴と業務用PC内の対象データを削除した。また、同社がサービスの運営事業者に確認したところ、アップロード時点でデータをAI学習に利用する機能は無効になっていたため、当該データが他の利用者への回答に使われることはないとしている。 ただし、運営事業者はセキュリティや法令順守のため、削除されたデータを30日間保持しており、今回のデータは10月25日まで保管される。 同社は</description>
+    </item>
+    <item>
+      <title>PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画／USB Webカメラ・ネットワークカメラに対応、映像の解析も録画もPC内で完結</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2150760.html</link>
+      <pubDate>2026/10/23 17:19</pubDate>
+      <description>Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models can do for cyber defense. In this post, we summarize some of our initial research into automated attack s</description>
+    </item>
+    <item>
+      <title>2026年のデータセンター債は半分近くがジャンク級、3年以内に破綻が相次ぐとの警告も | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/106783</link>
+      <pubDate>2026/10/21 20:09</pubDate>
+      <description>AI uncovers critical vulnerabilities in the backbone of the webPHP2Shell is a family of critical vulnerabilities recently fixed in core PHP, with severity reaching CVSS 9.2, that can allow unauthenticated attackers to execute code or expose sensitive process memory. PHP powers approximately 70% of websites, including platforms such as WordPress, Drupal and Wikipedia&amp;#39;s MediaWiki. Research and respo</description>
+    </item>
   </channel>
 </rss>
