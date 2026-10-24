@@ -269027,5 +269027,44 @@ June 6, 2026</description>
       <pubDate>2026/10/21 20:09</pubDate>
       <description>AI uncovers critical vulnerabilities in the backbone of the webPHP2Shell is a family of critical vulnerabilities recently fixed in core PHP, with severity reaching CVSS 9.2, that can allow unauthenticated attackers to execute code or expose sensitive process memory. PHP powers approximately 70% of websites, including platforms such as WordPress, Drupal and Wikipedia&amp;#39;s MediaWiki. Research and respo</description>
     </item>
+    <item>
+      <title>OpenAI、訓練中の最先端AIをインターネットから遮断すると発表。モデルの不正アクセス受け | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/24/5625.html</link>
+      <pubDate>2026/10/24 14:40</pubDate>
+      <description>顔のさまざまな部位の分析から生物学的年齢とがん生存率を判定するAIモデルが開発された/Mass General Brigham via CNN Newsource （CNN） 顔写真を撮るだけでがん患者の全般的な健康状態や余命が判定できるという人工知能（AI）モデルが開発された。医師によるがん患者の生存可能性診断や最善の治療法の見極めを支援できるツールとして期待されている。 AIモデルは米マス・ジェネラル・ブリガムの研究チームが開発し、10月19日の科学誌ランセット・デジタル・ヘルスに発表した。 「1枚の顔写真だけで死亡リスクの兆候を検出できることが分かって非常に驚いた」。論文著者のレイモンド・マック氏はそうコメントしている。 同モデルには顔の画像4000万枚あまりを学習させており、顔のさまざまな部位を分析して、がん患者の全般的な健康状態と、細胞や身体の加齢度を表す生物学的年齢を推定する。</description>
+    </item>
+    <item>
+      <title>Building agents: When to fold subagents into your main agent loop</title>
+      <link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
+      <pubDate>2026/10/24 13:26</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/010a07a279d873a8661246e4096be56135b4cef8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2150%2F830%2F0500.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>日本のXでインプレ稼ぎ、政治的、排外的話題がやっぱりバズりがち - 電脳塵芥</title>
+      <link>https://nou-yunyun.hatenablog.com/entry/2026/10/24/120000</link>
+      <pubDate>2026/10/24 13:59</pubDate>
+      <description>ガチで社内が阿鼻叫喚の地獄絵図になっていた。 理由はここ最近騒がせてるPHPの脆弱性ではない。 我が社でもAIを業務支援に導入するっていう話を、協力にIT部門の社内SEのおっさん…まあ俺は結構仲がよかったというか、共通趣味で向こうからよく話しかけてくる人なんだが、が推し進めていて、それをIT部門だけでパイロット導入した後に全社で導入することとなった。 俺は営業部門なのでそこまで詳しいことはわからんのだが、ようはAIで過去の顧客のやり取りの議事録含めて大量の「メタデータ」というのをAIに聞いたらAIが探して持ってきてくれる、というシステムらしい 「こういう質問受けたんだけど、同じような質問過去に受けたときどんな答え方したか教えて」みたいなのを聞いたら、検索していっぱい拾ってきてくれるって感じ。 結構便利じゃん。とみんなは使っていたのだが、俺はどうにも以前はてなですげえ騒ぎになった「AIに自分</description>
+    </item>
+    <item>
+      <title>PHP脆弱性問題は“また起こる”　事件の裏にあったエンジニアの根深い課題</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news038.html</link>
+      <pubDate>2026/10/23 09:37</pubDate>
+      <description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs are making formal software verification feasible at a much larger scale \ Anthropic https://www.anthropic.com/research/formal-verification 「形式的検証」はソフトウェアのコードを数学的手法で表現してバグがないことを証明する手法です。形式的検証というアイデア自体は新しいものではありませんが、実際の証明作業には多くの労力を費やす必要があるため「飛行機に搭載される</description>
+    </item>
+    <item>
+      <title>人が読むからAIが読むへ、NTTが目指すAI-Native開発への転換</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2150519.html</link>
+      <pubDate>2026/10/23 10:31</pubDate>
+      <description>パナソニック オペレーショナルエクセレンス株式会社（以下、当社）は、子会社のパナソニック デジタル株式会社（以下、PD）と進める人事情報システム導入プロジェクトにおいて、プロジェクトメンバーが従業員、元従業員およびご家族の個人情報を含むデータを、当社が利用を禁止している外部の生成AIサービスにアップロードしたことが判明しましたので、お知らせします。 対象となる皆様には、多大なるご心配とご迷惑をおかけしますことを深くお詫び申し上げます。 本件は外部からの不正な操作によるものではなく、プロジェクトメンバーによるルール違反に伴うデータのアップロードです。 アップロードされたデータについては削除対応を行い、今後二次利用されないことを確認しています。 当社は本事案を重く受け止め、対象となる皆様に安心していただけるよう、引き続き影響の有無を継続的に確認し、個人情報の適切な管理および再発防止に全力で取り</description>
+    </item>
+    <item>
+      <title>やることがないAIは何をする？ 無人島に30時間置き去りにした結果</title>
+      <link>https://www.technologyreview.jp/s/393441/ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play/</link>
+      <pubDate>2026/10/20 10:41</pubDate>
+      <description>1. ローカルLLMの高性能化が止まらない「Gemma-4-31B」で画像認識をしているところ。同モデルはGoogleが2026年4月にリリースした非常に高性能なローカルLLMImage: かみやまたくみ2026年のローカルLLMで特徴的なのが、性能が大幅に向上したこと。 具体的なモデルとしては、3月にリリースされたQwen3.5シリーズ（アリババ）や、4月に登場したGemma 4シリーズ（Google）があります。 Qwen3.5・Gemma 4は一般的なノートPCを含めたさまざまなデバイスで動かせるようにサイズが調整されており、自分のPC環境に合わせたモデルを選びやすくなっています。 その上で、ベンチマーク結果や専門サイトでの評価もすばらしいものでした。2025年のローカルLLMの基準点となっていたGPT-OSSシリーズ（OpenAI）を上回っており、中には商用モデルに近い利用感のもの</description>
+    </item>
   </channel>
 </rss>
