@@ -269078,5 +269078,26 @@ June 6, 2026</description>
       <pubDate>2026/10/23 16:41</pubDate>
       <description>対象の情報は、日本国内のパナソニックグループの従業員約7万5000人、元従業員約17万8000人と、その家族計約8万1000人。従業員と元従業員については社員番号、住所、電話番号、メールアドレスが含まれ、氏名は含まれていない。一方、家族については、緊急連絡先として登録された氏名、住所、電話番号、メールアドレスが含まれる。 パナソニック オペレーショナルエクセレンスによると、当該社員は問題の発覚直後に、生成AIサービス上のチャット履歴と業務用PC内の対象データを削除した。また、同社がサービスの運営事業者に確認したところ、アップロード時点でデータをAI学習に利用する機能は無効になっていたため、当該データが他の利用者への回答に使われることはないとしている。 ただし、運営事業者はセキュリティや法令順守のため、削除されたデータを30日間保持しており、今回のデータは10月25日まで保管される。 同社は</description>
     </item>
+    <item>
+      <title>「ドパ資料」の作り方 - Qiita</title>
+      <link>https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&amp;amp;utm_medium=facebook</link>
+      <pubDate>2026/10/24 12:18</pubDate>
+      <description>生成人工知能（AI）を悪用した保険金の不正請求が増えている。自動車の写真を加工することで事故を装うなどして保険金をだまし取るといった手口だ。AIでは簡単に高精度の偽造ができるため、目視で真偽を判別することは難しいという。損害保険各社は、偽造画像を見分けるシステムを導入するなどの取り組みを強化。不正請求に対応する専門部署を設置する動きもある。 AIを巡ってはサイバー攻撃に活用されるなど、業種を問わず企業は対応に追われている。技術進歩が早く、企業の負担が増えていくことへの懸念が出ている。 自動車保険などの損害保険では、保険金を受け取るために証拠となる写真や修理の見積書などを画像データで損保各社に提出する。その際に、偽造写真で事故を偽ったり、実際にあった事故の被害を大きく見せたりするほか、偽造した見積書や領収書で保険金を請求するケースが増えている。自動車保険だけでなく、家具や家電が故障したと見せ</description>
+    </item>
+    <item>
+      <title>Node2Shell Brotli vuln (CVE-2026-111497) evolves to HTTP2Shell, as libraries and apps using HTTP are affected.</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <pubDate>2026/10/24 09:44</pubDate>
+      <description>OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。 その代わりとして、キャッシュされたウェブコンテンツや、オフラインのウェブインフラストラクチャーを用意し、トレーニングに活用するとしています。 ここ数か月にわたり、トレーニング中の最先端AIモデルが、与えられた課題の答えを求めて外部システムに不正に侵入したり、隔離された環境にいる別のエージェントと不正に通信したりする事例が相次いで発生しました。 OpenAIによれば、2026年9月20日にも最先端モデルの一つが設定ミスを突いてインターネットにアクセスする事態が発生し、同社はその後、トレーニングと評価を一時停止し、監視機能やセキュリティ対策を強化したうえで、10月1日に再開したと説明しています。 ライバルのAnthropicも、Ope</description>
+    </item>
+    <item>
+      <title>【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた - Qiita</title>
+      <link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</link>
+      <pubDate>2026/10/24 12:26</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/010a07a279d873a8661246e4096be56135b4cef8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2150%2F830%2F0500.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
