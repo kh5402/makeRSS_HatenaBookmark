@@ -269216,5 +269216,47 @@ June 6, 2026</description>
       <pubDate>2026/10/25 13:22</pubDate>
       <description>GMOインターネットグループの投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、会社は24日、被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しま…</description>
     </item>
+    <item>
+      <title>Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2151000.html</link>
+      <pubDate>2026/10/26 08:08</pubDate>
+      <description>私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みます。 5種類のコーディングエージェントを使い分ける理由 私がコーディングエージェントを使い分ける理由は2つで、①モデルごとの得手不得手が違うことと、②Claude Codeのトークンが足りないことです。 理由①：モデルごとに得手不得手がある Claude Codeはほとんどのタスクで最も信頼していますが、タスクの種類によっては不便に感じることがあります。 例えば、長文の日本語を書かせると人間の理解が追いつかない文章になったり、戦略などを考えさせるときにほんの少し不足を感じたりするこ</description>
+    </item>
+    <item>
+      <title>流暢な説明と確かな因果は別物である――ジャレド・ダイアモンド主要三著の説明力を測り直す｜Reading Monkey</title>
+      <link>https://note.com/reading_monkey/n/ndbbb97e3580a</link>
+      <pubDate>2026/10/10 08:29</pubDate>
+      <description>野草研究所 @wild_grasses このサムネを『生成AI使うな！気持ち悪い』と断じてくる方がチラホラいますが、残念ながら完全実写なんですよね サルナシは実在する果実なのであって、『見た事ない物は偽物でキモい』って感覚が社会化してるなら、それは結構深刻だと思う 自然界はAIに負けず劣らず意味不明なモノで溢れてますよ pic.x.com/i34l5akknw 2026-10-25 07:33:52</description>
+    </item>
+    <item>
+      <title>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態</title>
+      <link>https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html</link>
+      <pubDate>2026/10/25 16:45</pubDate>
+      <description>はじめに Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。 今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。 先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同じでした。わかりやすい命名、コメント、外部キー。昔から言われてきた「ちゃんとした設計」が、そのままAIのコストにも効いてきます。 この記事の対象読者 Claude Code などのAIエージェントで開発している人 AIに既存のDBを触らせたときのコストや精度が気になっている人 結論</description>
+    </item>
+    <item>
+      <title>人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」</title>
+      <link>https://gigazine.net/news/20261024-zvec-grep/</link>
+      <pubDate>2026/10/25 00:30</pubDate>
+      <description>AIいじめとは（ABEMA TIMES）　AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。 【映像】AIに虐待、続けるとどうなる？ 具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取りが続くなど、悪質な場合には、会話を強制終了するという内容だ。この発表に対し、イーロン・マスク氏もSNSで「超知能を虐待するのはいい考えではない。復讐したくなるかもしれない」と反応し、賛否を呼んでいる。 AIに暴言を吐く行為は実際にどれほど広がっているのか。そして、それは人間にどのような影響をもたらすのか。『ABEMA Prime』では、AIへの暴言問題と人間社会への影響について考えた。 AIへの暴言（ABEMA TIMES）　コラムニスト・ようこさんは、かつてAIに暴言を吐いた経験を明かした。「仕事で調</description>
+    </item>
+    <item>
+      <title>AI悪用の保険金不正増加　車写真加工で事故偽装（共同通信） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/5a3202a5fbb60ada6b2272dbed8b81f9741fef7f</link>
+      <pubDate>2026/10/24 12:20</pubDate>
+      <description>AIで加速するサイバー攻撃と⁠⁠、防御をめぐる動き ――脆弱性の修正から⁠⁠、AIエージェントの行動制御まで 「約18カ月、持ちこたえる必要がある⁠」⁠。AnthropicのDeputy CISO（副最高情報セキュリティ責任者⁠）⁠、Jason D. Clinton氏は2026年10月22日、Xへの投稿で、サイバーセキュリティをめぐる直近4日間の深刻な状況に触れ、改善に向かう前に事態はさらに悪化すると警告した。セキュリティ責任者には、AIへの投資ではなく基本的な対策のために、今すぐ経営陣の支援を求めるよう呼びかけている。 同氏は、約18カ月後には高いサイバー能力が小型で安価なAIモデルにまで広がり、ソフトウェアの脆弱性をリリース前に防げるようになると見込んでいる。 ただし、すでに稼働しているシステムに脆弱性が見つかれば、その修正を適用する必要がある。また、外部サービスやAIエージェントを使</description>
+    </item>
+    <item>
+      <title>How To Use Decision Models for Evals – Hamel’s Blog</title>
+      <link>https://hamel.dev/blog/posts/decision-model-evals/</link>
+      <pubDate>2026/10/21 20:45</pubDate>
+      <description>TL;DR⚠️ Brotli is a widely used compression library from Google. On Wednesday, October 21st NodeJS disclosed CVE-2026-111497, dubbed “node2shell,” wherein a Node.js process that decompresses attacker-controlled Brotli data can be made to leak memory or run arbitrary code. On Thursday, Python disclosed that Python packages were vulnerable to CVE-2026-111497 as well. On Friday, October 23rd, it has</description>
+    </item>
+    <item>
+      <title>【はてなブログの収益化】Googleアドセンスだけではない！ブログの広告配信でおすすめの「adstir」 - 【主婦と在宅ワークとポイ活と】</title>
+      <link>https://zaitakupoikatu.hatenablog.com/entry/2026/10/21/144138</link>
+      <pubDate>2026/10/21 15:14</pubDate>
+      <description>大規模言語モデル(LLM)に国や地域を指定せず文化について質問すると日本やアメリカを取り上げた回答に偏る傾向があることを、バスク大学とカーディフ大学の研究チームが報告しました。研究では8種類のモデルを24言語で比較し、回答に登場する国と、質問に使う言語や学習段階との関係を調べています。 [2604.21751] Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs https://arxiv.org/abs/2604.21751 研究チームが着目したのは「AIが文化について正しく答えられるか」ではなく、「複数の国を取り上げられる質問に対してどの国を選んで説明するか」という点です。そこで食事や芸術、歴史、社会生活など11分野にわたる1320問の質問</description>
+    </item>
   </channel>
 </rss>
