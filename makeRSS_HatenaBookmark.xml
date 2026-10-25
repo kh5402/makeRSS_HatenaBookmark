@@ -269204,5 +269204,17 @@ June 6, 2026</description>
       <pubDate>2026/10/24 04:10</pubDate>
       <description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 RIPL: Real-time Intelligence When Every Millisecond Counts | Blog | Liquid AI https://www.liquid.ai/blog/low-latency 「検索ランキング生成」「商品レコメンドシステム」「決済承認」といった処理にAIを用いる場合は、いかに遅延を小さくするかが重要となります。Liquid RIPLは低遅延性を重視して開発された推論エンジンで、Liquid AI製モデルと組み合わせて高速な応答を実現します。 以下のグラフは「LFM2.5-350MをLiquid RIPLで実行(青および紫)」「LFM2.5-350MをvLLMで実行(灰色)」「Qwen3.5-0.8BをvLLMで実行(黒)」とい</description>
     </item>
+    <item>
+      <title>「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」</title>
+      <link>https://togetter.com/li/2762761</link>
+      <pubDate>2026/10/25 23:19</pubDate>
+      <description>「Posts」と「Pages」の違いEmDashの管理画面を開くと、記事を書く場所が「Posts」と「Pages」の2つに分かれています。WordPressでいう「投稿」と「固定ページ」にあたるものです。 Posts（投稿）：日々書いていくブログ記事。カテゴリーやタグを付けられて、記事一覧・RSS・カテゴリー別の一覧に並びます。公開日時を指定した予約投稿もできますPages（固定ページ）：お問い合わせ、プライバシーポリシー、ツールの使い方マニュアルのような、日付に関係なく置いておくページ。カテゴリーやタグは付けず、記事一覧にも並びません迷ったら「日付が意味を持つならPosts、ずっと同じ場所にあってほしいならPages」と考えると分かりやすいです。ちなみにこの記事はPostsで、お問い合わせフォームやプライバシーポリシーはPagesで作っています。 WordPressと違うのは、このPos</description>
+    </item>
+    <item>
+      <title>AIによる脆弱性発見が加速、専門家「混乱期の始まり」</title>
+      <link>https://www.afpbb.com/articles/-/3659236</link>
+      <pubDate>2026/10/25 13:22</pubDate>
+      <description>GMOインターネットグループの投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、会社は24日、被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しま…</description>
+    </item>
   </channel>
 </rss>
