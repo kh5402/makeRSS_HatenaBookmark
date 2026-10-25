@@ -269123,5 +269123,47 @@ June 6, 2026</description>
       <pubDate>2026/10/22 01:05</pubDate>
       <description>Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models can do for cyber defense. In this post, we summarize some of our initial research into automated attack s</description>
     </item>
+    <item>
+      <title>さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。</title>
+      <link>https://yurinchi2525.com/20261025emdash/</link>
+      <pubDate>2026/10/25 18:02</pubDate>
+      <description>AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。　具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取…</description>
+    </item>
+    <item>
+      <title>「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc</link>
+      <pubDate>2026/10/25 12:52</pubDate>
+      <description>「私はもうClaudeにプロンプトを打っていない。ループが走っていて、そのループがClaudeにプロンプトを打ち、何をすべきか判断している。私の仕事はループを書くことだ」――。 AIコーディングツールの代名詞となった「Claude Code」を生んだ米Anthropic（アンソロピック）のボリス・チェルニー（Boris Cherny）氏が、今春のカンファレンス登壇やメディアインタビューで繰り返しこう語った。 AIとの対話ツールを作った本人が、AIに話しかけることをやめたというのだ。同氏は2026年に入ってから自分では1行もコードを書いておらず、スマートフォンから1日に何十本ものプルリクエスト（コード変更の提案）を出して承認しているだけだという。 プロンプトを書くのではなく、AIが自律的に仕事を回し続ける「ループ」を設計する。この新しい仕事のやり方は「ループエンジニアリング」と名付けられ、米</description>
+    </item>
+    <item>
+      <title>AI ネイティブの SDLC プレイブック</title>
+      <link>https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook</link>
+      <pubDate>2026/10/25 10:29</pubDate>
+      <description>僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いたのが8ヶ月前で、またこの数ヶ月で世界は加速したように感じる。 9月は特に毎週がクリスマスみたいで、GPT-6 Astra や DeepSeek など新しいAI技術が次々に出てきて興奮が止まらなかった。9月下旬の Claude Opus 5.5 の登場で最後の一撃を食らったように感じる。 Opus 5.5 は、僕にとって「自分よりも賢い」AIが現れた瞬間だった。仕事での技術的な問題をそのまま与えてみると、僕には思いつかないエレガントな解決策でかつ完成した実装を出してきて「これにはもう勝てない」と思</description>
+    </item>
+    <item>
+      <title>neue cc - C# Kaigi 2026「C#の現在地 進化の歴史と、AI時代の.NET Everywhere」, MessagePack for C# v4 preview.1</title>
+      <link>https://neue.cc/2026/10/23_csharpkaigi_msgpack_v4preview.html</link>
+      <pubDate>2026/10/24 02:41</pubDate>
+      <description>Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. If you’ve built an agent in Claude Platform that includes multiple subagents, see which may make sense to fold into the main agent l</description>
+    </item>
+    <item>
+      <title>決定的なフロントエンドアーキテクチャがいい</title>
+      <link>https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend</link>
+      <pubDate>2026/10/24 15:24</pubDate>
+      <description>Microsoftは10月21日、中国政府と関係があるとみられるハッカー集団がAIを使い、世界の数百の組織を狙うサイバー攻撃を自動化していたと報告した。標的を定めてから3時間未満で、組織のクラウド環境に対する高いアクセス権限を得た事例も複数あったという。 Microsoftが「Storm-0940」と呼ぶこの集団は、2021年から活動し、主に情報の窃取を目的としてきた。同社によると、少なくとも2026年9月からAIを使った侵入テストツール「ARTEX」を悪用し、政府機関や金融、自動車、航空宇宙・防衛、メディアなど幅広い分野を標的にしていた。 Microsoftによると、攻撃の大半は成功しなかったものの、多くの組織でクラウド環境への高いアクセス権限を獲得し、そのアクセスを維持できる状態にしていた。AIによって攻撃を高速化することで、防御側が不審な動きを検知しても、対応する前に侵入を進められる</description>
+    </item>
+    <item>
+      <title>GitHub - gamedev-skills/awesome-gamedev-agent-skills: 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), wi</title>
+      <link>https://github.com/gamedev-skills/awesome-gamedev-agent-skills</link>
+      <pubDate>2026/10/21 15:36</pubDate>
+      <description>佐川急便は23日、不正アクセスを受けたインターネットで荷物の配送状況を確認できるサービスについて、最大約5323万件で氏名や住所などの個人情報が流出した可能性があると発表した。</description>
+    </item>
+    <item>
+      <title>ひとりで作れる時代に、 判断をみんなで持つには。/ Build alone share judgment</title>
+      <link>https://speakerdeck.com/kgsi/build-alone-share-judgment</link>
+      <pubDate>2026/10/21 15:29</pubDate>
+      <description>ゲーム・エンタメ最新情報のファミ通.com取材・リポート任天堂・宮本茂氏の文化勲章受章が決定。『マリオ』『ゼルダ』『ピクミン』の生みの親。「“作る”とは何なのか。AIの発展でみんなが考える」。記者会見で語られた歩みと哲学</description>
+    </item>
   </channel>
 </rss>
