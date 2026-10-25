@@ -269099,5 +269099,29 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/010a07a279d873a8661246e4096be56135b4cef8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2150%2F830%2F0500.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>DevelopersIO 2026 TOKYO で「ガチで放置できる Claude Code実行環境の作り方」というタイトルで登壇しました #devio2026 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/devio2026-tokyo-claude-code-automode-unattended-environment/</link>
+      <pubDate>2026/10/24 16:56</pubDate>
+      <description>AIで加速するサイバー攻撃と⁠⁠、防御をめぐる動き ――脆弱性の修正から⁠⁠、AIエージェントの行動制御まで 「約18カ月、持ちこたえる必要がある⁠」⁠。AnthropicのDeputy CISO（副最高情報セキュリティ責任者⁠）⁠、Jason D. Clinton氏は2026年10月22日、Xへの投稿で、サイバーセキュリティをめぐる直近4日間の深刻な状況に触れ、改善に向かう前に事態はさらに悪化すると警告した。セキュリティ責任者には、AIへの投資ではなく基本的な対策のために、今すぐ経営陣の支援を求めるよう呼びかけている。 同氏は、約18カ月後には高いサイバー能力が小型で安価なAIモデルにまで広がり、ソフトウェアの脆弱性をリリース前に防げるようになると見込んでいる。 ただし、すでに稼働しているシステムに脆弱性が見つかれば、その修正を適用する必要がある。また、外部サービスやAIエージェントを使</description>
+    </item>
+    <item>
+      <title>中国系AIのARTEX、悪質改造が横行　公開停止後もサイバー攻撃に悪用か - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/</link>
+      <pubDate>2026/10/24 14:43</pubDate>
+      <description>TL;DR⚠️ Brotli is a widely used compression library from Google. On Wednesday, October 21st NodeJS disclosed CVE-2026-111497, dubbed “node2shell,” wherein a Node.js process that decompresses attacker-controlled Brotli data can be made to leak memory or run arbitrary code. On Thursday, Python disclosed that Python packages were vulnerable to CVE-2026-111497 as well. On Friday, October 23rd, it has</description>
+    </item>
+    <item>
+      <title>AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ</title>
+      <link>https://gigazine.net/news/20261023-ripl-inference-engine/</link>
+      <pubDate>2026/10/23 19:21</pubDate>
+      <description>チームみらいの安野貴博党首と高山聡史議員（国会対策委員長）は10月23日、AIの進化により高度なサイバー攻撃能力を誰でも手に入れられる状況にあるとして、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。現在公表されているインシデントは「氷山の一角に過ぎない」とし、今後はライフライン停止を伴う大規模な被害を想定すべきと警鐘を鳴らす。 提言は以下の7つ。 AI活用と人材増強による国の防御力底上げ：　フロンティアモデルへのアクセス権確保、オープンウェイトモデル利用環境の提供、国産サイバーセキュリティモデル開発支援、公的機関のセキュリティ人材増強など 攻撃の実態を把握し、教訓を防御に活用：　AISIなどによるAIのサイバー攻撃能力評価や実態調査、「サイバー版事故調査委員会」設置、注意喚起の一元化など 大規模サイバー攻撃に国が緊急対応で</description>
+    </item>
+    <item>
+      <title>「どうせAIががんを治す」たばこを吸い始めるAI研究者たち。パランティアCTOが語るシリコンバレーの「集団精神病」 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2610-ai-researchers-smoking-ai-cure-cancer-palantir-cto/</link>
+      <pubDate>2026/10/22 01:05</pubDate>
+      <description>Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models can do for cyber defense. In this post, we summarize some of our initial research into automated attack s</description>
+    </item>
   </channel>
 </rss>
