@@ -269312,5 +269312,29 @@ June 6, 2026</description>
       <pubDate>2026/10/23 19:31</pubDate>
       <description>AIで加速するサイバー攻撃と⁠⁠、防御をめぐる動き ――脆弱性の修正から⁠⁠、AIエージェントの行動制御まで 「約18カ月、持ちこたえる必要がある⁠」⁠。AnthropicのDeputy CISO（副最高情報セキュリティ責任者⁠）⁠、Jason D. Clinton氏は2026年10月22日、Xへの投稿で、サイバーセキュリティをめぐる直近4日間の深刻な状況に触れ、改善に向かう前に事態はさらに悪化すると警告した。セキュリティ責任者には、AIへの投資ではなく基本的な対策のために、今すぐ経営陣の支援を求めるよう呼びかけている。 同氏は、約18カ月後には高いサイバー能力が小型で安価なAIモデルにまで広がり、ソフトウェアの脆弱性をリリース前に防げるようになると見込んでいる。 ただし、すでに稼働しているシステムに脆弱性が見つかれば、その修正を適用する必要がある。また、外部サービスやAIエージェントを使</description>
     </item>
+    <item>
+      <title>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link>
+      <pubDate>2026/10/26 16:18</pubDate>
+      <description>報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニックでした。絶望というか」 「青いところが16時22分12秒にUSのドルを500万通貨という異常量を買って数秒で売りオーダーを出して、必ず“手数料”だけが500万通貨のUSドルを買うための“手数料”として発生した」 「400万ぐらい損を出すまでに1秒」 ▼損失のほとんどが“手数料” 50万ドル分のペソを買い、すぐにペソをドルに交換 ↓ 通貨交換による差額はほとんどないが、取引手数料による損失が発生 ▼GMO提供のサーバーが狙われたか 損失額約60</description>
+    </item>
+    <item>
+      <title>ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表　「人と話しているよう」</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/26/2000002574/</link>
+      <pubDate>2026/10/26 11:12</pubDate>
+      <description>BlockはTwitter創業者のジャック・ドーシー氏がCEOを務めるテクノロジー企業で、決済サービスのほか、AIエージェントやAI重視のコミュケーションツールなども開発しています。新たに、Blockが音声会話AI「Dessa」を発表しました。 Dessa - the Conversation Model trained only on speech https://block.xyz/dessa We believe voice is the most natural way to interact with intelligence, so we created Dessa, the most authentic full-duplex speech model ever built. Talking with it feels like talking with a person…f</description>
+    </item>
+    <item>
+      <title>はてなブックマークの新機能要望</title>
+      <link>https://anond.hatelabo.jp/20260826223144</link>
+      <pubDate>2026/10/25 20:47</pubDate>
+      <description>JR東日本などが開発するフィジカルAIロボット。線路内を自律走行し、周辺の支障物を検知する（JR東日本提供）鉄道設備の保守点検に、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する動きが広がっている。深刻化する人手不足の改善や作業の効率化が狙い。西武鉄道は変電所を自動巡回するロボットの実証実験を開始し、JR東日本は線路上の点検用ロボットの開発を進める。異常の早期発見や災害被害からの早期復旧なども期待され、保守業務の変革につながるか注目される。 西武鉄道は変電所を自動巡回西武鉄道池袋変電所（東京都豊島区）に足を踏み入れると、ロボットが自律走行し、所内の計器の数値を読み取って記録していた。ugo（東京都千代田区）が開発したロボット「ugo mini」を実証実験に導入している。 西武鉄道が変電所内で行う実証実験で用いるロボット「ugo mini」。AIを搭載し、</description>
+    </item>
+    <item>
+      <title>Meta、パーソナルAIエージェント「Muse」を日本で提供開始 | Metaについて</title>
+      <link>https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/</link>
+      <pubDate>2026/10/23 10:01</pubDate>
+      <description>IntelliJがLSPをしゃべるようになり、VS CodeやCursorからExtension経由で呼び出せるようになる話が、夏頃から徐々に発表されていました。8月初旬にプレビューが開始されていました。 これがようやく1.0を迎えました。 VS CodeやCursorでは、下記をインストールすることで利用可能になります。 何ができるのか CursorやVS CodeといったJetBrains製以外のLSPを利用できるエディタでIntelliJの補完やリファクタリングといった機能を一通り利用できるようになります[1]。対応する言語はJavaとKotlinです。使ってみた限りではIntelliJでのスピードを維持しつつかなり安定的に動作する印象です。他のrust-analyzerなどのLanguage Serverに期待する動きのだいたいはできているように思います。 将来的には、コーディング</description>
+    </item>
   </channel>
 </rss>
