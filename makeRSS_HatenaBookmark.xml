@@ -269336,5 +269336,98 @@ June 6, 2026</description>
       <pubDate>2026/10/23 10:01</pubDate>
       <description>IntelliJがLSPをしゃべるようになり、VS CodeやCursorからExtension経由で呼び出せるようになる話が、夏頃から徐々に発表されていました。8月初旬にプレビューが開始されていました。 これがようやく1.0を迎えました。 VS CodeやCursorでは、下記をインストールすることで利用可能になります。 何ができるのか CursorやVS CodeといったJetBrains製以外のLSPを利用できるエディタでIntelliJの補完やリファクタリングといった機能を一通り利用できるようになります[1]。対応する言語はJavaとKotlinです。使ってみた限りではIntelliJでのスピードを維持しつつかなり安定的に動作する印象です。他のrust-analyzerなどのLanguage Serverに期待する動きのだいたいはできているように思います。 将来的には、コーディング</description>
     </item>
+    <item>
+      <title>米AI「クロード」、有料閲覧制限を回避し選挙データに無許可アクセス</title>
+      <link>https://www.afpbb.com/articles/-/3659444</link>
+      <pubDate>2026/10/26 19:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6dcc4789f43e7302036297a3f1d03726e1e867f4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fdevio2024-media.developers.io%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1790870251%2Feyecatch%2Fsi3tizbwaamovt8yq1qm.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI時代のWindows業務開発の過去未来（1） 『ニンゲツを終わらせろ！』【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/2151208.html</link>
+      <pubDate>2026/10/26 19:36</pubDate>
+      <description>ChatGPTとGeminiはAI検索でよく使われる人気サービスの2大巨頭だが、その検索方法にはそれぞれに特徴がある。AIO対策事業などを展開するバクリは、その違いを銀行口座や預金に関する質問を使って検証した。すると、それぞれの相違点と類似点がよく現れた。 バクリは、銀行の口座および預金に関する質問485件をChatGPTとGeminiに2回ずつ出し、回答の根拠として参照したサイトを集計した。その結果、どちらも参照した割合がもっとも高かったのは金融機関の公式サイトだった。ChatGPTは82%、Geminiは54%と割合に多少の差はあるが、主要な参照先であることに変わりない。</description>
+    </item>
+    <item>
+      <title>AI の謎な説明文を直すスキル</title>
+      <link>https://zenn.dev/microsoft/articles/explain-before-shorten</link>
+      <pubDate>2026/10/26 14:49</pubDate>
+      <description>AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。 Anthropic&amp;#39;s Claude accessed Georgia voter data without authorization https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data Anthropic&amp;#39;s Claude accessed Georgia state vote count information behind paywall, Axios reports | Reuters https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-</description>
+    </item>
+    <item>
+      <title>Googleが「GmailやGoogleフォトの内容は広告に利用しない」という方針に例外を追加、AIとのデータ共有が広告に影響する可能性</title>
+      <link>https://gigazine.net/news/20261026-google-privacy-policy/</link>
+      <pubDate>2026/10/26 16:43</pubDate>
+      <description>皮膚がんの専門家が、最新の汎用AIモデルと10年前に登場した画像認識AIを比較する実験を行いました。古いAIに皮膚の画像を使った追加学習(ファインチューニング)を施したところ、最新の汎用AIモデルを大きく上回る正答率を記録したそうです。 A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | Lynch Lab https://lynchlab.net/llm-skin-cancer 実験を行ったのは、キングス・カレッジ・ロンドンに拠点を置き、AIやその他の手法で皮膚がんを予防する研究を行っているリンチ研究所の主任研究員、マグナス・リンチ博士です。リンチ氏は2026年10月時点で最も高性能なAIモデルの「GPT-6 Astra」と「Claude Fable 5.1」、そして2016年にリリースされたGo</description>
+    </item>
+    <item>
+      <title>ゲームのように移動可能な世界を生成できるAI「Hy-Nomas」がオープンモデルとして公開される、RTX 4090でローカル実行可能</title>
+      <link>https://gigazine.net/news/20261026-hy-nomas-interactive-world-model/</link>
+      <pubDate>2026/10/26 16:43</pubDate>
+      <description>大学生の「ほぼ全員」が生成AIを使っているとの調査結果や、学生の17％が「課題や試験にChatGPTを使っている」と回答した調査など、AIが学習に強い影響を与えていることが分かっています。そんな中、フィールズ賞の受賞歴もあるカリフォルニア大学バークレー校の数学者であるリチャード・ボルチャーズ氏は、「AIの使用は避けられない状況にあるため、宿題の正誤を採点するのは無意味」と発言しました。 AI use leads UC Berkeley math professor to see ‘no point’ in grading homework | Academics | dailycal.org https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-poi</description>
+    </item>
+    <item>
+      <title>OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/26/2000002573/</link>
+      <pubDate>2026/10/26 10:34</pubDate>
+      <description>AIに答えを聞けばよいなら、学ぶ必要なんてないのでは？ それでも学ぶべきものがあるなら、それは何か？ 『ヒトとAI』（岡野原大輔、岩波新書赤）は、この疑問にずばり答えている。 著者は、自然言語処理、深層学習の専門家であり、日本のAI研究を牽引してきた第一人者だ。これまでは、研究開発の立場から、AIの能力と限界を解説してきたが、本書は、それに加えて、人間の学習や主体性、責任、社会制度の問題にまで踏み込んでいる。 「答え」だけならAIの方が早い。 学校での暗記や、知識を身に着けるといった学習は、AIに聞くだけで同じ結果が得られる。だったら、人が苦労して学ばなくても、AIの結果を頼りにすれば良い？AI時代の教育は、今まで通りというわけにはいかない。 ただし、これは「人はもう学ばなくてもよいのか」という話ではない。むしろ、何のために学ぶのか、という目的そのものが変わってくる。 今までは、知識を身に</description>
+    </item>
+    <item>
+      <title>「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title>
+      <link>https://togetter.com/li/2762937</link>
+      <pubDate>2026/10/26 12:24</pubDate>
+      <description>Dessaは、音声を入力して音声を出力するspeech-to-speechモデルだ。相手の話を聞きながら同時に話せる全二重方式を採用している。実際の会話から学習したことで、どのタイミングで口を挟むか、「うん」「なるほど」といった相づちをどう打つかを身に付けたという。推論はリアルタイムより高速で、応答を待たされることはないとしている。「M4 Max」以上を搭載した「MacBook Pro」でローカル実行できる。 Blockは、現在の音声AIの多くはユーザーの声をテキストに変換する過程で、テキストでは運べない大量の情報を捨てていると指摘する。Dessaは感情や皮肉、笑い、いら立ちのため息、悲しみに震える声などを直接聞き取り、また表現できるという。同社は、AIが声に込められた感情をほとんど理解できないことは安全上の問題でもあるとし、Dessaをその解決に向けた一歩と位置付けている。 最大の特徴は</description>
+    </item>
+    <item>
+      <title>かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能</title>
+      <link>https://gigazine.net/news/20261026-dessa-conversation-ai/</link>
+      <pubDate>2026/10/26 11:05</pubDate>
+      <description>10月16日、「Moss-Image」という新しい画像AIモデルがオープンウエイトで登場しました。5B（50億）パラメータを持ち、写真からアニメ風まで、様々な画風での画像生成や日本語を含むテキストの描画ができる有能なモデルです。また、商用利用・改変・再配布・製品への組み込みを認めるApache 2.0という自由度の高いライセンスを採用していることも特徴です。開発したのは上海のOpen MOSS Teamという大学などの研究機関ですが、関連する企業を通じて、開発資金を上海市が提供するという行政の強いバックアップを受けてもいます。すでにLoRAなどの追加開発の環境も整備されつつあり、今後大きく人気を集める2Dモデルになりそうです。 日本語の文字から多彩な画風まで描ける 作例を制作してみました。この連載のキャラクター「明日来子さん」の画像を解析して、ベースの画像プロンプトを作り、架空の町の観光用</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 撮影なし・生成AI動画なしでミュージックビデオ作成！AIにコードで動画を作らせる</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2150835.html</link>
+      <pubDate>2026/10/26 10:52</pubDate>
+      <description>1日500コミットは、もう読めない ── だからコードレビューをやめた という記事を書いてから、似た相談が続けて来ます。 大規模なコードができてしまって、レビューできない。どうすればいいですか。 記事のコメントでも、同じ形の質問をもらいます。AIに書かせる量は増えた。でも、それを読む側が追いつかない。どうすればいいのか、と。 先に、身も蓋もない答えを書きます。 その状態に入らないようにする。 「できてしまったものを、そのままレビューでどうにかする」のは、かなり厳しいと思います。分割する、範囲を区切る、捨てる、といった手はありますが、どれも「読み切る」ことの代わりにはなりません。 そして「AIにレビューさせればいい」も、たぶん解決になりません。 そしてこれは、チームで開発している人だけの話ではありません。 1人で作っていても同じように起きます。原因は人数ではなく、先に大きな仕様書を書いて一気</description>
+    </item>
+    <item>
+      <title>Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加　回避方法は</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/26/2000002570/</link>
+      <pubDate>2026/10/26 08:31</pubDate>
+      <description>この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の166週目の記事です！ 4年間連続達成まで残り46週となりました！ 3行まとめ AIが実装してくれる今こそ、使っているシステムの仕組みを深く理解しておきたい。それが問題解決やシステム設計の土台になる AIがやってくれるのに、わざわざ手で作る。自分にとっては、それが深い理解へのいちばん確実な道だった 個人開発でシェル、LLMエージェント、MCPサーバーを作り直したら、毎日使う道具の見え方が変わった はじめに チュニジア出身、新卒1年目の Firas です。ログラスの AI プロダクト本部で新規事業エンジニアとして働いています。ログラスでは開発プロセスに全面的にAIが導入されていて、自分も業務ではAIにがっつりコードを書かせています。それでも業務とは別に、個人開発でシェル、LLMエージェント、MCPサ</description>
+    </item>
+    <item>
+      <title>AI学習方法の開示、26日から知財保護原則を適用　企業に対応促す - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA232PL0T21C26A0000000/</link>
+      <pubDate>2026/10/25 11:47</pubDate>
+      <description>はじめに Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。 今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。 先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同じでした。わかりやすい命名、コメント、外部キー。昔から言われてきた「ちゃんとした設計」が、そのままAIのコストにも効いてきます。 この記事の対象読者 Claude Code などのAIエージェントで開発している人 AIに既存のDBを触らせたときのコストや精度が気になっている人 結論</description>
+    </item>
+    <item>
+      <title>GMO系、企業のセキュリティーを抜き打ちチェック　脆弱性を調査 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC209XR0Q6A021C2000000/</link>
+      <pubDate>2026/10/22 07:33</pubDate>
+      <description>コンピューター画面のバイナリーコードに浮かぶパッドロックのシルエット（2026年10月21日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【10月25日 AFP】世界中のウェブサイトの多くで使われているプログラミング言語「PHP」に二つの重大な脆弱（ぜいじゃく）性が見つかり、企業や政府機関は今週、修正プログラムの適用に追われた。 ハッカーに悪用される恐れがある脆弱性の一つは、米オープンAIの高性能な人工知能（AI）モデルを使って発見された。AIのサイバーセキュリティー分野での能力を示す、これまでで最も注目を集めた事例の一つとなった。 AFPは、ソフトウエアの脆弱性がAIツールによってかつてない速さで発見されるようになるなか、今回の事例が何を意味するのかについて、サイバーセキュリティー問題に取り組む非営利団体「Cyber Threat Alliance（CTA）」のマイケル・ダ</description>
+    </item>
+    <item>
+      <title>Anyone can design now. Someone still has to judge.｜Money Forward Design</title>
+      <link>https://note.com/mfdesign/n/n7364670ec992</link>
+      <pubDate>2026/10/23 13:27</pubDate>
+      <description>zg(zvec-grep)はAlibaba製のベクトルデータベース「zvec」を基盤とする、ripgrep・BM25・ベクトル検索を統合したローカルファーストな検索レイヤーです。ターミナルから直接使うことも、AIエージェントから利用することも可能です。 GitHub - zvec-ai/zvec-grep: Local-first search across your workspace, built for humans and AI agents. · GitHub https://github.com/zvec-ai/zvec-grep ◆特徴 zgの主な特徴は以下の通りです。 ・人間とエージェントの両方に対応：一度インストールしてインデックスを作成すれば、CLIとエージェントの双方から同一のワークスペースを利用できる ・高度な検索機能：キーワード検索にとどまらず、「意味による発見」</description>
+    </item>
+    <item>
+      <title>2026年の音楽の聴かれ方　米津玄師IRISOUT以降</title>
+      <link>https://anond.hatelabo.jp/20261025085255</link>
+      <pubDate>2026/10/25 08:53</pubDate>
+      <description>進化した「Siri AI」で感じた、iPhoneの操作を一変させる実力　「AI出遅れ」の汚名返上なるか：石野純也のMobile Eye（1/3 ページ） Appleは、10月中に配信がスタートするiOS 27.2で、Apple Intelligenceによって機能を大幅に強化した「Siri AI」の日本語版を導入する。現在は、β版として英語でのみ提供されている機能だが、このアップデートによって日本語での指示や回答が可能になる。Siri AIは、いわばiPhoneのAIエージェントと呼べる存在で、これまでのSiriとは回答だけでなく、実行できる操作の幅が格段に増える。 複数のアプリを連携させたり、画面に表示される内容を読み取ってそれに基づいた行動を取ったりと、iPhoneの使い方そのものを変えてしまう可能性も秘めている機能といえる。AIに後れを取っているといわれていたAppleだが、Siri</description>
+    </item>
+    <item>
+      <title>Sakana AI</title>
+      <link>https://sakana.ai/open-house-2026/</link>
+      <pubDate>2026/10/21 07:28</pubDate>
+      <description>The session catalog is live. Explore what&amp;#39;s waiting for you</description>
+    </item>
   </channel>
 </rss>
