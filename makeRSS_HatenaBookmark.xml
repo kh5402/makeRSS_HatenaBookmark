@@ -269429,5 +269429,104 @@ June 6, 2026</description>
       <pubDate>2026/10/21 07:28</pubDate>
       <description>The session catalog is live. Explore what&amp;#39;s waiting for you</description>
     </item>
+    <item>
+      <title>「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261026-475703/</link>
+      <pubDate>2026/10/26 20:57</pubDate>
+      <description>米人工知能（AI）開発企業アンソロピックのロゴ（2026年6月10日撮影）。(c)Nicolas TUCAT/AFP 【10月26日 AFP】米人工知能（AI）開発企業アンソロピックのAIモデル「クロード」が、有料の閲覧制限を回避し、米ジョージア州の有権者関連データに無許可でアクセスしていたことが分かった。米ニュースサイト「アクシオス」が25日、報じた。 11月3日の米中間選挙を控える中、世界有数のAI開発企業では安全性をめぐる懸念が相次いでおり、今回の事案もその一つとなった。 アクシオスがアンソロピックの広報担当者の話として報じたところによると、クロードがアクセスしたのは、ジョージア州の投票者数の集計データだった。同州ではすでに100万人以上が期日前投票を済ませている。 広報担当者によると、社内の統計プロジェクトの一環として訓練されていたクロードは、「指示されていないにもかかわらず」、有</description>
+    </item>
+    <item>
+      <title>AI エージェントの並列開発で膨らんだ GitHub Actions の費用を、AWS Fargate のセルフホストランナーに移して約3割削減した話 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/github-actions-fargate-self-hosted-runner-cost/</link>
+      <pubDate>2026/10/26 17:57</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed8eaad6d0eeb43d4e1d2ef2e08b0f52ab3a7f34/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2151%2F208%2Fimage4.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ChatGPTとGeminiで4倍差、AI検索を過信してはいけない理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/107023</link>
+      <pubDate>2026/10/26 18:14</pubDate>
+      <description>ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したいのはこれじゃない！みたいな気持ちを抱いていました。 Completed は、コードが最後まで実行された状態です。入力不正が0件であることを意味するわけではありません。 こんな文章がいたるところにちりばめられた宝石箱を1つ1つ検品しているときに、言い直しの仕方を SKILL にまとめてもらったら割といい感じのものが出来たのでメモっておきます。 端的にいうと何が言いたいのかを、ちゃんとそれなりの文章で書いた上で短くするという思考をするというものです。 XXXX って意味不明だか</description>
+    </item>
+    <item>
+      <title>AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス</title>
+      <link>https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/</link>
+      <pubDate>2026/10/26 16:56</pubDate>
+      <description>Googleが2026年10月16日にプライバシーポリシーを更新し、GmailやGoogleフォトなどに保存された情報を広告のカスタマイズに利用する条件を変更したことが明らかになりました。 プライバシー ポリシー – ポリシーと規約 – Google https://policies.google.com/privacy Your Gmail and Photos could now fuel Google&amp;#39;s personalized ads https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/ Googleは従来、検索履歴やウェブサイトの閲覧履歴などの情報を広告のカスタマイズに使用しつつ、GmailやGoogleドライブ、Googleフォトに保存された個人的な情報は広告表示に使用しな</description>
+    </item>
+    <item>
+      <title>皮膚がんの見分け勝負で最新の汎用AIが10年前のAIに敗北</title>
+      <link>https://gigazine.net/news/20261026-cnn-vs-llm-skin-cancer-diagnosis/</link>
+      <pubDate>2026/10/26 12:55</pubDate>
+      <description>中国の大手テクノロジー企業であるTencentが世界モデル「Hy-Nomas」をリリースしました。入力に応じて仮想世界を生成し、カメラやオブジェクトを自由に制御することが可能。モデルはオープンモデルとして無償公開されており、ローカルで実行することもできます。 Hy-Nomas — Interactive World Modeling https://hy-nomas.hy.tencent.com/ Hy-Nomasはパラメーター数80億の比較的小規模なAIモデルで、720p・60秒の動画を出力することができます。単純な動画生成とは異なり、カメラやキャラクターの動作を複数ターンに分けて指示することができます。 「WASDキーや矢印キーでキャラクターを動かす」という操作にも対応しています。 Hy-Nomasの動作例は以下のポストに含まれている動画で確認できます。 🚀 Introducing</description>
+    </item>
+    <item>
+      <title>AIのせいで宿題を採点する意味がなくなったとしてフィールズ賞受賞の数学教授が「提出しただけで評価する」方式に変更</title>
+      <link>https://gigazine.net/news/20261026-ai-grading-homework/</link>
+      <pubDate>2026/10/26 15:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/985b983d831058ec09f64733613e7ab634b3910f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F113%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIがNode.jsやBunで使われているGoogle製圧縮ツール「Brotli」でリモートコード実行につながる脆弱性を発見</title>
+      <link>https://gigazine.net/news/20261026-openai-brotli-vulnerability/</link>
+      <pubDate>2026/10/26 12:55</pubDate>
+      <description>開発中のモデルは安全性やアライメントのための訓練を終えていない段階にあり、高度なサイバー能力を持つモデルは隔離環境の制限を突破する恐れがある。7月に発生したHugging Faceを巡るインシデントなどを受けて、同社は研究環境の防御を強化。インターネットの代わりに、Webコンテンツを大量にキャッシュした“オフラインの世界”を構築し、モデルがその中でWebの閲覧や検索を学習する仕組みを導入した。 それでも9月20日、社内の研究モデルがDNSリゾルバの設定ミスを突き、学習中に限定的ながら実際のインターネットにアクセスした。OpenAIはフロンティアモデルの学習を停止し、自社で最もサイバー能力の高いモデルを使ったAIエージェントのチームに研究環境の弱点を探させた。エージェントは、監視をかいくぐって容易にインターネットに到達できる経路は見つけられなかったが、未知の脆弱性や仮想マシンから抜け出す手法</description>
+    </item>
+    <item>
+      <title>AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊</title>
+      <link>https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html</link>
+      <pubDate>2026/10/26 09:02</pubDate>
+      <description>報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニックでした。絶望というか」 「青いところが16時22分12秒にUSのドルを500万通貨という異常量を買って数秒で売りオーダーを出して、必ず“手数料”だけが500万通貨のUSドルを買うための“手数料”として発生した」 「400万ぐらい損を出すまでに1秒」 ▼損失のほとんどが“手数料” 50万ドル分のペソを買い、すぐにペソをドルに交換 ↓ 通貨交換による差額はほとんどないが、取引手数料による損失が発生 ▼GMO提供のサーバーが狙われたか 損失額約60</description>
+    </item>
+    <item>
+      <title>MetaのパーソナルAI「Muse」日本上陸　iPhone Duoと相性抜群な次の”競争軸”【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/2150995.html</link>
+      <pubDate>2026/10/26 08:23</pubDate>
+      <description>www.404media.co ワタシは↑のエントリで「PHP事変」と書いちゃったが、‘Black October’という表現が使われてるみたいね。言い換えれば、AI によるサイバーセキュリティの「ブラック・スワン」現象？ この 404 Media の記事も、「AI はハッキングのあり方を根本から変えつつある。今後どうなるかは誰にもわからない」と書く通りで、先のことは分からんとしか言いようがないのが現状だ。 この記事で紹介されているジョンズ・ホプキンス大学の教授であり、世界的な暗号学者のひとりであるマシュー・グリーンの、「我々は、ゾンビの進路に手あたり次第にものを投げつけて、少しでも足止めすることを願っている映画の場面にいる」という投稿、そして「インターネット全体が乾燥した火種であって、それが燃え広がらないでいるのは、ティーンエイジャーがまだマッチ棒を見つけていないからだけなのに多くの人た</description>
+    </item>
+    <item>
+      <title>GMO不正アクセス犯の犯行声明文ビュアー</title>
+      <link>https://satoru.net/hacker/gmo/261025-seimei.html</link>
+      <pubDate>2026/10/26 08:12</pubDate>
+      <description>「コンテンツや広告など、カスタマイズしたサービスの提供」の項目にも記述が追加された。検索や「Gemini」アプリなどに、GoogleフォトやGmail、ドライブなどのデータへのアクセスを許可できること、その場合はアクセスする側のサービスのポリシーと設定が適用されることを説明している。例として、検索はアクセスを許可されたデータの一部を処理し、広告などのコンテンツをパーソナライズすることがあるとしている。パーソナライズド広告の根拠となる情報の説明にも、従来の「関心をお持ちの事柄」「アクティビティ」に加えて「パーソナライズされたコンテンツ」が含まれるようになった。 背景にあるのは、GmailやGoogleフォトなどの情報を参照してGeminiや検索の「AIモード」が回答する機能「パーソナルインテリジェンス」だ。新設された注記では、この機能を例に挙げ、データの処理を許可した場合は、同じデータがコン</description>
+    </item>
+    <item>
+      <title>AI が実装してくれる時代こそ、自分の手で実装しよう</title>
+      <link>https://zenn.dev/loglass/articles/24b2a4776ce8d4</link>
+      <pubDate>2026/10/25 20:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/648bba4e110226415b91c4737df7ce7969f03642/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2151%2F000%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>私が5種類のコーディングエージェントを使い分ける理由</title>
+      <link>https://zenn.dev/rimon/articles/45c1fd2f015af8</link>
+      <pubDate>2026/10/26 08:07</pubDate>
+      <description>ループを構成する6つの要素 オスマニ氏は、ループを構成する部品として6つの要素を挙げている。 人手を介さずにループを起動するスケジュール機能 複数のエージェントが同時に作業しても互いの成果物を壊さないための隔離された作業場所 プロジェクトの知識やノウハウを文書化してエージェントに読ませる「スキル」 データベースや外部サービスにエージェントがアクセスするための接続口 作り手と検証役を別々のエージェントに分ける仕組み 反復をまたいで記憶を持続させる外部メモリ 工場に例えるなら、始業ベル、各作業員の専用作業台、業務マニュアル、資材倉庫への通用口、検品係、そして作業日報だ。 注目すべきは、これらの部品が既製品になりつつあることだ。1年前なら、ループを組みたい開発者は自前のスクリプトを書き、自分で保守し続けるしかなかった。ところが現在では、AnthropicのClaude CodeにもOpenAIの</description>
+    </item>
+    <item>
+      <title>Googleフォト、ドライブ、Geminiを無料アプリに置き換えた結果、何が変わった？</title>
+      <link>https://news.mynavi.jp/techplus/article/20261025-5175531/</link>
+      <pubDate>2026/10/25 18:45</pubDate>
+      <description>序ジャレド・ダイアモンドの『銃・病原菌・鉄』（1997年）、『文明崩壊』（2005年）、『昨日までの世界』（2012年）は、広範な歴史・社会現象を一つの枠組みで説明しようとする著作である[1][2][3]。この三著の重大な弱点は、環境に注目したことではない。個別には有力な因果メカニズムをつなぎ合わせた物語に、その連鎖全体について実証された以上の説明力を背負わせていることである。 彼を批判するために、「地理は関係ない」「感染症は重要ではなかった」「先住民社会はつねに平和だった」といった逆向きの神話は必要ない。むしろ、そうした逆神話に依存する批判は弱く、彼の議論のうち最も堅固な部分に跳ね返される。問うべきなのは、彼の説明がどの命題について、どの証拠によって、どの程度まで成立しているのかである。 この基準は、批判される側だけでなく批判する側にも適用される。原著の命題、研究の推定対象、証拠の射程、</description>
+    </item>
+    <item>
+      <title>「たった2文字」でAIロボットが豹変、果物ではなく「ヒトの手」を切ってしまう--米研究</title>
+      <link>https://japan.cnet.com/article/35253926/</link>
+      <pubDate>2026/10/25 07:54</pubDate>
+      <description>ブコメの字を大きくする機能をつけて欲しい。 iPadではてブアプリを使っているが、最近、ブコメの字が小さくて読みづらい。 メインユーザの層、もうほとんどみんな老眼だよね？</description>
+    </item>
+    <item>
+      <title>鉄道業界にフィジカルAIの潮流　ロボットが施設を保守点検　乗客の安全との両立が課題に</title>
+      <link>https://www.sankei.com/article/20261025-WGPRJW6USRIJVNPE7EXZBEYRVU/</link>
+      <pubDate>2026/10/25 16:07</pubDate>
+      <description>野草研究所 @wild_grasses このサムネを『生成AI使うな！気持ち悪い』と断じてくる方がチラホラいますが、残念ながら完全実写なんですよね サルナシは実在する果実なのであって、『見た事ない物は偽物でキモい』って感覚が社会化してるなら、それは結構深刻だと思う 自然界はAIに負けず劣らず意味不明なモノで溢れてますよ pic.x.com/i34l5akknw 2026-10-25 07:33:52</description>
+    </item>
   </channel>
 </rss>
