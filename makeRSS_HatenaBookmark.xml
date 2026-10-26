@@ -269258,5 +269258,59 @@ June 6, 2026</description>
       <pubDate>2026/10/21 15:14</pubDate>
       <description>大規模言語モデル(LLM)に国や地域を指定せず文化について質問すると日本やアメリカを取り上げた回答に偏る傾向があることを、バスク大学とカーディフ大学の研究チームが報告しました。研究では8種類のモデルを24言語で比較し、回答に登場する国と、質問に使う言語や学習段階との関係を調べています。 [2604.21751] Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs https://arxiv.org/abs/2604.21751 研究チームが着目したのは「AIが文化について正しく答えられるか」ではなく、「複数の国を取り上げられる質問に対してどの国を選んで説明するか」という点です。そこで食事や芸術、歴史、社会生活など11分野にわたる1320問の質問</description>
     </item>
+    <item>
+      <title>無料の画像生成AI「Moss-Image」がすごい　日本語も漫画も生成、商用利用OKの実力を試した (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/445/4445534/</link>
+      <pubDate>2026/10/26 10:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/585bc420c87d4c7d5b0661de4694609983bbb060/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F835%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIに大きな仕様書を渡して一気に作らせるのは、宝くじを買うようなものです</title>
+      <link>https://zenn.dev/singularity/articles/small-teams-ai</link>
+      <pubDate>2026/08/06 22:04</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c770cb56d5700f022b80e7400ac1ea88c7d0788d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2150%2F995%2Fm02.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIはハッキングのあり方を根本から変えつつあり、銀行や電力網がインターネットから切り離される日も近い？ - YAMDAS現更新履歴</title>
+      <link>https://yamdas.hatenablog.com/entry/20261026/php2shell-black-october</link>
+      <pubDate>2026/10/26 08:25</pubDate>
+      <description>「コンテンツや広告など、カスタマイズしたサービスの提供」の項目にも記述が追加された。検索や「Gemini」アプリなどに、GoogleフォトやGmail、ドライブなどのデータへのアクセスを許可できること、その場合はアクセスする側のサービスのポリシーと設定が適用されることを説明している。例として、検索はアクセスを許可されたデータの一部を処理し、広告などのコンテンツをパーソナライズすることがあるとしている。パーソナライズド広告の根拠となる情報の説明にも、従来の「関心をお持ちの事柄」「アクティビティ」に加えて「パーソナライズされたコンテンツ」が含まれるようになった。 背景にあるのは、GmailやGoogleフォトなどの情報を参照してGeminiや検索の「AIモード」が回答する機能「パーソナルインテリジェンス」だ。新設された注記では、この機能を例に挙げ、データの処理を許可した場合は、同じデータがコン</description>
+    </item>
+    <item>
+      <title>「もうプロンプトは書かない」　Claude Code生みの親が明かす“ループエンジニアリング”の衝撃</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/24/news009_3.html</link>
+      <pubDate>2026/10/26 05:48</pubDate>
+      <description>Android Police Teamは2026年10月20日(現地時間)、「I replaced Google Photos, Drive, and Gemini with free open source alternatives; now I can&amp;#39;t go back」において、Googleフォト、Googleドライブ、Geminiに代わる無償アプリをAndroid端末で利用し、Googleサービスへの依存を減らした体験を紹介した。 今回、代替アプリとして選んだのは、写真管理アプリのFossify Gallery、ファイル保存サービスのNextcloud、AIモデルのGemma 4を端末内で実行できるGoogle AI Edge Galleryだ。各アプリには機能上の制約もあるが、データの保存先や管理方法を自分で選べる点を評価している。 Googleフォトの代わりにFossify</description>
+    </item>
+    <item>
+      <title>「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響</title>
+      <link>https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</link>
+      <pubDate>2026/10/25 13:22</pubDate>
+      <description>「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク</description>
+    </item>
+    <item>
+      <title>政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64946</link>
+      <pubDate>2026/10/25 07:13</pubDate>
+      <description>zg(zvec-grep)はAlibaba製のベクトルデータベース「zvec」を基盤とする、ripgrep・BM25・ベクトル検索を統合したローカルファーストな検索レイヤーです。ターミナルから直接使うことも、AIエージェントから利用することも可能です。 GitHub - zvec-ai/zvec-grep: Local-first search across your workspace, built for humans and AI agents. · GitHub https://github.com/zvec-ai/zvec-grep ◆特徴 zgの主な特徴は以下の通りです。 ・人間とエージェントの両方に対応：一度インストールしてインデックスを作成すれば、CLIとエージェントの双方から同一のワークスペースを利用できる ・高度な検索機能：キーワード検索にとどまらず、「意味による発見」</description>
+    </item>
+    <item>
+      <title>進化した「Siri AI」で感じた、iPhoneの操作を一変させる実力　「AI出遅れ」の汚名返上なるか</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2610/24/news014.html</link>
+      <pubDate>2026/10/24 11:33</pubDate>
+      <description>生成AIを使い、車に傷がついたように加工された偽造写真（三井住友海上火災保険提供）（KYODONEWS）　生成人工知能（AI）を悪用した保険金の不正請求が増えている。自動車の写真を加工することで事故を装うなどして保険金をだまし取るといった手口だ。AIでは簡単に高精度の偽造ができるため、目視で真偽を判別することは難しいという。損害保険各社は、偽造画像を見分けるシステムを導入するなどの取り組みを強化。不正請求に対応する専門部署を設置する動きもある。 【写真】生成AIで作成した陸自部隊のロゴ「悪趣味」など批判が相次ぐ　5月 AIを巡ってはサイバー攻撃に活用されるなど、業種を問わず企業は対応に追われている。技術進歩が早く、企業の負担が増えていくことへの懸念が出ている。 自動車保険などの損害保険では、保険金を受け取るために証拠となる写真や修理の見積書などを画像データで損保各社に提出する。その際に、偽</description>
+    </item>
+    <item>
+      <title>AIにパスワードを教えずログイン可能に--1Passwordが新機能、ChatGPTにも対応へ</title>
+      <link>https://japan.cnet.com/article/35253892/</link>
+      <pubDate>2026/10/23 19:31</pubDate>
+      <description>AIで加速するサイバー攻撃と⁠⁠、防御をめぐる動き ――脆弱性の修正から⁠⁠、AIエージェントの行動制御まで 「約18カ月、持ちこたえる必要がある⁠」⁠。AnthropicのDeputy CISO（副最高情報セキュリティ責任者⁠）⁠、Jason D. Clinton氏は2026年10月22日、Xへの投稿で、サイバーセキュリティをめぐる直近4日間の深刻な状況に触れ、改善に向かう前に事態はさらに悪化すると警告した。セキュリティ責任者には、AIへの投資ではなく基本的な対策のために、今すぐ経営陣の支援を求めるよう呼びかけている。 同氏は、約18カ月後には高いサイバー能力が小型で安価なAIモデルにまで広がり、ソフトウェアの脆弱性をリリース前に防げるようになると見込んでいる。 ただし、すでに稼働しているシステムに脆弱性が見つかれば、その修正を適用する必要がある。また、外部サービスやAIエージェントを使</description>
+    </item>
   </channel>
 </rss>
