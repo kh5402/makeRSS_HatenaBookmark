@@ -269555,5 +269555,86 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c5cf3ec84c0cdfaa59965da3cbc34a469bdb3dad/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F081%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明</title>
+      <link>https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/</link>
+      <pubDate>2026/10/27 13:07</pubDate>
+      <description>「新人にはAIを使ってほしくない。入社後は議事録作りやメール作成、スライド資料作りを通して仕事の文脈を理解するもの。最初からAIに頼って楽をしては身に付かない」──これは、記者が参加した集まりで、とある40代男性の会社員・Mさんがこぼした愚痴だ。Mさんは最近、若手・新入社員の育成を受け持っているが、AIを使う新人が多く、実力がつかないことを危惧しているという。 Mさんの場合、最も悩ましいのは新人にどこまでAIを使わせ、どこまで禁止するか。「若手層の中には『AIの活用を求められる』と聞いて入社してきた人もおり、人事も同様の方針。その中で禁止を命じるのは、客観的に見れば“老害”と見られても仕方ないのでは」とMさんは苦笑いする。 AIが急速に普及する昨今、同様の悩みを抱えている人は多いだろう。実際にAI禁止施策を採用する企業も少なくない。不動産向けSaaSを手掛けるいえらぶGROUPもその一社だ</description>
+    </item>
+    <item>
+      <title>メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002550/</link>
+      <pubDate>2026/10/27 12:16</pubDate>
+      <description>所在地 【本社】〒105-6429 東京都港区虎ノ門1-17-1 虎ノ門ヒルズビジネスタワー29F 【名古屋オフィス】〒450-6418 愛知県名古屋市中村区名駅3-28-12 大名古屋ビルヂング18F 【大阪オフィス】〒530-0011 大阪府大阪市北区大深町4-20 グランフロント大阪タワーA 27F 【高輪サテライトオフィス】〒108-8618 東京都港区高輪2-21-1 THE LINKPILLAR 1 NORTH 11階 【虎ノ門サテライトオフィス】〒105-0001 東京都港区虎ノ門2-10-1 虎ノ門ツインビルディング 西棟3階 【博多サテライトオフィス】〒812-0012 福岡県博多区博多駅中央街8-1 JRJP博多ビル3F 事業内容・AI インテグレーションにより、AI の社会実装の加速を支援 ・クラウドを活用したシステム、スマホアプリの開発・運用、UI/UX デザイン制</description>
+    </item>
+    <item>
+      <title>攻撃者が主張するGMOの「過失」　VPSの仕組みと必要な対策とは：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVBV2ST4VBVUTIL00JM.html</link>
+      <pubDate>2026/10/27 08:30</pubDate>
+      <description>GMOインターネットグループは10月26日、FX用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、同社の従業員が全国に出向いて顧客の端末を預かり、グループのホワイトハッカーチームが調査・解析を進めていると明らかにした。 攻撃者とみられる者は自身のWebサイトで、GMOが100万ドル（約1億6000万円）を支払わない場合、27日正午に、顧客情報を公開し、顧客PCへのランサムウェア攻撃（データの暗号化）を行う、などと予告している。 同社は、預かった顧客PCにマルウェアが実際に仕掛けられているかも含めて状況を確認し、対処方法を見つけることを目指す。</description>
+    </item>
+    <item>
+      <title>Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media</title>
+      <link>https://iret.media/210349</link>
+      <pubDate>2026/10/27 10:28</pubDate>
+      <description>国内企業を揺るがす一連の不正アクセス被害で、AIによる自律型攻撃ツール「ARTEX」の関与が判明した。短時間で広範囲に仕掛けられる攻撃に注目が集まるが、専門家たちが一様に指摘するのは「使われた侵入経路そのものは従来と変わらない」という厳しい現実だった。有識者たちの視点から、見せかけの先進技術に惑わされず足元を固めるための具体策を探る。 2026年9～10月にかけて国内企業で相次ぐ一連の不正アクセスと情報漏えい事案について、事態は大きな局面を迎えた。 GMOサイバー犯罪対策センターは2026年10月19日、一連の不正アクセスに中国で開発されたAIツール「ARTEX」が使われていたことを確認し、さらに日本企業を標的としたAI攻撃インフラを新たに6台発見したと発表した。 標的とされた企業の中には、実際に9～10月にかけて被害を公表した8社が含まれており、AIが自律的に脆弱（ぜいじゃく）性を探し出</description>
+    </item>
+    <item>
+      <title>Anthropic、IPOを正式申請　上半期売上高は約14倍、純損失807億ドル</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002603/</link>
+      <pubDate>2026/10/27 07:04</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fd9e4df338d2732e332457240a92224bc478fa82/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2151%2F338%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoft、約6万人対象の希望退職制度を発表　巨額のAI投資で経費抑制か</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002604/</link>
+      <pubDate>2026/10/27 07:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/25c3b2cf42a2aaa015ba040e10e5fb0998cf3ee3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F970%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘</title>
+      <link>https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/</link>
+      <pubDate>2026/10/27 07:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/90fb3439b1dc6e1af0d5d24bc44377fcc5f3652e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F277%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Concerning behavior from a popular open-weight AI model | Cohere</title>
+      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+      <pubDate>2026/10/27 04:02</pubDate>
+      <description>skill / slash command / タスクプロンプトを新規作成・大幅改訂した直後 エージェントが期待通り動かず、原因を指示側の曖昧さに求めたいとき 重要度の高い指示（頻繁に使う skill、自動化の中核プロンプト）を堅牢化したいとき 使わない場面: 一回限りの使い捨てプロンプト（評価コストが割に合わない） 成功率の改善が目的ではなく、書き手の主観的好みを反映したいだけのとき Iteration 0 — description と body の整合チェック（静的、dispatch 不要） frontmatter description が謳う trigger / 用途を読む body がカバーする範囲を読む 乖離があれば iter 1 に進む前に description か body を合わせる 例: description「navigation / form filling /</description>
+    </item>
+    <item>
+      <title>eMudhra 証明書の対策ガイド</title>
+      <link>https://claude.ai/artifact/KSv73QPpsc6wffFo9z8kaX</link>
+      <pubDate>2026/10/26 12:07</pubDate>
+      <description>「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りません。要らない機能を持たないことで、コードの量、メモリ、起動時間、描画負荷を減らします。 言語、描画 API、ランタイムは依頼に合わせて選ぶ (Canvas 2D、WebGL2、C + EGL/GLES3、マイコン向けの C など)。 外部ライブラリは使わない。ポリゴンの三角形分割に使う earcut だけを例外とし、vendor/earcut に版を固定して置く。 各例を spec.yaml で定義する。要件 (requirements)、評価 (evaluation)、計測 (benchma</description>
+    </item>
+    <item>
+      <title>飲み会100人も会費の「傾斜」計算瞬時に　ふくおかFG、AI活用アプリ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOJC16C7I0W6A011C2000000/</link>
+      <pubDate>2026/10/26 22:10</pubDate>
+      <description>人工知能（AI）開発新興のSakana AI（サカナAI、東京・港）は26日、生成AIモデルの自社開発を始めると発表した。同社として初となる国産のAIモデルを2027年春に投入し、防衛やサイバー防御への利用を見込む。米中などの海外製モデルにAI開発を依存するリスクを抑える。「私たちは今、自分たちのモデルをゼロから事前学習する取り組みを始めようとしています」。サカナAIのデビッド・ハ最高経営責任</description>
+    </item>
+    <item>
+      <title>パナソニックで33万人分の個人情報を外部AIにアップロードする事案が発生…普通に怖いけど33万人分もの個人情報を持ち出しできることの方が怖いとの声も</title>
+      <link>https://togetter.com/li/2763081</link>
+      <pubDate>2026/10/26 19:53</pubDate>
+      <description>チームみらいの安野貴博党首らは10月26日、AIの普及による失業対策を求める提言を木原稔官房長官に手渡した。AIの社会実装に伴う仕事の変化に人々が適応できているか調査し、必要な支援が行き渡る仕組みを整えるよう求めている。 提言では「かつての産業革命のように、AIが一部の産業にとどまらず社会の在り方そのものを変えつつあることを予感させる」と指摘。労働政策の検討に加え、AIの社会実装を支える規制・制度の改革も盛り込んだ。 今回の提言をまとめた特設サイトも公開した。提言の詳細全文などを掲載している。 チームみらいは23日、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言もデジタル庁に提出している。</description>
+    </item>
+    <item>
+      <title>Anthropicが常時稼働するエージェント「Claude Duet」を発表／AMDとIntelが協業　PyTorchのx86 CPU最適化を「oneDNN」に一本化</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2610/25/news002.html</link>
+      <pubDate>2026/10/25 06:16</pubDate>
+      <description>開発中のモデルは安全性やアライメントのための訓練を終えていない段階にあり、高度なサイバー能力を持つモデルは隔離環境の制限を突破する恐れがある。7月に発生したHugging Faceを巡るインシデントなどを受けて、同社は研究環境の防御を強化。インターネットの代わりに、Webコンテンツを大量にキャッシュした“オフラインの世界”を構築し、モデルがその中でWebの閲覧や検索を学習する仕組みを導入した。 それでも9月20日、社内の研究モデルがDNSリゾルバの設定ミスを突き、学習中に限定的ながら実際のインターネットにアクセスした。OpenAIはフロンティアモデルの学習を停止し、自社で最もサイバー能力の高いモデルを使ったAIエージェントのチームに研究環境の弱点を探させた。エージェントは、監視をかいくぐって容易にインターネットに到達できる経路は見つけられなかったが、未知の脆弱性や仮想マシンから抜け出す手法</description>
+    </item>
   </channel>
 </rss>
