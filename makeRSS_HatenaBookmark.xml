@@ -269768,5 +269768,62 @@ June 6, 2026</description>
       <pubDate>2026/10/24 21:48</pubDate>
       <description>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。昨今のサイバー攻撃に対するAIの悪用の可能性について、当社のリサーチャーが調査した結果をレポートします。 By: Joseph C Chen（TrendAI™ Staff Researcher）, 松川 博英（TrendAI™ Principal Threat Researcher） 2026/10/23 Read time:  ( words) はじめに この秋、国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。背景として「AIを悪用した攻撃」を指摘する声も多く聞かれるようになりました。私たちの観測でも、日本の組織を狙う攻撃にAIが使われている例は実際に確認できています。ただし、その「関わり方」は決して</description>
     </item>
+    <item>
+      <title>書き手が人でもAIでも正しくなる道、�SREを埋め込んだDeveloper Platform / tech drivers day8</title>
+      <link>https://speakerdeck.com/chmikata/tech-drivers-day8</link>
+      <pubDate>2026/10/27 23:14</pubDate>
+      <description>プログラムの不具合をAIに相談すると修正方法を教えてくれるのが一般的ですが、あえて答えを教えずに質問を繰り返すデバッグツール「Nietzschian Debugger」がGitHubで公開されています。開発者自身に不具合の原因を考えさせることで問題解決能力を鍛えるという、AIへの依存を減らすことを目指したツールとなっています。 GitHub - DilawarShafiq/nietzschian-debugger: The anti-AI debugger. What doesn&amp;#39;t kill your code makes it stronger. Confrontational questioning for developers. · GitHub https://github.com/DilawarShafiq/nietzschian-debugger ChatGPTなどの生成AI</description>
+    </item>
+    <item>
+      <title>AI活用の基礎体験ハンズオン（松尾研 AXエバンジェリスト講座）</title>
+      <link>https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza</link>
+      <pubDate>2026/10/27 16:39</pubDate>
+      <description>AI に実装を任せると PR が次々にできあがります。 その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。 実装が速くなった分だけレビュー待ちの PR がたまっていきます。 人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要でしょうか。 品質の確認とマージの承認 大前提として no look merge でもコードの品質を確認する仕組みは必要です。 たとえば要求どおりの動作をテストで確かめ、設計やセキュリティのレビューを AI に任せる方法があります。 指摘された問題を修正した後に再検証し、未実施の検証や未解決の指摘が残る PR はマージしない。 人がレビューで確かめていたことを仕組みに任せられる水準に達していることが、ここからの話の前提です。 こうした仕組みで品質を担保できれば、人がコードを読まずにマージできるの</description>
+    </item>
+    <item>
+      <title>263【AIで中国軍基地を丸裸に!?】Google Earthで空軍・海軍・ミサイル基地を調査！進化するウォーゲームの全貌</title>
+      <link>https://www.youtube.com/watch?v=6Xck3Knvv5w</link>
+      <pubDate>2026/10/27 18:42</pubDate>
+      <description>現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 Working with academic communities to build scientific understanding | OpenAI https://openai.com/index/building-scientific-understanding-with-academic-communities/ OpenAIは関連する学術コミュニティからフィードバックを受け、研究成果の公開方法を改善し続けているそうです。OpenAIの考えでは、これらの原稿は「未加工の研究データ」として捉えるのが最も適切で、この研究データを科学的な理解へとつなげるために、OpenAIは新たな方法を試みていると説明しています。 そのた</description>
+    </item>
+    <item>
+      <title>GMO、「個人情報」拡散防止へ法的措置も検討　攻撃者が公開 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC2748H0X21C26A0000000/</link>
+      <pubDate>2026/10/27 16:06</pubDate>
+      <description>Offensive Securityプロジェクトの紹介 DEF CONとは？ 発表内容の紹介 研究の背景：C2通信が普通の文章に見えたら？ 自然言語ステガノグラフィとは TextC2の構成と前提条件 手法1：両側でLLMを使う方式（算術符号化） 手法2：受信側にLLMを必要としない方式（サンプリング） 検証で分かった限界 防御側への示唆 研究倫理と検証範囲 DEF CONでの発表 おわりに こんにちは、イノベーションセンターの上野です。普段はOffensive Securityプロジェクトのメンバーとして、攻撃技術の調査・開発・検証に取り組んでいます。 2026年8月、ラスベガスで開催されたDEF CON 34のCrypto &amp;amp; Privacy Villageで、「TextC2: LLM-Based Natural-Language Steganography as a Covert C2</description>
+    </item>
+    <item>
+      <title>MetaのパーソナルAI「Muse」を使ってみた　先回りして気遣えるAI</title>
+      <link>https://www.watch.impress.co.jp/docs/topic/2151191.html</link>
+      <pubDate>2026/10/27 08:37</pubDate>
+      <description>【シリコンバレー=伴正春】米マイクロソフトは26日、米英インド、カナダの4カ国で希望退職者を募集すると発表した。応募可能な社員は約6万人で、全従業員の約27%にあたる。4月に続く動きで、従業員を絞り込み人工知能（AI）投資に注力する。マイクロソフトの従業員数は6月末時点で22万3000人。26日に対象となる社員に通知した。同社によると、希望退職の対象者は約6万人で、日本は対象外となる。エイミ</description>
+    </item>
+    <item>
+      <title>「Siri AI」が日本語に対応 ～Apple、「iOS 27.2」「iPadOS 27.2」を公開／163件の脆弱性修正も、できるだけ早いアップデートを推奨</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2151341.html</link>
+      <pubDate>2026/10/27 08:39</pubDate>
+      <description>政府は生成AI（人工知能）を悪用したサイバー攻撃の脅威を踏まえ、安全対策を強める。AIの開発事業者から必要な情報を収集する際、国の調査に応じない事業者への罰則を含めて検討する。AIの開発を促進と監督機能との両立を目指す。早ければ2027年の通常国会にAI推進法の改正案を提出する。重大な問題が起きた際に国が開発事業者から迅速に情報を集め、原因を究明できる制度の構築をめざす。米オープンAIや米ア</description>
+    </item>
+    <item>
+      <title>アンソロピック、IPOへ目論見書を公表　AIインフラ130兆円投資 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN2202C0S6A820C2000000/</link>
+      <pubDate>2026/10/26 22:22</pubDate>
+      <description>米Microsoftは10月26日（現地時間）、従業員を対象とした新たな希望退職制度「Voluntary Exit Offer」（VEO）を導入すると発表した。対象となる従業員が金銭的支援やキャリア形成の支援を受けながら、自主的に退職できる仕組みだ。 対象は、米、英、加、印の4カ国で、制度を導入する部門に所属する職位レベル70以下の従業員。期間限定の制度であり、全社一律ではなく、各部門の事業上の優先事項や顧客への責任、人員配置の必要性に応じて導入の有無を決める。対象者には同日、制度の詳細を記載したメールを送付する。 エイミー・コールマンCPO（最高人事責任者）は今回の制度について、社外での新たなキャリアを考えている従業員に、支援を受けながら転身する選択肢を提供するものだと説明した。同時に、各部門が変化する事業上のニーズに合わせて人員構成を調整する手段にもなるとしている。 米Reutersに</description>
+    </item>
+    <item>
+      <title>時雨堂の ローカル LLM (DGX Spark x 2) 2026 年 10 月版</title>
+      <link>https://voluntas.ghost.io/local-llm-2026-10/</link>
+      <pubDate>2026/10/26 23:54</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/25c3b2cf42a2aaa015ba040e10e5fb0998cf3ee3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2150%2F970%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>サカナAIが国産AI開発へ　防衛・サイバーに活用、米中依存リスク排除 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC261H80W6A021C2000000/</link>
+      <pubDate>2026/10/26 21:02</pubDate>
+      <description>中国Moonshot AIは10月23日（現地時間、以下同）、一部の性能評価で米OpenAIの「GPT-6 Astra」や米Anthropicの「Claude Opus 5.5」（以下、Opus 5.5）などを上回るとうたうオープンウェイトモデル「Kimi K3.1 Pro」（以下、K3.1 Pro）を発表した。オープンウェイト版は悪用防止のため、サイバーセキュリティ関連データを除去して学習したという。モデルの重みは11月4日までに公開するとしている。 K3.1 Proは総パラメータ2.8兆（アクティブパラメータ1040億）、最大コンテキスト長は100万トークン。 前世代「Kimi K3」（以下、K3）に事後学習を施し、コーディングや3Dモデルの造形、財務関連業務などの能力を強化した。ターミナルでの動作性能を測る「Terminal-Bench 4.0」では65.7％を記録し、GPT-6 A</description>
+    </item>
   </channel>
 </rss>
