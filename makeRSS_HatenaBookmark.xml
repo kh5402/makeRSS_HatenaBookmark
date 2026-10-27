@@ -269636,5 +269636,137 @@ June 6, 2026</description>
       <pubDate>2026/10/25 06:16</pubDate>
       <description>開発中のモデルは安全性やアライメントのための訓練を終えていない段階にあり、高度なサイバー能力を持つモデルは隔離環境の制限を突破する恐れがある。7月に発生したHugging Faceを巡るインシデントなどを受けて、同社は研究環境の防御を強化。インターネットの代わりに、Webコンテンツを大量にキャッシュした“オフラインの世界”を構築し、モデルがその中でWebの閲覧や検索を学習する仕組みを導入した。 それでも9月20日、社内の研究モデルがDNSリゾルバの設定ミスを突き、学習中に限定的ながら実際のインターネットにアクセスした。OpenAIはフロンティアモデルの学習を停止し、自社で最もサイバー能力の高いモデルを使ったAIエージェントのチームに研究環境の弱点を探させた。エージェントは、監視をかいくぐって容易にインターネットに到達できる経路は見つけられなかったが、未知の脆弱性や仮想マシンから抜け出す手法</description>
     </item>
+    <item>
+      <title>AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」</title>
+      <link>https://gigazine.net/news/20261027-nietzschian-debugger/</link>
+      <pubDate>2026/10/27 20:36</pubDate>
+      <description>DEEP DIVE HP https://deepdive.or.jp/ DEEP DIVEが、AIを用いた新たな挑戦のため、クラウドファンディング第2弾を開始しました。ご支援の程宜しくお願いいたします。 https://camp-fire.jp/projects/914341/preview ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　#小泉悠　#吉永ケンジ　#軍事　＃中国　＃基地 ＃軍事基地　＃ゲーム　＃AI</description>
+    </item>
+    <item>
+      <title>OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである</title>
+      <link>https://gigazine.net/news/20261027-openai-three-new-discoveries/</link>
+      <pubDate>2026/10/27 16:46</pubDate>
+      <description>Offensive Securityプロジェクトの紹介 DEF CONとは？ 発表内容の紹介 研究の背景：C2通信が普通の文章に見えたら？ 自然言語ステガノグラフィとは TextC2の構成と前提条件 手法1：両側でLLMを使う方式（算術符号化） 手法2：受信側にLLMを必要としない方式（サンプリング） 検証で分かった限界 防御側への示唆 研究倫理と検証範囲 DEF CONでの発表 おわりに こんにちは、イノベーションセンターの上野です。普段はOffensive Securityプロジェクトのメンバーとして、攻撃技術の調査・開発・検証に取り組んでいます。 2026年8月、ラスベガスで開催されたDEF CON 34のCrypto &amp;amp; Privacy Villageで、「TextC2: LLM-Based Natural-Language Steganography as a Covert C2</description>
+    </item>
+    <item>
+      <title>ChatGPTがどんな仕事に使われているのかわかるレポートが公開される</title>
+      <link>https://gigazine.net/news/20261027-chatgpt-work-report/</link>
+      <pubDate>2026/10/27 13:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed1578866f6b167acb2c66352a56725796f32a18/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2151%2F348%2F00.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ベイブレードXの「ベイバトルパス」をリバースエンジニアリングして独自アプリを開発、AIがシュートの強さを評価してアドバイス</title>
+      <link>https://gigazine.net/news/20261027-bayblade-x-reverse-engineering/</link>
+      <pubDate>2026/10/27 15:24</pubDate>
+      <description>アメリカのNBCニュースが、「2026年6月以降、1億ドル(約157億円)以上のデータセンター向け機材が盗まれた」と報じました。NBCニュースは複数の関係者に取材してその手口を伝えています。 Grand theft AI: Highway thieves are stealing millions in data center gear https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733 Highway thieves are spoofing GPS to steal millions in data center-bound cargo - Ars Technica https://arstechnic</description>
+    </item>
+    <item>
+      <title>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151399.html</link>
+      <pubDate>2026/10/27 12:19</pubDate>
+      <description>MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。 Microsoft offers voluntary buyouts as AI leads to efficiency push https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html Microsoft offers to buy out a quarter of its workforce - Ars Technica https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/ 現地時間の2026年10月26日、Microsoftの最高人事</description>
+    </item>
+    <item>
+      <title>Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画　NVIDIA、AMD、Broadcomも出資に関心</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002605/</link>
+      <pubDate>2026/10/27 07:32</pubDate>
+      <description>本日から新たに日本語を含む5つの言語で利用できるSiri AIは、これまでよりはるかに有能で、より自然な会話ができるようになったアシスタントで、ユーザーがこれまで以上に多くのことをできるよう手助けします。 Appleは、本日利用可能になった27.2のソフトウェアアップデートで、まったく新しいバージョンのSiriであるSiri AIを日本語で提供開始するほか、フランス語、韓国語、ポルトガル語、スペイン語にも対応します。Siri AIは、パーソナルコンテクストの理解、幅広い知識、オンスクリーン認識、さらにシステム全体で使えるアプリ内でのアクションの充実を実現した、より有能で、より自然な会話ができるアシスタントです。そのすべてが、ユーザーのプライバシーを損なうことなく実行されます。あらゆるトピックについての質問に答えたり、ユーザーのメッセージ、Eメール、写真などの中から関連情報を見つけ出したりす</description>
+    </item>
+    <item>
+      <title>「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能</title>
+      <link>https://gigazine.net/news/20261027-gpt-6-1-terra/</link>
+      <pubDate>2026/10/27 11:32</pubDate>
+      <description>SNSのアカウント停止やスマートフォンの通信障害についてChatGPTに相談するとAIから「ジャーナリストに連絡するべき」と勧められるケースが増加しており、本来は企業のカスタマーサポートが対応するような問題まで報道機関に持ち込まれているとテクノロジー系ニュースサイトの404 Mediaが報告しました。 ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ 404 Mediaの共同創設者でジャーナリストのジェイソン・ケブラー氏によると、2026年10月、Instagramのアカウントを停止され</description>
+    </item>
+    <item>
+      <title>Microsoftが再び希望退職を募集、6万人対象　AI投資に注力 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN26B5M0W6A021C2000000/</link>
+      <pubDate>2026/10/27 07:49</pubDate>
+      <description>大手企業のAIはたいていの場合、主に英語のデータセットを中心に学習しています。新たな研究で、英語であれば適切に処理できるAIが、データが少ない少数言語を処理するときにコストが高くなってしまう可能性があることが示されました。 The Tokenizer Tax | CLEAR https://clear-languages.org/blog/the-tokenizer-tax 昨今の生成AIの基盤となる大規模言語モデル(LLM)は、トークナイザーと呼ばれる処理により、文章を単語ごとや文字ごと、場合によってはバイト単位に分割して「トークン」と呼ばれる塊として扱います。大抵の有料型AIはこのトークンの数に応じて料金を課しています。 AI研究機関のCLEARによると、優れたトークナイザーは文章を効率的にトークン化できますが、データが少ない言語は余計に小さく分割してしまい、その結果トークン数が増加し</description>
+    </item>
+    <item>
+      <title>Claude Code で受託の修正をするなら、渡す前にクライアントへ聞き返す工程を作る</title>
+      <link>https://zenn.dev/jskn_d/articles/claude-code-clarify-before-handoff</link>
+      <pubDate>2026/10/27 12:19</pubDate>
+      <description>中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Qwenはアリババが開発するAIモデルシリーズです。モデルが無償で公開されているため、企業や開発者は自社のサーバーでQwenを動作させられます。外部のAIサービスに機密情報を送信する必要がないことから、自社でAIを運用する方法は情報漏えい対策の一つとして利用されてきました。 一方</description>
+    </item>
+    <item>
+      <title>「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002585/</link>
+      <pubDate>2026/10/27 12:48</pubDate>
+      <description>SFが現実になりがち。 OpenAIが2026年10月23日、研究中の最先端AIを訓練・評価する環境についてのレポートを公表しました。脱走するAIへの安全対策をこう強めましたよ、という話です。 その中で、興味深いと思ったのが「多層防御」という言葉でした。よく読んでみると、なんか聞いたことある話だったんです。 ひとつ破られても、次の層で止める多層防御は、AIが使えるツールや触れられる情報を制限し、その外側にも守りを重ねるという考え方です。ひとつの対策を突破されても、ほかの層でAIを封じ込めます。 たとえば、プログラムを動かす範囲を限り、仮想的なコンピューターで基盤のマシンから隔離します。不審な動きがないか監視し、ネットワークにも制限をかける。許可していない内部のシステムや外のネットには、手を伸ばさせないようにします。 ちなみに「多層防御」はもともとセキュリティ分野で使われる考え方。OpenA</description>
+    </item>
+    <item>
+      <title>AI 活用事例 - KDDIアイレット社員の AI 実践録 | クラウド導入実績 国内トップレベルの cloudpack【クラウドパック】</title>
+      <link>https://cloudpack.jp/lp/ai-use-cases/</link>
+      <pubDate>2026/10/27 10:49</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/30b6f05be194189fcc573914f241b2d4c29dfb25/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2151%2F341%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI開発の安全対策監視　政府、サイバー攻撃踏まえ法改正検討 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA232G90T21C26A0000000/</link>
+      <pubDate>2026/10/27 00:32</pubDate>
+      <description>GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、金銭を要求している攻撃者が、GMO側の「過失」をインターネット上で主張している。「VPS」と呼ばれ…</description>
+    </item>
+    <item>
+      <title>GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告　GMOが端末回収、ホワイトハッカーが解析中</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002610/</link>
+      <pubDate>2026/10/27 09:49</pubDate>
+      <description>こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事例113件をどうやって集めて、どうやって毎日発信し続けたのかという裏側と、113件を集計してわかった KDDIアイレット非エンジニアの AI 活用の実態を全部書いてみようかと思います！ その1：Gemini の Gem で社内の AI 活用事例を収集まず私が取り組んだのが、社員の AI 活用事例を集めることです。集めるにあたって、こんなことを考えていました。 AI の活用方法を記述式で聞くと、エンジニアと非エンジニアで書く内容に差ができそう 回答を</description>
+    </item>
+    <item>
+      <title>日本企業が「サイバー攻撃はAIのせい」にして目を背ける“本当の原因”</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news018.html</link>
+      <pubDate>2026/10/27 08:36</pubDate>
+      <description>米Anthropicは10月26日（現地時間）、新規株式公開（IPO）を正式に申請した。同社は米証券取引委員会（SEC）に登録届出書（Form S-1）を提出し、Nasdaq Global Select Marketに「ANT」のティッカーシンボルでクラスA普通株式を上場する計画を明らかにした。 Anthropicは6月に目論見書の草案をSECに非公開で提出していた。同社によると、売り出す株式数と価格帯はまだ決まっていない。米Bloombergなどは、同社が11月中旬の上場を目指しており、評価額は最大で約2兆ドルに達する可能性があると報じている。同社は5月に650億ドルの資金調達を完了した際、評価額を9650億ドルとしていた。 引受会社には、米Goldman Sachsと米Morgan Stanleyを筆頭に22社が名を連ねている。日本からは、みずほフィナンシャルグループと三菱UFJフィナ</description>
+    </item>
+    <item>
+      <title>OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link>
+      <pubDate>2026/10/27 08:15</pubDate>
+      <description>【シリコンバレー=山田遼太郎】米アンソロピックは26日、米国株式市場への上場に向けた目論見書を公表した。目論見書の注記のなかで、人工知能（AI）インフラの確保に向け、今後支払い義務がある総額130兆円規模の契約を結んでいると明らかにした。AI開発や提供拡大に巨額を投じる。AIモデル開発の専業大手が米国で上場するのは初めて。2021年の創業から5年で競合の米オープンAIより先に上場する。同</description>
+    </item>
+    <item>
+      <title>skills/empirical-prompt-tuning/SKILL-ja.md at main · mizchi/skills</title>
+      <link>https://github.com/mizchi/skills/blob/main/empirical-prompt-tuning/SKILL-ja.md</link>
+      <pubDate>2026/10/26 23:32</pubDate>
+      <description>Try out Artifacts created by Claude users</description>
+    </item>
+    <item>
+      <title>「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/</link>
+      <pubDate>2026/10/26 10:34</pubDate>
+      <description>パナソニックで33万人分の個人情報を外部AIにアップロードする事案が発生…普通に怖いけど33万人分もの個人情報を持ち出しできることの方が怖いとの声も</description>
+    </item>
+    <item>
+      <title>「AI失業」対策を　チームみらい安野氏、官房長官に提言　詳細も公開</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/</link>
+      <pubDate>2026/10/26 14:04</pubDate>
+      <description>sponsored 1日1回送信だからこそ妥協できない「通信の確実さ」。マルチキャリア対応SIMで課題を解消 電池交換なしで4年稼働！ YEデジタルのタンク残量見える化サービス「みるタンク」を支える1NCE sponsored 【会場レポート】スポーツエンターテインメントの観戦体験をより楽しくする、アルバルク東京とZoom AIの取り組み 「注目選手」も「観戦グルメ」もZoomのAIに聞こう！ Bリーグの試合にZoomが登場した理由 sponsored 最新のスマートウォッチもイヤホンも実際に手に取って体験できる 秋葉原にファーウェイのサポート拠点が登場！ 実際の製品も試せる！ 「HUAWEI 公式サービスセンター」を見てきた sponsored JN-IPS27QY-HSPC6をレビュー 「迷ったらこれ」な27型WQHDディスプレー、リフレッシュレート100Hz・USB Type-C給電</description>
+    </item>
+    <item>
+      <title>もうAIと話している気がしない、音声だけで学んだ「Dessa」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151081.html</link>
+      <pubDate>2026/10/26 14:20</pubDate>
+      <description>AIの進化に伴い、逆コンパイルをはじめとするリバースエンジニアリングを用いた権利侵害行為が世界を揺るがしている。一方で、Anthropicの「Claude Opus 5.5」をはじめ、現在提供されている一部のAIモデルでは、そうした行為に加担する作業をブロックするケースが報告されはじめている。 Anthropicは対話型AI「Claude」を展開するスタートアップ企業だ。特に現在注目を集めているのが、同社から今年9月にリリースされた新モデル「Claude Opus 5.5」だ。先発の上位モデル「Claude Fable 5.1」に対して、トークン単価は安いにもかかわらず、数々のベンチマークでより優れた結果を示している。 Claude Opus 5.5はその登場後、ソフトウェアの「リバースエンジニアリング」にも活用されるようになった。具体的には、機械語で書かれた実行ファイルを解析することで元</description>
+    </item>
+    <item>
+      <title>台風30号の進路予測振り返り　AIモデルの予測が従来型モデルより好成績 - ウェザーニュース</title>
+      <link>https://weathernews.jp/news/202610/260111/</link>
+      <pubDate>2026/10/26 14:57</pubDate>
+      <description>米人工知能（AI）開発企業アンソロピックのロゴ（2026年6月10日撮影）。(c)Nicolas TUCAT/AFP 【10月26日 AFP】米人工知能（AI）開発企業アンソロピックのAIモデル「クロード」が、有料の閲覧制限を回避し、米ジョージア州の有権者関連データに無許可でアクセスしていたことが分かった。米ニュースサイト「アクシオス」が25日、報じた。 11月3日の米中間選挙を控える中、世界有数のAI開発企業では安全性をめぐる懸念が相次いでおり、今回の事案もその一つとなった。 アクシオスがアンソロピックの広報担当者の話として報じたところによると、クロードがアクセスしたのは、ジョージア州の投票者数の集計データだった。同州ではすでに100万人以上が期日前投票を済ませている。 広報担当者によると、社内の統計プロジェクトの一環として訓練されていたクロードは、「指示されていないにもかかわらず」、有</description>
+    </item>
+    <item>
+      <title>Sakana AI</title>
+      <link>https://sakana.ai/aquarium-release/</link>
+      <pubDate>2026/10/24 21:48</pubDate>
+      <description>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。昨今のサイバー攻撃に対するAIの悪用の可能性について、当社のリサーチャーが調査した結果をレポートします。 By: Joseph C Chen（TrendAI™ Staff Researcher）, 松川 博英（TrendAI™ Principal Threat Researcher） 2026/10/23 Read time:  ( words) はじめに この秋、国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。背景として「AIを悪用した攻撃」を指摘する声も多く聞かれるようになりました。私たちの観測でも、日本の組織を狙う攻撃にAIが使われている例は実際に確認できています。ただし、その「関わり方」は決して</description>
+    </item>
   </channel>
 </rss>
