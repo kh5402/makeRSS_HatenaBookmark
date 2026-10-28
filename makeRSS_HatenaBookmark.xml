@@ -270038,5 +270038,83 @@ June 6, 2026</description>
       <pubDate>2026/10/27 09:04</pubDate>
       <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシング攻撃の有効性を検証した研究報告だ。 だまされる人（ターゲット）それぞれ個別に合わせて文面を作り込む「スピアフィッシング」というフィッシング攻撃がある。近年では、その文面をLLM（大規模言語モデル）が生成する可能性が</description>
     </item>
+    <item>
+      <title>『トップをねらえ！』第5話の雷王星までの距離を相対論から検討する</title>
+      <link>https://anond.hatelabo.jp/20261028212014</link>
+      <pubDate>2026/10/28 21:21</pubDate>
+      <description>NEC0 @Nec0_VRC 訳4年間グラフィックデザイナーとして働いているわけだが、今年で完全に従来のデザイナーという職業は無くなりそう。当然AIの影響。クライアントがAIを使ってるのが日常化仕事も大幅に消えた。 AIを使うクライアントにどう付加価値を付けてクリエイターという職を残すかの課題に朝毎日苦しめられている 2026-10-26 21:28:34 NEC0 @Nec0_VRC 産業革命に伴って不要な職が淘汰されていくのは自然の流れ、それは分かる。けど街にAIポン出しのガビガビで汚いポスターが溢れてるのを見ると、こんなレベルの物で良かったんだなって悲しくなる。まぁ発注側はコストが大幅に下がるに越したことは無いからそんなものだろうけど。 2026-10-27 13:18:32</description>
+    </item>
+    <item>
+      <title>Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title>
+      <link>https://gigazine.net/news/20261028-claude-mythos-5-failure/</link>
+      <pubDate>2026/10/28 20:00</pubDate>
+      <description>この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないままでは、不正なコードの実行やデータ流出、サービス停止につながる恐れがある。 PHPは、世界のウェブサイトの最大70％を支えるオープンソースのスクリプト言語だ。サイトの所有者が更新しなければ、古いバージョンが使われ続け、攻撃を受けるリスクが高まる。今回の脆弱性について警告が出ると、ほどなく修正版のPHPが公開され、サイト運営者に更新が呼びかけられた。更新作業のために一時停止した政府サイトもあったが、多くのサイトでは、修正を適用するかどうかが個々の所有者に委ねられている。</description>
+    </item>
+    <item>
+      <title>AIがコードを書いてくれる時代、我々は何を確かめるのか</title>
+      <link>https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</link>
+      <pubDate>2026/10/28 18:48</pubDate>
+      <description>セキュリティサービス部 佐竹です。 本ブログでは、2026年7月14日に提供開始された Amazon GuardDuty の「AI Protection」について、有効化を強く推奨する理由と、GUI からの有効化手順を解説します。 はじめに Amazon GuardDuty AI Protection とは 有効化を推奨する背景と理由 AI Protection で追加される3つの Finding Impact:IAMUser/AnomalousModelInvocation Impact:IAMUser/CostHarvesting Impact:IAMUser/PromptInjection.Direct AttackSequence:IAM/CompromisedCredentials の強化 CloudTrail 側の追加設定は不要です コストについて 30 日間の無料トライアルが</description>
+    </item>
+    <item>
+      <title>「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html</link>
+      <pubDate>2026/10/28 16:18</pubDate>
+      <description>人は誰かから不当な扱いを受けたり危害を加えられたりした場合、相手に怒りを抱いて復讐を求めることがあります。新たな研究では、人間は相手が何も感じないアルゴリズムであっても不当な扱いに怒りを覚え、復讐するために自分が損することすらためらわないことがわかりました。 Artificial intelligence and machines are capable of harm, but not of experiencing punishment. https://psycnet.apa.org/record/2027-80422-001 We&amp;#39;ll pay to get revenge on an algorithm, even though it can&amp;#39;t feel a thing https://www.psypost.org/well-pay-to-get-revenge-on-an-</description>
+    </item>
+    <item>
+      <title>AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
+      <link>https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</link>
+      <pubDate>2026/10/28 13:58</pubDate>
+      <description>Qiita Conference 2026 Autumn https://qiita.com/conference/2026-autumn</description>
+    </item>
+    <item>
+      <title>トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」 | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/3042737</link>
+      <pubDate>2026/10/28 11:25</pubDate>
+      <description>AI×Security Conference 2026 https://ai-x-security-con.findy-tools.io/2026 https://x.com/hi120ki/status/2115247180411781505</description>
+    </item>
+    <item>
+      <title>小学校でイスラム教に配慮して「給食のメニューにおける豚肉の不使用について」というお知らせプリントはAI製だよ - 電脳塵芥</title>
+      <link>https://nou-yunyun.hatenablog.com/entry/2026/10/28/140000</link>
+      <pubDate>2026/10/28 14:19</pubDate>
+      <description>米Anthropicは10月27日（現地時間）、新薬開発に取り組む6組織との提携の進捗とあわせて、自社でも創薬活動を進めていると発表した。小児の希少な筋ジストロフィーの治療法を開発してきたバイオ企業を買収し、その研究を社内で続けている。</description>
+    </item>
+    <item>
+      <title>ChatGPTが娘に発作治療薬の服用をやめるよう指示したとして両親がOpenAIを提訴</title>
+      <link>https://gigazine.net/news/20261028-parents-sue-openai-alleging-gpt-4o/</link>
+      <pubDate>2026/10/28 13:37</pubDate>
+      <description>分析基盤を整え、AIに問い掛ければ答えが返る環境を用意しても、業務で必要な情報が記録されていなければAIは答えを導けない。では、何を記録し、どう分析するかは、誰がいつ決めればよいのか。 大阪ガスの國政秀太郎氏は、システム開発、データ基盤、業務知識の管理を担う部署が分かれ、工程間で情報が途切れる点にデータ活用の壁を見る。同社は、AI駆動開発基盤「WAAAP」を起点に3つの循環をつなぐ「データ民主化2.0」を構想する。その全貌とは。 まず國政氏は、データ分析の専門組織が築いてきた基盤と、生成AIを組み込んだ組織変革の構想を紹介した。構想の狙いは、従業員がデータへアクセスできる状態を超え、業務の変化に応じてシステムや分析環境が更新され、人が判断に集中できる組織を実現することにある。同社はこの構想を「データ民主化2.0」と呼ぶ。既存の取り組みの延長に、開発と運用、知識管理を結ぶ仕組みを置く発想だ。</description>
+    </item>
+    <item>
+      <title>バルミューダが初のコンテンツ事業「パーソナルAIラジオ」発表　“自分だけの番組”を毎朝10分配信する狙いとは</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2610/27/news096.html</link>
+      <pubDate>2026/10/27 21:54</pubDate>
+      <description>個人ブログを持ってみて、AI Agent 時代には個人ブログが適していると感じたのでそのお気持ちを書き連ねています。 お気持ち目次 こんにちは、しーぴー (@cp20) です。さいきん個人ブログを作って、いくつか記事を書いています。 個人ブログを人生で初めて持ってみて、AI Agent 全盛時代だからこそ個人ブログを始める時期だなと思ったので、このブログを書いています。楽しんでね。 大 AI Agent 時代 = 大 AI slop 時代 AI Agent が賢くなって色んなことができるようになった今、AI slop と呼ばれるような現象が起きるようになりました。 LLM に雑に書かせた技術記事をまともにチェックもせずに Qiita や Zenn などのサイトに上げる人のなんと多いことか。LLM に書かせるのは良いんですが、プロンプトが記事の中に残っているぐらいチェックが漏れていると、それ</description>
+    </item>
+    <item>
+      <title>脱GPUが加速、OracleもGoogle製TPUを選択</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151701.html</link>
+      <pubDate>2026/10/28 06:44</pubDate>
+      <description>Qiita Conference 2026 Autumn https://qiita.com/conference/2026-autumn</description>
+    </item>
+    <item>
+      <title>AMDとIntel、x86 CPU向けPyTorch最適化を統合へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151484.html</link>
+      <pubDate>2026/10/27 17:30</pubDate>
+      <description>OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は、論理式の条件を満たす答えが存在するかどうかを判定する問題について、計算時間をどこまで短縮できるかをめぐる予想だ。長年にわたり広く支持され、グラフ理論や計算生物学、データベースなど、さまざまな分野で「この問題を効率よく解くのは難しい」とする数百本の論文の前提になってきた。 OpenAIによると、AIはこの仮説が誤りであることを示す証明を生成した。数学的な証明をコンピューターで形式的に検証するソフトウェア「Lean」でも確認したという。AIが生成した説明とLeanによる証明は公開済み</description>
+    </item>
+    <item>
+      <title>アマルアマテルアマテラス　01｜IsoMitsuo</title>
+      <link>https://note.com/isomitsuo/n/nd6f66ed87bfd</link>
+      <pubDate>2026/10/27 22:20</pubDate>
+      <description>最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエンドエンジニアであり、ZEN大学客員講師を務める折原レオナルド賢が指南します。最終回となる第5回のテーマは、AIが生成したUIを「使われるUI」に仕上げるための調整力です。AIは、短時間で見た目の整った画面を生成できます。だからこそ、一見しただけでは気づきにくい使いにくさを見過ごしがちです。今回は、これまで取り上げた4つの観点を使い、AIが作った80点のUIを、ユーザーにとっての100点へ近づける方法を解説します。 AI生成UIの「操作できる」と「使える」の決定的な違い AIが生成したと一目でわ</description>
+    </item>
+    <item>
+      <title>「世界が恐れるのは無理もない」　サム・アルトマン氏が語ったAIの安全性とHugging Face事件</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/26/news019.html</link>
+      <pubDate>2026/10/26 09:48</pubDate>
+      <description>近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 No Signs of AI Payoff Outside the Tech Sector | The Daily Spark https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector トルステン氏は新たなレポートで、AIに対する巨額の投資と広範な宣伝にもかかわらず、この技術はテクノロジー業界以外のアメリカ企業に何の経済的利益も</description>
+    </item>
   </channel>
 </rss>
