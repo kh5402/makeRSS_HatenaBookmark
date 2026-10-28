@@ -270116,5 +270116,74 @@ June 6, 2026</description>
       <pubDate>2026/10/26 09:48</pubDate>
       <description>近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 No Signs of AI Payoff Outside the Tech Sector | The Daily Spark https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector トルステン氏は新たなレポートで、AIに対する巨額の投資と広範な宣伝にもかかわらず、この技術はテクノロジー業界以外のアメリカ企業に何の経済的利益も</description>
     </item>
+    <item>
+      <title>Gemini 4 Carbon: our next frontier model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <pubDate>2026/10/29 02:53</pubDate>
+      <description>ダウンロードフォルダに仕込んだマークダウンファイルを使ってユーザーのAIエージェントを悪用――イスラエルのセキュリティ企業Reboraはこのような攻撃を確認したとして、ダウンロードフォルダでエージェントを起動しないよう呼びかけた。 Reboraは顧客のコンピュータのダウンロードフォルダに悪意のある「AGENTS.md」（エージェントへの指示を記載したマークダウンファイル）を発見。Webサイトはユーザーの操作なくダウンロードフォルダにファイルを保存できる場合があり、同社は攻撃者がその仕組みを悪用していると10月22日（現地時間）に公開したブログ記事で説明している。 悪意のあるファイルが仕込まれたフォルダで米OpenAIの「Codex」や米Anthropicの「Claude Code」などのコーディングエージェントを起動すると、エージェントはファイルの指示に従って自身の構成を書き換え、マルウェ</description>
+    </item>
+    <item>
+      <title>AI時代のシニアエンジニアとは</title>
+      <link>https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha</link>
+      <pubDate>2026/10/28 19:56</pubDate>
+      <description>『トップをねらえ！』第5話では、亜光速航行によるウラシマ効果が物語の中心に置かれている。 作中に示される時間と距離を特殊相対論に当てはめると、雷王星までの距離は一つに定まらない。 どの情報を基準にするかによって、数百AUから数万AUまで異なる値が得られる。 以下では、三つの条件をそれぞれ独立に計算する。 ■ 作中戦闘時間から推定する雷王星の距離 まず、雷王星の設定上の距離は使わず、作中の時間だけから戦場までの距離を逆算する。 計算のため、ガンバスター側の経過時間を次のように仮定する。 往路：3時間 戦闘：1時間 復路：3時間 合計：7時間 地球側では、作戦全体で約9か月、そのうち戦闘中に約6か月が経過したものとする。 この時間配分では、往路と復路に使われる地球時間は合計3か月になる。 往復を対称とすれば、片道の地球時間は1.5か月である。 1か月を平均30.4375日とすると、 1.5か月</description>
+    </item>
+    <item>
+      <title>Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/28/2000002648/</link>
+      <pubDate>2026/10/28 08:17</pubDate>
+      <description>AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 An alignment assessment of the UK AISI cybertesting incident \ Anthropic https://www.anthropic.com/research/alignment-assessment-ukaisi Investigating alignment fai</description>
+    </item>
+    <item>
+      <title>PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title>
+      <link>https://japan.cnet.com/article/35254103/</link>
+      <pubDate>2026/10/28 18:39</pubDate>
+      <description>2026年9月、OpenAIからアンソロピックに転職し、その後退職したAI研究者ジェイコブ・コクソンは、両社が自己改善可能な人工超知能の開発競争に突き進み「人類の命運を賭けた危険な賭けをしている」と非難した。人工超知能のリスクに警鐘を鳴らす有路翔太（bioshok）さんは「海外の識者らは、超知能が実現すれば、わずか数日で人類を滅ぼすこともできると考えている」という――。</description>
+    </item>
+    <item>
+      <title>AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note</title>
+      <link>https://note.freee.co.jp/n/n91ba6466e1e3</link>
+      <pubDate>2026/10/28 11:58</pubDate>
+      <description>Google DeepMindが2026年10月27日に世界シミュレーションAI「Genie 4」を発表しました。Genie 4はユーザーの操作に応じて仮想世界をリアルタイムで生成するAIで、従来モデルと比べて映像や人物の動きがリアルになったほか、環境音や会話の生成にも対応しています。 Genie 4: A new generation of world simulation — Google DeepMind https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Genie 4: A new generation of world simulation - YouTube Google DeepMindは文章や画像から操作可能な仮想世界を生成する「Genie」シリーズを開発しています。2025</description>
+    </item>
+    <item>
+      <title>@mizchi/mutator で vitest の mutation test をする</title>
+      <link>https://zenn.dev/mizchi/articles/introduce-mutator</link>
+      <pubDate>2026/10/27 16:03</pubDate>
+      <description>20世紀初頭の辞書をひもとくと、「computer」という語は算術計算を仕事とする人、つまり計算する人間を指していた。20世紀半ばには、その意味は電子計算機へと変わった。この意味の変化をもたらしたのは、上からの命令ではなく、労働と技術の変化だった。 いまや私たちは、大統領が英語を取り仕切る新世界に足を踏み入れたようだ。そこでは、言葉は実際の使われ方によって定まるのではなく、権力を行使する手段として上から押し付けられる。Donald Trump米大統領は米国時間10月27日、「人工知能（AI）」を「非常に悪く、不正確な名称」と呼び、「関連するすべての文書やその他あらゆるもの」で、この用語を「正式に」禁止すると述べた。代わりに使いたい名称は、引き続き「超知能（super intelligence）」だ。 この禁止の予告は、Trump政権が9月下旬に出した大統領令から、さらに踏み込むものだ。この</description>
+    </item>
+    <item>
+      <title>GMO不正アクセスの犯人サイト、ドメイン停止を確認</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/28/2000002659/</link>
+      <pubDate>2026/10/28 12:45</pubDate>
+      <description>基盤モデルを中心に発展してきた「現代AI」を構成するトピックの中から、比較的新しく、かつ重要と思われる観点について「歴史・流れ・気持ち」を大事にしながら概観をします。 IBIS 2026 でのチュートリアルセッションでの発表資料を加筆修正した内容となります。 https://ibisml.org…</description>
+    </item>
+    <item>
+      <title>「LM Studio」をAI推論サーバーにする方法 ～Claude CodeからLM Studioをローカルサーバーとして呼び出して動かす - 窓の杜</title>
+      <link>https://forest.watch.impress.co.jp/docs/review/localai/2151348.html</link>
+      <pubDate>2026/10/27 13:24</pubDate>
+      <description>タカラトミーの玩具「ベイブレードX」でシュートの強さを記録できる周辺機器「ベイバトルパス」の通信データを解析し、シュートの結果をリアルタイムで表示する独自アプリを開発した人物がその制作過程を公開しました。 Reverse engineering a Beyblade launch tracker - Simone&amp;#39;s Blog https://blog.simone.computer/reverse-beyblade-launch-tracker 開発したのはアイルランド在住のシモーネ・マルツッリ氏です。マルツッリ氏は2025年の夏にInstagramでベイブレードXの動画を目にしたことがきっかけで、子どもの頃に遊んでいたベイブレードに再び夢中に。地元のおもちゃ屋でスタジアムやベイブレードを購入し、友人たちと遊ぶほど熱中し、ついには大会に参加したり部品の組み合わせを研究したりするようになり</description>
+    </item>
+    <item>
+      <title>AIブームでデータセンター向け機材の窃盗が相次ぐ、被害総額は6月以降だけで150億円以上</title>
+      <link>https://gigazine.net/news/20261027-ai-gear-stealing/</link>
+      <pubDate>2026/10/27 13:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ddfe62d188f9905ea9b9cb3952acdaecd0504925/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F399%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoftが全従業員の4分の1に相当する6万人を対象とする自主退職制度を発表、AI投資による財政圧迫が理由か</title>
+      <link>https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/</link>
+      <pubDate>2026/10/27 14:33</pubDate>
+      <description>米Metaは10月26日（現地時間）、AIインフラと、AIエージェント「Muse」などを通じて実現を目指す「パーソナル超知能」への投資を支えるため、総額約950億ドル（約15兆円）規模の株式発行による資金調達計画を発表した。まず約350億ドルの株式を公募し、2027年には最大600億ドルの追加発行を計画している。NVIDIA、AMD、Broadcomの米3社が、合計最大50億ドルの出資に関心を示していることも明らかにした。 今回募集を開始するのは、225億ドル相当のクラスA普通株式と、125億ドル相当の強制転換型優先株式を裏付けとする預託株式の2種類。後者は原則として2029年8月に普通株式へ自動転換される仕組みで、Metaは新たに発行する強制転換型優先株式を裏付けとする預託株式について、既存の普通株式（ティッカーシンボル「META」）とは別に、「METAM」のシンボルでNasdaqへの上</description>
+    </item>
+    <item>
+      <title>LINEで通話の録音／録画が可能に　音声通話は文字起こしも　今冬からは有料に</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2610/27/news062.html</link>
+      <pubDate>2026/10/27 12:16</pubDate>
+      <description>本日から新たに日本語を含む5つの言語で利用できるSiri AIは、これまでよりはるかに有能で、より自然な会話ができるようになったアシスタントで、ユーザーがこれまで以上に多くのことをできるよう手助けします。 Appleは、本日利用可能になった27.2のソフトウェアアップデートで、まったく新しいバージョンのSiriであるSiri AIを日本語で提供開始するほか、フランス語、韓国語、ポルトガル語、スペイン語にも対応します。Siri AIは、パーソナルコンテクストの理解、幅広い知識、オンスクリーン認識、さらにシステム全体で使えるアプリ内でのアクションの充実を実現した、より有能で、より自然な会話ができるアシスタントです。そのすべてが、ユーザーのプライバシーを損なうことなく実行されます。あらゆるトピックについての質問に答えたり、ユーザーのメッセージ、Eメール、写真などの中から関連情報を見つけ出したりす</description>
+    </item>
   </channel>
 </rss>
