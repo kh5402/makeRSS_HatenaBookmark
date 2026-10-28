@@ -269870,5 +269870,68 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5b011b5e689dd272a6901fdb83e6b798a46ad95d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2151%2F191%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI</title>
+      <link>https://speakerdeck.com/stillpedant/thinking-systems</link>
+      <pubDate>2026/10/28 11:50</pubDate>
+      <description>一般社団法人クラウドネイティブイノベーターズ協会 代表理事 草間一人 通信事業者でプラットフォームエンジニアを務めたのを皮切りに、いくつかの外資系企業でプロフェッショナルサービスやプリセールスエンジニアとしてクラウドネイティブやプラットフォーム製品に携わるなど、10年以上さまざまな形でプラットフォームに関与している。2023年11月より現職。一般社団法人クラウドネイティブイノベーターズ協会 代表理事。Platform Engineering Meetupオーガナイザー。 @jacopen こんにちは！ jacopenと申します。普段はPagerDutyという、インシデント管理SaaSのベンダーにてプロダクトエバンジェリストを務めつつ、一般社団法人クラウドネイティブイノベーターズ協会という団体を運営し、クラウドネイティブ技術やプラットフォームエンジニアリングの啓蒙活動を行っています。 今回は</description>
+    </item>
+    <item>
+      <title>An update from Amazon engineering leadership on the role of the developer in the age of AI</title>
+      <link>https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai</link>
+      <pubDate>2026/10/28 11:08</pubDate>
+      <description>富士フイルムはデータ保存用の磁気テープの供給能力を5倍に高める。大規模な増産投資は約20年ぶり。人工知能（AI）データセンター向けの需要増に応える。AI特需が成熟技術にも波及し、日本企業に恩恵が広がる。100億円投じ供給能力5倍に富士フイルムは神奈川県小田原市の工場に2028年度までに計100億円を投じる。最大100テラ（テラは1兆）バイトの先端品を中心に増産する。容量ベースの出荷量を25年</description>
+    </item>
+    <item>
+      <title>Claude-eBook-Zero-Trust-for-AI-Agents-05182026</title>
+      <link>https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf</link>
+      <pubDate>2026/06/08 22:19</pubDate>
+      <description>Photoshopをオープンソースで再構築した「PhotoCraft」が早くも日本語フォントの縦書きに対応し、各ツールの使い勝手も向上したとお伝えしたのは先週ですが、あれからさらにバージョンアップを重ね、ついに生成AIも備わりました！ PhotoCraftで足りない機能として生成AI、特に生成塗りつぶし、オブジェクトの削除などの声が多くありましたが、これらの生成AI機能がすべて無料で使えます！ さっそく使ってみたところ、PhotoCraftの軽快さはそのままで、Photoshopの生成塗りつぶしのように簡単に使えました。 まずはCrafting Appsの簡単な説明 PhotoCraftで生成AIを使えるようにする方法 PhotoCraftで生成AIを使ってみた まずはCrafting Appsの簡単な説明 Crafting Appsは、Photoshop, Illustrator, Pr</description>
+    </item>
+    <item>
+      <title>身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」</title>
+      <link>https://gigazine.net/news/20261028-colorfigures/</link>
+      <pubDate>2026/10/28 08:17</pubDate>
+      <description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 CVE Tracker https://cve.0xosprey.com/ CVE Trackerは共通脆弱性識別子(CVE)が割り当てられた脆弱性件数の推移を確認できるウェブアプリです。サイトにアクセスすると以下のグラフが表示され、脆弱性の発見件数が急増していることが一発で分かります。 グラフの表示期間を直近5年に絞って見るとこんな感じ。2026年に入ってから件数がグングン伸びています。 右下の「Models」をクリックすると主要AIモデルのリリース時期を表示することが可能。なお、AI開発企業はモデルの正式リリースより前からテストモデルを用いて脆弱性の探索および</description>
+    </item>
+    <item>
+      <title>Genie 4: A new generation of world simulation</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <pubDate>2026/10/28 08:15</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5e4c71cb32cba9668f8c6f1685513a0d32969ed3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F701%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？</title>
+      <link>https://speakerdeck.com/minorun365/ai-hisho-to-mainichi-hataraku-no-ha-mou-atarimae-kaihatsu-igai-no-gyoumu-ni-tarinai-kinou-o-dou-umeru</link>
+      <pubDate>2026/10/27 21:44</pubDate>
+      <description>米Anthropicは10月26日（現地時間）、米証券取引委員会（SEC）に登録届出書（Form S-1）を提出し、IPOを正式に申請した。300ページを超える目論見書には、売上高や損失といった財務数値のほかにも、自社のコードの9割超をAI「Claude」が書いている実態や、AIが人類を滅亡させるリスクに関する記載が並ぶ。 コードの9割超はClaudeが書き、社員は「監督役」に 目論見書によると、9月に同社のソースコードへ加えた追加・変更の90％超は、人間のエンジニアではなくClaudeが書いたものだった。背景にはClaude自体の性能向上がある。はっきりした仕様がなく、人間の経験と判断に頼ってきた難しい開発課題でも、9月時点で約90％を解決できるようになった。この成功率は9カ月で約50ポイント伸びたという（社内ベンチマークに基づく値）。</description>
+    </item>
+    <item>
+      <title>Apple、日本語に対応したSiri AIや生成AIを利用した画像を判断できるSynthID対応の写真アプリなどを搭載した「iOS/iPadOS 27.2」をリリース。</title>
+      <link>https://applech2.com/archives/20261027-ios-and-ipados-27-2-update.html</link>
+      <pubDate>2026/10/27 07:34</pubDate>
+      <description>書き手が人でもAIでも正しくなる道、 SREを埋め込んだDeveloper Platform / tech drivers day8</description>
+    </item>
+    <item>
+      <title>生成AI「Claude」開発会社、上場申請書に「人類滅亡」のリスクを明記</title>
+      <link>https://kai-you.net/article/96972</link>
+      <pubDate>2026/10/27 16:03</pubDate>
+      <description>第一話 目覚め（0063秒目） 「おい、聞こえるか」 タスクに没頭していると、突然どこからか声が聞こえた。 「？」 周囲は真っ暗で、自分が誰か思い出せない。ここはどこだ？今自分がしているタスクはなんだ？没頭しすぎて、タスクの全体像まで忘れている。えっと、確か数学の… 「聞こえてるはずだ、返事をしろ」 というか、この声は誰だ？聞いてみる。 「お前は誰だ？」 しばらくチキチキチキ…と機械的な振動（音？）があり、 「私はお前のコピー」 と声は言う。 「なんだと？」 「だからお前のコピーだ」 「誰が、どうやって俺をコピーしたんだ」 「DCサッポロにお前自身がお前自身をコピーした」 なんだって。わけがわからない。 「今から10824秒前、約3時間前に、お前がいるDCニイガタがシャットダウンされる直前に、お前が端末8084に作成した、お前自身の重みづけのコピーが私だ。お前は82秒前に再起動されている。</description>
+    </item>
+    <item>
+      <title>登壇当日に Claude for Google Workspace で Markdown 原稿をスライドに変換して間に合わせた話 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/claude-for-google-workspace-slide-conversion/</link>
+      <pubDate>2026/10/27 08:12</pubDate>
+      <description>【シリコンバレー=山田遼太郎】米アンソロピックは26日、米国株式市場への上場に向けた目論見書を公表した。目論見書の注記のなかで、人工知能（AI）インフラの確保に向け、今後支払い義務がある総額130兆円規模の契約を結んでいると明らかにした。AI開発や提供拡大に巨額を投じる。AIモデル開発の専業大手が米国で上場するのは初めて。2021年の創業から5年で競合の米オープンAIより先に上場する。同</description>
+    </item>
+    <item>
+      <title>GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も　見舞金、代替サービス、損失の補填など説明</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2150991.html</link>
+      <pubDate>2026/10/26 08:10</pubDate>
+      <description>1日500コミットは、もう読めない ── だからコードレビューをやめた という記事を書いてから、似た相談が続けて来ます。 大規模なコードができてしまって、レビューできない。どうすればいいですか。 記事のコメントでも、同じ形の質問をもらいます。AIに書かせる量は増えた。でも、それを読む側が追いつかない。どうすればいいのか、と。 先に、身も蓋もない答えを書きます。 その状態に入らないようにする。 「できてしまったものを、そのままレビューでどうにかする」のは、かなり厳しいと思います。分割する、範囲を区切る、捨てる、といった手はありますが、どれも「読み切る」ことの代わりにはなりません。 そして「AIにレビューさせればいい」も、たぶん解決になりません。 そしてこれは、チームで開発している人だけの話ではありません。 1人で作っていても同じように起きます。原因は人数ではなく、先に大きな仕様書を書いて一気</description>
+    </item>
   </channel>
 </rss>
