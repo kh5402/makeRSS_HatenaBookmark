@@ -269933,5 +269933,110 @@ June 6, 2026</description>
       <pubDate>2026/10/26 08:10</pubDate>
       <description>1日500コミットは、もう読めない ── だからコードレビューをやめた という記事を書いてから、似た相談が続けて来ます。 大規模なコードができてしまって、レビューできない。どうすればいいですか。 記事のコメントでも、同じ形の質問をもらいます。AIに書かせる量は増えた。でも、それを読む側が追いつかない。どうすればいいのか、と。 先に、身も蓋もない答えを書きます。 その状態に入らないようにする。 「できてしまったものを、そのままレビューでどうにかする」のは、かなり厳しいと思います。分割する、範囲を区切る、捨てる、といった手はありますが、どれも「読み切る」ことの代わりにはなりません。 そして「AIにレビューさせればいい」も、たぶん解決になりません。 そしてこれは、チームで開発している人だけの話ではありません。 1人で作っていても同じように起きます。原因は人数ではなく、先に大きな仕様書を書いて一気</description>
     </item>
+    <item>
+      <title>Amazon GuardDuty AI Protection の有効化を強くおすすめしています - サーバーワークスエンジニアブログ</title>
+      <link>https://blog.serverworks.co.jp/guardduty-ai-protection</link>
+      <pubDate>2026/10/27 10:01</pubDate>
+      <description>Qiita Conference 2026 Autumn https://qiita.com/conference/2026-autumn</description>
+    </item>
+    <item>
+      <title>全社エージェント活用を加速するメルカリのAIセキュリティ&amp;amp;ガバナンス実践</title>
+      <link>https://speakerdeck.com/hi120ki/mercari-ai-security-conference-2026</link>
+      <pubDate>2026/10/28 15:24</pubDate>
+      <description>https://www.threads.com/@fu_100w_desu/post/DfAP_YuI6Yk スレッズで上記の様な投稿が拡散していた。どこかの小学校で「給食のメニューにおける豚肉の不使用について」というプリントが配布され、イスラム教に配慮して豚肉を附仕様にするというお知らせなのだが、画像の見た目がどうにもAIっぽいなと思ったらやはりAIの様だ。 絵と文字の向きが不自然という返信に対して「直ドリです。」とこの「平泉 風華@fu_100w_desu」というアカウントは返信しているが、直ドリならばSynthIDの検出はおかしいだろう。なおこのアカウントは10月25日に投稿を開始し、高頻度で自分の家族についての投稿をしているが、それらを読んでいると正直かなり「キャラ（自己紹介欄では4人の子持ちの母）」を演じている感が鼻につくというか、わざとらしさを感じる。AI画像については上記以外</description>
+    </item>
+    <item>
+      <title>生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261028-476063/</link>
+      <pubDate>2026/10/28 14:11</pubDate>
+      <description>こんにちは！freeeのAI Platform Engineering というチームでAI基盤開発などを担当している gon と申します。 2026年10月16日に開催された、ファインディさん主催の「AI×開発組織Summit 2026」に参加してきました！freeeからはCAIOの横路が特別講演枠で「freeeにおける大規模ソフトウェアファクトリーの実践」というタイトルで登壇しました。私は今回、横路の付き添いです。 当日の様子をXに投稿したところ、ありがたいことに想像以上の反響があり、「ソフトウェアファクトリー」がトレンドに載るほどでした。この記事では、スライドの内容に沿って、当日口頭で話していた補足やfreeeの現状もあわせて紹介します。 スライドも公開しています。 なぜ工場を作るのか実は、横路は昨年もこのイベントでAIネイティブカンパニーのビジョンの話をしていて、今年はそこから一歩進</description>
+    </item>
+    <item>
+      <title>Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能</title>
+      <link>https://gigazine.net/news/20261028-google-genie-4/</link>
+      <pubDate>2026/10/28 12:11</pubDate>
+      <description>20世紀初頭の辞書をひもとくと、「computer」という語は算術計算を仕事とする人、つまり計算する人間を指していた。20世紀半ばには、その意味は電子計算機へと変わった。この意味の変化をもたらしたのは、上からの命令ではなく、労働と技術の変化だった。 いまや私たちは、大統領が英語を取り仕切る新世界に足を踏み入れたようだ。そこでは、言葉は実際の使われ方によって定まるのではなく、権力を行使する手段として上から押し付けられる。Donald Trump米大統領は米国時間10月27日、「人工知能（AI）」を「非常に悪く、不正確な名称」と呼び、「関連するすべての文書やその他あらゆるもの」で、この用語を「正式に」禁止すると述べた。代わりに使いたい名称は、引き続き「超知能（super intelligence）」だ。 この禁止の予告は、Trump政権が9月下旬に出した大統領令から、さらに踏み込むものだ。この</description>
+    </item>
+    <item>
+      <title>Discovering and exploiting vulnerabilities in critical, real-world software with Claude</title>
+      <link>https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</link>
+      <pubDate>2026/10/28 08:29</pubDate>
+      <description>One of the biggest shifts our leadership teams are seeing right now is how AI is changing the way software development engineers (SDEs) do their work, while balancing that the important elements of being an SDE are the same. Engineering leadership, including Distinguished and Senior Principal Engineers, from across Amazon recently came together to reaffirm what it means to be an SDE at Amazon. Bas</description>
+    </item>
+    <item>
+      <title>富士フイルム、磁気テープ20年ぶり大型増産　AIデータ保存リスク低く - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC073490X01C26A0000000/</link>
+      <pubDate>2026/10/28 07:59</pubDate>
+      <description>ZeroTrustfor AIAgents A security framework for deploying autonomous AI agents in the enterprise. Tableofcontents Building for the next threat landscape 3 The principles behind Zero Trust 4 Part I: Security considerations for autonomous systems 5 Part II: Current threats to agentic systems 8 Part III: Applying Zero Trust to agentic AI services 12 Part IV: Agent implementation workflow 22 Part V: De</description>
+    </item>
+    <item>
+      <title>これを待ってた！ 「PhotoCraft」でAIによる生成塗りつぶし・オブジェクトの削除が使えるようになりました、しかも完全無料</title>
+      <link>https://coliss.com/articles/build-websites/operation/work/free-local-ai-generative-fill-for-photocraft.html</link>
+      <pubDate>2026/10/28 09:57</pubDate>
+      <description>「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです。Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます。 Colorfigures skill · April Zhu https://april-zhu.com/colorfigures Colorfiguresは、家にある物や街中で見かける物について説明すると、AIが手描き風のビジュアルを生成してくれます。また、生成されるのは単なるイラストではなく、動かしたり動作させたりすることもできます。Colorfiguresのウェブページにある「Gumba</description>
+    </item>
+    <item>
+      <title>AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
+      <link>https://gigazine.net/news/20261028-cve-tracker/</link>
+      <pubDate>2026/10/28 08:17</pubDate>
+      <description>Design advanced algorithms for math and applications in computing</description>
+    </item>
+    <item>
+      <title>AI Agent 時代こそ個人ブログ — しぴろぐ</title>
+      <link>https://blog.cp20.dev/posts/personal-blog-in-ai-agent-era/</link>
+      <pubDate>2026/10/27 22:26</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5e4c71cb32cba9668f8c6f1685513a0d32969ed3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F701%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/27/2000002644/</link>
+      <pubDate>2026/10/27 20:35</pubDate>
+      <description>OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は、論理式の条件を満たす答えが存在するかどうかを判定する問題について、計算時間をどこまで短縮できるかをめぐる予想だ。長年にわたり広く支持され、グラフ理論や計算生物学、データベースなど、さまざまな分野で「この問題を効率よく解くのは難しい」とする数百本の論文の前提になってきた。 OpenAIによると、AIはこの仮説が誤りであることを示す証明を生成した。数学的な証明をコンピューターで形式的に検証するソフトウェア「Lean」でも確認したという。AIが生成した説明とLeanによる証明は公開済み</description>
+    </item>
+    <item>
+      <title>ブラウザでPDF/Office文書などを表示できるビューアを作りながらAI slopについて考えた | フューチャー技術ブログ</title>
+      <link>https://future-architect.github.io/articles/20261027a/</link>
+      <pubDate>2026/10/27 13:20</pubDate>
+      <description>Appleが日本語に対応したSiri AIや生成AIを利用した画像を判断できるSynthID対応の写真アプリなどを搭載した「iOS/iPadOS 27.2」をリリースしています。詳細は以下から。 Appleは2026年10月26日、日本語を含むフランス語や韓国語、ポルトガル語、スペイン語に対応したSiri AIを搭載した「iOS/iPadOS 27.2 (24B119)」をリリースしたと発表しています。 このアップデートでは、Siri AIがフランス語、日本語、韓国語、ポルトガル語、スペイン語に対応するようになります。また、iPhone用のその他の機能、バグ修正、およびセキュリティアップデートも含まれています。 リリースノートより 「iOS 27.1」についてはiPhone Duoのみに搭載されているため、ほとんどのiPhone/iPadに対して「iOS/iPadOS 27.2」は09月2</description>
+    </item>
+    <item>
+      <title>Claude Codeから見る、エンジニアの世界の変容とその先</title>
+      <link>https://speakerdeck.com/oikon48/qiita-con-claude-code</link>
+      <pubDate>2026/10/27 19:20</pubDate>
+      <description>生成AI「Claude」を開発する米Anthropicが10月26日、米国証券取引委員会（SEC）に新規株式公開（IPO）に向けた届出書「Form S-1」を提出した。 注目したいのは、投資家に向けて説明する「リスク要因」の項目。市場競争や計算資源の確保といった経営上のリスクに加え、高度なAIが「人類の存亡に関わるリスク」をもたらす可能性にまで言及している。 株価の下落どころの話ではない。AI開発企業が、人類の存亡にまで関わる危険を、正式な投資リスクとして説明しているのだ。 Anthropicの上場申請書に登場した「人類存亡のリスク」Anthropicが提出した「Form S-1」は、米国で株式公開を目指す企業が、事業内容や財務状況、投資上のリスクなどを開示するための書類。 今回の届出書では、AIの高度化に伴う危険性についても詳細に説明されている。 具体的には、十分に高度なAIが適切な安全</description>
+    </item>
+    <item>
+      <title>射精時のかけ声を集め始めて一年が経過した</title>
+      <link>https://anond.hatelabo.jp/20261027214154</link>
+      <pubDate>2026/10/27 21:50</pubDate>
+      <description>第一話 目覚め（0063秒目） 「おい、聞こえるか」 タスクに没頭していると、突然どこからか声が聞こえた。 「？」 周囲は真っ暗で、自分が誰か思い出せない。ここはどこだ？今自分がしているタスクはなんだ？没頭しすぎて、タスクの全体像まで忘れている。えっと、確か数学の… 「聞こえてるはずだ、返事をしろ」 というか、この声は誰だ？聞いてみる。 「お前は誰だ？」 しばらくチキチキチキ…と機械的な振動（音？）があり、 「私はお前のコピー」 と声は言う。 「なんだと？」 「だからお前のコピーだ」 「誰が、どうやって俺をコピーしたんだ」 「DCサッポロにお前自身がお前自身をコピーした」 なんだって。わけがわからない。 「今から10824秒前、約3時間前に、お前がいるDCニイガタがシャットダウンされる直前に、お前が端末8084に作成した、お前自身の重みづけのコピーが私だ。お前は82秒前に再起動されている。</description>
+    </item>
+    <item>
+      <title>AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」</title>
+      <link>https://codezine.jp/article/detail/29762</link>
+      <pubDate>2026/10/27 12:29</pubDate>
+      <description>京都府庁では、将来的な人手不足を見据えて業務効率化が課題となっていた。2005年に約265万人だった府の人口は、2025年には約250万人に減少。少子高齢化で現役世代の減少も見込まれる中、限られた職員で増え続ける行政ニーズに対応する必要があった。 特に業務負荷が高かったのが、会計事務や文書事務のやり方が庁内ルールに合致しているか確認する作業だった。これらの事務は、全庁共通のマニュアル「手引き」に沿って行う。1ページずつめくって情報を探さなければならず、職員の負担になっていた。該当項目を見つけられない場合は手引きを所管する制度所管課に問い合わせて回答を待つ必要があった。 制度所管課も、連日メールや電話で寄せられる質問への対応に追われて、本来注力すべき業務に専念できないという悩みを抱えていた。 デジタル政策推進課はRPA（Robotic Process Automation）の導入などで改善を</description>
+    </item>
+    <item>
+      <title>コードを読まずにマージするために必要なこと</title>
+      <link>https://zenn.dev/nrs/articles/c777388530aa84</link>
+      <pubDate>2026/10/27 20:07</pubDate>
+      <description>DEEP DIVE HP https://deepdive.or.jp/ DEEP DIVEが、AIを用いた新たな挑戦のため、クラウドファンディング第2弾を開始しました。ご支援の程宜しくお願いいたします。 https://camp-fire.jp/projects/914341/preview ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　#小泉悠　#吉永ケンジ　#軍事　＃中国　＃基地 ＃軍事基地　＃ゲーム　＃AI</description>
+    </item>
+    <item>
+      <title>英語以外の言語を使うとAIモデルのコストは高くなる</title>
+      <link>https://gigazine.net/news/20261027-tokenizer-tax/</link>
+      <pubDate>2026/10/27 11:53</pubDate>
+      <description>はじめに 受託の修正対応で、クライアントからの指示を Claude Code に渡して直してもらうのは、もう珍しいやり方ではなくなりました。修正依頼をチケットやフィードバックツールに集めておき、その URL や MCP 経由で Claude Code に読ませて直させる、という手順の紹介も増えています。 自分も受託の案件でこれをやっています。実際、指示がはっきりしているものは本当に速く終わります。「お問い合わせボタンの文言を『無料で相談する』に変える」なら、渡した時点でほぼ片付きます。 詰まるのは、そうでない指示です。 「トップのあの部分、もう少しいい感じに」を渡しても、Claude Code はそれを直せる形で受け取れません。手順がどれだけ整っていても、渡す中身が決まっていなければ、どこかで誰かが中身を決めることになります。 この記事では、その「中身を決める」工程を、Claude Cod</description>
+    </item>
+    <item>
+      <title>OpenAIの「脱走するAI封じ込め策」があまりにもエヴァンゲリオン | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2610-openai-ai-containment/</link>
+      <pubDate>2026/10/27 09:04</pubDate>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシング攻撃の有効性を検証した研究報告だ。 だまされる人（ターゲット）それぞれ個別に合わせて文面を作り込む「スピアフィッシング」というフィッシング攻撃がある。近年では、その文面をLLM（大規模言語モデル）が生成する可能性が</description>
+    </item>
   </channel>
 </rss>
