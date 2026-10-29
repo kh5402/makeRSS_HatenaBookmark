@@ -270185,5 +270185,59 @@ June 6, 2026</description>
       <pubDate>2026/10/27 12:16</pubDate>
       <description>本日から新たに日本語を含む5つの言語で利用できるSiri AIは、これまでよりはるかに有能で、より自然な会話ができるようになったアシスタントで、ユーザーがこれまで以上に多くのことをできるよう手助けします。 Appleは、本日利用可能になった27.2のソフトウェアアップデートで、まったく新しいバージョンのSiriであるSiri AIを日本語で提供開始するほか、フランス語、韓国語、ポルトガル語、スペイン語にも対応します。Siri AIは、パーソナルコンテクストの理解、幅広い知識、オンスクリーン認識、さらにシステム全体で使えるアプリ内でのアクションの充実を実現した、より有能で、より自然な会話ができるアシスタントです。そのすべてが、ユーザーのプライバシーを損なうことなく実行されます。あらゆるトピックについての質問に答えたり、ユーザーのメッセージ、Eメール、写真などの中から関連情報を見つけ出したりす</description>
     </item>
+    <item>
+      <title>VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】</title>
+      <link>https://internet.watch.impress.co.jp/docs/event/2151590.html</link>
+      <pubDate>2026/10/29 07:58</pubDate>
+      <description>OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開する「オープンウェイトモデル」との競争を背景として挙げています。 OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | Max Woolf&amp;#39;s Blog https://minimaxir.com/2026/10/cheap-llms/ Open weight takes 71.5% of tokens and 23% of spend - Vercel https://vercel.com/blog/ai-gateway-production-</description>
+    </item>
+    <item>
+      <title>決算:Microsoft、7〜9月32%増益　AI向けクラウド事業が5割増収 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/</link>
+      <pubDate>2026/10/29 07:44</pubDate>
+      <description>「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処置など、緊急時に必要となる信頼できる情報にアクセスできます。 Survival LLM https://www.brangus.io/survival-llm anonnerdfrenzy/survival-llm: A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer. https://github.com/anonnerdfrenzy/survi</description>
+    </item>
+    <item>
+      <title>「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</link>
+      <pubDate>2026/10/28 17:33</pubDate>
+      <description>FOR AIRCON PROFESSIONALS / 現場の知恵を、次の仕事へ。 現場の困ったに、 頼れる裏方を。エアコンを洗う人のための実務ガイド。 トラブル対応も、道具選びも、開業の準備も。 現場の写真と経験から、わかりやすく。</description>
+    </item>
+    <item>
+      <title>PythonでもSQLでもない、2026年「最も使う言語」　Stack Overflow調査が映す“定番回帰”とAIとの距離感</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news029.html</link>
+      <pubDate>2026/10/27 17:11</pubDate>
+      <description>AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 An alignment assessment of the UK AISI cybertesting incident \ Anthropic https://www.anthropic.com/research/alignment-assessment-ukaisi Investigating alignment fai</description>
+    </item>
+    <item>
+      <title>AIで選択肢が広がった組織設計の理想と現実</title>
+      <link>https://speakerdeck.com/konifar/ai-de-sentakushi-ga-hirogata-soshiki-sekkei-no-risou-to-genjitsu</link>
+      <pubDate>2026/10/28 17:45</pubDate>
+      <description>アメリカのトランプ大統領は「AI＝人工知能」の名称の使用を禁止する方針を明らかにしました。トランプ大統領は27日、「間もなく、全ての関連文書やあらゆる場面において、AI＝人工知能という用語を公式に禁止する…</description>
+    </item>
+    <item>
+      <title>Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/28/2000002661/</link>
+      <pubDate>2026/10/28 13:38</pubDate>
+      <description>OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences - The New York Times https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication | TechCrunch https://techc</description>
+    </item>
+    <item>
+      <title>AIに分析させる前に整えるべきもの　大阪ガスが目指す「システム」「データ」「メタデータ」の循環</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/26/news002.html</link>
+      <pubDate>2026/10/28 08:47</pubDate>
+      <description>先ごろ生成AIによって作られたと見られる『ファイアーエムブレム 万紫千紅』の非公式攻略本が乱造されていることが話題となった（関連記事）。一方で生成AIを利用したゲームの攻略情報のビジネス化の対象は攻略本にとどまらず、攻略Wikiにおいても問題視されている。 たとえば海外メディアEurogamerは、GameDBというサイト名で運営されていた攻略Wikiサイトを問題視する報道をおこなっている。同サイトのトップページには当初、『Mistfall Hunter』『Echoes of Aincrad』『Wardogs』などの25作品の話題作の攻略Wikiが並んでいたという。一方で現在、同サイトはWikiTacticsなる別サイトにリダイレクトされるようになっており、攻略Wikiも『Order of Sinking Star』など5作品に整理されている。 そのすべてが生成AIを利用して作成されたもの</description>
+    </item>
+    <item>
+      <title>Android/Google TVの“広告やおすすめ枠”を消してApple TV風シンプルUIにするOSS無料ツール「CleanYourTV」（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/27/5632.html</link>
+      <pubDate>2026/10/27 06:54</pubDate>
+      <description>富士フイルムはデータ保存用の磁気テープの供給能力を5倍に高める。大規模な増産投資は約20年ぶり。人工知能（AI）データセンター向けの需要増に応える。AI特需が成熟技術にも波及し、日本企業に恩恵が広がる。100億円投じ供給能力5倍に富士フイルムは神奈川県小田原市の工場に2028年度までに計100億円を投じる。最大100テラ（テラは1兆）バイトの先端品を中心に増産する。容量ベースの出荷量を25年</description>
+    </item>
+    <item>
+      <title>AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止|セキュリティニュースのセキュリティ対策Lab</title>
+      <link>https://rocket-boys.co.jp/security-measures-lab/ai_coding_agents_agentsmd_downloads_prompt_injection_forever_security_20261026/</link>
+      <pubDate>2026/10/26 19:06</pubDate>
+      <description>SNSのアカウント停止やスマートフォンの通信障害についてChatGPTに相談するとAIから「ジャーナリストに連絡するべき」と勧められるケースが増加しており、本来は企業のカスタマーサポートが対応するような問題まで報道機関に持ち込まれているとテクノロジー系ニュースサイトの404 Mediaが報告しました。 ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ 404 Mediaの共同創設者でジャーナリストのジェイソン・ケブラー氏によると、2026年10月、Instagramのアカウントを停止され</description>
+    </item>
   </channel>
 </rss>
