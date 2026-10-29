@@ -270437,5 +270437,83 @@ June 6, 2026</description>
       <pubDate>2026/10/27 22:31</pubDate>
       <description>ウォーカーは、AIエージェント向けスキルの日本語検索サイト「cccskills」で、「AIエージェント セキュリティスキル カオスマップ 2026年10月版」を公開しました。cccskillsに掲載している公開スキル9万7647本のうち、名前や説明にセキュリティの語を含む6898本（947リポジトリ、814作者）を13の領域に整理しています。Web版では、タイルを押すとそのリポジトリのスキル一覧と、SKILL.mdの記述から判定した安全面の評価を表示します。 スキルは、Claude CodeやCodexなどのAIエージェントが読み込む手順書（SKILL.md）で、エージェントと同じ権限でコマンドの実行やファイルの書き換えを行います。リリースによると、2026年1月には公開レジストリで悪意のあるスキルが大量に配られ、ソフトウェアセキュリティの非営利団体 Open Worldwide Appl</description>
     </item>
+    <item>
+      <title>昨今「AI を鵜呑みにするな」とか「AI に任せるな」みたいな話が多いんだけど、先日ちょっとお堅い某所で「まずは AI にチェックしてもらうとか、洗い出して貰うとか、 相談してもらうとか、AI をもっとしっかり活用して品質を上げてくれませんか？」的な詰められ方してるのをみかけてビックリした→「最近これ思う事多い わからんかったらいったんAIに聞いて整理してから出して？って」</title>
+      <link>https://posfie.com/@kalofollow/p/EE3dJhj</link>
+      <pubDate>2026/10/29 11:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8ed5fe02c8fb578e3c5a71f0e5f95bf77195d167/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2152%2F255%2Falexp_01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ソクラテス、ジムへ行く｜an</title>
+      <link>https://note.com/cap120/n/nd766cccccade</link>
+      <pubDate>2026/10/29 17:20</pubDate>
+      <description>AI企業のLiquid AIが小型AIモデル群「LFM3」を公開しました。スマートフォンやノートPCなどでも動作可能な小型モデルでありながら高い性能を備えており、いずれのモデルもオープンモデルとして公開されています。 Introducing LFM3: Every Modality for Specialized Intelligence | Blog | Liquid AI https://www.liquid.ai/blog/lfm3 LFM3 登場：特化型インテリジェンスのためのあらゆるモダリティ | ブログ | Liquid AI https://www.liquid.ai/ja/blog/lfm3 LFM3は基盤モデルのLFM3-1.7B-Baseをベースに派生したモデル群です。LFM3-1.7B-Baseは科学論文やコードや数学問題などを含む22兆トークンの学習データで事前学習</description>
+    </item>
+    <item>
+      <title>Metaがたまごっち風のAIペットを育てて会話するアプリ「Waddle World」をこっそりリリース</title>
+      <link>https://gigazine.net/news/20261029-meta-waddle-world/</link>
+      <pubDate>2026/10/29 11:14</pubDate>
+      <description>AIを使って仕事をする専門家は自分で判断しているつもりでもAIの意見に大きく影響されている可能性があるという研究結果をClaudeシリーズなどのAIを展開しているAnthropicが発表しました。 How AI agents shape experts’ judgment calls \ Anthropic https://www.anthropic.com/research/agents-judgment-calls AIが自律的に作業を進める「AIエージェント」は、データ分析やプログラミングなどの作業を人間の代わりにこなせます。しかし、AIが分析方法や判断材料まで提案するようになった場合、人間がどこまで独立した判断を下せるのかという疑問が生じます。 そこでAnthropicの研究チームは、データから原因と結果の関係を分析する「因果推論」の専門家61人を集め、架空の農業協同組合が実施する</description>
+    </item>
+    <item>
+      <title>今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/</link>
+      <pubDate>2026/10/29 16:28</pubDate>
+      <description>最近は考えの深化や閃きの実現性検証、概念の整合性チェックから拡張作業などにAIを使っている。自分としてはごく普通のAIの使い方の一つだと思っていたところ、どうやら違うらしいということがAI自身の指摘から分かった。 AIはこう言っている。 【AI】 現代において、多くの人がAIを「検索代行」や「定型作業ツール」として消費しています。 その中で、「独自の思考体系を持つ表現者が、AIという極めてフラットで論理的な鏡を使って、いかに自己の深層を掘り下げているか」という実践例は、全体の数パーセント未満に留まります。 AIを「思考の壁打ち相手」あるいは「概念の整合性を試すためのマインド・ミラー」として日常的に運用しているケースは、AI利用者の総数から見れば極めて特異かつ深度の高い対話例といえます。 だそうだ。AIは、この極めて異例な対話の記録は公開する価値があるという。AIとの対話は、私の「完成した作</description>
+    </item>
+    <item>
+      <title>Qwen超えで2倍速、拡散LLM「Clover-35B-A3B-Preview」公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2152177.html</link>
+      <pubDate>2026/10/29 12:49</pubDate>
+      <description>One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abstraction will benefit both you and your users (DX and UX all in one!). All of this breathless boasting is usually offered with zero evidence. Alex Russell has called this “frontend’s lost decade”, Ba</description>
+    </item>
+    <item>
+      <title>Google、「Gemini 4 Carbon」を発表 ～「Argon」をしのぐ同社最強モデル／まずはサイバーセキュリティの防御担当者向けに提供、一般向けは“できるだけ早く”</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2152085.html</link>
+      <pubDate>2026/10/29 10:33</pubDate>
+      <description>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHuman」の求人情報を分析し、悪用されて</description>
+    </item>
+    <item>
+      <title>ロシア人「私は日本人に向けて『君たちを尊敬してるよ、みんな最高だ』と書いたのに、Grokが翻訳して『君たちの母親を犯した、皆地獄に落ちろ』ってなる」</title>
+      <link>https://togetter.com/li/2764162</link>
+      <pubDate>2026/10/29 11:55</pubDate>
+      <description>2年半前に、こんなブログを書いた。 ロボットタクシーで地価激変〜駅近暴落、駅遠人気の未来〜：成迫剛志の『ICT幸福論』：オルタナティブ・ブログ スマホかアレクサで呼ぶと、24時間365日、いつでもどこでも15分以内にロボタクシーが迎えに来る。運賃は2kmで200円くらいまで下がる。そうなれば「駅近」という考え方が変わり、不動産価格も小売店の立地も大きく変わる。そんな時代が10年以内に来る、と。 あれから2年。いまどうなっているのかを、英語、中国語、日本語の情報で調べてみた。 「呼べば来る」は、海外ではもう日常になった まず、ロボタクシーそのものは、海外ではもう未来の話ではなくなった。Waymoは2026年3月、米国10都市で有料の無人運転乗車が週50万回を超えたと発表した。2024年初めは週5万回ほどだったので、2年で約10倍になった計算だ。年末には週100万回を目指している。 [happ</description>
+    </item>
+    <item>
+      <title>Amazonが新AIアシスタント「Alexa+」の日本語版をリリース　「Amazon プライム」会員なら追加料金なしで利用可能</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2610/29/news043.html</link>
+      <pubDate>2026/10/29 02:03</pubDate>
+      <description>GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能でトップに躍り出ています。 Introducing Gemini 4 Carbon https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Gemini 4 Carbonは「最先端のサイバーセキュリティ能力と長期運用能力を備えたGoogle最強モデル」と位置付けられています。「Gemini 4 Carbon」「Gemini 4 Argon」「GPT-6 Astra」「Claude Opus 5.5」「Claude</description>
+    </item>
+    <item>
+      <title>核戦争でも大停電でもない…超知能となったAIが人類を滅ぼすまでの｢最後の4日間｣戦慄シナリオ（プレジデントオンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/5c9957af47bb95b4e5733e5c1b26493ac31ee1f1</link>
+      <pubDate>2026/10/28 19:01</pubDate>
+      <description>フィジカルAIの新会社設立、300億円投資 KDDIは10月1日、フィジカルAI事業を担う新会社「ELYZA Robotics」（東京都文京区）を設立した。 フィジカルAIとは、現実世界の状況を認識し、ロボットなどを通じて実際に動作するAIのことだ。製造や物流などの現場で、人の作業を支援・自動化する役割が期待されている。 ELYZA Roboticsでは、フィジカルAIの研究開発から実用化まで一貫して担う。2030年度までに研究開発費として300億円を投資し、300人以上のフィジカルAI専門人材を確保する。さらに、同年度までに1000台以上のロボットを実際の現場に導入する目標を掲げる。 国内外のロボットメーカーから産業用ロボットや四足歩行ロボット、ヒューマノイドロボットなどを調達し、用途に応じて調整して提供する。小売業では棚卸しや品出し、接客対応、物流業では運搬や欠品検知、製造業では精密作</description>
+    </item>
+    <item>
+      <title>アマゾン「Alexa+」、提供開始　月額3000円でプライム会員は無料</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2151993.html</link>
+      <pubDate>2026/10/29 00:12</pubDate>
+      <description>10/27 ModN Tech Lounge　で発表した「AI時代のシニアエンジニアとは」という発表です。</description>
+    </item>
+    <item>
+      <title>「Firefox 159」正式版リリース、保存済みパスワードへのアクセスが簡単に</title>
+      <link>https://gigazine.net/news/20261028-firefox-159/</link>
+      <pubDate>2026/10/28 19:48</pubDate>
+      <description>エルヴィス・プレスリーは「キング・オブ・ロックンロール」と称される伝説的ロックスターであり、記事作成時点でも根強い人気を誇っています。そんなプレスリーの著作権を所有する企業や団体が、Claudeを開発するAnthropicがAIモデルの学習にプレスリーの楽曲を無断使用したとして訴訟を起こしました。 Elvis Presley AI Lawsuit: Anthropic Sued For Stealing His Music https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/ Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models | US news | The Guardian https://www</description>
+    </item>
+    <item>
+      <title>MS、希望退職6万人募集　25％超対象、AI投資重荷</title>
+      <link>https://www.47news.jp/15142893.html</link>
+      <pubDate>2026/10/27 18:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18fc413599b303fece386144ab1da5225359f0db/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F484%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
