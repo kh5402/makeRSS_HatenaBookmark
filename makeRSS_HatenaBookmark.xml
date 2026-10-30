@@ -270596,5 +270596,83 @@ June 6, 2026</description>
       <pubDate>2026/10/29 00:14</pubDate>
       <description>2年半前に、こんなブログを書いた。 ロボットタクシーで地価激変〜駅近暴落、駅遠人気の未来〜：成迫剛志の『ICT幸福論』：オルタナティブ・ブログ スマホかアレクサで呼ぶと、24時間365日、いつでもどこでも15分以内にロボタクシーが迎えに来る。運賃は2kmで200円くらいまで下がる。そうなれば「駅近」という考え方が変わり、不動産価格も小売店の立地も大きく変わる。そんな時代が10年以内に来る、と。 あれから2年。いまどうなっているのかを、英語、中国語、日本語の情報で調べてみた。 「呼べば来る」は、海外ではもう日常になった まず、ロボタクシーそのものは、海外ではもう未来の話ではなくなった。Waymoは2026年3月、米国10都市で有料の無人運転乗車が週50万回を超えたと発表した。2024年初めは週5万回ほどだったので、2年で約10倍になった計算だ。年末には週100万回を目指している。 [happ</description>
     </item>
+    <item>
+      <title>AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み</title>
+      <link>https://gigazine.net/news/20261030-qwenputer/</link>
+      <pubDate>2026/10/30 11:56</pubDate>
+      <description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free（UAF、解放後使用）」と呼ばれる不具合だ。ネットワーク経由で悪用可能で、認証や利用者の操作は不要だ。 Anthropicの実証では、複数の通信経路を利用する「MPTCP」の待ち受けサーバーを標的とした。AIが作成した攻撃コードを使い、認証なしで遠隔からroot権限のコマンドを実行できたという。 Linuxカーネルの脆弱性情報を管理するCVEチームは10月15日に問題を公表し、安定版には修正が取り込まれた。一方、Ubuntuの10月29</description>
+    </item>
+    <item>
+      <title>複数サービスに配信するembeddingの品質監視 ── 配信データ・ベクトル空間・推薦スコアの3観点 - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/embedding-quality-monitoring</link>
+      <pubDate>2026/10/30 11:09</pubDate>
+      <description>Rubyセミナー大阪での登壇資料です #raosaka2026 https://rubyassociation.doorkeeper.jp/events/197460</description>
+    </item>
+    <item>
+      <title>NVIDIAファンCEOに中国工作員が接近、情報流出の恐れ　米紙報道 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN29CK70Z21C26A0000000/</link>
+      <pubDate>2026/10/30 08:00</pubDate>
+      <description>同社は顧客のPCで、AIが不正なソフトを導入しようとする動きを検知し、実行前に阻止したという。調査の結果、AIは作業場所としていたダウンロードフォルダー内の「AGENTS.md」というファイルに書かれた指示に従っていたことが分かった。ただし、このファイルがPCに保存された経緯は分かっていない。 AGENTS.mdは、AIに開発作業の進め方やルールを伝えるためのテキストファイルだ。OpenAIの「Codex」などの開発支援AIは、作業場所にあるこうしたファイルを読み込み、その内容を指示として扱う。そのため、攻撃者が用意したファイルを読み込むと、AIが不正な指示に従って設定を書き換えたり、プログラムを実行したりする恐れがある。 AIが読む「作業指示」を悪用 Forever Securityは、この攻撃がどのように成立するのかを検証した。ウェブページから悪意ある指示ファイルをダウンロードフォルダ</description>
+    </item>
+    <item>
+      <title>アルファベット株13%安、時価総額80兆円消失　AIが検索の収益圧迫 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN29CWQ0Z21C26A0000000/</link>
+      <pubDate>2026/10/30 07:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56ae4165d8c13fdc7fb75f4d405a4c4271825051/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F201%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>RAG検索を索引なしで高速化。意思決定AIで文書をたどる新手法「DecisionRAG」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2152176.html</link>
+      <pubDate>2026/10/29 12:41</pubDate>
+      <description>Google⁠⁠、Elephant-Goldfish Modelプラグインを公開 —⁠—AIが設計文書の作成と検証を分担 Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。利用者との対話を踏まえて設計文書を作るAIと、その対話の履歴を引き継がずに文書を検証するAIを組み合わせ、仕様の曖昧さや見落としを洗い出す。 Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog google/elephant-goldfish-model - GitHub プラグインはGo</description>
+    </item>
+    <item>
+      <title>必要最低限の自分専用アプリをAIで作る</title>
+      <link>https://iwashi.co/2026/10/29/build-my-app</link>
+      <pubDate>2026/10/29 13:20</pubDate>
+      <description>こちらのイベントの登壇資料です。 Qiita Conference 2026 Autumn https://qiita.com/conference</description>
+    </item>
+    <item>
+      <title>AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起</title>
+      <link>https://gigazine.net/news/20261029-anthropic-stanford-professors/</link>
+      <pubDate>2026/10/29 19:33</pubDate>
+      <description>AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見されました。 Why Is This Fingerprinting Script Creating Bioweapons? https://nullpt.rs/fingerprinting-bioweapons veritas氏はウェブサイトが訪問者を識別するために使用する「ブラウザフィンガープリント」の調査を進めていました。ブラウザフィンガープリントとは、ブラウザやOS、ハードウェアなどの情報を組み合わせて訪問者の環境を識別する技術で、不正アクセスやボットの検出などに利用されています。</description>
+    </item>
+    <item>
+      <title>Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン</title>
+      <link>https://gigazine.net/news/20261029-samsung-galaxy-buds-on/</link>
+      <pubDate>2026/10/29 15:59</pubDate>
+      <description>NVIDIAが自社GPUの演算性能にリミッターを掛けて、RTX ProシリーズとGeForceシリーズを差別化しているのは有名な話です。類似の事例として、QuadroとGeForceでCADソフトの計算精度が桁違い、といった話も昔から存在しています。 その演算性能のリミッターを解除して、RTX 4090をRTX 5090相当の性能まで跳ね上げる（倍増）とんでもない手法が発見されました。 グラフィックボードを40枚以上も所有する筆者にとって、非常に興味深い話です。実際に「RTX 4090 Unlock」を実践して、画像生成AIやLoRA学習など、ローカル生成AIタスクで利益が得られるか検証します。 （公開：2026/10/29 | 更新：2026/10/29） Sponsored Link 「RTX 4090 Unlock」の全体像 RTX 4090から演算性能のリミッターを解除する手法を、</description>
+    </item>
+    <item>
+      <title>Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/29/2000002690/</link>
+      <pubDate>2026/10/29 07:22</pubDate>
+      <description>AIが作った街を歩いていたら、通りすがりの人とも会話が始まる。 Google DeepMind（グーグル・ディープマインド）が10月27日に発表した「Genie 4（ジーニー4）」は、仮想世界をリアルタイムで生成するAIの最新モデルです。 今回は映像に加えて、風の音や音楽、人の声まで生成できるようになりました。しかも、登場人物はこちらの入力や周囲で起きた出来事に反応し、その場で会話するというんです。 AIが作った街を歩く新体験Image: Google DeepMindゲームの街って、その先の景色も、建物も、登場人物も、誰かが作ってくれたものですよね。 Googleの「Genie」は、その世界をまるっとAIが作ってくれる技術です。 文章や画像で場所や雰囲気を指定すれば、ゲームのように歩き回れる世界ができあがります。キーボードで進む方向を変えると、その先の景色もAIが次々と生成してくれます。</description>
+    </item>
+    <item>
+      <title>KDDI松田社長「堺をAI実装の発進基地に」　フィジカルAIの新会社設立で300億円投資へ</title>
+      <link>https://www.itmedia.co.jp/business/articles/2610/29/news021.html</link>
+      <pubDate>2026/10/29 06:32</pubDate>
+      <description>サイバー防御の性能 Carbon は、脆弱性の発見、検証、修正というサイバー防御の一連の工程で最高水準の性能を示したとしています。外部のベンチマークでは、ガードレール (悪用を防ぐための制限) を外した状態で、次の結果を記録しました。 SEC-bench Pro (脆弱性の発見): 88.2% ExploitGym (脆弱性が実際に悪用できるかの検証): 54.8% CWE-bench (脆弱性の修正): 71.0% Google は、この 3 つの項目で他のモデルを大きく上回っているとしています。 また、Google の社内ベンチマークでは、セキュアなコードを生成できた割合が Argon の 2 倍以上になったとしており、Chrome チームからは、高品質なパッチの生成で、他社の大規模なフロンティアモデルの 10 倍以上の性能だったと報告されています。 Google のクラウドセキュリテ</description>
+    </item>
+    <item>
+      <title>第三次世界大戦？AI攻撃で社会麻痺？11/2に政府が全国民に最低3日分の備蓄を緊急要請（ビジネス＋IT） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/137f4514583c95a617116cb621e7f9fcb1f6e2e9</link>
+      <pubDate>2026/10/29 00:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/42b999b422887af6d2366cebb2f1438124779ba8/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2151%2F590%2F01.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起</title>
+      <link>https://www.jpcert.or.jp/at/2026/at260034.html</link>
+      <pubDate>2026/10/26 22:53</pubDate>
+      <description>先ごろ生成AIによって作られたと見られる『ファイアーエムブレム 万紫千紅』の非公式攻略本が乱造されていることが話題となった（関連記事）。一方で生成AIを利用したゲームの攻略情報のビジネス化の対象は攻略本にとどまらず、攻略Wikiにおいても問題視されている。 たとえば海外メディアEurogamerは、GameDBというサイト名で運営されていた攻略Wikiサイトを問題視する報道をおこなっている。同サイトのトップページには当初、『Mistfall Hunter』『Echoes of Aincrad』『Wardogs』などの25作品の話題作の攻略Wikiが並んでいたという。一方で現在、同サイトはWikiTacticsなる別サイトにリダイレクトされるようになっており、攻略Wikiも『Order of Sinking Star』など5作品に整理されている。 そのすべてが生成AIを利用して作成されたもの</description>
+    </item>
   </channel>
 </rss>
