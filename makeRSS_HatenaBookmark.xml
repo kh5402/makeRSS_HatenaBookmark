@@ -270515,5 +270515,86 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18fc413599b303fece386144ab1da5225359f0db/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2151%2F484%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>GMO犯人捜索マップ</title>
+      <link>https://satoru.net/hacker/gmo/261029-map.html</link>
+      <pubDate>2026/10/30 07:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56ae4165d8c13fdc7fb75f4d405a4c4271825051/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F201%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5</title>
+      <link>https://divagr.com/blog/qwenputer</link>
+      <pubDate>2026/10/29 15:56</pubDate>
+      <description>岸田メル @mellco イラストレーター / ブルリフ総監修 @BR_general_info / IDOLY @IDOLY_cafe neusick @neusick_cafe プロデューサー /スケブ skeb.jp/@mellco / ご連絡maigo@maigo.jp instagram.com/kishidamel</description>
+    </item>
+    <item>
+      <title>Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin</link>
+      <pubDate>2026/10/29 20:25</pubDate>
+      <description>AIで作ったものに責任を持とうと頑張るあなたへ 魔法が使えるようになった 最近、AIを使ってプログラムを書く、あるいはシステムを作る、ということが随分と身近になってきたように思います。 以前であれば、それなりの知識や技術、そして時間が必要だったものが、AIにお願いすると、驚くほどあっさりと出来上がってしまう。 もちろん、なんでもかんでも思い通りになるわけではないのですが。 それでも、「こんなのが欲しい」と思ったものが、ちょっとAIと会話をしているうちに形になって、しかもそれなりに動いてしまう。 これは、なかなか楽しいものです。 今まで「作れない」と思っていたものが作れるようになる。 あるいは「作れるけど、手間がかかるから」と後回しにしていたものが、気軽に作れるようになる。 コンピューターやシステムは、もともと人によっては「魔法」のようなものだったのかもしれません。 そして今、その魔法を使え</description>
+    </item>
+    <item>
+      <title>衣装集 COSTUME-DB-01</title>
+      <link>https://ai-costume-gallery.pages.dev/</link>
+      <pubDate>2026/10/29 18:12</pubDate>
+      <description>箱あんこう @10cube 昨今「AI を鵜呑みにするな」とか「AI に任せるな」みたいな話が多いんだけど、先日ちょっとお堅い某所で「まずは AI にチェックしてもらうとか、洗い出して貰うとか、 相談してもらうとか、AI をもっとしっかり活用して品質を上げてくれませんか？」的な詰められ方してるのをみかけてビックリした 2026-10-28 12:01:52 箱あんこう @10cube ↓ これ「良く分かってないクライアントが言ってる」んじゃなくて、たぶんかなり詳しい人がクソ品質のコードかなにかをお出しされてガチギレしてるっぽかったのよね。 で、嫌味とかでもなく本当に「使えるモノは全部使ってとにかく品質あげたり仕様を理解したりしろや」って感じで怖かったｗ 2026-10-28 12:06:50 箱あんこう @10cube ↓ 話を聞いていると、結構高度な数学的知見とかハードウェア知識とか経験</description>
+    </item>
+    <item>
+      <title>プライム会員なら実質無料！新世代AIアシスタント「Alexa+」と新型Echoをチェックしてきた</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2152255.html</link>
+      <pubDate>2026/10/29 18:34</pubDate>
+      <description>ローカルAIはGPUの性能が重要ですが、AIを使いたいPCすべてに高性能なGPUを搭載すると費用がかさんでしまいます。そこで1台の高性能PCをAIサーバーにし、ほかのPCからAIを利用できる環境を構築してみます。 今回はAIエージェント「Hermes Agent」で各PCのブラウザを操作しつつ、AIの推論だけを別のPCに任せる構成を目指します。複数人で使うことを想定し、ユーザー認証や利用履歴の記録にも対応させます。 構成は以下を予定しています。 AIサーバー側 ①Ollama：AIモデルの実行 ②Open WebUI：API中継・ユーザー管理・利用記録 ③NetBird：VPN接続 クライアントPC側 ④NetBird：VPN接続 ⑤Hermes Agent：AIへの指示やツールの実行など 今回の記事では①と②の部分まで、つまりローカルAIを実行するサーバーへのOllamaとOpen We</description>
+    </item>
+    <item>
+      <title>ダウンロード先指示ファイルを介したAIエージェントののっとりについてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/29/170430</link>
+      <pubDate>2026/10/29 17:10</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4b4be59b54ec68a31d741089de4a9f9b6047a660/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F332%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIの利用を宗教的理由で免除された人間</title>
+      <link>https://gigazine.net/news/20261029-religious-exemption-from-ai/</link>
+      <pubDate>2026/10/29 22:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b253ca16c423f308ccaae555b17d5e7417cf714a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2152%2F248%2Fgithub_copilot.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>【「134兆円」国家予算超え“AI投資”の賭け】「人類はまだClaudeを使いこなせてない」アンソロピック／上場書類が示す滅亡リスク／Fable超えの「パワフルAI」とは／今井翔太【AI QUEST】</title>
+      <link>https://www.youtube.com/watch?v=y7NAjBZjm9k</link>
+      <pubDate>2026/10/29 21:52</pubDate>
+      <description>最低限の機能を備えた自分専用のアプリを作ればいい、と考えることが最近増えてきた。 Webサービスにしたいわけではない。昨今の事情を考えると、IFは極力Publicに公開したくない。なので、クラウドにデプロイする必要すらない、自分のローカル環境で静かに動けば十分なレベルのアプリだ。どうしても残したいステートがあるなら、既存のクラウドストレージに放り込んで、アプリからステートを復元できるようにすればいい。 こう考えるに至った背景 これまでSaaSや市販ソフトウェアをたくさん使ってきた。もちろん今でも使っている。これらのソフトウェアを自分でゼロから作るのはあまりに面倒だし、そもそも個人レベルでは作れないものもある1。なので、サブスク代を払ったほうが良いケースが大半だった。 作るのが面倒なものの1つに動画編集ソフトがある。内部の仕組みや実装が想像できたとしても、自分でスクラッチで書こうなんてこれま</description>
+    </item>
+    <item>
+      <title>AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード</title>
+      <link>https://gigazine.net/news/20261029-intelligence-index-v5/</link>
+      <pubDate>2026/10/29 14:23</pubDate>
+      <description>ブログ お問い合わせ 複数システムに跨っていた EC サイトをフルスクラッチ開発でリニューアル。一元管理を可能とした EC サイトのインフラ構築・開発・運用保守をワンストップで提供 株式会社グッドスマイルカンパニー お客様の課題 EC サイトのシステムが長らく使用されており、かつ複数のシステムが乱立しデータが分散していたため、情報管理システムの統一が求められていた。 EC サイトと連動したデータを収集し、分析への活用を検討していた。また、サービスの特性上、特定の時間にアクセスが集中するため、高負荷に耐えられるスケーラビリティの高いシステムの開発に加え、適切に運用保守できる体制も必要としていた。 対応と結果 Google Cloud によるフルスクラッチでの EC サイトのインフラ構築・開発・運用保守を提案・実行。複数のシステムに分散していたデータを1つのシステムに統合し、管理工数やコストの</description>
+    </item>
+    <item>
+      <title>約19億円相当のAIチップがマレーシアの空港で押収される</title>
+      <link>https://gigazine.net/news/20261029-malaysia-airport-ai-chip/</link>
+      <pubDate>2026/10/29 13:46</pubDate>
+      <description>こんにちは、LayerX バクラク事業部のエンジニア an です。 突然ですが、この間こんな文章を見かけました。 You give your disciples not truth, but only the semblance of truth; they will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality. [1] 人々に与えられたのは本当の知恵ではなく、知恵らしく見える何かにすぎない。彼らは大量の情報を受け取りながら何も学ばず、何</description>
+    </item>
+    <item>
+      <title>NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能</title>
+      <link>https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe/</link>
+      <pubDate>2026/10/29 13:18</pubDate>
+      <description>米Googleは10月28日（現地時間）、新たなフロンティアAIモデル「Gemini 4 Carbon」を発表した。同社がこれまでに開発した中で最も高性能なモデルと位置付け、特にサイバーセキュリティと長時間にわたる複雑なタスクの処理能力を強化した。まずはサイバー防御に携わる一部の組織向けに提供し、その後、開発者や企業、一般ユーザーへと順次提供を広げる計画だ。 Googleは9月30日に「Gemini 4 Argon」を発表し、10月13日に一般提供を開始したばかりだ。Google DeepMindで製品を担当するローガン・キルパトリック氏はXへの投稿でCarbonについて「わずか2週間前にリリースしたArgonから大きく進歩した」と述べ、サイバーセキュリティ、長時間のタスク処理、コーディングの使い勝手、アライメントなどの改善を強調した。 サイバー防御と長時間の作業能力を強化 Carbonは</description>
+    </item>
+    <item>
+      <title>完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2152023.html</link>
+      <pubDate>2026/10/29 00:14</pubDate>
+      <description>2年半前に、こんなブログを書いた。 ロボットタクシーで地価激変〜駅近暴落、駅遠人気の未来〜：成迫剛志の『ICT幸福論』：オルタナティブ・ブログ スマホかアレクサで呼ぶと、24時間365日、いつでもどこでも15分以内にロボタクシーが迎えに来る。運賃は2kmで200円くらいまで下がる。そうなれば「駅近」という考え方が変わり、不動産価格も小売店の立地も大きく変わる。そんな時代が10年以内に来る、と。 あれから2年。いまどうなっているのかを、英語、中国語、日本語の情報で調べてみた。 「呼べば来る」は、海外ではもう日常になった まず、ロボタクシーそのものは、海外ではもう未来の話ではなくなった。Waymoは2026年3月、米国10都市で有料の無人運転乗車が週50万回を超えたと発表した。2024年初めは週5万回ほどだったので、2年で約10倍になった計算だ。年末には週100万回を目指している。 [happ</description>
+    </item>
   </channel>
 </rss>
