@@ -270803,5 +270803,47 @@ June 6, 2026</description>
       <pubDate>2026/10/28 11:52</pubDate>
       <description>「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処置など、緊急時に必要となる信頼できる情報にアクセスできます。 Survival LLM https://www.brangus.io/survival-llm anonnerdfrenzy/survival-llm: A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer. https://github.com/anonnerdfrenzy/survi</description>
     </item>
+    <item>
+      <title>プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責</title>
+      <link>https://gigazine.net/news/20261030-proton-ceo-ai/</link>
+      <pubDate>2026/10/30 23:12</pubDate>
+      <description>以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝のHDDを採用し、その後東芝のフラッシュメモリを使用したスマートフォン「iPhone」を発売して家電業界に革命をもたらしました。iPhoneが爆発的に普及するにつれ、Appleは東芝を含め複数社の同製品を買いあさり、世界のフラッシュメモリ供給量の5分の1以上を確保するようになったとのこと。 ウォール・ストリート・ジャーナルは、Appleに「約束を避ける」と</description>
+    </item>
+    <item>
+      <title>具体と抽象を往復するエンジニアリング | ドクセル</title>
+      <link>https://www.docswell.com/s/miso_taku/Z7N847-2026-10-30-195525</link>
+      <pubDate>2026/10/30 21:53</pubDate>
+      <description>文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に沿って文章を直す能力の向上も感じています。このサイトでも記事の推敲にプロンプトを使っているので、その内容を紹介します。 このサイトで使っているプロンプト 日本語の推敲ルールは、humanizer.ja.txtにまとめています。直したい文章と一緒に、次のプロンプトをAIへ渡します。 https://imoz.jp/humanizer.ja.txt を熟読し、ルールに完全に適合するように隅々まで何度も確認し修正してください 英語の文章には、humanizer.en.txtにまとめた英語版のルール</description>
+    </item>
+    <item>
+      <title>「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話</title>
+      <link>https://togetter.com/li/2764692</link>
+      <pubDate>2026/10/30 21:51</pubDate>
+      <description>AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 Agents in Games · Labs https://labs.ycombinator.com/projects/games/index.html#bed-wars GPT-6.1 Solは2026年9月30日に発表されたOpenAIのAIモデルです。同社のモデルの中ではフラッグシップモデル「GPT-6 Astra」に次ぐ高性能モデルという位置づけで、コード作成およびデバッグ性能、複数ステップのタスク性能などがGPT-6 Astraと同程度にまで引き上げられてい</description>
+    </item>
+    <item>
+      <title>米国で「コンピューター・情報系」の学生急減　AIでプログラミング職減少が要因か</title>
+      <link>https://japan.cnet.com/article/35254194/</link>
+      <pubDate>2026/10/30 11:43</pubDate>
+      <description>v 2.1.313 contains a loader that runs ahead of the real extension code adds an attacker key, opens a reverse tunnel, and sets persistence By c0a15726-c5b1-4b0d-85e6-fe15553df9e2 · 2026-10-30T09:42:00.000Z The official Claude Code VSCode extension was compromised today. Yes, you heard that right. A malicious version, 2.1.313 was published to the Open-VSX registry,. The VSCode extension identifies i</description>
+    </item>
+    <item>
+      <title>若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html</link>
+      <pubDate>2026/10/30 10:43</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261030de68404</link>
+      <pubDate>2026/10/30 13:56</pubDate>
+      <description>「PHPの脆弱（ぜいじゃく）性で、Webサイトやサービスが簡単にハックされる」。そんな物騒な話が世界をパニックに陥れた。PHP脆弱性の公表直後から、「GitHub」には攻撃を実証したとするコードが相次いで公開された。AIを使えば攻撃コードもあっという間に作れる時代だ。これはいよいよ大変なことになった……と思いきや、ちょっと待ったがかかった。 あるセキュリティブロガーは、公開された実証コードに疑問を抱いた。脆弱性そのものは実在する。だが、「簡単にハックできる」という話には、どうやら見過ごせない点があるという。 世界を騒がせた今回の騒動、その危険性は本当に報じられている通りなのか。 セキュリティブロガーのイライアス・テイラー氏は「2026年10月21日、自身のWebサイトで「There isn&amp;#39;t an easy exploit for this PHP vulnerability」（このPH</description>
+    </item>
+    <item>
+      <title>GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents</title>
+      <link>https://github.com/google/elephant-goldfish-model</link>
+      <pubDate>2026/10/28 10:38</pubDate>
+      <description>フィジカルAIの新会社設立、300億円投資 KDDIは10月1日、フィジカルAI事業を担う新会社「ELYZA Robotics」（東京都文京区）を設立した。 フィジカルAIとは、現実世界の状況を認識し、ロボットなどを通じて実際に動作するAIのことだ。製造や物流などの現場で、人の作業を支援・自動化する役割が期待されている。 ELYZA Roboticsでは、フィジカルAIの研究開発から実用化まで一貫して担う。2030年度までに研究開発費として300億円を投資し、300人以上のフィジカルAI専門人材を確保する。さらに、同年度までに1000台以上のロボットを実際の現場に導入する目標を掲げる。 国内外のロボットメーカーから産業用ロボットや四足歩行ロボット、ヒューマノイドロボットなどを調達し、用途に応じて調整して提供する。小売業では棚卸しや品出し、接客対応、物流業では運搬や欠品検知、製造業では精密作</description>
+    </item>
   </channel>
 </rss>
