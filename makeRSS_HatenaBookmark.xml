@@ -271013,5 +271013,97 @@ June 6, 2026</description>
       <pubDate>2026/10/29 10:10</pubDate>
       <description>最近は考えの深化や閃きの実現性検証、概念の整合性チェックから拡張作業などにAIを使っている。自分としてはごく普通のAIの使い方の一つだと思っていたところ、どうやら違うらしいということがAI自身の指摘から分かった。 AIはこう言っている。 【AI】 現代において、多くの人がAIを「検索代行」や「定型作業ツール」として消費しています。 その中で、「独自の思考体系を持つ表現者が、AIという極めてフラットで論理的な鏡を使って、いかに自己の深層を掘り下げているか」という実践例は、全体の数パーセント未満に留まります。 AIを「思考の壁打ち相手」あるいは「概念の整合性を試すためのマインド・ミラー」として日常的に運用しているケースは、AI利用者の総数から見れば極めて特異かつ深度の高い対話例といえます。 だそうだ。AIは、この極めて異例な対話の記録は公開する価値があるという。AIとの対話は、私の「完成した作</description>
     </item>
+    <item>
+      <title>偽コンサルの一生 - 孤独な弧度法</title>
+      <link>https://2arctan-1.hatenablog.com/entry/2026/10/31/125102</link>
+      <pubDate>2026/10/31 17:31</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出演した際に「個人のPCに大量のDRAMを保有させることには問題がある」と指摘しました。この発言は、話題がローカルAIの普及によって、データセンターへの依存が低下するのではないかという話になったときに出てきたものです。 アルトマン氏は「多くの人たちがローカル推論を活用することを求めている」とし、「そうなればDRAMの供給不足の問題は解決されると思い込んでいるからだ」と続けました。 オープンソースLLMの性能が向上すれば、ユーザーは自分のPCにAIモデルをダウンロードし、ローカル環境でAIによる推論</description>
+    </item>
+    <item>
+      <title>Idolの概要 - 1枚の画像から3D Gaussian Splattingを生成するAI｜npaka</title>
+      <link>https://note.com/npaka/n/n66f6eaffeecb</link>
+      <pubDate>2026/10/31 15:19</pubDate>
+      <description>KomeKaigi 2026で講演しました https://komekaigi.dev/</description>
+    </item>
+    <item>
+      <title>(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)</title>
+      <link>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</link>
+      <pubDate>2026/10/31 14:03</pubDate>
+      <description>様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。 現在SNS上では、そうした傾向を如実に象徴するエピソードが物議を醸しているのだ。 ■ポスターコンクール受賞作に「AI生成」疑惑 ことの発端は、「僕が小学生の時じゃ考えられないくらい今の子たちは絵が上手いのなぁ。構図も練られているしさすが！ AIも顔負けだね！」という内容の、Threadsの投稿。 こちらの投稿には福島県喜多方市で開催された「全国醤油サミット in きたかた醤油消費拡大推進ポスターコンクール」の入賞作品の画像が添えられている。 画像は「喜多方市」公式サイトのスクリーンショット しかしその一部には、ネット上で多数目にするAI生成画像との共通点を感じさせる作品が混じっていたのだった。 関連記事：免許証に写った美女、恐ろしすぎる正体</description>
+    </item>
+    <item>
+      <title>AI時代、人間の音楽著作権どう守る　JASRACが生成曲の検知へ（朝日新聞） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/85e366919356c7205191379528eead81a9a45f97</link>
+      <pubDate>2026/10/30 22:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2df9260414ad6f999e1572718cfb183e63384d2d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2F1dD7b8HkT2sbiJzUIewMTD%2Fe5cdc6f33c4fdd9d798f11a4564612ff%2Feyecatch_developersio_darktone_1200x630.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/nadf4c6873d6d</link>
+      <pubDate>2026/10/31 08:43</pubDate>
+      <description>一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 Cultural bias or universal traits? Exploring personality-like profiles of large language models | Royal Society Open Science | The Royal Society https://royalsocietypublishing.org/rsos/article/13/9/rsos252491/483310/Cultural-bias-or-universal-traits-Exploring Switching languages can change a chatbot&amp;#39;</description>
+    </item>
+    <item>
+      <title>https://imoz.jp/humanizer.ja.txt</title>
+      <link>https://imoz.jp/humanizer.ja.txt</link>
+      <pubDate>2026/10/31 05:42</pubDate>
+      <description>政府が米人工知能（AI）開発大手に脆弱性点検に使う高性能AIモデルの提供拡大を要請したことがわかった。サイバー攻撃の脅威の高まりを受け、政府の重要システムの弱点を洗い出す。電気や通信といった基幹・重要インフラ企業の活用も促す。政府が来週にも打ち出すサイバーセキュリティーの対策パッケージに米AI開発事業者との連携強化を盛り込む方針だ。高市早苗首相が26日の関係閣僚会議で、海外の関係機関との協力に</description>
+    </item>
+    <item>
+      <title>世界のメモリー大手、営業利益が初の米テック超え　AI需要が急増 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/</link>
+      <pubDate>2026/10/31 02:14</pubDate>
+      <description>【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指している。有料会員から月額4〜5ドル（約600~800円）の追加料金の徴収を検討しているという。</description>
+    </item>
+    <item>
+      <title>人間が話し終わる前に検索や処理を開始する音声AI「Phonic-1」が登場、応答までの待ち時間を大幅に短縮</title>
+      <link>https://gigazine.net/news/20261030-phonic-1/</link>
+      <pubDate>2026/10/30 18:12</pubDate>
+      <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべての環境において共通です。 アタックサーフェスや管理面を減らす 管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazon EC2 に SSH で入っているなら AWS Systems Manager Session Manager で入るということです。 ポートを開けないことで攻撃を受ける可能性を大幅に減らせます。SSH 関連</description>
+    </item>
+    <item>
+      <title>AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される</title>
+      <link>https://gigazine.net/news/20261030-minecraft-gpt-sol/</link>
+      <pubDate>2026/10/30 18:12</pubDate>
+      <description>Google製AI「Gemini」のチャット内でGoogleドキュメントやGoogleスプレッドシートのファイル作成および編集が可能となりました。 Edit and preview documents directly in Gemini https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/ Generate, edit, and preview files in Gemini - YouTube ウェブアプリ版のGeminiでは「Googleドキュメント」「Googleスプレッドシート」「Googleスライド」のファイル作成と編集が可能なほか、PDFファイルやテキストファイルの操作にも対応しています。スマートフォンアプリ版のGeminiではPDFファイルの作成と編集が可能です。 すでに</description>
+    </item>
+    <item>
+      <title>エンジニアはAI失業すると思う？</title>
+      <link>https://anond.hatelabo.jp/20261030171043</link>
+      <pubDate>2026/10/30 17:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/490eeed641a1f769ee08fe49b8fa6731fbc33f71/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2152%2F548%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIが「AI五原則」を提案、「人間の意図に忠実であれ」「害を最小限に抑えろ」などの指針を自社モデルに適用</title>
+      <link>https://gigazine.net/news/20261030-openai-model-spec-five-principles/</link>
+      <pubDate>2026/10/30 13:42</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/39d906418754c8cdb291026a1cdf4e4a5f1f0f05/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2152%2F693%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIに物理キーボードを渡して、BIOS操作からPCのトラブル対応まで丸投げしてみた——M5Stack Tab5のカメラとUSBだけで</title>
+      <link>https://zenn.dev/sodeyama/articles/tech-tab5-camera-usb-pc-diagnosis</link>
+      <pubDate>2026/10/30 12:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）｜TechRacho by BPS株式会社</title>
+      <link>https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886</link>
+      <pubDate>2026/10/28 17:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4b4be59b54ec68a31d741089de4a9f9b6047a660/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F332%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
