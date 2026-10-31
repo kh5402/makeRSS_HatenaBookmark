@@ -271147,5 +271147,84 @@ June 6, 2026</description>
       <pubDate>2026/10/29 13:11</pubDate>
       <description>Google⁠⁠、Elephant-Goldfish Modelプラグインを公開 —⁠—AIが設計文書の作成と検証を分担 Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。利用者との対話を踏まえて設計文書を作るAIと、その対話の履歴を引き継がずに文書を検証するAIを組み合わせ、仕様の曖昧さや見落としを洗い出す。 Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog google/elephant-goldfish-model - GitHub プラグインはGo</description>
     </item>
+    <item>
+      <title>AIにありがちな「イマイチなコードコメント」9パターン - Qiita</title>
+      <link>https://qiita.com/jnchito/items/636c519c0b1d347c79b7</link>
+      <pubDate>2026/10/31 18:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>third-intelligence/Haas-ja-v1.0 · Hugging Face</title>
+      <link>https://huggingface.co/third-intelligence/Haas-ja-v1.0</link>
+      <pubDate>2026/10/31 06:39</pubDate>
+      <description>上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務である。しかし、私は未だにパスワードは使いまわし、パスキーは登録していたりしていなかったりとまちまちであった。なんならパスワードマネージャーはGoogleとVivaldiとAppleで3重管理状態になっていた。流石にこれはマズい。 そこで、意を決して1Passwordに丸々移行することにした。使用を始めたらあまりの体験の良さにQoLが爆上がりしたので是非共有したい。 1Passwordの何が良いのかパスキーの共有ができるこれがめちゃくちゃデカい。 個人的なパスキーの最大の問題点はデバイス間の共有が</description>
+    </item>
+    <item>
+      <title>メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 - すまほん!!</title>
+      <link>https://smhn.info/202610-sam-altman-pc-dram-quite-terrible-cloud</link>
+      <pubDate>2026/10/31 18:02</pubDate>
+      <description>こんにちは。 社会人歴10年未満にして、早くも転職回数3回のジョブホッパーです。 最近まで2年ほど(実態はそれ未満なんですが)コンサルタントをやっておりました。 当然、2年程度でコンサルタントとしての所作やスキルが身につくはずもなく、立派な『偽コンサル』が転職市場へと放たれたわけです！ 今日は、そんな偽コンサルが業界に入り速攻で逃げ出すまでをまとめたいと思います！ 偽コンサルなので当然文章は構造化されてませんし、章の切り方もMECEではありませんし、本文で書かれた主張はすべてファクトと主観が入り交じったものとなっております！ その点をご了承していただいた上で、本ブログをお読みください。 こんなんでもコンサルタントを名乗っているのか……と現役コンサルの人には業界のレベル低下を嘆いてもらえれば幸いです。 また、今現在進行形でコンサル辞めたくて辛い人には、『最悪辞めてもなんとかなるんだ』と思って</description>
+    </item>
+    <item>
+      <title>OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/10/31/5657.html</link>
+      <pubDate>2026/10/31 16:41</pubDate>
+      <description>1. Idolとは「Idol」は、1枚の画像から3Dオブジェクトを生成するAIモデルです。「Speridlabs」によって、2026年10月に公開されました。 写真やCG画像を入力すると、画像に写っていない裏側もAIが推測し、360度から見られる3Dオブジェクトを生成します。 生成形式には「3D Gaussian Splatting（3DGS）」を採用しています。これは、多数の半透明の楕円体（Gaussian）を3D空間に配置し、物体の形状や見た目を表現する技術です。 主な特徴は次のとおりです。 ・画像1枚から3D生成：見えていない部分も含めて生成 ・3DGS形式：PLYファイルとして出力 ・軽量なモデル：約6.6億パラメータ、ピークVRAM約7.2GB ・高速生成：B300で約3.4秒、RTX 4090で約19.1秒 ・オープンソース：コードと学習済みモデルをApache 2.0で公開</description>
+    </item>
+    <item>
+      <title>視野はAIに、視座は人に / ai-for-breadth-humans-for-perspective</title>
+      <link>https://speakerdeck.com/nkzn/ai-for-breadth-humans-for-perspective</link>
+      <pubDate>2026/10/31 13:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議　審査員は「本人が描画した」と判断</title>
+      <link>https://sirabee.com/2026/10/20/20163592078/</link>
+      <pubDate>2026/10/31 09:21</pubDate>
+      <description>福島県喜多方市のポスターコンクール入賞作品が「AI生成ではないか」と話題に。実行委員会は取材に「本人が描画した作品であると判断した」と、回答している。 様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。 現在SNS上では、そうした傾向を如実に象徴するエピソードが物議を醸しているのだ。 ポスターコンクール受賞作に「AI生成」疑惑 ことの発端は、「僕が小学生の時じゃ考えられないくらい今の子たちは絵が上手いのなぁ。構図も練られているしさすが！ AIも顔負けだね！」という内容の、Threadsの投稿。 こちらの投稿には福島県喜多方市で開催された「全国醤油サミット in きたかた醤油消費拡大推進ポスターコンクール」の入賞作品の画像が添えられている。 画像は「喜多方市」公式サイトのスクリーンショット し</description>
+    </item>
+    <item>
+      <title>OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張</title>
+      <link>https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/</link>
+      <pubDate>2026/10/31 11:56</pubDate>
+      <description>人工知能時代の新システム「KENDRIX」について語る日本音楽著作権協会（JASRAC）の水谷英彦氏=2026年8月28日、東京都港区、赤田康和撮影（朝日新聞）　日本音楽著作権協会（JASRAC）が、生成AI（人工知能）の普及を受け、人間が生み出した音楽を保護するための対策を進めている。AIが自律的に生成した楽曲を著作権の管理対象から排除するとともに、AI生成曲を判別するシステムの導入を検討している。 【動画あり】AIで作ったイメージソングがカラオケに JASRACは6月に公表したガイドラインで、人間が簡単な指示をしただけで、AIが自律的に生成した楽曲は管理対象にしないと明記した。一方、楽曲の登録は作曲家らの自己申告が基本で、AI生成曲を人間が作ったと申告された場合、見抜くのは難しい。 このため、音源を解析してAI生成の可能性を判定する「AI楽曲検知システム」の実証を10月から始めた。作曲</description>
+    </item>
+    <item>
+      <title>「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/</link>
+      <pubDate>2026/10/31 11:15</pubDate>
+      <description>GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと 「Qwen3.5-4Bの重みの中に32bit RISC-V CPUをコンパイルして埋め込んだ」というモデルがHugging Faceに公開されていた。 divagr1925/Qwen3.5-4B-Qwenputer 最初に見たとき、正直なところネタだと思った。 LLMに計算をさせる方法はいくらでもある。Pythonを呼び出してもいいし、電卓を使わせてもいい。しかし、これはそういう話ではないらしい。 なんと、LLMのニューラルネットワークそのものに32bitのCPUを作り込み、モデルが文章を生成するための計算をしている最中に、CPUの機械語プログラムまで実行できるというのだ。 しかも、そのCPUは大量のデータを使って学習させたものではない。コ</description>
+    </item>
+    <item>
+      <title>ブラック・オクトーバー - Wikipedia</title>
+      <link>https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%AF%E3%83%88%E3%83%BC%E3%83%90%E3%83%BC</link>
+      <pubDate>2026/10/30 19:53</pubDate>
+      <description>米テック大手の巨額の人工知能（AI）投資により半導体企業の業績が急拡大している。世界のメモリー5社の2026年7〜9月期の営業利益と純利益は初めてテック大手を上回った。供給力を超えるメモリー需要の伸びが背景にある。メモリー各社は業績の先行きに強気な見方を示すが、利益の源泉であるテックの投資余力に対して市場では警戒感も出ている。キオクシアホールディングスが30日発表した7〜9月期決算（国際会計</description>
+    </item>
+    <item>
+      <title>【けんすうさん】「100 倍にするなら？」から始める AI 時代の仕事術｜Gemini - Google の AI</title>
+      <link>https://note.com/google_gemini/n/n91335a03fed9</link>
+      <pubDate>2026/10/29 20:52</pubDate>
+      <description>人工知能の流行りを追わないという選択 AIの移り変わりは激しく、追えば追うほど新しい情報にたどり着く昨今。 最近こんな記事を読んで、AIのトレンドを追わずに一度立ち止まる、 というのも選択として十分にアリなんじゃないかと思ったりしてます。 ・The slow, delicious pleasure of being ‘left behind’ by AI （&amp;quot;AIから遅れを取る&amp;quot;というスローで甘美な喜び） thefuturehunter.substack.com この記事のようにAIによるFOMO（取り残されることへの恐怖）、 感じている人多いのでは？と思ったので軽く紹介。 下記、印象に残った部分を引用していきます。(※Google翻訳を一部編集してます) ある時点で、私たちは皆、合意された目的地のない巨大で枝分かれした技術エコシステムに対して、「先行している」とか「遅れている」といった直</description>
+    </item>
+    <item>
+      <title>CVE-2026-98432 について調べてみた — 11 年潜んでいた Linux の TCP の脆弱性と2行の修正</title>
+      <link>https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</link>
+      <pubDate>2026/10/30 20:48</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fd54159a9eae7a2f0f04704de7b1a74a55e88ba2/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1213527.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Proof Dungeon：自然演繹の迷宮</title>
+      <link>https://kihara-logic.github.io/proof-dungeon/</link>
+      <pubDate>2026/10/30 19:06</pubDate>
+      <description>実は、このテーマでブログを書こうと思ったのは4か月前でした。その時は、生成AIにデータの意味を理解させるための手段として、オントロジーが注目され始めたくらいだったのですが、今や、いろいろなお客様とお話させていただくなかで、当たり前のように話題に出るようになりました。AIの進化と共に、それらに関連する知識のアップデートもものすごい勢いで行われていると感じます。 オントロジーとは何か？ まずは、オントロジーとは何か？というところから、おさらいします。 Palantir TechnologiesやDatabricks、Microsoftもオントロジーという言葉を使っていますが、その定義は一致していません。そのため、ここでは、日本国内におけるオントロジーの第一人者（と私は思っています）である、溝口　理一郎先生（大阪大学名誉教授）の著書より引用させていただきます。 “オントロジーとは、共通語彙（概念</description>
+    </item>
   </channel>
 </rss>
