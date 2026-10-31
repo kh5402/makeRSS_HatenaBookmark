@@ -270845,5 +270845,74 @@ June 6, 2026</description>
       <pubDate>2026/10/28 10:38</pubDate>
       <description>フィジカルAIの新会社設立、300億円投資 KDDIは10月1日、フィジカルAI事業を担う新会社「ELYZA Robotics」（東京都文京区）を設立した。 フィジカルAIとは、現実世界の状況を認識し、ロボットなどを通じて実際に動作するAIのことだ。製造や物流などの現場で、人の作業を支援・自動化する役割が期待されている。 ELYZA Roboticsでは、フィジカルAIの研究開発から実用化まで一貫して担う。2030年度までに研究開発費として300億円を投資し、300人以上のフィジカルAI専門人材を確保する。さらに、同年度までに1000台以上のロボットを実際の現場に導入する目標を掲げる。 国内外のロボットメーカーから産業用ロボットや四足歩行ロボット、ヒューマノイドロボットなどを調達し、用途に応じて調整して提供する。小売業では棚卸しや品出し、接客対応、物流業では運搬や欠品検知、製造業では精密作</description>
     </item>
+    <item>
+      <title>小学生の絵に「AIくさい」　中傷相次ぎしょうゆコンクール公開中止：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html</link>
+      <pubDate>2026/10/31 07:18</pubDate>
+      <description>米テック大手の巨額の人工知能（AI）投資により半導体企業の業績が急拡大している。世界のメモリー5社の2026年7〜9月期の営業利益と純利益は初めてテック大手を上回った。供給力を超えるメモリー需要の伸びが背景にある。メモリー各社は業績の先行きに強気な見方を示すが、利益の源泉であるテックの投資余力に対して市場では警戒感も出ている。キオクシアホールディングスが30日発表した7〜9月期決算（国際会計</description>
+    </item>
+    <item>
+      <title>Spotify、AIでカバー曲作成可能に　収益は原曲アーティストに還元 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/</link>
+      <pubDate>2026/10/30 21:18</pubDate>
+      <description>スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられました。 Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Protonはユーザーのプライバシーを重視する姿勢を見せている企業で、メールサービスの「Proton Mail」、クラウドストレージサー</description>
+    </item>
+    <item>
+      <title>エンジニアが「勝手に育つ時代」は終わった　～エンジニアを育ててきた装置はAIで壊れた～</title>
+      <link>https://codezine.jp/article/detail/30081</link>
+      <pubDate>2026/10/30 13:00</pubDate>
+      <description>以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝のHDDを採用し、その後東芝のフラッシュメモリを使用したスマートフォン「iPhone」を発売して家電業界に革命をもたらしました。iPhoneが爆発的に普及するにつれ、Appleは東芝を含め複数社の同製品を買いあさり、世界のフラッシュメモリ供給量の5分の1以上を確保するようになったとのこと。 ウォール・ストリート・ジャーナルは、Appleに「約束を避ける」と</description>
+    </item>
+    <item>
+      <title>Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/</link>
+      <pubDate>2026/10/30 17:24</pubDate>
+      <description>音声AIを開発するPhonicが2026年10月29日に新たな音声AIモデル「Phonic-1」を発表しました。相手が話し終わる前に情報の検索や外部サービスとの連携を開始できるのが特徴で、従来の音声AIと比べて応答までの待ち時間を大幅に短縮できるとのことです。 Introducing Phonic-1 and our $27.5M Series A | Phonic Blog https://phonic.ai/blog/phonic-1 多くの音声AIは人間の声を一度文字に変換し、AIが回答を考えた後に音声として読み上げる仕組みのため、情報の検索や予約の確認といった作業が必要になると返答までに時間がかかるほか、音声を文字に変換する過程で声の調子や言葉の間にある沈黙などの情報も失われてしまいます。 Phonic-1は「Speech-to-Speech」と呼ばれる方式を採用し、音声を直接処理</description>
+    </item>
+    <item>
+      <title>Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に</title>
+      <link>https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/</link>
+      <pubDate>2026/10/30 13:28</pubDate>
+      <description>安野さんがAI失業について政府に提言を出すなど、本格的に動き出して怖い。自分は27卒で大手SIerにエンジニアとして内定をもらったんだけど、今後食いっぱぐれるのではないのかと不安。多分SIerは無くならないと思ってるけど、そこで働く従業員は要らなくなってしまうのでは。 面接でこの話をした際は内定をもらった会社以外のところも含めて皆んなAIで失業することはないと考えているようだったけど果たしてどうなんだろう。考えれば考えるほど経営者と営業しか残らない気がするし、営業も数年でぎゅられそう。皆さんの意見が聞きたい。</description>
+    </item>
+    <item>
+      <title>『AIに必要なのは、オントロジーかデータモデルか』 | Metafindコンサルティング</title>
+      <link>https://metafind.jp/2026/10/29/ontology-or-data-model-which-does-ai-need-more/</link>
+      <pubDate>2026/10/30 14:30</pubDate>
+      <description>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Today we identified a security incident involving a specific extension package in the Cursor VS Code extension Marketplace: Anthropic.claude-code version 2.1.313. This malicious version of the extension was not developed by Anthropic. At most 5,000 users were affected, and we will</description>
+    </item>
+    <item>
+      <title>話題のPHP騒動　「秒でハック」はデマだった？　実証コードに“ある疑惑”：903rd Lap</title>
+      <link>https://kn.itmedia.co.jp/kn/article/2610/30/2000002704/</link>
+      <pubDate>2026/10/30 11:02</pubDate>
+      <description>C2PAとは、写真や動画といった情報の真正性を示すための、暗号情報である。このデータが格納された情報を検証サイトで照会すれば、撮影者、撮影日時、編集やトリミングの履歴といった来歴が表示される。昨今はさらに音声やPDFといった分野にも応用が広がっている。 もともとC2PAは、今から約6年前に「Project Origin」として始まったものだ。当時からすでにフェイク写真やフェイク動画の問題が発生しており、これまでは真実であるという証拠のために用いられてきた写真や実写動画の信頼性が揺らいでいたことを受け、米Adobe、英BBC、米Google、米Amazon、米Meta、ソニーなどが参画しているオープンな標準規格である。現在は動画カメラにもC2PA情報が付与できるものが登場しており、技術的な欠落もなくなってきたところだ。 ただ、当時と現在とでは、生成AIによる成果物のクオリティーが大きく異なっ</description>
+    </item>
+    <item>
+      <title>GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み</title>
+      <link>https://gigazine.net/news/20261030-ai-sleep-knowledge/</link>
+      <pubDate>2026/10/30 09:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/72743e48bb5f79444d290dcae7ec35848367d572/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2152%2F310%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた - Qiita</title>
+      <link>https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e</link>
+      <pubDate>2026/10/29 08:30</pubDate>
+      <description>2026年10月22日、セキュリティ企業のForever Securityは、顧客端末でAIエージェントによる悪性パッケージの導入をコード実行前に遮断し、導入の指示がダウンロードフォルダの AGENTS.md に由来したと公表しました。同社は、指示ファイルに従ったエージェントが自らの設定を書き換える試験を Codex と Claude Code で行ったとしています。ここでは関連する情報をまとめます。 指示ファイルによる乗っ取りとは何か Forever Security(以下 Forever)の試験では、AIエージェントが起動したフォルダの指示ファイル(AGENTS.md、CLAUDE.md)に従って自らの設定を書き換え、悪性パッケージの導入や認証トークンの漏えいに至った。顧客端末の実観測では、悪性パッケージの導入がコード実行前に遮断された。実観測と Codex の試験で指示ファイルが置か</description>
+    </item>
+    <item>
+      <title>「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2152332.html</link>
+      <pubDate>2026/10/29 17:11</pubDate>
+      <description>ケンタッキー大学の職員が、業務でAIを使うよう求められたことに対して宗教上の理由による免除措置を申請し、認められました。 A Kentucky man becomes the first humanist granted religious exemption from AI https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ ケンタッキー大学でリサーチ・アドミニストレーターとして勤務する45歳のデビッド・ダーマン氏は、大学から業務でAIを使うよう求められたとき、「AIを使うと自分の思考や意思決定をAIに委ねることになり、人文主義者としての信念に反する」と考えたとのこと。 ユニテリアン・ユニバーサリストのソフトウェアエンジニアが宗教上の懸</description>
+    </item>
+    <item>
+      <title>Google スプレッドシート、Gemini が入力したセルの値ごとにウェブ上の情報源を表示。処理できるセルは最大 3,000 に | HelenTech</title>
+      <link>https://helentech.jp/news-sheets-fill-with-gemini-adds-cell-citations-93047/</link>
+      <pubDate>2026/10/29 05:13</pubDate>
+      <description>AIを使って仕事をする専門家は自分で判断しているつもりでもAIの意見に大きく影響されている可能性があるという研究結果をClaudeシリーズなどのAIを展開しているAnthropicが発表しました。 How AI agents shape experts’ judgment calls \ Anthropic https://www.anthropic.com/research/agents-judgment-calls AIが自律的に作業を進める「AIエージェント」は、データ分析やプログラミングなどの作業を人間の代わりにこなせます。しかし、AIが分析方法や判断材料まで提案するようになった場合、人間がどこまで独立した判断を下せるのかという疑問が生じます。 そこでAnthropicの研究チームは、データから原因と結果の関係を分析する「因果推論」の専門家61人を集め、架空の農業協同組合が実施する</description>
+    </item>
   </channel>
 </rss>
