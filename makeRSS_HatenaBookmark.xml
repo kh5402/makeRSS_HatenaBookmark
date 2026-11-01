@@ -271226,5 +271226,50 @@ June 6, 2026</description>
       <pubDate>2026/10/30 19:06</pubDate>
       <description>実は、このテーマでブログを書こうと思ったのは4か月前でした。その時は、生成AIにデータの意味を理解させるための手段として、オントロジーが注目され始めたくらいだったのですが、今や、いろいろなお客様とお話させていただくなかで、当たり前のように話題に出るようになりました。AIの進化と共に、それらに関連する知識のアップデートもものすごい勢いで行われていると感じます。 オントロジーとは何か？ まずは、オントロジーとは何か？というところから、おさらいします。 Palantir TechnologiesやDatabricks、Microsoftもオントロジーという言葉を使っていますが、その定義は一致していません。そのため、ここでは、日本国内におけるオントロジーの第一人者（と私は思っています）である、溝口　理一郎先生（大阪大学名誉教授）の著書より引用させていただきます。 “オントロジーとは、共通語彙（概念</description>
     </item>
+    <item>
+      <title>AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/01/2000002776/</link>
+      <pubDate>2026/11/01 09:58</pubDate>
+      <description>はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをしていると、「たぶん、これはAIが書いたコメントをそのまま採用したんだろうな〜」と思う場面も増えました。 そこで、この記事では最近のコードレビューで指摘した「イマイチなコードコメント」を9パターン挙げてみます。 （イマイチなテストコードについてはまた別の機会に書きたいと思います） なお、コード例はRubyで書いていますが、考え方は他の言語でも同じです。 サンプルコードはいずれも説明用に作った架空のものです。 1. コードを読めばわかることをコメントしている AIが書いたコメントに限りませんが、「コードを読めばわかること」はコメ</description>
+    </item>
+    <item>
+      <title>アカウンタビリティを軸とした AI-Native 開発のデザイン戦略</title>
+      <link>https://www.nttdata.com/jp/ja/-/media/nttdatajapan/files/services/adm/ai-native.pdf</link>
+      <pubDate>2026/10/31 23:22</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b27a8f3b732d46dde146f9dce477977a8f98bede/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1214037.webp');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>自分の本名を検索したらAIで要約されて表示されるのだが個人情報がダダ漏れしている？「これは本当に怖い」「ネットに上がってる情報をまとめただけだから…」</title>
+      <link>https://togetter.com/li/2765128</link>
+      <pubDate>2026/10/31 22:01</pubDate>
+      <description>Use this model Haas-ja-v1.0 Haas-ja-v1.0 is a Japanese speech recognition model built to be both fast and accurate. It is based on NVIDIA&amp;#39;s Parakeet-TDT architecture: a FastConformer encoder and a Token-and-Duration Transducer (TDT) decoder, here with a prediction network that uses Kimi Delta Attention (KDA). The name is an acronym of Hear Anything At Speed and a nod to Helmut Haas, the acousticia</description>
+    </item>
+    <item>
+      <title>AIエージェント向けの業務手順書（Agent Skills）の設計方法</title>
+      <link>https://techblog.kazaneya.com/20261030-agent-skills/</link>
+      <pubDate>2026/10/30 19:18</pubDate>
+      <description>すまほん!! » AI・人工知能 » メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 オープンなAIモデルを手元のPCで動かす「ローカル推論」は、クラウドに頼らず生成AIを使える手段として関心を集めています。 一方で、AIデータセンター向けの需要が膨らみ、DRAM（PCの実行メモリなどに使う半導体メモリ）の価格は高騰。その影響は、低価格スマホの実行メモリが4GBに逆戻りするとの噂にまで及んでいます。 そうした中、OpenAIのサム・アルトマンCEOが、世界全体の配分から見れば、DRAMを各自のPCに抱えたまま、ほとんど使わずにおくのは「かなりひどい」と語りました。DRAMが足りない今、メモリはクラウドに集めて稼働率を最大にすべきだという主張です。 この発言は、決済大手Stripeの共同創業者で社長のJohn Colliso</description>
+    </item>
+    <item>
+      <title>政府、サイバー対策で米AIにモデル提供拡大を要請　システム脆弱性点検 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA2949Z0Z21C26A0000000/</link>
+      <pubDate>2026/10/31 01:26</pubDate>
+      <description>福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…</description>
+    </item>
+    <item>
+      <title>人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載</title>
+      <link>https://gigazine.net/news/20261030-prism/</link>
+      <pubDate>2026/10/30 22:16</pubDate>
+      <description>FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「Doomformer」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。 DOOMFORMER: integer neural networks computed by voodoo dolls in ZDoom maps https://mottopanikeiku.github.io/doomformer/#writes-itself mottopanikeiku/doomformer: Compile an integer neural network into a DOOM map. Voodoo dolls do the arithmetic, ligh</description>
+    </item>
+    <item>
+      <title>あの「謹賀新年」がWebMCPに対応 - hitode909の日記</title>
+      <link>https://blog.sushi.money/entry/2026/10/29/100659</link>
+      <pubDate>2026/10/29 11:27</pubDate>
+      <description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free（UAF、解放後使用）」と呼ばれる不具合だ。ネットワーク経由で悪用可能で、認証や利用者の操作は不要だ。 Anthropicの実証では、複数の通信経路を利用する「MPTCP」の待ち受けサーバーを標的とした。AIが作成した攻撃コードを使い、認証なしで遠隔からroot権限のコマンドを実行できたという。 Linuxカーネルの脆弱性情報を管理するCVEチームは10月15日に問題を公表し、安定版には修正が取り込まれた。一方、Ubuntuの10月29</description>
+    </item>
   </channel>
 </rss>
