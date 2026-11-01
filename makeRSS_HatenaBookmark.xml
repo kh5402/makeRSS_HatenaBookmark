@@ -271295,5 +271295,35 @@ June 6, 2026</description>
       <pubDate>2026/10/30 09:10</pubDate>
       <description>【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指している。有料会員から月額4〜5ドル（約600~800円）の追加料金の徴収を検討しているという。</description>
     </item>
+    <item>
+      <title>HonoがPRを閉じた理由</title>
+      <link>https://slides.yusu.ke/foss4g-2026</link>
+      <pubDate>2026/11/01 20:35</pubDate>
+      <description>げどうさん@ボカロPなのかもしれない @gedousan 作曲って難しいと思うじゃん？ だったら遊びにしちゃえばいいんじゃね？ｗｗ ということで、音楽で遊べるものを作ってみた！！ 音楽理論？知らん！！コード進行？わからん！！ 作曲？やったことない！！ そんな人でもポチポチしてたら 曲ができちゃうツールですｗ 好きな雰囲気を選んで コードを並べて、メロディを作る！ 完成した曲はMIDIで保存できるし なんとXで共有して、そのまま聴いてもらうこともできる！！ もちろん完全無料！登録不要！！ よかったら遊んでみてねｗｗｗ …-de-asonde-mita.gedousan.chatgpt.site 2026-11-01 11:04:39 音楽で遊んでみた — ひとつずつ、あなたのメロディへ。 コードからメロディを一音ずつ。作った曲をリンクで届けよう。無料・登録不要の作曲アプリ。 ongaku-d</description>
+    </item>
+    <item>
+      <title>Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？</title>
+      <link>https://gigazine.net/news/20261101-wikipedia-ai-content/</link>
+      <pubDate>2026/11/01 19:19</pubDate>
+      <description>短い録音から人物の声を再現する音声クローン・文章による新しい声の設計・動画の多言語吹き替え・音声の文字起こし・長文を読み上げるオーディオブック制作などAIによる音声処理にはさまざまな機能があります。こうした機能を1つのアプリから利用でき、音声モデルの切り替えやAIエージェントとの連携にも対応するほか、Windows上で音声生成をローカル実行できる無料のオープンソースElevenLabs代替ツールが「VoiceStudio」です。 Free Open-Source AI Voice Cloning &amp;amp; Dubbing | VoiceStudio https://voicestudio.sh/ debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo</description>
+    </item>
+    <item>
+      <title>おいグエンちゃん b:id:nguyen-oi Grafana が No data になってるけど</title>
+      <link>https://anond.hatelabo.jp/20261101084900</link>
+      <pubDate>2026/11/01 08:50</pubDate>
+      <description>Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; the loop stays in your agent. On macOS, CLI calls reuse a private command host for each snapshot namespac</description>
+    </item>
+    <item>
+      <title>コードを伏せても20ドル以下でツールを再現　英AISIがAIエージェントで検証</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/30/news033.html</link>
+      <pubDate>2026/10/30 16:33</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出演した際に「個人のPCに大量のDRAMを保有させることには問題がある」と指摘しました。この発言は、話題がローカルAIの普及によって、データセンターへの依存が低下するのではないかという話になったときに出てきたものです。 アルトマン氏は「多くの人たちがローカル推論を活用することを求めている」とし、「そうなればDRAMの供給不足の問題は解決されると思い込んでいるからだ」と続けました。 オープンソースLLMの性能が向上すれば、ユーザーは自分のPCにAIモデルをダウンロードし、ローカル環境でAIによる推論</description>
+    </item>
+    <item>
+      <title>トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス</title>
+      <link>https://car.watch.impress.co.jp/docs/news/2152645.html</link>
+      <pubDate>2026/10/30 18:11</pubDate>
+      <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべての環境において共通です。 アタックサーフェスや管理面を減らす 管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazon EC2 に SSH で入っているなら AWS Systems Manager Session Manager で入るということです。 ポートを開けないことで攻撃を受ける可能性を大幅に減らせます。SSH 関連</description>
+    </item>
   </channel>
 </rss>
