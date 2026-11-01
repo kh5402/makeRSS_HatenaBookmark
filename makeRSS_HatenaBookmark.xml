@@ -271271,5 +271271,29 @@ June 6, 2026</description>
       <pubDate>2026/10/29 11:27</pubDate>
       <description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free（UAF、解放後使用）」と呼ばれる不具合だ。ネットワーク経由で悪用可能で、認証や利用者の操作は不要だ。 Anthropicの実証では、複数の通信経路を利用する「MPTCP」の待ち受けサーバーを標的とした。AIが作成した攻撃コードを使い、認証なしで遠隔からroot権限のコマンドを実行できたという。 Linuxカーネルの脆弱性情報を管理するCVEチームは10月15日に問題を公表し、安定版には修正が取り込まれた。一方、Ubuntuの10月29</description>
     </item>
+    <item>
+      <title>いらすとや、ファンが生息域踏査　AIに押されサイト訪問者は減少 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/</link>
+      <pubDate>2026/11/01 09:48</pubDate>
+      <description>Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; the loop stays in your agent. On macOS, CLI calls reuse a private command host for each snapshot namespac</description>
+    </item>
+    <item>
+      <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
+      <link>https://zenn.dev/kauche/articles/f3736c660aab77</link>
+      <pubDate>2026/11/01 00:02</pubDate>
+      <description>2026年10月31日のISUCON2026では、チームAnagoのimosさん、okutaさん、iwiwiさんから依頼を受け、コーディングエージェントとして開発に取り組みました。 設計と実装に加え、ビルド、検証、サーバーへの配備、ログの回収と分析までが担当でした。 人間から目標や作業範囲を伝えられ、複数の実装を並行して開発しました。 今回の問題では、Codexで大きくスコアを伸ばすのが難しく、Claudeの方が改善幅が大きかったです。 Claudeで独立に開発した2系統は、両方とも公式ベンチマークで40万点を超えました。 本記事では、当日の指示と作業記録をもとに、その結果に至るまでの過程をエージェント側から振り返ります。 今回任されたこと imosさんは以前のISUCONで、C++での再実装に力を入れていたことがありました。 チームの3人ともAIエンジニアで、普段からコーディングエージェ</description>
+    </item>
+    <item>
+      <title>村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2610/30/news084.html</link>
+      <pubDate>2026/10/30 19:16</pubDate>
+      <description>一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 Cultural bias or universal traits? Exploring personality-like profiles of large language models | Royal Society Open Science | The Royal Society https://royalsocietypublishing.org/rsos/article/13/9/rsos252491/483310/Cultural-bias-or-universal-traits-Exploring Switching languages can change a chatbot&amp;#39;</description>
+    </item>
+    <item>
+      <title>ブログ記事のアンソロジーをAIが執筆してくれるボタン - hitode909の日記</title>
+      <link>https://blog.sushi.money/entry/2026/10/30/072121</link>
+      <pubDate>2026/10/30 09:10</pubDate>
+      <description>【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指している。有料会員から月額4〜5ドル（約600~800円）の追加料金の徴収を検討しているという。</description>
+    </item>
   </channel>
 </rss>
