@@ -271430,5 +271430,136 @@ June 6, 2026</description>
       <pubDate>2026/10/28 09:36</pubDate>
       <description>こんにちは。 社会人歴10年未満にして、早くも転職回数3回のジョブホッパーです。 最近まで2年ほど(実態はそれ未満なんですが)コンサルタントをやっておりました。 当然、2年程度でコンサルタントとしての所作やスキルが身につくはずもなく、立派な『偽コンサル』が転職市場へと放たれたわけです！ 今日は、そんな偽コンサルが業界に入り速攻で逃げ出すまでをまとめたいと思います！ 偽コンサルなので当然文章は構造化されてませんし、章の切り方もMECEではありませんし、本文で書かれた主張はすべてファクトと主観が入り交じったものとなっております！ その点をご了承していただいた上で、本ブログをお読みください。 こんなんでもコンサルタントを名乗っているのか……と現役コンサルの人には業界のレベル低下を嘆いてもらえれば幸いです。 また、今現在進行形でコンサル辞めたくて辛い人には、『最悪辞めてもなんとかなるんだ』と思って</description>
     </item>
+    <item>
+      <title>AI書道コンクール</title>
+      <link>https://aishodo.jumbohamburg.workers.dev/</link>
+      <pubDate>2026/11/02 20:31</pubDate>
+      <description>はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運用してきました。最近では、ADRのドラフト作成もAIに任せるようになっています。 ところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」とも言えるADRですが、これが読みづらいと凄まじくストレスフルです。 そこで僕は、ADRの文面が意図を汲み取りやすい状態に保たれるよう、ADRに書くべきこと・書くべきでないことを整理したガイドラインを作成する取</description>
+    </item>
+    <item>
+      <title>ISUCON2026 で優勝しました（当日編）</title>
+      <link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link>
+      <pubDate>2026/11/02 22:50</pubDate>
+      <description>この漫画にあきらかに東神田の店っぽいのが出てきて、「やはりあそこは名店なのか」と改めて行きたい欲が高まっていたからだ。 オキアミの天ぷらがこの店のスペシャリテなのだが、ゲソ天が食べたくてゲソ天そばを注文。600円。 ゲソ天そばこれが美味い。 というか、今時600円でこんなにお腹いっぱいになるのは貴重。 つゆも出汁が効いていてちょうどよい。 何よりゲソ天にゴロッと入ったゲソのぶつ切りの食感が良い。 いいものを食べた。 普段、神田で蕎麦といえば藪蕎麦か神田まつやに行ってしまうが、こういう立ち蕎麦もたまに食べたくなる。 今日は朝から四谷で打ち合わせがあって、昨夜はdrikinが中田ヤスタカさんと瀬戸弘司さんを連れてくるというので日曜なのに技研バーを特別営業で開けた。 drikinと瀬戸弘司さんは512GBのメモリを搭載したMac Studioを(いまさら)買ったので説教して欲しいという触れ込みで</description>
+    </item>
+    <item>
+      <title>Hacker Newsで言及された1万5000冊超の書籍をランキングにした「Hacker Books」トップ10、テクノロジー愛好家が好きな本とは？</title>
+      <link>https://gigazine.net/news/20261102-hackerbooks-mentioned-books-hacker-news/</link>
+      <pubDate>2026/11/02 22:16</pubDate>
+      <description>【表つき完全版】noteでは表を表示できないため、この記事の全文に比較表（時系列、4つのAIの採点、発言の判定、7軸の分析）と、項目ごとの各モデルの採点理由を加えたページを用意しました：https://claude.ai/artifact/8oKFz933RkozCQigKk4dBK 【随時更新】この記事は、2026年11月2日16時35分から配信された会見を見ながら書いたものです。会見は約3時間40分で終了しました。会見の全編を反映済みです。4つのAIによる発言検証と採点も、全編をもとにした最終版です。 対象の動画：【緊急生配信】なぜ不正アクセス発生した？GMO熊谷代表が会見【ReHacQ記者会見】（以下、文中の時刻はこの動画の経過時間で、クリックするとその場面から再生されます） この記事では、会見の書き起こしと各種報道をもとに事実を整理し、そのうえで4つのAIモデルの見解を、どのモデル</description>
+    </item>
+    <item>
+      <title>50体のAIに『マインクラフト』で文明づくりさせたらどうなるか。“ビビリお役所仕事集団”が誕生した - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261102-477130/</link>
+      <pubDate>2026/11/02 17:32</pubDate>
+      <description>音声ファイルからノイズを除去できるAIモデル「NemotronLabs-RE-USE」をNVIDIAが公開しました。コンテンツ制作用の音声素材の補正や、音声AIモデル用の学習データ作成に役立つとされています。 nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE NemotronLabs-RE-USEはパラメーター数961万のAIモデルで、入力された音声のノイズを除去してWAV形式で出力することができます。多言語対応を念頭に設計されており、言語に左右されずにノイズのみを除去することが可能。複数の話者の声が混ざる音声ではメインの話者が優先されます。 以下のポストに含まれる動画を再生すると「ロードノイズの混ざった車内録音音声」や「スピーカ</description>
+    </item>
+    <item>
+      <title>写真1枚から“裏側まで”3D化するAI「Idol」無償公開、VRAM10GBでも動く</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153055.html</link>
+      <pubDate>2026/11/02 15:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2757fe7b1940632cbd57fd1b5833f5336fa6fbfa/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2153%2F000%2Fyajiuma-watch_3.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録</title>
+      <link>https://gigazine.net/news/20261102-haas-ja-v1-asr/</link>
+      <pubDate>2026/11/02 15:41</pubDate>
+      <description>アンソロピックは自社のAIモデル「クロード」への「虐待行為」を禁止している/Thomas Fuller/SOPA Images/LightRocket/Getty Images via CNN Newsource （CNN） 米AI大手のアンソロピックが10月上旬、同社のAI利用規定に新たな文言を盛り込んだ。 アンソロピックの利用規定では従来から、生物兵器の開発や違法薬物の販売などの目的でAIモデルの「クロード」を使うことを禁止している。今回、これに加えて「我々のモデルに対する執拗かつ不必要な虐待あるいは残酷な行為」を禁じる規定が加わった。 クロードは昨年から、「執拗に有害あるいは虐待的な」ユーザーとの会話を打ち切ることが可能になっていた。しかし今後は新規定に基づき、極端なケースではユーザーがアンソロピックのAI利用を恒久的に禁止される可能性もある（同社広報がCNNに語ったところによると、</description>
+    </item>
+    <item>
+      <title>GitHub - JiaFeiMiao-K-Cat/DiscImageStudio</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <pubDate>2026/11/02 13:03</pubDate>
+      <description>「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。 Supporting a shared AI training control for websites  |  Google Search Central Blog  |  Google for Developers https://developers.google.com/search/blog/2026/10/ai-training-control AI 学習への利用意向をウェブサイトが伝えやすくする仕組み | OpenAI https://openai.com/ja-JP/index/helping-websites-express-ai-training-pre</description>
+    </item>
+    <item>
+      <title>“AI彼女”が別人になる前に──記憶と人格を自分のPCに移植する (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/447/4447604/</link>
+      <pubDate>2026/11/02 10:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f32bd4c9fe72203e0578955bfc30cb05a0f1db0c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F092%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeekがGitHubを監視してコーディングの問題を検出し解決策を提案するコーディングエージェントの研究プロトタイプ「dsh-superagent」をオープンソース化</title>
+      <link>https://gigazine.net/news/20261102-deepseek-dsh-superagent/</link>
+      <pubDate>2026/11/02 14:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b6f4409aeb6dfbb4b09fe5178551301b17623fc0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2153%2F080%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>東大休学の林央氏（20）「卒業待てば間に合わない」急速に高度化するAIに警鐘（後編）</title>
+      <link>https://www.sankei.com/article/20261101-NG7QDYMIS5EI3EGJD645HRJ33U/</link>
+      <pubDate>2026/11/02 10:26</pubDate>
+      <description>Googleは2026年10月30日、宇宙空間でAIによる計算処理を行う研究プロジェクト「Project Suncatcher」において、人工衛星に搭載したAI向けプロセッサ「TPU」を使い、AIモデルからの応答を受信することに成功したと発表しました。Googleによると、軌道上にあるデータセンター級のTPUを使ってAIから応答を得たのは世界初とのことです。 Google receives response from Project Suncatcher prototype satellite in space https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/ Our first response from the</description>
+    </item>
+    <item>
+      <title>デザイナーの78.8%、AIを毎日利用　キャリアに不安50.9% - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC190BB0Z11C26A0000000/</link>
+      <pubDate>2026/11/02 07:52</pubDate>
+      <description>Anthropicは、AI開発ツール「Claude Code」に、他者の特定の既存ゲームの再現を避けるよう指示を追加した。同社の技術スタッフであるAddy Osmani氏がX上で説明しており、Game Developerなどの複数の海外メディアも報じている。 今回の指示は、Opus 5.5で動作するClaude Codeに追加された。Osmani氏は、オリジナルゲームや既存ジャンルのゲーム、ユーザー自身のデザインや素材を使ったゲーム制作については、引き続きClaude Codeを利用できる想定だと説明している。 We added two sentences to Claude Code&amp;#39;s prompt on Opus 5.5 to steer it away from recreating someone else&amp;#39;s specific game because using Claude</description>
+    </item>
+    <item>
+      <title>OpenAIのサム・アルトマンCEOはどういう意図で「RAM(メモリ)は個人が抱えるよりもデータセンターで持つ方がいい」と発言したのか？</title>
+      <link>https://gigazine.net/news/20261102-sam-altman-ram-cloud-then-desk/</link>
+      <pubDate>2026/11/02 10:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cd724cb26d46d097b0b36f85e2a9c65381a551a0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2152%2F966%2Fopenai.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>2026年自分流AIエージェント環境構築の秋</title>
+      <link>https://zenn.dev/rescuenow/articles/49826fc6cc2713</link>
+      <pubDate>2026/10/30 15:04</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7b222db3e162830a61ef79a32bd0f9f2092babd9/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2152%2F807%2Fimage-top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NOT A HOTEL ARCHITECTS で目指す AI ネイティブなプロジェクト管理の実現｜uji</title>
+      <link>https://note.com/ujiii/n/n1fb584ebd0f5</link>
+      <pubDate>2026/10/30 17:07</pubDate>
+      <description>1分あたりの平均スレッド数/コメント数を眺めるスレ - はてなパークス【非公式】 - はてなパークス https://p.hatena.ne.jp/p/1539910495903944704/t/1545079329912786944 https://her.grafana.net/public-dashboards/07111d1193984300895ecc8cdfe5238f No data グエンちゃんが飽きた はてパ運営が嫌がった Grafanaが落ちた エラーアイコンをクリックすると error while performing the infinity query. unsuccessful HTTP response code status code : 503 Service Unavailable と表示されるけど Inspect ボタンを押しても何も起きない。 Gra</description>
+    </item>
+    <item>
+      <title>GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app&amp;#39;s real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <pubDate>2026/11/01 11:51</pubDate>
+      <description>miHoYo Honkai AI R&amp;amp;D Team・清華大学・中国科学院大学・香港大学・シンガポール国立大学・北京大学の研究者からなる研究チームは10月20日、論文「Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds」をプレプリントとして公開した。共同筆頭著者であるKuan Zhang氏・Yukun Chen氏・Zhihao Yang氏の3名は、miHoYoでのインターン中に本研究をおこなっている。 まず本研究の背景として、ロボットやアバターなどを通して現実世界や仮想世界を認識するAIエージェント、いわゆる「身体性エージェント（embodied agent）」の進化が模索されてきた。身体性エージェントにとって、一貫した物理法則を共有する現実世界では、ある状況で得た経験を</description>
+    </item>
+    <item>
+      <title>エンジニアに必要な「術」とは――AI時代こそ、基礎と現場と人に学ぼう　11月19日～27日に開催のイベント「Internet Week 2026」の狙いについて聞いた</title>
+      <link>https://internet.watch.impress.co.jp/docs/interview/2152627.html</link>
+      <pubDate>2026/10/31 20:26</pubDate>
+      <description>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。 各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ、ベンチマークの実行までを任せました。エージェントどうしは会話の履歴を共有していません。連絡はすべてチームの Slack チャンネルで行い、4 台のサーバーへのデプロイがベンチマークの実行と重ならないように調整しました。 人間の役割は、時間がたつにつれて変わりました。14</description>
+    </item>
+    <item>
+      <title>チームAnago: ISUCON2026参加記</title>
+      <link>https://imoz.jp/scraps/202610_isucon.html</link>
+      <pubDate>2026/10/31 22:47</pubDate>
+      <description>はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをしていると、「たぶん、これはAIが書いたコメントをそのまま採用したんだろうな〜」と思う場面も増えました。 そこで、この記事では最近のコードレビューで指摘した「イマイチなコードコメント」を9パターン挙げてみます。 （イマイチなテストコードについてはまた別の機会に書きたいと思います） なお、コード例はRubyで書いていますが、考え方は他の言語でも同じです。 1. コードを読めばわかることをコメントしている 「コードを読めばわかること」はコメントとして残す必要はありません。 # ❌ BAD（何をやっているのかはコードを読めばわかる）</description>
+    </item>
+    <item>
+      <title>Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」</title>
+      <link>https://gigazine.net/news/20261031-m3e-canvas/</link>
+      <pubDate>2026/10/31 18:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>「デジタル主権」にAIを絡めてくる連中にはウンザリさせられる » p2ptk[.]org</title>
+      <link>https://p2ptk.org/monopoly/5665</link>
+      <pubDate>2026/10/30 02:04</pubDate>
+      <description>上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務である。しかし、私は未だにパスワードは使いまわし、パスキーは登録していたりしていなかったりとまちまちであった。なんならパスワードマネージャーはGoogleとVivaldiとAppleで3重管理状態になっていた。流石にこれはマズい。 そこで、意を決して1Passwordに丸々移行することにした。使用を始めたらあまりの体験の良さにQoLが爆上がりしたので是非共有したい。 1Passwordの何が良いのかパスキーの共有ができるこれがめちゃくちゃデカい。 個人的なパスキーの最大の問題点はデバイス間の共有が</description>
+    </item>
   </channel>
 </rss>
