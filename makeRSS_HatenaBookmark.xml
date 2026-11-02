@@ -271325,5 +271325,44 @@ June 6, 2026</description>
       <pubDate>2026/10/30 18:11</pubDate>
       <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべての環境において共通です。 アタックサーフェスや管理面を減らす 管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazon EC2 に SSH で入っているなら AWS Systems Manager Session Manager で入るということです。 ポートを開けないことで攻撃を受ける可能性を大幅に減らせます。SSH 関連</description>
     </item>
+    <item>
+      <title>GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
+      <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
+      <pubDate>2026/11/02 01:58</pubDate>
+      <description>米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） Microsoftは10月26日（米国時間）、「Voluntary Exit Offer（VEO）」を従業員に通知した。 直訳すれば「任意退職の申し入れ」となるが、英語圏で「Buyout」と呼ばれる早期退職・希望退職優遇制度に近いものだ。強制的に解雇するレイオフとは異なり、あくまで本人の意思による退職を促す申し入れという位置付けになっている。 対象となるのはカナダ／インド／英国／米国の4カ国で、Level 70以下（CEO／EVP／CVPを除く全て）の職位にある従業員だ。複数の報道によれば、Xbox／Gaming（個々のスタジオを除く）、Windows＆Devices、Copilot／CoreAI／AI Experiences、コー</description>
+    </item>
+    <item>
+      <title>音楽で遊んでみた</title>
+      <link>https://ongaku-de-asonde-mita.gedousan.chatgpt.site/</link>
+      <pubDate>2026/11/01 16:56</pubDate>
+      <description>HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード hono.dev -# api.npmjs.org 2026年9月 10月5日 honojs/honoで外部からのPRを閉じた 何をしたか 外部コントリビューターからのPR = Pull Requestを受け付けなくした PRを作れるのはコラボレーターだけ 実質メンテナー2人 悲しい話 Honoがここまで来れたのはPRのおかげ 例: RegEx</description>
+    </item>
+    <item>
+      <title>「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということで、音楽理論やコード進行が全くわからなくても音楽が作れる作曲ツールを作った</title>
+      <link>https://togetter.com/li/2765526</link>
+      <pubDate>2026/11/01 21:12</pubDate>
+      <description>あらゆるプラットフォームにAI生成テキストがあふれている中で、WikipediaではAIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインが設定されています。そのガイドラインに違反するコンテンツを見つけて削除することを目的としたボランティア活動「WikiProject AI Cleanup」の創設メンバーが、活動について語っています。 Inside Wikipedia’s Cleanup of AI-Generated Content - IEEE Spectrum https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup 英語版Wikipediaでは2025年12月に文章生成AIでの記事作成をめぐる議論が行われ、よりよいガイドラインが必要だという合意はなされましたが、その時点ではガイドライン</description>
+    </item>
+    <item>
+      <title>無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能</title>
+      <link>https://gigazine.net/news/20261101-voicestudio/</link>
+      <pubDate>2026/11/01 18:19</pubDate>
+      <description>Created by Damir Sokolovsky (@heydamir), who started the Unslopping series on X. unslop is a skill for Claude Code and Codex that turns vibecoded, AI-looking UI into a designed interface with its own character. It finds the slop first, the purple gradients, glows, emoji labels, shouty copy and uneven spacing, then sets a direction from your product and fixes the screen pass by pass like a designer</description>
+    </item>
+    <item>
+      <title>なんでもやれる『マインクラフト』を1600時間分学んだAIは、「別のゲームも上手くなるのか」研究。上手くならない - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261030-476818/</link>
+      <pubDate>2026/10/31 11:21</pubDate>
+      <description>米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IETF（Internet Engineering Task Force）に提出したInternet-Draft（インターネット標準の草案）で提案されている。 これまでWebサイト運営者は、AI企業ごとにクローラーを識別し、それぞれに合わせてルールを書き分ける必要があった。新しい仕組みでは、Webサイトへのクローラーのアクセスを制御する「robots.txt」に共通のシグナルを記述することで、複数のAI企業に学習への利用を拒否または許可する意向を一括し</description>
+    </item>
+    <item>
+      <title>streamAppendHTML() で AI の回答を HTML のままストリーミング描画する</title>
+      <link>https://azukiazusa.dev/blog/stream-append-html/</link>
+      <pubDate>2026/11/01 08:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2c61356e3b71255a58d89a0ad73762a7bb44ffcd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F627%2Fiweek_pre01-01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
