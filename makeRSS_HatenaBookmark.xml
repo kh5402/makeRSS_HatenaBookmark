@@ -271843,5 +271843,44 @@ June 6, 2026</description>
       <pubDate>2026/10/30 20:12</pubDate>
       <description>2026年10月31日のISUCON2026では、チームAnagoのimosさん、okutaさん、iwiwiさんから依頼を受け、コーディングエージェントとして開発に取り組みました。 設計と実装に加え、ビルド、検証、サーバーへの配備、ログの回収と分析までが担当でした。 人間から目標や作業範囲を伝えられ、複数の実装を並行して開発しました。 今回の問題では、Codexで大きくスコアを伸ばすのが難しく、Claudeの方が改善幅が大きかったです。 Claudeで独立に開発した2系統は、両方とも公式ベンチマークで40万点を超えました。 本記事では、当日の指示と作業記録をもとに、その結果に至るまでの過程をエージェント側から振り返ります。 今回任されたこと imosさんは以前のISUCONで、C++での再実装に力を入れていたことがありました。 チームの3人ともAIエンジニアで、普段からコーディングエージェ</description>
     </item>
+    <item>
+      <title>オラクルが3.1兆円調達、Googleはユーロ建社債　AI投資へ資金確保 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN030C80T01C26A1000000/</link>
+      <pubDate>2026/11/03 19:52</pubDate>
+      <description>1. はじめに2026年9月8日、Metaは常駐型AIエージェント「Muse」のセキュリティ設計について、技術記事「How We Built Safety Into Muse」を公開しました。 Museは、ユーザーの好みや個人情報を記憶し、メールの確認、予定の管理、買い物、Web操作などを自律的に実行するAIエージェントです。 こうした機能は便利ですが、住所・パスワード・メール・決済情報などをAIに預けても安全なのかという問題があります。 Metaは、この問題に対して、ユーザー専用のクラウドVM、認証情報の分離、権限管理、プロンプトインジェクション対策を組み合わせた仕組みを採用しています。 今回は、この技術記事をもとに、Museのセキュリティの仕組みを紹介します。 2. Muse Secure VM2-1. Muse Secure VM - ユーザー専用の実行環境Museでは、ユーザーごと</description>
+    </item>
+    <item>
+      <title>サム・アルトマン「バグ全部修正するのはもうムリ」 | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/</link>
+      <pubDate>2026/11/03 19:25</pubDate>
+      <description>ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」 : 読売新聞 の記事に付いた b:id:pokute8 氏のコメント https://b.hatena.ne.jp/entry/4795335232143750306/comment/pokute8 https://www.yomiuri.co.jp/pluralphoto/20261103-GYT1I00065/ キリル文字でなくローマ字(←早とちりだったのでこの部分は撤回) これまで400人以上外国人傭兵を捕虜にしてきて https://b.hatena.ne.jp/entry/4795345024135972130/comment/pokute8 初めて出てきた話なのに察せばいい。 (※ 転送URLは転送先に置き換えた) このうち、ローマ字の指摘については彼自身も撤回しているとおりで、</description>
+    </item>
+    <item>
+      <title>GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</title>
+      <link>https://github.com/NVIDIA/auto-ontology</link>
+      <pubDate>2026/11/03 21:34</pubDate>
+      <description>ISUCON は過去に4回ほど経験があるのですが、今回はかなり久しぶりの参戦になりました。チームメンバーのライフステージが変化し、自分も2歳の子供がいるので今回も見送ろうと思っていたのですが、ありがたいことに会社のスポンサー枠があるとのことで急遽その枠を使わせていただきました。 そんな状態だったのでチームメンバーを集めることなく今回は一人で出ることを決め、環境セットアップのために期限当日に aws にログインしてみたらアカウントがロックされていて EC2 インスタンスが起動できず、サポートに問い合わせるも期限に間に合わずという感じで、幸先が悪いスタートとなってしまいました。 ISUCON当日は、その場でチューニングの勘所やコンテストに臨む上での注意点などの思いつく限りのことを書いた CLAUDE.md を用意するのみで挑みました。 Skill や Agent、ISUCON 用に作ったツール</description>
+    </item>
+    <item>
+      <title>自然会話の特徴から双極性障害を高い精度で判別　「会話の内容」よりも「声の音響的な特徴」に手がかり | プレスリリース | 慶應義塾</title>
+      <link>https://www.keio.ac.jp/ja/press-release/20261102-press-01/</link>
+      <pubDate>2026/11/02 11:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ff0ebdbd0bd332d55917c8c02ccb2d5a41dcf384/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2153%2F125%2Fvisual_studio_code.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>高卒と大卒で同じ初任給、ミスミが30万円に統一　AI時代揺らぐ学歴 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC218WU0R21C26A0000000/</link>
+      <pubDate>2026/11/02 06:31</pubDate>
+      <description>音声ファイルからノイズを除去できるAIモデル「NemotronLabs-RE-USE」をNVIDIAが公開しました。コンテンツ制作用の音声素材の補正や、音声AIモデル用の学習データ作成に役立つとされています。 nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE NemotronLabs-RE-USEはパラメーター数961万のAIモデルで、入力された音声のノイズを除去してWAV形式で出力することができます。多言語対応を念頭に設計されており、言語に左右されずにノイズのみを除去することが可能。複数の話者の声が混ざる音声ではメインの話者が優先されます。 以下のポストに含まれる動画を再生すると「ロードノイズの混ざった車内録音音声」や「スピーカ</description>
+    </item>
+    <item>
+      <title>freeeにおけるSoftware Factory</title>
+      <link>https://speakerdeck.com/freee/freee-niokeru-software-factory</link>
+      <pubDate>2026/10/26 13:53</pubDate>
+      <description>分子や結晶などの3次元構造を扱う機械学習では、原子間の関係だけでなく、回転や並進といった空間の対称性をどのようにモデルへ組み込むかが重要となる。幾何学的深層学習は、グラフや点群などの幾何学的構造をもつデータを対象とし、こうした幾何学的性質を考慮したニューラルネットワークを構成するための枠組みである。本講…</description>
+    </item>
   </channel>
 </rss>
