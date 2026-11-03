@@ -271561,5 +271561,86 @@ June 6, 2026</description>
       <pubDate>2026/10/30 02:04</pubDate>
       <description>上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務である。しかし、私は未だにパスワードは使いまわし、パスキーは登録していたりしていなかったりとまちまちであった。なんならパスワードマネージャーはGoogleとVivaldiとAppleで3重管理状態になっていた。流石にこれはマズい。 そこで、意を決して1Passwordに丸々移行することにした。使用を始めたらあまりの体験の良さにQoLが爆上がりしたので是非共有したい。 1Passwordの何が良いのかパスキーの共有ができるこれがめちゃくちゃデカい。 個人的なパスキーの最大の問題点はデバイス間の共有が</description>
     </item>
+    <item>
+      <title>ミラティブのエンジニア3人でISUCON2026に参加しました！ - Mirrativ Tech Blog</title>
+      <link>https://tech.mirrativ.stream/entry/2026/11/02/225823</link>
+      <pubDate>2026/11/02 23:08</pubDate>
+      <description>キーエンス、PLC専用AIエージェント「KV Intelligence」を発売 デバッグも、ラダー作成も、プログラム要約も。自然文で訊くだけで、PLCに関わる困りごとの解決を支援 2026年11月2日　株式会社キーエンス 株式会社キーエンス（本社：大阪市東淀川区）は、PLC専用AIエージェント「KV Intelligence」を2026年11月16日に発売します。KV Intelligenceは、プログラミングサポートソフト「KV STUDIO」から起動して使用する、生成AIを活用したAIエージェントです。自然文で訊くだけで、世界初※1の「ディープデバッグ」による高度な解析、「ラダー自動生成」によるプログラム作成、「ビジュアル要約」によるわかりやすいプログラム要約をおこない、PLCに関わる困りごとの解決を支援します。対応するCPUユニットは、プログラマブルコントローラ「KV-Xシリーズ」の</description>
+    </item>
+    <item>
+      <title>「日本の防衛はAIで優位に」　米パランティアCEOインタビュー - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/</link>
+      <pubDate>2026/11/02 18:06</pubDate>
+      <description>SYSTEM TEMPLATE FOR RAPID CODEBASE COMPREHENSION - HAVE YOUR AGENT TO FILL IN FOR YOUR REPO # Architecture Overview This document serves as a critical, living template designed to equip agents with a rapid and comprehensive understanding of the codebase&amp;#39;s architecture, enabling efficient navigation and effective contribution from day one. Update this document as the codebase evolves. ## 1. Project</description>
+    </item>
+    <item>
+      <title>日本株「ツルハシ神話」に陰り　AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/</link>
+      <pubDate>2026/11/02 18:47</pubDate>
+      <description>第2部「本件を通じて得た知見についてのご説明」での熊谷代表の全発言は以下の通り。 改めまして、熊谷です。大変恐縮ですが、PC操作がございますので、このパートは座ってお話をさせてください。 まず最初に、この事件における私たちの基本姿勢についてご説明をさせていただきます。お客さまに対する姿勢は、「誠実に」が基本姿勢です。私たちができることは、全て行いたいというふうに願っておりまして、少しでも信用回復につながるように全力で実行せよと指示を出しております。そして、この問題に関しては、全グループ8300人、真摯（しんし）に向き合い、解決をせよというふうに指示を出しております。 私は現在63でございますが、この産業、95年のWindows 95から事業を開始しています。従って、事業者としては今年で31年間この産業に関わり、自分でこの産業を仲間と共に世の中のためになる素晴らしいツールとして残していきたい</description>
+    </item>
+    <item>
+      <title>OpenAI・Google・Microsoft、robots.txtでAI学習の許可・拒否を一括指定する新たな仕組みに対応へ | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/11/robots-txt-ai-training-controls</link>
+      <pubDate>2026/11/02 12:52</pubDate>
+      <description>当日の様子 8:53 用意していた agent skill で、競技エージェントの起動依頼をして、競技エージェントに渡すPlaywrightのセッションでポータルにログインしました。この後は、競技エージェントには一度も指示を入力しませんでした。 左の pane が起動に使う Claude Code のセッションで、右の pane が競技エージェント実行スクリプトです。左のセッションが herdr の API を叩いて、右の pane で実行スクリプトを起動しました。 10:00 競技エージェント実行スクリプトが、herdr の新しい space を作成して競技エージェント（以下、エージェント）として動作する Claude Code の新しいセッションを起動し、次の1行をプロンプトとして渡しました。 CONDITIONS.md を読み、今回の条件を確認してから、ISUCON を解いてください</description>
+    </item>
+    <item>
+      <title>MacStudio 512GBがAI用途に不向きな理由｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n1abc371fac21</link>
+      <pubDate>2026/11/02 17:49</pubDate>
+      <description>Hacker Newsはスタートアップ企業への投資を行うYコンビネータが運営するソーシャルニュースサイトで、主にテクノロジーやスタートアップを中心にさまざまなトピックが議論されています。そんなHacker Newsで言及された1万5000冊超の書籍を集計し、言及したユーザー数やオススメしたユーザー数のランキングが見られるウェブサイトが「Hacker Books」です。 Hacker Books — books mentioned in Hacker News comments https://hackerbooks.org/ Show HN: HackerBooks – HackerTube, but for books mentioned on HN | Hacker News https://news.ycombinator.com/item?id=50326821 Hacker Bo</description>
+    </item>
+    <item>
+      <title>OpenAIのAIエージェント、人類から監視されないようにがんばる。そのためには嘘もつく | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/</link>
+      <pubDate>2026/11/02 16:10</pubDate>
+      <description>【表つき完全版】noteでは表を表示できないため、この記事の全文に比較表（時系列、4つのAIの採点、発言の判定、7軸の分析）と、項目ごとの各モデルの採点理由を加えたページを用意しました：https://claude.ai/artifact/8oKFz933RkozCQigKk4dBK 【随時更新】この記事は、2026年11月2日16時35分から配信された会見を見ながら書いたものです。会見は約3時間40分で終了しました。会見の全編を反映済みです。4つのAIによる発言検証と採点も、全編をもとにした最終版です。 対象の動画：【緊急生配信】なぜ不正アクセス発生した？GMO熊谷代表が会見【ReHacQ記者会見】（以下、文中の時刻はこの動画の経過時間で、クリックするとその場面から再生されます） この記事では、会見の書き起こしと各種報道をもとに事実を整理し、そのうえで4つのAIモデルの見解を、どのモデル</description>
+    </item>
+    <item>
+      <title>疑っても止まれない。AIの「都合のいい思考」を読んでみよう | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/</link>
+      <pubDate>2026/11/02 06:07</pubDate>
+      <description>Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。 Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。同研究では50体のAIエージェントを『マインクラフト』に投入したところ、官僚主義のような状態に陥ってしまったことが報告されている。 『マインクラフト』は、ブロックで表現された世界でいろいろなものを掘ったり設置したりするサンドボックスゲームである。同作は人気のゲームとして知られる一方で、AIのテスト環境としても活用されている（関連記事）。周囲にある危険への対処や、食料の収集、安全な拠点の建設、資源の探索など、生存のためにさまざまな行動が必要となるために、テスト環境として都合が良いとい</description>
+    </item>
+    <item>
+      <title>音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開</title>
+      <link>https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/</link>
+      <pubDate>2026/11/02 16:40</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f6baece024af98d5d35f37f825ded3aa92399a0b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F055%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>海外掲示板「Reddit」、ログイン制への移行を発表。適切な広告配信とAIボット排除のため【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2153000.html</link>
+      <pubDate>2026/11/02 12:43</pubDate>
+      <description>日本のAI企業であるThird Intelligenceが日本語特化の音声認識モデル「Haas-ja-v1.0」を公開しました。パラメーター数6億1580万の軽量モデルで、精度の高さと処理の速さを両立していることがアピールされています。 日本語音声認識モデル Haas-ja-v1.0 の公開 https://third-intelligence.com/ja/posts/haas-ja-v1-release 新たな日本語の音声認識モデル Haas-ja-v1.0 を開発し、OSSとして公開しました！高い精度と推論効率を両立し、評価したオープンウェイトモデルの中ではトップの精度を達成しています。デモ等も公開していますので是非ご利用下さい！ pic.twitter.com/m3ETDUhYyH— Tatsu Matsushima (@tatsunari_m) October 30, 2026</description>
+    </item>
+    <item>
+      <title>何者かになりたいなら打席に立ち続けなさい｜かわまた／コミュニケーションドラフト代表</title>
+      <link>https://note.com/r_kawamata/n/ndc82886daa87</link>
+      <pubDate>2026/11/02 12:00</pubDate>
+      <description>AGI Hub主任研究員の林央氏＝10月29日午前、東京都千代田区（奥原慎平撮影）人工知能（AI）が人類を滅亡させる可能性を警告する米国の機械知能研究所（MIRI）のアウトリーチ日本責任者、林央（はやし・あきら）氏（20）は、東京大学を休学し、AIの安全性を巡る問題に取り組んでいる。麻布高校1年のときに読んだ1冊の本が転機となった。当初は大学卒業後に研究を本格化させる考えだったが、AIの開発速度が予想を上回り、残された時間は短いと判断したという。29日の産経新聞のインタビューで、政治家や社会に危険性が十分伝わっていないことへの懸念も語った。 主なやり取りは以下の通り。 AIの危険性、政治家の理解は</description>
+    </item>
+    <item>
+      <title>GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される</title>
+      <link>https://gigazine.net/news/20261102-google-project-suncatcher-haiku/</link>
+      <pubDate>2026/11/02 11:36</pubDate>
+      <description>指紋認証と強力な暗号化機能を備えるとして販売されていたLenovoのUSBメモリをセキュリティ研究者が分解したところ、内部のSDカードにデータが暗号化されずに保存されていたことが判明しました。 breaking_encrypted_USB_drives_with_TTD/Breaking_Encrypted_USB_Drives_v2.pdf at main · xusheng6/breaking_encrypted_USB_drives_with_TTD · GitHub https://github.com/xusheng6/breaking_encrypted_USB_drives_with_TTD/blob/main/Breaking_Encrypted_USB_Drives_v2.pdf Lenovo&amp;#39;s &amp;#39;encrypted&amp;#39; fingerprint USB drive is</description>
+    </item>
+    <item>
+      <title>【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html</link>
+      <pubDate>2026/11/02 06:25</pubDate>
+      <description>理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題になっています。 Ask HN: How to deal with shipping AI-written code you don&amp;#39;t understand? | Hacker Newsnews.ycombinator.comnews.ycombinator.com/item 理解していないコードでは障害の対応を組み立てにくい、国内のエンジニアもブログで指摘 7月のブログ記事「理解を手放さない」でも、AIを使った開発で自分の理解を保つ必要が論じられています。筆者は</description>
+    </item>
+    <item>
+      <title>GitHub - heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface</title>
+      <link>https://github.com/heydamir/unslop</link>
+      <pubDate>2026/11/01 00:14</pubDate>
+      <description>フリー素材のイラストサイト「いらすとや」が生成AI（人工知能）に押されている。データ分析会社の推計では9月のサイト利用者数が前年同月比で2割減った。今なお街中の活用例を収集するファンや、特徴的な画風を生かした人気IP（知的財産）とのコラボはある。新型コロナウイルス禍で利用が急伸したいらすとや。AI下でも生き残れるのか。いらすとやはイラストレーターのみふねたかしさんが2012年1月から始めたフリ</description>
+    </item>
   </channel>
 </rss>
