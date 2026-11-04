@@ -271882,5 +271882,59 @@ June 6, 2026</description>
       <pubDate>2026/10/26 13:53</pubDate>
       <description>分子や結晶などの3次元構造を扱う機械学習では、原子間の関係だけでなく、回転や並進といった空間の対称性をどのようにモデルへ組み込むかが重要となる。幾何学的深層学習は、グラフや点群などの幾何学的構造をもつデータを対象とし、こうした幾何学的性質を考慮したニューラルネットワークを構成するための枠組みである。本講…</description>
     </item>
+    <item>
+      <title>AIインフラを金融商品に、米モルガン・スタンレーの「錬金術師」たち - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN26ATZ0W6A021C2000000/</link>
+      <pubDate>2026/11/04 05:15</pubDate>
+      <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 GitHub Copilotは以前からコードレビューのための機能「Copilot Code Review」を提供しており、バグの検出などのコードレビューを行い、結果を開発者に提供してきました。 しかしAIエージェントを活用したコードの生成やプルリクエストが非常に増加しており、ソフトウェアの品質を維持するためのコードレビューの重要性はますます高まってきました。 今回発表された「Copilot Code Review Max」はより高度なコードレビュー機能を提供するものです。 「Copilot Code Review」にはこれまで2つのエフォートレベル「Lite</description>
+    </item>
+    <item>
+      <title>E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み</title>
+      <link>https://blog.kuniwak.com/entry/e2ebok</link>
+      <pubDate>2026/11/04 06:27</pubDate>
+      <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤をMicrosoft Azureへ移行し、コンピュートとストレージを分離する新アーキテクチャの採用と、ロックをリポジトリ単位からブランチ単位へと変更する改善などにより実現すると説明されました。 基調講演から、GitHubの性能向上についての……</description>
+    </item>
+    <item>
+      <title>AI エージェントがデスクトップアプリを操作する CLI agent-desktop</title>
+      <link>https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/</link>
+      <pubDate>2026/11/03 17:51</pubDate>
+      <description>「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結果、要件定義できるほどの解像度はない、できてからいろいろ意見はしたい、でも人の介在は最小限にしたい、という ガチのシステム屋さんに言ったら殴られそうな 要望を持つことも多いでしょう。 TL;DR 要件が固まらないままClaude Codeでバイブコーディングしたら、テストは通るのに画面ごとに数字や挙動が食い違った AIは依頼された画面の周りしか読まず、全体像や過去の経緯は勝手に把握してくれない 防ぐには、概念台帳・画面一覧・型とフックなどを人間が先に用意する必要がある 生成AI時代こそ</description>
+    </item>
+    <item>
+      <title>ChatGPTの使い方は世代で違う？ 日本の年齢別データから見えること</title>
+      <link>https://www.suzukikenichi.com/blog/does-chatgpt-usage-differ-by-generation-what-japans-age-data-shows/</link>
+      <pubDate>2026/11/01 02:52</pubDate>
+      <description>sponsored 弱点のインターフェースを拡張する必携の周辺機器だ MacBook Neoのカラバリに対応したシゴデキ周辺機器レビュー！ SatechiのUSB Type-Cハブ2機種＆静音モバイルマウス sponsored サードウェーブ「GALLERIA EPC7I-R57T-B」 約19LのコンパクトさにハイエンドPC性能を凝縮「GALLERIA E series」の魅力 sponsored JN-IPS27G200Q-HSPをレビュー 200Hzの27インチWQHDゲーミングモニターが3万円切りで高コスパ！ヘッドセット置きにもなる昇降式多機能スタンドも秀逸だった sponsored これからのネットワーク運用管理が目指すべき方向性、HCNET・濱野氏に聞く 「運用負荷を下げなければ、セキュリティは高まらない」 企業が直面するネットワーク運用の難題にどう向き合うか sponsore</description>
+    </item>
+    <item>
+      <title>2026買って良かったモノと僕のAI投資活用をまとめてみた｜ぴょん</title>
+      <link>https://note.com/pyon/n/n0fbaaf50d9e5</link>
+      <pubDate>2026/11/02 12:47</pubDate>
+      <description>アイスランド (USD $) アイルランド (USD $) アゼルバイジャン (USD $) アフガニスタン (USD $) アメリカ合衆国 (USD $) アラブ首長国連邦 (USD $) アルジェリア (USD $) アルゼンチン (USD $) アルバ (USD $) アルバニア (USD $) アルメニア (USD $) アンギラ (USD $) アンゴラ (USD $) アンティグア・バーブーダ (USD $) アンドラ (USD $) イエメン (USD $) イギリス (USD $) イスラエル (USD $) イタリア (USD $) イラク (USD $) インド (USD $) インドネシア (USD $) ウォリス・フツナ (USD $) ウガンダ (USD $) ウクライナ (USD $) ウズベキスタン (USD $) ウルグアイ (USD $) エクアドル (U</description>
+    </item>
+    <item>
+      <title>GitHub - caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos</title>
+      <link>https://github.com/caru-ini/stack-diagram</link>
+      <pubDate>2026/11/01 21:12</pubDate>
+      <description>Googleは2026年10月30日、宇宙空間でAIによる計算処理を行う研究プロジェクト「Project Suncatcher」において、人工衛星に搭載したAI向けプロセッサ「TPU」を使い、AIモデルからの応答を受信することに成功したと発表しました。Googleによると、軌道上にあるデータセンター級のTPUを使ってAIから応答を得たのは世界初とのことです。 Google receives response from Project Suncatcher prototype satellite in space https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/ Our first response from the</description>
+    </item>
+    <item>
+      <title>Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB</title>
+      <link>https://ai-data-base.com/archives/139789</link>
+      <pubDate>2026/11/01 13:48</pubDate>
+      <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コード生成、デバッグ、ツールの利用など、タスクごとに必要な能力を評価し、AIモデルをどのように組み合わせて利用するかを判断します。 これにより、開発者がAIモデルの選択を個別に管理する負担を軽減し、性能とコストのバランスを考慮した開発を進められます。 複数のパターンでAIモデルを使い分ける Copilot Fusionは、与えられたタスクに応じて以下の3つのパターンのいずれかを選択します。 Single（シングル） 選択したモデルで</description>
+    </item>
+    <item>
+      <title>米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html</link>
+      <pubDate>2026/11/02 06:24</pubDate>
+      <description>ONE NOTE AT A TIME. ひとつずつ、 あなたのメロディへ。先にコードを決めて、その響きにメロディを一音ずつ。</description>
+    </item>
+    <item>
+      <title>「お隣さんはデータセンター」が次々現実になってしまう…無秩序な建設を許す現行法を改めなくていいのか：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/525330</link>
+      <pubDate>2026/11/01 09:22</pubDate>
+      <description>HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード hono.dev -# api.npmjs.org 2026年9月 10月5日 honojs/honoで外部からのPRを閉じた 何をしたか 外部コントリビューターからのPR = Pull Requestを受け付けなくした PRを作れるのはコラボレーターだけ 実質メンテナー2人 悲しい話 Honoがここまで来れたのはPRのおかげ 例: RegEx</description>
+    </item>
   </channel>
 </rss>
