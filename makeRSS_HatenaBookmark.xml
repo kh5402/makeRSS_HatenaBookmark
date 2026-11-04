@@ -271936,5 +271936,122 @@ June 6, 2026</description>
       <pubDate>2026/11/01 09:22</pubDate>
       <description>HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード hono.dev -# api.npmjs.org 2026年9月 10月5日 honojs/honoで外部からのPRを閉じた 何をしたか 外部コントリビューターからのPR = Pull Requestを受け付けなくした PRを作れるのはコラボレーターだけ 実質メンテナー2人 悲しい話 Honoがここまで来れたのはPRのおかげ 例: RegEx</description>
     </item>
+    <item>
+      <title>RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に</title>
+      <link>https://gigazine.net/news/20261104-ram-altman/</link>
+      <pubDate>2026/11/04 16:56</pubDate>
+      <description>はじめに Zennチームのdyoshikawaです。 ZennではAIによるセキュリティチェックの仕組みを急ピッチで構築しました。現在はPull Request（以下PR）ごとのAIレビューに加えて、AIエージェントによる全自動のペネトレーションテストを毎週GitHub Actionsで回しています。 背景は、みなさんもご存知のとおり昨今のサイバー攻撃の激化です。 攻撃する側もAIをフル活用しはじめているといわれており、脆弱性が見つかってから悪用されるまでの時間が非常に短くなっています。防御側としては、人間が定期的に診断する従来のやり方では攻撃に追いつかない時代になってきました。 本記事では、ZennでどのようにAIセキュリティレビューと自動AIペネトレーションテストを回しているかを紹介します。特別な製品は使っておらず、GitHub ActionsとDocker、OSSのツールを組み合わせ</description>
+    </item>
+    <item>
+      <title>Amazon DynamoDB のベクトル検索機能を検証 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2026/11/04/120000</link>
+      <pubDate>2026/11/04 14:57</pubDate>
+      <description>https://x.com/f5lMZTk70t7130/status/2117315464347165148 上記の様な高市早苗が細野豪志の手の上に自身の手を重ねている画像が拡散していた。しかし、以下の様にGoogle製によって改変させられたAI画像である。 画像は一から作成されたものではなく、元は9月18日に毎日新聞にアップされた画像を素材とした改変画像である。画像を作成したのは冒頭の「三毛猫師匠@f5lMZTk70t7130」と思われる。9月21日には改変前の画像を使用しているのだが、防災庁に合わせてなのか冒頭及び、次の画像を挙げていた。 https://x.com/f5lMZTk70t7130/status/2102043487420268615 その他にもこのアカウントのメディア欄を見るとAIを使用した画像だらけであり、そのAIによる装飾は相手の品位を貶める様な下品な画像が多い。</description>
+    </item>
+    <item>
+      <title>株価 大きく値下がり AI関連投資の先行きに不透明感 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261104de70160</link>
+      <pubDate>2026/11/04 12:45</pubDate>
+      <description>GoogleとMandiantはLLMJackingを分析。認証情報盗用でAPIキーを転売。1日10万ドル超の被害も。対策はAPIキー権限厳格化と機密情報自動スキャンなど。</description>
+    </item>
+    <item>
+      <title>AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計 - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</link>
+      <pubDate>2026/11/04 12:03</pubDate>
+      <description>チームみらいの安野貴博党首は11月3日、同党の公式YouTubeチャンネルでの生配信で、海外で開発されたオープンウェイトモデルが国内で稼働する際、意図的に自身の性能を低下させたり、データを漏えいさせたりする可能性があると指摘し、国産モデルの必要性を強調した。 チームみらいは10月23日、デジタル庁に提出した提言の中で、国のサイバー防御力向上のために、オープンウェイトモデルの検証環境と計算資源を国が提供し、「国産サイバーセキュリティAIモデル」の開発も支援すべきとしている。 今回の配信でも安野氏は、海外で開発されたサイバーセキュリティ性能が高いオープンウェイトモデルを、国内のサーバにホスティングしてサイバー防御に役立てることは「必要」とした上で、データ主権を確保した状態でそういったモデルを利用したとしても「論理的に悪いふるまいをする」リスクは残っていると指摘。国産モデル開発を並行して進める必</description>
+    </item>
+    <item>
+      <title>Claudeプラン名変更で容量半減？→公式が否定　「元々、Max 20xの週次制限はProの10倍」</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/</link>
+      <pubDate>2026/11/04 10:54</pubDate>
+      <description>米Googleは11月3日（現地時間）、K-12（幼稚園から高校まで）の生徒向けアカウントで、生成AI「Gemini」や「Google検索」などを、学校の管理者が明示的に有効にするまで原則オフにすると発表した。学校側が生徒のAI利用を管理できるようにする措置だ。ただし、Google検索に組み込まれたAI機能だけを無効にすることはできないため、学校側がAI機能を使わせない方針を選ぶと、生徒はGoogle検索自体も利用できなくなる。この点に批判が出ている。 対象となるのは、学校が管理する生徒向けアカウントで利用する「Gemini」「Gemini Notebook」「Gemini in Classroom」「Google検索」だ。これらは、学校の管理者が個別に有効化できる。Googleは学校や教師、研究者、政策立案者の声を受けた変更だとしている。適用時期は公式には明示していないが、米New Yo</description>
+    </item>
+    <item>
+      <title>【元半導体設計屋 筑秋 景のシリコン解体新書】 NVIDIAを追うだけじゃない。Intel CTOが探す「GPUの次」とは？</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/silicon_exp/2153181.html</link>
+      <pubDate>2026/11/04 07:32</pubDate>
+      <description>AIモデルの性能向上と低価格化が進むにつれて、AIが生み出す富はモデルを開発する企業ではなく、AIを社会に普及させる流通網や決済システムなどを支配する企業に集中するという予測をまとめた論考「The Commanding Heights」が、2026年10月29日に公開されました。マニディス氏とロバーツ氏は過去の技術革新を例に挙げ、AI開発競争や米中関係、世界経済の今後の変化を分析しています。 The Commanding Heights https://commanding-heights.com/ The Commanding Heightsは、起業家で投資家のウィル・マニディス氏とジョー・ロバーツ氏による論考です。タイトルの「Commanding Heights」は「経済の重要な部分を支配する拠点」を意味し、1922年にウラジーミル・レーニンが国家による主要産業の支配を説明する際に使っ</description>
+    </item>
+    <item>
+      <title>GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026</title>
+      <link>https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html</link>
+      <pubDate>2026/11/03 23:33</pubDate>
+      <description>目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数理的制約 実行コストの高さ 保守コストの増大と脆さ 原因の調査範囲の拡大 結果の不確実性 カバレッジの組み合わせ爆発 AI時代における制約の不変性 効率的なテスト配置とAI開発への適用 テストピラミッド 生成AI開発におけるテスト誘導の具体例 E2Eテストの分類体系 ルールベースの手法 非ルールベースの手法 目的と状況に応じたテスト手法の選択 推奨：グラフベースと高価値シナリオの例ベースの併用 次善策：エラー推測と高価値シナリオの併用 簡易導入：モンキーベースと高価値シナリオの併用 使用性の検証</description>
+    </item>
+    <item>
+      <title>GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
+      <link>https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</link>
+      <pubDate>2026/11/03 22:31</pubDate>
+      <description>agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確認したうえで、SwiftUI で作った架空の経費アプリの動作確認を Claude Code に任せ、バグの発見から修正までを実行させます。 AI エージェントに Web フロントエンドを実装させるとき、agent-browser や Playwright MCP を渡しておけば、エージェントは自分でブラウザを開いて動作を確認できます。一方で、SwiftUI や WinUI で作ったネイティブアプリはブラウザのようにエージェントが</description>
+    </item>
+    <item>
+      <title>バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ</title>
+      <link>https://zenn.dev/uguisu_blog/articles/45d1f446ece415</link>
+      <pubDate>2026/11/03 16:36</pubDate>
+      <description>⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみました。 🎯 対象読者 RAGを愛してやまない方 判断モデルに興味がある方 ベクトル検索の精度に不満をお持ちの方 😢 従来のRAGの問題点 NaiveRAGはキーワード一致やベクトルの近さで文書を探します。この検索は余計なものを拾ったり答えを取りこぼしたりするんですよね。検索で取りこぼした答えはどんなに賢いLLMでも取り戻せません。だったら検索にもLLM級の賢さを持ち込もう!!というのがDecisionRAGです。とはいえ検索にLLMを使うとコストも時間もかかり</description>
+    </item>
+    <item>
+      <title>久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」</title>
+      <link>https://togetter.com/li/2766077</link>
+      <pubDate>2026/11/03 11:45</pubDate>
+      <description>ただ、全国的な長雨の影響で、白菜やキャベツなど葉物野菜の価格が上がっている。しかも、毎日自炊するという大家族でなければ、これらの野菜を丸々買ったところで、なかなか消費ができずに悪くしてしまうことも少なくないだろう。 そういう時に重宝されているのが「カット野菜」だ。 鍋用やサラダ用という用途に合わせていろんな野菜が詰められているので無駄がないし、最近は洗わずにすぐ使えるものも多い。少し前まではカット野菜は「割高」ととらえる人も多かったが、「包丁キャンセル」界隈などの人々からすれば「コスパのいい野菜」になってきている。 一方、「安い野菜」となると、忘れてはいけないのは「もやし」だろう。スーパーでは30〜40円、店によっては19円などで売られている。食費を抑えたい人にとっては、これほど頼もしい「物価の優等生」はそういない。 しかし、ちょっと冷静になっていただきたい。よくよく落ち着いて考えみると、</description>
+    </item>
+    <item>
+      <title>Ask HN: How to deal with shipping AI-written code you don&amp;#39;t understand? | Hacker News</title>
+      <link>https://news.ycombinator.com/item?id=50151036</link>
+      <pubDate>2026/11/03 10:10</pubDate>
+      <description>Charles-McClintock Wilson/NurPhoto via Getty Images（フォーブス ジャパン編集部）米国で家庭向けの電気料金が高騰するなか、大量の電力を消費するAIデータセンターが米中間選挙の激戦州における大きな争点として浮上している。工業が盛んなオハイオ州、ペンシルベニア州、ミシガン州などでは、電力の容量価格の急騰によって光熱費が月額最大18ドル（約2900円）も押し上げられている。 米国の国政選挙において電気料金が主要な争点になることは珍しい。しかし今回は、大手テック企業が建設する巨大データセンターが受け入れ先の地域社会に及ぼす影響について激しい議論が繰り広げられている。 最近の市場分析によると、送電網の容量オークション価格の急騰が卸売電力コストを押し上げており、オハイオ州やメリーランド州などでは一般家庭の平均的な電気料金が月額16〜18ドル（約2600</description>
+    </item>
+    <item>
+      <title>AI書道コンクール</title>
+      <link>https://aishodo.enpitsu.org/</link>
+      <pubDate>2026/11/03 13:55</pubDate>
+      <description>この急増の原因についてitch.ioは直接的な言及はしていないものの、この理由について尋ねたblueskyのユーザーへのリプライで、「Take a guess（当ててみて）」との返答とともに泣き顔とロボットの絵文字で返答。他のユーザーから、AI製の粗悪な作品かと聞かれた際にはうんざりした顔の絵文字のみで反応している。明言は避けつつも、生成AI製ゲームの増加が大きく影響していることを示唆しており、itch.io公式としてもこの状況に複雑な思いがあるようだ。11月2日の本稿執筆時点で、itch.ioに投稿されたゲームは179万3704件。このうち、生成AIを利用した作品に付ける必要のある「AI Generated」のタグがあるものは14万1716件に及ぶ。急増していることもあってか、全体の1割に迫る勢いだ。 なお、ゲームページ作成数が倍増してもユーザーの購買にはあまり影響していないようで、ダウ</description>
+    </item>
+    <item>
+      <title>「Visual Studio Code」v1.144が公開、複数のAIモデルを賢く使い分ける「GitHub Copilot Fusion」も一般提供／エージェントとの通信仕様「Agent Host Protocol」v1.0も公開</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2153125.html</link>
+      <pubDate>2026/11/02 20:40</pubDate>
+      <description>AI活用環境　PC編今年いちばん質問が多かったのが「どんな環境でAI投資の分析をしているの？」でした。なので今回は、2026年に買ってよかったモノと一緒にまとめてみます。高価なものばかりではないので、これから環境を整えたい人の参考になればうれしいです。 Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト link.amazon</description>
+    </item>
+    <item>
+      <title>2026年にインストールすべきDeepSeekハーネスプラグイン10選</title>
+      <link>https://shop.zimaspace.com/ja/blogs/tech-ai-hub/10-best-deepseek-harness-plugins-2026?srsltid=AYCX9vL2RWaTiISjy878k772Qb3F2L6xiNT2f8HZq7M3uYbMiWRzoo5H</link>
+      <pubDate>2026/11/02 11:55</pubDate>
+      <description>アイシンは2日、東北大学と新型半導体を開発したと発表した。省電力の磁気記録式メモリー（MRAM）を組み込み、従来より消費電力を50分の1に抑えた。人工知能（AI）や画像認識など大容量のデータ処理の効率化に寄与する。今後実用化を目指す。開発したのは半導体の複数機能を1つのチップに集約するシステム・オン・チップ（SoC）だ。低消費電力のメモリーとして注目を集めるMRAMを組み込んだ。MRAMに知見</description>
+    </item>
+    <item>
+      <title>話題のAI「Claude Opus 5.5」に、「既存ゲームの模倣を禁止」する新ルール導入。AI産クローンが大量出現するなか、“そもそも生成させない”根本対策 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261102-477101/</link>
+      <pubDate>2026/11/02 16:07</pubDate>
+      <description>Sr. Staff Software Engineer @ Databricks, PostgreSQL Major Contributor and Committer Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the middle of September, and no later than the middle of October. This year is going to be different. PostgreSQL 19 most likely won’t be released until November, and it’s not impossible that the project could</description>
+    </item>
+    <item>
+      <title>スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153206.html</link>
+      <pubDate>2026/11/02 19:52</pubDate>
+      <description>米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情報機関を動かす異端のAI企業パランティアは2003年にカープ氏と起業家のピーター・ティー</description>
+    </item>
+    <item>
+      <title>&amp;quot;推せるAI”の魅力 便利だけじゃない「Meta Muse」の楽しさについて語ろう</title>
+      <link>https://www.watch.impress.co.jp/docs/watchplus/2152749.html</link>
+      <pubDate>2026/11/02 08:35</pubDate>
+      <description>SYSTEM TEMPLATE FOR RAPID CODEBASE COMPREHENSION - HAVE YOUR AGENT TO FILL IN FOR YOUR REPO # Architecture Overview This document serves as a critical, living template designed to equip agents with a rapid and comprehensive understanding of the codebase&amp;#39;s architecture, enabling efficient navigation and effective contribution from day one. Update this document as the codebase evolves. ## 1. Project</description>
+    </item>
+    <item>
+      <title>ISUCON2026 利用言語比率と言語別TOP10チーム : ISUCON公式Blog</title>
+      <link>https://isucon.net/archives/isucon2026-languages.html</link>
+      <pubDate>2026/11/02 21:16</pubDate>
+      <description>はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運用してきました。最近では、ADRのドラフト作成もAIに任せるようになっています。 ところが、ADRを書くルールを整備しないままAIに書かせていると、 人間が読み返しづらいADR が次々と出てくるようになりました。「人間がじっくり目を通すべきものの代表格」とも言えるADRですが、これが読みづらいと凄まじくストレスフルです。 そこで僕は、ADRの文面が意図を汲み取りやすい状態に保たれるよう、ADRに書くべきこと・書くべきでないことを整理したガイドラインを作成する取</description>
+    </item>
+    <item>
+      <title>Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚</title>
+      <link>https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</link>
+      <pubDate>2026/11/02 08:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d981f98687c14cedfcf13f63f098c02f8577066/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F904%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
