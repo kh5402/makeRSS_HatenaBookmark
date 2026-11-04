@@ -272053,5 +272053,128 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d981f98687c14cedfcf13f63f098c02f8577066/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2152%2F904%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>議事録も資料もAIが作るなら、人間は何をする？　AIエージェントへ舵を切る「Plaud」を試す</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/04/2000002764/</link>
+      <pubDate>2026/11/04 18:04</pubDate>
+      <description>A separate macOS desktop for computer-use agents, viewed and controlled from a terminal. iOS simulators and iPhones: see the sibling project terminal-phone. terminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal viewer streams that screen using Kitty or iTe</description>
+    </item>
+    <item>
+      <title>【速報】グーグル、小中高で検索・AIの利用制限へ</title>
+      <link>https://www.47news.jp/15183028.html</link>
+      <pubDate>2026/11/04 18:03</pubDate>
+      <description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 OpenAI における Git のスケーリング | OpenAI https://openai.com/ja-JP/index/scaling-git-at-openai/ We built Pando, a new Git backend for our monorepo, to handle more pushes and fetches without changing how our engineers and agents use Git. Pando cut push latency by ~80% and now serves nearly a petabyte of Git data a day. We can grow Git ca</description>
+    </item>
+    <item>
+      <title>ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ</title>
+      <link>https://chimolog.co/strata-guide/</link>
+      <pubDate>2026/11/04 18:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e74b890d51216cb43362296f58380801053878cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F619%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も</title>
+      <link>https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/</link>
+      <pubDate>2026/11/04 12:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0953556495953d81775422a03c9d5d22c4840f75/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F457%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Progress on provable inference for large language models</title>
+      <link>https://www.anthropic.com/research/provable-inference</link>
+      <pubDate>2026/11/03 20:27</pubDate>
+      <description>こんにちは。 データ分析エンジニアの木介です。 今回は、2026年8月に一般提供が開始されたAmazon DynamoDBのベクトル検索について紹介していきたいと思います。 DynamoDBで管理しているテキストに、意味による検索を追加できるのが特徴です。 別の検索サービスへデータを複製・同期する仕組みを用意せずに済むため、既存テキストの検索や類似アイテムの推薦に利用できそうです。 今回は、その仕組みと実装方法を紹介し、検索精度と応答時間を確認していきます。 aws.amazon.com 1. DynamoDBのベクトル検索とは 1.1. 概要 1.2. 利用時の制限 1.3. コスト 1.4. 他のベクトルDBとの比較 2. ベクトル検索の実装 2.1. 前提条件 2.2. テーブルとベクトルインデックスを作成する 2.3. ベクトルを生成する 2.4. ベクトル検索を行う 3. 検索結</description>
+    </item>
+    <item>
+      <title>ISUCON2026 で Agent のハーネスを作って 6 位になりました (449,294 点) - ぷらすのブログ</title>
+      <link>https://blog.p1ass.com/posts/isucon2026/</link>
+      <pubDate>2026/11/04 13:27</pubDate>
+      <description>AIによって、コードに近い形でデザイン画面を生成できるようになった今でも、Figma や Sketch のようにキャンバスを備えたデザインツールは必要です。細かな調整や試行錯誤を重ねたり、複数のアイデアを並べて比較・検討したりするアイディエーションの場として、キャンバスは非常に優れています。紙のノートにも、同じような自由さがあります。 ただ、キャンバスが必要だからといって、そのキャンバスをひとつに固定する必要はありません。 エンジニアとデザイナーのツール選びには、大きな違いがあります。エンジニアは、VimからVS Code、さらに Cursor へと環境を移行しても、これまで書いてきたコードをそのまま活用できます。一方、デザインツールでは、別のツールに乗り換えるとデータの移行が難しく、変換ツールも十分に整っていませんでした。そのため、デザイナーは一度選んだツールを使いこなすと、よほどの事情</description>
+    </item>
+    <item>
+      <title>高市早苗が細野豪志に手を重ねている画像はAIによる偽画像だよ - 電脳塵芥</title>
+      <link>https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000</link>
+      <pubDate>2026/11/04 13:29</pubDate>
+      <description>祝日明けの4日の東京株式市場、アメリカの中間選挙の開票作業が進む中でAI関連投資の先行きの不透明感が意識され、日経平均株価は大きく値下がりしています。 4日の東京株式市場では、AIや半導体関連の銘…</description>
+    </item>
+    <item>
+      <title>Googleが「LLMJacking」の手口を分析、盗んだAIの鍵を月60ドルで転売して1日10万ドル超の被害も | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/04/5665.html</link>
+      <pubDate>2026/11/04 12:35</pubDate>
+      <description>目次 はじめに これまでのAI4QAの取り組み 今回の取り組み AIにトリアージさせるためのコンテキスト設計 何を渡すか どう渡すか 判定の基準をどこに持たせるか 結果 定性的評価：トリアージができた3つの例 定量的評価：トリアージ精度が2倍に まとめ 採用情報 はじめに こんにちは。食べログカンパニー 開発本部 品質管理部QAチームの中尾です。飲食店プロダクト領域で、E2Eテストの自動化とQA工程のAI化に取り組んでいます。 これまでのAI4QAの取り組み 食べログの品質管理部では、「AI4QA」というプロジェクトを進めています。AI4QAは、QA業務の全てをAIが担う状態を目指し、テスト設計やテスト実装といったQAの工程を1つずつAIに移していく取り組みです。 その取り組みの中で、これまでにテスト設計（第1弾：AIによる手動QAの自動化：食べログQAチームの挑戦、その第一歩）と、テスト</description>
+    </item>
+    <item>
+      <title>ブリヂストン、直径4m巨大タイヤをフル生産　AIブームで鉱山開発需要 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC1535W0V11C26A0000000/</link>
+      <pubDate>2026/11/04 06:25</pubDate>
+      <description>Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ドル、日本円にして1兆円相当の暗号資産が流出したと発表しましたが、現地時間11月03日に公開された発表によると、この問題は改ざんされたMac用パッケージマネージャーHomebrewのインストールから問題が始まっていたそうです。 Binanceのセキュリティインシデント Binanceの発表によると、暗号資産流出の経緯は以下の通りで、始まりはWallet DevOpsチームのエンジニアが検索エンジンで検索した際にトップに表示された偽のHomebrew配布サイト(スポンサー広告)から改ざんされたHom</description>
+    </item>
+    <item>
+      <title>Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/04/2000002849/</link>
+      <pubDate>2026/11/04 08:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/32a40f659c017384a99f188e63af711aef16dd94/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F181%2F04.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>慶應義塾大学 AI実践05 論文執筆の仕組み化</title>
+      <link>https://speakerdeck.com/keio_smilab/ai-in-practice-05-systematizing-ai-research-writing</link>
+      <pubDate>2026/11/03 21:40</pubDate>
+      <description>AIモデルの性能向上と低価格化が進むにつれて、AIが生み出す富はモデルを開発する企業ではなく、AIを社会に普及させる流通網や決済システムなどを支配する企業に集中するという予測をまとめた論考「The Commanding Heights」が、2026年10月29日に公開されました。マニディス氏とロバーツ氏は過去の技術革新を例に挙げ、AI開発競争や米中関係、世界経済の今後の変化を分析しています。 The Commanding Heights https://commanding-heights.com/ The Commanding Heightsは、起業家で投資家のウィル・マニディス氏とジョー・ロバーツ氏による論考です。タイトルの「Commanding Heights」は「経済の重要な部分を支配する拠点」を意味し、1922年にウラジーミル・レーニンが国家による主要産業の支配を説明する際に使っ</description>
+    </item>
+    <item>
+      <title>CodexでGit基盤の信頼性が90％割れ、OpenAIが自作「Pando」でプッシュ遅延を5分の1に</title>
+      <link>https://www.sbbit.jp/article/cont1/188044</link>
+      <pubDate>2026/11/03 19:11</pubDate>
+      <description>AI 調査会社の SemiAnalysis は、新しいベンチマーク「GDPx」を公開し、Google の Gemini 4 Carbon が Anthropic の Claude Opus 5.5 に僅差で続く 2 位になったことを明らかにしました。 また、1 タスクあたりのコストは Claude Opus 5.5 が約 51 ドルなのに対し、Gemini 4 Carbon は 16 ドル強であったことも分かりました。 Gemini 4 Carbon は Google が 10 月 28 日 (現地時間) に発表した最新モデルで、開発者や企業、一般ユーザー向けには「近日中に」提供するとしています。 Claude Opus 5.5 に僅差の 2 位、コストは約 3 倍の開き GDPx は、金融、材料科学、サイバーセキュリティ、ソフトウェア開発、法務、生物学など複数の分野にまたがる 206 件</description>
+    </item>
+    <item>
+      <title>ISUCON2026 で 4位でした - Route54</title>
+      <link>https://goccy54.hatenablog.com/entry/2026/11/03/172808</link>
+      <pubDate>2026/11/03 17:32</pubDate>
+      <description>AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、少しずつ自由になっていく。テンプレートを置いて書き方を指示していても、ずれるときはずれる。たとえば、 Decision に、画面のメニュー項目の一覧や定数、構造体の定義まで書いてある。仕様書に近づいて、コードを変えるたびに古くなる Status が Proposed のまま、実装は別の形で進んでいる 決定を変えたときに、古い ADR を書き換えたり、新しい ADR が古い ADR の内容を何の印もなく覆したりしている</description>
+    </item>
+    <item>
+      <title>『ファイナルファンタジー レゾナンス』の“高解像度化Mod”が注目を集めるも、「むしろ悪化している」との指摘相次ぐ。“綺麗”になって失われるドット絵の魅力 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261103-477226/</link>
+      <pubDate>2026/11/03 17:54</pubDate>
+      <description>Timekettle（タイムケトル）が10月8日に応援購入サービス「Makuake」で先行販売を開始した「W4 Plus」は、AI通訳イヤフォンの新モデルだ。Makuakeでは4万8999円からのリターンを用意しており、一般販売予定価格は6万7999円となっている。リターンは2027年1月末までに配送され、一般販売は2月初旬に始まる予定だ。カラーはSpace Blackのみとなる。 W4 Plus最大の特徴は、イヤフォンを片耳ずつ相手と分け合って会話する「1対1通訳」だ。ただ、今回は外国語を話す相手役を用意できなかったため、この機能は試していない。 そこでこの記事では、英語動画の翻訳、自分の日本語を英語に訳して伝える機能、オフライン翻訳など、1人で使える機能を中心に検証する。1対1通訳を含まない評価である点はご了承いただきたい。 W4と同じハードウェアに、月額料金なしのAI機能 Timek</description>
+    </item>
+    <item>
+      <title>その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/02/news032.html</link>
+      <pubDate>2026/11/02 11:27</pubDate>
+      <description>久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」</description>
+    </item>
+    <item>
+      <title>特定技能の外国人受け入れ上限、小野田担当相「AIの発達で縮減」：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVC21SM1VC2UTFK005M.html</link>
+      <pubDate>2026/11/02 20:07</pubDate>
+      <description>ただ、全国的な長雨の影響で、白菜やキャベツなど葉物野菜の価格が上がっている。しかも、毎日自炊するという大家族でなければ、これらの野菜を丸々買ったところで、なかなか消費ができずに悪くしてしまうことも少なくないだろう。 そういう時に重宝されているのが「カット野菜」だ。 鍋用やサラダ用という用途に合わせていろんな野菜が詰められているので無駄がないし、最近は洗わずにすぐ使えるものも多い。少し前まではカット野菜は「割高」ととらえる人も多かったが、「包丁キャンセル」界隈などの人々からすれば「コスパのいい野菜」になってきている。 一方、「安い野菜」となると、忘れてはいけないのは「もやし」だろう。スーパーでは30〜40円、店によっては19円などで売られている。食費を抑えたい人にとっては、これほど頼もしい「物価の優等生」はそういない。 しかし、ちょっと冷静になっていただきたい。よくよく落ち着いて考えみると、</description>
+    </item>
+    <item>
+      <title>アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？ | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261027de66600</link>
+      <pubDate>2026/10/31 18:09</pubDate>
+      <description>Sparks of Weight-Space Programming: LLMs can natively read &amp;amp; write neural network weights TL;DR We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, using a variety of recent tools and algorithms or even via direct weight editing. These results show sparks of Weight-Space Programming, which may extend beyond what we’d expect from humans or conven</description>
+    </item>
+    <item>
+      <title>個人PCで動く「ローカルAI」はメモリの無駄？　OpenAIアルトマン氏「クラウドの方が効率的」</title>
+      <link>https://japan.cnet.com/article/35254269/</link>
+      <pubDate>2026/11/02 10:23</pubDate>
+      <description>アイスランド (USD $) アイルランド (USD $) アゼルバイジャン (USD $) アフガニスタン (USD $) アメリカ合衆国 (USD $) アラブ首長国連邦 (USD $) アルジェリア (USD $) アルゼンチン (USD $) アルバ (USD $) アルバニア (USD $) アルメニア (USD $) アンギラ (USD $) アンゴラ (USD $) アンティグア・バーブーダ (USD $) アンドラ (USD $) イエメン (USD $) イギリス (USD $) イスラエル (USD $) イタリア (USD $) イラク (USD $) インド (USD $) インドネシア (USD $) ウォリス・フツナ (USD $) ウガンダ (USD $) ウクライナ (USD $) ウズベキスタン (USD $) ウルグアイ (USD $) エクアドル (U</description>
+    </item>
+    <item>
+      <title>激動期の安保：安保へのAI導入、小泉防衛相が本腰　思わず称賛した米人工知能 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20261031/k00/00m/010/262000c</link>
+      <pubDate>2026/11/02 11:05</pubDate>
+      <description>アイシンは2日、東北大学と新型半導体を開発したと発表した。省電力の磁気記録式メモリー（MRAM）を組み込み、従来より消費電力を50分の1に抑えた。人工知能（AI）や画像認識など大容量のデータ処理の効率化に寄与する。今後実用化を目指す。開発したのは半導体の複数機能を1つのチップに集約するシステム・オン・チップ（SoC）だ。低消費電力のメモリーとして注目を集めるMRAMを組み込んだ。MRAMに知見</description>
+    </item>
   </channel>
 </rss>
