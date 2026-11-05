@@ -272458,5 +272458,74 @@ June 6, 2026</description>
       <pubDate>2026/11/04 09:32</pubDate>
       <description>https://x.com/f5lMZTk70t7130/status/2117315464347165148 上記の様な高市早苗が細野豪志の手の上に自身の手を重ねている画像が拡散していた。しかし、以下の様にGoogle製によって改変させられたAI画像である。 画像は一から作成されたものではなく、元は9月18日に毎日新聞にアップされた画像を素材とした改変画像である。画像を作成したのは冒頭の「三毛猫師匠@f5lMZTk70t7130」と思われる。9月21日には改変前の画像を使用しているのだが、防災庁に合わせてなのか冒頭及び、次の画像を挙げていた。 https://x.com/f5lMZTk70t7130/status/2102043487420268615 その他にもこのアカウントのメディア欄を見るとAIを使用した画像だらけであり、そのAIによる装飾は相手の品位を貶める様な下品な画像が多い。</description>
     </item>
+    <item>
+      <title>続・ソフトウェアアーキテクトのための意思決定術: Decision Readiness, Revisited — When AI Changes the Economics of Software Architecture</title>
+      <link>https://speakerdeck.com/snoozer05/decision-readiness-revisited</link>
+      <pubDate>2026/11/05 13:39</pubDate>
+      <description>今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェントの全てを開発するのは手間がかかりすぎる 良い分析体験のキモはエージェントが動く手前にある 分析エージェントから分析 MCP へ もともと作ろうとしていたエージェントは、チャット UI で分析を依頼するとデータ取得・考察・結果の可視化までを担うものだった。 ところが AI エージェント全体を作ろうとすると自作しなければいけない構成要素が多すぎる。全てに注力するには時間がかかるし、限られた時間で多くのものを作ろうとすると一つひとつのクオリティは下がってしまう。 そこで今年の7月からは心機一転 MC</description>
+    </item>
+    <item>
+      <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
+      <link>https://zenn.dev/nexta_/articles/42a828ca2b8a02</link>
+      <pubDate>2026/11/05 16:34</pubDate>
+      <description>さまざまなAIモデルに書道に挑戦させ、作品を並べて鑑賞するというサイトが「AI書道コンクール」です。 AI書道コンクール https://aishodo.enpitsu.org/ 『AI書道コンクール』というサイトを作りました。さまざまな言語モデルにむりやり書道をやらせて、みんなでそれを鑑賞するサイトです。https://t.co/Ode7SNz75U ※URLが変わったので再告知です pic.twitter.com/Wxi21gu2Gl— enpitsu (@enpitsu) 2026年11月3日 書道は「筆をどこに置き、どれだけ強く押し込み、どのように動かして止めるか」といったプロセスを重視する芸術ですが、一般的な画像生成AIは完成した画像を直接出力するだけ、つまりこの過程が存在しません。そのため、AI書道コンクールの作者である@enpitsuさんは、「書道の本質を表現することはできな</description>
+    </item>
+    <item>
+      <title>Kimi K3.1 Proの重み公開、無償で商用利用も原則可能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153969.html</link>
+      <pubDate>2026/11/05 17:36</pubDate>
+      <description>カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…</description>
+    </item>
+    <item>
+      <title>AIペネトレーションテストツール「ARTEX」の仕組みを知る - ラック・セキュリティごった煮ブログ</title>
+      <link>https://devblog.lac.co.jp/entry/20261105</link>
+      <pubDate>2026/11/05 08:09</pubDate>
+      <description>今回は、AIエージェントを完全自律で動かしてISUCON2026で優勝したkawasyさんをゲストに迎えたゲスト回です。fukabori.fmで語られた大会の全体像を踏まえて、準備の過程での判断と、その背景にある考え方を伺いました。 kawasyさんは当初から「人間が介入せず、8時間止まらずに最後まで自律的に動くこと」を目標に準備していました。AlphaEvolveのような進化的探索や独自コーディ</description>
+    </item>
+    <item>
+      <title>生成AIで軽くなる見積りとスプリント —— チームの学ぶ機会をどう残すか - SmartHR Tech Blog</title>
+      <link>https://tech.smarthr.jp/entry/2026/11/04/131031</link>
+      <pubDate>2026/11/05 00:25</pubDate>
+      <description>フジテレビ社屋（スポーツニッポン新聞社）　フジテレビは5日、公式サイトを通じ、ドラマ制作に生成AIを活用する実験場「AI Sandbox（AIサンドボックス）」を湾岸スタジオに設置し、本格運用を進めていると発表した。すでに放送中の「救命病棟24時」など複数のドラマで活用しており、一部工程では従来の手法と比べて作業工数を最大70～80％削減できたと報告。来年10月をめどに、フジテレビが制作するすべてのドラマでAIを、作品やシーンに応じて活用できる体制を整えるとした。 【写真あり】顔がパンパン…数日休養したフジテレビ女子アナ 同社は7月の組織変更でデジタル戦略統括室内に「AIセンター」を新設。9月からAI Sandboxの運用を開始し、ドラマの制作スタッフと技術スタッフ、AI関連企業などが連携して活用方法を検証している。 「救命病棟24時」では、撮影前に生成AIで映像の完成イメージを可視化し、</description>
+    </item>
+    <item>
+      <title>深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/05/news019.html</link>
+      <pubDate>2026/11/05 07:54</pubDate>
+      <description>AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネットに接続せずに翻訳できるほか、条件を満たせば商用利用も可能です。 PFN、世界最高水準のAI翻訳がエッジで可能な大規模言語モデル PLaMo 3 Translate をオープンウェイトで公開 - 株式会社Preferred Networks https://www.preferred.jp/ja/news/pr20261105 PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred</description>
+    </item>
+    <item>
+      <title>AIの影響か？ 利益急増でも6万人に退職打診　マイクロソフトの「黒字リストラ」は日本にも広がるか？ #エキスパートトピ（横山信弘） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/eeaaf0bb2fe84c2db388f530858b373cbb15aa95</link>
+      <pubDate>2026/11/05 09:55</pubDate>
+      <description>米OpenAIは11月4日（現地時間）、画像生成AIの新版「ChatGPT Images 2.6」を発表した。9月に公開した「Images 2.5」の後継モデルで、画像生成速度を50％向上させたほか、編集精度を改善した。新機能としてGIFアニメーションの作成や、保存した写真を別のチャットでも再利用できる機能も追加する。 Images 2.6は同日から、世界中の「ChatGPT」と「Codex」の全プランで利用可能になった。無料プランも対象で、Web、デスクトップアプリ、モバイルアプリに対応する。ただし、GIF生成機能は順次展開中としている。 従来のImages 2.5では、画像の特定部分だけを変更し、それ以外の部分を維持する編集機能を強化していた。Images 2.6ではこれをさらに改善し、例えばキャラクターの背景を変更しても衣装などの細部を忠実に維持できるようにした。キャラクターや商品、</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Fusion一般提供開始、Claude Codeに迫る性能でコストは約半分</title>
+      <link>https://news.mynavi.jp/techplus/article/20261104-5225011/</link>
+      <pubDate>2026/11/05 08:31</pubDate>
+      <description>Mod共有サイト「Nexus Mods」は11月3日、AI生成コンテンツに関する声明を発表した。これまでもAI生成を利用したことを示すタグは存在したが、新たにAI利用の開示が必須となる。 Nexus ModsはPC版ゲーム向けのMod共有プラットフォームだ。2001年にRobin Scott氏によって設立され、運営元はイギリス・デヴォン州に拠点を置いている。当初は『The Elder Scrolls III: Morrowind』の情報サイトMorrowind Chroniclesとして発足し、後にサポートするゲームが増加していった。TESNexusなどと名称の変更がありつつも、現在ではNexus Modsとして5700を超えるゲームのModに対応。PCゲームにおけるMod共有サイトとしては、最大手と呼べる規模を誇っている。 具体的には、これまでもAI生成を明確にするタグが存在したが、それ</description>
+    </item>
+    <item>
+      <title>Codexのセキュリティの仕組み - Sandbox・Trust・Approvalを理解する｜npaka</title>
+      <link>https://note.com/npaka/n/n00dcc54360eb</link>
+      <pubDate>2026/11/04 22:16</pubDate>
+      <description>AIがデザイナーのように考え、ゴールまでの道筋を分解。プロトタイプ駆動のための「インテント・リバースマップ」 AIでUIデザインをするようになって、こんなことはありませんか？ 出てきたUIはそれっぽい。でも、どこか惜しい 0から考えさせると、脈絡のない位置に機能が足される 選ばれるのは、よく見るありきたりなUIばかり 結局、自分の頭の中でUIの形まで考えてから指示している 私はその理由を、AIが「要求」から「UI」へ一回の解釈で変換してしまうからだと考えました。 本当はそのあいだに、判断がいくつも挟まっています。誰の何をゴールにするのか。そのときユーザーは何が気になっていて、どんな情報を保持しているべきなのか。AIはそれを書き出さないまま決めてしまいます。だから惜しいと感じても、どの判断がずれたのかが分かりません。 そこで、要求とUIのあいだの判断を、ゴールから逆算して1枚のマップに並べる</description>
+    </item>
+    <item>
+      <title>AI時代に求められるペネトレーションテスト - ラック・セキュリティごった煮ブログ</title>
+      <link>https://devblog.lac.co.jp/entry/20261104</link>
+      <pubDate>2026/11/04 21:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/444c3f4a25e92a3713ebfd11ab2f609be3e7f983/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2153%2F596%2Fpostgresql.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Siri AI、他社アプリで「予約・注文操作」が可能に　連携機能を全開発者に開放</title>
+      <link>https://japan.cnet.com/article/35254366/</link>
+      <pubDate>2026/11/04 16:18</pubDate>
+      <description>はじめに こんにちは、Dress Code株式会社 でプロダクトエンジニアをやっているなたこんです。 9月の Dress Code Meetup #3 で、「たくさん作れる時代だけど、作るものは少ないほうがいい」という話をしました。 以前は、作るコストの高さが「本当に要るのか」のフィルタになっていました。 AI でそのハードルが下がっても、モデルや画面や設定項目は、読む人・使う人・直す人の全員が抱え続けます。 この記事は、登壇で話した「何を作らないか」という考え方を、仕組みに落としてみた話です。 設計中には「新しいドメインオブジェクトにしよう」「専用画面を一式作ろう」「あとで使えるよう共通機能にしよう」と、筋の通って見える足す案が何度も出てきます。 毎回人間の勘で止めるのはつらいので、設計案を「足さない側」に倒すゲートを作り、過去の判断で試しました。 ゲートの考え方 最小案を基準にして、増</description>
+    </item>
   </channel>
 </rss>
