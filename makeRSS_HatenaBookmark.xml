@@ -272218,5 +272218,122 @@ June 6, 2026</description>
       <pubDate>2026/11/02 16:39</pubDate>
       <description>MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に人間が行った操作とは？ 約3か月の準備で作ったハーネス Claude Codeを8時間動かし続ける方法とは？ Herdrの最終構成 エージェント時代のISUCONと、評価を繰り返す競技への変化 スコアの上振れを狙うだけでなく、ばらつきを減らす重要性 準備における過去問の既知知識と、自作問題での評価 最後のベンチマークを、どのスコアで止めると良いか？ 次にkawasyさんがISUCON挑戦するなら？ AIコーディングをうまくやれる人とそうで</description>
     </item>
+    <item>
+      <title>PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks</title>
+      <link>https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release</link>
+      <pubDate>2026/11/05 10:24</pubDate>
+      <description>1. はじめにOpenAIの「Codex」は、プログラムの作成・修正、テスト、コマンド実行などを自律的に行うAIコーディングエージェントです。 AIがローカルPCのファイル操作やコマンド実行を行うため、誤操作やセキュリティ上のリスクもあります。そのため、CodexにはAIの操作を制限し、必要に応じてユーザーが許可する仕組みが用意されています。 実際にCodexを利用していると、次のような場面に遭遇します。 ・Sandboxでコマンドを実行できない ・作業フォルダを信頼（Trust）するか聞かれる ・コマンドの実行を承認（Approval）するか聞かれる これらは似たようなセキュリティ機能に見えますが、それぞれ役割が異なります。 今回は、OpenAIの公式ドキュメント「Agent approvals &amp;amp; security」をもとに、Sandbox・Trust・Approvalの違いを紹介しま</description>
+    </item>
+    <item>
+      <title>OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html</link>
+      <pubDate>2026/11/05 06:34</pubDate>
+      <description>１．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ばれるバトルが物語の中心的舞台となる。魔術師たちは過去の英雄を使い魔として召喚し、万能の願望器と呼ばれる「聖杯」を巡ってバトルロワイアルを演じる。 『Fate』シリーズの味わい深いところ、なかでも『Fate/Zero』でとりわけ味わい深いところは、「聖杯」があらゆる願いを叶える”万能の願望器”と定義され、それがために参加する魔術師たちそれぞれの執着やコンプレックスやトラウマがあらわになり、一種の因果応報をなす点だ。 そうした寓話的な味わいが、『Fate Zero』のストーリーに色艶</description>
+    </item>
+    <item>
+      <title>AIデータセンター建設にブレーキ　テキサス州で反対派勝利、全米に波及 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/</link>
+      <pubDate>2026/11/05 07:48</pubDate>
+      <description>はじめに こんにちは、ディオゲネスです。 AIを悪用していると考えられるサイバー攻撃の被害が止まりません。私たち専門家も、正直な所もう少し時間の猶予があると思っていました。 さて、そのようなAI時代に、「どのような全般的セキュリティ対策強化が求められるか」という点については、日本含め各国の公的団体から情報が出ており、「完璧な対策はなく、これまで通りの基本的な対策を、可能ならAIの助けを借りつつ、より迅速・確実にやるしかない。」という論調となっています。根本的に正しい呼びかけです。 しかし、「セキュリティ運用をもっと頑張りなさい、もっと急ぎなさい」と正しい呼びかけをすれば、事故が減るのでしょうか。正直な所、そうは思えません。もう少し実効性・即効性を期待できる対策というものはないでしょうか。 私は、その答えの一つはペネトレーションテストの実施、とりわけ侵入検知（攻撃検知ではない）、対応の検証を</description>
+    </item>
+    <item>
+      <title>“AI”のせいで「PostgreSQL 19」の公開が11月にずれ込み？／LLMで見つかるバグが急増してコミッターの手が回らず、大型機能の見送りも【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153596.html</link>
+      <pubDate>2026/11/04 19:12</pubDate>
+      <description>Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフラインマップをPCにまとめて保存し、さらにインターネット接続なしで動作するAIアシスタントまで利用できる無料のオープンソース知識検索ツールが「Project NOMAD」です。 Project NOMAD - Offline Knowledge &amp;amp; AI Server https://www.projectnomad.us/ Crosstalk-Solutions/project-nomad: Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousan</description>
+    </item>
+    <item>
+      <title>AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita</title>
+      <link>https://qiita.com/Syoitu/items/9364a0a175893bb15219</link>
+      <pubDate>2026/11/04 21:39</pubDate>
+      <description>はじめに こんにちは、Dress Code株式会社 でプロダクトエンジニアをやっているなたこんです。 9月の Dress Code Meetup #3 で、「たくさん作れる時代だけど、作るものは少ないほうがいい」という話をしました。 以前は、作るコストの高さが「本当に要るのか」のフィルタになっていました。 AI でそのハードルが下がっても、モデルや画面や設定項目は、読む人・使う人・直す人の全員が抱え続けます。 この記事は、登壇で話した「何を作らないか」という考え方を、仕組みに落としてみた話です。 設計中には「新しいドメインオブジェクトにしよう」「専用画面を一式作ろう」「あとで使えるよう共通機能にしよう」と、筋の通って見える足す案が何度も出てきます。 毎回人間の勘で止めるのはつらいので、設計案を「足さない側」に倒すゲートを作り、過去の判断で試しました。 ゲートの考え方 最小案を基準にして、増</description>
+    </item>
+    <item>
+      <title>GitHub Universe2026 全アップデートおさらい</title>
+      <link>https://zenn.dev/microsoft/articles/github-universe-2026-all-updates</link>
+      <pubDate>2026/11/04 10:49</pubDate>
+      <description>【11月4日 AFP】中国政府は4日、同国が英国の重要インフラを標的にAI（人工知能）を利用したサイバー攻撃を企てているとした英側の報告書に対し、中国への「中傷」をやめるよう強く求めた。 英国の国家サイバーセキュリティーセンター（NCSC）が3日に公開した報告書では、「2028年までに中国やロシアなどの国家が、地政学的な目標を達成するためにAIを利用したサイバー攻撃を日常的に行うようになる可能性は非常に高い。英国はより大規模かつ迅速な攻撃に直面する」と指摘された。 さらに、「中国は重要インフラやその他の戦略的標的に対し、AIを活用した攻撃を実行する意図を持っている可能性が極めて高く、そうした攻撃を行う上で最も有利な立場にある」との見方を示した。 これに対し中国外務省は4日、英国が長年にわたりサイバーセキュリティー問題を政治問題化してきたと反論した。 毛寧報道官は定例記者会見で報告書について</description>
+    </item>
+    <item>
+      <title>エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/</link>
+      <pubDate>2026/11/04 19:51</pubDate>
+      <description>富士フイルムが約100億円を投資して「データストレージ用磁気テープ」の製造能力を5倍に増強することを2026年10月29日に発表しました。生成AIの普及に伴ってデータアーカイブ需要が高まっており、これに対応するため磁気テープの安定供給体制を強化するとのことです。 データストレージ用磁気テープの製造能力を5倍に増強 | 富士フイルム [日本] https://www.fujifilm.com/jp/ja/news/list/14137 Fujifilm to boost tape production 5x as AI fuels archiving demand - Ars Technica https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d</description>
+    </item>
+    <item>
+      <title>商品情報、若年層はインフルエンサーより生成AI信頼　サイバー調査 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/</link>
+      <pubDate>2026/11/04 20:01</pubDate>
+      <description>AIの性能を測定するベンチマークは数多くの種類が存在していますが、ほとんどはコーディングや数学などの専門分野における性能の測定を目的としており、普段の生活で発生するタスクの性能測定は主流ではないのが現状です。そんな中、OpenAIが日常的なタスクにおけるAIの性能を測定できるベンチマークテスト「LifeVal」を開発したことを発表しました。 LifeVal | OpenAI https://openai.com/index/lifeval/ For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousand</description>
+    </item>
+    <item>
+      <title>銀行系企業がAIの利用コストを約10分の1に削減した事例を公開、商用AIから自社運用モデルへの切り替えで</title>
+      <link>https://gigazine.net/news/20261104-revolut-cut-ai-cost/</link>
+      <pubDate>2026/11/04 17:27</pubDate>
+      <description>NHK ONEはどなたでもご利用になれます。受信契約がお済みの世帯の方は、別途の契約や追加のご負担なく利用できます。契約をされていない世帯の方が利用した場合は、放送法に基づき契約が必要です。 受信契約の詳細や、事業・学校での利用については下記のリンクをご覧ください。</description>
+    </item>
+    <item>
+      <title>現代のチェスAIを動かす30年前のPCと昔のチェスAIを動かす現代PCが対決、100局の勝敗は？</title>
+      <link>https://gigazine.net/news/20261104-modern-chess-engine-vs-pc/</link>
+      <pubDate>2026/11/04 15:11</pubDate>
+      <description>ビジネスシーンにおいて最も活用されているAIサービスが、「文字起こし」ではないだろうか。ビジネスの現場では、物事を進めるのは人と人の話し合いだが、その記録を残すためには文章化は必須である。その元になるのが録音の書き起こしとなる。 1～2年前まではまだβ版として無料で使えるサービスも幾つかあったが、現在はほとんどが正式サービスとしてローンチしたことで有料化された。中には文字起こし機能がワークスペース的なサービスに統合されるなど、文字起こしを機軸にビジネスツール化する傾向が強まっている。 AIボイスレコーダーとして知られる米Plaudは、文字起こしAIサービスとハードウェアを一体化させたビジネスを展開している。グローバルの累計ユーザー数は300万人を突破しており、会話の記録とAI活用が一部の先進的なユーザーだけでなく、仕事における「当たり前」になりつつある。個人的にも初代モデルを使用しており、</description>
+    </item>
+    <item>
+      <title>Googleが学校向けに検索機能をオフにするオプションを実装、代わりに学習者向けAIを搭載した検索機能を提供</title>
+      <link>https://gigazine.net/news/20261104-google-guided-learning-search/</link>
+      <pubDate>2026/11/04 12:09</pubDate>
+      <description>「もっと詳しく教えて」と頼んでも、以前なら何行も丁寧に返してくれたChatGPTが、10月29日を境に急に素っ気なくなった――そんな変化に気づいた人がいても不思議ではありません。 ChatGPTを無料で使っている人なら、この話はまったく無関係ではありません。 実はこれ、気のせいではなく、OpenAI自身が公式に行った仕様変更です。 何が変わり、なぜ無料ユーザーだけが対象になったのか、順番に確認していきます。 先に結論をまとめると： – OpenAIは2026年10月29日、無料（Free）・Go・未ログイン利用者向けのGPT-6の応答を簡潔にし、過度な褒め言葉を減らす更新をモデルリリースノートで案内しました – Plus・Proの通常利用（上限内）には影響せず、対象は上限到達後に切り替わる代替モデルのみです – 「事実誤認が増えた」と感じる場合は、カスタム指示に具体的な条件を書き足すことで</description>
+    </item>
+    <item>
+      <title>「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発</title>
+      <link>https://gigazine.net/news/20261104-anthropic-flashprove/</link>
+      <pubDate>2026/11/04 11:20</pubDate>
+      <description>A separate macOS desktop for computer-use agents, viewed and controlled from a terminal. iOS simulators and iPhones: see the sibling project terminal-phone. terminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal viewer streams that screen using Kitty or iTe</description>
+    </item>
+    <item>
+      <title>Apple、すべてのアプリがSiriに統合する機能を劇的に拡張する「Siri AI Developer Preview」を発表 | NEWS | Mac OTAKARA</title>
+      <link>https://www.macotakara.jp/news/entry-52225.html</link>
+      <pubDate>2026/11/04 11:29</pubDate>
+      <description>【ニューヨーク共同】米グーグルは3日、世界各地の小中高の児童生徒が校内や自宅で使う学習用アカウントでインターネット検索や人工知能（AI）の機能の利用を制限する方針を発表した。初期設定では機能を無効とする。</description>
+    </item>
+    <item>
+      <title>OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発</title>
+      <link>https://gigazine.net/news/20261104-openai-git-pando/</link>
+      <pubDate>2026/11/04 13:33</pubDate>
+      <description>ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初心者なのだから優しく見守ってください。 （公開：2026/11/4 | 更新：2026/11/4） Sponsored Link クラウドAIではなく「ローカル生成AI」を選ぶ理由 プロンプト設計：Qwen 3.8 Next Flash IQ3_S 画像生成：MOSS Image Base BF16 クラウドAIの性能は人類の上位1%級 月額3000円ほど払えば、最上級の性能を持つクラウドAIモデルに誰でもアクセスできます。しかも人並みの性能どころではなく、「人類の上位1%」レベル</description>
+    </item>
+    <item>
+      <title>Siri AI is now open to all developers - Latest News - Apple Developer</title>
+      <link>https://developer.apple.com/news/?id=gdk2umrf</link>
+      <pubDate>2026/11/04 05:15</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e74b890d51216cb43362296f58380801053878cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F619%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIでデザインが簡単になっても残る仕事　AIで変わる4人のクリエイターの仕事と人生 (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/444/4444030/</link>
+      <pubDate>2026/11/03 23:03</pubDate>
+      <description>米Googleは11月3日（現地時間）、K-12（幼稚園から高校まで）の生徒向けアカウントで、生成AI「Gemini」や「Google検索」などを、学校の管理者が明示的に有効にするまで原則オフにすると発表した。学校側が生徒のAI利用を管理できるようにする措置だ。ただし、Google検索に組み込まれたAI機能だけを無効にすることはできないため、学校側がAI機能を使わせない方針を選ぶと、生徒はGoogle検索自体も利用できなくなる。この点に批判が出ている。 対象となるのは、学校が管理する生徒向けアカウントで利用する「Gemini」「Gemini Notebook」「Gemini in Classroom」「Google検索」だ。これらは、学校の管理者が個別に有効化できる。Googleは学校や教師、研究者、政策立案者の声を受けた変更だとしている。適用時期は公式には明示していないが、米New Yo</description>
+    </item>
+    <item>
+      <title>AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」</title>
+      <link>https://gigazine.net/news/20261104-the-commanding-heights/</link>
+      <pubDate>2026/11/04 07:00</pubDate>
+      <description>空前の人工知能（AI）投資ブームが起きている。資本争奪のなか、当事者の信用力だけでは集めきれない成長資金を確保するべく、複雑な調達手法を編み出したのが米金融大手モルガン・スタンレーだ。AI版「錬金術師」たちは、データセンターなどAIインフラを金融商品へと造り替えた。「AIファイナンス」で業界標準を築く10月上旬、ニューヨーク市内で開かれた「TMTファイナンス・アワードUSA2026」授賞式。</description>
+    </item>
+    <item>
+      <title>マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた</title>
+      <link>https://note.com/uchita_success/n/nfc53d1ef5f81</link>
+      <pubDate>2026/11/04 00:24</pubDate>
+      <description>目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数理的制約 実行コストの高さ 保守コストの増大と脆さ 原因の調査範囲の拡大 結果の不確実性 カバレッジの組み合わせ爆発 AI時代における制約の不変性 効率的なテスト配置とAI開発への適用 テストピラミッド 生成AI開発におけるテスト誘導の具体例 E2Eテストの分類体系 ルールベースの手法 非ルールベースの手法 目的と状況に応じたテスト手法の選択 推奨：グラフベースと高価値シナリオの例ベースの併用 次善策：エラー推測と高価値シナリオの併用 簡易導入：モンキーベースと高価値シナリオの併用 使用性の検証</description>
+    </item>
+    <item>
+      <title>AIキャラへの「恋」と「創作」の間で生まれるもの。『zeta』の中毒性と“小説”との違いとは？ - QJWeb クイック・ジャパン ウェブ</title>
+      <link>https://qjweb.jp/column/167312/</link>
+      <pubDate>2026/11/02 19:50</pubDate>
+      <description>OpenAIは11月2日（米国時間）、Codexによる開発量の急増に対応し、自社モノレポ向けのGitバックエンド「Pando」を構築したと発表した。従来基盤は信頼性が90％を下回る時期もあったが、導入でプッシュ遅延の中央値はほぼ5分の1になり、1日にほぼ1ペタバイトのGitデータを配信するという。Git本体への貢献も表明した。 OpenAIは11月2日（米国時間）、自社のモノレポ（単一リポジトリ）向けに新たなGitバックエンド「Pando」を構築したと、公式ブログで明らかにした。Codexによって開発の並列度が急増し、従来のソース管理基盤が追いつかなくなったことが背景にある。Pandoはすでに、同社モノレポでのすべての開発を支えているという。 同社によると、Codexの普及でエンジニア1人が同時にCI待ちの変更を複数抱えるようになり、プッシュやマージに加え、開発環境や研究ジョブ、CIからの</description>
+    </item>
   </channel>
 </rss>
