@@ -272800,5 +272800,98 @@ June 6, 2026</description>
       <pubDate>2026/11/04 12:24</pubDate>
       <description>AI生成画像の99.2%を検出し、誤検知は0.27%――米国のスタートアップ企業Pangram Labsは11月4日（現地時間）、このようにうたうAIモデル「Pangram Image 1.0」を発表した。「Google Chrome」に同社提供の拡張機能をインストールすることで、ブラウザ上でSNSやECサイトのAI生成画像を検知できるという。 Pangram Labsは7月に研究プレビューとして「Pangram Image 0.1」をリリース。今回発表したPangram Image 1.0は、ユーザーからのフィードバックを受けた修正版だ。0.1からディープフェイクや低解像度画像、最先端モデルによる生成物の検知性能を向上させたという。 実際の写真を基にした合成画像1200枚を使ったベンチマークテストでは99.96％を検知。その他複数のベンチマークテストでも99％を超える検知率を示したとする</description>
     </item>
+    <item>
+      <title>自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―</title>
+      <link>https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001</link>
+      <pubDate>2026/11/06 20:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/12f86f8141e4168f6e94e658dff4816dd301916c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2154%2F280%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>新世代のAI PC「NVIDIA RTX Spark」は誰のための製品なのか？【使ってわかるAI PC】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2154358.html</link>
+      <pubDate>2026/11/06 17:12</pubDate>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。 研究チームは、8社（Anthropic、Alibaba、DeepSeek、Google Dee</description>
+    </item>
+    <item>
+      <title>ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
+      <link>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</link>
+      <pubDate>2026/11/06 14:27</pubDate>
+      <description>kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。話したネタISUCON2026で、競技中に人間が介入せず優勝fukabori.ep #52 ISUCON今回の出題課題競技当日に人間が行った操作とは？約3か月の準備で作ったハーネスClaude Codeを8時間動かし続ける方法とは？Herdrの最終構成エージェント時代のISUCONと、評価を繰り返す競技への変化スコアの上振れを狙うだけでなく、ばらつきを減らす重要性準備における過去問の既知知識と、自作問題での評価最後のベンチマークを、どのスコアで止めると良いか？次にkawasyさんがISUCON挑戦するなら？AIコーディングをうまくやれる人とそうでない人との差分は？kawasyさんのXSee Privacy Policy</description>
+    </item>
+    <item>
+      <title>Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
+      <link>https://gigazine.net/news/20261106-claude-code-mail-address/</link>
+      <pubDate>2026/11/06 15:09</pubDate>
+      <description>脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。 GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI https://openai.com/index/introducing-gpt-6-cyber/ Today’s GPT-6 Cyber release is a meaningful step for defenders: stronger vulnerability research and better alignment. We’ve already been using GPT-6 Cyber alongside GPT-6 Astra with Daybreak to harden our own</description>
+    </item>
+    <item>
+      <title>AIによる情報漏えいを棚卸ししてみた。 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/ai-information-leak-inventory-2026/</link>
+      <pubDate>2026/11/06 09:12</pubDate>
+      <description>民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。 Airbnb says it&amp;#39;s launching an AI travel agent in the first half of 2027 | TechCrunch https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/ Airbnbのブライアン・チェスキーCEOは、これまでにも同社が計画しているAI旅行エージェントについて語っていました。チェスキーCEOによると、AI旅行エージェントは従来のAIチャットボットよりもリッチなインターフェースを備えたAIエージェントのようなものになるとのことです。また、旅行においてはチャッ</description>
+    </item>
+    <item>
+      <title>MicrosoftのAIターミナル「Intelligent Terminal 0.3」、過去最大のアップデート／エージェントとタブを縦に並べるサイドバー導入、ウィンドウを閉じても動きつづけるヘッドレスモードも追加</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2154135.html</link>
+      <pubDate>2026/11/06 10:37</pubDate>
+      <description>11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。米メディアが報じた。南部テキサス州などの知事選では、規制推進派の野党・民主党系が当選。AI建設への逆風が強まるとの見方が出ている。 米選挙関連情報サイト「バロットペディア」によると、こうした住民投票のうち半数を超える21件が中西部オハイオ州内で実施された。中西部イリノイ州内でも7件が行われたが、1件を除き、データセンターに反対する有権者の意思が示される結果となった。 このほか実施されたのはカリフォルニア、フロリダ、カンザス、メーン、ニュージャージー、ネバダ、ウィスコンシン各州などの地域だった。 唯一、中西部ノースダコタ州ハーウッド市の住民投票では、建設を後押しする住民の意向が示された。建設前に審査などの一定の手続きを課す</description>
+    </item>
+    <item>
+      <title>Herdrで、複数のエージェントを見守りたい - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2026/11/06/132239</link>
+      <pubDate>2026/11/06 15:46</pubDate>
+      <description>6日の東京株式市場で日経平均株価は大幅に5日続落し、終値は前日比3643円13銭（5.96%）安の5万7434円77銭だった。下げ幅は歴代3位の大きさで、半年ぶりに節目の6万円を割り込んだ。人工知能（AI）規制に前向きとされる米民主党が中間選挙で大勝し、データセンター建設が鈍るとの懸念が強まった。関連需要が減速するとしてAI・半導体株を中心に売られ、世界同時株安の様相となった。AI・半導体株が総崩れ</description>
+    </item>
+    <item>
+      <title>Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能</title>
+      <link>https://gigazine.net/news/20261106-gemini-omni-1-2-flash/</link>
+      <pubDate>2026/11/06 12:51</pubDate>
+      <description>OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。 root 権限への経路を 1,000 件削減 | OpenAI https://openai.com/ja-JP/index/a-thousand-fewer-paths-to-root/ Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege</description>
+    </item>
+    <item>
+      <title>米株式市場で時価総額395兆円消失、ハイテク株が売り込まれる　民主党躍進でAI減速に懸念</title>
+      <link>https://www.cnn.co.jp/business/35254491.html</link>
+      <pubDate>2026/11/06 12:25</pubDate>
+      <description>米Metaは11月5日（現地時間）、パーソナルAIエージェント「Muse」に、リアルタイムの音声対話機能と、会話に合わせて表情や身ぶりを変えるアバター機能を追加すると発表した。まず米国で提供を開始し、モバイル、Web、Mac向けのMuseアプリで利用できる。日本での提供時期は明らかにしていない。 Museは、ユーザーの指示に基づいて計画を立て、実際の作業を進めるAIエージェントだ。9月に米国で提供を開始し、10月23日には日本でも利用可能になった。今回の新機能は、9月の開発者イベント「Meta Connect 2026」で予告していたものだ。 音声対話機能では、画面右上の電話アイコンをタップするとMuseとの会話が始まる。</description>
+    </item>
+    <item>
+      <title>Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html</link>
+      <pubDate>2026/11/06 09:57</pubDate>
+      <description>6日の東京株式市場で日経平均株価は一時前日比4300円超下落し、心理的な節目の6万円を半年ぶりに下回った。米中間選挙で野党・民主党が大勝し、人工知能（AI）インフラ投資にブレーキがかかるとの不安が広がっている。5日の米国株市場でAI・半導体関連株が総崩れとなり、東京市場でも取引開始直後から売りが膨らんだ。日経平均が6万円を下回るのは5月20日以来およそ半年ぶり。前日比の下げ幅は一時4300円と</description>
+    </item>
+    <item>
+      <title>「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/05/news018.html</link>
+      <pubDate>2026/11/05 11:06</pubDate>
+      <description>Yokohama North Meetup #18 での登壇資料でございます。</description>
+    </item>
+    <item>
+      <title>Nintendo Switchの「ゲームカード」製造を支えてきた大手マクロニクス、ROM事業から段階的に撤退へ。AI時代に変わる主力 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261104-477459/</link>
+      <pubDate>2026/11/04 18:34</pubDate>
+      <description>例えば、あなたが入社2年目のエンジニアで、見たことも聞いたこともない社内ツールの改善を任されたとします。そのような未知のツールであっても、AIにツールの概要と利用者データを共有し、改善すべきポイントとその優先順位を整理させれば、はじめに手をつけるべき点が見えてきます（Plan⁠）⁠。AIに相談しつつ改修コードを書けば、1人でも実装を進められます（Do⁠）⁠。改修後は、想定通りの改善効果が出ているかをAIと一緒に検証すれば、見落としや副作用にも気づけます（Check⁠）⁠。その結果を踏まえて改善点を見定め、次のサイクルに入ります（Action⁠）⁠。かつてはチームで数週間かけていたこのサイクルを回す時間が、AIとの対話によって大幅に短縮されます。 このサイクルを回せるのはコーディングに限った話ではありません。設計方針の検討・チームの開発プロセスの改善・キャリアの方向性の模索など、あらゆる場面</description>
+    </item>
+    <item>
+      <title>「チャットUI」の正解を求めて。月間UU3000万「マイベスト」、“接客×AI”との苦闘2年半 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_964/</link>
+      <pubDate>2026/11/05 10:29</pubDate>
+      <description>「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026 GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copilot Dreamingは、人間がAIモデルに対して指示した内容が、作業が進むにつれて対象となるコードや環境が変化したり、AIモデルの種類や性能が進化したりすることで、だんだん役に立たなくなってくることを自動的にバックグラウンドで整理しアップデートや修正を行う機能を提供します。 整理やアップデートが行われるのは、AIに対するガイダンス、Copilot Memoryによるリポジ</description>
+    </item>
+    <item>
+      <title>AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/</link>
+      <pubDate>2026/11/05 10:21</pubDate>
+      <description>深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？（1/3 ページ） 化学肥料の原料のほぼ全量を海外に依存し、中国の輸出規制一つで田畑が揺らぐ日本の農業──。 日本は、化学肥料の主要原料である尿素、リン安（リン酸アンモニウム）、塩化カリのほぼ全量を輸入に頼っている。中国は2021年秋から肥料の輸出時に検査を課しており、原料の調達は国際情勢に左右され続けている。 食料安全保障を揺るがすこの調達危機を、研究開発によって解決しようとしているのが、福岡の老舗卸welzo（ウェルゾ、福岡市）だ。売上高500億円を超える農業資材卸で、肥料の原料や園芸資材、飼料原料などを取り扱っている。 同社が九州大学と組んだ研究農場で進めるのは、牛ふんなどの堆肥にプラズマを照射し「空気中の窒素を取り込んでそのまま肥料に変える」技術だ。さらに、農業の知見を持つグループ会社ジャット（</description>
+    </item>
+    <item>
+      <title>国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
+      <link>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</link>
+      <pubDate>2026/11/05 12:37</pubDate>
+      <description>原題：Modernising Systems: Microservices Or Bust? マイクロサービスは今や一般的な選択肢となり、従来型のアーキテクチャを採用するシステムは、時代の流れに取り残されたように感じることもあるかもしれません。では、システムをモダナイズするには、マイクロサービスへの移行が唯一の正解なのでしょうか？本セッションでは、著書『Building Microservices』で知られるSam Newmanが、現実的な制約の中でのリアーキテクチャのあり方を問い直します。マイクロサービスかモノリスかにかかわらず、あらゆる設計判断に役立つ実践的パターンを紹介します。 【RoomA】技術選定を突き詰める〜 Online Conferenc​​e 2025〜 日々のシステム開発において、適切な技術を選定することは、プロダクトの成功を左右する重要な決断の一つです。求められる要件</description>
+    </item>
   </channel>
 </rss>
