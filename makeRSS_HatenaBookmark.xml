@@ -272527,5 +272527,98 @@ June 6, 2026</description>
       <pubDate>2026/11/04 16:18</pubDate>
       <description>はじめに こんにちは、Dress Code株式会社 でプロダクトエンジニアをやっているなたこんです。 9月の Dress Code Meetup #3 で、「たくさん作れる時代だけど、作るものは少ないほうがいい」という話をしました。 以前は、作るコストの高さが「本当に要るのか」のフィルタになっていました。 AI でそのハードルが下がっても、モデルや画面や設定項目は、読む人・使う人・直す人の全員が抱え続けます。 この記事は、登壇で話した「何を作らないか」という考え方を、仕組みに落としてみた話です。 設計中には「新しいドメインオブジェクトにしよう」「専用画面を一式作ろう」「あとで使えるよう共通機能にしよう」と、筋の通って見える足す案が何度も出てきます。 毎回人間の勘で止めるのはつらいので、設計案を「足さない側」に倒すゲートを作り、過去の判断で試しました。 ゲートの考え方 最小案を基準にして、増</description>
     </item>
+    <item>
+      <title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link>
+      <pubDate>2026/11/06 08:41</pubDate>
+      <description>2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています。 PHP2Shell Is a Wakeup Call for AI in Cybersecurity - IEEE Spectrum https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability PHP2Shellの原因となったPHPは元々「Personal Hom</description>
+    </item>
+    <item>
+      <title>高市首相のX発信、長文化しているのはなぜ？　カギ括弧で浮かぶ特徴：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVC52JM0VC5UTFK01RM.html</link>
+      <pubDate>2026/11/05 19:32</pubDate>
+      <description>アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。 US voters roundly reject data centers in ballot measures | Semafor https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures American Voters Overwhelmingly Reject AI Data Centers https://www.404media.co/ameri</description>
+    </item>
+    <item>
+      <title>AIに無理やり書道をやらせる「AI書道コンクール」が登場、画像生成AIではなく言語モデルに挑戦させる</title>
+      <link>https://gigazine.net/news/20261105-ai-shodo/</link>
+      <pubDate>2026/11/05 16:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f262718dcccec5ae782bf88dcb732b9a23f707c3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F969%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261105de71024</link>
+      <pubDate>2026/11/05 17:11</pubDate>
+      <description>デジタルペンテスト部でペネトレーションテストを担当している小松奈央です。 昨今、情報漏えいなどのセキュリティインシデントが相次いで報告されている他、AIの進化によるサイバー攻撃の高度化やハードルの低下など、サイバーセキュリティを取り巻く環境の変化の大きさを実感しています。 AIを悪用したサイバー攻撃の事例としては、自律型AIペネトレーションテストツール「ARTEX」が実際のサイバー攻撃に悪用されたとする調査結果が公開され、大きな注目を集めました。 本記事では、ARTEXのアーキテクチャやAIエージェントが連携して動作する仕組みの概要を解説します。 注意事項 本記事は、ARTEXを悪用したサイバー攻撃への対策に役立てることを目的として、その仕組みや動作を技術的に解説するものです。 ARTEXはすでにオリジナルのリポジトリが非公開となっており、現在は複数のフォークが公開されている状況です。これ</description>
+    </item>
+    <item>
+      <title>フジ、全ドラマに生成AIを本格導入　来年10月めど　湾岸スタジオに実験場設置、作業工数削減期待（スポニチアネックス） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/c3cb86e3a68e5983270fa1b2ed66b8717d56e24b</link>
+      <pubDate>2026/11/05 15:28</pubDate>
+      <description>Moonshot AIが2026年10月24日に公開したAIモデル「Kimi K3.1 Pro」の「重み」が、当初の予告通り無料で公開されました。誰でもダウンロードして利用できます。 moonshotai/Kimi-K3.1-Pro · Hugging Face https://huggingface.co/moonshotai/Kimi-K3.1-Pro Releasing the model weights of Kimi K3.1 Pro: https://t.co/tJXcYUeSCj We&amp;#39;ll keep advancing open intelligence. pic.twitter.com/BbWCJUYYSQ— Kimi.ai (@Kimi_Moonshot) November 4, 2026 Kimi K3.1 Proは総パラメーター数2.8兆・アクティブパラメーター数1</description>
+    </item>
+    <item>
+      <title>PFN、スマホで動く翻訳LLM「PLaMo 3 Translate」公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153784.html</link>
+      <pubDate>2026/11/05 12:45</pubDate>
+      <description>従来より約50％高速に画像を生成するというAIツール「Images 2.6」をOpenAIが発表しました。ChatGPTとCodex APIで利用できます。 Introducing Images 2.6 | OpenAI https://openai.com/index/introducing-images-2-6/ Images 2.6は前モデルの「Images 2.5」より50％高速に画像を生成するというバージョン。GIFの生成に対応し、新しい「複雑度パラメーター(complexity parameter)」でAIがどの程度の編集を行うかを調整できるとのこと。このパラメーターでは生成の速さ、画像の品質、処理の複雑さを設定できるそうです。また、Images 2.6は画像の作成、編集、プロジェクトの次の段階への引き継ぎを細かく制御できるようになるとも説明されています。 シンプルなスケッチか</description>
+    </item>
+    <item>
+      <title>【やじうまミニレビュー】 まだ手で議事録書いてるの？要約もToDoもAI任せの「iFLYTEK P1 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2153657.html</link>
+      <pubDate>2026/11/05 08:04</pubDate>
+      <description>PFN、世界最高水準のAI翻訳がエッジで可能な大規模言語モデル PLaMo 3 Translate をオープンウェイトで公開機密情報もクラウドを介さずスマートフォンや社内サーバーで翻訳処理が可能 0.8Bから31Bまで用途に合わせて選択可能な4サイズを提供 訂正 (11/05 11:45）: 直近事業年度の収入または売上が10億円未満以下の企業および個人はPLaMoコミュニティライセンスのもと、モデルをダウンロードし、商用・非商用にかかわらずスマートフォン、ノートパソコン、社内サーバーなどのエッジでクラウドを介さずに無償利用することができます。 株式会社Preferred Networks（本社：東京都千代田区、代表取締役社長：岡野原大輔、以下、PFN）は、PFNのAI翻訳サービス PLaMo™翻訳　で利用している翻訳特化型の大規模言語モデル（LLM）PLaMo 3 Translate＊を</description>
+    </item>
+    <item>
+      <title>AIがデザイナーのように考え、ゴールまでの道筋を分解。プロトタイプ駆動のための「インテント・リバースマップ」｜Miyajima</title>
+      <link>https://note.com/daiki_miyajima/n/n94c3e049a565</link>
+      <pubDate>2026/11/04 16:45</pubDate>
+      <description>連載目次 オープンソースソフトウェア（OSS）に貢献するなら、プルリクエスト（PR：コードの変更を元のプロジェクトに提案する仕組み）を送る。GitHubが広めたこの作法は、20年近く「当たり前」だった。その当たり前が、AIによって揺らいでいる。AIが数分で生成したPRを、人間のメンテナー（OSSの管理者）が何時間もかけて読む。そのコストが釣り合わなくなってきたからだ。 AIコーディングエージェント（以下、エージェント）を使った開発を実践し、ブログで発信しているオーストラリアのエンジニア、ジェフリー・ハントリー（Geoffrey Huntley）氏は2026年10月14日、「オープンソースの新しいモデル：プルリクエストは受け付けない、リミックスは歓迎」と題した記事を公開した。今後GitHubで公開する自分のコードでは、PRの受付を無効にし、代わりに「どう改変すればよいか」の手引きを公開し保守</description>
+    </item>
+    <item>
+      <title>Steamの新作ゲームが爆発的に増加中、先週は「6分に1本」ペースに。審査は大渋滞、“遊ばれないゲーム”も増え続ける - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261104-477386/</link>
+      <pubDate>2026/11/04 20:41</pubDate>
+      <description>はじめに こんにちは、ディオゲネスです。 AIを悪用していると考えられるサイバー攻撃の被害が止まりません。私たち専門家も、正直な所もう少し時間の猶予があると思っていました。 さて、そのようなAI時代に、「どのような全般的セキュリティ対策強化が求められるか」という点については、日本含め各国の公的団体から情報が出ており、「完璧な対策はなく、これまで通りの基本的な対策を、可能ならAIの助けを借りつつ、より迅速・確実にやるしかない。」という論調となっています。根本的に正しい呼びかけです。 しかし、「セキュリティ運用をもっと頑張りなさい、もっと急ぎなさい」と正しい呼びかけをすれば、事故が減るのでしょうか。正直な所、そうは思えません。もう少し実効性・即効性を期待できる対策というものはないでしょうか。 私は、その答えの一つはペネトレーションテストの実施、とりわけ侵入検知（攻撃検知ではない）、対応の検証を</description>
+    </item>
+    <item>
+      <title>AIは「収奪的イノベーション」か　産業革命では100年間賃金低下：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVC21TXYVC2ULFA022M.html</link>
+      <pubDate>2026/11/04 09:54</pubDate>
+      <description>商品やサービスの情報源として、インフルエンサーらの発信より生成AI（人工知能）の回答を重視することがサイバーエージェントの若年層向け調査で分かった。生成AI利用者の45%が信頼し、テレビや雑誌よりもわずかながら高かった。サイバーエージェント次世代生活研究所が7月13〜31日、インターネットを通じて全国の小学生から38歳までの生成AI利用者1648人から有効回答を得た。15歳未満は保護者の代理回</description>
+    </item>
+    <item>
+      <title>コーディングだけでなく日々の判断にもAIが役立つか測定可能なベンチマークテスト「LifeVal」をOpenAIが発表</title>
+      <link>https://gigazine.net/news/20261104-openai-lifeval/</link>
+      <pubDate>2026/11/04 17:41</pubDate>
+      <description>Revolut(レボリュート)は銀行サービスや送金、決済などを提供するイギリスの金融テクノロジー企業です。同社のAI運用・インフラ部門を率いるデビッド・アビトボル氏が、2026年10月に開催された開発者向けイベント「AI Engineer NYC 2026」でAIの運用コストを約10分の1に削減した取り組みを紹介しました。 Shipping like a startup, regulated like a bank | AI Engineer NYC 2026 https://ai.engineer/nyc/2026/talks/revolut British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted • The Register https://asset</description>
+    </item>
+    <item>
+      <title>Sakana AI</title>
+      <link>https://sakana.ai/symposium-2026/</link>
+      <pubDate>2026/11/03 17:19</pubDate>
+      <description>AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を排除できません。この状況を打破するべく、Anthropicが「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」を開発しました。 Progress on provable inference for large language models \ Anthropic https://www.anthropic.com/research/provable-inference New Anthropic research: progress on provable inference for large language mo</description>
+    </item>
+    <item>
+      <title>GitHub - govijr/terminal-mac: Entire MacOS running in your terminal.</title>
+      <link>https://github.com/govijr/terminal-mac</link>
+      <pubDate>2026/11/04 16:48</pubDate>
+      <description>Siri AI Developer Preview Appleが、デベロッパ向けにiOS 27.3、iPadOS 27.3、macOS 27.3、visionOS 27.3 のベータ版において、新しい「Siri AI Developer Preview」が利用可能になったと発表しています。 これにより、あらゆる開発者が自身のアプリに Siri AI を統合できるようになり、企業や開発者にとって、顧客にリーチし、サービスを提供するための新たな手段が提供されます。 今回のプレビューでは、あらゆるアプリが「App Intents」を活用して、自アプリのコンテンツやアクションをSiri AIに直接組み込むことができるようになります。 また、これにより、すべてのアプリが、個人のコンテキスト理解、画面認識、自然言語処理など、Siri AIの最新機能をより簡単に活用できるようになります。 ユーザーは自分</description>
+    </item>
+    <item>
+      <title>「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/</link>
+      <pubDate>2026/11/04 11:05</pubDate>
+      <description>米Anthropicは10月30日（現地時間）、同社のAI「Claude」のプラン名「Max 5x」を「Max」に、「Max 20x」を「Ultra」に変更した。価格はいずれも据え置きで、それぞれ月額110ドルと220ドルだ。 これに伴い、Ultraプランの使用量の5時間制限が撤廃された一方、同プランの説明に「Proの10倍の使用量」と記載されていることから、ユーザーからは「20倍から10倍に減ったのでは」という声がXなどで寄せられていた。 これに対して、Anthropicのプロダクト責任者マイク・オーバレル氏はXで、旧プラン名の「Max 20x」は、5時間制限のみ存在した時期に「Proプランの20倍の5時間制限」という意味で付けたものだと説明。その後、Max 20xプランに週次制限を設けた際はProプランの10倍に設定していたという。今回、Ultraプランの5時間制限が撤廃されたことで、</description>
+    </item>
+    <item>
+      <title>個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka</title>
+      <link>https://note.com/npaka/n/ncccb2783a262</link>
+      <pubDate>2026/11/03 17:33</pubDate>
+      <description>GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。 国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案が目白押し！ 世界の組織が9月に受けた週平均のサイバー攻撃件数は前年同月比で48％も増えているんですね（CheckPoint調べ）。 ランサムウェア被害報告件数が最多なのは北米地域（46%）で、欧州（25%）、アジア太平洋地域（17%）と続きます。被害報告に挙がった企業・組織の41.9%は米国で、2位のドイツ（4.0％）、3位のカナダ（3.6％）を大きく引き離しており、この上位3カ国に日本は入りません。日本でこれだけ騒ぎになってるのに上には上、なのであります。 それもこれもAIのせいだ！って叫び</description>
+    </item>
   </channel>
 </rss>
