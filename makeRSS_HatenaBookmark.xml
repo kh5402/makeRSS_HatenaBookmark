@@ -272620,5 +272620,80 @@ June 6, 2026</description>
       <pubDate>2026/11/03 17:33</pubDate>
       <description>GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。 国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案が目白押し！ 世界の組織が9月に受けた週平均のサイバー攻撃件数は前年同月比で48％も増えているんですね（CheckPoint調べ）。 ランサムウェア被害報告件数が最多なのは北米地域（46%）で、欧州（25%）、アジア太平洋地域（17%）と続きます。被害報告に挙がった企業・組織の41.9%は米国で、2位のドイツ（4.0％）、3位のカナダ（3.6％）を大きく引き離しており、この上位3カ国に日本は入りません。日本でこれだけ騒ぎになってるのに上には上、なのであります。 それもこれもAIのせいだ！って叫び</description>
     </item>
+    <item>
+      <title>OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
+      <link>https://gigazine.net/news/20261106-openai-built-linux-vulnerability/</link>
+      <pubDate>2026/11/06 12:09</pubDate>
+      <description>ナスダック・マーケットサイトの前を通り過ぎる歩行者たち。ナスダックはトランプ氏が全世界関税を発表した2025年4月以来、最悪の1日となった＝16日、ニューヨーク/Michael Nagle/Bloomberg/Getty Images （CNN） 米中間選挙で躍進した民主党がAI（人工知能）インフラの整備にブレーキをかける可能性への懸念から、5日の米株式市場は急落し、時価総額で約2兆5000億ドル（約395兆円）が消失した。これを受けて世界各地の株式市場も大きく値を下げた。 韓国総合株価指数（KOSPI）は6日の取引開始時に約9％急落し、20分間にわたって売買が停止された。これに先立ち、5日の米ナスダック総合指数は5.52％下落。10月6日に付けた過去最高値からの下落率は10％を超え、調整局面入りして取引を終えた。 ナスダックはハイテク株が中心。今回の下落はトランプ米大統領が全世界を対象と</description>
+    </item>
+    <item>
+      <title>MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002939/</link>
+      <pubDate>2026/11/06 10:53</pubDate>
+      <description>Googleは2026年10月12日（米国時間）、システムの信頼性を確保するための考え方や実践手法をまとめた書籍『Site Reliability Engineering: How Google Runs Production Systems』の第2版を発表した。2016年に初版が出版されたもので、それ以来10年ぶりの全面改訂となる。 SREは、ソフトウェアエンジニアリングの手法をシステム運用に適用し、信頼性の向上と運用の効率化を図る考え方だ。今回の第2版は、Google社内や業界全体で蓄積された10年間の知見を反映し、内容を全面的に書き直したという。 この10年間でSREはどう変わったのか Googleは、SREの実践方法がこの10年間で、個別の手作業を中心とした運用から、プラットフォーム全体を対象とする自動化へと進化してきたと説明する。具体的には、次の6つの領域で変化があったとし、AI</description>
+    </item>
+    <item>
+      <title>日経平均株価、一時4300円安　AI投資不安で6万円割れ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB060K60W6A101C2000000/</link>
+      <pubDate>2026/11/06 09:50</pubDate>
+      <description>給与はそのままで、休日は週3日に――そんな働き方改革を実践している生成AIスタートアップがある。2023年3月創業で、スマートフォン向けAIチャットアプリ「RyzaChat:AI ライザと創るあなただけのひと夏の夢物語」などでも知られるSpiralAI（東京都千代田区）だ。 同社は26年6月、従来の土日祝日休みに金曜日を加え、給与を減額せずに週休2日制から週休3日制へ移行した。1日の就業時間は変えず、週の所定労働時間を約20％減らしながら、生産性を向上させて、従来と変わらない成果創出を目指している。 休日が増えるとなれば、社員は歓迎しそうなものだ。しかし、導入を発表した際の反応は意外なものだった。 「みんな喜んでくれると思ったら、誰一人として『やった』と言わなかった」と、同社の佐々木雄一CEOは、少し苦笑いを浮かべながら当時を振り返る。 週休3日制は、AI活用を加速させるための“劇薬” S</description>
+    </item>
+    <item>
+      <title>“スマートホーム＝リモコンがたくさんある家”から脱却へ!? 「IPv6で拡がるAIホーム」の世界とは　共通規格「Matter」の動向・技術について「Internet Week 2026」で講演</title>
+      <link>https://internet.watch.impress.co.jp/docs/interview/2154127.html</link>
+      <pubDate>2026/11/06 08:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2318db36600030f088978fb0d314962e7a5025f6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fflatt.tech%2Fcontent-slides%2Funauthorized-access-ai-pentesting-202611%2F01-1440.webp');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>全自動個人情報ダダ漏れシステム » p2ptk[.]org</title>
+      <link>https://p2ptk.org/privacy/5671</link>
+      <pubDate>2026/11/06 08:42</pubDate>
+      <description>セキュリティサービス部 佐竹です。 Claude Certified Associate - Foundations（CCAO-F） を受験＆合格しましたので、本試験が AI 時代に必要だと思った背景と、実際の Claude に関する試験のファーストインプレッションを記載しておこうと思います。 はじめに スコアと対策方法 CCAO-F とは Claude Code 出題範囲外 どんな方向けの試験か 何が学べるのか プロジェクトの使い方：指示とコンテキストの使い分け アーティファクトの使い方 コンテキストの限界、モデルの使い分け、コスト シークレットチャット（モード）の使い方 AI Fluency Framework に則った基本 コネクターの使い方 スキル（Skills）の使い方 ハルシネーションとバイアス AI を利用したことを、正しく説明する 差別的、性的コンテンツと禁止事項 個人プラ</description>
+    </item>
+    <item>
+      <title>Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002935/</link>
+      <pubDate>2026/11/06 09:12</pubDate>
+      <description>こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の公理系として AI に渡し、会話ごとに受付定理を組み立てさせて、その証明を処理系に検めさせました。 問題　業務ルールが複雑になると、AI エージェントは悪意なく判断を誤る（τ-bench 小売・gpt-4o で pass1 約 61%、pass8 約 25%） 提案　業務ルールを Lean に写し、会話ごとに「客の目的を満たしている」という定理を処理系に検めさせる。導けない書き込みは実行しない 途中経過　τ²-bench 金融ドメインの開発用 74 タスクのう</description>
+    </item>
+    <item>
+      <title>【特集】「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない - PC Watch</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2154157.html</link>
+      <pubDate>2026/11/06 07:48</pubDate>
+      <description>【ニューヨーク=今堀祥和、秋田咲】5日の米国株式市場で、ハイテク株比率の高いナスダック総合株価指数は5.5%急落し、半年ぶりの安値水準を付けた。米民主党が中間選挙で躍進し、データセンター（DC）規制への警戒が強まっている。人工知能（AI）関連株は総崩れの状態で、世界的な株安への懸念が高まる。ダウ工業株30種平均も1800ドル超（3%）下げ、前日の大幅高が帳消しとなった。幅広い主力株で構成するS&amp;amp;P500種株価指数</description>
+    </item>
+    <item>
+      <title>米巨大テック、トランプ氏になびいた代償　民主議員「屈服させる」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN055HH0V01C26A1000000/</link>
+      <pubDate>2026/11/06 07:48</pubDate>
+      <description>National Community Compactは、OpenAIが今後所有・運営するデータセンター（同社はデータセンターの呼び方を「Compute Campus」に変更した）に適用するものだ。施設ごとに地域との協定を設け、計画の初期段階から住民の意見を反映させ、取り組みの進捗を毎年公表する。 主な約束は、電力と必要なインフラの費用を全額負担し、計画の遅延や中止による費用を他の電力利用者に転嫁しないことだ。水の使用を抑えた冷却方式を優先し、施設ごとの電力・水使用量や第三者による騒音調査の結果も公開する。公職者とのNDAは、セキュリティ情報や企業秘密などの保護に必要な場合を除いて結ばない。地元住民の雇用や職業訓練も支援する。 地域への投資例として、ジョージア州エフィンガム郡では480万ドルの助成により、郡内の児童・生徒約1万4000人に無料の学校給食を提供する。オハイオ州パイク郡では、Op</description>
+    </item>
+    <item>
+      <title>GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/11/pdd-kit</link>
+      <pubDate>2026/11/06 03:25</pubDate>
+      <description>2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています。 PHP2Shell Is a Wakeup Call for AI in Cybersecurity - IEEE Spectrum https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability PHP2Shellの原因となったPHPは元々「Personal Hom</description>
+    </item>
+    <item>
+      <title>PR投げたらClaudeがレビューしてくれる仕組みを作ってみた</title>
+      <link>https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18</link>
+      <pubDate>2026/11/05 07:42</pubDate>
+      <description>高市早苗首相が、X（旧ツイッター）による発信を際立たせている。最近は特に長文化の傾向が目立ち、外からはうかがい知れない首相公邸内の様子も時にはつづる。投稿を重ねる首相の狙いを探った。</description>
+    </item>
+    <item>
+      <title>アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持</title>
+      <link>https://gigazine.net/news/20261105-us-data-center-vote-reject/</link>
+      <pubDate>2026/11/05 19:14</pubDate>
+      <description>台湾に拠点を置く不揮発性メモリメーカーMacronixは10月27日、2026年度第3四半期の業績を発表した。その説明会にて同社は、ROMの製造事業を段階的に縮小していく方針を明らかにした。現地メディアTaipei Taimesなどが報じている。 同社は、Nintendo Switchのゲームカードに搭載されたフラッシュメモリチップの製造メーカーのひとつとして知られる企業だ。同社のROM製造事業は、これにかかわる分野になると見られる。 Macronixは今回の業績発表にて、2026年度第3四半期の純利益が109億5000万台湾ドル（約530億円）に達し、過去最高を記録したと報告。生成AI向けメモリチップの堅調な需要を背景に、前年同期からの黒字転換を果たしたとした上で、設備投資による供給量の拡大や、高付加価値分野への注力など、今後の方針を明らかにした。一方で説明会にて同社会長の吳敏求氏は、R</description>
+    </item>
+    <item>
+      <title>300B LLMが動くRyzen AI Max+ PRO搭載のAIミニPCがGMKtecから、価格は125万円</title>
+      <link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2152816.html</link>
+      <pubDate>2026/11/04 11:17</pubDate>
+      <description>こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 この記事では、一般的なソフトウェアテストでは確かめきれない税の計算を、定理証明支援系 Lean と AI エージェントで検証した取り組みを紹介します。1 節から 4 節で、その手段と進め方を書きます。5 節から 7 節で、そこでわかった 3 つの成果（書き方が違っても計算は同じこと、並べる順番が一つに決まらないこと、選び方で税額が変わる選択肢があること）を書きます。8 節で、QA と開発の工程への組み込みに触れます。Lean や定理証明の知識は前提にしません。 1. 税の計算が法令どおりかを、全入力で確かめられるようにした 税の計算が法令どおりかどうかを、人が選んだテストケースの入出力だけでなく、すべての入力範囲について確かめられるようにしました。税制の条文を定理証明支援系 Lean で形式化し、freee</description>
+    </item>
   </channel>
 </rss>
