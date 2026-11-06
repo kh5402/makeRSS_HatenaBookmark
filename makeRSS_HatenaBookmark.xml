@@ -272695,5 +272695,110 @@ June 6, 2026</description>
       <pubDate>2026/11/04 11:17</pubDate>
       <description>こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 この記事では、一般的なソフトウェアテストでは確かめきれない税の計算を、定理証明支援系 Lean と AI エージェントで検証した取り組みを紹介します。1 節から 4 節で、その手段と進め方を書きます。5 節から 7 節で、そこでわかった 3 つの成果（書き方が違っても計算は同じこと、並べる順番が一つに決まらないこと、選び方で税額が変わる選択肢があること）を書きます。8 節で、QA と開発の工程への組み込みに触れます。Lean や定理証明の知識は前提にしません。 1. 税の計算が法令どおりかを、全入力で確かめられるようにした 税の計算が法令どおりかどうかを、人が選んだテストケースの入出力だけでなく、すべての入力範囲について確かめられるようにしました。税制の条文を定理証明支援系 Lean で形式化し、freee</description>
     </item>
+    <item>
+      <title>Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2154280.html</link>
+      <pubDate>2026/11/06 13:58</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6c39df9394f73023749fba68e5ae2afb1b3a2cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F358%2Ftop.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002899/</link>
+      <pubDate>2026/11/06 12:02</pubDate>
+      <description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder. - Ars Technica https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/ 2026年10月、第一級殺人未遂と食品汚染の罪でアメリカのノースカロライナ州在住のシェリル・ゲイツ氏は起訴されました。訴状(PDFファイル)によると、ChatGPTはシェリル氏に対して「夫のジェームズ氏が離婚しても何も残さない</description>
+    </item>
+    <item>
+      <title>OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表</title>
+      <link>https://gigazine.net/news/20261106-openai-gpt-6-cyber/</link>
+      <pubDate>2026/11/06 12:08</pubDate>
+      <description>1,000万件を超える個人情報の漏えいが、この5か月で15件公表された。AIは外からの攻撃を速く安くし、内側には新しい漏えいの経路を増やしている。公表事例と調査をたどって棚卸しした。 1,000万件を超える個人情報の漏えいが、この5か月で15件公表された。上場企業に限った集計では、同じ規模の漏えいは過去14年で3件だった。事例をたどると、AIは外からの攻撃を速く安くし、内側には新しい漏えいの経路を増やしている。 アクセスした先のサイトが止まっている。毎日のニュースで、どこかの情報漏えいが報じられている。 情報漏えいに絡んだ事故やインシデントが続いている。その背景には、AIの広がりがある。 おそらく私の住所も、クレジットカードの情報の一部も、どこかで漏れているのだろうと思う。恐ろしいのは、あまりに毎日起きているせいで、感覚が摩耗していることだ。 いま起きているセキュリティの変化は、大きな転換</description>
+    </item>
+    <item>
+      <title>Airbnbが旅のあらゆる側面をサポートしてくれる旅行特化型AIエージェントを2027年前半に発表すると予告</title>
+      <link>https://gigazine.net/news/20261106-airbnb-ai-travel-agent-2027/</link>
+      <pubDate>2026/11/06 11:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/52cf0295a5d71d0238043a60c27984d17113210b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F135%2Fintelligent_terminal.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002949/</link>
+      <pubDate>2026/11/06 14:39</pubDate>
+      <description>はじめに 私たちエンジニアの仕事はここ1年で大きく変貌しました。大きく変貌しましたよね？ 自分でコードを書く時間より、エージェントに仕事を渡し、戻ってきた差分を読み、次に何を任せるかを決める時間のほうが長くなった人も多いはずです。仕事術の本を出したのですが、修正をしなければ嘘だなって思ったほどです。 おい、とりあえず終わらせろ: そうすれば「動けない自分」が変わるから 作者:nwiizo（ぬうぃぞう）ダイヤモンド社Amazon コードを書き、動かし、直すところまでは、エージェントがかなりこなせるようになりました。では楽になったかというと、なっていません。手を動かす時間が減ったぶん、差分を読み、承認し、確かめる時間が増えただけだと考えています。書く前に何を作るかを決め、書いたあとは差分を読んでほかの変更とつなぎ合わせ、本当に動くかを確かめ、何かあった時に責任を持つ。重くなったのは、この書く前</description>
+    </item>
+    <item>
+      <title>日経平均株価の終値3643円安、下げ幅歴代3位　半年ぶり6万円割れ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/</link>
+      <pubDate>2026/11/06 12:52</pubDate>
+      <description>Googleが動画生成AI「Gemini Omni 1.2 Flash」を現地時間の2026年11月5日にリリースしました。 Gemini Omni 1.2 Flash: 15-second video and lower pricing https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Gemini Omni 1.2 Flash now GA: cost-effective video | Google Cloud Blog https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available?hl=en G</description>
+    </item>
+    <item>
+      <title>CCAO-F は全 Claude 利用者が取得すべき AI 時代に必要な試験でした - サーバーワークスエンジニアブログ</title>
+      <link>https://blog.serverworks.co.jp/claude/ccao-f-exam</link>
+      <pubDate>2026/11/06 08:49</pubDate>
+      <description>米Anthropicは11月5日（現地時間）、AIアシスタント「Claude」の新機能「Personal Finance」を発表した。銀行口座やクレジットカード口座を連携させ、自身の財務状況について自然言語で質問できる。米国の「Pro」「Max」「Ultra」プランのユーザーに、β版として順次提供する。Web版、デスクトップアプリ、iOS／Androidアプリで利用できる。 使い始めるには、サイドバーの「Personal Finance」を開き、金融データ接続サービスの米Plaidを通じて口座を接続する。最大16行まで接続できる。Claudeは、接続した口座の残高と最大2年分の取引履歴をもとに質問に答える。 例えば「今月のお金はどこに消えた？」と尋ねると、全口座の支出を合計し、家賃・光熱費や食費などのカテゴリごとに整理して表示する。前月との比較や、給料日までにいくら残るかの見通しを続けて聞</description>
+    </item>
+    <item>
+      <title>定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</link>
+      <pubDate>2026/11/05 10:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3bcbf6e1b094823f6e26f9634be2b07a38d914d3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2154%2F157%2F005.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>米ナスダック5%急落、NYダウ1800ドル安　AI株が総崩れ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN05CJ20V01C26A1000000/</link>
+      <pubDate>2026/11/06 06:19</pubDate>
+      <description>【シリコンバレー=山田遼太郎】米中間選挙で民主党が大勝したことを受け、米テクノロジー企業がロビー活動で軌道修正を迫られている。人工知能（AI）に寛容なトランプ政権に擦り寄ってきた巨大テック企業に、民主党議員は早くも対決姿勢を示す。「巨大テック企業を屈服させる」。民主の次期大統領候補との声も上がり始めたオソフ上院議員（南部ジョージア州選出）は3日の演説でテック企業をやり玉にあげた。民主議員から</description>
+    </item>
+    <item>
+      <title>OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002928/</link>
+      <pubDate>2026/11/06 07:22</pubDate>
+      <description>米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表されたGPT-6ファミリーの最上位モデルで、高度な推論やソフトウェア開発、科学研究などに対応する汎用モデルだ。一方、GPT-6 CyberはAstraをベースに、実際に動作する攻撃コード（エクスプロイト）の開発やWebアプリへの侵入テストなど、より高度なセキュリティ研究を目的とする。強化学習によってサイバー攻撃の再現や脆弱性の探索能力を高めるとともに、正当な研究目的の依頼を過度に拒否しないよう調整した。 OpenAIによると、GPT-6 Cybe</description>
+    </item>
+    <item>
+      <title>GitHub - rudderlabs/devbox: Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.</title>
+      <link>https://github.com/rudderlabs/devbox</link>
+      <pubDate>2026/11/06 06:46</pubDate>
+      <description>GitHub Next⁠⁠、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 GitHub Nextは2026年11月4日、Microsoft Researchと共同開発するProof-Driven Development Kit（PDD Kit）の仕組みと、ログイン処理への適用例を紹介した。PDD Kitは、開発者との対話を通じて要求を機械で検証できる仕様にまとめ、AIエージェントが生成したコードがその仕様を満たすことを数学的な証明で確かめる。現在はRustのコードを対象とする研究用プロトタイプで、提供は限定的な研究プレビューにとどまっている[1]。 PDD Kit - GitHub Next How we can secure 50% of the world&amp;#39;s software. Traditionally, formal methods have been mo</description>
+    </item>
+    <item>
+      <title>AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title>
+      <link>https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</link>
+      <pubDate>2026/11/06 06:20</pubDate>
+      <description>「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体（1/2 ページ） 温水洗浄便座「ウォシュレット」を世に送り出すなど、トイレメーカーとして有名なTOTO。同社はいま、“半導体ビジネス”で急成長を遂げている。 便器の製造で培ったセラミック加工技術を生かし、半導体製造装置向け部材を手掛けている。主力商品は、半導体チップの基板となるウエハーを固定する「静電チャック」と、半導体製造装置の天井材に使う「AD部材」だ。「セラミック事業」は、収益の柱に育っている。 TOTOの田村信也社長は、同事業について「静電チャックとAD部材の元は、便器に使う技術だ。研究者が『便器の中を平滑にして汚れが付かないようにしよう』と凝った結果、とても高価なものになってしまった。便器に使えば効果はあるが、商売にならない。使い道を模索し、たまたま半導体領域に行ったらピタッとはまった」と</description>
+    </item>
+    <item>
+      <title>エンジニアの成長速度は、試行錯誤を重ねた回数で決まる | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-02</link>
+      <pubDate>2026/11/05 09:18</pubDate>
+      <description>「『ソフトウェアアーキテクトのための意思決定術』のその先 ――AIで置き換わる仕事と残る意思決定」の発表資料です #意思決定術_findy https://findy.connpass.com/event/409797/ 前作：https://speakerdeck.com/snoozer05/…</description>
+    </item>
+    <item>
+      <title>PDD Kit</title>
+      <link>https://githubnext.com/projects/pdd-kit/</link>
+      <pubDate>2026/11/05 10:51</pubDate>
+      <description>今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェントの全てを開発するのは手間がかかりすぎる 良い分析体験のキモはエージェントが動く手前にある 分析エージェントから分析 MCP へ もともと作ろうとしていたエージェントは、チャット UI で分析を依頼するとデータ取得・考察・結果の可視化までを担うものだった。 ところが AI エージェント全体を作ろうとすると自作しなければいけない構成要素が多すぎる。全てに注力するには時間がかかるし、限られた時間で多くのものを作ろうとすると一つひとつのクオリティは下がってしまう。 そこで今年の7月からは心機一転 MC</description>
+    </item>
+    <item>
+      <title>豪Canvaが創業以来初の人員削減、従業員2割に影響　AIで失速 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGM040P20U6A101C2000000/</link>
+      <pubDate>2026/11/04 10:14</pubDate>
+      <description>中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。 Tencent Hy https://hy.tencent.ai/research/hy4 Tencent Launches Hy4, Joining the Ranks of the World&amp;#39;s Leading Open-Source AI Models - Tencent https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-m</description>
+    </item>
+    <item>
+      <title>月1200ドルのAIコストが電気代20ドルで済む？　NVIDIA「RTX Spark」搭載PCのデモで見えた“ローカルAI”の実力</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2611/04/news060.html</link>
+      <pubDate>2026/11/04 12:24</pubDate>
+      <description>AI生成画像の99.2%を検出し、誤検知は0.27%――米国のスタートアップ企業Pangram Labsは11月4日（現地時間）、このようにうたうAIモデル「Pangram Image 1.0」を発表した。「Google Chrome」に同社提供の拡張機能をインストールすることで、ブラウザ上でSNSやECサイトのAI生成画像を検知できるという。 Pangram Labsは7月に研究プレビューとして「Pangram Image 0.1」をリリース。今回発表したPangram Image 1.0は、ユーザーからのフィードバックを受けた修正版だ。0.1からディープフェイクや低解像度画像、最先端モデルによる生成物の検知性能を向上させたという。 実際の写真を基にした合成画像1200枚を使ったベンチマークテストでは99.96％を検知。その他複数のベンチマークテストでも99％を超える検知率を示したとする</description>
+    </item>
   </channel>
 </rss>
