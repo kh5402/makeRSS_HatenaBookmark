@@ -273013,5 +273013,53 @@ June 6, 2026</description>
       <pubDate>2026/11/06 13:15</pubDate>
       <description>AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 Bug Report: Privacy violation in User-Agent header · Issue #107757 · anthropics/claude-code https://github.com/anthropics/claude-code/issues/107757 今回、Claude Codeが外部サイトにアクセスする際、HTTPリクエストの「User-Agent」という情報にユーザーのメールアドレスを含めていたことがわかりました。User-Age</description>
     </item>
+    <item>
+      <title>ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例</title>
+      <link>https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy</link>
+      <pubDate>2026/11/07 18:20</pubDate>
+      <description>&amp;quot;TechLead Conference 2026 Autumn powered by connpass&amp;quot; の登壇資料です。</description>
+    </item>
+    <item>
+      <title>【注意事項】全日本ジュニアに出場する選手の頭髪について – 一般社団法人 全日本空手審判機構（JKJO）</title>
+      <link>https://karate-jkjo.jp/news/jkjo20th_hair_caution1/</link>
+      <pubDate>2026/11/07 17:12</pubDate>
+      <description>&amp;quot;TechLead Conference 2026 Autumn powered by connpass&amp;quot; の登壇資料です。 概要： 生成AIの進化によって、ソフトウェア開発のあり方は大きく変化しています。AIがコードを書く時代になり、技術的な知識や経験だけでなく、TechLeadとしてどのような価値を生み出すべきなのか、改めて考える必要があるのではないでしょうか。 本講演では、ICからTechLead、そしてVPoEへと役割を変えてきた自身の経験を振り返りながら、AI時代におけるTechLeadの役割と、優秀なTechLeadに求められる振る舞いについて考えます。現在TechLeadとして働いている方や、これからTechLeadを目指す方にとって、自身の役割や振る舞いを見つめ直す機会になればいいなーと思っています。 speakerdeck.com</description>
+    </item>
+    <item>
+      <title>ISUCON2026をClaude Codeが優勝したらしい｜laiso</title>
+      <link>https://sizu.me/laiso/posts/k59is4cnd77f</link>
+      <pubDate>2026/11/07 19:00</pubDate>
+      <description>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに変更を加えて結果を確かめることです。 今回の研究について、自分の理解はこうです。 「人間には不可能な能力が発見された」→ 違う 「重みを直接編集できると初めて証明した」→ 違う 「汎用LLMが重みの解析・編集を自律的に実行できると示した」→ そう よって過剰に驚かれているのではないかというのが個人的には思うところです。 とはいえせっかくなのでChatGPTのトークンが余っていたこともあり、CodexでAstraを使って同様の実験を試してみました。 問題設定 元</description>
+    </item>
+    <item>
+      <title>Claude Academy</title>
+      <link>https://academy.claude.com/ja/courses/introduction-to-evals</link>
+      <pubDate>2026/11/07 14:12</pubDate>
+      <description>Google は AI 開発プラットフォーム「Antigravity」のバージョン 2.29 を公開し、クラウド上でエージェントを動かす「リモートエージェント」と、音声で指示ができる「音声モード」を追加しました。 このバージョンには、会話ページや Automations ページの再設計、内蔵ブラウザの改善、Jupyter ノートブックの表示対応も含まれています。 現在、新しいバージョンは段階的に展開されていますが、筆者の Windows および Googlebook で利用可能になったことを確認しています。 クラウドで動くリモートエージェント リモートエージェントは、エージェントのセッションとツールを、ローカル PC ではなく Google が管理する隔離されたリモート環境で実行する機能です。 ブラウザを閉じたり PC をスリープにしたり、デスクトップとモバイルを切り替えたりしても、長時間</description>
+    </item>
+    <item>
+      <title>AI is dramatically accelerating AI research right now</title>
+      <link>https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</link>
+      <pubDate>2026/11/07 07:42</pubDate>
+      <description>本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必要があるかで色を決める形に落ち着きました。 仕組みそのものより、この基準の変わり方の方が、同じことをやろうとしている人の役に立つと思います。 ダッシュボードで足りるかを、先に棚卸しした ルーティンを作る前に、既にあるダッシュボードとアラームで何が見えていて、何が見えていないかを一覧にしました。 結論は「見えていない範囲がある」でした。ダッシュボードはクエリを書いた攻撃しか拾えません。想定していない種類の攻撃は、そもそも画面に出てきません。アラームも、鳴った後に誰かが実行者や送信元を引きに行かな</description>
+    </item>
+    <item>
+      <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+      <link>https://zenn.dev/rescuenow/articles/4c03a548cd6589</link>
+      <pubDate>2026/11/07 08:38</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/39690564e44beeeab0211dff7833116915806107/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F238%2Fgpt-6-cyber.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>自分は旧時代のエンジニアになってしまったのでは</title>
+      <link>https://www.mobtown.jp/article/old-engineer/</link>
+      <pubDate>2026/11/05 22:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6c39df9394f73023749fba68e5ae2afb1b3a2cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F358%2Ftop.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
