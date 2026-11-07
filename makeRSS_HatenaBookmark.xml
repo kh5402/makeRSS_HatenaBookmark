@@ -273061,5 +273061,43 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6c39df9394f73023749fba68e5ae2afb1b3a2cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F358%2Ftop.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com</title>
+      <link>https://www.famitsu.com/article/202611/93352</link>
+      <pubDate>2026/11/07 18:49</pubDate>
+      <description>信頼の厚さの評価はハーネスの設計から読み取った筆者の解釈で、プロジェクトの規模や開発文化の違いも影響しているはずです。各行の根拠はそれぞれの節で引用しています。 信頼が厚いZedとSentryは、ハーネスに書く量を最小限にして、残りをAIの判断に任せています。中間のOpenClawはAIを自走させる一方で、判断の仕方そのものを細かく取り決めています。信頼が薄いBunとPostHogは、機械で防げる間違いについてはAIの判断に頼らず、フックやリンターといった機械と、あらかじめ決めた手順で結果をそろえています。 ここでいうハーネスとは、コーディングエージェントがリポジトリで作業するときに従う仕組み一式のことで、指示ファイル、ルール、スキル、フック、権限設定、AIによる貢献のポリシーを含みます。GitHubは2,500以上のリポジトリのagents.mdを分析して書き方の指針をまとめていますが、</description>
+    </item>
+    <item>
+      <title>AI時代に求められる優秀なTechLeadの振る舞い</title>
+      <link>https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2</link>
+      <pubDate>2026/11/07 20:25</pubDate>
+      <description>「文部科学大臣杯 第20回JKJO全日本ジュニア空手道選手権大会」は青少年健全育成という基本理念のもと、武道としての品位・品格のある大会を目指しております。 その中で今大会に出場する選手の頭髪についての規定を下記の通りまとめましたので、選手・保護者の皆様にはご確認の上、ご理解ご了承の程お願い致します。 ◎茶髪・金髪など髪を染める行為は禁止となります（メッシュなど部分的に染める行為も同様に禁止です）。 ◎ライン、剃りこみ等を入れる行為も禁止となります。 ◎その他、過度な髪型（ちょんまげ、モヒカン等）も禁止です。 大会前日・当日の受付や計量の際に大会役員の方でチェックいたします。 違反している選手は主催者判断で失格とさせて頂きますのでご了承の程お願い致します。 尚、生まれつき色素が薄く茶髪・金髪に見える選手は必ず事前に所属道場の代表者を通じて大会実行本部までご連絡ください。 具体的な髪型につき</description>
+    </item>
+    <item>
+      <title>AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記</title>
+      <link>https://www.pospome.work/entry/2026/11/07/192125</link>
+      <pubDate>2026/11/07 19:23</pubDate>
+      <description>タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだようだけど、完全自律実行で優勝したので、すごい話題になっていた。以下の記事やポッドキャストで詳細が本人の一次情報として出ているので参照してほしい。 https://zenn.dev/luvtechno/articles/isucon2026-competition-day https://open.spotify.com/episode/3upWlmL3EZ16icnugHzRJf https://youtu.be/TeqlzPxliAI これを見て思ったのが、当日の完全自律実</description>
+    </item>
+    <item>
+      <title>Weight-Space Programming やってみた(やらせてみた)</title>
+      <link>https://zenn.dev/nwn/articles/cf9fe78aa33861</link>
+      <pubDate>2026/11/07 11:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2154238.html</link>
+      <pubDate>2026/11/06 14:56</pubDate>
+      <description>【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェクトの計画が変わることはないと考えている」。米新興のハットエイトが4日開いた決算説明会で、アッ</description>
+    </item>
+    <item>
+      <title>東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植　実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/nicam_claude_code_migration</link>
+      <pubDate>2026/11/07 04:26</pubDate>
+      <description>はじめに こんにちは、株式会社タイミーでプロダクトAIエンジニアとして働いている貝出です。直近は、LLMを利用した求人審査AIの開発や性能改善を行っています。 LLMを使った機能を開発していると、LLMの生成文を実際にユーザーに見せるケースがあります。そのときには「生成文に問題がないか」を評価する必要があります。解決策の一つとして、生成文をLLMに評価させる “LLM-as-a-Judge” があります。 ただし、LLM-as-a-Judgeを導入するには、そのLLM-as-a-Judge自体が意図通りに評価できているかを事前に確かめる必要があります（以下、この評価をメタ評価と呼びます）。メタ評価用のデータをきちんと用意しようとすると、思った以上に準備に時間がかかります。 本記事では、メタ評価用の正解データを事前に作り込むことをあえてやめた取り組みを紹介します。小さく始めて、運用の中で評価</description>
+    </item>
   </channel>
 </rss>
