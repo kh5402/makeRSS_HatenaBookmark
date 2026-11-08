@@ -273243,5 +273243,65 @@ June 6, 2026</description>
       <pubDate>2026/11/05 20:48</pubDate>
       <description>地中の菌糸ネットワークのシミュレーション。科学者たちは1万6000本以上の土壌サンプルと複雑なモデルを用いて、地球上のどこにこうしたネットワークがあるかを示す地図を初めて作成した。（VIDEO BY CORENTIN BISOT, VU AMSTERDAM, AMOLF, SPUN） 「菌類」と聞くと、壁に生えるカビや、腐った丸太に生えてくる肉質のものや、スーパーで売られているキノコなどを思い浮かべるかもしれない。しかし、菌類の生命活動のほとんどは、私たちの目の届かない場所で繰り広げられている。 いわゆるキノコは菌類の子実体と呼ばれる部分で、本体は土の中にある菌糸体だ。菌糸体は、菌糸と呼ばれる糸状の構造の集合体で、菌類のなかには植物の根と結びついてネットワークを形成し、植物の成長に必要な栄養素を供給するものもいる。2026年6月11日付けで学術誌「サイエンス」に発表された論文で、こうした菌</description>
     </item>
+    <item>
+      <title>Claude Artifact</title>
+      <link>https://claude.ai/artifact/5rGviSNATjR6aF6A54XALj</link>
+      <pubDate>2026/11/08 14:14</pubDate>
+      <description>Claude Codeで「Yes, and don&amp;#39;t ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある同ファイル104,185件のうち1,122件に少なくとも1件の秘密情報があり、合計1,379件が見つかりました。古いバージョンやフォーク、共有設定ファイル、保存されたエージェントのチャットログまで含めると2,539件、1,994リポジトリにのぼります。通知を受けた企業の1社は、キーが有効なままだったと確認しています。 秘密情報がファイルに残る仕組み Claude Codeは通常、シェルコマンドの実行前に確認を求めます。「</description>
+    </item>
+    <item>
+      <title>GitHub - DIYgod/pinky: Let AI agents use your phone, with you in the loop.</title>
+      <link>https://github.com/DIYgod/pinky</link>
+      <pubDate>2026/11/08 16:40</pubDate>
+      <description>ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角を現す作家も出てくる。 そこからさらに連載権を取り、ヒットさせて…なんて考えると長い道のりだが、それでも漫画家志望にとっては夢の第一歩の場所だ。 今、そこに急激にAI漫画が増えている。 作品数自体も増えているし、毎日のように投稿される。 そのせいで、ジャンプルーキーのランキングが、AI漫画にハックされつつある。トップ10にAI漫画が入ってくるのが珍しくなくなった。 俺は警告する。悪貨は良貨を駆逐する。 早めに、AI漫画とそうでない漫画で、サイトを分けるべきだ。 放置すれば、どんどんAI漫画が増え</description>
+    </item>
+    <item>
+      <title>【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html</link>
+      <pubDate>2026/11/08 15:14</pubDate>
+      <description>AIがAI開発を加速か　Anthropicの性能向上ペース約2倍に AIがAIの開発を速めている可能性がある。AI研究機関METRは11月5日、AnthropicのAIモデルの性能向上が、従来の約2倍のペースに速まったとする調査報告書を公開した。METRは、その主な要因が研究開発へのAI活用にあると推定している。 AnthropicのAIモデルの性能指標「AECI」の推移。2025年10月以降、性能向上のペースが従来の約1.9倍に速まったと推定した（出典：METR） ※クリックすると拡大画像が見られます METRはAnthropicの内部データや研究者への聞き取りを分析した。複数の性能テストを組み合わせた指標「AECI」では、2025年10月以降の性能向上ペースが、それ以前の約1.9倍に達した。従来なら約2年かかった進歩を、約1年で実現した計算になる。</description>
+    </item>
+    <item>
+      <title>Shizuku-Duplex: Japanese Full-Duplex Model for Natural Conversation</title>
+      <link>https://shizuku.ai/en/blog/1/</link>
+      <pubDate>2026/11/08 13:00</pubDate>
+      <description>MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAIエージェントと外部サービスをつなぐ共通の接続方式として使われています。その一方で、「MCPよりCLIで十分ではないか」と、MCPを使う意味が問い直された時期もありました。 CLIが支持されたのには理由があります。エージェントは必要なときにヘルプを読み、コマンドを組み合わせ、出力を加工できます。初期のMCP利用では、ツール定義や検索結果をまとめてモデルへ渡す実装が、コンテキストを圧迫する問題を生んでいました。初期化や、セッションを</description>
+    </item>
+    <item>
+      <title>Amazonで探す、ChatGPTが使いやすいノートパソコン10選｜持ち歩きと自宅作業で選ぶ｜スプリー | 軽やかノート</title>
+      <link>https://note.com/spry_bounce_note/n/n130dd232030e</link>
+      <pubDate>2026/11/08 10:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3eaf7c0ed979909c5c916760220d05e899f7bdb3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2154%2F253%2Fcanva1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>生成AI広告「ネガティブな印象」5割超　故人や実在人物の生成に抵抗感 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC0569T0V01C26A1000000/</link>
+      <pubDate>2026/11/08 01:31</pubDate>
+      <description>1. はじめに「Weight-Space Programming やってみた（やらせてみた）」という記事で、Qwenの重みを直接書き換え、ずんだもん口調にする実験が紹介されていました。 そこで、自分も参考記事の手法をもとに、Codexで同様の実験を試してみました。 2. Weight-Space Programmingとは「Weight-Space Programming」は、AIがモデルの内部を調べ、目的の動作になるように「重み」を直接書き換える方法です。 重みとは、モデルに保存されている大量の数値です。モデルは、その数値を使って文章を処理し、次に出す言葉を決めています。 口調を変える方法を比べると、次のようになります。 ・プロンプト：「ずんだもん口調で答えて」と指示する。 ・追加学習：回答例との誤差が減るように、重みを更新する。 ・Weight-Space Programming：編集</description>
+    </item>
+    <item>
+      <title>仕事、ドパ越えて利益 - オイオイオイ書くわアイツ</title>
+      <link>https://ttmmjm.hatenablog.com/entry/2026/11/06/135935</link>
+      <pubDate>2026/11/07 00:36</pubDate>
+      <description>nikke-pc-launcher-compromise_ja.md NIKKE PCランチャー侵害事案（2026年11月） この文書は英語の原文 nikke-pc-launcher-compromise.md の日本語訳です。2026-11-08 00:05 GMT時点の版をもとに翻訳しました。両者の内容が異なる場合は、英語の原文に従ってください。 🇬🇧 English · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇨🇳 简体中文 · 🇹🇼 繁體中文 · 🇹🇭 ไทย · 🇻🇳 Tiếng Việt · 🇮🇩 Bahasa Indonesia · 🇫🇷 Français · 🇩🇪 Deutsch · 🇪🇸 Español · 🇧🇷 Português (Brasil) · 🇷🇺 Русский · 🇵🇱 Polski · 🇹🇷 Tür</description>
+    </item>
+    <item>
+      <title>agent-skills/plugins/kuden/skills/writing/SKILL.md at main · shokai/agent-skills</title>
+      <link>https://github.com/shokai/agent-skills/blob/main/plugins/kuden/skills/writing/SKILL.md</link>
+      <pubDate>2026/11/07 06:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/39690564e44beeeab0211dff7833116915806107/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F238%2Fgpt-6-cyber.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>The components of agent memory</title>
+      <link>https://www.anthropic.com/research/components-of-agent-memory</link>
+      <pubDate>2026/11/07 06:42</pubDate>
+      <description>【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェクトの計画が変わることはないと考えている」。米新興のハットエイトが4日開いた決算説明会で、アッ</description>
+    </item>
   </channel>
 </rss>
