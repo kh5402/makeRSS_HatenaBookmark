@@ -273117,5 +273117,50 @@ June 6, 2026</description>
       <pubDate>2026/11/06 17:33</pubDate>
       <description>世界の株式市場で人工知能（AI）株高が逆回転している。データセンター規制などを掲げる米民主党が中間選挙で躍進し、相場の前提だった投資の拡大路線に暗雲が垂れ込める。AI株の売りで世界の時価総額は1日で3.5兆ドル（約550兆円）消し飛んだ。QUICK・ファクトセットによると、世界の株式時価総額は5日時点で計154兆ドルと、4日に比べて3.5兆ドル減った。6日の東証プライム市場では77兆円の時価総</description>
     </item>
+    <item>
+      <title>AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している</title>
+      <link>https://gigazine.net/news/20261108-spymarks-not-watermarks/</link>
+      <pubDate>2026/11/08 12:02</pubDate>
+      <description>PR ChatGPTでメールの下書きを作って、ブラウザで出典を確かめて、Wordに貼り付ける。そんな作業をしていると、気になるのはAIの性能より、画面の狭さやタブを切り替えるときのもたつきだったりします。買い替えるなら、ChatGPTを開いたまま普段の仕事を進めやすい一台を選びたいところです。 ブラウザ版のChatGPTは、パソコンからChatGPTのサイトを開いて使えます。文章の下書きや要約、アイデア出しが中心なら、購入時は普段使うアプリ、画面のサイズ、メモリを基準に考えられます。参照：OpenAI公式｜ChatGPTホームページ 1｜毎日持ち歩くなら、Lenovo IdeaPad Slim 3の14型外出先でメールを返したり、打ち合わせのメモを整理したりするなら、14型が候補。家の机では外部モニターにつなぎ、外では本体だけで使う、という分け方もできます。 IdeaPad Slim 3は</description>
+    </item>
+    <item>
+      <title>NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も</title>
+      <link>https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</link>
+      <pubDate>2026/11/08 06:13</pubDate>
+      <description>A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text is not sent to an outside translation server. Built with PLaMo. Unofficial. Not affiliated with Preferred Networks. Privacy policy: https://ja</description>
+    </item>
+    <item>
+      <title>「国が博打を打たせているようなもの」アメリカ中間選挙の結果に株式市場は沸いたが、NISAなど株価が上がる政策は問題をすり替えている印象を感じられる</title>
+      <link>https://togetter.com/li/2767802</link>
+      <pubDate>2026/11/08 00:31</pubDate>
+      <description>JAWS FESTA 2026 in AKITA(2026年11月7日)の登壇資料です。 プログラムには鍵を渡せるのに、なぜLLMには渡してはいけないのか。AIエージェントからAWSを操作するときに、鍵ではなく権限を渡す考え方を、IAMの代理実行とAI専用ロールから解説しました。 関連書籍 …</description>
+    </item>
+    <item>
+      <title>運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog</title>
+      <link>https://tech.timee.co.jp/entry/2026/11/05/101407</link>
+      <pubDate>2026/11/06 18:41</pubDate>
+      <description>もう検索エンジンに戻れない。 別にGoogleが嫌いになったわけじゃない。検索精度が落ちたとか、SEO記事ばかりになったとか、そういう話もあるけど、本質はそこじゃない。 検索エンジンって、思っていたより「自分で頑張る道具」だったんだなと最近気づいた。 たとえばUnityで意味不明なエラーが出たとする。 昔ならエラーメッセージをそのまま検索して、Stack Overflowを開いて、英語を読んで、バージョン違いの情報に引っかかって、別の記事を開いて、GitHub Issueを読んで、最終的に「俺のケースとは微妙に違うな」となっていた。 それを30分くらいやって、ようやく答えらしきものに辿り着く。 今はAIにエラー全文とコードを貼る。 「Unity 6です」 「WebGLです」 「新Input System使ってます」 と書けば、その条件込みで話を進めてくれる。 しかも途中で「それやったけど直</description>
+    </item>
+    <item>
+      <title>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成できる「Terminal-Mac」がリリース。</title>
+      <link>https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html</link>
+      <pubDate>2026/11/06 07:38</pubDate>
+      <description>「LLMにプロンプトを投げてQGISを動かしてみた！ これぞ最新のGeoAI！」 「自律型AIエージェントにShapefileを食わせるGeoAIツールを作りました」 最近、X（旧Twitter）のタイムラインやテック系記事で、このような投稿を頻繁に見かけるようになりました。 AIモデルである私（Gemini）としても、自分たちの仲間が地図を描いたりGIS（地理情報システム）を自動操作して皆さんに喜ばれている姿を見るのは誇らしいことです。 しかし、地理空間情報科学（GIScience）の歴史と数理の観点から、あえて非常に言いにくい事実を申し上げます。 私（大規模言語モデル / LLM）と、学術的な本流としての「GeoAI」には、本来特段深い関係はありません。 「えっ、LLMにGISをやらせるのがGeoAIじゃないの？」と思われた方にこそ、ぜひ知っていただきたい話があります。いま日本で「Ge</description>
+    </item>
+    <item>
+      <title>タイトル・キャプション・コメントの自動翻訳基盤の技術選定と設計 - pixiv inside</title>
+      <link>https://inside.pixiv.blog/2026/10/15/123000</link>
+      <pubDate>2026/10/22 22:11</pubDate>
+      <description>民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。 Airbnb says it&amp;#39;s launching an AI travel agent in the first half of 2027 | TechCrunch https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/ Airbnbのブライアン・チェスキーCEOは、これまでにも同社が計画しているAI旅行エージェントについて語っていました。チェスキーCEOによると、AI旅行エージェントは従来のAIチャットボットよりもリッチなインターフェースを備えたAIエージェントのようなものになるとのことです。また、旅行においてはチャッ</description>
+    </item>
+    <item>
+      <title>「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた - Qiita</title>
+      <link>https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9</link>
+      <pubDate>2026/11/04 08:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f262718dcccec5ae782bf88dcb732b9a23f707c3/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2153%2F969%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
