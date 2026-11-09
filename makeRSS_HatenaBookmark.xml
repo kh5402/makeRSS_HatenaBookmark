@@ -273372,5 +273372,71 @@ June 6, 2026</description>
       <pubDate>2026/11/05 23:06</pubDate>
       <description>はじめに こんにちは、株式会社タイミーでプロダクトAIエンジニアとして働いている貝出です。直近は、LLMを利用した求人審査AIの開発や性能改善を行っています。 LLMを使った機能を開発していると、LLMの生成文を実際にユーザーに見せるケースがあります。そのときには「生成文に問題がないか」を評価する必要があります。解決策の一つとして、生成文をLLMに評価させる “LLM-as-a-Judge” があります。 ただし、LLM-as-a-Judgeを導入するには、そのLLM-as-a-Judge自体が意図通りに評価できているかを事前に確かめる必要があります（以下、この評価をメタ評価と呼びます）。メタ評価用のデータをきちんと用意しようとすると、思った以上に準備に時間がかかります。 本記事では、メタ評価用の正解データを事前に作り込むことをあえてやめた取り組みを紹介します。小さく始めて、運用の中で評価</description>
     </item>
+    <item>
+      <title>サカナAIが上場準備　スタートアップで国内最大級、生成AI専業初 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/</link>
+      <pubDate>2026/11/09 17:10</pubDate>
+      <description>kazto求職中 @kazto_dev ITエンジニアの仕事を探しています。 現在50歳。ここ2年の職歴がとても良くなく、書類が全く通過できません。お話できれば、個々の事情をお伝えできます。言語はAIの力でなんでもできます。マネジメントの経験は浅いです。どうか、お話の機会をいただけませんでしょうか。よろしくお願いいたします。 2026-11-09 02:00:11 kazto求職中 @kazto_dev Engineering More Interesting. 楽しい仕事と楽しい人生を実現したい。 My opinions are my own, and I will never allow others to control my opinions. kazto.dev</description>
+    </item>
+    <item>
+      <title>Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される</title>
+      <link>https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/</link>
+      <pubDate>2026/11/09 14:13</pubDate>
+      <description>こんにちは、タイミーで開発生産性改善チームのマネージャーをしている新谷です。 みなさん Devin を使っていますか？タイミーでは日々 Devin が仕事をしてくれています。 Devinは単にタスクを依頼するツールにとどまらず、ソフトウェアファクトリーのフレームワークになりました。最近の進化が著しいので紹介させてください。本当にすごい。 ソフトウェアファクトリーとは LayerX CTOの松本さんが、Xの投稿で次のように述べていました。ソフトウェア開発は、人間がCoding Agentをどう使うかを考える段階を過ぎた。これからは開発プロセスそのものを、ループが閉じたプロダクトとして作る段階で、そこまでやって初めてファクトリーと言える、という主張です。 添付されていたスライドには、ループが3つ描かれています。 Inner Loop: 計画→実行→検証→補正を回して、1つのタスクを完了させる</description>
+    </item>
+    <item>
+      <title>X Mileさんと合同AI勉強会をして分かった、AIに任せるところと人がやるところ - ROXX開発者ブログ</title>
+      <link>https://techblog.roxx.co.jp/entry/2026/11/09/075141</link>
+      <pubDate>2026/11/09 14:09</pubDate>
+      <description>AI Vtuberの開発を進めているShizuku AIがリアルタイムでの日本語音声会話が可能なAI「Shizuku-Duplex」を開発したことを発表しました。 Shizuku-Duplex：自然な間合いで話す日本語 Full-Duplex モデル | Shizuku AI https://shizuku.ai/blog/1/ GPT-Live以降初となる、流暢に話せる日本語Full-duplexモデル、「Shizuku-Duplex」を開発しました！ 従来のAIとの音声対話はターン制で、少しぎこちない会話になりがちでしたが、Full-duplex(全二重対話)モデルを用いると人間同士の会話と同じように、「話しながら聞く」ということが可能になります！ https://t.co/M0ELrNpLLn— あき先生(Aki) (@cumulo_autumn) November 8, 2026</description>
+    </item>
+    <item>
+      <title>ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉</title>
+      <link>https://wirelesswire.jp/2026/11/94903/</link>
+      <pubDate>2026/11/09 12:53</pubDate>
+      <description>3日、Pruna AIから「P-H3-Image」という画像AIのオープンウェイトモデルが公開されました。このモデルは、動画モデルの「MiniMax H3（以下、H3）」を基に、蒸留や各部の改修によって、画像AIモデルとして最適化したものです。H3の特性を引き継いでおり、多様な画像を表現できるだけでなく、参照画像を読み込ませるだけで、その特徴を引き継いで実写風でもアニメ風でも画像を作れます。LoRAなどによる追加学習なしで、似た人物を出力することもできます。 参照画像だけでキャラの一貫性が保てる この連載のAIモデルである明日来子（あすきこ）さんを使って、さまざまなシチュエーションの画像を作ってみます。P-H3-Imageに、約1年前にNanoBananaで作成した三面図と表情差分をまとめた画像を参照（リファレンス）画像として与えます。そして、そのキャラクターと服装を維持したまま、さまざま</description>
+    </item>
+    <item>
+      <title>図書館の蔵書目録のためのルビエンジン「カーリル Furikake」をリリースしました</title>
+      <link>https://blog.calil.jp/2026/11/furikake.html</link>
+      <pubDate>2026/11/09 10:36</pubDate>
+      <description>超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す どういう手順で，僕らは滅ぶことになっているのか落合陽一です．今日は，超知能で人類は滅ぶのか，という話をしたい． この手の話は，結論から入るとだいたい空中戦になる．滅ぶ，滅ばない，煽りだ，楽観だ．なので今日は順番を変えて，まず手順を聞くところから始めたい．超知能で人類が絶滅する，と言う人たちは，具体的にどういう段取りで僕らが消えると考えているのか．誰が，何を，どの順番でやると，最後に人間がいなくなるのか． 調べてみると，手順は一本ではない．何本もの筋書きが，それぞれ違う論文や本の中で，違う時期に，違う人の手で組み立てられてきた．それを一本ずつ追ってみる．そのあとで，僕がここ数年考えてきた道具の自然化という枠組みと，『マタギドライヴ』という本で書いた態度から，この話を</description>
+    </item>
+    <item>
+      <title>AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/2154614.html</link>
+      <pubDate>2026/11/09 08:24</pubDate>
+      <description>MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「MCP SDK Tier 1」に到達したことを明らかにしました。 これによりRubyからMCPの最新機能であるステートレスな接続などを含む全機能を利用することが可能となり、Ruby開発者はMCPを活用したアプリケーションを安心して本番環境に投入できるようになります。 Tier 1は全機能のサポート MCP SDKは、以下の3つのティア（Tier）に分かれています。 Tier 1 すべてのプロトコル実装を完全にサポートしたSDK Tier 2 すべての</description>
+    </item>
+    <item>
+      <title>AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた</title>
+      <link>https://gigazine.net/news/20261108-pangram-image-ai-image-detection/</link>
+      <pubDate>2026/11/08 18:00</pubDate>
+      <description>1 ：ななしさん ：26/11/07(土) 17:26:04 ID:M2eeEPwg ※ツイ消し済み 3 ：ななしさん ：26/11/07(土) 17:27:46 ID:??? 権利意識がなんかアメリカーン 11 ：ななしさん ：26/11/07(土) 17:33:22 ID:??? ハリウッド映画の技術者系悪役みたいなやつだ 25 ：ななしさん ：26/11/07(土) 17:38:35 ID:??? Ammaar Reshi（アマール・レシ）氏は、Google DeepMindに所属しており、Geminiの主要な開発者向けプラットフォームであるGoogle AI Studioのプロダクト＆デザインリード（Product and Design Lead）を務めています。 4 ：ななしさん ：26/11/07(土) 17:28:57 ID:??? むしろ現行機のエミュってあるんだって驚いた</description>
+    </item>
+    <item>
+      <title>【MV】INMU KING（修正版）/ YAJU-MC</title>
+      <link>https://www.youtube.com/watch?v=RkcI7ase0H0</link>
+      <pubDate>2026/11/08 22:18</pubDate>
+      <description>AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.52点を記録し、より大規模なAIモデルを上回ったと報告されています。 Ripple-65B Preview, a Frontier Open-Weight Model | Ricursive Intelligence https://www.ricursive.com/ripple Ripple-65B Previewは12兆トークンで事前学習されており、最大1Mのコンテキスト長をサポートしています。Ripple-65B Previewは</description>
+    </item>
+    <item>
+      <title>ロピアがAIのキモ飯ポスターに実物を寄せてきてて草「これ作ってからAIにしたのか、AIに弁当寄せたのかどっちか気になる」「この発想はなかった」</title>
+      <link>https://togetter.com/li/2768126</link>
+      <pubDate>2026/11/08 20:54</pubDate>
+      <description>という世の中にもうすぐなると思う、という話をします。 ラクビル株式会社取締役CTOの塩塚です。 昨今のAI発展の流れの中で、人間がどういうことをやっていくべきかということについて、自分の中で現時点である程度の結論が出たので書き記したいと思います。 エントロピー増大の法則、またの名を熱力学第二法則と言います。ちなみに熱力学第一法則はエネルギー保存法則です。 孤立系、及び断熱系において不可逆変化が生じた場合、その系のエントロピーは増大する Wikipedia「熱力学第二法則」「エントロピーとは何か」を詳しく説明すると長くなってしまうのですが、「乱雑さ」と説明されたりします。 一番よく聞く喩えが「コーヒーにミルクを入れて放っておくとミルクコーヒーになるが、ミルクコーヒーを放っておいてもコーヒーとミルクに分かれることは(ほぼ)ない」というものです。 整頓されているものは放っておいたらぐちゃぐちゃに</description>
+    </item>
+    <item>
+      <title>NIKKE PCランチャー侵害事案（2026年11月） (NIKKE PC launcher, Nov 2026)</title>
+      <link>https://gist.github.com/MotherSphere/81b3e830a07f4d25852d201b9f1c78d4</link>
+      <pubDate>2026/11/05 12:15</pubDate>
+      <description>&amp;quot;,&amp;quot;unk_token&amp;quot;:null,&amp;quot;pad_token&amp;quot;:&amp;quot;&amp;lt;|vision_pad|&amp;gt;&amp;quot;},&amp;quot;chat_template_jinja&amp;quot;:&amp;quot;{%- set image_count = namespace(value=0) %}\n{%- set video_count = namespace(value=0) %}\n{%- macro render_content(content, do_vision_count, is_system_content=false) %}\n {%- if content is string %}\n {{- content }}\n {%- elif content is iterable and content is not mapping %}\n {%- for item in content %}\n {%- if &amp;#39;image&amp;#39; in it</description>
+    </item>
+    <item>
+      <title>herdr のデスクトップアプリと herdr-core を TUI 版と比べながら試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/reona-herdr-app-herdr-core/</link>
+      <pubDate>2026/11/05 09:16</pubDate>
+      <description>はじめに こんにちは、株式会社タイミーでプロダクトAIエンジニアとして働いている貝出です。直近は、LLMを利用した求人審査AIの開発や性能改善を行っています。 LLMを使った機能を開発していると、LLMの生成文を実際にユーザーに見せるケースがあります。そのときには「生成文に問題がないか」を評価する必要があります。解決策の一つとして、生成文をLLMに評価させる “LLM-as-a-Judge” があります。 ただし、LLM-as-a-Judgeを導入するには、そのLLM-as-a-Judge自体が意図通りに評価できているかを事前に確かめる必要があります（以下、この評価をメタ評価と呼びます）。メタ評価用のデータをきちんと用意しようとすると、思った以上に準備に時間がかかります。 本記事では、メタ評価用の正解データを事前に作り込むことをあえてやめた取り組みを紹介します。小さく始めて、運用の中で評価</description>
+    </item>
   </channel>
 </rss>
