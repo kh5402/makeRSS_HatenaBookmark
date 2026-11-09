@@ -273438,5 +273438,95 @@ June 6, 2026</description>
       <pubDate>2026/11/05 09:16</pubDate>
       <description>はじめに こんにちは、株式会社タイミーでプロダクトAIエンジニアとして働いている貝出です。直近は、LLMを利用した求人審査AIの開発や性能改善を行っています。 LLMを使った機能を開発していると、LLMの生成文を実際にユーザーに見せるケースがあります。そのときには「生成文に問題がないか」を評価する必要があります。解決策の一つとして、生成文をLLMに評価させる “LLM-as-a-Judge” があります。 ただし、LLM-as-a-Judgeを導入するには、そのLLM-as-a-Judge自体が意図通りに評価できているかを事前に確かめる必要があります（以下、この評価をメタ評価と呼びます）。メタ評価用のデータをきちんと用意しようとすると、思った以上に準備に時間がかかります。 本記事では、メタ評価用の正解データを事前に作り込むことをあえてやめた取り組みを紹介します。小さく始めて、運用の中で評価</description>
     </item>
+    <item>
+      <title>危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました</title>
+      <link>https://zenn.dev/karamage/articles/f59f4109030d93</link>
+      <pubDate>2026/11/09 17:55</pubDate>
+      <description>米AI開発企業アンソロピックのロゴ（資料写真、2026年9月17日撮影）。(c)ANDREJ IVANOV/AFP 【11月9日 AFP】人工知能（AI）の研究者や、AIブームをけん引する企業と密接な関係を持つ思想運動「効果的利他主義（EA）」は、一般社会からの注目が高まる一方で、「カルト的」「過度に危機をあおっている」といった批判にもさらされている。 明確な定義が難しいこの運動は、今も拡大を続けている。ドナルド・トランプ米政権や米シリコンバレーの有力者らから激しい批判を受ける中、運動の関係者らは、自分たちの理念に対する理解を広めようとしている。 EAの基本理念は「重要な社会問題の解決に向け、資金や時間をできる限り効果的に使うこと」だ。意図的に感情を排したその手法は、時に現実離れしていると批判されてきた。 米紙ニューヨーク・ポストはEAを「奇妙なカルト集団」と呼び、保守系ニュースサイトのデ</description>
+    </item>
+    <item>
+      <title>“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/09/news039.html</link>
+      <pubDate>2026/11/09 11:08</pubDate>
+      <description>AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。 MAIA by Zyphra https://zyphra.com/maia Our mission at Zyphra is to make open superintelligence accessible to everyone. Today, we&amp;#39;re excited to beta release MAIA, the application layer of our fullstack. Meet your new colleague. A proactive, multiplayer AI agent for teams. Free during beta: https://t.co/lZXowki0TD pic.twitter.com/YQhZbieZop— Zyphra (@Zyph</description>
+    </item>
+    <item>
+      <title>VTuberやタレントのライブ配信をAIが監視──不適切発言などを事務所に通知するサービス登場</title>
+      <link>https://kai-you.net/article/97101</link>
+      <pubDate>2026/11/09 17:57</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e120f357c45b32f3b272d8d647f2581992bb2391/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1217054.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？</title>
+      <link>https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/</link>
+      <pubDate>2026/11/09 15:20</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2e3c0eb9b7705de71e0b62e47d92952ad44b7921/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2154%2F838%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>記事は短くていい</title>
+      <link>https://zenn.dev/herp_inc/articles/90d6052024a30f</link>
+      <pubDate>2026/11/09 16:23</pubDate>
+      <description>人工知能（AI）開発のSakana AI（サカナAI、東京・港）は新規株式公開（IPO）の準備に入った。日米市場を念頭に、早ければ2027年秋に上場させる。計画通り進めば、生成AI専業として国内初となる。初値の時価総額はメルカリの約6800億円を上回り、国内スタートアップで過去最大級の案件となる可能性がある。IPOの助言役としてこのほど、米ゴールドマン・サックスを起用した。国内では大和証券グループ本社</description>
+    </item>
+    <item>
+      <title>ラーメンでもスシでもない！ 「焼き魚定食」に外国人客が行列　チャットGPTも勧める“日本の伝統的な朝食”の魅力とは | AERA DIGITAL（アエラデジタル）</title>
+      <link>https://dot.asahi.com/articles/-/297024?page=1</link>
+      <pubDate>2026/11/09 12:45</pubDate>
+      <description>フィジカル・スーパーインテリジェンスは、量子コンピューティングにおける主要な未解決問題の解決を支援するため、アンソロピックの未公開モデルを使用したと発表した。Christophe Gateau/picture alliance via Getty Images AIの支援によって、量子コンピューティング分野における最大級の未解決問題の一つがついに解明された。 フィジカル・スーパーインテリジェンス（Physical Superintelligence Inc.：PSI）は11月6日、量子コンピューティングにおける長年の難問であった「アーロンソン＝アンバイニス予想（Aaronson-Ambainis conjecture）」を完全に証明するため、アンソロピックの未公開AIモデルを採用したと発表した。 この物理学研究所によると、本予想（本質的には論理的根拠に基づく未証明の数学的仮説）は2008年</description>
+    </item>
+    <item>
+      <title>「ITエンジニアの仕事を探しています」実務経験25年の50歳のエンジニアが書類選考を全く通過できずにXで求職活動した投稿が話題に「年齢足切りとAIのダブルパンチか」</title>
+      <link>https://togetter.com/li/2768439</link>
+      <pubDate>2026/11/09 15:10</pubDate>
+      <description>AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。 Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values | Nous Research https://nousresearch.com/arete 中国企業が開発するオープンウェイトAIモデルは高い性能を備えており、AIモデルの内部で使用する重みデータが公開されているため、ユーザーが自分のPCで動かしたり独自に改良したりできます。一方で、政治的に敏感な質問に対して</description>
+    </item>
+    <item>
+      <title>画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/09/2000002982/</link>
+      <pubDate>2026/11/09 12:04</pubDate>
+      <description>AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証する「Lean」による確認も完了しているとのことです。 A proof of the Aaronson-Ambainis conjecture · PSI https://psi.inc/research/aaronson-ambainis/ 量子コンピューターは量子力学の性質を利用することで、従来のコンピューターでは膨大な時間がかかる計算を高速に処理できると期待されています。例えば1994年に数学者のピーター・ショア氏が考案した「ショアのアルゴ</description>
+    </item>
+    <item>
+      <title>Devinはソフトウェアファクトリーのフレームワークになった - Timee Product Team Blog</title>
+      <link>https://tech.timee.co.jp/entry/2026/11/09/120755</link>
+      <pubDate>2026/11/09 13:24</pubDate>
+      <description>2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 Training a Text-to-Image Model for $21K | Field Notes by Linum https://www.linum.ai/field-notes/pjit-21k Linum-AI/pjit-21k: 2B-parameter pixel-space text-to-image model (Pyramid-JiT) trained for $21K https://github.com/Linum-AI/pjit-21k P</description>
+    </item>
+    <item>
+      <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった - Qiita</title>
+      <link>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3</link>
+      <pubDate>2026/11/08 22:28</pubDate>
+      <description>3日、Pruna AIから「P-H3-Image」という画像AIのオープンウェイトモデルが公開されました。このモデルは、動画モデルの「MiniMax H3（以下、H3）」を基に、蒸留や各部の改修によって、画像AIモデルとして最適化したものです。H3の特性を引き継いでおり、多様な画像を表現できるだけでなく、参照画像を読み込ませるだけで、その特徴を引き継いで実写風でもアニメ風でも画像を作れます。LoRAなどによる追加学習なしで、似た人物を出力することもできます。 参照画像だけでキャラの一貫性が保てる この連載のAIモデルである明日来子（あすきこ）さんを使って、さまざまなシチュエーションの画像を作ってみます。P-H3-Imageに、約1年前にNanoBananaで作成した三面図と表情差分をまとめた画像を参照（リファレンス）画像として与えます。そして、そのキャラクターと服装を維持したまま、さまざま</description>
+    </item>
+    <item>
+      <title>freeeは「AIコスト問題」をどう乗り越えた？　月100万件規模の処理で、汎用LLM比50分の1に</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/30/news021.html</link>
+      <pubDate>2026/11/07 10:47</pubDate>
+      <description>画像生成AIは便利な技術ですが、ロマンス詐欺やフェイクニュースなどに悪用されることもあります。生成AIで作成され画像を高精度に見分けることが可能なブラウザ拡張機能「Pangram AI Detection」が登場したので、実際にAI画像を検出できるのか試してみました。 Introducing Pangram Image 1.0 | Pangram https://www.pangram.com/blog/introducing-pangram-image-1-0 Pangram AI Detection - Chrome ウェブストア https://chromewebstore.google.com/detail/pangram-ai-detection/eakpippijmmohmdlpgcjnipolcgciaga Pangram AI Detection – 🦊 Firefox</description>
+    </item>
+    <item>
+      <title>Markdownのウェブを構築する</title>
+      <link>https://mehori.com/diary/2026/11/08/</link>
+      <pubDate>2026/11/08 20:07</pubDate>
+      <description>1 ：ななしさん ：26/11/07(土) 17:26:04 ID:M2eeEPwg ※ツイ消し済み 3 ：ななしさん ：26/11/07(土) 17:27:46 ID:??? 権利意識がなんかアメリカーン 11 ：ななしさん ：26/11/07(土) 17:33:22 ID:??? ハリウッド映画の技術者系悪役みたいなやつだ 25 ：ななしさん ：26/11/07(土) 17:38:35 ID:??? Ammaar Reshi（アマール・レシ）氏は、Google DeepMindに所属しており、Geminiの主要な開発者向けプラットフォームであるGoogle AI Studioのプロダクト＆デザインリード（Product and Design Lead）を務めています。 4 ：ななしさん ：26/11/07(土) 17:28:57 ID:??? むしろ現行機のエミュってあるんだって驚いた</description>
+    </item>
+    <item>
+      <title>Metaの「Muse」に音声会話と表情付きアバター　米国から順次提供</title>
+      <link>https://japan.cnet.com/article/35254464/</link>
+      <pubDate>2026/11/06 09:05</pubDate>
+      <description>This post discusses a public METR report on AI R&amp;amp;D acceleration at Anthropic. I did not work on this project or see the unredacted report.1 All opinions are my own and do not represent METR or the report authors. Thanks to Ryan Greenblatt for discussion, feedback, and help with modeling, and Daniel Kokotajlo, Eli Lifland, and Hjalmar Wjik for comments. Earlier this week, Anthropic stated in their</description>
+    </item>
+    <item>
+      <title>Geminiに文章執筆を依頼するスキル「Gemini Write」を作った</title>
+      <link>https://blog.lai.so/gemini-write/</link>
+      <pubDate>2026/11/03 18:03</pubDate>
+      <description>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成するアプリ「Terminal-Mac」がリリースされています。詳細は以下から。 AIエージェントにタスクをまかせる際、セキュリティ的にホストマシンのフルアクセス権限を与えるのは避けたいため、VMPalやGhostVMなどAIエージェント用の仮想マシンを作成するためのアプリが増えてきていますが、新たに、ターミナル内にAIエージェント用のmacOS仮想マシンを作成できるオープンソースのツール「Terminal-Mac」がリリースされています。 A separate macOS desktop for computer-use agents, viewed and controlled from a terminal. terminal-mac is an early release candidate</description>
+    </item>
   </channel>
 </rss>
