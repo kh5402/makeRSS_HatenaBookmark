@@ -273528,5 +273528,116 @@ June 6, 2026</description>
       <pubDate>2026/11/03 18:03</pubDate>
       <description>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成するアプリ「Terminal-Mac」がリリースされています。詳細は以下から。 AIエージェントにタスクをまかせる際、セキュリティ的にホストマシンのフルアクセス権限を与えるのは避けたいため、VMPalやGhostVMなどAIエージェント用の仮想マシンを作成するためのアプリが増えてきていますが、新たに、ターミナル内にAIエージェント用のmacOS仮想マシンを作成できるオープンソースのツール「Terminal-Mac」がリリースされています。 A separate macOS desktop for computer-use agents, viewed and controlled from a terminal. terminal-mac is an early release candidate</description>
     </item>
+    <item>
+      <title>「Claude Fable 5.2」登場、出力速度を最大30％向上　API料金は2割値下げ</title>
+      <link>https://japan.cnet.com/article/35254625/</link>
+      <pubDate>2026/11/10 07:00</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a2cea735f5de33e72d8e008272279414a58ffe0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2154%2F944%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>暴走は必要悪か、自由を謳歌するAI　アンソロピックが気づいた｢感情｣ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/</link>
+      <pubDate>2026/11/10 07:45</pubDate>
+      <description>Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表 Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 Why did Google donate Agent Substrate and gVisor to the @CloudNativeFdn? AI agents spend 90%–95% of their time idle waiting for models, yet need sub-se</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2へのプロンプト</title>
+      <link>https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2</link>
+      <pubDate>2026/11/10 07:21</pubDate>
+      <description>We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges. Claude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, reasoning, and vision. During prerelease testing they’ve helped our engineers complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open</description>
+    </item>
+    <item>
+      <title>政府、大学に防衛専門研究所　AI・宇宙など先端技術いかし装備品開発 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA091EZ0Z01C26A1000000/</link>
+      <pubDate>2026/11/09 21:04</pubDate>
+      <description>Claudeなどの高性能AIサービスには応答履歴に含まれる重要情報を記録しておくメモリ機能が搭載されています。Claudeのメモリ機能についての詳細をAnthropicが公式に解説しています。 The components of agent memory \ Anthropic https://www.anthropic.com/research/components-of-agent-memory 人間の脳は睡眠中に記憶を整理していると考えられています。AIでも同様に「推論処理を行う期間」とは別に「メモリの整理を行う期間」を設けることで性能が向上するという研究結果が報告されています。例えばGoogleはAIに「睡眠フェーズ」を設けることで知識の習得を補助できるという研究結果を報告しているほか、AnthropicもClaudeに「Dreaming」というメモリ整理機能を搭載していることを公</description>
+    </item>
+    <item>
+      <title>Meta、MuseとMeta AIを強化　記憶力とタスク実行能力が向上</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2154793.html</link>
+      <pubDate>2026/11/09 17:01</pubDate>
+      <description>クラウド・AI領域が好調、業績をけん引した 業績をけん引したのは、法人向けの通信サービスやクラウドサービス、セキュリティ、AIサービスなどを含むエンタープライズ事業だ。売上高は同11.8％増の5389億円で、そのうちAI計算基盤などを含む「クラウド・AI」領域の売上高は同36.7％増となった。営業利益は同19.9％増の1248億円だった。北海道苫小牧市のAIデータセンターについては、2026年度中の開業に向けて順調に進んでいるとした。 モバイルサービスや電力サービスなどのコンシューマ事業は売上高1兆6025億円（同8.6％増）、「Yahoo! JAPAN」や「LINE」での広告関連サービスなどを含むメディア・EC事業は売上高8947億円（同8.7％増）、キャッシュレス決済サービスなどのファイナンス事業は売上高2419億円（同27.5％増）だった。</description>
+    </item>
+    <item>
+      <title>AI株「売られすぎ」論の落とし穴　揺れるEPS予想の信頼性 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB081AG0Y6A101C2000000/</link>
+      <pubDate>2026/11/09 16:59</pubDate>
+      <description>大量のPRのレビューで疲弊していませんか？ Claude CodeにPRを先にレビューさせて、危ないPRだけ自分に回すデスクトップアプリ「CC Auto Review」を作りました。 コードも公開しています このツールを作るときは、AIに任せるが、AIを信じすぎないという方針を最後まで守りました。 その方針をどうコードに落としたのかを、順番に書いていきます。 AIが書く速さに人間が読む速さは追いつけない AIが実装するスピードは上がり続けていますが、人間がコードを読むスピードはほとんど変わっていません。 全部を人間が読むやり方では、レビュー待ちの山が積み上がるだけです。 この問題はClaude Codeを作っているAnthropicのチームも抱えていました。 Claude Codeのコードは約90%をClaude自身が書き、6月から9月にかけてマージされたPRは2倍以上に増えたそうです。</description>
+    </item>
+    <item>
+      <title>AIリスクへの警鐘で批判浴びる「効果的利他主義」、理念への理解求める</title>
+      <link>https://www.afpbb.com/articles/-/3661578</link>
+      <pubDate>2026/11/09 20:18</pubDate>
+      <description>“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ（1/3 ページ） 「最終的にスシローが全て買う」―― 。 海洋テックに関するパネルディスカッションの最中に、こんな宣言が飛び出した。“おいしい魚”をこれからも食べ続けられるようにするため、回転ずしチェーン「スシロー」が手を組んだのは、異業種であるIT大手の富士通だ。 日本は豊かな漁場に恵まれている。しかし、漁業や養殖の担い手の高齢化が進み、日本近海の海水温も世界平均の2倍以上のペースで上昇していることから、海の恵みを食卓に届け続けることが難しくなりつつある。その一方で、世界的なすし人気を背景に、日本の水産物への需要は高まっている。 生産者や外食チェーンもそれぞれ対策を進めてきたが、1社で取り組むには限界がある。そこで、高知県の宿毛（すくも）湾を舞台に、異業種が連携し、新たな海洋</description>
+    </item>
+    <item>
+      <title>チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場</title>
+      <link>https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/</link>
+      <pubDate>2026/11/09 20:13</pubDate>
+      <description>総合ネットセキュリティ企業のイー・ガーディアン株式会社が、芸能事務所やタレント／クリエイター事務所やVTuberの運営組織向けの新サービス「ライブ配信AI監視ソリューション」を発表した。 11月5日からベータ版の提供を開始している。 同サービスでは、事務所に所属するタレントのライブ配信の映像／音声／コメントをAIが監視。 不適切な発言や個人情報の映り込み、コメント欄での誹謗中傷や荒らしなどを検知した場合、担当マネージャーに通知する。 不適切な発言や個人情報の映り込みなどの“放送事故”をAIが検知「ライブ配信AI監視ソリューション」は、タレントの配信を24時間365日監視するAIサービス。 タレントが配信を開始すると、AIが自動的に検知して監視を開始。予定外の突発的な配信や、深夜／休日の配信にも対応できる。 監視対象は映像／音声／視聴者コメントの3つ。映像からは個人情報や第三者の映り込み、音</description>
+    </item>
+    <item>
+      <title>盗んだ情報をAIに査定させるインフォスティーラー「VOLTA」についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/09/144357</link>
+      <pubDate>2026/11/09 14:56</pubDate>
+      <description>元の日記はこれだ。 https://anond.hatelabo.jp/20261108174809 増田とブクマカの反応について、取り上げて自分の意見を書く。 ・「AI漫画が台頭しAI漫画家同士が競争した方が漫画界のためになるかもしれない」 そうかもしれない。特に否定もしない。 自分の主張は、「ジャンプルーキーが手描き作家の育成を目指すなら」という条件文だ。 ジャンプルーキーは、過去、連載争奪ランキングでトップを取ったAI漫画の資格を剥奪している。 つまり、AI漫画家ではなく手描き漫画家を育てるサイト、という立ち位置をとっているのだと思う。 だが、今のランキングの集計方法は、AI漫画に過剰に有利なのだ。 ・「原作者候補も探しているのではないか」 AI漫画の多くは、出力される画像の出来に寄りかかっていて、ストーリーもキャラクターもネームも弱い。 根本的に漫画として成立していないようなものが</description>
+    </item>
+    <item>
+      <title>完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/11/09/174651.html</link>
+      <pubDate>2026/11/09 15:04</pubDate>
+      <description>金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。 Goldman Restricts Traders and Bankers From Using Some AI Tools - Bloomberg https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools Goldman Sachs Is Pulling Claude Code From Its Bankers and Traders | State of AI https://www.thestateofai.com/news/goldman-sachs-claude-code-t</description>
+    </item>
+    <item>
+      <title>未発表のアンソロピック製AIモデルが量子コンピューティングの主要な問題の解決に貢献 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2611-anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi/</link>
+      <pubDate>2026/11/09 08:59</pubDate>
+      <description>kazto求職中 @kazto_dev ITエンジニアの仕事を探しています。 現在50歳。ここ2年の職歴がとても良くなく、書類が全く通過できません。お話できれば、個々の事情をお伝えできます。言語はAIの力でなんでもできます。マネジメントの経験は浅いです。どうか、お話の機会をいただけませんでしょうか。よろしくお願いいたします。 2026-11-09 02:00:11 kazto求職中 @kazto_dev Engineering More Interesting. 楽しい仕事と楽しい人生を実現したい。 My opinions are my own, and I will never allow others to control my opinions. kazto.dev</description>
+    </item>
+    <item>
+      <title>中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少</title>
+      <link>https://gigazine.net/news/20261109-nous-research-arete-27b/</link>
+      <pubDate>2026/11/09 13:02</pubDate>
+      <description>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 ソニー系の研究組織Sony AIなどに所属する研究者らが7月に発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策（ガードレール）がどれほど機能し</description>
+    </item>
+    <item>
+      <title>超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中</title>
+      <link>https://gigazine.net/news/20261109-pjit-21k/</link>
+      <pubDate>2026/11/09 07:17</pubDate>
+      <description>こんにちは、ROXXでEM（エンジニアリングマネージャー）を務めている窪内です。 10月14日、同じビルに入っているX Mileさんと、合同でAI勉強会を開きました！ 両社あわせて30名弱が集まり、LT6本とブレイクアウト5部屋を2時間に詰め込んだ、にぎやかな会になりました。 同じビルで、同じ人材紹介の領域にいる2社ですが、お互いの開発の中身をじっくり見せ合うのは今回が初めて。使っている道具はけっこう違うのに、話を聞いていると「そこ、うちも悩んでます」という場面が何度もありました。この記事では、当日のLTとブレイクアウトで出た話をたっぷり紹介していきます。 1. 勉強会の目的と、準備の進め方 きっかけと目的 X Mileさんとは、同じビルに入っていて、どちらもノンデスク領域の人材紹介を手がけています。両社のCTOがあるイベントで知り合い、「せっかく同じビルなんだから、勉強会をやりましょう」</description>
+    </item>
+    <item>
+      <title>日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応</title>
+      <link>https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/</link>
+      <pubDate>2026/11/09 12:23</pubDate>
+      <description>たった9BのAIが、ソフトウェア産業の終わりを告げるかもしれない さきほど、ちょっとしたプログラムを作った。 名前は「mightyCode」。 GitHubで公開しているので、興味のある人は見てみてほしい。 https://github.com/shi3z/mightyCode やっていることは、実に単純だ。 Apple Siliconを搭載したMacの上で、小さなローカルLLMを動かし、それをClaude Codeから利用できるようにする。ただそれだけのプログラムである。 使用するLLMは、DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-hereticという、名前だけはやたらと長いモデルだ。9B、つまり90億パラメータ程度のモデルである。これを4ビットに量子化し、AppleのMLXで動かす。DeepSeek-V4-ProをQwen3.5-9Bをベースに蒸留し、</description>
+    </item>
+    <item>
+      <title>Goodbye Claude, Hello Pi</title>
+      <link>https://caleb.software/posts/claude-to-pi.html</link>
+      <pubDate>2026/11/08 14:20</pubDate>
+      <description>INMU KINGから、削除の原因・問題になりうる性的要素を排除したものです。問題のある歌詞の音声部分全てに規制を入れています。本動画はYouTubeコミュニティガイドラインの「下品な表現に関するポリシー」に一切違反していません。 ※INMU KINGの二次利用における利用規約については、ニコニコモンズを参照してください。 #例のアレ #ai #野獣先輩 #INMUKING</description>
+    </item>
+    <item>
+      <title>アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1</title>
+      <link>https://gigazine.net/news/20261108-ripple-65b-preview/</link>
+      <pubDate>2026/11/08 19:05</pubDate>
+      <description>いし@万博から園芸博へ @mk_ishi AIイラストに「イラストはイメージです」が入ってるからまともだなと思った。 プロが作ってれば入れる当たり前の文字なんだけど、 素人が作ると入れないからすぐわかる。 そして、そのロピアのやつ食べたい。 x.com/po0zj/status/2… 2026-11-08 18:08:49</description>
+    </item>
+    <item>
+      <title>クリック不要、パッチもない　AIエージェントを乗っ取る「偽AGENTS.md」がダウンロードフォルダに　どうすればいいのか</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/05/news017.html</link>
+      <pubDate>2026/11/05 11:16</pubDate>
+      <description>近年よく目にするようになった「ウォーターマーク」という言葉はメディアが本物であることを確認したりメディアの所有権を主張したりするために用いられる可視の「透かし」を指します。しかし、AIを用いて画像・動画制作ソフトを開発するArtCraftの創業者であるブランドン・トーマス氏は、よく似た別物として我々の知らないうちにデジタルコンテンツを追跡可能にする「スパイマーク」と呼ぶべき新たな技術が登場しているとし、スパイマークによってプライバシーが侵害される恐れがあるとの懸念を表明しています。 Spymarks, not Watermarks - brand https://brand.io/article/spymarks/ スパイマークは物理的またはデジタル媒体に埋め込まれた、目に見えない追跡信号です。ユーザーの知らないうちに、あるいは同意なしに、コンテンツの利用状況を追跡することを目的としていま</description>
+    </item>
+    <item>
+      <title>個人情報流出しまくってるけど、攻撃者たちは何を目的にしているんだろう。 流出の規模に比べてあまりにも実害が無さすぎないか？ なんていうか犯人たちのイメージが出来なくて、アホみたいなこと言うけど既にAIに自律的に攻撃されてない？って感覚になる。気づいたら世界終わってたらやだな→「中露北の仕業ですよ軍事演習のリハーサル いざ攻め混む時は 日本やアメリカ、EUのインフラをぶち壊してから攻め込みます」</title>
+      <link>https://posfie.com/@petaritape/p/WVOlyPQ</link>
+      <pubDate>2026/11/06 07:32</pubDate>
+      <description>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに変更を加えて結果を確かめることです。 今回の研究について、自分の理解はこうです。 「人間には不可能な能力が発見された」→ 違う 「重みを直接編集できると初めて証明した」→ 違う 「汎用LLMが重みの解析・編集を自律的に実行できると示した」→ そう よって過剰に驚かれているのではないかというのが個人的には思うところです。 とはいえせっかくなのでChatGPTのトークンが余っていたこともあり、CodexでAstraを使って同様の実験を試してみました。 問題設定 元</description>
+    </item>
   </channel>
 </rss>
