@@ -273735,5 +273735,95 @@ June 6, 2026</description>
       <pubDate>2026/11/08 12:49</pubDate>
       <description>Let any AI agent use your iPhone or Android phone, from macOS, Windows or Linux, with you in the loop. Download · Get started · FAQ · Discord English · 简体中文 · 日本語 A real Claude Code run on an Android 16 emulator. Pinky asks before payments by default; this run also asks before messages. Pinky lets any agent (Claude Code, Claude Desktop, Codex, Cursor or a script) operate a real iPhone or Android p</description>
     </item>
+    <item>
+      <title>ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261110-478520/</link>
+      <pubDate>2026/11/11 00:03</pubDate>
+      <description>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する記事です。NVIDIAの研究チームによって2026年11月に発表された新手法の論文[1]について、日本語で簡単にまとめています。 今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こちらの記事もご参考下さい。 本題 ざっくりサマリー 「You don&amp;#39;t need long context」 は、長時間稼働するAIエージェントの効率を上げるための新しい手法です。 最近のLLMでは、「1Mトークン」など、膨大な入力ができるのは当たり前です。しかし、AIに長</description>
+    </item>
+    <item>
+      <title>一部のNotionワークスペースに影響を与える可能性があるFireworks AIのインシデントに関するお知らせ – Notion (ノーション)ヘルプセンター</title>
+      <link>https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor</link>
+      <pubDate>2026/11/10 20:08</pubDate>
+      <description>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today&amp;#39;s coding agents are great at writing PR descriptions. They&amp;#39;re too good at describing the work The problem is</description>
+    </item>
+    <item>
+      <title>Meta「Muse」がApple WatchとWear OSに対応　アバターが動く</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2155063.html</link>
+      <pubDate>2026/11/10 12:59</pubDate>
+      <description>ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社のIDCフロンティアが10月に受けた不正アクセスについて、「大変残念であり、痛恨の極み」と謝罪した。また、AIの進化に伴い、新たな脆弱性が相次いで見つかる状況について「正直言って疲れ切っている状態」と語り、サイバー攻撃への対応に苦慮している現状を明かした。 IDCフロンティアでは10月7日、クラウドサービス「IDCFクラウド」の認証システムに使っていたオープンソースソフトウェア（OSS）の脆弱性を突かれ、第三者がシステムに侵入。495の企業や自治体が利用する一部のサーバが停止・暗号化される被害が発生した。 ソフトバンクでは自社開発のアプリケーションについて脆弱性診断を実施し、修正パッチの適用を完了していたものの、今回攻撃を受けたOSSについては診断を実施していなかったという。 宮川社長は「大変残念であり、痛恨の極み」と述べ、対応の</description>
+    </item>
+    <item>
+      <title>Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明</title>
+      <link>https://gigazine.net/news/20261110-claude-opus-nerf/</link>
+      <pubDate>2026/11/10 17:05</pubDate>
+      <description>日本ケンタッキー・フライド・チキンが、一部商品画像の制作に生成AIを用いていることが分かった。同社の広報室は11月10日、ITmedia NEWSの取材に対し、フロートなどの実験販売メニューの商品画像を作る際に、生成AIを用いることがあると回答した。 同社を巡っては、店舗限定で実験販売している「コーラフロート」「メロンソーダフロート」の商品画像がAI画像ではないかと、6日ごろからXで話題になっていた。例えばメロンソーダフロートの画像は、氷までソーダと同じ濃い緑色に染まり、ゼリーのようなつやを帯びるなど、実物を撮影した商品写真とは違った仕上がりだった。 ITmedia NEWSがフロートの画像に生成AIを使ったかどうか聞いたところ、同社は個別の制作工程の詳細は回答を控えるとしつつ、実験販売メニューの商品画像を作る際に生成AIを使うケースがあると明らかにした。 一方、生成AIを使う意図や狙い、</description>
+    </item>
+    <item>
+      <title>GitHub - highants/PLaMo_Translate_EX: 「PLaMo 3 Translate」をブラウザ内蔵WebGPU（Wllama）またはLM Studio連携で実行できるローカル動作型翻訳Chrome拡張機能です。外部クラウド不要で安全・高速に翻訳します。</title>
+      <link>https://github.com/highants/PlaMo_translate_ex</link>
+      <pubDate>2026/11/10 06:14</pubDate>
+      <description>ソフトバンクグループ（SBG）の孫正義会長兼社長が進める人工知能（AI）戦略に暗雲が垂れ込める。孫氏と親密なトランプ米大統領が中間選挙で大敗し、AI規制論が強まる可能性がある。巨費を投じる米オープンAIの上場も見通せず、SBGのAI投資は転換点に差しかかる。「AIについて安全性など色々な検証をすべきではないかと見る時期が来ている」。SBGの後藤芳光最高財務責任者（CFO）は10日の決算説明会で</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功</title>
+      <link>https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/</link>
+      <pubDate>2011/09/14 15:26</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>“何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/10/2000002975/</link>
+      <pubDate>2026/11/10 12:55</pubDate>
+      <description>緑のダッシュボードの向こう側 ECサイトの問い合わせ対応にAIエージェントを入れて3か月、という状況を想像してみてください。返品条件を改訂した翌週から、「エージェントに言われた条件で返品できなかった」という問い合わせが増え始めます。調べてみると、エージェントは検索インデックスに残っていた改訂前のFAQを根拠にして、古い条件を自信満々に答えています。APIはすべて200、レイテンシもエラー率も平常。ダッシュボードは緑のままです。 さて、この失敗は事前に想定できたでしょうか？ SRE Magazine 008号の「非決定的なワークロードの信頼性を考える」では、生成AIの出力をLLM as a Judgeで評価して、その結果をSLIにするアイデアが示されていました。あれから1年半、状況はどう変わったでしょうか。LLMアプリケーションは単発の応答から、ツールを呼びながら判断を重ねるエージェントに広</description>
+    </item>
+    <item>
+      <title>「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/10/2000003040/</link>
+      <pubDate>2026/11/10 08:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ae6de4038f6f89309000f97a6e94910c8e7749d4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2154%2F982%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <pubDate>2026/11/10 04:10</pubDate>
+      <description>政府は防衛装備品の開発に応用できる技術の研究を担う拠点を2031年度までに大学や国立研究開発法人に新設する。人工知能（AI）や宇宙などの分野を念頭に置く。基礎研究ができる環境を整え先端技術を駆使する「新しい戦い方」への備えを強化する。年内に改定する安全保障関連3文書の一つである防衛力整備計画に外部の研究機関の成果を装備品にいかす方向性を盛り込む。安保3文書の改定にあわせて策定する防衛産業基盤戦</description>
+    </item>
+    <item>
+      <title>Claudeの記憶(メモリ)は夢見るDreaming機能で強化されており間違った記憶を修正することも可能</title>
+      <link>https://gigazine.net/news/20261109-ai-dreaming-agent-memory/</link>
+      <pubDate>2026/11/09 18:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/52cec364577de7bf251a8f810a9ebc1e90e1f9fd/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2154%2F793%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ミドリ安全、AI画像解析機能を足型測定Webアプリ「スマそく」に搭載</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2154819.html</link>
+      <pubDate>2026/11/09 16:20</pubDate>
+      <description>日経平均株価が急反発しても市場のムードが明るくなったとは言い難い。前週末の大幅下落で人工知能（AI）関連株を中心に「売られすぎ」サインが出る中、投資家の買い意欲が鈍いからだ。背景には相場の前提である業績予想の信頼性への警戒がある。「今日の買い手はほとんどが売り方の買い戻し。もう少し長期投資家が大きく買いに来てくれれば安心できるのだが」。9日午前、日経平均の前週末比の上げ幅が一時2000円を超え</description>
+    </item>
+    <item>
+      <title>Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる</title>
+      <link>https://gigazine.net/news/20261109-claude-code-leak-secrets/</link>
+      <pubDate>2026/11/09 11:50</pubDate>
+      <description>3日、Pruna AIから「P-H3-Image」という画像AIのオープンウェイトモデルが公開されました。このモデルは、動画モデルの「MiniMax H3（以下、H3）」を基に、蒸留や各部の改修によって、画像AIモデルとして最適化したものです。H3の特性を引き継いでおり、多様な画像を表現できるだけでなく、参照画像を読み込ませるだけで、その特徴を引き継いで実写風でもアニメ風でも画像を作れます。LoRAなどによる追加学習なしで、似た人物を出力することもできます。 参照画像だけでキャラの一貫性が保てる この連載のAIモデルである明日来子（あすきこ）さんを使って、さまざまなシチュエーションの画像を作ってみます。P-H3-Imageに、約1年前にNanoBananaで作成した三面図と表情差分をまとめた画像を参照（リファレンス）画像として与えます。そして、そのキャラクターと服装を維持したまま、さまざま</description>
+    </item>
+    <item>
+      <title>MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と</title>
+      <link>https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html</link>
+      <pubDate>2026/11/09 08:06</pubDate>
+      <description>9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Gemini」などクラウドで提供されるAIサービスを利用している。しかし、患者の機微な情報を取り扱うクリニックでは、国が策定した医療情報の取扱いに関するガイドライン「3省2ガイドライン」を満たしたサービスを使う必要があり、AIを業務に利用するのはハードルが高い。 そんな中、話題となった本郷真砂ハートクリニック（東京都文京区）では、院長の村岡洋典氏が米Appleの「Mac Studio」で自ら環境を構築。患者情報を外部の生成AIサービスに送らない、院内での</description>
+    </item>
+    <item>
+      <title>コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/09/5686.html</link>
+      <pubDate>2026/11/09 07:49</pubDate>
+      <description>AIを適用する業務が増え、活用レベルも上がる中で、AIにかかるコストが当初の想定を上回るケースが出てきた。 クラウド会計ソフト「freee会計」などの使い勝手は、紙やPDFの帳票を自動で読み取るAI OCRの性能に左右される。freeeは、月間100万枚に上る帳票をAI OCRで処理している。汎用LLM（Large Language Model：大規模言語モデル）の精度は上がり続けているが、この規模のトラフィックにそのまま適用すれば、コスト面で見合わなくなる。 そこで同社が選んだのは、巨大モデルに頼らない道だった。帳票から日付や金額、取引先などを抜き出す工程に絞り、自社で運用する独自の言語モデルを開発した。 ただし、開発は最初から順調に進んだわけではない。SLMを自社環境でホストしただけでは、処理速度は外部API並みにとどまり、月100万枚をさばくには足りなかった。壁を破った鍵の一つは、仕</description>
+    </item>
   </channel>
 </rss>
