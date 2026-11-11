@@ -273825,5 +273825,71 @@ June 6, 2026</description>
       <pubDate>2026/11/09 07:49</pubDate>
       <description>AIを適用する業務が増え、活用レベルも上がる中で、AIにかかるコストが当初の想定を上回るケースが出てきた。 クラウド会計ソフト「freee会計」などの使い勝手は、紙やPDFの帳票を自動で読み取るAI OCRの性能に左右される。freeeは、月間100万枚に上る帳票をAI OCRで処理している。汎用LLM（Large Language Model：大規模言語モデル）の精度は上がり続けているが、この規模のトラフィックにそのまま適用すれば、コスト面で見合わなくなる。 そこで同社が選んだのは、巨大モデルに頼らない道だった。帳票から日付や金額、取引先などを抜き出す工程に絞り、自社で運用する独自の言語モデルを開発した。 ただし、開発は最初から順調に進んだわけではない。SLMを自社環境でホストしただけでは、処理速度は外部API並みにとどまり、月100万枚をさばくには足りなかった。壁を破った鍵の一つは、仕</description>
     </item>
+    <item>
+      <title>量産化、１年延期案が浮上　先端半導体の開発難航―ラピダス：時事ドットコム</title>
+      <link>https://www.jiji.com/jc/article?k=2026111000768&amp;amp;g=eco</link>
+      <pubDate>2026/11/11 07:39</pubDate>
+      <description>いや、待って。 まず2016年の話してもいい？ あのね、私にもあったはずなんです。2016年が。 去年、電撃結婚された方々や、惜しまれきって解散した方々や、不倫を超暴かれた方々と同様。多分、同じ日数くらいの2016年があったはずなんです。 （加藤はいね） その年は、年明け早々にデヴィッド・ボウイが死に、春には伯父が死に、プリンスが死に、秋には父親が死に、その1か月後には母親が死に、年末には、人生でもっとも多く通ったバーのマスターが死に、叔母も死にました。 かくも死者を見送った年でしたが、個人的にもっともショックだったのは、11月の雨宮まみさんの訃報でした。 その前日までTwitterを読み、Facebookでいいねをつけあっていた相手がいなくなるなど思うわけがありません。 なので、彼女の死を知ったときの困惑、そしてその後に湧き上がってきた腹立ちは――と、彼女についての話を書き始めたのですが</description>
+    </item>
+    <item>
+      <title>「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/11/2000002913/</link>
+      <pubDate>2026/11/11 05:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca7734e7ecc6a05e001f0f0858cd1e223a0e8c37/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2155%2F269%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem</title>
+      <link>https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2</link>
+      <pubDate>2026/11/10 21:43</pubDate>
+      <description>個人開発者のぬるっぽ氏は11月10日、翻訳支援ツール「PCOT」の開発を、現在抱えている更新を最後に終了すると発表した。背景には、昨今進化を続けるAIの存在があるという。 PCOTは2020年から公開されているPC向け翻訳支援ツールだ。ぬるっぽ氏が自身の公式サイトにて無料で配布している。同ツールは、OCR（光学文字認識）技術を用いてゲーム画面から選択した範囲のテキストを抽出し、翻訳したい言語へと変換した結果を得ることができる。なおここ数年のアップデートとしては、2025年4月にGeminiを搭載し、読み取りおよび翻訳の精度が飛躍的に向上。その後も、2025年12月には個人開発者のcatnose氏が開発した「Nani !?」との連携に対応するなど、更新を意欲的に続けていた。 そうしたなかで、このたびぬるっぽ氏はXにて、現在抱えている更新を最後に、PCOTの開発を終了すると発表した。同氏は理由</description>
+    </item>
+    <item>
+      <title>NVIDIAの「長文コンテキスト不要」論文</title>
+      <link>https://zenn.dev/knowledgesense/articles/bd917ed6829121</link>
+      <pubDate>2026/11/10 20:05</pubDate>
+      <description>本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチームによる調査の結果、Notionワークスペース全体の1%未満がFireworksのセキュリティインシデントの影響を受けた可能性があると判断しました。このインシデントで、Notion AIとの一部のチャットセッションが流出した可能性があります。ただし、これらのチャットには、誰が書いたか、どのワークスペースから送信されたかを示すラベルがなく、文字起こしの内容にもツール呼び出しの結果は含まれていません。チャットの文字起こしの内容以外に、チャットを特定のワークスペース、ユーザー、企業に結び付ける情報はあり</description>
+    </item>
+    <item>
+      <title>Hide your slop PR descriptions behind &amp;lt;details&amp;gt;&amp;lt;summary&amp;gt;</title>
+      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
+      <pubDate>2026/11/10 17:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8716c2bc148b7407cb1b949d29b2a4470ccc7b63/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2155%2F063%2Fm01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/10/2000003070/</link>
+      <pubDate>2026/11/10 16:20</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>AIを組み込んだアプリの信頼性をどう制御するか</title>
+      <link>https://sre-magazine.net/articles/15/katzchang/</link>
+      <pubDate>2026/11/10 10:20</pubDate>
+      <description>トップだったGemini 4 CarbonをぶっちぎってすべてのAIの頂点に。 2026年11月10日、Anthropicが新しいフラッグシップ/最先端AI「Claude Fable 5.2」をリリースしました。本日からすべての有料ユーザーが利用可能です。Mythos 5.2も同時に発表されています（一部の制限以外はFable 5.2と同一）。 IPOを控えたAnthropicは企業としての価値を示す必要がありますが、Fable 5.2はすさまじいベンチマーク結果を出しており、AIでできることの次元を改めて変えるAIモデルであるように見えます。 生成速度が30%向上しているといった利便の向上もアピールされています。 API料金は入力40ドル・出力が10〜50ドル（ともに100万トークンあたり）となっておりやはり高価です。 大きな伸びを見せたベンチマークAnthropicが公開したベンチマー</description>
+    </item>
+    <item>
+      <title>Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に／ほぼすべての評価で「Opus 5.5」を凌駕、物理学の未解決問題を解いた実績も</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2154982.html</link>
+      <pubDate>2026/11/10 09:58</pubDate>
+      <description>OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai　@m3e-canvas　デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生のinori（いのり）さんが開発したOSS「M3E Canvas」を取り上げます。公開から約2カ月で10,000スターを突破し、GitHub Trending全言語ランキングで2日連続1位を獲得しました。 ブラウザ上でアプリの画面を組み立て、AIに渡すプロンプトを生成するこのツール。日本の個人開発者を想定していたにもかかわらず、海外でも大きな反響を呼び、Android以外の開発にも活用されています。なぜ、これほど支持されたのか。開発の舞台裏</description>
+    </item>
+    <item>
+      <title>AI用語の基礎知識 【第30回】「ソブリンAI」とは――自国のデータやAI基盤を“自分たちのルール”で管理する考え方</title>
+      <link>https://ai.watch.impress.co.jp/docs/serial/glossary/2154735.html</link>
+      <pubDate>2026/11/09 12:49</pubDate>
+      <description>NTTは人工知能（AI）の対話の過程をEQ（心の知能指数）の観点で評価・改善する「高EQ対話知性技術」を開発した。言葉の背後にある状況や文脈を深く理解し、より適切な応答を導く。スマホのチャットサービスへの導入を目指す。開発したAIは専門のデータセットで評価した結果、状況を理解する力や相手の立場を考えた課題解決の項目について、従来比でスコアが平均で約23%向上したという。AIは</description>
+    </item>
+    <item>
+      <title>モダンLaravelを体験しよう！ - いつからLaravelがサーバサイドフレームワークだと錯覚していた？</title>
+      <link>https://no-hack-no.life/post/2026-11-05-modern-laravel-hands-on-2026/</link>
+      <pubDate>2026/11/07 17:17</pubDate>
+      <description>Try out Artifacts created by Claude users</description>
+    </item>
   </channel>
 </rss>
