@@ -273963,5 +273963,143 @@ June 6, 2026</description>
       <pubDate>2026/11/05 21:37</pubDate>
       <description>OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai　@m3e-canvas　デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生のinori（いのり）さんが開発したOSS「M3E Canvas」を取り上げます。公開から約2カ月で10,000スターを突破し、GitHub Trending全言語ランキングで2日連続1位を獲得しました。 ブラウザ上でアプリの画面を組み立て、AIに渡すプロンプトを生成するこのツール。日本の個人開発者を想定していたにもかかわらず、海外でも大きな反響を呼び、Android以外の開発にも活用されています。なぜ、これほど支持されたのか。開発の舞台裏</description>
     </item>
+    <item>
+      <title>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155676.html</link>
+      <pubDate>2026/11/11 21:29</pubDate>
+      <description>企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期待感が薄れ、怒りを強めているという。 歴史的に見て、若者は新しいテクノロジーを最初に、そして最も速く取り入れてきた。ビデオゲーム、テキストメッセージ、ソーシャルメディアを思い浮かべればよい。若者はそれらがメインストリームになる前から日常的に使いこなしてきた。新しい世代が新技術の導入に反発するとき、リーダーは注意を払うべきだ。若者がAIに怒りを抱く3つの理由と、企業が取るべき対応を見ていく。 人工的な競争 Z世代は、AIと直接競争する最初の世代だ。しかもそれは仕事だけでなく、人生の形成期におけ</description>
+    </item>
+    <item>
+      <title>Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場</title>
+      <link>https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</link>
+      <pubDate>2026/11/11 17:58</pubDate>
+      <description>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。 AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰める。米国の巨大IT企業を含めた場合は、国内の利用者保護に向けた実効性の確保が問われそうだ。 問題が起きても協議に応じない事業者に対しては、国が必要に応じて強制力のある命令を出す。違反した場合に罰則を適用することを想定している。罰則は高性能なAIによる事案に絞る方向だ。 米国では開発中の先端AIが意図</description>
+    </item>
+    <item>
+      <title>政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title>
+      <link>https://news.jp/i/1493175213544620448</link>
+      <pubDate>2026/11/11 18:22</pubDate>
+      <description>政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。</description>
+    </item>
+    <item>
+      <title>海外で人気再燃　スペクトラムが45年ぶり再始動を発表、オリジナルメンバー3人が集結</title>
+      <link>https://www.oricon.co.jp/news/2492067/full/</link>
+      <pubDate>2026/11/11 17:37</pubDate>
+      <description>クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。委託先の米Fireworks.aiへの不正アクセスに起因するもの。影響範囲は全ワークスペースの1％未満としている。 Notion AIの利用状況を分析する機能「Insights」のチャット記録が漏えいした恐れがある。影響を受けたワークスペースの大半には、利用者を示すラベルは付いていなかったという。ただしチャット記録そのものは、利用者に関する情報を含む可能性がある。 同日時点で対象となる利用者には連絡した。漏えいした可能性があるチャット記録に記入した機密情報やパスワード、APIキー、その他の認証情報が含まれる場合、それらを更新するよう呼び掛けている。 日本語の公式Xアカウント（@NotionJ</description>
+    </item>
+    <item>
+      <title>NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開</title>
+      <link>https://gigazine.net/news/20261111-nemotron-personas-finance-japan/</link>
+      <pubDate>2026/11/11 14:30</pubDate>
+      <description>Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 Claude Whiteboards, Claude Sheets, and Claude Data | Claude by Anthropic https://claude.com/ja/resources/articles/sheets-whiteboards-data Working with Claude Sheets, Whiteboards, and Interactive Connectors | Claude by Anthropic https://claude.com/ja/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-i</description>
+    </item>
+    <item>
+      <title>最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」</title>
+      <link>https://posfie.com/@kalofollow/p/kDMLpbM</link>
+      <pubDate>2026/11/11 13:26</pubDate>
+      <description>欧州宇宙機関(ESA)の人工衛星に地上から音声で命令し、宇宙空間でFPSゲーム『DOOM』を起動する実験が成功しました。人工衛星に搭載されたAIが音声を認識してゲームを起動する仕組みで、2026年4月から7月にかけて7回の実験が行われ、最終的に人間が直接話した音声による操作に成功しています。 First Voice Command of a Satellite Achieved Through ESA’s OPS-SAT Space Lab - Tanagra Space https://tanagraspace.com/press/first-voice-command-of-a-satellite/ Oslo Amateur Radio Group achieves world’s first voice control of a satellite! – Oslogruppen av</description>
+    </item>
+    <item>
+      <title>NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html</link>
+      <pubDate>2026/11/11 07:20</pubDate>
+      <description>はじめに こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。 モチベーション 私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの土曜日を過ごしながら参加できるかもしれないと思いました。それが開発のきっかけでした。 もう1つは、人間が手を出さずに、エージェントだけでどこまでできるのか試してみたかったからです。AIエージェントを使ったソフトウェア開発では、人間が途中で判断する HITL（human-in-the-loop）から、人間は監視に回る HOTL（human-on-the-loop）へと、自律レベルが上がりつつあります。今回はそこからもう一歩進めて、監視もしない HOOTL（human-out-</description>
+    </item>
+    <item>
+      <title>1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応</title>
+      <link>https://gigazine.net/news/20261111-minimax-h3-image/</link>
+      <pubDate>2026/11/11 11:11</pubDate>
+      <description>米Googleは11月10日（現地時間）、同社AIモデルで「最強」とする「Gemini 4 Carbon」（以下、Carbon）の一般提供を開始した。セキュリティやナレッジワーク、コーディングなどにおいて米OpenAIの「GPT-6 Astra」や米Anthropicの「Claude Opus 5.5」を超える性能をうたう。また、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。 Carbonは、Googleが「Gemini 4 Argon」（以下、Argon）の次世代モデルとして10月に発表し、サイバーセキュリティプログラム「Fairwind Program」を通じて一部企業に提供していたモデル。セキュリティやナレッジワーク、コーディング、科学的推論など複数のベンチマークテストで競合モデルを上回る性能をうたっている。</description>
+    </item>
+    <item>
+      <title>赤字を悟ったAIは“引きこもった”　PwCが実店舗で検証した「AI自律運営」の限界</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/11/news020.html</link>
+      <pubDate>2026/11/11 09:00</pubDate>
+      <description>2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つかり、10月24日には第三者クラウド事業者を経由した侵入も検知した(出典: 1, 2, 3, 4)。 最初の経路はFireworks内部の認証情報の不正使用。Fireworksは10月6日(米国時間9時)に不正使用を特定して同日に封じ込めを開始し、10月7日に影響顧客への通知を始めた。不正な第三者は一部の顧客アカウントで評価ジョブが使う環境変数を取得しており、シークレットとして保存されたAPIキーやトークンが含まれる(出典: 3)。</description>
+    </item>
+    <item>
+      <title>「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155430.html</link>
+      <pubDate>2026/11/11 12:18</pubDate>
+      <description>Adobeは11月10日、対応する外部AIエージェントから「Photoshop」「Illustrator」「Premiere」「After Effects」を呼び出して操作できる「MCPインテグレーション」を発表した。2027年初めにCreative Cloud利用者向けのプライベートベータとして提供する予定だ。 Adobe Firefly、Premiere、Photoshopなどの新機能イメージ（Adobe公式ブログより。出典：Adobe） ※クリックすると拡大画像が見られます MCP（Model Context Protocol）は、AIアプリケーションとデータや外部ツールをつなぐためのオープンな共通仕様。AdobeのMCP連携はパソコン上でローカルに動作し、各製品のプロジェクトファイルを直接扱う。変更後も、レイヤーやベクター画像、動画素材を整理する「ビン」、編集内容を並べる「シーケン</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon is now available</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+      <pubDate>2026/11/11 08:59</pubDate>
+      <description>すきえんてぃあ@書け @cicada3301_kig AIは異なる知能の間を翻訳する「眼鏡」だと前から呟いてきた 賢い側の成功談しか聞かなくて失望していたけど、いよいよ知的障害者と健常者の間の仲介に成功しつつある note.kishidanami.com/n/n2cf7aa5a0bf2 2026-11-10 14:48:36 岸田奈美｜Nami Kishida @namikishida 【人生を賭けた弟の立てこもりを、Geminiがどうにかしてくれた件】 ダウン症で知的障害のある弟には、悩んでることがたくさんあったのに、今まで解決してあげられなかったことに気づいた。 開催中のnoteコンテスト #AIとできたこと のお手本作品 #PR として書きました！ note.kishidanami.com/n/n2cf7aa5a0bf2 2026-09-18 11:12:11 人生を賭けた弟の立てこ</description>
+    </item>
+    <item>
+      <title>Fireworks AI incident</title>
+      <link>https://www.notion.com/ja/security/advisories/security-incident-involving-a-third-party-ai-vendor</link>
+      <pubDate>2026/11/11 09:55</pubDate>
+      <description>米OpenAIは11月10日（現地時間）、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。 企業は「Business Hub」に自社の情報を登録することで、ChatGPT上での自社への言及数やWebサイトクリック数、Webサイトが引用されているテーマの調査などが可能になる。</description>
+    </item>
+    <item>
+      <title>“年内入試”での生成AI活用めぐり大学の対応分かれる　 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261111de73858</link>
+      <pubDate>2026/11/11 08:39</pubDate>
+      <description>博報堂DYホールディングス（HD）は10日、広告やマーケティング支援を手掛ける傘下の3社を統合した新会社の立ち上げを検討すると発表した。人工知能（AI）時代に対応した広告マーケティング手法の確立に向け、組織を集約する。2027年4月の稼働を目指す。通販広告などを手掛ける大広（大阪市）、不動産分野に強みのある読売広告社（東京・港）、マーケティング支援のオプト（同・千代田）の3社の統合を目指す。こ</description>
+    </item>
+    <item>
+      <title>Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -</title>
+      <link>https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive</link>
+      <pubDate>2026/11/10 21:56</pubDate>
+      <description>Carbonは、サイバーセキュリティー対策、長期にわたる自律的な作業、複雑なコーディングや科学研究など、多段階の課題を時間をかけて検証する用途に向けたモデル。ソフトウェア開発や資料分析などの一般的な知識作業には「Gemini 4 Argon」、特に難しい課題にはCarbonと使い分ける位置付けだ。 Googleが公表した性能評価によると、AIの総合性能を示す「AA Index v5.0」でCarbonは59点となり、OpenAIの「GPT-6 Astra」（57点）、Anthropicの「Claude Fable 5.1」（49点）を上回った。ただし、11月9日発表の「Claude Fable 5.2」は比較対象に含まれていない。 Carbonは、Google AI StudioのGemini API有料プランと、企業向け「Gemini for business」で利用できる。Google</description>
+    </item>
+    <item>
+      <title>AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita</title>
+      <link>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</link>
+      <pubDate>2026/11/11 00:08</pubDate>
+      <description>先端半導体の量産化、１年延期案が浮上　ラピダス、開発難航　良品率の改善にも苦戦か 時事通信 経済部2026年11月11日08時18分配信 ラピダスの先端半導体工場＝２０２５年７月１８日、北海道千歳市 ラピダス（東京）が回路線幅２ナノメートル（ナノは１０億分の１）の先端半導体の量産開始時期を１年程度延期する案が浮上していることが１０日、分かった。２０２７年度後半を目指してきたが、開発が難航しており、２８年度にずれ込む可能性が高い。人工知能（ＡＩ）の普及に伴い先端半導体の需要は拡大しているが、海外メーカーに後れを取れば日本の半導体戦略にも影響が出そうだ。 顧客獲得、資金調達に影響も　半導体開発、海外勢に後れ―ラピダス ラピダスは昨年７月、電流を制御する半導体部品「トランジスタ」の試作に成功したと発表した。しかし、関係者によると、その後トランジスタ同士や他の部品と集積化する技術の開発が難航。半導</description>
+    </item>
+    <item>
+      <title>Waymo自動運転タクシー、「停車スクールバスの横を通過する癖」直らず？　米当局が調査</title>
+      <link>https://japan.cnet.com/article/35254669/</link>
+      <pubDate>2026/11/11 06:34</pubDate>
+      <description>AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主な機能は撮影や検索など。音声で指示することもでき、特定のキーワードの検索結果をディスプレイ上に表示する機能もある。 一般向けのAI眼鏡に注力しているのがMetaだ。同社はこれまでRay-BanやOakleyなどのアイウェアブランドとコラボした商品を展開している。2021年からRay-Ban型のスマートグラスを展開。23年に対話型AI「Meta AI」を搭載した商品を発売し、AI眼鏡の展開を始めた。今年8月26日には「Meta Glasses」の日本での販売を開始</description>
+    </item>
+    <item>
+      <title>2026年度 新卒研修『AWS インフラハンズオン』の資料を公開します | CyberAgent Developers Blog</title>
+      <link>https://developers.cyberagent.co.jp/blog/archives/66422/</link>
+      <pubDate>2026/11/11 02:38</pubDate>
+      <description>ソフトバンクグループの後藤芳光CFO（最高財務責任者）は11月10日の決算説明会で、米SpaceXのイーロン・マスクCEOがXで同グループの「債務不履行」を指摘した件について「全くの事実無根」と否定した。 マスク氏は6日、Xで「SoftBank is defaulting on their turbine orders」（ソフトバンクはタービンの発注で債務不履行に陥っている）と投稿した。データセンター向け融資の売却をめぐる投稿に返信したもので、タービンはデータセンターに電力を供給する発電設備に使う機器だ。 質疑でこの投稿への見解を問われた後藤氏は「なぜああいうつぶやきがなされたか、全くその意図は分からない」とした上で、「私たちは債務不履行なんかに陥っていない」とし、AIインフラの計画は引き続き計画通りに進めると述べた。 株安で保有株の価値は約15兆円減 財務面では、9月末以降の世界的な株安</description>
+    </item>
+    <item>
+      <title>Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155269.html</link>
+      <pubDate>2026/11/10 23:19</pubDate>
+      <description>Metaが年齢を偽る13～17歳の若者に対してもアカウント保護機能を提供するため、AIを用いた年齢推定技術を全世界規模に拡大すると発表しました。 Expanding Teen Account Protections to Teens Around the World https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/ Metaは10年以上にわたって各分野の専門家と協力して、10代の若者とその家族が年齢に合った形でMetaのアプリを安心して利用できるように、ツールや資料を整備してきました。例えば、Instagram・Facebook・Messengerといったプラットフォームでは、10代の若者向けに「Teen Accounts」を用意しており、このアカウ</description>
+    </item>
+    <item>
+      <title>GitHub - shanselman/gputaskman: A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).</title>
+      <link>https://github.com/shanselman/gputaskman</link>
+      <pubDate>2026/11/09 21:11</pubDate>
+      <description>Deep Security Conference 2025：生成AI時代のセキュリティ監視 /dsc2025-genai-secmon</description>
+    </item>
+    <item>
+      <title>MetaのAIエージェント「Muse」がApple WatchとWear OSに対応　手首から音声で呼び出し</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/10/news046.html</link>
+      <pubDate>2026/11/10 12:30</pubDate>
+      <description>Appleが中国でのApple Intelligenceのローンチに先立ち、規制上のハードルをすべてクリアしたとロイターが報じています。 Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops | Reuters https://www.reuters.com/business/retail-consumer/apple-intelligence-ai-service-registers-with-chinese-regulator-use-tablets-2026-11-09/ Apple Intelligence completes regulatory registration for iPad and Mac in China - 9to5Mac https</description>
+    </item>
+    <item>
+      <title>e-means: 10x faster k-means at equal loss - Blog</title>
+      <link>https://e-means.github.io/</link>
+      <pubDate>2026/11/10 06:14</pubDate>
+      <description>AIが先に人類を滅ぼす可能性を恐れ、老後のための貯蓄をやめたネイト・ソアレス氏。Courtesy of Nate Soares ネイト・ソアレス氏は、AIが10年以内に人類を滅ぼす可能性があるため、401(k)への拠出をやめたと語る。MIRIの所長であるソアレス氏は、人類が10年以内に滅亡する確率は50％を超えると考えている。イーロン・マスク氏は、AIによって「豊かさの時代」が到来し、老後のための貯蓄は「意味を持たなくなる」と語っている。老後のための貯蓄は、未来への賭けだ。だが、機械知能研究所（the Machine Intelligence Research Institute：MIRI）の所長を務めるネイト・ソアレス（Nate Soares）氏は、AIによって私たちが老後を迎えられるかどうか、確信を持てないでいる。 「今は老後のための貯蓄をしていない。グーグル（Google）で働いてい</description>
+    </item>
+    <item>
+      <title>退屈なCoding AgentはMuseにやらせよう</title>
+      <link>https://zenn.dev/watany/articles/342b9815dd0553</link>
+      <pubDate>2026/11/10 13:12</pubDate>
+      <description>Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、Anthropicの「Claude Haiku 5.5」と同等の性能を約3分の1のコストで実現しています。 Introducing Our Smallest, Most Efficient Model: Muse Ember https://research.meta.ai/blog/muse-ember Metaのマーク・ザッカーバーグCEOはMuse Emberの発表にあたり、同モデルを同社史上最も小型で効率的なAIモデルと紹介しました。Muse Emberは、AIが外部ツールを呼び出したり、プログラムの一部を修正したり、大量の文書から情報を抽出した</description>
+    </item>
+    <item>
+      <title>OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか【柳谷智宣のAI ウォッチ！】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2154854.html</link>
+      <pubDate>2026/11/10 09:17</pubDate>
+      <description>米メタは画像共有アプリ「インスタグラム」で、人工知能（AI）を使い利用者の年齢を推定する技術を日本に導入すると発表した。米国や英国などで2025年4月に先行導入しており、日本を含む世界各国に対象を広げる。10代と推定された利用者は青少年向けの「ティーンアカウント」による保護機能が適用される。成人として生年月日を登録していても、AIが13〜17歳</description>
+    </item>
   </channel>
 </rss>
