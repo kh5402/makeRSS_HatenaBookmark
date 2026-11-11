@@ -273891,5 +273891,77 @@ June 6, 2026</description>
       <pubDate>2026/11/07 17:17</pubDate>
       <description>Try out Artifacts created by Claude users</description>
     </item>
+    <item>
+      <title>Linuxカーネル開発でAIによるバグ修正が効果。トーバルズ氏「潮目が変わり始めている兆候」 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/11/5697.html</link>
+      <pubDate>2026/11/11 12:41</pubDate>
+      <description>部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことです。 Locating the source of a mysterious beep with Claude https://simonwillison.net/2026/Nov/9/mysterious-beeps/ ウィリソン氏の自宅には引っ越しの際に開封しなかった段ボール箱が大量に置かれた部屋があります。2026年10月下旬頃から部屋のどこかで断続的に電子音が鳴り始めましたが、音が鳴る間隔が長いため発生源を耳で特定するのは困難でした。 そこでウィリソン氏はAnthropicのAIコーデ</description>
+    </item>
+    <item>
+      <title>ISUCON2026 で優勝しました（準備編）</title>
+      <link>https://zenn.dev/luvtechno/articles/isucon2026-preparation</link>
+      <pubDate>2026/11/11 14:38</pubDate>
+      <description>2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つかり、10月24日には第三者クラウド事業者を経由した侵入も検知した(出典: 1, 2, 3, 4)。 最初の経路はFireworks内部の認証情報の不正使用。Fireworksは10月6日(米国時間9時)に不正使用を特定して同日に封じ込めを開始し、10月7日に影響顧客への通知を始めた。不正な第三者は一部の顧客アカウントで評価ジョブが使う環境変数を取得しており、シークレットとして保存されたAPIキーやトークンが含まれる(出典: 3)。</description>
+    </item>
+    <item>
+      <title>「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる</title>
+      <link>https://togetter.com/li/2769126</link>
+      <pubDate>2026/11/11 12:28</pubDate>
+      <description>Updated version: November 10, 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &amp;lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks incident. If you haven&amp;#39;t heard from us, we haven&amp;#39;t identified your workspace as affected, and no actio</description>
+    </item>
+    <item>
+      <title>ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</link>
+      <pubDate>2026/11/11 09:34</pubDate>
+      <description>“年内入試”と呼ばれる「総合型選抜」などの大学入試で生成AIを使って志望理由書などを作成する受験生が増えています。大学側の対応も分かれていて、「生成AIで必要以上に虚飾される懸念がある」として制限する…</description>
+    </item>
+    <item>
+      <title>博報堂DY、傘下の広告3社統合へ　AI時代のマーケティング確立めざす - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC1060C0Q6A111C2000000/</link>
+      <pubDate>2026/11/10 23:45</pubDate>
+      <description>ハーネスは大事。坂東は...</description>
+    </item>
+    <item>
+      <title>Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI</title>
+      <link>https://japan.cnet.com/article/35254674/</link>
+      <pubDate>2026/11/11 08:32</pubDate>
+      <description>AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないからです。 そこで試したのが、テストの強さを測る mutation testing（ミューテーションテスト） と、そのツールの Stryker です。今回は、マルチテナントの SaaS で「会社ごとにデータを自動で絞り込む Prisma クライアント」を作る場面で使いました。間違えると他社のデータが見えてしまう、絶対に間違えられない仕組みです。 この記事では、mutation testing と Stryker の基本を押さえたうえで、実際の開発で使ってみて何が分かったのか、ハーネスに入れるならどうするか、AI との相性を、</description>
+    </item>
+    <item>
+      <title>ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」　7〜9月期決算は1兆円超の赤字</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/10/2000003079/</link>
+      <pubDate>2026/11/11 03:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca7734e7ecc6a05e001f0f0858cd1e223a0e8c37/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2155%2F269%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ソフトバンク宮川社長「正直もう疲れ切っている」　サイバー攻撃が月7億件、決算発表会で明かした危機感とは</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/09/news084_2.html</link>
+      <pubDate>2026/11/10 09:35</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/294b1a64e2e46ef2a157d30994f49d3594a194d5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.notion.com%2Ffront-static%2Fmeta%2Fhelp-center.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ハードウェアを開発できる「Claude Fable 5.2」。最大3回のリセット権も付与</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155000.html</link>
+      <pubDate>2026/11/10 12:11</pubDate>
+      <description>ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社のIDCフロンティアが10月に受けた不正アクセスについて、「大変残念であり、痛恨の極み」と謝罪した。また、AIの進化に伴い、新たな脆弱性が相次いで見つかる状況について「正直言って疲れ切っている状態」と語り、サイバー攻撃への対応に苦慮している現状を明かした。 IDCフロンティアでは10月7日、クラウドサービス「IDCFクラウド」の認証システムに使っていたオープンソースソフトウェア（OSS）の脆弱性を突かれ、第三者がシステムに侵入。495の企業や自治体が利用する一部のサーバが停止・暗号化される被害が発生した。 ソフトバンクでは自社開発のアプリケーションについて脆弱性診断を実施し、修正パッチの適用を完了していたものの、今回攻撃を受けたOSSについては診断を実施していなかったという。 宮川社長は「大変残念であり、痛恨の極み」と述べ、対応の</description>
+    </item>
+    <item>
+      <title>Claude Codeで最近使っているTips【2026/11】</title>
+      <link>https://zenn.dev/oikon/articles/claude-code-recipe</link>
+      <pubDate>2026/11/10 12:58</pubDate>
+      <description>はじめに なぜやるのか read-only 化と non-root 化の嬉しさ 進め方 read-only 化 /tmp 配下は例外的に書き込めるようにする ECS Exec のエージェントにも書き込み先を与える 空のボリュームはイメージの中身を隠す uv run で起動するサービスには UV_NO_SYNC=1 を渡す 依存の更新で書き込みが増える 検証は rollout とログの件数だけでは足りない non-root 化 init コンテナでの chown は成立しない chown はビルド時におこなう サイドカーは wrapper イメージを自前で持つ トグルの運用 ここまでやっても Security Hub の finding は 0 にならない おわりに 参考 AWS 言語・ツール はじめに 弊社では AWS 上にマルチテナント構成のインフラを複数の環境にわたって運用しており、ア</description>
+    </item>
+    <item>
+      <title>You don&amp;#39;t need long context</title>
+      <link>https://arxiv.org/abs/2611.05306</link>
+      <pubDate>2026/11/05 21:37</pubDate>
+      <description>OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai　@m3e-canvas　デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生のinori（いのり）さんが開発したOSS「M3E Canvas」を取り上げます。公開から約2カ月で10,000スターを突破し、GitHub Trending全言語ランキングで2日連続1位を獲得しました。 ブラウザ上でアプリの画面を組み立て、AIに渡すプロンプトを生成するこのツール。日本の個人開発者を想定していたにもかかわらず、海外でも大きな反響を呼び、Android以外の開発にも活用されています。なぜ、これほど支持されたのか。開発の舞台裏</description>
+    </item>
   </channel>
 </rss>
