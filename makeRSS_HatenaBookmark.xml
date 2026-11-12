@@ -274467,5 +274467,107 @@ June 6, 2026</description>
       <pubDate>2026/11/10 13:21</pubDate>
       <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
     </item>
+    <item>
+      <title>エヌビディア、フアンCEOの辞任を発表　不倫相手に中国スパイ疑惑：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVCD4SJ9VCDULZU009M.html</link>
+      <pubDate>2026/11/12 23:47</pubDate>
+      <description>米NVIDIAは11月12日（現地時間、以下同）、1993年の共同創業以来、同社を率いてきたジェンスン・フアン氏が社長兼CEOと取締役を即日辞任したと発表した。後任として、最高財務責任者（CFO）のコレット・クレス氏が、暫定CEOに就任する。取締役会は正式なCEOの選定に着手し、社内外の候補者を検討するとしている。 クレス氏は13年9月に入社し、上級副社長兼CFOを務めてきた。取締役会はまた、米Synopsysの元CEOで取締役のHarvey C. Jones氏を、NVIDIA初の取締役会議長に任命した。Jones氏は「事業運営や顧客との約束、製品ロードマップは途切れることなく続くと見込んでいる」としている。四半期決算は予定通り17日に発表する。 フアン氏を巡っては、同氏と親密な関係にあった実業家が中国の情報機関に協力していた疑いを米情報当局が把握していたと、米New York Times</description>
+    </item>
+    <item>
+      <title>NVIDIAジェンスン・フアン氏がCEO辞任</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156075.html</link>
+      <pubDate>2026/11/12 23:44</pubDate>
+      <description>Jensen Huang Resigns Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO Harvey C. Jones Appointed First-Ever Chair of the Board NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive Vice President and Chi</description>
+    </item>
+    <item>
+      <title>iPhone DuoでWindows 11が動いた！Google AI Studio責任者がGemini 4 Carbonで開発、折ればノートPC風に - すまほん!!</title>
+      <link>https://smhn.info/202611-windowsios-windows-11-iphone-duo-gemini-4-carbon</link>
+      <pubDate>2026/11/12 22:23</pubDate>
+      <description>2026年11月10日から12日にかけて、GitHub 上の多数のリポジトリに対して悪性コミットにより GitHub Actions のワークフローに悪性コードが注入される事例が発生しています。 挿入されたコードは、ワークフローや npm フックが実行されると、CI環境内のシークレットを収集し、C2サーバーへのHTTP通信または Telegram Bot API への送信を試みる infostealer マルウェアです。 本記事は、弊社が Takumi Guard の解析基盤をベースに観測＆分析した情報を踏まえ、日本のコミュニティに向けて、影響と対策を中心に整理するものです。 TL;DR — 対応指針 はじめに 侵害の仕組み Stage 1 — 文書 PR の作成 Stage 2 — ワークフロー挿入 Stage 3 — CI 環境・ファイル・リポジトリから収集 Stage 4 — gzi</description>
+    </item>
+    <item>
+      <title>AWSが「人間がコードを一行も書いていない」エミュレータを公開——AIエージェントだけで構築し、1日数千件を自律修正するパイプラインの全貌</title>
+      <link>https://ai.freelance-job.com/article/6af4dfd749a7d098b46764d2</link>
+      <pubDate>2026/11/12 21:11</pubDate>
+      <description>クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案の影響が広がっている。同事案に起因し、情報流出した可能性があるとする日本企業の報告が相次いでいる。 同事案はNotionを運営する米Notion Labsが11月9日（現地時間）に発表したもの。委託先である米Fireworks.aiへの不正アクセスが原因で、Notion AIの利用状況を分析する機能「Insights」のチャット記録が漏えいした恐れがある。 セキュリティ事業を手掛けるSecureNavi（東京都港区）は11月11日（日本時間、以下同）、同事案を巡り、情報漏えいした恐れがあると発表。顧客企業名と担当者氏名、SecureNaviに対する問い合わせや相談内容（打ち合わせの内容を含む）、同社サービスの利用状況に関する内容が含まれる可能性があるという。 同じくセキュリティ事</description>
+    </item>
+    <item>
+      <title>レーザー兵器を搭載したAI潜水ロボット3500台がサケ養殖場を巡回しサケジラミを駆除して1億1200万匹の魚を守っている</title>
+      <link>https://gigazine.net/news/20261112-stingray-marine-solutions-ai-robots-salmon/</link>
+      <pubDate>2026/11/12 21:00</pubDate>
+      <description>Anthropicが展開する対話型AI「Claude」について、『ポケモン』シリーズの知的財産を使用したゲームアセットの開発を拒否するようになったとの検証や報告が寄せられている。先日Claudeには既存のゲームの模倣を防ぐための制限が加えられていることが明らかになったが、特定タイトルの模倣を明確に拒否した事例として、注目を集めているようだ。 Claudeは、スタートアップ企業Anthropicによって展開されている対話型AIだ。今年9月にリリースされたモデル「Opus 5.5」が根強い人気を獲得しているほか、今月10日に最新モデルとして「Fable 5.2」および「Mythos 5.2」がリリースされた。 10月30日、Xユーザーのchasm氏によって、Claudeのコーディング支援ツール「Claude Code」に新たなルールが追加されたとの報告が寄せられた。これは「tengu_hero</description>
+    </item>
+    <item>
+      <title>Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）｜TechRacho by BPS株式会社</title>
+      <link>https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307</link>
+      <pubDate>2026/11/12 17:46</pubDate>
+      <description>アンソロピックは2026年11月9日、1000のClaude Fable 5.2エージェントが、フェルマーの最終定理の証明を約30時間で形式化したと発表した。同社の技術記事によると、実験には初期版モデルを使い、60の目標命題や既存の47補題などを与えた。最終定理の形式化に要した時間は28.7時間だった。 形式化とは、数学の論証をコンピューターが検査できる言語で記述する作業だ。今回の成果は、既存の証明をLean証明支援系で検査可能にする過程で、多数のAIエージェントがどう役割を分担し、長時間の作業を進めたかを示す実験でもある。 ■60の目標命題と47補題から出発 フェルマーの最終定理は、3以上の整数nについて、aⁿ＋bⁿ＝cⁿを満たす正の整数a、b、cが存在しないという定理である。アンドリュー・ワイルズによる証明は、リチャード・テイラーとの共同研究による補完を経て1995年に公刊された。 ア</description>
+    </item>
+    <item>
+      <title>WebサイトをAgent Readyにしよう</title>
+      <link>https://unvalley.me/ja/blog/1793627906</link>
+      <pubDate>2026/11/12 18:11</pubDate>
+      <description>米MetaのパーソナルAIエージェント「Muse」に11月11日（日本時間）から、専用のメールアドレス（@muse.ai）を持たせられるようになった。日本でも12日までに、「Museのメールアドレスが取れた」との報告が相次いでいる。 ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、予定関連のメールをMuseのメアドに転送してカレンダーに予定を入れさせたりできるようになる。 米国とカナダでの提供開始は11日、正式にアナウンスされたが、同時期に日本でも利用できるようになったようだ。当初は有料ユーザーが対象で、今後、無料ユーザーを含む全員が使えるようになるという。 Museにチャットで「メールアドレス取れる？」などとたずねたり、設定画面の「コネクター」から「Museメール」を選ぶと設定が可能。 メールアドレス（「@muse.ai」の前の文字列）と差出人名（「○○の代理AIエージ</description>
+    </item>
+    <item>
+      <title>「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/steams-20261112-478874/</link>
+      <pubDate>2026/11/12 18:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c7a041dec0843e5dbcebf8416be6a0fd80a29128/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fav.watch.impress.co.jp%2Fimg%2Favw%2Flist%2F2155%2F698%2F10.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
+      <link>https://zenn.dev/dress_code/articles/568fd547315abe</link>
+      <pubDate>2026/11/12 12:01</pubDate>
+      <description>はじめに 伝票画面の表示処理が抱える問題 人間とAIによる大量テストの作成 並行して作ったら、レビューが重くなった 分担して進めたら、設計に差が生まれた 統一のために整えた2つのこと 1. 設計・実装の方針を揃える 2. 基準をレビュースキルにして、セルフチェックを統一する まとめ：AIに書かせるなら、方針と基準を先に決める はじめに 大きくなったコードを前に、「リファクタリングしたいけれど、どこに影響するか分からない」と手が止まったことはありませんか。 私たちが開発している「楽楽精算」でも、伝票画面の表示処理を担う複雑なメソッド（以下、伝票画面の表示処理）を前に、同じ悩みがあります。 楽楽精算は、AI搭載のクラウド型経費精算システムです。本記事では、「出張精算」「経費精算」といった申請の種類を「申請種別」、金額や内容を入力して作成・申請する個々の申請書を「伝票」と呼びます。伝票画面の表示</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <pubDate>2026/11/12 11:37</pubDate>
+      <description>大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 Gemini Decisions API: Fast multimodal decisions https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ The Gemini Decisions API is now in preview in @GoogleAIStudio, bringing our new Gemini Decision 1 model to workflows t</description>
+    </item>
+    <item>
+      <title>漁師が副業でサイバー攻撃、AIで侵入コストは「1社25ドル」　激安化する脅威とどう戦うか？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news006.html</link>
+      <pubDate>2026/11/12 07:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7a77b1473d7ae749ee1bea82ebcd2c990ace038b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2155%2F772%2Fyajiuma-watch_4.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NVIDIA、ファンCEOの解任準備と米紙報道　取締役会で進退議論 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN1209D0S6A111C2000000/</link>
+      <pubDate>2026/11/12 10:18</pubDate>
+      <description>書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。</description>
+    </item>
+    <item>
+      <title>My AI Agents (Re)discovered a Maya Site in 72 Hours</title>
+      <link>https://pietromiotti.com/latest/maya-site/?maya</link>
+      <pubDate>2026/11/12 04:59</pubDate>
+      <description>TL;DRAbout 45 open-source frameworks now automate attacks: Each one wires a language model into a loop that runs tools and acts on their output. We cataloged 32 of them into five families; the rest are forks and variants.Four ship a real secret scanner, but none ships the full pipeline: Pojun, Cybermes, Xalgorix, and AIRecon wire a scanner to the agent, yet none contains a GitHub fetcher. The mode</description>
+    </item>
+    <item>
+      <title>Parallel MCP: Web Search, Fetch, and Research for AI Agents</title>
+      <link>https://parallel.ai/mcp</link>
+      <pubDate>2026/11/11 09:54</pubDate>
+      <description>GoogleのAI「Gemini」にはログインしたアカウントのGmailやGoogleドライブと連携してよりパーソナルなチャットやデータ分析を行うことができる機能があります。この機能が明示的に指示していない場合でも個人データを参照しており、さらにはGeminiが読み取った個人情報について人間のレビュー担当者に見られている可能性があると報告されています。 GitHub - thisisme6598/gemini_files: Documentation of Gemini File Leaking Behavior · GitHub https://github.com/thisisme6598/gemini_files/ Googleは2026年3月に、GeminiがGoogleドキュメントなどのGoogle Workspaceでの作業をサポートする共同作業パートナーとして統合されることを</description>
+    </item>
+    <item>
+      <title>【公式】リアル脱出ゲーム『暴走する麻雀AIからの脱出』（麻雀脱出）</title>
+      <link>https://realdgame.jp/s/mahjong/</link>
+      <pubDate>2026/11/11 21:06</pubDate>
+      <description>AIの時代に問われるのは、一発で正解を出させる腕よりも、 失敗しても直っていく自己改善ループを組む技術だと私は考えています。 知っておきたいのは、開ループ、閉ループ、内ループ、外ループの4つです。 本記事の内容の出典としては、以下を挙げておきます。 この4つをループを漫才師にたとえて整理します。 4つのループは2つに分かれる やってみて結果を見て、次の行動を変える繰り返しを、ここではループと呼びます。 結果を見て直すか。直さないのが開ループ、直すのが閉ループです。 どこで回すか。ユーザーに届ける前が内ループ、届けた後が外ループです。 開と閉は「戻り道があるか」の話で、内と外は「回す場所」のことです。 ここからは、AIエージェント（指示を受けて、調査や修正を自分で進めるAI）をネタを書く芸人だと思ってください。 ユーザーは舞台を見に来たお客さんです。 開ループは「ネタの書きっぱなし」 ネタを</description>
+    </item>
+    <item>
+      <title>「オープンなAIモデル」に関する資料を無料公開、NII　「LLM-jp」の開発手法など解説</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/</link>
+      <pubDate>2026/11/10 14:32</pubDate>
+      <description>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。 AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰める。米国の巨大IT企業を含めた場合は、国内の利用者保護に向けた実効性の確保が問われそうだ。 問題が起きても協議に応じない事業者に対しては、国が必要に応じて強制力のある命令を出す。違反した場合に罰則を適用することを想定している。罰則は高性能なAIによる事案に絞る方向だ。 米国では開発中の先端AIが意図</description>
+    </item>
   </channel>
 </rss>
