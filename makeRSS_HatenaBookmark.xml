@@ -274311,5 +274311,161 @@ June 6, 2026</description>
       <pubDate>2026/11/10 17:06</pubDate>
       <description>An htop for what&amp;#39;s inside your GPU, not just how full it is. Windows + NVIDIA/AMD, with Linux and WSL support (NVIDIA everywhere, AMD and Intel on native Linux; see Linux and WSL) and macOS on Apple Silicon (see macOS). A terminal UI that connects per-process GPU memory and engine activity with loaded runtimes, model files, and LLM buffer breakdowns. Task Manager says &amp;quot;15 GB used.&amp;quot; This tries to a</description>
     </item>
+    <item>
+      <title>NVIDIA Announces CEO Transition</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
+      <pubDate>2026/11/12 23:14</pubDate>
+      <description>画像出典：Ammaar Reshi氏のX投稿 GoogleのAI開発ツール「Google AI Studio」でプロダクトとデザインの責任者を務めるAmmaar Reshi氏は11月11日（米国時間）、Appleの折りたたみスマホ「iPhone Duo」でWindows 11を動かしたとXに投稿しました。 Googleの最新AIモデル「Gemini 4 Carbon」を活用して実現したとのこと。 I used Gemini 4 Carbon to get Windows 11 running on my iPhone Duo! 💻 Unfold the screen and it&amp;#39;s a pocket PC, including Antigravity running coding agents on my phone. This is the actual desktop ARM OS</description>
+    </item>
+    <item>
+      <title>GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog</title>
+      <link>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</link>
+      <pubDate>2026/11/12 22:19</pubDate>
+      <description>11月11日、About Amazonが「How we built the agents that built AWS Emulator」と題した記事を公開した。AWSサービスのローカルエミュレータ「AWS Emulator」を、人間のコードレビューを一切介在させず自律型AIエージェントだけで構築した取り組みを詳細に紹介したものだ。 AIがコードを「補助する」段階はすでに過去になりつつある。今回の事例が踏み込んでいるのは、バグの発見から修正・マージ・リリースまでのサイクル全体をエージェントが自律的に回すという点だ。人間の役割はパイプラインの設計と境界線の定義に限られており、コードそのものには一切触れない。 人間がコードを一行も書いていない AWS Emulatorは、ローカル環境でAWSサービスを再現するエミュレータだ。ソースコードの全行が自律型AIエージェントによって書かれており、開発チ</description>
+    </item>
+    <item>
+      <title>Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/</link>
+      <pubDate>2026/11/12 17:30</pubDate>
+      <description>ノルウェーのサケ養殖場ではAIを搭載した水中ロボットが魚に付着した寄生虫を検出し、レーザーで駆除する取り組みが広がっています。テクノロジー系メディアのTom&amp;#39;s Hardwareによると、水中ロボットの稼働台数は3500台を超えているとのことです。 3,500 laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish — parasites get zapped by high-tech alternative to harsh chemical baths | Tom&amp;#39;s Hardware https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-rob</description>
+    </item>
+    <item>
+      <title>対話型AI「Claude」が『ポケモン』関連の生成を拒否するようになったとの報告。“再現ゲーム”だけでなく、ファンアートなどもNGか - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261112-478893/</link>
+      <pubDate>2026/11/12 19:13</pubDate>
+      <description>私はDHHのRails World 2026オープニングキーノートスピーチを観ていて、これこそがDHHのキーノートで不満に感じていた大きな問題だと気づきました。Rails Worldは「Ruby on Railsの未来を形作る」ためのイベントです。しかしDHHのスピーチは彼個人の持論に終始していて、目指すべき目標についてはかなりはっきりしていたものの、そこへ至るための肝心な「実践的（practical）」「具体的（prescriptive）」な方法はほとんど示されていませんでした（DHH自身も認めています）。 私たちのコミュニティにも、業界全体にも、ある種の不安が広がっています。私を含め、早い時期からLLMベースの新しいコーディングツールを使い倒して実際の業務に導入してきた人々ですら、その不安を拭いきれません。 DHHのキーノートを観終わってみて、「じゃあ何のためにやってるの？」というさみ</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2、フェルマーの最終定理を約30時間で形式化―1000エージェントの協調実験 | 財経新聞</title>
+      <link>https://www.zaikei.co.jp/article/20261111/877067.html</link>
+      <pubDate>2026/11/12 19:22</pubDate>
+      <description>AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWebサイトを発見・理解するために、サイト側の準備が完了していること」とします。 Cloudflareのisitagentready.com や Vercelのis-agentic.com を使うと、任意のサイトがAgent Readyかどうかを簡単にチェックすることができます。この2つがどういう指摘をするのか、実際にこのサイトをスキャンして確かめてみましょう。前提としてこのサイトは Next.js (OpenNext) on Cloudflare Work</description>
+    </item>
+    <item>
+      <title>AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/</link>
+      <pubDate>2026/11/12 13:11</pubDate>
+      <description>「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク Steamではここ数カ月、ゲームを発売するためのリリース前レビュー（審査）のプロセスに遅延が発生。最大で12営業日となる可能性がアナウンスされている。Steamでの審査は現在、申請から3週間以上経過しても完了していないゲームも存在。リリース日を告知できないばかりか、予定の発売日を過ぎて露出機会が減り、広報面においても影響が出始めている格好だ。また、一部作品では審査待ちの間にAIを使用したとみられる多数の類似作までもが出現。Steamの審査遅延は方々に波紋を広げている。 PCにおけるゲーム配信プラットフォームであるSteamでは、ゲームを販売するにあたり、Steamを運営するValveによるレビュー（審査）を受ける必要がある。このプロセスでは販売するゲーム自体と、それ</description>
+    </item>
+    <item>
+      <title>新経営体制でも「クリエイター主権」。新たなAIとの関係を示した「Adobe MAX 2026」【西田宗千佳のRandomTracking】</title>
+      <link>https://av.watch.impress.co.jp/docs/series/rt/2155698.html</link>
+      <pubDate>2026/11/12 13:42</pubDate>
+      <description>こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはずのことが、いつのまにか変わっていることがあります。 たとえば、仕様について質問しただけなのに、仕様を変える指示として記録されていたことがありました。了承していない提案が、次の作業では決定済みとして扱われていたこともあります。 この記事では、AIエージェントが決定を勝手に変えてしまった5つのパターンを紹介します。9月から11月の Claude Code と Codex のセッションログをもとに、実際の事例と、それを受けて見直した記録の方法、その</description>
+    </item>
+    <item>
+      <title>AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review</link>
+      <pubDate>2026/11/12 15:01</pubDate>
+      <description>パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: CQQRFV muse.ai はい、というわけで、Meta社製AIエージェントのMuseに課金も始めて、いろいろと設定を進めています。 先月まではGrok Botなどとの協業を前提に、SlackやNotion越しに複数のAIエージェントを連携させていたのですが、もはやそれすら不要かなと思える程度にはMuseへの一本化が進んできました。 Museの小ネタ集ですが、AI驚き屋は目指してないので、実際に使ってわかったことの備忘録みたいなもんです。 Muse Wonder (課金時の上位モデル) おそらく皆様が気になるであろう、課金して賢くなったかどうかでいうと、確かに賢くはなっているんですが、世間（Twitter）でいう</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27Bが12GBメモリで動く、Unslothが新量子化モデルを公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155856.html</link>
+      <pubDate>2026/11/12 13:37</pubDate>
+      <description>Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Starting on November 10, a threat actor used stolen GitHub credentials to push a malicious workflow payload into tens of thousands of repositories. The payload steals GitHub Actions secrets and cloud credentials. The payload</description>
+    </item>
+    <item>
+      <title>Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/12/2000003132/</link>
+      <pubDate>2026/11/12 11:50</pubDate>
+      <description>AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。 Claris Harbor | Claris, an Apple company https://content.claris.com/local-ai-server-get-started Apple&amp;#39;s Claris Testing &amp;#39;Harbor&amp;#39; App for Local AI on Macs - MacRumors https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/ Harborは記事作成時点ではプライベートプレビュー版の段階です。Clarisのウェブサイト内にはHarborのページが用意されており、「Appleシリコン搭載Macでオープンウェイトモデ</description>
+    </item>
+    <item>
+      <title>AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html</link>
+      <pubDate>2026/11/12 11:55</pubDate>
+      <description>bao @baobabustroll 定年後に移住する地方都市を検討する過程で、ChatGPTに仙台を激推しされてて、「でも仙台には富士山ないじゃん…」ってゴネたら「岩手山は盛岡から見たらほぼ富士山だから」ってジェネリック富士補給案を提示されたんだけど、岩手山ってジェネリック富士山として使えますか？ 2026-11-11 13:01:32</description>
+    </item>
+    <item>
+      <title>ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/12/2000003127/</link>
+      <pubDate>2026/11/12 11:01</pubDate>
+      <description>【シリコンバレー=山田航平】米半導体大手エヌビディアの取締役会が、ジェンスン・ファン最高経営責任者（CEO）の進退をめぐり、11日に議論することが分かった。米紙ウォール・ストリート・ジャーナル（WSJ）は、取締役会が解任準備を進めていると報じた。ブルームバーグ通信によると、エヌビディアの取締役会は外部企業の人材も含めてファン氏の後継候補を探しているという。WSJはファン氏が2人の女性と不倫関</description>
+    </item>
+    <item>
+      <title>Mozkey（もずきー）| 書くことに集中できる、日本語入力。</title>
+      <link>https://koyasi777.com/mozkey/</link>
+      <pubDate>2026/11/12 11:13</pubDate>
+      <description>弁護士荒川香遥 @koyoarakawa 相手本人から、ＡＩバリバリ書面に出くわすが、こういうときの反論書は、ＡＩに読み込まれることを前提に裁判例をつけまくることにしてる。相手は判例検索に課金していないから判例を使った反論ができないし、こちらの書面を読み込ませて、相手がＡＩに説得されてきちんとした妥結を図れて収束していく事例を多数感じてる。ありがとうＡＩ。 2026-11-10 19:20:13 弁護士荒川香遥 @koyoarakawa 弁護士法人ダーウィン法律事務所 創業・代表（弁護士11名）／四谷・立川・福井／ 所管は不動産法務。デベ、ハウスメーカー、仕入、仲介など幅広く対応。相談はリンク先から 前へ、次へ、その先へ realestate.darwin-law.jp</description>
+    </item>
+    <item>
+      <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
+      <link>https://zenn.dev/ubie_dev/articles/45501469c9c044</link>
+      <pubDate>2026/11/12 10:43</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/32d82b70d874754ed0c919a6b9f72eb72dd1be57/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2155%2F703%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</link>
+      <pubDate>2026/11/12 08:24</pubDate>
+      <description>5 min read (Last edit: 11 Nov) Update (11 November): it turns out the site had already been mapped in Estrada-Belli et al. 2025. The agents missed it while going through the literature, so they rediscovered it rather than discovered it (it just wasn&amp;#39;t in the register of Mexico&amp;#39;s National Institute of Anthropology and History, INAH, yet). Still work to do then! The rest of the story still holds. By</description>
+    </item>
+    <item>
+      <title>人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261111de74472</link>
+      <pubDate>2026/11/12 07:52</pubDate>
+      <description>The sessions are set and your seat is waiting. Register now</description>
+    </item>
+    <item>
+      <title>AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始</title>
+      <link>https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html</link>
+      <pubDate>2026/11/12 07:51</pubDate>
+      <description>AWS Emulator and the engineer&amp;#39;s job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working toward his PhD at the Vrije Universiteit in Amsterdam (where I happened to have received mine as well :-</description>
+    </item>
+    <item>
+      <title>【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</link>
+      <pubDate>2026/11/12 06:15</pubDate>
+      <description>software-factory-mode pluginの中の、現在の基本skill 移動式Software Factory (2026秋)として、GyazoやHelpfeelの開発環境にshokaiの考えるSoftware Factory 2026秋相当の作業フローを持ち込みたいを実装したもの ほぼ正気を疑う技術 - bugのないvibe codingを目指してで説明してる流れなのだが、内容を知らない人でも、skillを起動するだけでレールに乗れる user領域にインストールしておけばどこのリポジトリにでも持ち込める https://github.com/shokai/agent-skills/blob/main/plugins/software-factory-mode/skills/software-factory-mode-2026aki/SKILL.md このSkillのお陰でA</description>
+    </item>
+    <item>
+      <title>AI時代に知っておきたい４つのループエンジニアリング</title>
+      <link>https://zenn.dev/karamage/articles/896b63e8b94b16</link>
+      <pubDate>2026/11/10 22:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/85081f069f8bb42656ca5acfd04ef516da4395a0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2155%2F271%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「上限がある仕事」はオープンモデルへ──トークン爆発の時代に、今井翔太氏とNVIDIA井﨑武士氏が引くAIモデル選定の線</title>
+      <link>https://codezine.jp/article/detail/30321</link>
+      <pubDate>2026/11/11 19:22</pubDate>
+      <description>stock.adobe.com（フォーブス ジャパン編集部）企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期待感が薄れ、怒りを強めているという。 歴史的に見て、若者は新しいテクノロジーを最初に、そして最も速く取り入れてきた。ビデオゲーム、テキストメッセージ、ソーシャルメディアを思い浮かべればよい。若者はそれらがメインストリームになる前から日常的に使いこなしてきた。新しい世代が新技術の導入に反発するとき、リーダーは注意を払うべきだ。若者がAIに怒りを抱く3つの理由と、企業が取るべき対応を見ていく。 ■人工的な競争 Z世代は、AIと直接競争す</description>
+    </item>
+    <item>
+      <title>Claude Whiteboards, Claude Sheets, and Claude Data</title>
+      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+      <pubDate>2026/11/11 17:55</pubDate>
+      <description>npx modern-web-guidance@latest update インストール手順の詳細やその他の情報については、Modern Web Guidance のドキュメントをご覧ください。また、こちらの動画で概要を簡単に確認することもできます。 デベロッパーと企業が Modern Web Guidance を使用すべき理由 コーディング エージェントが、開発者がかつてないほど迅速にコードを記述するのに役立っていることは間違いありません。しかし、誰もがコーディング エージェントを使用する世界では、スピードはもはや競争上の優位性ではありません。 最近では、ユーザビリティやエクスペリエンスの質などの基本的な要素で差別化を図ることが、これまで以上に重要になっています。Modern Web Guidance が役立つ例をいくつかご紹介します。 モデルが見落としがちなベスト プラクティスを強化す</description>
+    </item>
+    <item>
+      <title>AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功</title>
+      <link>https://gigazine.net/news/20261111-doom-satelite-ops-sat/</link>
+      <pubDate>2026/11/11 12:31</pubDate>
+      <description>連載目次 Gemini Notebook（2026年7月に「NotebookLM」から改名）は、資料や動画を放り込んで、要約や音声解説、動画解説を作らせる道具として広まった。ただ、個人向けの公式APIはなく、資料の取り込みは手作業だった。プログラムから使うには、Enterprise向けの有料APIか、Webブラウザを裏で操作する非公式ツールなどを利用する必要があった。 その状況が変わった。Googleは2026年10月末から11月初めにかけて、「Gemini Notebook API」の公式ドキュメントを公開した。このAPIは、個人向けのGemini Notebookをプログラムから操作するための公式のREST APIで、AIエージェントから呼び出すためのMCP（Model Context Protocol：AIが外部ツールを呼び出すための共通規格）サーバも併せて提供される。いずれも公開プ</description>
+    </item>
+    <item>
+      <title>Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/</link>
+      <pubDate>2026/11/11 11:13</pubDate>
+      <description>いずれも比較用の簡易試算で、売上原価は販売済み商品の仕入原価のみを計上している。大規模言語モデル（LLM）の利用費用は1米ドル＝150円で換算した。 売上は人間運営が上回った一方、商品粗利はAI運営が上回った。質疑応答で登壇者の一人は、人間側が控えめな価格を設定したのに対し、AIは1～2割ほど利益を乗せた強気な価格を設定し、それが売れたため粗利が高くなったと説明した。需要予測の精度が高かったわけではないとしている。収支全体では、LLMの利用費用が重く、マイナス幅はAI運営の方が大きかった。 収支だけではAI自律運営の可否を判断できない。PwCコンサルティングの隅本晋太朗氏（シニアアソシエイト）は、専門家と運営記録を精査して整理した「AIに企業運営を委ねるための4つの論点」を紹介した。 AIに企業運営を委ねるための4つの論点 AIのリスク想定に全専門家が不足を指摘 AIは運営期間中、162件</description>
+    </item>
+    <item>
+      <title>Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/11/11/125745</link>
+      <pubDate>2026/11/11 13:18</pubDate>
+      <description>AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています。 Matteo&amp;#39;s Website – I&amp;#39;m Not Convinced The AI Bubble Exists https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists AIバブルとは、「AI業界の極端な過大評価によって実際の収益状況や需要以上に投資が過熱している状態」を指す言葉であり、いずれバブルがはじけると業界に深刻な悪影響が及ぶとされています。本来寄せられる以上の期待や投資がAIに集まることで、人々が</description>
+    </item>
+    <item>
+      <title>言語脳科学の第一人者・酒井東大教授が警鐘「青少年のAI使用を全面禁止せよ」《子どもの学力が急落、現役東大生にも異変が…》 | 文春オンライン</title>
+      <link>https://bunshun.jp/articles/-/93567</link>
+      <pubDate>2026/11/10 13:21</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
   </channel>
 </rss>
