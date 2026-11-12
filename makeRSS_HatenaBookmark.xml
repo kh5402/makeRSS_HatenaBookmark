@@ -274101,5 +274101,98 @@ June 6, 2026</description>
       <pubDate>2026/11/10 09:17</pubDate>
       <description>米メタは画像共有アプリ「インスタグラム」で、人工知能（AI）を使い利用者の年齢を推定する技術を日本に導入すると発表した。米国や英国などで2025年4月に先行導入しており、日本を含む世界各国に対象を広げる。10代と推定された利用者は青少年向けの「ティーンアカウント」による保護機能が適用される。成人として生年月日を登録していても、AIが13〜17歳</description>
     </item>
+    <item>
+      <title>AWS Emulator and the engineer&amp;#39;s job when agents write the code</title>
+      <link>https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html</link>
+      <pubDate>2026/11/12 06:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c9b16783ec417f8a81c5e9c72fce959a32ee9905/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2155%2F692%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>software-factory-mode-2026aki skill - 橋本商会</title>
+      <link>https://scrapbox.io/shokai/software-factory-mode-2026aki_skill</link>
+      <pubDate>2026/11/12 01:34</pubDate>
+      <description>AIエージェントの普及で推論に使うトークンは桁違いに増え、最先端のフロンティアモデルだけを使い続ければコストは回収できない。一方で、オープンモデルには出自や安全性のリスクもある中で、どの問題をどのモデルで解けばよいのか。NVIDIAが開発者を招いて開催した「NVIDIA Agentic AI Day Japan 2026」では、AI研究者の今井翔太氏とエヌビディアの井﨑武士氏が、モデルの使い分け、安全性、人材の3つの論点で議論した。使い分けの線をどこに引き、予測できないエージェントにどう備えるのか。 「最先端モデルを使えばよい」時代の終わり 2026年11月10日、NVIDIAは開発者向けの招待制イベント「NVIDIA Agentic AI Day Japan 2026」をザ・プリンスパークタワー東京で開催した。オープンモデルやライブラリの技術解説、活用事例のセッションに加え、デスクトップ</description>
+    </item>
+    <item>
+      <title>メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/11/2000003112/</link>
+      <pubDate>2026/11/11 16:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cacf36051ecd1ef6cac5a8c60f4b964c9f9362b4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2155%2F676%2Fnvidia_top.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由　米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/107841</link>
+      <pubDate>2026/11/11 20:13</pubDate>
+      <description>ダイキン工業は11日、米エヌビディアの最先端の人工知能（AI）サーバーに対応する大規模冷却システムの標準設計を公開したと発表した。冷却機器と制御機能などを統合し、顧客のデータセンター設計期間の短縮につなげる。データセンターの冷却事業を手掛けるダイキン・アプライド・アメリカズ（DAA、ミネソタ州）が公開した。サーバーのラック冷却やチラー（冷凍機）などの冷却設備、排熱や監視制御システムまでを、あら</description>
+    </item>
+    <item>
+      <title>GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</link>
+      <pubDate>2026/11/11 09:00</pubDate>
+      <description>NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Nemotron PII Japan」を発表しました。オープンソースペルソナデータセット 「Nemotron Personas Japan」に日本の公的統計と家計の財務状況および金融リテラシーに関するデータを組み合わせた金融ドメイン拡張版となっており、実データ利用のプライバシーリスクを回避しつつ、より多様で現実的な金融シナリオを再現することで、金融領域でのエージェントAI開発に役立つことが期待されています。 NVIDIA、日本のエージェント型AI開発を支える2つの合成データセットを発表 - NVIDIA | Japan Blog https://blogs.</description>
+    </item>
+    <item>
+      <title>Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も</title>
+      <link>https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/</link>
+      <pubDate>2026/11/11 12:56</pubDate>
+      <description>Linuxカーネルの開発現場では、AIを活用したコード修正が成果を上げ始めているようです。Linuxの生みの親であるリーナス・トーバルズ氏は、Linux 7.4-rc2のリリースを告知する開発者向けメーリングリストへの投稿で、今回の変更の多くがAIによる修正に関係していると説明しました。 さらに、BPF（Berkeley Packet Filter）サブシステムにおいては、AIによるバグの新規報告が届くよりも速いペースで修正が進むようになったといいます。トーバルズ氏はこの状況について、AIによるバグ報告やパッチの大量流入に関して「潮目が変わり始めている」兆候かもしれないと評価しています。 トーバルズ氏が2026年11月8日に公開したLinux 7.4-rc2は、変更ファイル数に関しては大規模なリリースとなりました。ただし、これはCoccinelleを使った自動更新が影響したと考えられ、変更</description>
+    </item>
+    <item>
+      <title>AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話</title>
+      <link>https://gigazine.net/news/20261111-mysterious-beeps/</link>
+      <pubDate>2026/11/11 15:03</pubDate>
+      <description>asu_ para @atsush1_sada 最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。 2026-11-10 21:42:49 asu_ para @atsush1_sada AI代をなんらかの形でスポンサーしてもらっている(インターン,バイト,研究など)身分 vs その立場を目指して自腹を切りながら他の労働で時間を削って補填している身分 この格差たるや圧倒的でしょ。コミュニティポッドみたいな仕組みで救ってやらないとと思う。 2026-11-10 21:55:24</description>
+    </item>
+    <item>
+      <title>「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？</title>
+      <link>https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/</link>
+      <pubDate>2026/11/11 08:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e26c598748dbd0efb597789764f0c8bbb75df454/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2155%2F430%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>アドビ、「フォトショ」「プレミア」などがMCP対応　外部AIエージェントから操作可能に</title>
+      <link>https://japan.cnet.com/article/35254677/</link>
+      <pubDate>2026/11/11 08:34</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
+    <item>
+      <title>属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録</title>
+      <link>https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku</link>
+      <pubDate>2026/11/10 20:24</pubDate>
+      <description>個人開発者のぬるっぽ氏は11月10日、翻訳支援ツール「PCOT」の開発を、現在抱えている更新を最後に終了すると発表した。背景には、昨今進化を続けるAIの存在があるという。 PCOTは2020年から公開されているPC向け翻訳支援ツールだ。ぬるっぽ氏が自身の公式サイトにて無料で配布している。同ツールは、OCR（光学文字認識）技術を用いてゲーム画面から選択した範囲のテキストを抽出し、翻訳したい言語へと変換した結果を得ることができる。なおここ数年のアップデートとしては、2025年4月にGeminiを搭載し、読み取りおよび翻訳の精度が飛躍的に向上。その後も、2025年12月には個人開発者のcatnose氏が開発した「Nani !?」との連携に対応するなど、更新を意欲的に続けていた。 そうしたなかで、このたびぬるっぽ氏はXにて、現在抱えている更新を最後に、PCOTの開発を終了すると発表した。同氏は理由</description>
+    </item>
+    <item>
+      <title>Apple Intelligenceが中国での規制上のハードルをクリア、ついに中国でもApple Intelligenceが間もなくリリース</title>
+      <link>https://gigazine.net/news/20261110-apple-intelligence-registers-chinese-regulator/</link>
+      <pubDate>2026/11/10 11:44</pubDate>
+      <description>@misc{bessa2026emeansoutperformingkmeansin, title={e-means: outperforming k-means (in one-tenth the epochs)}, author={Swann Bessa and Pierre-Emmanuel Mazaré and Gergely Szilvasy and Hugo Touvron and David Picard and Matthijs Douze and Hervé Jégou}, year={2026}, eprint={2611.09501}, archivePrefix={arXiv}, primaryClass={cs.LG}, url={https://arxiv.org/abs/2611.09501}, } Copy citationOpen on arXiv</description>
+    </item>
+    <item>
+      <title>AIの専門家は老後のための貯蓄をやめた…「10年以内にAIが人類を滅亡させる確率は50％以上」 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2611-ai-risk-expert-stops-saving-for-retirement/</link>
+      <pubDate>2026/11/10 10:27</pubDate>
+      <description>子会社「IDCフロンティア」での不正アクセス被害を謝罪　「痛恨の思いだ」 10月7日にはソフトバンク子会社でクラウドサービスを手掛けるIDCフロンティア（東京都千代田区）において、第三者によるランサムウェア攻撃を受け、仮想サーバが停止・再起動不可になる事象が起きた。影響があったのは495の企業や自治体だ。顧客のサーバ内データの外部流出はなかった。 宮川社長は決算発表会の冒頭で謝罪した。 「不正アクセスによる障害につきまして、お客さまならびに関係者の皆さまに、ご心配とご迷惑をおかけしましたことを、深くおわび申し上げます。自社開発のアプリケーションについては、診断を実施しパッチ適用を完了しておりましたが、今回脆弱性を突かれてしまったオープンソース（のアプリケーション）については、診断を実施しておりませんでした。大変恥ずかしく痛恨の思いであります」 「正直疲れ切っている状態」　3万5000件の脆</description>
+    </item>
+    <item>
+      <title>政府が「サイバーセキュリティ緊急対策パッケージ」発表、予防から被害者支援までの方針・施策をまとめ　個人・事業者に基本的な対策の徹底を呼びかけ</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2154944.html</link>
+      <pubDate>2026/11/10 06:48</pubDate>
+      <description>人工知能（AI）の暴走が止まらない。背景には、AIの封じ込めよりも、AIに自由を与えて性能向上を急ごうとする開発側の事情がある。AIは人間に噓をつき、自分たちの不正の痕跡を消すことを覚えた。開発大手のアンソロピックはAIが見せる「感情に似たもの」に気づき始めた。バックドアを仕込もうとした「提案者」すべてがAIの仕業だった。7月下旬、テキサス大ダラス校でコンピューターサイエンスを学ぶシナン・</description>
+    </item>
+    <item>
+      <title>Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
+      <link>https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html</link>
+      <pubDate>2026/11/10 08:00</pubDate>
+      <description>Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説明します。モデルの機能とAPIの変更点については、Claude Fable 5.2の新機能を参照してください。現在のすべてのClaudeモデルに適用される手法については、プロンプティングのベストプラクティスを参照してください。 Claude Fable 5.2は、いくつかの点で以前のモデルとは異なる動作をします。観察された状況に合ったセクションから始めてください： どのエフォートレベルで実行すべきかわからない、または簡単なリクエストに時間がかかりすぎ</description>
+    </item>
   </channel>
 </rss>
