@@ -274800,5 +274800,50 @@ June 6, 2026</description>
       <pubDate>2026/11/12 07:35</pubDate>
       <description>米NVIDIAは11月12日（現地時間、以下同）、1993年の共同創業以来、同社を率いてきたジェンスン・フアン氏が社長兼CEOと取締役を即日辞任したと発表した。後任として、最高財務責任者（CFO）のコレット・クレス氏が、暫定CEOに就任する。取締役会は正式なCEOの選定に着手し、社内外の候補者を検討するとしている。 クレス氏は13年9月に入社し、上級副社長兼CFOを務めてきた。取締役会はまた、米Synopsysの元CEOで取締役のHarvey C. Jones氏を、NVIDIA初の取締役会議長に任命した。Jones氏は「事業運営や顧客との約束、製品ロードマップは途切れることなく続くと見込んでいる」としている。四半期決算は予定通り17日に発表する。 フアン氏を巡っては、同氏と親密な関係にあった実業家が中国の情報機関に協力していた疑いを米情報当局が把握していたと、米New York Times</description>
     </item>
+    <item>
+      <title>楽園追放 心のレゾナンス：12年ぶり続編の挑戦　3DCGの現在地、AIと人間らしさ　水島精二監督インタビュー - MANTANWEB（まんたんウェブ）</title>
+      <link>https://mantan-web.jp/article/20261112dog00m200059000a.html</link>
+      <pubDate>2026/11/14 07:02</pubDate>
+      <description>「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…</description>
+    </item>
+    <item>
+      <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
+      <link>https://joisino.hatenablog.com/entry/searchrecbook</link>
+      <pubDate>2026/11/13 19:50</pubDate>
+      <description>渡邊 恵太 @100kw 今日は衝撃でした。 私「このスライドはAI使ってますよね？ソフトはなんですか？」 学生「全部AIです」 私「？Figmaですか？」 学生「スライドもAIでHTMLで作らせましたが、スライドソフト自体もAIでHTML製です。文字の位置調整とかできます」 私「🫨」 x.com/100kw/status/2… 2026-11-13 13:10:24 渡邊 恵太 @100kw これまでコンテンツをつくるためにアプリ・ソフトウェアツールがあったのだけど、生成AIで直接コンテンツ生成でき、ついでにエディタも添えられる。 - Menu - 「スライドコンテンツにエディタを添えて」 2026-11-13 13:16:09</description>
+    </item>
+    <item>
+      <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
+      <link>https://zenn.dev/karamage/articles/5c3f8370b2b370</link>
+      <pubDate>2026/11/13 15:02</pubDate>
+      <description>Home Repoパターンはコーディングエージェントで開発するときのワークスペース構成のパターンで、/grill-me などで知られる Matt Pocock が提唱し、自身のサイト AI Hero で解説しました。 The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy.前提となるのは、複数のリポジトリを横断する作業です。通常、1つのリポジトリで起動したエージェントは、そのリポジトリしか見えません。スキルや規則は各リポジトリに複製され、横断する機能の全体像は持てません。/add-dirなどであとから追加ロードすることになります。 その解決</description>
+    </item>
+    <item>
+      <title>The Home Repo Pattern</title>
+      <link>https://www.aihero.dev/the-home-repo-pattern</link>
+      <pubDate>2026/11/12 21:22</pubDate>
+      <description>Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time. We’ve been rolling out remote agents this week. Your tasks run in independent cloud virtual machines. Fire off a task, step away for coffee, unblock permissions from your phone, and come back to passed</description>
+    </item>
+    <item>
+      <title>元Anker CMOが挑む「AIのための記憶補完デバイス」、11グラムのAIウェアラブル「Memoket Gem」とは？ | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/13/5713.html</link>
+      <pubDate>2026/11/13 09:55</pubDate>
+      <description>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 Introducing Gemini 4 Hydrogen for Agentic Workflows https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Today we’re bringing the Gemini 4 series to everyone with Gemini 4 Hydrogen,</description>
+    </item>
+    <item>
+      <title>AIコンテンツを排除　心拍で証明する「実在する人間」だけのSNSが登場</title>
+      <link>https://japan.cnet.com/article/35254830/</link>
+      <pubDate>2026/11/13 12:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f7b4ae5f1e3ca7223b87f3b06a7ba5e69a3a04c4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2156%2F132%2F00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude、まるでExcelな表計算機能「Sheets」公開　共同作業用の「Whiteboards」も</title>
+      <link>https://japan.cnet.com/article/35254678/</link>
+      <pubDate>2026/11/11 08:32</pubDate>
+      <description>The sessions are set and your seat is waiting. Register now</description>
+    </item>
   </channel>
 </rss>
