@@ -274845,5 +274845,62 @@ June 6, 2026</description>
       <pubDate>2026/11/11 08:32</pubDate>
       <description>The sessions are set and your seat is waiting. Register now</description>
     </item>
+    <item>
+      <title>「AIっぽい」ポスター炎上騒動があぶり出したもの　使用ルールは手探りの中で「AI憎悪」抱く人々も：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/527516</link>
+      <pubDate>2026/11/13 17:37</pubDate>
+      <description>第2次トランプ政権を影で動かした米エヌビディアのジェンスン・ファン前最高経営責任者（CEO）。トランプ米大統領との短くも濃厚な蜜月関係は対中政策にきしみを招いて突如暗転した。両者を結びつけたラトニック商務長官にも火の粉が及ぶ。1年10カ月で突如終わった蜜月関係ラトニック氏の仲介でファン氏がトランプ氏と面会したのは、第2次政権発足直後の2025年1月31日。それまでファン氏はトランプ氏と会った</description>
+    </item>
+    <item>
+      <title>人間＋AIを「チーム」としてプロセスを再設計する</title>
+      <link>https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1</link>
+      <pubDate>2026/11/13 23:24</pubDate>
+      <description>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げやりな推薦アルゴリズムすらあるような時代です。この教科書では、そのようなものからエージェントベースの手の込んだ手法まで、LLM 時代の手法を詳しく解説しました。もちろん、転置インデックスや行列分解などの古典的な手法も丁寧に解説し、またそれだけでなく、古典的な手法と LLM 時代の手法のシナジー効果を生む手法や、それぞれの使い分け場面についても解説し、骨太の解説になるように心がけました。それぞれ 320 ページと 288 ページで、合わせて 600 ページ以上あり、両方読めば情報検索分野の</description>
+    </item>
+    <item>
+      <title>ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到</title>
+      <link>https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/</link>
+      <pubDate>2026/11/13 19:30</pubDate>
+      <description>渡邊 恵太 @100kw 今日は衝撃でした。 私「このスライドはAI使ってますよね？ソフトはなんですか？」 学生「全部AIです」 私「？Figmaですか？」 学生「スライドもAIでHTMLで作らせましたが、スライドソフト自体もAIでHTML製です。文字の位置調整とかできます」 私「🫨」 x.com/100kw/status/2… 2026-11-13 13:10:24 渡邊 恵太 @100kw これまでコンテンツをつくるためにアプリ・ソフトウェアツールがあったのだけど、生成AIで直接コンテンツ生成でき、ついでにエディタも添えられる。 - Menu - 「スライドコンテンツにエディタを添えて」 2026-11-13 13:16:09</description>
+    </item>
+    <item>
+      <title>Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/11/a2ui-1.0</link>
+      <pubDate>2026/11/13 09:18</pubDate>
+      <description>Home Repoパターンはコーディングエージェントで開発するときのワークスペース構成のパターンで、/grill-me などで知られる Matt Pocock が提唱し、自身のサイト AI Hero で解説しました。 The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy.前提となるのは、複数のリポジトリを横断する作業です。通常、1つのリポジトリで起動したエージェントは、そのリポジトリしか見えません。スキルや規則は各リポジトリに複製され、横断する機能の全体像は持てません。/add-dirなどであとから追加ロードすることになります。 その解決</description>
+    </item>
+    <item>
+      <title>下剤・内視鏡不要の大腸がん検査、AIで「便を取り除く」27年実用化へ新興が55億円調達 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC09ANP0Z01C26A1000000/</link>
+      <pubDate>2026/11/13 07:42</pubDate>
+      <description>公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude Codeに指示を出しても思った結果にならないなら、見直したいのは指示の書き方よりも、Claude Codeの周りに置く「環境」です。私の場合、指示の入口はClaude Code 1つだけ。判断AI・フック・権限ルールといった「ハーネス」を通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分けています。作業はサブエージェントが分担して検品まで済ませるので、スライドも動画もブログ記事も、毎回ほぼ同じ品質で上がってきます。こ</description>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen の概要｜npaka</title>
+      <link>https://note.com/npaka/n/nf3aa0a193147</link>
+      <pubDate>2026/11/13 09:19</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/501b0f28ab0f1d9f98069f6a85f13bb3ef24f312/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2156%2F244%2Fms00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Introducing Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <pubDate>2026/11/13 03:36</pubDate>
+      <description>AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマークが「SlopCodeBench」です。 SlopCodeBench https://www.scbench.ai/ SprocketLab/slop-code-bench: SlopCodeBench: Measuring Code Erosion Under Iterative Specification Refinement https://github.com/SprocketLab/slop-code-bench advanced-context-engineering-for-cod</description>
+    </item>
+    <item>
+      <title>[新サービス] AWS Emulator 発表！実 AWS と比べ、Claude Code にローカルでテストと修正を繰り返させてみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/20261112-aws-emulator/</link>
+      <pubDate>2026/11/12 16:58</pubDate>
+      <description>サウスパーク1の初期シーズンで、山あいの町でパンツが次々に紛失する怪事件の原因をカートマンたちが探るエピソード2がありました。この事件は洞穴に住むパンツの妖精のしわざで、妖精たちは以下のように肝心な部分が欠落した間抜けなビジネスプランに基づいて盲目的に行動していたのでした。 Railsの生みの親であるDHH（David Heinemeier Hansson）のRails World 2026オープニングキーノートスピーチを観ていて、これこそがDHHのキーノートで不満に感じていた大きな問題だと気づきました。Rails Worldは「Ruby on Railsの未来を形作る」ためのイベントです。しかしDHHのスピーチは彼個人の持論に終始していて、目指すべき目標についてはかなりはっきりしていたものの、そこへ至るための肝心な「実践的（practical）」「具体的（prescriptive）」な方</description>
+    </item>
+    <item>
+      <title>テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に</title>
+      <link>https://www.publickey1.jp/blog/26/playwrightbun.html</link>
+      <pubDate>2026/11/12 07:38</pubDate>
+      <description>AWS Emulator and the engineer&amp;#39;s job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working toward his PhD at the Vrije Universiteit in Amsterdam (where I happened to have received mine as well :-</description>
+    </item>
   </channel>
 </rss>
