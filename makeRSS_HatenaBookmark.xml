@@ -274998,5 +274998,53 @@ June 6, 2026</description>
       <pubDate>2026/11/11 18:40</pubDate>
       <description>はじめに 伝票画面の表示処理が抱える問題 人間とAIによる大量テストの作成 並行して作ったら、レビューが重くなった 分担して進めたら、設計に差が生まれた 統一のために整えた2つのこと 1. 設計・実装の方針を揃える 2. 基準をレビュースキルにして、セルフチェックを統一する まとめ：AIに書かせるなら、方針と基準を先に決める はじめに 大きくなったコードを前に、「リファクタリングしたいけれど、どこに影響するか分からない」と手が止まったことはありませんか。 私たちが開発している「楽楽精算」でも、伝票画面の表示処理を担う複雑なメソッド（以下、伝票画面の表示処理）を前に、同じ悩みがあります。 楽楽精算は、AI搭載のクラウド型経費精算システムです。本記事では、「出張精算」「経費精算」といった申請の種類を「申請種別」、金額や内容を入力して作成・申請する個々の申請書を「伝票」と呼びます。伝票画面の表示</description>
     </item>
+    <item>
+      <title>AIについての追記</title>
+      <link>https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html</link>
+      <pubDate>2026/11/14 19:13</pubDate>
+      <description>2026年11月14日|21分 AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 ゲスト: 天野仁史（多摩川機構エンジニアリング株式会社 代表） 一人の会社に、開発チームがいくつもある。 コードを書くAI、デザインするAI、それらを束ねるAI。スマートニュースでiOS・Android・Webの3チームを率いたamachang（天野仁史）は、いま、そんなチームを動かしている。外からは気軽そうに見える一人会社の実態は、多くの働き手をマネジメントする会社だった。 しかも、AIに伝えるのは、会社の資金、顧客の事情、仕事の優先順位だ。設計に問題が見つかれば、それが事業にどう響くのか、いま直すべきなのかを説明してもらう。コードを任せるために、会社の事情まで共有する。話していることは、開発責任者との打ち合わせに近づいている。 話が夕食の献立に移っても、</description>
+    </item>
+    <item>
+      <title>Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出</title>
+      <link>https://japan.cnet.com/article/35254868/</link>
+      <pubDate>2026/11/14 07:02</pubDate>
+      <description>ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。 A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it&amp;#39;s harmful | Eurogamer.net https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai GDCが発表した最新のゲーム業界の現状レポートは、ゲーム業界で働く開発者・プロデューサー・マーケター・経営幹部・投資家などを含む2300人以上を対象にアンケート調査を実施</description>
+    </item>
+    <item>
+      <title>幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明</title>
+      <link>https://gigazine.net/news/20261114-llm-fluency-credible/</link>
+      <pubDate>2026/11/14 08:05</pubDate>
+      <description>Microsoft 365で「大規模障害」発生、TeamsやCopilotなど利用不能に　サーバー不具合 | Forbes JAPAN 公式サイト（フォーブス ジャパン） マイクロソフトは、米国時間11月12日午後に「Microsoft 365」のサービス障害が報告されて以来、問題の解決に向けた対応を続けている。同社はインフラの負荷増大について、トラフィック（アクセス… 1 user forbesjapan.com Microsoft Copilot とは？2026年最新版｜企業に選ばれる理由と進化するAI活用を解説 | HP Tech&amp;amp;Device TV 2026年最新の Microsoft Copilot は、業務データと連携し「実行役」として進化しています。企業が安全に活用するための理由や、ChatGPTとの違い、導入ステップを解説。 4 users 18 HP Tech&amp;amp;Devic</description>
+    </item>
+    <item>
+      <title>中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた</title>
+      <link>https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</link>
+      <pubDate>2026/11/13 20:28</pubDate>
+      <description>第2次トランプ政権を陰で動かした米エヌビディアのジェンスン・ファン前最高経営責任者（CEO）。トランプ米大統領との短くも濃厚な蜜月関係は対中政策にきしみを招いて突如暗転した。両者を結びつけたラトニック商務長官にも火の粉が及ぶ。1年10カ月で突如終わった蜜月関係ラトニック氏の仲介でファン氏がトランプ氏と面会したのは、第2次政権発足直後の2025年1月31日。それまでファン氏はトランプ氏と会った</description>
+    </item>
+    <item>
+      <title>GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能</title>
+      <link>https://gigazine.net/news/20261113-google-intelligent-eyewear/</link>
+      <pubDate>2026/11/13 11:41</pubDate>
+      <description>「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…</description>
+    </item>
+    <item>
+      <title>マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず　復旧は未定（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/389014bdb42803afcfc1e7dfff5acecdf4200ca3</link>
+      <pubDate>2026/11/13 07:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cc2607894d24d00f760db594cf50a5d6722591c5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2156%2F117%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨</title>
+      <link>https://github.com/tsukumijima/YacchoGPT</link>
+      <pubDate>2026/06/15 07:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5e593ee2ec0d792e32fb1f70246913658b8e3b02/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fai.watch.impress.co.jp%2Fimg%2Faiw%2Flist%2F2156%2F013%2F0500.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
