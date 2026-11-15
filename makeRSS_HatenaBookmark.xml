@@ -275178,5 +275178,41 @@ June 6, 2026</description>
       <pubDate>2026/11/14 09:52</pubDate>
       <description>グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。 「Personal Intelligence」の連携先にGoogle Walletが加わる（画像：Google、公式ブログより） ※クリックすると拡大画像が見られます 今回の機能は、GmailやGoogleフォト、YouTube、Google検索などの情報を使って回答を利用者に合わせる「Personal Intelligence」を拡張するもの。新たにGoogle Walletと連携し、支払い方法や領収書などの情報を参照できるようにした。さらに、金融データ連携サービス「Plaid」を通じて銀行口座やクレジットカードをWalletに接続すれば</description>
     </item>
+    <item>
+      <title>信号機AI制御8000カ所、東京都内全域導入へ　渋滞長さ1割減で物流円滑に - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD292PN0Z20C26A9000000/</link>
+      <pubDate>2026/11/16 06:39</pubDate>
+      <description>デザインハーネスは虚像だ。 デザインハーネスについてまじめにやっている人のことを非難したいわけではない。これが必要だと思う人はやれば良いと思う。だけど僕を巻き込まないでほしい。過度な宣伝をして「デザインハーネスをやらなければ」という流れをつくることはやめていただきたい。たのむ。静かにやってくれ。 デザインハーネスの何が虚像なのか。 まずデザインハーネスを語るとき、デザインは「無駄なもの」という扱いを受けていると感じる。開発の速度が上がったのでデザインがボトルネックになっているとか、デザインが属人的になっていて良くないとか、デザイナーが足りないのでエンジニアやPMがデザインします、とか。いかにデザインにかかる時間とか工数とか手間とかを減らせるかについて議論している。どうすればより良いデザインができるかについての議論が全然なされていない。この議論から目を背けている時点で虚像だ。デザインはボトル</description>
+    </item>
+    <item>
+      <title>AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる</title>
+      <link>https://togetter.com/li/2770776</link>
+      <pubDate>2026/11/15 23:21</pubDate>
+      <description>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そもそもPostgreSQLは毎年9月もしくは10月にメジャーバージョンアップしてきました。 PostgreSQL 14：2021年9月30日リリース PostgreSQL 15：2022年10月13日リリース PostgreSQL 16：2023年9月14日リリース PostgreSQL 17：2024年9月26日リリース PostgreSQL 18：2025年9月25日リリース しかし今回のメジャーバージョンアップでは、正式リリース直前の9</description>
+    </item>
+    <item>
+      <title>LLMはソフトウェア開発に「重力」をもたらした ― 建築家と考える、AI時代の設計 - arclamp</title>
+      <link>https://arclamp.hatenablog.com/entry/2026/11/14/224526</link>
+      <pubDate>2026/11/15 06:36</pubDate>
+      <description>近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を処理するようになったら、実際に重要な5%の対応能力は低下するのか？」という疑問について考察しています。 AI Isn&amp;#39;t Replacing SREs. It&amp;#39;s Deskilling Them. https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling 1983年に発表された研究論文「自動化の皮肉」は産業システムにおける自動化の進展を分析しました。その結果</description>
+    </item>
+    <item>
+      <title>AI時代のチーム組成を考える｜Genki Sano</title>
+      <link>https://note.com/sanogemaru/n/ne9df8a63ec82</link>
+      <pubDate>2026/11/14 23:43</pubDate>
+      <description>Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/</description>
+    </item>
+    <item>
+      <title>米エヌビディアのフアンCEOが辞任、議会委は証言を要請……不倫問題で大揺れのAI半導体大手 - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/articles/cm5y1j47wp5yo</link>
+      <pubDate>2026/11/13 13:14</pubDate>
+      <description>ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。 A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it&amp;#39;s harmful | Eurogamer.net https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai GDCが発表した最新のゲーム業界の現状レポートは、ゲーム業界で働く開発者・プロデューサー・マーケター・経営幹部・投資家などを含む2300人以上を対象にアンケート調査を実施</description>
+    </item>
+    <item>
+      <title>Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title>
+      <link>https://gigazine.net/news/20261111-gemini-4-carbon/</link>
+      <pubDate>2026/11/11 18:11</pubDate>
+      <description>主な仕様は次のとおりです。 Linux では RPM パッケージまたは Debian パッケージで導入します。macOS と Windows ではドキュメントに掲載された Dockerfile からイメージをビルドし、コンテナで動かします（ビルド済みのイメージは公開されていません） 既定では 127.0.0.1:9297 で HTTPS を提供します。起動のたびに認証情報、設定ファイル、証明書を ~/.aws/emulator/&amp;lt;ポート&amp;gt;/ に生成し、リクエストにはそのキーによる SigV4 署名を求めます 1 つのエミュレーターは 1 つのアカウント（000000000000）として動作し、リソースはメモリにだけ保持します。停止するとリソースは消えます 各サービスは AWS SDK と同じ公開 API モデルから生成されています。サポート済みのオペレーションは AWS と同じ結果とエラー</description>
+    </item>
   </channel>
 </rss>
