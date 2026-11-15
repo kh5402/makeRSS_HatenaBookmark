@@ -275064,5 +275064,65 @@ June 6, 2026</description>
       <pubDate>2026/11/15 11:53</pubDate>
       <description>Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、スターは1万6000に達した。Autodeskの「Fusion」に近い操作の流れを掲げて始まり、Fusionが対応していないLinuxでも動き、ブラウザーでも使える。AIエージェントがCADを直接操作できるのも特徴だ。AIがなければ大きすぎて手を出せなかったと語るHerbruck氏に、書面で取材した。 SolidCraftは「パラメトリック」と呼ばれる種類の3D-CADだ。平面にスケッチを描いて寸法や拘束を付け、押し出しや回転で立体に</description>
     </item>
+    <item>
+      <title>今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi</title>
+      <link>https://note.com/at_sushi_at/n/n2e6ea3453e37</link>
+      <pubDate>2026/11/15 18:51</pubDate>
+      <description>11,000 pull requests in one month, with a revert rate around 0.5%. Lauren Tan (poteto) shares how the Grok Bot team at SpaceXSI scales AI coding agents through software architecture, lint rules, automated testing, runtime verification and formal verification with TLA+ and Lean. See how Cursor agents and pstack turn these software engineering foundations into reliable software factories. Speaker</description>
+    </item>
+    <item>
+      <title>プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.</title>
+      <link>https://note.com/kohya_ss/n/nb028d0974cdd</link>
+      <pubDate>2026/11/15 14:01</pubDate>
+      <description>韓国ソウルの試験会場で、大学修学能力試験の開始を待つ生徒たち（資料写真、2025年11月13日撮影）。（c）KIM HONG-JI/POOL/AFP 【11月15日 AFP】韓国警察は15日、税理士の国家資格試験で首席合格した受験者が人工知能（AI）を使った不正行為を認めたことを受け、捜査を開始したと発表した。 4月と7月に実施された国家資格試験の1次試験と2次試験の両方でトップの成績を収めていたこの受験者は、弁護士を通じて不正行為を認める書面を提出し、試験中にAIを使って解答を得ていたことを明らかにした。 1次試験では400点満点中397.5点を獲得し、全160問のうち間違えたのはわずか1問だった。このため、スマートグラスを使って不正行為をしたとの疑惑が浮上したが、当初は否定していた。 ソウル警察庁は「今朝、税理士試験での不正行為について、受験者の弁護士を通じて自白書を受け取った」と発表</description>
+    </item>
+    <item>
+      <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
+      <link>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</link>
+      <pubDate>2026/11/15 13:23</pubDate>
+      <description>近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を処理するようになったら、実際に重要な5%の対応能力は低下するのか？」という疑問について考察しています。 AI Isn&amp;#39;t Replacing SREs. It&amp;#39;s Deskilling Them. https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling 1983年に発表された研究論文「自動化の皮肉」は産業システムにおける自動化の進展を分析しました。その結果</description>
+    </item>
+    <item>
+      <title>個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）</title>
+      <link>https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/</link>
+      <pubDate>2026/11/15 08:49</pubDate>
+      <description>少人数のチームを作るだけでは、組織は変わらないAIによって個人ができることが増え、少人数のチームが良さそうだという話自体は、最近になって出てきたものではありません。 例えば、 @TAKAKING22 さんの「AI時代のアジャイルチームを目指して」で、少人数のチームとAIを組み合わせた働き方や、それを支える組織のあり方が議論されています。 ただ、ここでチームの人数だけを減らしても、組織全体の働き方が変わるとは限りません。 例えば、これまでQAの専門家が品質に関する判断を担っていたチームから、QAの専門家を外したとします。 そのとき、品質に関する判断は誰がするのでしょうか。 これまでどおりQAの専門家に確認する必要があるのであれば、チームの人数は減っても、仕事の進め方はそれほど変わっていません。 むしろ、専門家が複数のチームから相談を受けることで、新しいボトルネックが生まれる可能性もあります。</description>
+    </item>
+    <item>
+      <title>E2E Test というハーネス — AI時代の自動テスト民主化</title>
+      <link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link>
+      <pubDate>2026/11/14 18:13</pubDate>
+      <description>以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents</description>
+    </item>
+    <item>
+      <title>AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い</title>
+      <link>https://www.47news.jp/15231027.html</link>
+      <pubDate>2026/11/14 23:55</pubDate>
+      <description>どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt for ARTEX: understanding agentic attacks in AWS environments」で報告しました。 エージェントは、公開されたユーザープール（自己サインアップが有効で、アプリクライアント ID がフロントエンドから分かるもの）にサインアップを試み、拒否されても試行を続けて登録しました。得たトークンは AWS の一時認証情報に交換し、アカウント内の探索を試みています。脆弱性ではなく設</description>
+    </item>
+    <item>
+      <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+      <link>https://zenn.dev/caphtech/articles/qwen38-zh-ban</link>
+      <pubDate>2026/11/14 19:07</pubDate>
+      <description>定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る操作をしたとき、別の画面から入ったとき、と条件の違いを 1 つずつケースに起こすからです。 この分け方にしていたので、あとで RBT を入れたときも、定義は 1 行も消さずに済みました。回すケースを選ぶのは、実行記録の上だけだからです。 課題 AIで書くと、そのペースで増える テストケースは、PRD や Figma、PR の差分から AI で書いています。細かいケースでも AI なら短い時間で書けるので、ケースは機能を作るたびに、そのペースで増えていきました。1 回のリリースで、UAT</description>
+    </item>
+    <item>
+      <title>たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</link>
+      <pubDate>2026/11/13 17:26</pubDate>
+      <description>約45兆円を運用する農林中央金庫が、半導体株の上場投資信託（ETF）の投資に踏み切った。市場全体への幅広い投資に徹してきた同金庫にとって異例の判断だ。海外の年金基金も人工知能（AI）関連株に押し目買いを入れているという。AI銘柄はさえない値動きだが、成長ストーリーは健在だとみる長期資金は動き始めている。13日の日経平均株価は前日比322円高で引けた。米エヌビディアのジェンスン・ファン最高経営責</description>
+    </item>
+    <item>
+      <title>【Hothotレビュー】 メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html</link>
+      <pubDate>2026/11/13 06:49</pubDate>
+      <description>アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。 Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs · Unemployment Labs https://unemploymentlabs.com/checkpoint-forensics アメリカ製高性能AIチップに関する輸出入制限は緩和の方向に動いており、2026年5月にアメリカ政府が中国企業への販売を承認したほか、中国も輸入承認の方針であることが報じられています。しかし、Unemployment Labsの調査で</description>
+    </item>
+    <item>
+      <title>o11y基盤とAIで戦ったISUCON2026参加記（126,634点・126位）</title>
+      <link>https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026</link>
+      <pubDate>2026/11/10 14:57</pubDate>
+      <description>こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはずのことが、いつのまにか変わっていることがあります。 たとえば、仕様について質問しただけなのに、仕様を変える指示として記録されていたことがありました。了承していない提案が、次の作業では決定済みとして扱われていたこともあります。 この記事では、AIエージェントが決定を勝手に変えてしまった5つのパターンを紹介します。9月から11月の Claude Code と Codex のセッションログをもとに、実際の事例と、それを受けて見直した記録の方法、その</description>
+    </item>
   </channel>
 </rss>
