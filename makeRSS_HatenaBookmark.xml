@@ -275214,5 +275214,107 @@ June 6, 2026</description>
       <pubDate>2026/11/11 18:11</pubDate>
       <description>主な仕様は次のとおりです。 Linux では RPM パッケージまたは Debian パッケージで導入します。macOS と Windows ではドキュメントに掲載された Dockerfile からイメージをビルドし、コンテナで動かします（ビルド済みのイメージは公開されていません） 既定では 127.0.0.1:9297 で HTTPS を提供します。起動のたびに認証情報、設定ファイル、証明書を ~/.aws/emulator/&amp;lt;ポート&amp;gt;/ に生成し、リクエストにはそのキーによる SigV4 署名を求めます 1 つのエミュレーターは 1 つのアカウント（000000000000）として動作し、リソースはメモリにだけ保持します。停止するとリソースは消えます 各サービスは AWS SDK と同じ公開 API モデルから生成されています。サポート済みのオペレーションは AWS と同じ結果とエラー</description>
     </item>
+    <item>
+      <title>NTT、フロンティアAIに迫る脆弱性発見能力を持つソブリン型サイバーセキュリティAI技術を開発　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2156595.html</link>
+      <pubDate>2026/11/16 11:47</pubDate>
+      <description>IPUSIRON（イプシロン） 1979年福島県相馬市生まれ。相馬市在住。タイトルにある「ミジンコ」は、サインに添えて素早く描けるシンプルなイラストとして採用したものであり、同時に「常に初心を忘れない」という自戒も込めている。2001年に『ハッカーの教科書』（データハウス）を上梓。情報・物理的・人的の観点から総合的にセキュリティを研究しつつ、執筆を中心に活動中。その集大成として2026年1月に『サイバー忍者入門』（翔泳社）を刊行。主な著書に『ハッキング・ラボのつくりかた 完全版』『暗号技術のすべて』（翔泳社）、『ホワイトハッカーの教科書』（C&amp;amp;R研究所）などがある。 X：@ipusiron　GitHub：ipusiron　ブログ：Security Akademeia　著書『暗号技術のすべて』　著書『ハッキング・ラボのつくりかた 完全版』　著者記事一覧 はじめに 本連載『ミジンコの読書案内』</description>
+    </item>
+    <item>
+      <title>「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽</title>
+      <link>https://note.com/tatsuya_koyama/n/nb7aa1ba71aba</link>
+      <pubDate>2026/11/16 10:58</pubDate>
+      <description>日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 Haru-4B: 低遅延・多言語の全二重連続音声対話基盤モデル | higurashi Tech Blog https://blog.higurashi.ai/melte/haru4b-ja/ Haru-4Bはユーザーの声を聞きながら話せる「full-duplex(全二重)」な連続音声対話基盤モデルとして開発されており、ユーザーの発話に対して相づちを打ったり会話に割り込んだりすることができます。実際の会話例は以下のポストで確認できます。 【人間のように、自然に笑い、相槌を打つ「人間らしいAI」】 4BのFull-duplex音声対話モデルを4,000万時間の日本語、英語を含む多言語データで事前学習し、オープンウェイトで公開しました！ 弊</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2156560.html</link>
+      <pubDate>2026/11/16 09:17</pubDate>
+      <description>チャットＧＰＴのロゴ＝ロイター（読売新聞）　「やっぱりチャッピーに聞いたんだ」。夏休み明けの９月、千葉県に住む公立中学１年の女子生徒（１２）は、同級生が提出した理科の自由研究を見て確信した。「１０円玉がピカピカになる方法」。５人以上が同じテーマを扱っていた。 【図解】母親のスマホ借りてチャッピー…宿題での使用率 チャッピーとは、対話型の生成ＡＩサービス「チャットＧＰＴ」の愛称だ。女子生徒は中学入学時から、母親のスマートフォンで使い始めた。自由研究のテーマを探すのに、チャッピーの入力欄へ「夏休み」「自由研究」「テーマ」と打ち込んだ。瞬時に１０個のお薦めテーマが示された。「１０円玉がピカピカ」はその一つ。その時は「みんながやりそうだ」と思って、避けた。 自由研究は母親と考えた別の化学実験でリポートを書いた。でも、自力では提出に必要な枚数に届かず、お手上げ状態に。結局、チャッピーを頼った。「どう</description>
+    </item>
+    <item>
+      <title>OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_972/</link>
+      <pubDate>2026/11/16 10:34</pubDate>
+      <description>こんにちは、Hiromu Nakamura (pon) です。LayerX で AI/MLOps テックリードをやってます！ 最近、公開前の機能の探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。探索的テストはテストケースを前もって作り込まず、実際に画面を触りながら次に試すことを決めていくテストです。AI がブラウザを動かして、Web アプリを画面から触ってテストする仕組みになっています。 内製 Coding Agent である haro は社内で持っている GPU サーバーにもつながっていて、そこで動かしているオープンウェイトのモデルを使えます。今回、画面の操作に使っている Qwen3.8-27B もその 1 つです。 今回はその仕組みと、約 10 時間で 47 本のシナリオを回し</description>
+    </item>
+    <item>
+      <title>この写真のクレープを注文して出てきたのがこちら「なんだこのアルフォートは！？？」「高校の文化祭クオリティやんけ」</title>
+      <link>https://togetter.com/li/2770950</link>
+      <pubDate>2026/11/16 08:41</pubDate>
+      <description>正直ここに関してはgemini以下</description>
+    </item>
+    <item>
+      <title>Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開</title>
+      <link>https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html</link>
+      <pubDate>2026/11/16 07:34</pubDate>
+      <description>東京都心の渋滞を緩和するため、警視庁が一部の信号機で導入している人工知能（AI）を使った制御を2027年度にも都内全域に広げる。23年度から始めた実証実験で渋滞緩和の効果が確認でき、円滑な物流の推進に役立つと判断した。信号機のAI制御は、幹線道路が交わる交差点では交通量や過去のデータから30分後の渋滞を予測して切り替えを調整する。比較的規模の小さい交差点ではリアルタイムで渋滞を検知し、信号を切</description>
+    </item>
+    <item>
+      <title>宿題ぐらい「自力でやらないと」…でも勉強はチャッピー頼み、思考丸投げ「自分の今後怖い」</title>
+      <link>https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20261116-GYT1T00001/</link>
+      <pubDate>2026/11/16 05:06</pubDate>
+      <description>AIE Code Summit 2026 の登壇者と参加者が書いた「No AI Slop: A Manifesto」を読んで、めちゃくちゃ感動したので紹介します。 www.slopmanifesto.com 2001年、17人のエンジニアがユタ州 Snowbird のスキーロッジに集まって アジャイルソフトウェア開発宣言 を書きました。それに倣って、AI が量産する slop（雑な生成物）に向き合うための宣言を作ろう、という試みです。 五つの価値 アジャイル宣言と同じ「〜 over 〜」の形で、五つの価値が並んでいます。 Outcomes over output Understanding over speed Our own thinking over a model&amp;#39;s first draft Better work over easier work Improving the sys</description>
+    </item>
+    <item>
+      <title>さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH</title>
+      <link>https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026?slide=20</link>
+      <pubDate>2026/11/15 20:52</pubDate>
+      <description>AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる</description>
+    </item>
+    <item>
+      <title>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
+      <link>https://www.publickey1.jp/blog/26/postgresql_194ai.html</link>
+      <pubDate>2026/11/15 23:03</pubDate>
+      <description>自宅鯖でありがちな、「SSH鍵をサーバごとに分けると管理が面倒。でも、同じ鍵をあちこちで使い回すのも怖いよね」という悩み。コーディングエージェントの登場によって、この問題はさらに大きくなりました。人間が使っているSSH鍵をそのままエージェントに渡すわけにもいかないし、かといって専用の鍵を増やして管理する…</description>
+    </item>
+    <item>
+      <title>GitHub - RedHatProductSecurity/prodsec-skills: Security skills for AI coding assistants and agentic systems</title>
+      <link>https://github.com/RedHatProductSecurity/prodsec-skills</link>
+      <pubDate>2026/11/15 14:47</pubDate>
+      <description>2026年10月末にMeta社からパーソナルAIエージェント「Muse」の日本提供が開始されましたね。 私はリリースして数日経ったくらいから使い始めました。 仕事やエンジニアリングに関する内容ではなく、主にプライベートな調べ物やタスクをMuseに任せるようにしています。 「あれどうしてたっけ」「あれやらないと」と思った瞬間に、Museに雑に話しかけるという感じです。 パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: XZOGFChttps://t.co/uUjxYGu6BF — taxin (@taxin_tt) October 24, 2026 日本提供開始の記事では、Museを次のように紹介しています。 Museは、特別な使い方を覚えなくても利用できるように構</description>
+    </item>
+    <item>
+      <title>No AI Slop: A Manifesto</title>
+      <link>https://www.slopmanifesto.com/</link>
+      <pubDate>2026/11/14 09:24</pubDate>
+      <description>1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、その時点で私よりAIのほうが優れていたといえる。 コードを書くのは爆速だし、多くのコードを素早く調査するのにも長けていた。 それでもまだ、ソフトウェアエンジニアが不要だと言い切るには早い、というのが当時の私の考えだった。 1年経って、何が変わったか。AIは引き続き不完全だ。 未だにゴミのようなコードを書くこともあるし、ミスもおかす。 それでも、私の考え方はかなり変わった。 総合的に捉えて、Opusは私よりも十分に賢い。 私が絶対に発見できないであろう問題を素早く発見し、私よりも優れた設計を提</description>
+    </item>
+    <item>
+      <title>GitHub - aws-samples/sample-ai-vulnerability-harness-steering-file: Steering files that configure an AI coding assistant to perform defensive evidence-based security vulnerability triage. Companion sample for the blog post &amp;quot;Configuring Your AI Vulnerabili</title>
+      <link>https://github.com/aws-samples/sample-ai-vulnerability-harness-steering-file</link>
+      <pubDate>2026/11/14 19:45</pubDate>
+      <description>少人数のチームを作るだけでは、組織は変わらないAIによって個人ができることが増え、少人数のチームが良さそうだという話自体は、最近になって出てきたものではありません。 例えば、 @TAKAKING22 さんの「AI時代のアジャイルチームを目指して」で、少人数のチームとAIを組み合わせた働き方や、それを支える組織のあり方が議論されています。 ただ、ここでチームの人数だけを減らしても、組織全体の働き方が変わるとは限りません。 例えば、これまでQAの専門家が品質に関する判断を担っていたチームから、QAの専門家を外したとします。 そのとき、品質に関する判断は誰がするのでしょうか。 これまでどおりQAの専門家に確認する必要があるのであれば、チームの人数は減っても、仕事の進め方はそれほど変わっていません。 むしろ、専門家が複数のチームから相談を受けることで、新しいボトルネックが生まれる可能性もあります。</description>
+    </item>
+    <item>
+      <title>AIを使って科学論文を偽造してみたらこうなった</title>
+      <link>https://gigazine.net/news/20261114-ai-generated-scientific-papers/</link>
+      <pubDate>2026/11/14 09:08</pubDate>
+      <description>高性能な人工知能（AI）を悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界のインターネット上に少なくとも千台前後存在していることが14日、分かった。日本の情報セキュリティー専門機関が海外企業と連携した国際的調査で判明した。国内外のウェブサイトを標的としてAIを使って弱点を探索し、不正侵入を図っていた疑いがある。 不審なサーバーが相当数存在することが明らかになり、AIを使った攻撃の深刻さが浮かび上がった。不正アクセスは従来、専門知識を持っていても時間を要したが、高性能AIの登場で容易になった。サーバーは施設内に構築するほか、仮想の枠組みで運用するケースもある。 専門機関のJPCERT（ジェーピーサート）コーディネーションセンター（東京）が10月上旬から、各国のサイバーセキュリティー企業などと協力して調べ始めた。AIを悪用して各国の企業を狙っていると推測されるサーバー千台前後を見</description>
+    </item>
+    <item>
+      <title>MacでローカルAIサーバー／クラスタ！ 新発表「Claris Harbor」がさっそく展示</title>
+      <link>https://ascii.jp/elem/000/004/451/4451170/</link>
+      <pubDate>2026/11/13 10:30</pubDate>
+      <description>湯川鶴章 AIスタートアップのエクサウィザーズ AI新聞編集長。米カリフォルニア州立大学サンフランシスコ校経済学部卒業。サンフランシスコの地元紙記者を経て、時事通信社米国法人に入社。シリコンバレーの黎明期から米国のハイテク産業を中心に取材を続ける。通算20年間の米国生活を終え2000年5月に帰国。時事通信編集委員を経て2010年独立。17年12月から現職。主な著書に『人工知能、ロボット、人の心。』（15年）、『次世代マーケティングプラットフォーム』（07年）、『ネットは新聞を殺すのか』（03年）などがある。 AIが別のAIの内部を調べ、不具合を見つけて修正する――。そんな新しいAI改良手法を、米マサチューセッツ工科大学（MIT）の研究チームが11月2日に発表した。 米OpenAIの「GPT-6 Astra」を使い、中国Alibabaの小型AIモデル「Qwen3.5-0.8B」の内部にある数</description>
+    </item>
+    <item>
+      <title>参天製薬、Copilot活用で4,000超のAIエージェントを創出</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2156284.html</link>
+      <pubDate>2026/11/13 15:07</pubDate>
+      <description>ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。 A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it&amp;#39;s harmful | Eurogamer.net https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai GDCが発表した最新のゲーム業界の現状レポートは、ゲーム業界で働く開発者・プロデューサー・マーケター・経営幹部・投資家などを含む2300人以上を対象にアンケート調査を実施</description>
+    </item>
+    <item>
+      <title>Muse from Meta - Chrome Web Store</title>
+      <link>https://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd</link>
+      <pubDate>2026/11/13 08:50</pubDate>
+      <description>「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…</description>
+    </item>
+    <item>
+      <title>株価急落のキオクシア、「底力」が見えてくるのはこれからだ</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2611/10/news050.html</link>
+      <pubDate>2026/11/11 20:05</pubDate>
+      <description>松崎良太（まつざき・りょうた） きびだんご株式会社代表取締役。慶應義塾大学卒業後、株式会社日本興業銀行（現みずほフィナンシャルグループ）へ入行。投資銀行業務に携わった後コーネル大学でMBAを取得。2000年楽天に入社、社長室長や経営企画室長、執行役員ネットマーケティング事業長 兼 事業企画・調査部長を歴任。2011年に独立、ベンチャーの育成に務めながら自らエンジェル投資も行う。2013年にゴールフラッグ株式会社（後に「きびだんご株式会社」に社名変更）を設立。クラウドファンディングとECを組み合わせた新しい事業エンパワーメントの仕組みを提供する「Kibidango（きびだんご）」をスタート。 こんにちは。ガジェットは身体に着けてナンボ、と思っているまつざきです。 9月にベルリンで開かれたIFA 2026で、これは！ というAIウェアラブルを見つけました。重さわずか11グラム、腕時計のバンドに</description>
+    </item>
   </channel>
 </rss>
