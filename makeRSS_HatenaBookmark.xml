@@ -275538,5 +275538,131 @@ June 6, 2026</description>
       <pubDate>2026/11/12 11:28</pubDate>
       <description>Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタントのGeminiを搭載し、スマートフォンを取り出すことなく目の前にある物について質問したり、外国語の会話をリアルタイムで翻訳したりすることが可能で、2026年12月10日に発売予定です。 Intelligent eyewear collections with Gemini features https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/ Intelligent EyewearはGoogleが開発</description>
     </item>
+    <item>
+      <title>ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化</title>
+      <link>https://japan.cnet.com/article/35254992/</link>
+      <pubDate>2026/11/17 14:32</pubDate>
+      <description>NVIDIAは、米シカゴで開催中のスーパーコンピューター学会「SC26」で、研究者や開発者向けの「DGX Spark HPC Developer Kit」を発表しました。小型AIスーパーコンピューター「DGX Spark」4台を1組にしたキットで、会場で展示するとともに販売を始めています。 4台のDGX Sparkは、それぞれ両隣とNVIDIA ConnectX-7で直結するリング状につながり、ネットワークスイッチは不要です。4台構成ではメモリが合計512GB、NVMeストレージが合計20TBになります。4ビットの数値形式NVFP4を使えば、DeepSeek V4.1のような最大7000億（700B）パラメーター級のモデルを4台に分散して動かせるとしています。各機はGB10 Grace Blackwell Superchipを搭載します。 狙いは、共用のGPUクラスターの順番待ちをせずに机</description>
+    </item>
+    <item>
+      <title>脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場</title>
+      <link>https://gigazine.net/news/20261117-playstation-4-garlic-llm/</link>
+      <pubDate>2026/11/17 10:52</pubDate>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;amp;P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ。 AIチャットbotは日常的</description>
+    </item>
+    <item>
+      <title>AIを活用したPerlのGo移植（テスト編） - Mirrativ Tech Blog</title>
+      <link>https://tech.mirrativ.stream/entry/2026/11/17/100000</link>
+      <pubDate>2026/11/17 10:52</pubDate>
+      <description>NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました。 NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab | NVIDIA Blog https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/?ncid=so-twit-665515 A supercomputing lab on your desk. ⚡ New at #SC26: the NVIDIA DGX Spark HPC Developer Kit, built for researchers, academics and developers. 🟢 C</description>
+    </item>
+    <item>
+      <title>Google日本語入力が不満な人へ、Windows/Mac対応国産ソフト「もずきー」登場。遅延付きライブ変換とAI文脈補正を搭載、使うほど学習し自分好みに（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/17/5737.html</link>
+      <pubDate>2026/11/17 09:51</pubDate>
+      <description>【シリコンバレー=伴正春】米グーグルは15日、人工知能（AI）がシステムの弱点にあたる「脆弱性」の特定から準備、実行までサイバー攻撃を完結させた事例を初めて確認したと発表した。自動化ツールの悪用が広がり、脅威が高まっている。グーグルの専門チームがまとめた報告書で明らかにした。攻撃者が使ったサーバーを解析したところ、自律的に動く「AIエージェント」を使い、人の操作や介入なしで攻撃を全自動化する仕</description>
+    </item>
+    <item>
+      <title>たった0.5pxにこだわる理由。 AI時代のアイコンデザインの裏側</title>
+      <link>https://blog.asial.co.jp/7133/</link>
+      <pubDate>2026/11/17 11:11</pubDate>
+      <description>この記事のポイント Google、「Google マップ」の Google AI「Gemini」統合サービス「マップに相談（Ask Maps）」に展開する新機能として、ホリデーシーズンの旅行や日常の用事をサポートする複数の新機能を発表。ステップバイステップの旅行日程作成、「Know before you go（出発前の事前ヒント）」ルート案内、予約検索 &amp;amp; 電話代行、保存済みリスト内スポットのリアルタイム空き状況検索の、合計 4 つ。ステップバイステップの旅行日程作成と保存済みリスト内スポットのリアルタイム空き状況検索の 2 つの新機能は、日本を含む「マップに相談」提供国 / 地域すべてで利用可能。 Google は現地時間 2026 年 11 月 16 日（月）、地図サービス「Google マップ」の Google AI「Gemini」統合サービス「マップに相談（Ask Maps）」に展</description>
+    </item>
+    <item>
+      <title>語尾を直しても抜けないAIっぽさ。本当に変えるべきは文章の「骨格」でした。｜吉村伸一｜構造で伝える人</title>
+      <link>https://note.com/shin_yoshimura/n/n2e2873a61087</link>
+      <pubDate>2026/11/16 22:42</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0243a6dcfff62aad54607ace8897593e3f275cd6/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2156%2F904%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>メルカリ×VercelのVPが実例をもとに、AI投資を語る。「AI Engineering Summit Tokyo 2026」追加登壇者を発表！ | ニュース | ファインディ株式会社(Findy Inc)</title>
+      <link>https://findy.co.jp/4671/</link>
+      <pubDate>2026/11/17 10:02</pubDate>
+      <description>Q : 11月3日の米中間選挙での結果を受け、AI（人工知能）・半導体関連株が総崩れになっています（11月上旬時点）。エミンさんは以前からAIバブル崩壊のリスクを警告していました。予測通りの展開に見えますが、今の流れをどう見ますか。 関連株の暴落は中間選挙の少し前、10月上旬から始まりました。選挙結果がそれに駄目押しをした形です。 きっかけの一つと言えるのが、皮肉なことに米オープンAIと米アン</description>
+    </item>
+    <item>
+      <title>GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold</link>
+      <pubDate>2026/11/17 06:39</pubDate>
+      <description>AI本気で社会実装Night (2026-11-16) の資料です</description>
+    </item>
+    <item>
+      <title>ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理</title>
+      <link>https://gigazine.net/news/20261116-claude-codex-controll-jeep/</link>
+      <pubDate>2026/11/16 21:10</pubDate>
+      <description>AIにサイト運営を任せて約1か月半、累計は約9,000円だった｜Web広告の実務者が記録を公開し始めた理由 管理人の朝倉大魔王が note で続けている連載の第1回（2026年11月5日公開）の内容を、AIマニアックス向けに整理しました。AIに毎日の作業を渡して複数のサイトを動かし、約1か月半で合計いくらになったのか。数字の出し方と、うまくいかなかった点までまとめます。 9月下旬から約1か月半、2026年11月5日時点の全サイト合計は約9,000円（アフィリエイト報酬と note の売上。千円単位に丸めた数字）AIに渡しているのは、サイト作り・記事・数字集め・改善案。人がやるのは方針決めと「やる・やめる」の判断がほとんど数字は、別のAIに答えを見せずに計算し直させ、一致したものだけ載せる。0円も減少もそのまま出す何をしている実験か管理人の本業は Web 広告の仕事です。広告を出し、サイトに</description>
+    </item>
+    <item>
+      <title>AI学習用途で古書大量注文か　Amazonでの在庫切れ、26年4月以降急増 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC0451P0U6A101C2000000/</link>
+      <pubDate>2026/11/17 02:06</pubDate>
+      <description>予測軌跡は車両座標系、つまり「今の自分から見てどこへ行くか」で表されます。ロボットアームなら台座の座標系がこれにあたります。 なお、GNSSでは地球の中心を原点とするECEF座標系も使われますが、地上を走る車やロボットでは、それを局所的なENUやUTMに変換して扱うのが一般的です。軌跡を描くだけならグローバル座標系は不要ですが、実際に走った軌跡と比べるときは自己位置推定の精度が効いてきます。自己位置推定については、過去記事「Dead Reckoningによる自己位置推定」にまとめています。 4.2 ego座標系の原点と軸の向き 自車（ego vehicle）に固定され、自車と一緒に動く座標系を、一般にego座標系と呼びます。自動運転のデータセットやソフトウェアでは、センサの取り付け位置もモデルの入出力も、まずこのego座標系で表すのが一般的です。グローバル座標系での自車の位置と向き（ego</description>
+    </item>
+    <item>
+      <title>AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ</title>
+      <link>https://kei-1010.hatenablog.com/entry/2026/11/16/120828</link>
+      <pubDate>2026/11/16 21:26</pubDate>
+      <description>米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると指摘。人間の関与なしに脆弱性の発見から悪用までを行うよう構成されたLLMフレームワークを初めて確認したという。 GTIGが見つけたのは、アクセス可能な状態になっていた攻撃準備用のサーバに置かれていた「exploit_agent」と呼ばれるフレームワークだ。複数の最先端LLMやローカルLLMと連携し、広く使われているWebアプリについて、修正パッチの公開前後のソースコードを継続的に比べて脆弱性を探す。発見すると直ちに攻撃コ</description>
+    </item>
+    <item>
+      <title>「たった97KB」のリアル海底3Dデモが大注目浴びる。小ささの秘訣は“全部その場で作る”こと - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261116-479523/</link>
+      <pubDate>2026/11/16 22:33</pubDate>
+      <description>不倫報道を受けてエヌビディアCEOを辞任したジェンスン・フアン氏だが、ハイテク業界はそのリーダーシップを称賛する声であふれている/Evelyn Hockstein/Reuters （CNN） 米半導体大手エヌビディアの創業者、ジェンスン・フアン氏が同社の最高経営責任者（CEO）の座を退いたことは、企業スキャンダルと受け止められた。ところがシリコンバレーで働くかつての部下や同僚の多くは、軒並み同氏への支持を表明。「伝説的な人物」としてなお称賛の声を送っている。 フアン氏は12日、少なくとも部下1人を含む複数の不倫関係が報じられたことを受け、辞任した。同氏は以前にも、別の女性との不倫関係が報じられ、その女性が米当局から「中国の諜報（ちょうほう）活動に関与している可能性がある人物」と指摘されたことで、すでに厳しい目にさらされていた。 フアン氏はエヌビディアのブランドにとって極めて重要な存在であり</description>
+    </item>
+    <item>
+      <title>Geminiに同じ質問をしても回答が変わる理由は？ブレを抑えるコツも解説 - Samurai@Hokkaido(サムライ＠北海道)</title>
+      <link>https://yurutsu.hatenablog.com/entry/2026/11/16/120113</link>
+      <pubDate>2026/11/16 12:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3bd1555604ed905000139a9448251e60fb964d38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1219961.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Amazonが世界中のあらゆる商品情報を集約する「World Product Graph」計画を進めていることが判明、AIショッピングエージェントに対抗へ</title>
+      <link>https://gigazine.net/news/20261116-amazon-world-product-graph/</link>
+      <pubDate>2026/11/16 15:37</pubDate>
+      <description>香港・ビクトリア湾の九竜側に設置された監視カメラ（2023年9月13日撮影）。(c)Peter PARKS/AFP 【11月16日 AFP】香港は16日、監視カメラ網に人工知能（AI）を活用した顔認証機能を導入した。国家安全保障や犯罪防止を名目に、公共空間の監視を拡大する。 中国は、香港で大規模な民主派デモが起きた2019年以降、統制を強めてきた。金融拠点である香港に国家安全維持法を導入し、批判派は同法が反対意見を封じ込めたと指摘している。 「スマートビュー」計画の一環となる新たなAI機能について、香港警務処（警察）の周一鳴（ジョー・チョウ）処長は先週末、「法を守る市民を保護するもの」だとし、既存の監視システムの能力を高めると説明した。 警務処は2024年のスマートビュー開始以降、香港全域に約5000台の監視カメラを設置。その活用により、約2200件の事件解決と2800人以上の逮捕につなが</description>
+    </item>
+    <item>
+      <title>日本やアメリカ・イギリス・インドなど「パックス・シリカ」加盟国がAIサプライチェーンの安全保障で合意</title>
+      <link>https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/</link>
+      <pubDate>2026/11/16 16:34</pubDate>
+      <description>Zedという新進のコードエディタがあるkeroxp.icon そのOSSコントリビューションガイドラインが色々と今風に面白かったので紹介していく Zedとは Zed（ゼド）は高速動作とAI連携を売りにしたエディタである。その源流はあのAtomだ Atomは2014年にGithubの社内プロジェクトから始まり、2022年にVSCodeに押される形で開発が終了した （私はAtomの登場当時「Sublime Text 2」を使っていて、研究室の仲間に進められた記憶がある） これはAtomの開発者たちにとっては青天の霹靂というか、まったく不幸な出来事だったといえる （個人的にはエディタの機能に差異は無かったと思う。動作が速かったのと、TypeScriptへのサポートが強かった） そんなこんなで、Atomの作者たちはGithubから出て自分たちの考える「最高のエディタ」を作ることにした GPUI：Z</description>
+    </item>
+    <item>
+      <title>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156687.html</link>
+      <pubDate>2026/11/16 13:55</pubDate>
+      <description>これまで1日、2日と時間を要していたUIやプロトタイプの作成が、いまでは数十分で完了する──。 生成AIの急速な浸透は、メルカリのアプリ開発現場に革新をもたらした。これまではフロントエンド（画面デザイン担当）からバックエンド（裏側のシステム担当）と専門ごとに役割を分けていたが、いまは1～3人の少人数チームで、利用者が触れる画面の見た目から裏側の仕組みまでを一気に組み上げる「フルスタック開発」へと体制を切り替えている。 デザイナーやエンジニアといった従来の職能別の分業は解体。誰もがアイデアをそのまま形にできる「プロダクトビルダー」へと変わる「AIネイティブな組織改編」を進めている。 一方で開発のスピードが速くなったことによって、現場には“新たな壁”が立ちはだかった。200～300の画面で構成され、毎週のように改修が加えられるアプリにおいて、AIによって増えたコードやデザインの変更に対して「人</description>
+    </item>
+    <item>
+      <title>NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/14/news008.html</link>
+      <pubDate>2026/11/14 09:36</pubDate>
+      <description>「若者は上司から絵文字がついた文章を受け取るとどう思うか――」。人工知能学会の研究会で、大学生が「おじさん構文」と呼ばれる文章についての研究結果を報告した。大学や企業のＡＩ研究者らが参加する学会で、場違いとも思える研究の発表。なぜ彼はこんな報告を行ったのか。話を聞くと「ＡＩとの距離感」の重要性が見えてきた。（デジタル編集部　古和康行） 【画像】若者から不快感が高かった「上司からのメッセージ」 おじさん構文と人工知能（読売新聞）　「おじさん構文」とは、２０２２年頃にSNSなどで流行した言葉だ。絵文字を多用し、親しげな言い回しでつづられる長文が特徴とされ、主に若者から「嫌われる文章」として各メディアで取り上げられた。ちなみに、国語辞典などを手がける出版社・三省堂はこの年、「今年の新語」として２位に「○○構文」を２位に選び、その用法として「おじさん構文」を挙げている。</description>
+    </item>
+    <item>
+      <title>起動不能トラブル修復 KB5127936 KB5132061｜Nackie</title>
+      <link>https://note.com/nackie_o/n/n7120b0327e52</link>
+      <pubDate>2026/11/15 23:12</pubDate>
+      <description>どりあん @DORIAN_madamisu 知らないうちにたくさんいいね頂いてる😳 雨でクレープ全品500円に値下げされてたし、まぁいいかと思い、美味しくいただきました😋 x.com/dorian_madamis… 2026-11-15 18:29:46</description>
+    </item>
+    <item>
+      <title>GPTって教えないくせに根掘り葉掘り聞くよね</title>
+      <link>https://anond.hatelabo.jp/20261116035910</link>
+      <pubDate>2026/11/16 07:55</pubDate>
+      <description>Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 license. Fork the repo, run it locally with Wrangler, or deploy a custom instance to Cloudflare. https://t.co/y7V8xJoUO4 — Cloudflare Changelog (@CFchangelog) November 13, 2026 Kitesurfは今年（2026年）8月に発表されて</description>
+    </item>
+    <item>
+      <title>Sprite stacking for fake 3D pixel art cars and props</title>
+      <link>https://www.spritecook.ai/blog/sprite-stacking-pixel-art</link>
+      <pubDate>2026/11/15 17:22</pubDate>
+      <description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多いのではないかと思います。 ただ、みんなが思っているセキュリティと、ソフトウェアエンジニアがやるべきセキュリティは違います。 エンジニアがやるべきなのはあとから足す防御ではありません。 業務であり得ない操作を設計の時点で許さないことです。 ここには設計が深く関わっています。 今回はこの違いを理解できる記事にしました。 なぜAI時代にセキュリティをあとから足すだけでは足りないのか？ みんなが思うセキュリティと、エンジニアがやるべきものはどこが違うのか？ 見つけたルールをコードが守っているとどう確かめるのか？ 設計を中心としなが</description>
+    </item>
   </channel>
 </rss>
