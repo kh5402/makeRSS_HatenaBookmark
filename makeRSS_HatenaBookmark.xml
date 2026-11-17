@@ -275664,5 +275664,101 @@ June 6, 2026</description>
       <pubDate>2026/11/15 17:22</pubDate>
       <description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多いのではないかと思います。 ただ、みんなが思っているセキュリティと、ソフトウェアエンジニアがやるべきセキュリティは違います。 エンジニアがやるべきなのはあとから足す防御ではありません。 業務であり得ない操作を設計の時点で許さないことです。 ここには設計が深く関わっています。 今回はこの違いを理解できる記事にしました。 なぜAI時代にセキュリティをあとから足すだけでは足りないのか？ みんなが思うセキュリティと、エンジニアがやるべきものはどこが違うのか？ 見つけたルールをコードが守っているとどう確かめるのか？ 設計を中心としなが</description>
     </item>
+    <item>
+      <title>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</link>
+      <pubDate>2026/11/17 18:23</pubDate>
+      <description>NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation https://research.nvidia.com/labs/gear/gr00t-2/ GR00T 2は「人間の動作を記録した合計40万2730時間の動画」「人間が手持ちグリッパーを操作する様子を記録した合計1万184時間分のデータ」「人間によるロボット遠隔操作の様子を記録した2万3500時間分のデータ」によって事前学習されたモデルです。 人間によるデモンストレーションによって「朝食の準備」「PCの組み立て」「マッチの点火」など多様な動作を学べます。新たなタスクはGeForce RTX 5090を用いて30分で実行可能。新規タ</description>
+    </item>
+    <item>
+      <title>Apple、自立型AIエージェントによる情報漏洩やプライバシー侵害のリスクに対し、macOS 27.3 Golden Gate Beta 2で、フルディスクアクセスの細分化やアプリのアクセス許可の明示化などを開始。</title>
+      <link>https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html</link>
+      <pubDate>2026/11/17 16:32</pubDate>
+      <description>OpenAIがAI生成画像を含む児童性的虐待コンテンツの検出を支援するツールを発表しました。新しいツールで監視団体を支援するとともに、ChatGPTに新しい警告機能を追加し、開発者向けガイダンスを公開することで、オンライン児童性的虐待との闘いを強化することを掲げています。 Strengthening the fight against online child sexual abuse with new tools and support | OpenAI https://openai.com/index/strengthening-online-child-safety/ We&amp;#39;re releasing a free new tool to vetted organizations to help detect child sexual abuse material, including</description>
+    </item>
+    <item>
+      <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
+      <link>https://zenn.dev/mizchi/articles/mutation-test-quality</link>
+      <pubDate>2026/11/17 18:59</pubDate>
+      <description>約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じています。 How an AI Content Mill Put a Real Musician Through Copyright Hell https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/ 問題に巻き込まれたのは作家でミュージシャンのサマンサ・ショーキン氏です。ショーキン氏は新型コロナウイルス感染症のパンデミック中に、ブルガリアの伝統的な民謡「Br</description>
+    </item>
+    <item>
+      <title>Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2156900.html</link>
+      <pubDate>2026/11/17 14:08</pubDate>
+      <description>【ソウル=小林恵理香】韓国ネット大手カカオが展開する主要音楽ストリーミングサービス「Melon（メロン）」のヒットチャートで、人工知能（AI）を使って生成した楽曲が1位になった。韓国メディアによると、AIでつくられた楽曲が同チャートで1位になるのは今回が初めてだという。曲は作曲家らで構成する「モムル」の「夢見ていた大人になれましたか？」。13日にトップになると16日時点でもK-POPアイドルら</description>
+    </item>
+    <item>
+      <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+      <link>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</link>
+      <pubDate>2026/11/17 15:39</pubDate>
+      <description>※本発表資料は米国時間 2026 年 11 月 12 日に発表されたプレスリリースの抄訳です。 ジェンスン フアン (Jensen Huang) が辞任 エグゼクティブ バイス プレジデント 兼 最高財務責任者のコレット クレス (Colette Kress) が暫定 最高経営責任者に就任 ハーベイ ジョーンズ (Harvey C. Jones) が同社初の取締役会議長に就任 NVIDIA (NASDAQ: NVDA) の取締役会は本日、ジェンスン フアン (Jensen Huang) が、社長、最高経営責任者 (CEO)、および取締役を即時辞任したことを発表しました。 NVIDIA の現エグゼクティブ バイス プレジデント 兼 最高財務責任者 (CFO) であるコレット クレス (Colette Kress) が、暫定CEOを務めることに同意しました。クレスは、正式な後任者が決定するまで</description>
+    </item>
+    <item>
+      <title>DGX Sparkを4台つないだ「机の上のスパコン」、NVIDIAが研究者向けキット発表　700Bパラメーター級のAIも手元で | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/17/5741.html</link>
+      <pubDate>2026/11/17 12:06</pubDate>
+      <description>先週Anthropicからリリースされた「Claude Fable 5.2」を使って、たった97KBのHTMLファイルだけで水中世界を泳ぎ回れる「Abyssal Garden」を紹介します。 使用しているのはHTMLファイル1つだけで、画像やテクスチャ、3Dモデル、サウンドファイル、ライブラリなどは一切ありません。 Abyssal Garden Abyssal Garden -GitHub Abyssal Gardenは、ブラウザ上で水中世界を泳ぎ回ることができ、そびえ立つケルプの森、波打つ水面から降り注ぐ太陽の光、沈没船、頭上を滑空するマンタなど、すべてコードで作られています。画像やテクスチャも、3Dモデルも、サウンドファイルも一切なしで、たった97KBのHTMLファイル1つだけに収まっています。 MITライセンスで、商用でも無料で利用できます。 Abyssal Garden -GitH</description>
+    </item>
+    <item>
+      <title>The Software Engineering Handbook</title>
+      <link>https://davisjam.github.io/model-based-agentic-software-engineering/book/se-handbook/software-engineering-handbook.pdf</link>
+      <pubDate>2026/11/17 03:56</pubDate>
+      <description>問い：AIに関する取り組みで、あなたが担っている役割を教えてください。（複数回答） AIを自ら開発・活用するだけでなく、チームや組織への導入・活用推進を担う参加者が多いことが分かりました。こうした参加者のニーズを踏まえ、本カンファレンスでは「チーム・組織へのAI導入、活用推進」をテーマにしたセッションも実施します。今回登壇が決定したメルカリ×Vercelの対談セッションでは、AI投資におけるコストの管理や効果測定、投資判断のあり方について議論します。OpenAIのZhang Mengchi氏には「AIエージェントを組織にどう迎え入れるか」をテーマにお話しいただく予定です。 ◆ 追加登壇者のご紹介 ■ メルカリ×Vercel 対談セッション 株式会社メルカリのMichael Galloway氏（Platform Engineering, VP）と、VercelのLindsey Simon氏（</description>
+    </item>
+    <item>
+      <title>エミン・ユルマズ氏「アンソロピック上場がAI関連株暴落の端緒」　米中間選挙民主党勝利で下落加速 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB137MO0T11C26A1000000/</link>
+      <pubDate>2026/11/16 06:19</pubDate>
+      <description>GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks, automated vulnerability exploitation pipelines, and alternative monetization schemes like LLMJacking, the adversarial AI landscape</description>
+    </item>
+    <item>
+      <title>専門家に使ってもらうAIプロダクトをつくる - 病院の医事課向けDPCコーディング支援システムの設計と評価</title>
+      <link>https://speakerdeck.com/hagino3000/building-ai-product-for-expert</link>
+      <pubDate>2026/11/16 23:54</pubDate>
+      <description>排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。 Claude reverse engineered my 32-year-old Jeep. Then it started controlling it. - YouTube 報告者はアプリ開発者のムハンマド・ズラリ氏。1994年式ジープ・チェロキーがカリフォルニア州の排ガス検査で不合格となったため、何度も検査に行く手間と費用を省くため、AIで修理しようとしたそうです。 ズラリ氏は最初にClaudeを使用。車のセンサーがどのような仕組みで動いているのかを突き止め、配線方法を聞いて市販のマイクロコントローラーボードを取り付けました。そして、Claudeに情報を読み取らせたところ、冷却水温度やバッテリー電圧のような情報を取得することに成功しました。 ズラリ氏は詳しい情報を</description>
+    </item>
+    <item>
+      <title>AIにサイト運営を任せて約1か月半、累計は約9,000円だった｜Web広告の実務者が記録を公開し始めた理由｜AIマニアックス</title>
+      <link>https://www.aimaniax.com/news/ai-site-unei-1kagetsu-9000yen/</link>
+      <pubDate>2026/11/17 00:40</pubDate>
+      <description>電子商取引（EC）サイト「アマゾン」上で古書の大量注文が発生している事案で、これらの取引にフランス企業や人材派遣大手のグロップ（岡山市）の物流センターが関わっていることが判明した。日経ビジネスがアマゾンのデータを解析した調査では、2026年は過去2年と比べて古書の在庫切れタイトル数が13万件増加していることも分かった。人工知能（AI）の大規模な学習用途にこれらの古書が使われている可能性がある。</description>
+    </item>
+    <item>
+      <title>物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門</title>
+      <link>https://zenn.dev/turing_motors/articles/cea9e3c85611b2</link>
+      <pubDate>2026/11/16 19:13</pubDate>
+      <description>文部科学省は１６日、技術者や専門人材の育成を担う高等専門学校（高専）の機能強化策を取りまとめた。生成ＡＩ（人工知能）の発展などを踏まえ、公立や私立の新設を促して理系人材育成につなげることや、新たな領域として農業分野の検討を進めることが柱。同日開かれた検討会で示し、大筋で了承された。 機能強化策では、高専を「わが国の成長を支える高度専門人材の育成や地域課題解決、イノベーション創出と国際社会における人材育成の中核」と位置付けた。地域の実情に応じた新設を促進し、教育研究機能を強化するため、運営費交付金といった国の支援拡充が必要だと指摘した。 具体策として、現在は工学分野が中心の領域を拡大し、まずは農業分野の実現に向けた具体的な検討を進める。コンテンツ分野についてはニーズを踏まえ段階的に検討する。政府が重視するＡＩや半導体など戦略１７分野に対応した即戦力人材の育成に向け、実践的な教育プログラムを構</description>
+    </item>
+    <item>
+      <title>マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/11/16/174930.html</link>
+      <pubDate>2026/11/16 20:08</pubDate>
+      <description>by RuinDig/Yuki Uchida Amazonが自社で販売していない商品も含め、世界中の商品情報を集約する「World Product Graph」という計画を進めていることが、ロイターが入手した内部文書を基に報じています。商品検索の主導権を握ることで、Googleや他社のAIショッピングエージェントに対抗する狙いがあるとみられます。 EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents | Reuters https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/ Amazon h</description>
+    </item>
+    <item>
+      <title>AI機能のリリース水準ムズイ問題を「代表的なサンプル」で乗り越えた - tebiki Tech Blog</title>
+      <link>https://techblog.tebiki.co.jp/2026/11/16/104259</link>
+      <pubDate>2026/11/16 11:26</pubDate>
+      <description>香港・ビクトリア湾の九竜側に設置された監視カメラ（2023年9月13日撮影）。(c)Peter PARKS/AFP 【11月16日 AFP】香港は16日、監視カメラ網に人工知能（AI）を活用した顔認証機能を導入した。国家安全保障や犯罪防止を名目に、公共空間の監視を拡大する。 中国は、香港で大規模な民主派デモが起きた2019年以降、統制を強めてきた。金融拠点である香港に国家安全維持法を導入し、批判派は同法が反対意見を封じ込めたと指摘している。 「スマートビュー」計画の一環となる新たなAI機能について、香港警務処（警察）の周一鳴（ジョー・チョウ）処長は先週末、「法を守る市民を保護するもの」だとし、既存の監視システムの能力を高めると説明した。 警務処は2024年のスマートビュー開始以降、香港全域に約5000台の監視カメラを設置。その活用により、約2200件の事件解決と2800人以上の逮捕につなが</description>
+    </item>
+    <item>
+      <title>アンソロピックが見た日本のAI　世界32位、職場への普及に本腰を - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCD115XX0R11C26A1000000/</link>
+      <pubDate>2026/11/16 12:44</pubDate>
+      <description>あれから、どうなったか 私は大手製造業で、デジタルやAIを使った改善や業務変革を進めるチームにいる。肩書きはマネージャーだが、部下はおらず、実態はプレイヤーだ。大手製造業では、よくある話だと思う。チームはもともと製造現場の改善を担う組織で、近年そこへデジタルやAIの役割が加わった。 前回の記事では、AIで先を走った私たちがチームを置き去りにした話を書いた。レビューが上下両方向で壊れ、共通言語が消え、ベテランは静かに降りていった。そして最後に、上司も含めたチーム全体へのClaude Codeハンズオン教育を始めた、と書いた。 その結果を先に書いておく。 自走できる状態まで達したベテランもいた。一方で、まだそこまで行っていないメンバーもいる。 それでも、全員を一定のところまでは引き上げられた。そして上司は、まだその手前にいる。 講師は、私より若いチームのメンバーが務めた。以下、講師役のメンバー</description>
+    </item>
+    <item>
+      <title>「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は（読売新聞オンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/dc105d5bce6f91e416e636572c143f7bfaf95f51</link>
+      <pubDate>2026/11/15 16:20</pubDate>
+      <description>Universal provider proxy for OpenAI Codex &amp;amp; Claude Code — use any LLM with Codex CLI, App, SDK, and Claude Code. npm install -g @bitkyc08/opencodex · ocx start · localhost:10100 English · 한국어 · 简体中文 · Русский · 日本語 · 📖 Full documentation → Use Claude, Gemini, Grok, GLM, DeepSeek, Kimi, Qwen, Ollama, or any other LLM with Codex — and with Claude Code — without waiting for anyone to add support. op</description>
+    </item>
+    <item>
+      <title>AWSが公開しているAIエージェントサンプルからシステム構成図をつくり、保守の質問に答えてみる</title>
+      <link>https://zenn.dev/96logger/articles/961fc8bfc147dd</link>
+      <pubDate>2026/11/13 22:31</pubDate>
+      <description>北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に事業譲渡。エンジニア／デザイナーとして約10年、手を動かしてきた経験を活かし、現在は株式会社パスライトのCPOも務める傍ら、複数の新規事業の立ち上げを支援。AIを駆使した開発の効率化にも取り組んでいる。 X：@kiiita　note：kiiita　Portfolio：kiiita OpenAIもAnthropicも、「キーを打つよりも入力が速くなる」と勧めている機能があります。忙しい業務の時間を節約できる、メールの下書きや技術メモを手を使わずに残せる、大ざっぱな表現でもAIが</description>
+    </item>
   </channel>
 </rss>
