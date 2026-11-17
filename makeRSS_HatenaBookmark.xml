@@ -275436,5 +275436,107 @@ June 6, 2026</description>
       <pubDate>2026/11/12 14:05</pubDate>
       <description>「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…</description>
     </item>
+    <item>
+      <title>高専、農業分野に拡大へ　文科省、公私立の新設を促進：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/528491</link>
+      <pubDate>2026/11/16 23:21</pubDate>
+      <description>米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると指摘。人間の関与なしに脆弱性の発見から悪用までを行うよう構成されたLLMフレームワークを初めて確認したという。 GTIGが見つけたのは、アクセス可能な状態になっていた攻撃準備用のサーバに置かれていた「exploit_agent」と呼ばれるフレームワークだ。複数の最先端LLMやローカルLLMと連携し、広く使われているWebアプリについて、修正パッチの公開前後のソースコードを継続的に比べて脆弱性を探す。発見すると直ちに攻撃コ</description>
+    </item>
+    <item>
+      <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+      <link>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</link>
+      <pubDate>2026/11/17 00:11</pubDate>
+      <description>生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で発生しています。そういった状況を受け、イギリス大手誌のThe Guardianが「まるで西部開拓時代みたいだ：AIが文学界をいかに揺るがしたか」というコラムを掲載しています。 ‘It’s like the wild west’: how AI has rocked the literary world | Books | The Guardian https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-</description>
+    </item>
+    <item>
+      <title>不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず</title>
+      <link>https://www.cnn.co.jp/business/35254956.html</link>
+      <pubDate>2026/11/16 20:28</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/3bd1555604ed905000139a9448251e60fb964d38/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1219961.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>香港、監視カメラにAI活用 市民からは悪用懸念の声も</title>
+      <link>https://www.afpbb.com/articles/-/3662623</link>
+      <pubDate>2026/11/16 16:58</pubDate>
+      <description>建物から黒い大きな煙が立ち上る。ウクライナ軍は10月11日、モスクワ近郊ウラジーミル州にある露インターネット・IT最大手「ヤンデックス」の施設を無人航空機（ドローン）で攻撃した。標的はデータセンター。同様の攻撃は、同8日、9日に続き3度目だ。それまで露軍からデータセンターを狙った攻撃を受け続けていたウクライナが、報復に出た形だ。 ウクライナには、もう一つの狙いがあった。人工知能（AI）などを使ったロシアによる偽情報の拡散に対抗するというものだ。ウクライナのゼレンスキー大統領は攻撃後、X（ツイッター）に「攻撃後、ソーシャルメディアから、憎悪や分断、挑発が減った」と投稿し、成果を強調した。</description>
+    </item>
+    <item>
+      <title>もういい加減&amp;quot;技術勉強会&amp;quot;やめませんか？ - Qiita</title>
+      <link>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e</link>
+      <pubDate>2026/11/16 20:51</pubDate>
+      <description>NVIDIAが開発したSoC「RTX Spark N1X」を搭載したPCの販売がはじまった。RTX SparkはArmベースのCPU（最大20コア）に、GeForce RTX 50シリーズ相当のGPUを組み合わせた同社肝いりの製品だ。最近流行の「ローカルAI」、つまり「ChatGPT」や「Claude」「Gemini」といったクラウドサービス上のAIに頼らず、オフラインの環境でもAIエージェントを動かすためのSoCである。 RTX Spark最大の見どころはメインメモリーとVRAMが合体したユニファイドメモリー（ただし、メモリー空間は分かれている）を採用し、最大で128GBぶん搭載できる。RTX Sparkはメモリーの許す範囲内で学習モデルを選ばず実行できるプラットフォームを志向しているが、下位モデルにあたる18コアCPU版は搭載メモリーが32GBまでに制限されている。よって、20コアCP</description>
+    </item>
+    <item>
+      <title>Amazonが「なぜ我々が政治的に腐敗した契約に抗議し続けるのか」を説明 - GIGAZINE</title>
+      <link>https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/</link>
+      <pubDate>2009/07/22 14:54</pubDate>
+      <description>中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。 Qwen4-Max: Your New Teammate Has Arrived https://qwen.ai/blog?id=qwen4-max 📢 Meet Qwen4-Max, your new AI teammate for work, creativity, and discovery! Qwen4-Max is built on a new MoE architecture with native vision and a 1M-token context window. Highlights: - Outperforms Qwen3.8-Max with up to ~50% fewer tokens, while average cost p</description>
+    </item>
+    <item>
+      <title>レビューは AI が書いて、人が選ぶ</title>
+      <link>https://blog.recruit.co.jp/data/articles/ai-review-skills/</link>
+      <pubDate>2026/11/16 14:51</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/16/2000003208/</link>
+      <pubDate>2026/11/16 08:12</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5c7f73de94eeb11a85b6e8a91932c957111089ab/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2156%2F456%2Feset.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2611-ram-altman-spam-device/</link>
+      <pubDate>2026/11/16 08:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bb5958132679ad135bccaf775470209fa80a6f5f/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2156%2F595%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - lidge-jun/opencodex: Universal provider proxy for OpenAI Codex &amp;amp; Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code</title>
+      <link>https://github.com/lidge-jun/opencodex</link>
+      <pubDate>2026/07/19 21:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a1b8c805041c5c7de48185526e3011f2c4ca6a77/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2156%2F560%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIが検事の取り調べをチェック　録画から言動を分析、年度内導入へ：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVCG24DXVCGUTIL007M.html</link>
+      <pubDate>2026/11/15 11:20</pubDate>
+      <description>自宅鯖でありがちな、「SSH鍵をサーバごとに分けると管理が面倒。でも、同じ鍵をあちこちで使い回すのも怖いよね」という悩み。コーディングエージェントの登場によって、この問題はさらに大きくなりました。人間が使っているSSH鍵をそのままエージェントに渡すわけにもいかないし、かといって専用の鍵を増やして管理する…</description>
+    </item>
+    <item>
+      <title>コードはすべてAI--非プログラマーの筆者がiPhoneアプリをApp Storeで公開するまでの13日間</title>
+      <link>https://japan.cnet.com/article/35254571/</link>
+      <pubDate>2026/11/15 11:35</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>Museに雑に投げて頭を空けておく - taxin.dev</title>
+      <link>https://taxin.dev/articles/2026-11-15</link>
+      <pubDate>2026/11/15 21:11</pubDate>
+      <description>Sprite stacking for fake 3D pixel art cars and propsTurn a top-down car to any angle from one small sheet of flat slices. How sprite stacking works, how to cut the slices from four flat views, and tested Python and Godot code. # Add sprite stacking to my game My top-down game needs objects (cars, props, buildings) that can face any angle without a drawing per direction. Add sprite stacking: each o</description>
+    </item>
+    <item>
+      <title>デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com</title>
+      <link>https://kawarimidoll.com/posts/202610182/</link>
+      <pubDate>2026/10/19 17:36</pubDate>
+      <description>高性能な人工知能（AI）を悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界のインターネット上に少なくとも千台前後存在していることが14日、分かった。日本の情報セキュリティー専門機関が海外企業と連携した国際的調査で判明した。国内外のウェブサイトを標的としてAIを使って弱点を探索し、不正侵入を図っていた疑いがある。 不審なサーバーが相当数存在することが明らかになり、AIを使った攻撃の深刻さが浮かび上がった。不正アクセスは従来、専門知識を持っていても時間を要したが、高性能AIの登場で容易になった。サーバーは施設内に構築するほか、仮想の枠組みで運用するケースもある。 専門機関のJPCERT（ジェーピーサート）コーディネーションセンター（東京）が10月上旬から、各国のサイバーセキュリティー企業などと協力して調べ始めた。AIを悪用して各国の企業を狙っていると推測されるサーバー千台前後を見</description>
+    </item>
+    <item>
+      <title>伝説のブラスロックバンド「スペクトラム」の45年ぶりの新曲にAI技術で協力しています（CloseBox） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/11/5705.html</link>
+      <pubDate>2026/11/12 11:28</pubDate>
+      <description>Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタントのGeminiを搭載し、スマートフォンを取り出すことなく目の前にある物について質問したり、外国語の会話をリアルタイムで翻訳したりすることが可能で、2026年12月10日に発売予定です。 Intelligent eyewear collections with Gemini features https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/ Intelligent EyewearはGoogleが開発</description>
+    </item>
   </channel>
 </rss>
