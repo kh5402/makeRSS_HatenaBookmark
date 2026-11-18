@@ -275871,5 +275871,116 @@ June 6, 2026</description>
       <pubDate>2026/11/15 17:42</pubDate>
       <description>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そもそもPostgreSQLは毎年9月もしくは10月にメジャーバージョンアップしてきました。 PostgreSQL 14：2021年9月30日リリース PostgreSQL 15：2022年10月13日リリース PostgreSQL 16：2023年9月14日リリース PostgreSQL 17：2024年9月26日リリース PostgreSQL 18：2025年9月25日リリース しかし今回のメジャーバージョンアップでは、正式リリース直前の9</description>
     </item>
+    <item>
+      <title>Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/18/5756.html</link>
+      <pubDate>2026/11/18 09:39</pubDate>
+      <description>AI技術が進歩する中、今年は人間であることが何を意味するのかについて広く議論が交わされた/David Goldman/AP （CNN） 世界中で人工知能（AI）をめぐる論議が続く中、英ケンブリッジ英語辞典は18日、2026年の単語に「human（ヒューマン：人間）」を選んだと発表した。 ケンブリッジ辞典はhumanについて、「神、動物、あるいは機械とは対照的に、人々が持つ性質や欠点、感情を持つ」存在と定義している。 この単語を選んだ理由については、今年を「AIが人々と機械との境界をあいまいにする中で、人間であることの意味が世界的な論議になった」年と位置付けた。 ケンブリッジ辞典の辞書編集者コリン・マッキントッシュ氏は、「人間であることについて我々がどう語るかを、AIが変化させている」と述べ、こう指摘している。 「『人間』の定義は従来、我々を神や動物、そして近年では機械と区別するものだった」</description>
+    </item>
+    <item>
+      <title>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link>
+      <pubDate>2026/11/18 09:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e3a1bd48c375c18b46c2dc139372a1149f6840e0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2155%2F933%2F00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「非公開APIだから安全」はもう通用しない　AIが変える脆弱性発見の常識</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news009.html</link>
+      <pubDate>2026/11/18 08:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/380bdc0abee36a9d52960d86ca4aaf064ca38d0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2156%2F976%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita</title>
+      <link>https://qiita.com/nuco_d/items/b279477cbcdbe5921abd</link>
+      <pubDate>2026/11/17 14:33</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
+    <item>
+      <title>グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2157106.html</link>
+      <pubDate>2026/11/17 18:50</pubDate>
+      <description>For a long time we have received repeated requests for, or questions about, a curl rewrite in rust. Often as a joke, but also seriously. A joke from years ago In this modern world of AIs, we have only been waiting for someone to prove it possible and now it seems we don’t have to wait anymore. This fall seems to be the time of the curl-in-rust takes as we first saw urlx appear a few months ago, cl</description>
+    </item>
+    <item>
+      <title>GitHub - AnIT012/nihongo: AIが書く日本語を、人が書く文に近づけるエージェントスキル。Claude、ChatGPT、Claude Code、Codexなどで使えます。</title>
+      <link>https://github.com/AnIT012/nihongo</link>
+      <pubDate>2026/11/17 23:46</pubDate>
+      <description>サイバー攻撃につながるソフトウエアの弱点を見つけ、企業に報告するホワイトハッカー（善意のハッカー）の活用が岐路に立っている。人工知能（AI）の活用で報告が急増し、大会や報奨金制度を見直す企業が相次ぐ。トレンドマイクロ子会社のヴィックワン（東京・渋谷）は自動車関連ソフトウエアの脆弱性につながるバグの発見を競う大会「ポウンツーオウン・オートモーティブ」を2027年1月は開かないことに決めた。車向け</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話</title>
+      <link>https://gigazine.net/news/20261117-claude-made-dream-game/</link>
+      <pubDate>2026/11/17 22:09</pubDate>
+      <description>Project Quarry is a Python framework for detecting threats and behavior patterns in agent conversations. Write rules over messages, tool calls, tool results, and event order. You can also call a configured model adapter from a rule when local checks are not enough. Quarry parses and validates rules when you load them, then compiles each rule to a symbolic finite-state automaton. A scan runs that c</description>
+    </item>
+    <item>
+      <title>Faster type-aware linting with tsrs</title>
+      <link>https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs</link>
+      <pubDate>2026/11/18 01:08</pubDate>
+      <description>GLITCH WITCH。士郎正宗が1989年に連載を開始したSF作品の金字塔『攻殻機動隊 THE GHOST IN THE SHELL』の同日譚！ 2029年4月。草薙素子や荒巻が公安9課を設立しようとしていた時、アメリカで数々の事件が発生する。FBIやAI研究者、そして軍が事件を追う中で、ある戦いを目撃する。人類の命運を担うソロモン級AI VS.プロジェクト2501、通称“人形使い”。</description>
+    </item>
+    <item>
+      <title>米カリフォルニア州、AIエージェントの暴走めぐりオープンAI提訴</title>
+      <link>https://www.afpbb.com/articles/-/3662773</link>
+      <pubDate>2026/11/17 13:40</pubDate>
+      <description>今回は中国のゲーム業界とAI、それとタイトル画像の「肥魚」にまつわる記事を紹介します。 但し書きとして、2026年上半期における中国国内のゲーム業界の売上収入は 1884.5億元（約4兆5000億円）で前年同期比12.17％増 でした。 この記事で述べられている「AIによるゲーム業界の浸食」は今のところ数字としては出ておらず、あくまで今後の動向を占う内容として読んでいただければ幸いです。 ソシャゲに課金するくらいならAIに課金した方がマシ？游戏行业潜在危机：给手游氪金，不如给AI氪金？ 少し前、私はある投稿を見かけた。「今のソシャゲに課金するくらいなら、AIをサブスク契約してコーディング等に使った方がよっぽど大きな手応えが得られる」という内容だ。 そのとき、私は「ついにこの日が来てしまったか」と思いを巡らせた。 実のところ、大手がサブスク制を導入し、次々と新バージョンの競争を繰り広げ始めて</description>
+    </item>
+    <item>
+      <title>5年前に自分で歌った曲がAI音楽企業の著作権侵害申し立てで削除される、異議申し立ても2回却下</title>
+      <link>https://gigazine.net/news/20261117-musician-copyright-hell/</link>
+      <pubDate>2026/11/17 18:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0e9ad8bf5c1e06408b0db192d891c2dbbe7bd395/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2156%2F900%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>韓国、AI生成の曲が初の音楽チャート1位に　K-POPアイドルを抜く - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGM165SP0W6A111C2000000/</link>
+      <pubDate>2026/11/16 21:54</pubDate>
+      <description>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッション前後で開発velocityが安定し、100セッションを下回る日はほとんどありません。 多いときは1日に500~600 commitほどのアウトプットが出ることも珍しくなくなりました。 加えて普段は20人ほどの開発チームのトップとしてマネジメントを行なったり、別のスタートアップの執行役員をやっていたりもするので普通のAIの回し方をしていたら到底この出力は達成できません。 今回は「認知負荷を極限まで</description>
+    </item>
+    <item>
+      <title>NVIDIA、CEO 交代に関するお知らせ</title>
+      <link>https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/</link>
+      <pubDate>2026/11/17 15:39</pubDate>
+      <description>Appleは11月16日、ChatGPTやClaudeなどのAIエージェントがMacを操作したり、データにアクセスしたりする際の権限を、より細かく管理できる仕組みを発表した。「macOS 27.3」のベータ2で導入し、アクセスのたびに利用者の許可を求める設定や、アプリによる操作状況を示す機能などを追加する。 背景には、利用者に代わってアプリを操作するAIエージェントの高度化がある。Appleは10月2日の発表で、Mac内のファイルやメール、メッセージ、閲覧履歴などが、利用者の十分な理解がないままアプリにさらされる恐れを指摘。AIエージェントの能力や自律性が高まるほど、こうしたリスクも大きくなると説明していた。 今回見直すのは、Macや他のアプリの操作などに関わる「Device Control and Data Access」と、端末内の広範なデータにアクセスできる「Full Disk Ac</description>
+    </item>
+    <item>
+      <title>OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/17/2000003246/</link>
+      <pubDate>2026/11/17 08:11</pubDate>
+      <description>こんにちは。 デザイナーの花崎です。 最近は生成AIの進化によって、専門的な知識がなくても、簡単にそれらしいデザインを作れるようになりました。 アイコンひとつをとっても、Webフォントや無料のアイコン素材が豊富にあり、わざわざオリジナルで制作する機会は以前より少なくなっているように感じます。 そんな中、今回はあえて「アイコンを手作業で作ること」について書いてみようと思います。 普段、何気なく目にしている小さなアイコン。 Webサイトやアプリでは、文字だけでは伝わりにくい情報を視覚的に補ったり、操作の意味を直感的に伝えたりと、さまざまな役割を担っています。 例えば、虫眼鏡のマークを見れば「検索」、家のマークを見れば「ホーム」と、文字を読まなくても何となく意味が伝わりますよね。 また、アイコンは情報をわかりやすくするだけでなく、サービス全体の印象や統一感にも関わる、小さいながらも大切なデザイン</description>
+    </item>
+    <item>
+      <title>Google マップ「マップに相談」4つの新機能展開</title>
+      <link>https://jetstream.blog/2026/11/17/google-maps-ask-maps-holiday-travel-features-2026/</link>
+      <pubDate>2026/11/17 07:53</pubDate>
+      <description>この文章、AIっぽいからすごくいやだ。 見出しで区切って、言い回しもきれいに整えてくれた文章。間違ったことは何も書いていない。でも読んだ瞬間に「これ自分の文章じゃないな」と分かってしまうんですよね。 AIで文章を書いている人なら同じような経験があるかと思います。「〜です」の連続を崩して「いかがでしょうか」を消して、硬い言葉を言い換えて…それでも読み返すと、どこか他人の文章のまま。 実は、これらをいくら直してもAIっぽさは抜けないんです。むしろ直すほどAIっぽくなることさえあります。つまり、AIっぽさは言葉の選び方よりもっと手前で決まっているということ。 この記事では、AIで文章を書いている人に向けて「語尾に手をつける前に見直したいところ」と「AIへの頼み方」を公開します。 ちなみに私は半年ほど、AIが書いた文章に「よう分からん体言止めはやめて」「何が言いてえんだ」などとツッコミを入れ続けて</description>
+    </item>
+    <item>
+      <title>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2156904.html</link>
+      <pubDate>2026/11/17 10:04</pubDate>
+      <description>THE SOFTWARE ENGINEERING HANDBOOK A Judgment and Decision-Making Approach JAMES C. DAVIS FIRST EDITION © James C. Davis, 2026–present Edition 1 — first published 2026-09-12 · last modified 2026-11-17 This work was supported by the U.S. National Science Foundation under grants #2541917, #2452533, and #2343596. Preface Once upon a time, engineering was taught via apprenticeship. A novice worked alon</description>
+    </item>
+    <item>
+      <title>14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter</title>
+      <link>https://note.com/unsoluble_sugar/n/n58c97b4dee67</link>
+      <pubDate>2026/11/16 10:04</pubDate>
+      <description>不倫報道を受けてエヌビディアCEOを辞任したジェンスン・フアン氏だが、ハイテク業界はそのリーダーシップを称賛する声であふれている/Evelyn Hockstein/Reuters （CNN） 米半導体大手エヌビディアの創業者、ジェンスン・フアン氏が同社の最高経営責任者（CEO）の座を退いたことは、企業スキャンダルと受け止められた。ところがシリコンバレーで働くかつての部下や同僚の多くは、軒並み同氏への支持を表明。「伝説的な人物」としてなお称賛の声を送っている。 フアン氏は12日、少なくとも部下1人を含む複数の不倫関係が報じられたことを受け、辞任した。同氏は以前にも、別の女性との不倫関係が報じられ、その女性が米当局から「中国の諜報（ちょうほう）活動に関与している可能性がある人物」と指摘されたことで、すでに厳しい目にさらされていた。 フアン氏はエヌビディアのブランドにとって極めて重要な存在であり</description>
+    </item>
+    <item>
+      <title>RTX Sparkは本当にローカルAIに強いのか？RTX 5090や5070 Ti、5060 Ti 16GB、4090 Laptop GPUと性能を比較 (1/3)</title>
+      <link>https://ascii.jp/elem/000/004/450/4450424/</link>
+      <pubDate>2026/11/16 20:18</pubDate>
+      <description>米Googleは11月12日（現地時間）、新たなAIモデル「Gemini 4 Hydrogen」（以下、Hydrogen）を発表した。同社は「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。 Xなどでも、第三者機関の総合指標で上位モデル「Gemini 4 Argon」（以下、Argon）を上回りながら、「Gemini」アプリの無料ユーザーやAPIの無料枠にも開放した点が注目されている。 本稿では同モデルについて、公式資料などを基に、概要と性能、使い道、料金を整理する。 Carbonを基にした効率・スピード重視モデル Googleが公開したモデルカードによると、Hydrogenは同社が最も高性能と位置付ける「Gemini 4 Carbon」（以下、Carbon）を基に、速度と効率を重視して調整したモデル。「Gemini 4」シリーズとしては、9月発表のArgon、</description>
+    </item>
   </channel>
 </rss>
