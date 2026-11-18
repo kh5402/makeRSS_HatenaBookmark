@@ -275982,5 +275982,104 @@ June 6, 2026</description>
       <pubDate>2026/11/16 20:18</pubDate>
       <description>米Googleは11月12日（現地時間）、新たなAIモデル「Gemini 4 Hydrogen」（以下、Hydrogen）を発表した。同社は「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。 Xなどでも、第三者機関の総合指標で上位モデル「Gemini 4 Argon」（以下、Argon）を上回りながら、「Gemini」アプリの無料ユーザーやAPIの無料枠にも開放した点が注目されている。 本稿では同モデルについて、公式資料などを基に、概要と性能、使い道、料金を整理する。 Carbonを基にした効率・スピード重視モデル Googleが公開したモデルカードによると、Hydrogenは同社が最も高性能と位置付ける「Gemini 4 Carbon」（以下、Carbon）を基に、速度と効率を重視して調整したモデル。「Gemini 4」シリーズとしては、9月発表のArgon、</description>
     </item>
+    <item>
+      <title>XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X</title>
+      <link>https://x.com/satoki00/status/2123071303657910632</link>
+      <pubDate>2026/11/19 00:28</pubDate>
+      <description>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint independently uncovered two critical remote code execution vulnerabilities in NGINX, software used to rec</description>
+    </item>
+    <item>
+      <title>「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157510.html</link>
+      <pubDate>2026/11/18 19:29</pubDate>
+      <description>コスプレイヤーの伊織もえさんが11月18日（水）、生成AI・Claudeを開発する米企業・Anthropic（アンソロピック）の新規株式公開（IPO）に申し込んだことをXで明かした。 伊織もえさんは「証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりました 明日どうなるかな〜！」と投稿。 公開された証券口座の申込画面には、申込株数として2250株と表示されている。伊織もえさんは以前から、ClaudeやOpenAIのChatGPTを日常的に利用していることをXで明らかにしている。 伊織もえ、Anthropic社のIPOに2250株を申し込み──約2500～2800万円相当Anthropicは、米国時間11月19日（木）にNASDAQ市場への上場を予定しているAI開発企業。Claudeのほか、AIを活用したコーディングツール</description>
+    </item>
+    <item>
+      <title>同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2157394.html</link>
+      <pubDate>2026/11/18 16:27</pubDate>
+      <description>Power Appsが築いてきたガバナンス基盤がVibe Codingの時代に重要になる理由 AIを使ってアプリケーションを作ることが、急速に簡単になっています。自然言語でやりたいことを伝えるだけで、画面やロジックを持ったWebアプリケーションを数分で生成できるようになりました。いわゆる「Vibe Coding」と呼ばれる開発スタイルです。しかし、企業で利用するとなると、話は少し変わってきます。作成したアプリをどこで動かすのか。誰が利用できるのか。社内のデータにどこまでアクセスさせるのか。そして、作成者が異動したり退職したりした後も、誰が管理・保守を続けるのか。こうした問題は、AIによってアプリ開発が簡単になるほど、むしろ重要になってきます。 2026年11月17日、Microsoft Igniteにあわせて、Microsoft Copilot Managed Runtimeの一般提供（G</description>
+    </item>
+    <item>
+      <title>ローカルLLM入門</title>
+      <link>https://zenn.dev/port_inc/articles/ff974c7456f4db</link>
+      <pubDate>2026/11/17 23:09</pubDate>
+      <description>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。 first appeared on AAPL Ch..</description>
+    </item>
+    <item>
+      <title>わずか3時間で標的に侵入、AIを悪用したサイバー攻撃にFBIが警告</title>
+      <link>https://japan.cnet.com/article/35255059/</link>
+      <pubDate>2026/11/18 12:13</pubDate>
+      <description>同じAIで作った左右の漫画に、「左が好み」「右が読みやすい」とそれぞれの感想。絵柄だけでなく、腕の長さや弓道の道具にも目が向けられています。 Amazonのアソシエイトとして、哺乳類だいすきクラブは適格販売により収入を得ています。</description>
+    </item>
+    <item>
+      <title>［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー</title>
+      <link>https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html</link>
+      <pubDate>2026/11/18 08:32</pubDate>
+      <description>Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にするだけです。Googleが挙げる例は、車の整備の予約、電気料金の分析、買い物、食料品の注文です。 整備の予約では、Geminiが近くの販売店2軒に同時に電話をかけ、空いている時間をGoogleカレンダーと照らし合わせて予定を入れます。電話の相手にはAIであることを最初に伝え、店側は受けない設定もできます。電気料金の例では、Googleパスワードマネージャー経由で電力会社のサイトに入り、過去の請求を調べて、料金が高い時間帯にヒートポンプが動いていたことを</description>
+    </item>
+    <item>
+      <title>ケンブリッジ辞典が選ぶ今年の単語は「人間」、AIめぐる論議の高まりを象徴</title>
+      <link>https://www.cnn.co.jp/fringe/35255056.html</link>
+      <pubDate>2026/11/18 11:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f5f8e2ddf7cc72d04a0e609c759394e6e463108a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2157%2F295%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開　AI自己改善能力は初の「High」に</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/18/2000003279/</link>
+      <pubDate>2026/11/18 08:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e3a1bd48c375c18b46c2dc139372a1149f6840e0/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2155%2F933%2F00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Actual curl rewrites in rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <pubDate>2026/11/17 18:33</pubDate>
+      <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは企業における日常的なコーディング作業向けに設計された2つの新しいコーディング用のAIモデルです。 いずれも競合製品と同等の性能をより安価に提供することをセールスポイントとしています。 MAI Code 2は本番環境などに対応 MAI Code 2は本番環境用のコード生成や難しいデバッグ、リポジトリの推論、ダッシュボードやビジュアライゼーションなどのUI構築において優れたAIモデルです。 マイクロソフトによると、GitH</description>
+    </item>
+    <item>
+      <title>ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ</title>
+      <link>https://note.com/wakabame/n/nc76b65a187bb</link>
+      <pubDate>2026/11/17 22:10</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>「AIエンジニア」の呼び名さえ消える時代、ITエンジニアが磨くべきスキル</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/17/news008.html</link>
+      <pubDate>2026/11/17 08:09</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
+    <item>
+      <title>Pythonではじめるデータ分析　良質メニュー100【AI対応版】 梅津 雄一(著) - ＳＢクリエイティブ</title>
+      <link>https://www01.hanmoto.com/bd/isbn/9784815638443</link>
+      <pubDate>2026/11/16 23:01</pubDate>
+      <description>NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation https://research.nvidia.com/labs/gear/gr00t-2/ GR00T 2は「人間の動作を記録した合計40万2730時間の動画」「人間が手持ちグリッパーを操作する様子を記録した合計1万184時間分のデータ」「人間によるロボット遠隔操作の様子を記録した2万3500時間分のデータ」によって事前学習されたモデルです。 人間によるデモンストレーションによって「朝食の準備」「PCの組み立て」「マッチの点火」など多様な動作を学べます。新たなタスクはGeForce RTX 5090を用いて30分で実行可能。新規タ</description>
+    </item>
+    <item>
+      <title>ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/16/2000003226/</link>
+      <pubDate>2026/11/16 17:20</pubDate>
+      <description>宿題を採点し、学生にフィードバックを返す作業は、教育者にとっておそらく最も骨の折れる仕事だ。私が教授として教えていた頃、工夫を凝らした課題の提出物を読んでも、分かるのはせいぜい、授業の概念や重要な要素を学生にどれだけうまく伝えられたかということだった。しかしAI時代を迎えた今、その作業は腹立たしいほどの徒労と化している。 授業で指定していない資料からの複雑な引用にあふれるオンラインのディスカッション。授業初日からその分野に精通しているかのような学生たち。「母親の署名をひとたび偽造すれば、その後もずっと利用できる」という昔ながらの手口を応用しているかのようだ。 この記事を執筆する前の週、カリフォルニア大学バークレー校の数学教授が、学生が皆AIを使っていることを理由に、課題の採点をやめたという記事を読んだ。私は、アリゾナ州立大学（ASU）のウォルター・クロンカイト・ジャーナリズム・マスコミュニ</description>
+    </item>
+    <item>
+      <title>製造業のベテランにAIを教えて見えた、自走を分けるもの</title>
+      <link>https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy</link>
+      <pubDate>2026/11/14 12:41</pubDate>
+      <description>今回は筆者がAIを使って作成したコンサートアプリの紹介です。Claude「Opus 5.5」を中心に、AIによるダンスモーションの自動作成、ライトやカメラなどの自動演出機能を持たせ、アバターフォーマットの「VRM」を使って、リアルタイム3Dでキャラクターを自動的に踊らせるシステムを作りました。実作業時間は約10日間です。動画AIも組み合わせることで、どんな音楽にも合うモーションを作れる仕組みにしています。その工夫とメイキングを紹介します。 △百夜ステージ（Hyakuya Stage）の予告編 百夜ステージのitch.io公開サイト（無料公開） 10年来の構想をAIとともに形にする 筆者は10年前のVRブームの頃から、自分が作成した音楽に合わせて自動でダンス動画を作り、好きなキャラクターによるコンサートを設定し、自由に鑑賞できる環境を構築できないか……と考えていました。UnityやUnrea</description>
+    </item>
+    <item>
+      <title>AIで越境する、モバイルエンジニアからフルスタックへの挑戦 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20261116/mobile-to-fullstack</link>
+      <pubDate>2026/11/16 15:11</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f2e8035db9c5eca71ba06d2c82afcdb0ca3f69d4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2156%2F720%2Fai1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
