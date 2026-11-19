@@ -276285,5 +276285,153 @@ June 6, 2026</description>
       <pubDate>2026/11/16 22:55</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>Agenship — Software FactoryであなたのチームにAIの開発ラインを</title>
+      <link>https://agenship.ai/</link>
+      <pubDate>2026/11/19 21:07</pubDate>
+      <description>はじめに前回の「セキュリティ要求は、待ってくれない」では、セキュリティをサービスレベル設計の観点から捉え直し、事業者がどこまで投資し、どういう状況になったらサービスを止めるのかを決めることの大切さを書きました。 この秋も、国内では不正アクセスによる情報漏えいの報道が相次ぎました。また、広く使われている開発言語の重大な脆弱性が公表される前後に、多くの事業者が被害を防ぐため予防的にサービスを止める動きも見られました。 では、システムを設計し、作り、維持する側の私たちエンジニアやアーキテクトは、何を考え、どこに手を打つべきなのでしょうか。相次ぐ報道に危機感を覚えたこともあり、実務の目線からセキュリティの全体像を何回かに分けて整理します。 全体としては、次のような順番で辿っていく予定です。 第1回: セキュリティの考え方と、共通の前提（今回） 第2回: 利用者のリテラシーと、事業者のガバナンス 第</description>
+    </item>
+    <item>
+      <title>「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測</title>
+      <link>https://ascii.jp/elem/000/004/452/4452982/</link>
+      <pubDate>2026/11/19 18:44</pubDate>
+      <description>おっきぃ @okkie0711 ちょっとメンタル折れたかも。子が私の暗殺方法ＡＩに相談してた。 そっかー。 いなくなってもいいんだ。 知らないよマジで。 鬱で休職中の父親と不登校の自分をどうにかできるんなら暗殺でもなんでもすればいいさ。 教育虐待どころか遅れているのを少しぐらいやったらってレベルだし、家の手伝いすら 2026-11-19 13:39:03 おっきぃ @okkie0711 しない。 それでも、今生きててくれるならって。 将来に少しでも道筋をつけてあげられたらって。 毒親なのかねえ。 ちゃんと育てても放任しても。もう同じ空間で生きてるってだけで。 2026-11-19 13:41:01 おっきぃ @okkie0711 反響が大きいのでちょっとミュートにします。 いろんなご意見ありがとうございます。 書いてる通りちょっと今家庭内が行き詰まっていることもあり心身疲れているところでの</description>
+    </item>
+    <item>
+      <title>AIモデル顔データベース</title>
+      <link>https://ai-portrait-gallery.pages.dev/</link>
+      <pubDate>2026/11/19 19:30</pubDate>
+      <description>Googleは11月18日（現地時間）、Gemini 4ファミリーの新モデル「Gemini 4 Neon」を公開したと発表しました。開発者向けのGemini API（Google AI Studio）、企業向けのGemini for business、開発ツールのGoogle Antigravity、そしてGeminiアプリで同日から順次利用できます。GeminiアプリとAntigravityで使えるのは、有料のGoogle AI Pro／Ultra加入者です。 API料金は入力100万トークンあたり3ドル（キャッシュ済み入力は0.15ドル）、出力100万トークンあたり15ドル。コンテキストウィンドウは100万トークンです。 Gemini 4ファミリーの中では、最も難しい長時間のプロジェクトを担う「Carbon」と、日常的な処理を高速にこなす「Hydrogen」の間に位置します。Googl</description>
+    </item>
+    <item>
+      <title>OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
+      <link>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</link>
+      <pubDate>2026/11/19 17:01</pubDate>
+      <description>OpenAIのサム・アルトマンCEOは、2026年10月に公開されたインタビューで「世界的に供給が限られているDRAMを個人のPCに大量に搭載することは資源配分の観点から非常に非効率」という旨の発言をして物議を醸しました。その発言について、2026年11月16日に開催されたサミット「Semafor Silicon Valley &amp;amp; The World」に登壇したアルトマンCEOが「発言が誤解された」と説明し、「誰もが自分のコンピューター用にたくさんのRAMを購入できるべきだと考えています」と語りました。 Sam Altman says he has personal empathy for Jensen Huang | Semafor https://www.semafor.com/article/11/16/2026/altman-says-he-has-personal-empathy</description>
+    </item>
+    <item>
+      <title>グーグル、Geminiに作業を任せる「タスク」を日本など6カ国で無料提供　旧「Spark」を改称</title>
+      <link>https://japan.cnet.com/article/35255128/</link>
+      <pubDate>2026/11/19 11:12</pubDate>
+      <description>最先端AIの開発組織は、AIによってAIの改善を自律的に進行させる「再帰的自己改善(RSI)」の実現に向けて研究開発を続けています。新たにOpenAIが2026年10月までの開発進行状況を2026年11月18日に報告しました。 Research acceleration: The jagged frontier | OpenAI https://openai.com/index/research-acceleration-jagged-frontier/ 以下のグラフはOpenAIの研究者が「Codex」「ChatGPT Work」「Dots」に費やしているコストの推移をまとめたもので、左側のグラフが中央値、右側が上位1割のコストを示しています。2026年10月時点の1日当たりのコストの中央値は2400ドル(約38万円)、上位1割は2万3000ドル(約367万円)で、2026年8月の集計か</description>
+    </item>
+    <item>
+      <title>2週間号泣したという孫正義氏「残りの人生はAIに捧げる」（中央日報日本語版） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/d6d5a9af37190052af672524a3da6728dce9ecec</link>
+      <pubDate>2026/11/19 11:57</pubDate>
+      <description>マウスコンピューターのDAIVブランドから、ローカルAI向けのミニPC「DAIV CX」シリーズがリリースされた。120Bクラスの巨大なLLMの利用を想定したもので、CPUはAMDのRyzen AI Max+ 395、メモリは128GBというスペックを、小型のデスクトップボディーに収めている。 今回試した「DAIV CX-A9A60」の価格は、同社直販で94万9800円からとなっている。 →マウス、Ryzen AI Max＋を搭載したビジネス向け小型デスクトップ 高性能な統合GPUとLPDDR5X 128GBで巨大なLLMを動かせる！ クラウド型のAIサービスは日進月歩で高性能化しているが、課題となるのがトークンコストだ。そして、自社のシステムと統合する上で懸念されるのが、機密情報の扱いだろう。これらの解決策として、ローカルAIを検討している企業も多いはずだ。 ローカルAIの主役はGPUだ</description>
+    </item>
+    <item>
+      <title>Apple、自然言語で指示するだけで画像を変更できる塗りつぶしを生成機能を実装した「Pielmator Pro v5.0 for Mac/iPad」を公開。AIプロバイダはGoogleを採用。</title>
+      <link>https://applech2.com/archives/20261119-pixelmator-pro-v5-generate-fill.html</link>
+      <pubDate>2026/11/19 15:26</pubDate>
+      <description>Appleが新しいインテリジェントアシスタントやMCPをサポートした「Keynote、Pages、Numbers for Mac v16.0」をリリースしています。詳細は以下から。 Appleは現地時間2026年11月18日、Final Cut ProやLogic Pro、Pixelmator Pro、Motion、Compressor、MainStageのクリエイティブアプリと、KeynoteやPages、Numbersにおける新たなAI機能とプレミアムコンテンツを1つのサブスクリプションにまとめた「Apple Creator Studio」アプリをアップデートし、iWorkアプリでは新たにAIアシスタントがドキュメントやスプレッドシート、プレゼンテーションを編集＆作成できるようになったと発表しています。 Keynote、Pages、Numbersでは、書類のコンテクストを理解するアシス</description>
+    </item>
+    <item>
+      <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
+      <link>https://zenn.dev/karamage/books/50c18e52e7d19e</link>
+      <pubDate>2026/11/19 12:19</pubDate>
+      <description>本記事は、日本経済新聞社が主催したイベント「Dialogues on the Future」（11月18日開催）の講演プログラム「Future of AI　AI革命とどう向き合う」を取材したもの。 運命を変えた1枚の写真 「情報革命」の実現を掲げ、PC用ソフトウェアの流通、ブロードバンド、モバイルインターネット、AIへとテクノロジーの先端を走り続ける孫氏。その原点は、17歳の米国留学時代にさかのぼる。 「17歳のとき、初めて『プロセッサ』の写真を雑誌で見た。『不思議な写真だ』『未来図みたいだ』と思いながらページをめくると、指先に載ったマイクロプロセッサ……米Intelの『8080』だったかの拡大写真でびっくりした」 それまで「コンピュータ」といえば、米IBMや米Digital Equipment Corporation（DEC）による大型の機械が主流だった。孫氏は「こんな小さなものになると</description>
+    </item>
+    <item>
+      <title>AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/19/2000003310/</link>
+      <pubDate>2026/11/19 12:20</pubDate>
+      <description>サイバーセキュリティ企業のCalifは、OpenAIの未公開モデル「GPT-6 Cyber」を活用し、プログラミング言語Javaに12年以上にわたって存在していた重大な脆弱性を発見したと発表しました。 Java開発コミュニティを運営するOracleは、日本時間11月18日にこの脆弱性を含む652件の問題を修正するパッチをリリースしています。 Javaは銀行・病院・航空・政府機関など幅広い分野の基幹システムに用いられており、米国のサイバーセキュリティ機関CISAはJavaを使用するシステムを利用する企業や組織に対して即時の適用を呼びかけています。 PHPの脆弱性も発見したCalifの研究者らは、まだ一般公開されていないOpenAIのGPT-6 Cyber​​モデルを利用してこの脆弱性を発見しました。 Califが「Java4Shell」と呼ぶこの脆弱性は、一部の環境では、Javaのbase6</description>
+    </item>
+    <item>
+      <title>Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
+      <link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
+      <pubDate>2026/11/19 11:23</pubDate>
+      <description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 Project Genie https://labs.google/projectgenie Genie 4 — Google DeepMind https://deepmind.google/models/genie/ Project Genie update featuring Genie 4 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Genie 4は2026年10月に発表された世界モデルで、一部のテスターを対象に限定公開されていました。 Googleが仮想世界をリアルタイムで生成するAI「Genie 4</description>
+    </item>
+    <item>
+      <title>Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/19/2000003325/</link>
+      <pubDate>2026/11/19 12:41</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」　一部「Fable同等」性能をコスト半分で</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</link>
+      <pubDate>2026/11/19 11:39</pubDate>
+      <description>生成AIへの投資が止まる？2023年を生成AI元年とするなら、今年（2026年）で４年目を終えようとしています。振り返ると、あっという間の４年間でしたね。 すくすく育った生成AIちゃん。昨今はセキュリティの脆弱性を突いて大暴れの様子。本当マジ勘弁して下さい。まだ幼稚園に通う年齢ですが、この先大きくなると、どうなっちゃうんでしょうか。 さて、これまで「生成AIは私たちの仕事を奪うかどうか」で、さまざまな論争が巻き起こってきました。議論をざっくり整理すると、大きく２つの仮説に分けられそうです。 ①生成AIによる自動化はどんどん進み、やがて人間の仕事は無くなる。ただし、「やがて」の時間軸は人によって異なる。 ②生成AIは、あくまで人間が使う武器である。少なくとも今後十数年は、人間の仕事が無くならない。 ①論 vs ②論②には留意点があります。生成AIが作ったものを見て、何が足りないか、どこがおか</description>
+    </item>
+    <item>
+      <title>AIでスクラムは不要になる？──ベロシティ消失からチームの存在意義まで【LayerX × ユーザベース】 - Agile Journey</title>
+      <link>https://agilejourney.uzabase.com/entry/2026/11/19/103000</link>
+      <pubDate>2026/11/19 10:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8aea20c3c038985e2575c1227594f9fc77c36901/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2155%2F622%2Fh001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>マイクロソフト、「Copilot」でワード・エクセル・パワポを作成編集可能に</title>
+      <link>https://japan.cnet.com/article/35255096/</link>
+      <pubDate>2026/11/19 07:39</pubDate>
+      <description>中国のAIスタートアップMoonshot AIが2026年7月に公開したMoEモデル「Kimi K3」は、2.78兆パラメーターを持つ、オープンウェイトの最大級のモデルとして話題を集めています。 レバテックLABの主催で、Sakana AIで研究を率いる秋葉拓哉さんとモデレーターとして岩瀬義昌さんを招き、モデルアーキテクチャの核心に迫るセッション『中国AIは、どのように賢くなったのか－秋葉拓哉さんが読み解く、Kimi K3の中身－』を実施しました。ここでは、当日の議論をセッションの流れに沿ってレポートします。 Sakana AI 秋葉 拓哉 (@iwiwi) Sakana AIチーフサイエンティスト。東京大学大学院情報理工学系研究科で博士号を取得後、国立情報学研究所、Preferred Networks機械学習基盤担当VP、Stability AIを経て現職。現在は生成基盤モデルやAIエー</description>
+    </item>
+    <item>
+      <title>AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見</title>
+      <link>https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/</link>
+      <pubDate>2026/11/19 08:12</pubDate>
+      <description>アンソロピックのロゴ=2026年10月26日、ロイター（朝日新聞）　米国の人工知能（AI）大手アンソロピックは18日、ナスダック市場で19日に予定されるIPO（新規株式公開）の公開価格を発表した。1株あたり83ドル（約1万3千円）で売り出す。企業の評価額は1.5兆ドル（約240兆円）に上る。 【グラフ】AIブームは終わるのか　日経平均6万円割れ、終値の推移 アンソロピックは今回のIPOで、9億8千万株を売り出し、約810億ドルを調達する。6月に史上最大の上場をしたスペースXが、当初記録した約750億ドルを上回った。スペースXの調達額は、追加の売り出しを経て約860億ドルに更新されている。また、アンソロピックは別途、グーグルや半導体大手エヌビディアなどを引き受け手とする第三者割当増資も実施する。 投資家向け説明会にあたり、公開価格の価格帯を70～78ドル、売り出す株の数を8億2500万株とし</description>
+    </item>
+    <item>
+      <title>アンソロピック、IPO公開価格83ドルに引き上げ　評価額は1.5兆ドル - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
+      <pubDate>2026/11/19 08:59</pubDate>
+      <description>TOPICS System/Network , AI/LLM 発行年月日 2026年12月10日 PRINT LENGTH 408 ISBN 978-4-8144-0189-5 原書 Generative AI on Kubernetes FORMAT Print 生成AI、特に大規模言語モデル（LLM）の本番運用において、Kubernetesは不可欠な基盤となっています。本書は、インフラエンジニアやMLOps担当者に向け、クラウドネイティブ環境でLLMを効率的かつ安全にデプロイし、スケールさせるための実践的なガイドです。vLLMやTGIといったモデルサーバーを用いた推論ランタイムの構築から始まり、希少なGPUリソースの効率的なスケジューリング、LoRAなどを用いたモデルのカスタマイズ、さらには検索拡張生成（RAG）やエージェント型ワークフローを組み込んだAI駆動アプリケーションの構築まで</description>
+    </item>
+    <item>
+      <title>無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」</title>
+      <link>https://gigazine.net/news/20261118-xestrata/</link>
+      <pubDate>2026/11/18 23:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/52b42a01a9e5384327419cbcb74a3492caf2ad08/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F471%2FDT01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+      <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+      <pubDate>2026/11/18 23:07</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog</title>
+      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+      <pubDate>2026/11/19 00:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6c422cd8029ff6c06c5673737ae0ee754016b7cf/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F448%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIが見つけた脆弱性を人間が「攻撃」に変える。Pwn2Own世界一のハッカーに聞く、日本勢初優勝の舞台裏 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/32190/</link>
+      <pubDate>2026/11/18 17:41</pubDate>
+      <description>こども家庭庁は子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」のシステムについて、12月末の稼働開始を断念する。システムに脆弱性があり、不正アクセスを受けて情報流出につながる可能性があると判断した。中司宏こども政策相は18日、内閣府で記者団に「深刻な脆弱性が多数発見された。システムの運用は当面行わない」と話した。手続きの代替方策を至急検討するよう指示したと説明した。システムの稼働</description>
+    </item>
+    <item>
+      <title>2人で5プロダクトのデザイン品質と速度を高めた仕組みの作り方｜かつき｜Luxar CEO・AIネイティブ経営</title>
+      <link>https://note.com/ktknd/n/n71f8306af79d</link>
+      <pubDate>2026/11/16 12:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/380bdc0abee36a9d52960d86ca4aaf064ca38d0a/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2156%2F976%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>元工作機械エンジニアが「JIMTOF2026」で見た、2つの技術的潮流</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/17/news013.html</link>
+      <pubDate>2026/11/17 07:24</pubDate>
+      <description>We’re adding tsrs as an alternative to tsgolint for type-aware linting in Oxlint. It’s the Rust port of TypeScript announced by Cloudflare and VoidZero in October. Teams at Cloudflare, Owner.com and OpenAI are already using it for type-aware linting. Our goal is to make Oxlint the best possible linter for developers and agents. tsrs enables up to 7x faster and a 75% reduction in memory, shortening</description>
+    </item>
   </channel>
 </rss>
