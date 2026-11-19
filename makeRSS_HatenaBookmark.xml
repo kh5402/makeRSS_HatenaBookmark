@@ -276081,5 +276081,113 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f2e8035db9c5eca71ba06d2c82afcdb0ca3f69d4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2156%2F720%2Fai1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html</link>
+      <pubDate>2026/11/19 06:50</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
+    <item>
+      <title>アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261117de77369</link>
+      <pubDate>2026/11/18 21:57</pubDate>
+      <description>2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきました。 東京圏で組み込み業やベンチャー、大手企業などでのソフトウェアエンジニアを経て、独立してフリーランスになり仙台に移ったあとに故郷の岩手に戻ったりしました。 実質的無職にいたった状況実質的無職になった直接的な理由は仕事が減ることになったためですが、2023年ごろからフリーランス界隈の状況が変わっていることや、AIの急速な実用化などがあり、2024年の中頃から「そろそろ潮時だなあ」とはずっと思っていました。 潮時と思った理由を以下に挙げています。 2024年以降、利益率が下がってきていた</description>
+    </item>
+    <item>
+      <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
+      <link>https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</link>
+      <pubDate>2026/11/19 01:38</pubDate>
+      <description>執筆 中川 幸哉 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。新潟県上越市出身。会津大学コンピュータ理工学部卒業後、現在は新潟市に在住。ReactやAndroidを軸に、モバイルアプリ開発やWebサイト制作、Webメディア編集部の業務改善や、プログラミング技術記事の執筆等に携わっている。著書に『たった1日で基本が身に付く! Androidアプリ開発超入門』、『基礎から学ぶ React Native入門』 「たった1日で基本が身に付く! Androidアプリ開発超入門」（技術評論社）　「基礎から学ぶ React Native入門」（翔泳社） 監修 山田 祥寛 静岡県榛原町生まれ。一橋大学経済学部卒業後、NECにてシステム企画業務に携わるが、2003年4月に念願かなってフリーライターに転身。Microsoft MVP f</description>
+    </item>
+    <item>
+      <title>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+      <link>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</link>
+      <pubDate>2026/11/19 01:24</pubDate>
+      <description>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張 企業内のAI推論基盤へと拡張 Windows Serverはこれまで、Active Directoryによるユーザーやリソースの管理、アプリケーションの実行基盤などとして利用されてきました。 Windows Server 2028では新たにMicrosoft FoundryやWindows ML、vLLM、Llama.cppなどによる企業内でのAI推論を実行するための基盤としての役割も担うようになります。 セキュリティやストレージ、管理面も強化 セキュリティ面での強化も予定されており、Server Coreのセキュリティ強化、仮想マシン群のブート整合性を保証し仮想マシンの保護を拡張するTrusted Launch、処理内容をハードウェアレベルで暗号化する</description>
+    </item>
+    <item>
+      <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
+      <link>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</link>
+      <pubDate>2026/11/18 23:06</pubDate>
+      <description>1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata」です。 MistVVK/XeStrata: LLM &amp;amp; Image maker！1GPU &amp;amp; Intel / NVIDIA / AMD No CUDA！ https://github.com/MistVVK/XeStrata ◆Strataから派生したXeStrata 派生元のStrataはAIモデルを構成するデータをGPUのVRAMとPCのメインメモリに分散して処理することで、巨大なAIモデルを一般的なPCで動作させる仕組みを備えた</description>
+    </item>
+    <item>
+      <title>【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</link>
+      <pubDate>2026/11/18 23:55</pubDate>
+      <description>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。 Now generally available, Microsoft Perception brings red, blue and green team agents together through playbooks to simulate attacks, detect threats and remediate, delivering security outcomes at machine speed</description>
+    </item>
+    <item>
+      <title>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2157448.html</link>
+      <pubDate>2026/11/18 15:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6fff1a16a6d4ad010dcd07d6b9a48d686d97f6cb/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2157%2F510%2Fgoogleappscript.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～</title>
+      <link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
+      <pubDate>2026/11/18 22:07</pubDate>
+      <description>転職・求人情報サイトのtype エンジニアtype ITニュース AIが見つけた脆弱性を人間が「攻撃」に変える。Pwn2Own世界一のハッカーに聞く、日本勢初優勝の舞台裏 NEW! 2026.11.18 ITニュース セキュリティーAI 2026年10月、世界最高峰のハッキングコンテスト「Pwn2Own Ireland 2026」で、日本企業が初めて総合優勝を果たした。 快挙を成し遂げたのは、セキュリティー企業のIkotas Labsだ。Google Pixel 10やOpenAI Codexなど、計4製品のハッキングに成功し、世界一のハッカーチームに贈られる「Master of Pwn」の称号を獲得した。 同社を率いるのは、これまで数々の国際的なハッキングコンテストで実績を残してきたセキュリティーリサーチャーの辻 知希さん。 「AIは脆弱性をいくつも見つけてくれます。でも、それらをつなぎ</description>
+    </item>
+    <item>
+      <title>AIで作った曲にMVも生成　AI音楽のSunoが新機能「Visuals」を公開</title>
+      <link>https://japan.cnet.com/article/35255083/</link>
+      <pubDate>2026/11/18 15:00</pubDate>
+      <description>コスプレイヤーの伊織もえさんが11月18日（水）、生成AI・Claudeを開発する米企業・Anthropic（アンソロピック）の新規株式公開（IPO）に申し込んだことをXで明かした。 伊織もえさんは「証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりました 明日どうなるかな〜！」と投稿。 公開された証券口座の申込画面には、申込株数として2250株と表示されている。伊織もえさんは以前から、ClaudeやOpenAIのChatGPTを日常的に利用していることをXで明らかにしている。 伊織もえ、Anthropic社のIPOに2250株を申し込み──約2500～2800万円相当Anthropicは、米国時間11月19日（木）にNASDAQ市場への上場を予定しているAI開発企業。Claudeのほか、AIを活用したコーディングツール</description>
+    </item>
+    <item>
+      <title>Copilot Managed Runtime が一般公開 - Vibe Codingに必須のプラットフォーム - 吉田の備忘録</title>
+      <link>https://memo.tyoshida.me/copilot/copilot-managed-runtime-general-availability/</link>
+      <pubDate>2026/11/18 13:18</pubDate>
+      <description>オンプレとローカルは、どちらも入力を外に出さずに済みます。違いは 計算力と費用を会社が持つか、利用者の端末が持つか です。 「入力が外に出るか」は机上の話ではありません。 情報の持ち出しは、社内で安心して使える手元の選択肢があれば起きにくくなります。預け先での漏えいや設定ミスには、ローカルならそもそも巻き込まれません。ただし端末の紛失やマルウェアへの備えは変わりませんし、モデルの配布元が狙われることもあります（Hugging Face, 2026年7月）。 クローズドとオープンの現在地 Artificial Analysis Intelligence Index v4.3.2（2026年10月5日閲覧）。各モデルの最高設定の値 重みが公開されているオープンウェイトの上位は、MiMo（Xiaomi）、GLM（Z.ai）、Kimi（Moonshot AI）と中国勢が占めています。最上位どうしの</description>
+    </item>
+    <item>
+      <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
+      <link>https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</link>
+      <pubDate>2026/11/18 15:06</pubDate>
+      <description>セキュリティ上の欠陥を見つけるために開発されたオープンソースの人工知能（AI）ツールが、サイバー攻撃に悪用されている。米連邦捜査局（FBI）によると、ハッカーはAIを活用したセキュリティテストツール「ARTEX」を使い、世界各地の組織のシステムに侵入している。 同局は米国時間11月13日に公表した警告で、攻撃対象を選んでからシステムの特権を取得するまでに3時間もかからなかった事例があったと明らかにした。攻撃者は少なくとも8月からARTEXを使い、銀行、政府機関、テクノロジー企業、医療機関を狙っている。 同日、米連邦航空局（FAA）は通信トラブルを受け、全米で航空機の出発を一時停止した。その前日には「Microsoft 365」で大規模な障害が発生していた。Microsoftは障害の原因を技術的な問題と説明しており、FAAはサイバー攻撃の兆候は確認されていないとしている。 FBI職員はABC</description>
+    </item>
+    <item>
+      <title>左：よく見るAI臭すごいやつ 右：工夫したやつ 同じAIで作ってます→『AI臭の方は「美しい」。工夫の方は「可愛い」。』</title>
+      <link>https://posfie.com/@_Mammal_/p/SHE9Pud</link>
+      <pubDate>2026/11/18 03:06</pubDate>
+      <description>［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure Database Migration Service （Azure DMS）におけるOracle DBからPostgreSQLへのデータ移行機能をプレビュー版として提供開始したと発表しました。 Azure DMSは、データベースのダウンタイムを最小限に抑えつつ、Microsoft Azure上のデータベースサービスに移行するための機能を提供するマネージドサービスです。 これまでMySQL、PostgreSQL、MongoDBからの移行に対応していましたが、新たにOracle DatabaseからPostgreSQL（A</description>
+    </item>
+    <item>
+      <title>若者はもう検索しない?　SNSとAIで変わる買い物のカタチ</title>
+      <link>https://www.watch.impress.co.jp/docs/topic/2155933.html</link>
+      <pubDate>2026/11/18 08:22</pubDate>
+      <description>「公開していないAPIだから、攻撃者には見つからない」。そんな前提で設計されたシステムは、AIによって危うくなるかもしれません。 直近、複数の事業者で個人情報の漏えいが発生し、公的機関が相次いで注意を喚起しています。その原因の一つとして挙げられているのが、公開アプリを解析し、接続先のサーバを攻撃する手法です。 情報通信研究機構（NICT）は、モバイルアプリが通信するサーバの接続先やAPIの仕組みを調べ、その情報を基に、対象のサーバに合わせた攻撃を実行するこの手口を「A2B攻撃」（App-to-Backend Attack）と名付け、注意を促しています。 開発者にとって厄介なのは、攻撃者が調べているのが、“開発者側で公開したつもりのない情報”だという点です。内部APIの仕様は利用者向けの画面には現れませんが、アプリを配布した時点で接続先や通信の仕組みは解析可能な形で利用者の手元に渡っています</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 1行頼むだけで東京駅の空撮CGができた！「Muse」にBlenderを操作させた件</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2156976.html</link>
+      <pubDate>2026/11/18 07:23</pubDate>
+      <description>はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本記事では、AIのスライドがなぜ「Claudeっぽく」なるのか、そしてそう見せないために、部下にどのスキルを使わせるべきかを伝授する。 対象読者 部下のスライドを見るたびに「またこの感じか」と思っている上司諸君 ↑のように思われてそう...と心当たりのある部下の諸君 「またか」と思うウンザリポイント3選 どんな内容のスライドも、いつも同じような雰囲気になる 社内勉強会の資料だろうと、顧客への提案資料だろうと、出てくるものは同じだ。 同じ見た目のカードが横に並び、フォントも背景のトーンも変わらない。 強調する必要のないポイント</description>
+    </item>
+    <item>
+      <title>Put Gemini to work for you</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+      <pubDate>2026/11/18 02:34</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/134b88bf662750a82b965130e44b1da210dedf23/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2157%2F106%2Fgemini.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる</title>
+      <link>https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</link>
+      <pubDate>2026/11/17 18:07</pubDate>
+      <description>Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。</description>
+    </item>
+    <item>
+      <title>内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/haro-alert-loop</link>
+      <pubDate>2026/11/17 13:20</pubDate>
+      <description>約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じています。 How an AI Content Mill Put a Real Musician Through Copyright Hell https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/ 問題に巻き込まれたのは作家でミュージシャンのサマンサ・ショーキン氏です。ショーキン氏は新型コロナウイルス感染症のパンデミック中に、ブルガリアの伝統的な民謡「Br</description>
+    </item>
   </channel>
 </rss>
