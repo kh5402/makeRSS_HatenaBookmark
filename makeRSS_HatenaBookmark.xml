@@ -276189,5 +276189,101 @@ June 6, 2026</description>
       <pubDate>2026/11/17 13:20</pubDate>
       <description>約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じています。 How an AI Content Mill Put a Real Musician Through Copyright Hell https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/ 問題に巻き込まれたのは作家でミュージシャンのサマンサ・ショーキン氏です。ショーキン氏は新型コロナウイルス感染症のパンデミック中に、ブルガリアの伝統的な民謡「Br</description>
     </item>
+    <item>
+      <title>「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」</title>
+      <link>https://togetter.com/li/2772319</link>
+      <pubDate>2026/11/19 14:30</pubDate>
+      <description>都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。 A Perfect SimCity · Articles https://www.jeffquast.com/post/a-perfect-simcity/ 1989年に発売された初代シムシティは「Micropolis」としてソースコードが公開されています。クエスト氏はMicropolisをPythonから操作するツールを利用し、評価スコアを最大化する都市を自動生成する実験を行いました。 実験で最も評価が高かった都市は人口1万6560人、税率1％で、1000点満点中949.5点を記録しました。 一方、人口の最大化を目指して</description>
+    </item>
+    <item>
+      <title>アンソロピック240兆円上場へ、既存株は7.2倍　Amazonが最大株主 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN1851O0Y6A111C2000000/</link>
+      <pubDate>2026/11/19 13:29</pubDate>
+      <description>nginxは、世界で最も広く使われているオープンソースのWebサーバソフト。HTTPSの通信を処理し、トラフィックをアプリケーションやAPIに振り分けるフロントドアとして、Webシステムの入り口に置かれることが多い。 脆弱性はHTTP/2を有効にしたサーバが対象で、バージョンや構成によって影響を受ける。悪用されると、攻撃者がコマンドを実行したり、機密データを窃取したり、Webサイトを改ざん・サービス停止したりできるおそれがある。 「CVE-2026-123633」は、使用中のメモリが誤って解放され、その後も参照されてしまう「use-after-free」と呼ばれる脆弱性。nginxがHTTP/2で受けたリクエストを別のサーバーに転送する構成で処理できる接続数が上限に近づいた際に、攻撃者から特殊な通信を受けると、サーバが停止したり、任意のコードを実行されたりする恐れがある。 「CVE-202</description>
+    </item>
+    <item>
+      <title>教師のためのAI入門</title>
+      <link>https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf</link>
+      <pubDate>2026/11/19 10:32</pubDate>
+      <description>米Googleは11月18日（現地時間）、AIモデル「Gemini 4 Neon」（以下、Neon）を公開した。「Gemini 4」シリーズのモデルは「Gemini 4 Argon」（以下、Argon）、「Gemini 4 Carbon」（以下、Carbon）、「Gemini 4 Hydrogen」（以下、Hydrogen）に続き、2カ月足らずで4つ目となる。 Neonは上位モデルのCarbonを基にしたモデル。難度の高い長期プロジェクト向けのCarbonと、高速な日常作業向けのHydrogenの中間に当たり、推論の深さと効率のバランスを取ったという。Googleは開発者向けドキュメントで、Argonを一般的なコーディングや推論に使っている場合の移行先にNeonを挙げている。 モデルの性能評価を手掛ける米Artificial Analysisの「Coding Agent Index」では、</description>
+    </item>
+    <item>
+      <title>生成AIで個人の生産性を高めても、なぜ会社の売上は増えないのか｜松本健太郎</title>
+      <link>https://comemo.nikkei.com/n/nb6e629d1a85c</link>
+      <pubDate>2026/11/18 11:19</pubDate>
+      <description>コーディングエージェントの進化により、ソフトウェア開発の現場は大きな転換期を迎えています。チームによってはベロシティが機能しなくなるなど、従来のプラクティスを見直す動きが生まれています。 では、AIが開発を担う時代において、スクラムやアジャイルは不要になるのでしょうか。そして、AIが一人のエンジニアにできることを大きく増やす中で、エンジニアやチームの存在意義はどこにあるのでしょうか──。 今回は、「Bet AI」を掲げてAI活用を推進する株式会社LayerXの谷村祐樹さん・花家研一さんと、エクストリームプログラミング（eXtreme Programming、以下XP）の実践を大切にし続ける株式会社ユーザベースの二木拓也さん・岩見恭孝さんがディスカッション。 試行錯誤の現場で見えてきた、これからの時代におけるアジャイル開発の本質を深掘りします。 コーディングエージェント活用で、ベロシティは機</description>
+    </item>
+    <item>
+      <title>ChatGPTで毎月もらえる100ドル分以上のAPIクレジットを使い切ろう!</title>
+      <link>https://www.watch.impress.co.jp/docs/topic/2155622.html</link>
+      <pubDate>2026/11/19 08:56</pubDate>
+      <description>マイクロソフトは米国時間11月17日、仕事向けの「Microsoft 365 Copilot」アプリ内で、Word文書やExcelの表、PowerPointのスライドを直接編集できる機能の一般提供を始めた。</description>
+    </item>
+    <item>
+      <title>中国AIは、どのように賢くなったのか。MoE、リニアアテンション、強化学習……Kimi K3の中身を紐解く - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_975/</link>
+      <pubDate>2026/11/19 10:38</pubDate>
+      <description>ハーバード大学の研究者がAIコーディングエージェントを導入した企業を対象とした調査を実施したところ、AIコーディングエージェントの活用でコードの作成量は約30％増加したものの、コードのレビューにかかる時間が49％増加したため、完成した作業量には目立った増加が見られないことが明らかになりました。 Harvard researchers find AI coding agents shifted the bottleneck to code review https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ ハーバード大学の博士課程学生であるフィオナ・チェン氏とジェームズ・ストラットン氏が、718社72万5938人を対象にAIコー</description>
+    </item>
+    <item>
+      <title>アンソロピックIPO、公開価格は83ドル　評価額240兆円企業に（朝日新聞） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/deaea4a9c3dbb37f9fbd82117f97e21be9ebca5f</link>
+      <pubDate>2026/11/19 10:04</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9ec80c5605f5ef58e86b6a9f7aaa14905bcfca42/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F654%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Introducing Gemini 4 Neon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <pubDate>2026/11/19 07:21</pubDate>
+      <description>アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…</description>
+    </item>
+    <item>
+      <title>実質的無職になった｜Y.Hirano</title>
+      <link>https://note.com/y_hirano/n/nc986ab18b90e</link>
+      <pubDate>2026/11/19 04:58</pubDate>
+      <description>前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にしていましたが、ユーザーへの導入手順の簡易化や保守のコストなどを検討した結果「Cloudflare Tunnel」と「Cloudflare Access」を使用することにしました。 構成は以下の通りです。 AIサーバー側 ①Ollama：AIモデルの実行 ②Open WebUI：ブラウザUI・API中継・ユーザー管理 ③Cloudflare Tunnel：CloudflareとAIサーバーを接続 Cloudflare ④Cloudflare Access：ユーザー認証・アクセス制</description>
+    </item>
+    <item>
+      <title>孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/18/news086.html</link>
+      <pubDate>2026/11/18 22:14</pubDate>
+      <description>執筆 中川 幸哉 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。新潟県上越市出身。会津大学コンピュータ理工学部卒業後、現在は新潟市に在住。ReactやAndroidを軸に、モバイルアプリ開発やWebサイト制作、Webメディア編集部の業務改善や、プログラミング技術記事の執筆等に携わっている。著書に『たった1日で基本が身に付く! Androidアプリ開発超入門』、『基礎から学ぶ React Native入門』 「たった1日で基本が身に付く! Androidアプリ開発超入門」（技術評論社）　「基礎から学ぶ React Native入門」（翔泳社） 監修 山田 祥寛 静岡県榛原町生まれ。一橋大学経済学部卒業後、NECにてシステム企画業務に携わるが、2003年4月に念願かなってフリーライターに転身。Microsoft MVP f</description>
+    </item>
+    <item>
+      <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
+      <link>https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html</link>
+      <pubDate>2026/11/18 23:06</pubDate>
+      <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリースを発表しました。 AIを活用することでプログラマだけでなく社内のあらゆる従業員が自分のアイデアをバイブコーディングなどによりアプリケーションとして構築できるようになりました。 すると次の問題は、そのようにして作られたアプリケーションを、どのように社内で安全にデプロイし、実行するか、ということになります。 そのためにはアプリケーションを適切な権限で実行し、適切なデータの範囲のみ読み書きできるようにして勝手にファイルやネットワークにアクセスせず、万が一不正な振る舞いをしたとしても既存のデータを壊したりしないように厳密なサンドボックス内で囲う、といった仕組みが</description>
+    </item>
+    <item>
+      <title>【さくらのAI Engine】「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」パブリックプレビュー提供開始のお知らせ</title>
+      <link>https://cloud.sakura.ad.jp/news/2026/11/18/glm-5-3-flash_deepseek-v4-1-flash-1017_pubpreview/</link>
+      <pubDate>2026/11/18 21:10</pubDate>
+      <description>1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata」です。 MistVVK/XeStrata: LLM &amp;amp; Image maker！1GPU &amp;amp; Intel / NVIDIA / AMD No CUDA！ https://github.com/MistVVK/XeStrata ◆Strataから派生したXeStrata 派生元のStrataはAIモデルを構成するデータをGPUのVRAMとPCのメインメモリに分散して処理することで、巨大なAIモデルを一般的なPCで動作させる仕組みを備えた</description>
+    </item>
+    <item>
+      <title>「日本版DBS」システム稼働延期へ　AIで脆弱性発覚、こども家庭庁 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA181O70Y6A111C2000000/</link>
+      <pubDate>2026/11/18 12:47</pubDate>
+      <description>AI音楽生成サービスを手がけるSunoは米国時間11月17日、楽曲に合わせた映像や画像を作れる新機能「Visuals」を公開した。Sunoで作った曲から短いミュージックビデオや歌詞付き動画を作れるほか、ジャケット画像も生成できる。同日よりウェブ版、iOS版、Android版で提供する。 ユーザーはSunoの楽曲ライブラリーから曲を選び、映像に使う部分を指定できる。手持ちの音源のアップロードにも対応する。場面や登場人物の動きは文章で指示でき、写真やイラストを参考素材にすることも可能だ。歌声や話し声に合わせて登場人物の口を動かすリップシンクに対応し、画面に載せる歌詞は書体や色、表示位置を変えられる。</description>
+    </item>
+    <item>
+      <title>コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」</title>
+      <link>https://kai-you.net/article/97192</link>
+      <pubDate>2026/11/18 18:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/55008e01538ed45889e86a05422e93e7f9b6dd7e/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F394%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>実効メモリ容量を最大3倍へ、AMD MEXTがAI予測とSSDでDRAMコストを削減　AMD in Depth 2026</title>
+      <link>https://news.mynavi.jp/techplus/article/20261116-5336141/</link>
+      <pubDate>2026/11/16 22:55</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
   </channel>
 </rss>
