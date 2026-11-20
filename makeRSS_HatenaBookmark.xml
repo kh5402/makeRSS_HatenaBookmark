@@ -276523,5 +276523,104 @@ June 6, 2026</description>
       <pubDate>2026/11/18 12:04</pubDate>
       <description>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」。HTTP/2を止めても塞げない穴が3件 NGINX2Shellの次は、nginx2root。名前の大喜利か。 Xintが、今回直った穴のうち5件をまとめて「nginx2root」として公開しました（解説）。5件はそれぞれ独立した攻撃経路で、条件はこうです。 CVE-2026-123007：HTTP/2が有効 CVE-2026-123633：HTTP/2で、バックエンドへ転送している CVE-2026-123634：resolverを使い、proxy_passの転送先をリクエ</description>
     </item>
+    <item>
+      <title>はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog</title>
+      <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
+      <pubDate>2026/11/20 17:33</pubDate>
+      <description>ドン・キホーテを運営するパン・パシフィック・インターナショナルホールディングス（PPIH）は11月19日、生成AIで制作したAI社員「近藤あい」を23日に正式デビューさせると発表した。同日に東京・品川で開催した新商品展示会では、入り口のディスプレイに近藤あいが登場し、来場者を出迎えた。担当者にAI社員を打ち出した狙いを聞いた。 近藤あいは、ドン・キホーテの公式キャラクター「ドンコ」をイメージした、ピンク色の髪とポニーテールが特徴のAIキャラクター。ドン・キホーテの宣伝担当・公式アンバサダーとして、店頭の販促POPや商品紹介動画、SNSなどに登場する。7月から試験的な運用を進めており、11月23日の勤労感謝の日に正式デビューする。 なぜ「AI社員」なのか　従来の販促物が抱える課題 そもそも、なぜPPIHはAI社員を生み出したのか。背景には、従来の販促物の制作をめぐる課題がある。例えば、手書き</description>
+    </item>
+    <item>
+      <title>キオクシア株の下げ止まらず　PER1倍台目前、AI需要を警戒 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB184O30Y6A111C2000000/</link>
+      <pubDate>2026/11/20 13:03</pubDate>
+      <description>20日の東京株式市場で日経平均株価は3日ぶりに反落し、終値は前日比3007円56銭（5.06%）安の5万6436円65銭だった。世界の投資家が望みをかけた人工知能（AI）開発の米アンソロピックの上場は順調な滑り出しとなった一方、それ以外の米株価指数は「全滅」し、祝杯を挙げることはできなかった。AI・半導体関連を中心に売りが先行。一段の需給悪化に直面した銘柄の下げが加速し、個人投資家の心理はさらに</description>
+    </item>
+    <item>
+      <title>弱者男性グレーゾーンとしか表せられない人生を歩んできた｜shigeria</title>
+      <link>https://note.com/shigeria/n/n26567c1a1b74</link>
+      <pubDate>2026/11/20 11:19</pubDate>
+      <description>ChatGPTやGoogleのAI Overviews（AIによる概要）が普及し、BtoBの買い手の情報収集行動が変わっている。たとえば、サービスサイトや営業資料に掲載された情報から比較表を作る作業を、AIに聞いて済ませる人が増えている。 当社のWebサイトの数字にも、その影響が出ている。 本記事では、才流のGA4とGoogle Search Console（以下、サーチコンソール） のデータから、何が変わったのかを見ていく。最後に、才流が現在取り組んでいることも紹介したい。 ※本記事で扱うデータは、 主に才流のWebサイト（sairu.co.jp）のものである。期間は、直近1年（2025年10月〜2026年9月）と、その前の1年。才流だけの現象でないことを確認するため、複数のBtoBサイトのデータも参考値として掲載。他社は社名を伏せてA〜E社と表記している。 オーガニック流入もオーガニッ</description>
+    </item>
+    <item>
+      <title>「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/32219/</link>
+      <pubDate>2026/11/20 13:31</pubDate>
+      <description>AnthropicのAIコーディングツール「Claude Code」は、コードを書くだけでなく、ファイルの編集やコマンドの実行までこなす。今や開発者にとって、手放せない仕事道具の一つになりつつある。 ところが、長年Claude Codeを愛用してきたソフトウェアエンジニアは、ある日、別のAIコーディングツールへの乗り換えを決断した。必要な機能がそろい、多くの開発者に支持されているClaude Codeを離れ、あえて知名度の低いツールを選んだという。使い続けるうちに見えてきた、Claude Codeの気になる問題点とは。 ソフトウェアエンジニアのカレブ氏はClaude Codeが「Claude Pro」契約で利用できるようになった頃から使い続けてきた。初めて利用したときは、1回の指示だけでPythonコードが生成できることに興奮したという。同氏は、Claude Codeの登場をソフトウェア開</description>
+    </item>
+    <item>
+      <title>先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」</title>
+      <link>https://posfie.com/@techjiho/p/3QDGKHH</link>
+      <pubDate>2026/11/20 11:23</pubDate>
+      <description>こんにちは、@_mkazutakaです。 「役割ごとに Claude Code の設定をまるごと入れ替えたい」と思ったことはないでしょうか？ 例えば、開発で使うスキルと、相談用の資料を作るスキル、面談のときに使うスキルは、それぞれまったくの別物です。もっというと本業で使うスキルとプライベートで使うスキルも別かもしれませんね。 ところが今のコーディングエージェント、ここでは Claude Code ですが、プロファイルが実質ひとつしかありません。結果として、用途の異なるスキルや設定をすべて共通のものとして抱えてしまい、不要なコンテキストを消費したり、意図しない状態でスキルを使うことになります。私の場合バグを減らすための考え方を書いているスキルが有るのですが、これが社内ミーティングの議事録作る際に発動してしまうことがあったりします。 回避策としては、ディレクトリ単位で設定を分けることができます</description>
+    </item>
+    <item>
+      <title>Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/20/2000003358/</link>
+      <pubDate>2026/11/20 09:43</pubDate>
+      <description>MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 Introducing RDMA over USB4® on Windows: run larger local AI models across PCs | Microsoft Community Hub https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602 RDMA over USB4を使用するには「USB4ポー</description>
+    </item>
+    <item>
+      <title>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も</title>
+      <link>https://www.publickey1.jp/blog/26/database_hubai.html</link>
+      <pubDate>2026/11/20 07:55</pubDate>
+      <description>【追記履歴：2026年11月20日午後5時00分　法人プランでの利用に関する追加の質問への回答を記載しました。】 「Google Antigravity」（以下、Antigravity）をサードパーティのAIツールを介して利用すると規約違反でアカウント停止の可能性――米Googleが定めたこのような規約が話題だ。一部のユーザーの間ではAntigravityをヘッドレスで起動できる「agy -p」コマンドなどの利用で「Googleアカウント全体が停止されてしまうのでは」という懸念が広がり、有志のXユーザーが状況を整理したポストの表示回数は49万回に達している。 本稿では、公開されている規約とグーグル・クラウド・ジャパンへの取材を基に、ユーザーが注意すべきポイントを整理する。 「個人向けプランでは」他社AI経由の利用に要注意 話題となっている規約「Google Antigravity 追加利用</description>
+    </item>
+    <item>
+      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
+      <pubDate>2026/11/20 08:35</pubDate>
+      <description>新たな機械の時代を迎えたというのに、相変わらず極めて多くの会議が必要らしいというのは皮肉な話の一つだ。人工知能（AI）開発の米企業アンソロピックの社内では当然ながらAIの導入がかなり進んでいるが、社員が会議に費やす時間の中央値が1年前に比べて20%増加している。人間同士がやり取りをする必要性がAIにより薄れたわけではないが、その在り方は変化した。つまり、人々は今や機械が読み取れる形で互いにコ</description>
+    </item>
+    <item>
+      <title>Test Impact Analysis を武器に立ち向かう、AI 時代のテスト増加に対するヌーラボのアプローチ / getting-started-datadog-test-impact-analysis</title>
+      <link>https://speakerdeck.com/k6s4i53rx/getting-started-datadog-test-impact-analysis</link>
+      <pubDate>2026/11/19 20:29</pubDate>
+      <description>Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的な生成AIを日常的に活用していることと思います。学業や研究だけでなく、学生生活上のさまざまな悩みについてもまた、AIに相談している人はたくさんいることでしょう。AIは、24時間365日、いつでも相談できます。人ではないので、どう思われるかなど、相手から返ってくる反応を気にする必要がありません。それゆえ、相談に際しての不安や恥を感じさせにくく、人に相談するよりもハードルが低いです。また、大抵のAIサービスは、人に寄り添うよう設計されており、優しい言葉が返ってくることが多いです。明確なアドバイスや、</description>
+    </item>
+    <item>
+      <title>AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36-&amp;gt;blog;</title>
+      <link>https://blog.shibayu36.org/entry/2026/11/17/120000</link>
+      <pubDate>2026/11/18 12:37</pubDate>
+      <description>【ニューヨーク=秋田咲】19日の米株式市場でダウ工業株30種平均の終値は前日比1101ドル安の4万9097ドルだった。5カ月ぶりに5万ドルを割り込んだ。人工知能（AI）開発の米アンソロピックが史上最大規模の調達額で米ナスダック市場に上場した。同社株の購入資金を調達するための換金売りが広がったとの指摘がある。ウォール街はアンソロピックの新規株式公開（IPO）の話題一色となったが、AI株全体への買</description>
+    </item>
+    <item>
+      <title>Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita</title>
+      <link>https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44</link>
+      <pubDate>2026/11/20 00:25</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/034983a0e7a7520c30b4499ea0a365d60dc53ed5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2157%2F922%2Fdisney00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能</title>
+      <link>https://gigazine.net/news/20261119-speech-cpp/</link>
+      <pubDate>2026/11/19 23:07</pubDate>
+      <description>連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意味やルールを伝える必要がある。その共通モデルとして注目されるのが「オントロジー（Ontology）」だ。 2026年10～11月、Databricksは「Genie Ontology」の一般提供を、Snowflakeは「Business Ontology」を、NVIDIAは「Auto-Ontology」を含む「Agent Knowledge Foundation」を発表した。いずれもAIに業務の意味を伝えるための仕組みだ。一方、Palantir（パランティア）のオントロジーは、こうした業</description>
+    </item>
+    <item>
+      <title>韓国の大学入試、「緊急速報」で未提出のスマホ22台を発見</title>
+      <link>https://japan.cnet.com/article/35255159/</link>
+      <pubDate>2026/11/19 18:28</pubDate>
+      <description>Agenshipは、仕様の策定から実装・テスト・ Pull Requestの作成を、AIエージェントがクラウド上で 進めるSoftware Factoryです。 あなたの組織のAI活用は、今どの段階ですか？あなたの組織のAI活用は、 今どの段階ですか？コーディングエージェントによって、個人のソフトウェア開発は速くなりました。 組織の生産性を上げるための次の一手は、 開発を実行・管理し、継続的に改善できるSoftware Factoryです。コーディングエージェントによって、 個人のソフトウェア開発は速くなりました。 組織の生産性を上げるための次の一手は、 開発を実行・管理し、継続的に改善できる Software Factoryです。</description>
+    </item>
+    <item>
+      <title>アプリケーションエンジニアの考えるセキュリティ対策（考え方と共通の前提） | フューチャー技術ブログ</title>
+      <link>https://future-architect.github.io/articles/20261119a/</link>
+      <pubDate>2026/11/19 14:20</pubDate>
+      <description>おっきぃ @okkie0711 ちょっとメンタル折れたかも。子が私の暗殺方法ＡＩに相談してた。 そっかー。 いなくなってもいいんだ。 知らないよマジで。 鬱で休職中の父親と不登校の自分をどうにかできるんなら暗殺でもなんでもすればいいさ。 教育虐待どころか遅れているのを少しぐらいやったらってレベルだし、家の手伝いすら 2026-11-19 13:39:03 おっきぃ @okkie0711 しない。 それでも、今生きててくれるならって。 将来に少しでも道筋をつけてあげられたらって。 毒親なのかねえ。 ちゃんと育てても放任しても。もう同じ空間で生きてるってだけで。 2026-11-19 13:41:01 おっきぃ @okkie0711 反響が大きいのでちょっとミュートにします。 いろんなご意見ありがとうございます。 書いてる通りちょっと今家庭内が行き詰まっていることもあり心身疲れているところでの</description>
+    </item>
+    <item>
+      <title>ソフトウェアダークファクトリー | 技術評論社</title>
+      <link>https://gihyo.jp/book/2026/978-4-297-16073-9</link>
+      <pubDate>2026/11/19 20:56</pubDate>
+      <description>Back Innovation &amp;amp; AI See all in Innovation &amp;amp; AI Models &amp;amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp;amp; cloud Global network Google Cloud See all Technology Safety &amp;amp; Security Health See all Learn more: Google DeepMind blog Google Research blog Google Developers blog Google Clo</description>
+    </item>
+    <item>
+      <title>Gemini 4 Neon の概要｜npaka</title>
+      <link>https://note.com/npaka/n/n95ac3fce7543</link>
+      <pubDate>2026/11/19 11:37</pubDate>
+      <description>使い方のヒント 参照画像として、各種AIツールのキャラクター参照・顔参照機能に読み込みます。 顔を揃えたいときは「フェイス」、服装・髪の質感・雰囲気の参考には「スタイリング」が向いています。 同じ画像を使い続けると、生成する画像・動画の顔が揃いやすくなります。 元サイズのPNGをダウンロードして使うと、細部まで参照できます。 利用ルール CC0で自由に利用可（商用利用・編集・参考利用OK） AI生成の架空の人物で、実在しません 実在人物のなりすましや公序良俗に反する用途は不可 画像データそのものの再配布・転載はご遠慮ください（お願い）。 CC0 1.0 の説明：https://creativecommons.org/publicdomain/zero/1.0/deed.ja クレジット表記は不要です（任意）。画像のメタデータは削除済みです。無保証でご利用ください。</description>
+    </item>
   </channel>
 </rss>
