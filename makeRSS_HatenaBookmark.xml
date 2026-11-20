@@ -276433,5 +276433,95 @@ June 6, 2026</description>
       <pubDate>2026/11/17 07:24</pubDate>
       <description>We’re adding tsrs as an alternative to tsgolint for type-aware linting in Oxlint. It’s the Rust port of TypeScript announced by Cloudflare and VoidZero in October. Teams at Cloudflare, Owner.com and OpenAI are already using it for type-aware linting. Our goal is to make Oxlint the best possible linter for developers and agents. tsrs enables up to 7x faster and a 75% reduction in memory, shortening</description>
     </item>
+    <item>
+      <title>AIに悩みを相談する際に気をつけて欲しいこと｜SSC</title>
+      <link>https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/</link>
+      <pubDate>2026/11/19 22:44</pubDate>
+      <description>最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「案Bって何だっけ？」「準備PRってなんだっけ」と聞き返すことがとても多かった。これだとチャットの返答や調査結果を理解するのに時間がかかってしまう。困る。 原因は短期記憶力がとても低いことだと自分では感じていた。返答の上のほうにまとめた案を「案A」のように指して判断を求められると、上下を行き来しないといけない。しかも行き来しても覚えていられないので全く理解できなくなる。 AIの書き方をこの特性に合わせられればもっと速く理解できるはずだと思った。 作ったもの: 自分の</description>
+    </item>
+    <item>
+      <title>NYダウ1100ドル安、5万ドル割れ　アンソロピック上場で換金売り - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN19CX30Z11C26A1000000/</link>
+      <pubDate>2026/11/20 06:53</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/034983a0e7a7520c30b4499ea0a365d60dc53ed5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2157%2F922%2Fdisney00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html</link>
+      <pubDate>2026/11/19 18:36</pubDate>
+      <description>韓国政府は11月19日、大学入試の全国共通試験「大学修学能力試験（修能）」に合わせ、スマートフォン向けの緊急災害速報を全国に送った。試験開始前の午前8時30分に送った1回目の速報で、全国9つの市・道で受験生が提出していなかったスマートフォン22台が見つかった。韓国教育部が同日午前の会見で、午前10時時点の集計として明らかにした。 2027年度の修能は全国1312会場で実施され、教育部によると受験者は約55万人。試験会場へのスマートフォンやスマートウォッチ、AI機能を搭載したスマートグラスなどの持ち込みは禁じられている。持参した場合は、電源を切って1時間目の開始前に試験監督者へ提出する必要がある。未提出のまま所持していると、その時点で不正行為として扱われる。 緊急速報の警報音で未提出の端末を探す 教育部と行政安全部が使ったのは、韓国の災害警報のうち、利用者が受信を拒否できない種類の通知だ。対</description>
+    </item>
+    <item>
+      <title>Genie 4 is now available</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</link>
+      <pubDate>2026/11/19 17:23</pubDate>
+      <description>使い方のヒント 参照画像として、各種AIツールのキャラクター参照・顔参照機能に読み込みます。 顔を揃えたいときは「フェイス」、服装・髪の質感・雰囲気の参考には「スタイリング」が向いています。 同じ画像を使い続けると、生成する画像・動画の顔が揃いやすくなります。 元サイズのPNGをダウンロードして使うと、細部まで参照できます。 利用ルール CC0で自由に利用可（商用利用・編集・参考利用OK） AI生成の架空の人物で、実在しません 実在人物のなりすましや公序良俗に反する用途は不可 画像データそのものの再配布・転載はご遠慮ください（お願い）。 CC0 1.0 の説明：https://creativecommons.org/publicdomain/zero/1.0/deed.ja クレジット表記は不要です（任意）。画像のメタデータは削除済みです。無保証でご利用ください。</description>
+    </item>
+    <item>
+      <title>Google「Gemini 4 Neon」公開、Carbonより1タスク32%安い中位モデル　Geminiアプリは有料プランで選択可能 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/19/5766.html</link>
+      <pubDate>2026/11/19 18:07</pubDate>
+      <description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 Advancing chip design with OpenAI models | OpenAI https://openai.com/index/advancing-chip-design-with-our-models/ OpenAIはカスタム推論チップ「Jalapeño」をBroadcomと共同開発しています。JalapeñoはAIモデルの推論処理を効率よく実行できるように設計されており、OpenAIが実施したテストでは既存製品と比べて1kw当たりのAI処理量を1.5倍～1.9倍に向上させられることが確かめられています。 OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキ</description>
+    </item>
+    <item>
+      <title>サム・アルトマンが「誰もが十分なRAMを持つべきだと考えている」と発言</title>
+      <link>https://gigazine.net/news/20261119-sam-altman-ram/</link>
+      <pubDate>2026/11/19 15:00</pubDate>
+      <description>5月からベータ版として試験提供してきた「Gemini Spark」を改称し、有料のGoogle AIサブスクリプションを契約していない利用者にも対象を広げる。基盤モデルには「Gemini 4 Hydrogen」を採用した。 Geminiの入力欄にある「Chat」と「Task」の切り替えで、指示の種類を選ぶ。タスクには、例えばメールを検索して要点をまとめたり、複数の予定を整理してカレンダーに登録したりする作業を指示できる。対応するアプリを接続しておけば、複数のサービスにまたがる作業も可能だ。実行中に追加の指示を出すこともできる。Sparkで設定したタスクやスケジュールは、改称後もサイドバーで確認できる。 無料提供の対象は日本、米国、韓国、カナダ、オーストラリア、インド。Googleの日本語ヘルプによると、利用には18歳以上であること、個人のGoogleアカウントでログインすること、履歴を有効</description>
+    </item>
+    <item>
+      <title>Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
+      <pubDate>2026/11/19 10:16</pubDate>
+      <description>最先端AIの開発組織は、AIによってAIの改善を自律的に進行させる「再帰的自己改善(RSI)」の実現に向けて研究開発を続けています。新たにOpenAIが2026年10月までの開発進行状況を2026年11月18日に報告しました。 Research acceleration: The jagged frontier | OpenAI https://openai.com/index/research-acceleration-jagged-frontier/ 以下のグラフはOpenAIの研究者が「Codex」「ChatGPT Work」「Dots」に費やしているコストの推移をまとめたもので、左側のグラフが中央値、右側が上位1割のコストを示しています。2026年10月時点の1日当たりのコストの中央値は2400ドル(約38万円)、上位1割は2万3000ドル(約367万円)で、2026年8月の集計か</description>
+    </item>
+    <item>
+      <title>Apple、新しいインテリジェントアシスタントやMCPをサポートし、AIがドキュメントを編集できるようにした「Keynote、Pages、Numbers for Mac v16.0」をリリース。</title>
+      <link>https://applech2.com/archives/20261119-iwork-for-mac-support-ai-assistant.html</link>
+      <pubDate>2026/11/19 11:35</pubDate>
+      <description>山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木曜全巻99円セール（12/2まで） 【まとめ買い】AIの遺電子 全8巻 amazon.co.jp/dp/B074CJ5NCS?… AIがいよいよ現実のものとなりつつある今こそ再評価してほしい近未来医療SF。AIの先にあるヒューマノイドと人類を描いた作品。とても味わい深い、未見の人に届いて欲しい。1・2巻がタダ読みです pic.x.com/hCv9p7thPg 2026-11-19 00:06:49 山田胡瓜・漫画家 @kyuuk</description>
+    </item>
+    <item>
+      <title>初代「シムシティ」のソースコードを解析して判明した高評価の都市を作るための意外な条件とは？</title>
+      <link>https://gigazine.net/news/20261119-simcity-high-score/</link>
+      <pubDate>2026/11/19 15:26</pubDate>
+      <description>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren Tan）氏が、日々の開発で使っているスキルを公開したものです 本書は、pstackの思想から実践までを体系的に解説した初心者から中上級者までを対象とする実践ガイドです。 単なるスキルの使い方にとどまらず、AIエージェントの仕事の進め方そのものを見直し、検証可能で信頼できる開発ワークフローをどう構築するかまで踏み込みます。 この本を読むと、明日からAIへの仕事の任せ方が変わります - 寝る前に仕事を</description>
+    </item>
+    <item>
+      <title>孫正義氏が「墓石に刻んでほしい」と明かした言葉　流した涙、もう「時間との勝負」やり残したことは？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/19/news036.html</link>
+      <pubDate>2026/11/19 10:34</pubDate>
+      <description>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。 APIルーターとは、Claude Cod</description>
+    </item>
+    <item>
+      <title>GPT-6 Cyber​​でJavaに12年以上未発見の深刻な脆弱性を発見。オラクルはすでにパッチ配布、即時適用を推奨 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/19/5767.html</link>
+      <pubDate>2026/11/19 11:07</pubDate>
+      <description>高校世界史を、通史・年表・歴史地図で行き来しながら学ぶ。論述演習、一問一答、用語集も収録。</description>
+    </item>
+    <item>
+      <title>Kubernetesで動かす生成AI</title>
+      <link>https://www.oreilly.co.jp//books/9784814401895/</link>
+      <pubDate>2026/11/18 06:37</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9ec80c5605f5ef58e86b6a9f7aaa14905bcfca42/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F654%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI harness crash course</title>
+      <link>https://www.youtube.com/watch?v=2C_CefSQEAQ</link>
+      <pubDate>2026/11/18 00:08</pubDate>
+      <description>2026年10月末で仕事が減ってしまったので、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきました。 東京圏で組み込み業やベンチャー、大手企業などでのソフトウェアエンジニアを経て、独立してフリーランスになり仙台に移ったあとに故郷の岩手に戻ったりしました。 実質的無職にいたった状況実質的無職になった直接的な理由は仕事が減ることになったためですが、2023年ごろからフリーランス界隈の状況が変わっていることや、AIの急速な実用化などがあり、2024年の中頃から「そろそろ潮時だなあ」とはずっと思っていました。 潮時と思った理由を以下に挙げています。 2024年以降、利益率が下がってきていた (</description>
+    </item>
+    <item>
+      <title>AIが書いたコードの正しさをどう確かめるか。「証明支援系Lean」という選択肢｜レバテックLAB - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_974/</link>
+      <pubDate>2026/11/18 12:04</pubDate>
+      <description>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」。HTTP/2を止めても塞げない穴が3件 NGINX2Shellの次は、nginx2root。名前の大喜利か。 Xintが、今回直った穴のうち5件をまとめて「nginx2root」として公開しました（解説）。5件はそれぞれ独立した攻撃経路で、条件はこうです。 CVE-2026-123007：HTTP/2が有効 CVE-2026-123633：HTTP/2で、バックエンドへ転送している CVE-2026-123634：resolverを使い、proxy_passの転送先をリクエ</description>
+    </item>
   </channel>
 </rss>
