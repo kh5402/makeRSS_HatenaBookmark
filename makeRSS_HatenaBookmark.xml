@@ -276622,5 +276622,118 @@ June 6, 2026</description>
       <pubDate>2026/11/19 11:37</pubDate>
       <description>使い方のヒント 参照画像として、各種AIツールのキャラクター参照・顔参照機能に読み込みます。 顔を揃えたいときは「フェイス」、服装・髪の質感・雰囲気の参考には「スタイリング」が向いています。 同じ画像を使い続けると、生成する画像・動画の顔が揃いやすくなります。 元サイズのPNGをダウンロードして使うと、細部まで参照できます。 利用ルール CC0で自由に利用可（商用利用・編集・参考利用OK） AI生成の架空の人物で、実在しません 実在人物のなりすましや公序良俗に反する用途は不可 画像データそのものの再配布・転載はご遠慮ください（お願い）。 CC0 1.0 の説明：https://creativecommons.org/publicdomain/zero/1.0/deed.ja クレジット表記は不要です（任意）。画像のメタデータは削除済みです。無保証でご利用ください。</description>
     </item>
+    <item>
+      <title>Mac版Geminiに「Computer use」　PC作業をAIが代行</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2158164.html</link>
+      <pubDate>2026/11/20 15:21</pubDate>
+      <description>Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析 Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。 ゲーム市場分析サイトGame Oracleの創設者Ross Burton氏は11月18日、Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートを公開。「AIは依然として売り上げに悪影響を及ぼしうるが、その経路は見えづらい（AI could still be hurting game sales, but in a less obvious way）」と題されたこのレポートは、AIによる売上への影響を分析した昨年12月の調査を引き継いだものだ（関</description>
+    </item>
+    <item>
+      <title>AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
+      <link>https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</link>
+      <pubDate>2026/11/20 19:11</pubDate>
+      <description>先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全というわけでもないんですが、外部サービスで起きた事故に自社の顧客が巻き込まれるとなると、経営判断としてはかなり重いですよね。 で、この流れが進むと何が困るかというと、これまでSaaSを支えてきた「ロックイン前提の勝ちパターン」が効きにくくなること。 SaaSの競争力って「便利な機能」や「業務を効率化するノウハウ」にあると思われがちです。もちろんそれも大事なんですが、ビジネスの構造を見ると、SaaSの利益を支えてきたのは「一度導入したら簡単に乗り換えられない」という仕組みだったりします。 顧客情</description>
+    </item>
+    <item>
+      <title>GeminiがMacを代わりに操作可能に　アプリやファイルをまたぐ作業も自動化</title>
+      <link>https://japan.cnet.com/article/35255218/</link>
+      <pubDate>2026/11/20 15:19</pubDate>
+      <description>はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹介 id:yset0 職種: ウェブアプリケーションエンジニア フィード解析 github.com/mmcdole/gofeed XMLの処理、手でやるには大変すぎたので任せた。 OpenAPI github.com/oapi-codegen/oapi-codegen OpenAPIを一応使っている。 ⭐️コンセプト 知人が欲しい。と言ってかれこれ10年以上稼働しているRSSリーダー（初期実装はPerl、jQuery）、要件定義は知人が行い、キーボードで操作したい、ピン留めがしたいなど 当</description>
+    </item>
+    <item>
+      <title>ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/20/2000003369/</link>
+      <pubDate>2026/11/20 15:50</pubDate>
+      <description>キオクシアホールディングス株の下落が止まらない。20日の東京株式市場で前日比13%安の7186円まで下げ、7カ月半ぶりの安値を付けた。予想PER（株価収益率）は一時2.0倍と1倍台目前まで切り下がった。人工知能（AI）半導体の需要拡大による中長期的な利益成長シナリオへの警戒感が広がっている。市場予想平均（QUICKコンセンサス）ベースの予想PERを用いた。PERは1株当たり利益（EPS）の何倍</description>
+    </item>
+    <item>
+      <title>日経平均終値3007円安、AI・半導体に売り　アンソロピックに祝杯ならず - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/</link>
+      <pubDate>2026/11/20 13:27</pubDate>
+      <description>失恋をしてとても辛く、何をしても空虚に感じる。それならばいっそこの機会に自分の半生を振り返ろうと思ってこの記事の筆を執った次第である。 生成AIは推敲を含めて一切使用していない。 1. 高校卒業まで私は小学校三年生まで東京都大田区蒲田に住んでいた。漠然と日能研に通い、中学受験をするものだと考えていたが、両親の離婚を機に母親の実家があった岩手県へ引っ越した。 中学校や高校では周囲に馴染めずにいたせいか友達が一人もできず、苦しい思いをしていた。それでも唯一対外的な地位をアピールできる方法があった。それは、模試でいい成績を取ることである。定期考査の順位や内申点は当時はまともに学校に通えていなかったので努力の割に合わないが、模試であれば受験勉強の延長線で簡単にハックができると当時は思っていた。実際に、付け焼き刃の勉強でもそこそこの得点と学年順位を収められていた。私にとって、受験勉強は、孤独で周囲か</description>
+    </item>
+    <item>
+      <title>わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</link>
+      <pubDate>2026/11/18 11:20</pubDate>
+      <description>ChatGPTやGoogleのAI Overviews（AIによる概要）が普及し、BtoBの買い手の情報収集行動が変わっている。たとえば、サービスサイトや営業資料に掲載された情報から比較表を作る作業を、AIに聞いて済ませる人が増えている。 当社のWebサイトの数字にも、その影響が出ている。 本記事では、才流のGA4とGoogle Search Console（以下、サーチコンソール） のデータから、何が変わったのかを見ていく。最後に、才流が現在取り組んでいることも紹介したい。 ※本記事で扱うデータは、 主に才流のWebサイト（sairu.co.jp）のものである。期間は、直近1年（2025年10月〜2026年9月）と、その前の1年。才流だけの現象でないことを確認するため、複数のBtoBサイトのデータも参考値として掲載。他社は社名を伏せてA〜E社と表記している。 オーガニック流入もオーガニッ</description>
+    </item>
+    <item>
+      <title>ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/</link>
+      <pubDate>2026/11/20 09:56</pubDate>
+      <description>NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次いで問題となっている。 世界中の企業が当たり前のようにOSSを利用する一方、その開発や維持管理は、限られた開発者たちの努力によって支えられているのが実情だ。 プログラミング言語「Ruby」の生みの親であるまつもとゆきひろさんは、OSS文化の未来について「あと10年もたないかもしれない」と強い焦燥感を口にする。 もしこの文化が消滅したとき、エンジニアは何を失ってしまうのだろうか。まつもとさんに、OSSの未来について話を聞いた。 Rubyアソシエーショ</description>
+    </item>
+    <item>
+      <title>さよなら「Claude Code」　人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap</title>
+      <link>https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/</link>
+      <pubDate>2026/11/20 11:52</pubDate>
+      <description>イカヤキ @ikayaki_aiafi ①専門家モード 「あなたはこの分野で20年以上の実務経験を持つ専門家として、一次情報に基づき回答してください」 汎用回答が、一気に専門家インタビュー級に変わる ②結論ファースト 「結論を1行で示し、その後に根拠を3つ箇条書きで。最後に例外があれば添えて」 長文でダラダラ返してくる問題、これで解決 2026-11-15 11:26:25 イカヤキ @ikayaki_aiafi ③3行要約モード 「小学6年生でも理解できるよう、難しい用語は使わず、3行で要約してください」 &amp;quot;専門家回答&amp;quot;と組み合わせると最強 ④反論自動生成 「あなたの回答に対する、最も鋭い反論と、その反論への再反論も併せて出してください」 自分の思考の穴が全部見える 2026-11-15 11:26:31</description>
+    </item>
+    <item>
+      <title>Claude CodeにProfile機能を導入する</title>
+      <link>https://zenn.dev/explaza/articles/8ce3ed2bbec7c7</link>
+      <pubDate>2026/09/03 22:17</pubDate>
+      <description>Project Suncatcherは2025年11月に発表された長期の研究プロジェクト。TPUを搭載した太陽光発電衛星をネットワークでつなぎ、宇宙で機械学習の処理能力を拡大できるかを探っている。Googleは10月1日、衛星画像企業の米Planet Labsと共同開発したTPU搭載の試作衛星を、米SpaceXの「Falcon 9」ロケットで打ち上げた。10月末には、軌道上のTPUから初めてAIの応答を受信したと発表している。2027年には、相互に接続した2基の衛星を打ち上げる計画だ。 GoogleでProject Suncatcherを担当するシニアディレクターのトラビス・ビールズ氏は、Blue Originとの専用打ち上げを、コンピューティングの将来に向けたロードマップ上の重要なマイルストーンと位置付けている。Blue OriginでNew Glennを担当するシニアバイスプレジデント</description>
+    </item>
+    <item>
+      <title>Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要</title>
+      <link>https://gigazine.net/news/20261120-rdma-over-usb4-windows/</link>
+      <pubDate>2026/11/20 11:41</pubDate>
+      <description>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表示し、一元管理できる新サービス「Database Hub in Fabric」の正式リリースを発表しました。 Microsoft Fabricとは、同社が提供する統合データ分析基盤です。今回正式リリースとなったDatabase Hub in Fabricは、この統合データ分析基盤の上で、運用管理対象となる複数のデータベースの情報を統合、分析し、ダッシュボードに表示するというものです。 Database Hu</description>
+    </item>
+    <item>
+      <title>Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達</title>
+      <link>https://joho-todai.com/impossible-os-new-operating-system-linux-windows/</link>
+      <pubDate>2026/11/19 20:29</pubDate>
+      <description>生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいですね。 0. 前提 この記事の環境は、私が日常的に使っている Muse の VM です。私は、生成 AI エージェントと組んで開発や制作を進める進め方を AIDD と呼んで実践しており、その実践ガイドを公開しています。 AIDD 実践ガイド AIDD の前提の1つは、「継続性はファイル側に置き、セッションや実行環境は使い捨てとみなす」事です。この記事の対策は、その前提を VM の側にもそのまま適用した物になります。 AIDD の全体では、内政担当の Opus（Claude Code、Claude Pro プラン）が正本を担い</description>
+    </item>
+    <item>
+      <title>「スター・ウォーズ」の住人がAIで動く　ディズニーがAWS活用</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2157922.html</link>
+      <pubDate>2026/11/19 17:20</pubDate>
+      <description>日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。 nyosegawa/speech.cpp: Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml https://github.com/nyosegawa/speech.cpp ◆speech.cppの導入 speech.cppはWindows・macOS・Linuxに対応しており、今回はWindows 11を搭載したPCにPowerShellから以下のコマンドを実</description>
+    </item>
+    <item>
+      <title>「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」</title>
+      <link>https://togetter.com/li/2772442</link>
+      <pubDate>2026/11/19 20:53</pubDate>
+      <description>概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み出し続けられる開発環境を指します。 本書は、DDD、型システム、形式手法、SREなどの古典的・現代的工学手法を「AIを制御するしくみ」として再構築した、AIエージェント時代のための新しいソフトウェアアーキテクチャ・設計思想書です。プロンプトの工夫やツールの使い方といった一時的なテクニックではなく、AIが多少雑に実装しても壊れ方を機械的に検出・制御できるガードレール（ハーネス）の設計法を、具体的な成果物と技術要素で明示します。 目次 第1章　ソフトウェアダークファクトリーとは何か 1.1　速さの</description>
+    </item>
+    <item>
+      <title>HISTO</title>
+      <link>https://history-study-notebook.rksgcl.chatgpt.site/</link>
+      <pubDate>2026/11/19 01:16</pubDate>
+      <description>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren Tan）氏が、日々の開発で使っているスキルを公開したものです 本書は、pstackの思想から実践までを体系的に解説した初心者から中上級者までを対象とする実践ガイドです。 単なるスキルの使い方にとどまらず、AIエージェントの仕事の進め方そのものを見直し、検証可能で信頼できる開発ワークフローをどう構築するかまで踏み込みます。 この本を読むと、明日からAIへの仕事の任せ方が変わります - 寝る前に仕事を</description>
+    </item>
+    <item>
+      <title>Introducing Amazon OpenSearch Memory: Persistent memory for AI agents | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/</link>
+      <pubDate>2026/11/19 08:03</pubDate>
+      <description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 Introducing Gemini 4 Neon https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Today we&amp;#39;re introducing Gemini 4 Neon, bringing frontier-level intelligence with fast end-to-end tas</description>
+    </item>
+    <item>
+      <title>ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる</title>
+      <link>https://gigazine.net/news/20261119-google-genie-4/</link>
+      <pubDate>2026/11/19 11:10</pubDate>
+      <description>nginxは、世界で最も広く使われているオープンソースのWebサーバソフト。HTTPSの通信を処理し、トラフィックをアプリケーションやAPIに振り分けるフロントドアとして、Webシステムの入り口に置かれることが多い。 脆弱性はHTTP/2を有効にしたサーバが対象で、バージョンや構成によって影響を受ける。悪用されると、攻撃者がコマンドを実行したり、機密データを窃取したり、Webサイトを改ざん・サービス停止したりできるおそれがある。 「CVE-2026-123633」は、使用中のメモリが誤って解放され、その後も参照されてしまう「use-after-free」と呼ばれる脆弱性。nginxがHTTP/2で受けたリクエストを別のサーバーに転送する構成で処理できる接続数が上限に近づいた際に、攻撃者から特殊な通信を受けると、サーバが停止したり、任意のコードを実行されたりする恐れがある。 「CVE-202</description>
+    </item>
+    <item>
+      <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
+      <link>https://dev.henry.jp/entry/e2e-repository</link>
+      <pubDate>2026/11/18 12:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9ec80c5605f5ef58e86b6a9f7aaa14905bcfca42/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2157%2F654%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Metaの「Muse」を入れた人はClaudeをむしろ長く使う　それでもAnthropicが警戒すべき理由</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/17/news021.html</link>
+      <pubDate>2026/11/17 08:48</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
   </channel>
 </rss>
