@@ -276735,5 +276735,56 @@ June 6, 2026</description>
           &lt;p class="entrylist-contents-thumb"&gt;
           </description>
     </item>
+    <item>
+      <title>モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス</title>
+      <link>https://note.com/kajinari/n/n19c73d819b14</link>
+      <pubDate>2026/11/21 00:27</pubDate>
+      <description>【読売新聞】　【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学</description>
+    </item>
+    <item>
+      <title>MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か</title>
+      <link>https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/</link>
+      <pubDate>2026/11/20 13:45</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed0fb5f305a8a055668f703c990e6cec4504bef4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F164%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析 - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/20261120-480176/</link>
+      <pubDate>2026/11/20 17:35</pubDate>
+      <description>大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。 [2611.21885] Language Models Can Rewrite Their Own Weights https://arxiv.org/abs/2611.21885 Preprint Says 27B Model Rewrote Own Weights, Gained 6.6 Points https://theagenttimes.com/articles/preprint-says-27b-model-rewr</description>
+    </item>
+    <item>
+      <title>斜め上からやってきた「SaaSの死」｜ninoya 古越</title>
+      <link>https://note.com/aatoku/n/n129df4db50ba</link>
+      <pubDate>2026/11/20 13:28</pubDate>
+      <description>どのアプリへのアクセスを許可するかはユーザーが選択する。実行中の作業はいつでも一時停止でき、重要な操作に移る前にはユーザーに承認が求められる。アプリをまたぐ作業を任せたい場合は、使うアプリや参照するファイル、成果物を指示に含められる。 使い方の例として、Googleは複数地域のダッシュボードから数値やスクリーンショットを集め、「Googleスライド」にまとめる作業を挙げた。また、Mac内のフォルダーにある衣類の写真を調べ、ウェブで価格の参考情報を探し、フリーマーケットサービスへの出品準備をする例も紹介した。いずれも複数の画面で繰り返していた作業を、まとめて指示できる。 利用には、「Appleシリコン」と「macOS Sequoia 15.0」以降を搭載するMacと、Mac版Geminiアプリが必要だ。対象は18歳以上で個人用Googleアカウントを保有し、「Google AI Plus」「</description>
+    </item>
+    <item>
+      <title>生成AIの普及によるWebサイトのトラフィック激減と当社での対策 | 社長ブログ | 才流</title>
+      <link>https://sairu.co.jp/blog/110567/</link>
+      <pubDate>2026/11/20 11:51</pubDate>
+      <description>米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は11月19日（現地時間）にXで、「ChatGPT」の「Plus」プランに加入する一部ユーザー向けに、同社の常時稼働型エージェント「dots」の提供を開始すると発表した。 dotsはOpenAIが9月に発表した常時稼働型のエージェント機能。ユーザーが設定した目標に応じて、クラウドやローカルのコンピュータを操作して自律的に稼働する。</description>
+    </item>
+    <item>
+      <title>Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/</link>
+      <pubDate>2026/11/20 08:28</pubDate>
+      <description>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Environment）がありますが、当時は過去の作業を追えない、同じ指示を何度もしている、Claude CodeとCodexで設定が分かれていく、という状態でした。 どれも、Agentの賢さでは解決しない問題です。 それから約4か月、開発だけでなく調査や資料作成、チャットの確認まで任せながら運用してきました。 今は、セッションをいくつも同時に立ち上げて、思いついた</description>
+    </item>
+    <item>
+      <title>[FT]仕事全てAIに見せる？　高すぎる透明性には抵抗も - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCB18A670Y6A111C2000000/</link>
+      <pubDate>2026/11/20 02:13</pubDate>
+      <description>CloudNative Days Winter 2026 の登壇スライドです。 https://cloudnativedays.jp/sessions/3297</description>
+    </item>
+    <item>
+      <title>日本！Gemini「Task」無料開放</title>
+      <link>https://jetstream.blog/2026/11/18/google-gemini-tasks-free-rollout-japan/</link>
+      <pubDate>2026/11/18 09:57</pubDate>
+      <description>株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメンバーが多くのPRを出せるようになった一方で、リポジトリ全体を継続的に整理する仕組みは十分に整っていませんでした。今回はそこで生じた課題と対応について紹介します。 該当リポジトリについて 先に問題となったリポジトリについて少し紹介をします。henry-e2eと呼ばれる、Playwrightを使ったHenryのE2Eテストをまとめたリポジトリです。 QAからもテスト修正のPRが頻繁に作成されており、エンジニアとQAのPR作成数はほぼ半々です。 エンジニアとQAのPR作成数 ヘン</description>
+    </item>
   </channel>
 </rss>
