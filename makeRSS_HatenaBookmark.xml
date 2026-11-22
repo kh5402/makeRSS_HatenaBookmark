@@ -277076,5 +277076,59 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed0fb5f305a8a055668f703c990e6cec4504bef4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F164%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由</title>
+      <link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link>
+      <pubDate>2026/11/22 10:52</pubDate>
+      <description>2026年11月21日をもって、世界はシンギュラリティに突入したのではないか。 この日、AnthropicのAI「Claude」との共同作業で書かれた「リーマン予想の証明」について、検証コミュニティが「正しい」と認定した。独立に検証したマサチューセッツ工科大学の数学者アンドリュー・サザーランド氏も「何か怪しい点がある可能性はほぼゼロだ」と結論づけている。 実はこのサザーランド氏、わずか2年前の2024年10月のワークショップで、「リーマン予想を証明できるAIにはお目にかかりたくない」と語っていた。 167年人類が解けなかった問題がAIに解かれた発端は2026年11月20日、Anthropicの数学者レヴェント・アルポーゲ氏（ハーバード大学首席、プリンストン大学で博士号の天才）が、Claudeとの共同作業による「リーマン予想」の証明を自身のウェブサイトで公開したことだった。同じ手法で、より広</description>
+    </item>
+    <item>
+      <title>AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261122de79817</link>
+      <pubDate>2026/11/22 10:22</pubDate>
+      <description>生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 AI Will Not Make You Rich - Colossus https://colossus.com/article/ai-will-not-make-you-rich/ ニューマン氏は技術革新が経済に大きな影響を与えることと、その技術を開発した企業や投資家が利益を得ることは別問題だと主張しています。 例えば、1971年に登場した民生用マイクロプ</description>
+    </item>
+    <item>
+      <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript</title>
+      <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
+      <pubDate>2026/11/22 17:57</pubDate>
+      <description>JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
+    </item>
+    <item>
+      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
+      <pubDate>2026/11/22 12:08</pubDate>
+      <description>MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説（1/2 ページ） Metaは10月23日、パーソナルAIエージェント「Muse（ミューズ）」の日本での提供を開始しました。9月に先行した北米以外では、日本が最初の提供地域です。iOSアプリ、Androidアプリ、Webサイト（muse.ai）から利用でき、基本的な機能の多くは無料で使えます。 とはいえ、AIサービスは既に数多くあります。「Museという名前は見かけるけれど、他のサービスと何が違うのか分からない」という人も多いのではないでしょうか。そこでこの記事では、Museで何ができるのか、他のAIサービスと何が違うのかを中心に、料金や使う前に確認しておきたい点をまとめました。 MuseはMetaのクラウド上で動くAIエージェント Museは、利用者の代わりに作業を進める「AIエージェ</description>
+    </item>
+    <item>
+      <title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
+      <pubDate>2026/11/22 08:42</pubDate>
+      <description>How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you hope you did not miss one. That manual process does not scale. In a real enterprise, knowledge of how systems fit together is tribal. It lives across many people and hundreds or thousands of repositories. No single perso</description>
+    </item>
+    <item>
+      <title>Blue Originが2029年にGoogleのAIサーバー衛星を大型ロケット「New Glenn」で打ち上げへ</title>
+      <link>https://gigazine.net/news/20261120-blue-origin-launch-google-ai-server/</link>
+      <pubDate>2026/11/20 11:25</pubDate>
+      <description>米国株が下げ止まらない。20日の米株式市場で、多くの機関投資家が運用指標とするS&amp;amp;P500種株価指数は7日続落した。終値は6910となり、10月に付けた最高値（7818）からの下落率は「調整局面」入りとされる10%を超えた。S&amp;amp;P500種の7日続落は2020年2月以来、6年9カ月ぶりだ。エヌビディアの好決算も、人工知能（AI）開発新興アンソロピックの新規上場も、株買い再開の起爆剤にならなかっ</description>
+    </item>
+    <item>
+      <title>欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表</title>
+      <link>https://gigazine.net/news/20261120-eu-commission-cyberattack/</link>
+      <pubDate>2026/11/20 14:38</pubDate>
+      <description>米首都ワシントンのホワイトハウス・ブレイディー記者会見室で、記者会見に臨むドナルド・トランプ米大統領（2026年11月20日撮影）。(c)Brendan SMIALOWSKI/AFP 【11月21日 AFP】ドナルド・トランプ米大統領は20日、国外にデータセンターを建設する米企業に「莫大な税金」を課すと警告した。中国が高度な計算能力を利用できないようにするための新たな取り組みを示唆した形だ。 トランプ氏は首都ワシントンでの記者会見で、「米企業がデータセンターを国外に建設することを認めない。建設すれば莫大な税金を課す」と表明。 「中国はそれらすべてを手に入れようとするだろうが、われわれがそうはさせない」と付け加えた。 米政府は16日、中国企業が東南アジアなどにあるデータセンターを遠隔利用し、人工知能（AI）の計算能力を借りられるようになっていた抜け穴をふさぐ措置を講じた。こうしたデータセンタ</description>
+    </item>
+    <item>
+      <title>NVIDIA「RTX Spark」搭載の小型デスクトップPCが11月18日発売　4399ドルから　“常時稼働のAIエージェント拠点”に</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2611/18/news019.html</link>
+      <pubDate>2026/11/18 23:26</pubDate>
+      <description>Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with heavy AI assistance, have written a human-readable proof of the finite time blowup for the unforced incompressible Euler equations in three dimensions, which is formalized in Lean</description>
+    </item>
+    <item>
+      <title>「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2158151.html</link>
+      <pubDate>2026/11/20 17:58</pubDate>
+      <description>はじめに Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。 以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。 ただ、当時はファイルの保存先や既存ファイルの編集に制約があり、正直なところ少し使いづらい部分もありました。 ところが、今日（2026年11月19日）改めて試してみると・・・ あれ？OneDriveの好きな場所にファイルを作れるし、既存ファイルも編集できるじゃん！！ しかも、Copilotの「プロジェクト」機能を組み合わせると、GitHub Copilotのように、特定のフォルダを作業領域にしたAI活用ができそうです。 今回は実際に試した内容を紹介します。 1. OneDriveでできることが増えていた 今回確認できたのは、以下の操作です。 任意のフォルダへのファイル</description>
+    </item>
   </channel>
 </rss>
