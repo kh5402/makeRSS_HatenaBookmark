@@ -277023,5 +277023,58 @@ June 6, 2026</description>
       <pubDate>2026/11/21 11:02</pubDate>
       <description>人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外では割り切れない自然数で、小さい順から2、3、5、7、11と続く。無限に存在し、並び方は一見</description>
     </item>
+    <item>
+      <title>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2157164.html</link>
+      <pubDate>2026/11/21 20:39</pubDate>
+      <description>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テストはどう変わるのか？ 結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く 理由: テストケースを考えるのは機械のほうが得意で、ルールを決められるのは人間だけだから この記事では、TLA+系の言語「Quint」で小さなサンプルを動かしながら、この結論にたどり着いた理由を説明します。 形式検証を知らない人でも読めるように書きました。 AIの「</description>
+    </item>
+    <item>
+      <title>MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</link>
+      <pubDate>2026/11/22 11:46</pubDate>
+      <description>米Anthropicに所属する数学者のレベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表した。同社のAI「Claude」と共に、数学の未解決問題「リーマン予想」の証明を見つけたと考えているという。証明は証明支援系「Lean」で記述した形式証明として公開した。Leanの開発者や利用者のコミュニティは21日、この証明が正しいと認定する共同声明を出している。 リーマン予想とは、ドイツの数学者ベルンハルト・リーマンが1859年に提唱した予想だ。一見不規則に並ぶ素数の分布に深い規則性があることにつながるもので、「リーマンゼータ関数」の値がゼロになる点（自明でないゼロ点）がすべて1本の直線上にあると主張する。整数論で最も重要な未解決問題とされ、米クレイ数学研究所が100万ドルの懸賞金をかける「ミレニアム懸賞問題」の1つでもある。ミレニアム懸賞問題の中で、これまでに解決した</description>
+    </item>
+    <item>
+      <title>特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、ここ半年で、生活でき...</title>
+      <link>https://question.realestate.yahoo.co.jp/knowledge/chiebukuro/detail/13332944543/</link>
+      <pubDate>2026/11/22 06:00</pubDate>
+      <description>AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
+    </item>
+    <item>
+      <title>GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル</title>
+      <link>https://github.com/fkubota/understand-mode</link>
+      <pubDate>2026/11/21 18:00</pubDate>
+      <description>Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェアの診断では、ある関数に認証チェックが見当たらなくても、呼び出し元で確認している場合があります。一方、通常の経路では認証を通っていても、別の入口から同じデータへアクセスできるかもしれません。LLMに調査を任せるには、守るべき条件を明確にし、その条件がどのコードで成立するのかを追わせる必要があります。 SPECAでは、仕様の読み取り、実装箇所の特定、LLMによるコード調査を段階に分け、各段階の出力を残します。診断担当者が、何を根拠にどこを調べ、な</description>
+    </item>
+    <item>
+      <title>RH Lean proof: verification files</title>
+      <link>https://math.mit.edu/~drew/grh/</link>
+      <pubDate>2026/11/21 13:19</pubDate>
+      <description>米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に1…</description>
+    </item>
+    <item>
+      <title>クマ被害防止へ、青森のリンゴ畑で犬型ロボの実証実験　「ワンワン」とほえて警告灯点灯</title>
+      <link>https://www.sankei.com/article/20261120-XVM67Y3IQJIYRO5SNLEJBHXPKI/</link>
+      <pubDate>2026/11/20 21:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>TSMCやサムスン、対中半導体出荷を一部停止　AIチップの米輸出規制で - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/</link>
+      <pubDate>2026/11/20 16:34</pubDate>
+      <description>国産AI（人工知能）の開発会社ノエトラに関わる事業総額が5年で1兆円から1.8兆円に膨らむ見通しになっていることが分かった。画像処理半導体（GPU）の関連部品の高騰が響く。財政支援する国の負担が増す懸念がある。高市早苗政権の成長戦略の本丸でもあるAIは米国や中国を中心に覇権争いが続く。高性能の半導体は奪い合いになっている。日本は投資の規律を保ちつつ、国家間の体力勝負にどう向き合うかも問われる。</description>
+    </item>
+    <item>
+      <title>ペンシルベニア州の高校が日用品を銃と誤認し続けるAI武器探知機を無効化</title>
+      <link>https://gigazine.net/news/20261119-hempfield-delay-weapon-detection-system/</link>
+      <pubDate>2026/11/19 13:32</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed0fb5f305a8a055668f703c990e6cec4504bef4/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F164%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
