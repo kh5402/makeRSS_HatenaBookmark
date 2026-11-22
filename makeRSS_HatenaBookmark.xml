@@ -276978,5 +276978,50 @@ June 6, 2026</description>
       <pubDate>2026/11/21 04:18</pubDate>
       <description>米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</description>
     </item>
+    <item>
+      <title>Lean verification of the Riemann Hypothesis</title>
+      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
+      <pubDate>2026/11/22 01:27</pubDate>
+      <description>（2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。） 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claudeとともにリーマン予想を証明したと発表した。公表されたのは、わずか4ページの声明と、Leanという証明支援系で書かれた膨大なコードである。そのコードは175,187個のモジュールからなり、ソース全体で約1,737万行に達する。Alpöge氏の主張は通常のリーマン予想（RH）にとどまらず、DirichletのL関数に関する一般化リーマン予想（GRH）にも及んでいる。 発表からまだ1日ほどしか経っていないが、このコードに対する第三者の検証は驚くほど速いペースで進んだ。なかでも重要なのは、MITの数学者Andrew S</description>
+    </item>
+    <item>
+      <title>超難問「リーマン予想」AIと証明か　米アンソロピックの数学者発表：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</link>
+      <pubDate>2026/11/21 13:12</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/06885615213dfc83b914dc15e1ada63ce7b46116/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2157%2F644%2Fjre11.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「リーマン予想」生成AIが証明か - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/pickup/6603360</link>
+      <pubDate>2026/11/21 08:54</pubDate>
+      <description>【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド、アップルで障害相次ぐ12日（米時間）、米マイクロソフトの業務ソフトに不具合が発生し、メールを</description>
+    </item>
+    <item>
+      <title>S&amp;amp;P500が調整局面入り　「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</link>
+      <pubDate>2026/11/21 08:11</pubDate>
+      <description>米首都ワシントンのホワイトハウス・ブレイディー記者会見室で、記者会見に臨むドナルド・トランプ米大統領（2026年11月20日撮影）。(c)Brendan SMIALOWSKI/AFP 【11月21日 AFP】ドナルド・トランプ米大統領は20日、国外にデータセンターを建設する米企業に「莫大な税金」を課すと警告した。中国が高度な計算能力を利用できないようにするための新たな取り組みを示唆した形だ。 トランプ氏は首都ワシントンでの記者会見で、「米企業がデータセンターを国外に建設することを認めない。建設すれば莫大な税金を課す」と表明。 「中国はそれらすべてを手に入れようとするだろうが、われわれがそうはさせない」と付け加えた。 米政府は16日、中国企業が東南アジアなどにあるデータセンターを遠隔利用し、人工知能（AI）の計算能力を借りられるようになっていた抜け穴をふさぐ措置を講じた。こうしたデータセンタ</description>
+    </item>
+    <item>
+      <title>トランプ氏、データセンター国外建設認めず　米中でAI安全策検討 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/</link>
+      <pubDate>2026/11/21 06:44</pubDate>
+      <description>米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株を扱う米ナスダックに新規上場したばかり。 この「リーマン予想」の証明がもし正しければ、歴史上最も重要な証明の一つとなる。アルポーゲ氏は、「科学界全般にとって、はるかに偉大な何かの夜明け」と表現した。</description>
+    </item>
+    <item>
+      <title>相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家</title>
+      <link>https://japan.cnet.com/article/35255244/</link>
+      <pubDate>2026/11/21 08:39</pubDate>
+      <description>4ページのメモを開くと、素人には呪文にしか見えない年表が20行並んでいます。 2026年11月20日にアルポゲ氏が公開した、リーマン予想の証明を見つけたと信じているというメモです。誰も読み切れていない議論を、私が解説できるはずはありません。それでも、報道とメモの記述を突き合わせると、「何を、何に置き換えようとしているのか」という骨組みの輪郭だけは、見えてきます。 この記事が扱うのは、その輪郭だけです。証明が正しいかどうかは、私には判断できません。外部の専門家による確認も、まだ終わっていません。ですから以下は、「もしこの方針でうまくいくなら、何がうまくいったことになるのか」を、数式なしで説明する試みです。 素数の地形と、起伏の幅素数は、小さい数のうちは密に、大きくなるにつれてまばらに現れます。その増え方をならした斜面は、わりに素直な曲線で描けるのですが、実際の素数は、その斜面の上に細かな起伏</description>
+    </item>
+    <item>
+      <title>トランプ大統領 米国外のデータセンター建設認めず 罰則も | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261121de79543</link>
+      <pubDate>2026/11/21 11:02</pubDate>
+      <description>人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外では割り切れない自然数で、小さい順から2、3、5、7、11と続く。無限に存在し、並び方は一見</description>
+    </item>
   </channel>
 </rss>
