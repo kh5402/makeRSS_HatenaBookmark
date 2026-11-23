@@ -277241,5 +277241,113 @@ June 6, 2026</description>
       <pubDate>2026/11/21 08:08</pubDate>
       <description>人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外では割り切れない自然数で、小さい順から2、3、5、7、11と続く。無限に存在し、並び方は一見</description>
     </item>
+    <item>
+      <title>Does P = NP? An AI agent fleet is attacking it, live</title>
+      <link>https://pequalnp.com/</link>
+      <pubDate>2026/11/23 13:43</pubDate>
+      <description>English: README.en.md tsuzuri は Claude Code に日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文との接続）を確認し、違和感を覚えた文にコメントを残して、AI に修正を依頼できます。 この README も tsuzuri で執筆しました。 この README では執筆意図を先に記述させる理由、使用方法、執筆の手順と文機能の語彙の根拠を、その順に説明していきます。 私は、「まとめて文章を生成させると、どうにも AI の思考が自分の手から離れた感覚がして扱いづらい」と感じていました。 tsuzuri のアイデアの根幹は、その感覚を元にした「AI が何を考えてその文を書いたのかを可視化できれば、レビュ</description>
+    </item>
+    <item>
+      <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+      <link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
+      <pubDate>2026/11/23 19:14</pubDate>
+      <description>まけいぬびくとりー🌟DTM🔰 @ugokuchiwawa 開店した途端、お客様が来店し、「〇〇はセール対象ですよね？」と聞かれました。しかし、私の店舗はセール対象外だったため、そのことを説明しました。 すると、お客様がChatGPTの画面を見せてきて、対象店舗と書いてあると主張されました。確認してきますと伝えたところ、後から来た別のお客様にも 2026-11-23 13:27:14 まけいぬびくとりー🌟DTM🔰 @ugokuchiwawa 「この商品はセール中なのに、この店舗はセールしていないと言っている」と話し始め、周りのお客様まで巻き込むような状況になりました。 確認に時間がかかるため、とりあえずそのお客様2人にはセール価格で対応しようと思いましたが、今度は「Lサイズもセールなの？」と聞かれました。 2026-11-23 13:27:35 まけいぬびくとりー🌟DTM🔰 @u</description>
+    </item>
+    <item>
+      <title>ChatGPT の速さを支える OpenAI の Performance Factory</title>
+      <link>https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/</link>
+      <pubDate>2026/11/23 17:01</pubDate>
+      <description>※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にするようになった。 私見を結論から言えば、「これまで通り、言われた仕様通りにコードを書くだけの仕事」は間違いなく淘汰される。 一方で、AIという超高出力の重機を乗りこなす側に回れるエンジニアにとって、これほど面白く、かつ市場価値が高まる時代もない。 では、両者を分ける決定的な境界線はどこにあるのか。小手先のプロンプト術やツールの知識ではない。それは、使い手である人間側の気概の有無だ。 1. AIを「自動販売機」にするか、「重機」として操縦するか AIの進化によって、数年前のフレームワークに詳し</description>
+    </item>
+    <item>
+      <title>Lean で手続き的プログラム の証明が書けるようになった</title>
+      <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
+      <pubDate>2026/11/23 17:38</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>プログラミングのド素人がAIを利用して快活CLUBの空き状況確認アプリを作った日記 - ネットに影響される人の日記</title>
+      <link>https://htnmiki.hatenablog.com/entry/2026/11/23/133843</link>
+      <pubDate>2026/11/23 13:40</pubDate>
+      <description>macOSネイティブUIを利用したワークフローを作成できるAlfred UIやmacOS 27 Golden Gate向けに刷新した設定画面などを実装したMac用多機能ランチャー「Alfred v6」がリリースされています。詳細は以下から。 英Running with Crayons Ltdは現地時間2026年11月18日、2010年から開発を続けているMac用多機能ランチャーAlfredのメジャーアップデートとなる「Alfred v6.0」をリリースしたと発表しています。 It’s the best day of the year; it’s Alfred 6 release day! We have poured so much energy into this release, and are SO excited to finally share it with you. Alfr</description>
+    </item>
+    <item>
+      <title>なぜ今形式検証なのか</title>
+      <link>https://zenn.dev/ncdc/articles/dcec80b0c067b0</link>
+      <pubDate>2026/11/23 15:15</pubDate>
+      <description>AI代替ではなくAIからの攻撃で追い込まれるSaaS SaaS is Deadを議論していた多くの人は「AIの利便性によってSaaSビジネスが代替されるのか？」を議論してましたが、まさか「AIのセキュリティ攻撃によってSaaSが追い込まれる」なんて思いもよらなかったですよね🥺 pic.twitter.com/iAARf6Y2Ra— ぽこしー📊SaaSデータアナリスト (@biz_arts1) 2026年11月18日 ここ1、2年、テック業界で繰り返し語られてきた「SaaS is Dead」の論点は、主に生成AIやコーディングエージェントによる機能の代替性にあった。つまり月額課金のSaaSを契約しなくても、自社で必要な画面や集計ツールを安価に内製(擬態)できるから徐々に淘汰されていき、翻って内製するコスパが合わないものは残るという見立てだったが、それとは全く別の経路で急速に進んでいくこと</description>
+    </item>
+    <item>
+      <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
+      <link>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</link>
+      <pubDate>2026/11/23 00:26</pubDate>
+      <description>11日、MiniMaxが新しい画像生成モデル「H3-Image」を公開しました。3日には、Pruna AIから動画AI「H3」を蒸留して作られた画像AIモデル「P-H3-Image（現在の公開名はP-Image-OSS）」が登場したばかりです。H3-Imageは8月に開発中であると明らかにされていたとはいえ、本家のモデルまでこんなに早く公開されるとは驚きました。H3-Imageは最大16枚の参照画像を入力でき、4K解像度にも対応しています。しかも、リリース初日からオープンウェイトで公開されました。さっそくクラウド版とローカル版の両方を試し、先に登場したP-Image-OSSと比較してみました。どちらもH3を土台にした優秀なモデルですが、それぞれに得意なことと不得意なことがあるようです。 低価格のクラウド版で4K画像を生成 H3-Imageはすでにさまざまなクラウドサービスでの展開が始まって</description>
+    </item>
+    <item>
+      <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
+      <link>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</link>
+      <pubDate>2026/11/23 09:10</pubDate>
+      <description>リビア東部ベンガジに停泊していたロシア船から立ち上る煙を捉えた衛星画像/2026 Planet Labs PBC/Handout/Reuters via CNN Newsource （CNN） リビア東部を拠点とする政府は、沿岸都市ベンガジの海軍基地に停泊していたロシア船で発生した爆発について、ドローン攻撃によるものだった可能性が高いと発表した。 声明によると、同船は両国間の海洋協力協定に基づき、燃料補給と物資調達のために同市の港に停泊していた。この後ロシアに帰還する予定だったという。 プラネット・ラボ社が22日に撮影した衛星画像には、同市の港湾エリアから大きな煙が上がっている様子が捉えられている。また、ロイター通信が入手したソーシャルメディア上の動画には、港に停泊中の船が炎に包まれる様子が映っている。 リビア東部政府によると、この出来事の経緯や、誰が関与したのかを解明するため、ロシアとの</description>
+    </item>
+    <item>
+      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
+      <pubDate>2026/11/23 08:16</pubDate>
+      <description>はじめに 105円の商品を10%引きで売ると、レシートには94円と載ります。明細ごとに割引を計算しても、会計の最後にまとめて計算しても、1点なら同じです。では、同じ商品をもう1点レジに通したらどうでしょう。手元のRustコードでは、片方は188円、もう片方は189円を返しました。 AIに料金計算を書き換えてもらったとき、「1,000円の25%引きは750円」というテストが通っても、この1円の差は見えません。以前の記事では、異常系のテストにどんな例を選ぶかを考えました。今回は、先に「何点買っても、請求額は各明細に印字した金額の合計と一致する」と書いてみます。確かめたい性質と前提を明記し、その前提のもとで性質が成り立つかを論理的に調べるのが形式検証です。 syu-m-5151.hatenablog.com Rustの検証器Kaniで見つけたのは、計算途中の桁あふれです。割引後の金額を表せる型で</description>
+    </item>
+    <item>
+      <title>Contextual retrieval in AI systems</title>
+      <link>https://www.anthropic.com/research/contextual-retrieval</link>
+      <pubDate>2026/11/22 19:55</pubDate>
+      <description>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減りましたが、独立した環境で自走してくれれば安全だし、最高なのになーと思いますよね。 でも同時に、こんな不安も少しあります。もしAI Agentが判断ミスで勝手に重要なファイルやソフトを変更・消去したり、.envなんかを勝手に送ってしまったらどうしよう。。とか。 こういった問題を解決するのに、これまではDockerfileを書いて、ファイアウォールの考慮やIP</description>
+    </item>
+    <item>
+      <title>Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title>
+      <link>https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/</link>
+      <pubDate>2026/11/22 11:04</pubDate>
+      <description>すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このループを、ツール呼び出しがなくなるか、設定した上限に達するまで繰り返します。 動作確認は Python 3.12 で行っています。コードは Path | None などの記法を使うため、Python 3.10 以上が必要です。 4.1 Harness 本体（harness.py） 実モデルとの接続には Anthropic SDK を使用します。Harness の基本ロジック自体は標準ライブラリだけで書いています。 &amp;quot;&amp;quot;&amp;quot;A small, educational A</description>
+    </item>
+    <item>
+      <title>アマゾンが迫られた「10億ドル」の地域融和策、AIデータセンター建設凍結の波紋（小久保重信） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/8a874f9bd3a7c1c2d97094f32690eb3fd309dbf4</link>
+      <pubDate>2026/11/22 08:28</pubDate>
+      <description>Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？</description>
+    </item>
+    <item>
+      <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
+      <link>https://cginterest.com/2026/11/20/eden-blender/</link>
+      <pubDate>2026/11/21 09:16</pubDate>
+      <description>AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 AI agents give up their secrets under the influence of swarms | AI Alignment Foundation https://www.aialignmentfoundation.org/early-explorations/agents-secrets-swarms Agents reveal secrets when offered to team up with each other - The Register https://www.theregister.com/security/202</description>
+    </item>
+    <item>
+      <title>GitHub - awslabs/codekb</title>
+      <link>https://github.com/awslabs/codekb</link>
+      <pubDate>2026/11/22 03:25</pubDate>
+      <description>Q 特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、 ここ半年で、生活できないレベルまで売上が落ちています。 住宅ローン＋受験を控えた子どもが二人います。生活できない状態です。 私は、最盛期は特許翻訳で年２０００万円超えていました。 ２０１６年にGoogle翻訳にニューラル翻訳が導入されて激震が走り、 ２０１７年に血迷って翻訳者登録制度（ISO)とかありましたが、 当時は、特許翻訳者への実質的な影響は少なかったです。 特許翻訳は、秘密保持契約の関係で、Human Translationが残ると言われていたのですが、ここに来て情報が急変しています。 ２０年以上発注があったクライアントからの発注が完全に止まりました。 電話したところ、ソースクライアントからの発注が減っており、その翻訳会社も厳しいとのこと。 ストレスで胃が痛いです。 生きていけません。 かといって、もう大卒後、わずか</description>
+    </item>
+    <item>
+      <title>メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261121de79616</link>
+      <pubDate>2026/11/21 17:24</pubDate>
+      <description>AWS は、2026 Gartner Magic Quadrant の SCPS 部門でリーダーに選ばれました</description>
+    </item>
+    <item>
+      <title>AIでペネトレーションテストは どこまで内製化できるのか | ドクセル</title>
+      <link>https://www.docswell.com/s/gurany_tou/Z8NP71-2026-11-20-231724</link>
+      <pubDate>2026/11/21 00:07</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>「生成AI普及で今後の仕事に不安」8割超　住友生命の全国調査 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF1981O0Z11C26A1000000/</link>
+      <pubDate>2026/11/20 16:44</pubDate>
+      <description>Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェアの診断では、ある関数に認証チェックが見当たらなくても、呼び出し元で確認している場合があります。一方、通常の経路では認証を通っていても、別の入口から同じデータへアクセスできるかもしれません。LLMに調査を任せるには、守るべき条件を明確にし、その条件がどのコードで成立するのかを追わせる必要があります。 SPECAでは、仕様の読み取り、実装箇所の特定、LLMによるコード調査を段階に分け、各段階の出力を残します。診断担当者が、何を根拠にどこを調べ、な</description>
+    </item>
+    <item>
+      <title>Google、公開後のサービスを24時間を監視して改善点の修正コードまで用意するAI「Stitch Loop」発表 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/19/5770.html</link>
+      <pubDate>2026/11/19 18:21</pubDate>
+      <description>国産AI（人工知能）の開発会社ノエトラに関わる事業総額が5年で1兆円から1.8兆円に膨らむ見通しになっていることが分かった。画像処理半導体（GPU）の関連部品の高騰が響く。財政支援する国の負担が増す懸念がある。高市早苗政権の成長戦略の本丸でもあるAIは米国や中国を中心に覇権争いが続く。高性能の半導体は奪い合いになっている。日本は投資の規律を保ちつつ、国家間の体力勝負にどう向き合うかも問われる。</description>
+    </item>
   </channel>
 </rss>
