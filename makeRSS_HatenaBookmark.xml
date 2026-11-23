@@ -277187,5 +277187,59 @@ June 6, 2026</description>
       <pubDate>2026/11/19 08:56</pubDate>
       <description>韓国政府は11月19日、大学入試の全国共通試験「大学修学能力試験（修能）」に合わせ、スマートフォン向けの緊急災害速報を全国に送った。試験開始前の午前8時30分に送った1回目の速報で、全国9つの市・道で受験生が提出していなかったスマートフォン22台が見つかった。韓国教育部が同日午前の会見で、午前10時時点の集計として明らかにした。 2027年度の修能は全国1312会場で実施され、教育部によると受験者は約55万人。試験会場へのスマートフォンやスマートウォッチ、AI機能を搭載したスマートグラスなどの持ち込みは禁じられている。持参した場合は、電源を切って1時間目の開始前に試験監督者へ提出する必要がある。未提出のまま所持していると、その時点で不正行為として扱われる。 緊急速報の警報音で未提出の端末を探す 教育部と行政安全部が使ったのは、韓国の災害警報のうち、利用者が受信を拒否できない種類の通知だ。対</description>
     </item>
+    <item>
+      <title>PLG 型 SaaS is Dead はAIによる擬態代替ではなくAIからの擬態攻撃によって達成されてしまうのか - 太陽がまぶしかったから</title>
+      <link>https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack</link>
+      <pubDate>2026/11/23 10:37</pubDate>
+      <description>「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・Linuxに対応しており、iPad版も開発中です。今回はWindowsで使ってみます。まず上記のリンクをクリックして「Download for Windows」をクリックしてインストーラーをダウンロードします。 インストーラーのダウンロードが完了したらダブルクリックして起動。 「Install」をクリック。 インストールが完了したら「Open Lastbook」をクリック。 初回起動時は各種データ</description>
+    </item>
+    <item>
+      <title>無料の画像生成AI「MiniMax H3-Image」はここがすごい　Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/453/4453903/</link>
+      <pubDate>2026/11/23 07:59</pubDate>
+      <description>人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 D200mm: A New Scale for Single‑Crystal Diamond | Diamond Foundry https://www.df.com/insights/d200mm-single-crystal-diamond Diamond Foundry creates world&amp;#39;s first 200mm single-crystal diamond wafer — massive gem aims to solve AI chip coo</description>
+    </item>
+    <item>
+      <title>リビア停泊中のロシア船が爆発・炎上、ドローン攻撃の疑いと当局</title>
+      <link>https://www.cnn.co.jp/world/35255287.html</link>
+      <pubDate>2026/11/23 09:06</pubDate>
+      <description>米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせて、社内で追跡してきた事前学習の進捗を示す測定値を公開した。 パープレキシティは、モデルが次のトークンをどれだけ正確に予測できるかを示す指標で、値が低いほど予測が正確であることを意味する。パチョキ氏は、現代のAIの能力の源泉は大量のデータで“圧縮器（予測器）”を事前学習させることにあり、その進歩を最もよく表すのがこの指標だと主張する。 「GPT-3.5」から「GPT-6.2 Astra」までの自社ベースモデルについて、対数パープレキシティの推移を示す</description>
+    </item>
+    <item>
+      <title>アラフィフのおっさんが、初めて服をオーダーした話 (2)</title>
+      <link>https://anond.hatelabo.jp/20261122180151</link>
+      <pubDate>2026/11/22 18:05</pubDate>
+      <description>JSConfJP 2026の登壇資料です</description>
+    </item>
+    <item>
+      <title>この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)</title>
+      <link>https://note.com/varu3/n/n4476366008f8</link>
+      <pubDate>2026/11/22 23:37</pubDate>
+      <description>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減りましたが、独立した環境で自走してくれれば安全だし、最高なのになーと思いますよね。 でも同時に、こんな不安も少しあります。もしAI Agentが判断ミスで勝手に重要なファイルやソフトを変更・消去したり、.envなんかを勝手に送ってしまったらどうしよう。。とか。 こういった問題を解決するのに、これまではDockerfileを書いて、ファイアウォールの考慮やIP</description>
+    </item>
+    <item>
+      <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n2326bd68a80e</link>
+      <pubDate>2026/11/22 15:23</pubDate>
+      <description>ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語やJavaあたりを学びました。AIは専門外。 現在はとあるゲーム会社で技術系の職種で働いています。 イラストは学生時代に描き始めてある程度の実力はあると思います。プロではないですがプロの近くで働いています。 同人誌即売会に出たり、pixivで1000ブクマ超えるような作品もあります。 漫画はまだまだですが、基礎的な部分はある程度身についていると思います。賞をもらえるほど基礎はできていない気はするので励みます。 ②私の生成AIに対する立ち位置について いわゆる規制派と呼ばれるタイプ…でしょうか</description>
+    </item>
+    <item>
+      <title>[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services</title>
+      <link>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</link>
+      <pubDate>2026/11/21 21:08</pubDate>
+      <description>Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code. We have full confidence that Alpöge&amp;#39;s proof of the Riemann Hypothesis is correct, and we congratulate him on this ac</description>
+    </item>
+    <item>
+      <title>Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立</title>
+      <link>https://gigazine.net/news/20261120-ubisoft-generative-ai-game-studio-motherbrain/</link>
+      <pubDate>2026/11/20 16:10</pubDate>
+      <description>Verification files for the Lean proof of the Riemann Hypothesis Announced at alpo.ge/remark.pdf on 20 November 2026. Andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-22 16:20 UTC. Results below are as of that time and this page will be updated as the remaining checks finish. Summary The published Lean source compiles without errors, the five headline theorems depend</description>
+    </item>
+    <item>
+      <title>Introducing Inkling 2 Mini</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+      <pubDate>2026/11/21 08:08</pubDate>
+      <description>人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外では割り切れない自然数で、小さい順から2、3、5、7、11と続く。無限に存在し、並び方は一見</description>
+    </item>
   </channel>
 </rss>
