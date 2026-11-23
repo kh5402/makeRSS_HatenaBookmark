@@ -277130,5 +277130,62 @@ June 6, 2026</description>
       <pubDate>2026/11/20 17:58</pubDate>
       <description>はじめに Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。 以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。 ただ、当時はファイルの保存先や既存ファイルの編集に制約があり、正直なところ少し使いづらい部分もありました。 ところが、今日（2026年11月19日）改めて試してみると・・・ あれ？OneDriveの好きな場所にファイルを作れるし、既存ファイルも編集できるじゃん！！ しかも、Copilotの「プロジェクト」機能を組み合わせると、GitHub Copilotのように、特定のフォルダを作業領域にしたAI活用ができそうです。 今回は実際に試した内容を紹介します。 1. OneDriveでできることが増えていた 今回確認できたのは、以下の操作です。 任意のフォルダへのファイル</description>
     </item>
+    <item>
+      <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
+      <link>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</link>
+      <pubDate>2026/11/22 17:32</pubDate>
+      <description>Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？</description>
+    </item>
+    <item>
+      <title>2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま</title>
+      <link>https://note.com/cgbeginner/n/n5856d402f125</link>
+      <pubDate>2026/11/22 22:51</pubDate>
+      <description>2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつという共同声明を出しています。［1］ 形式的な検証が進むにつれて、次に知りたくなるのは、その証明がどういう考えで成り立っているかです。どこに新しい着想があり、それがどのようにして結論につながるのでしょうか。現時点で、膨大な議論の全体を細部まで見通せる人は、ごく限られていると思います。ここから人間が読める形をつくっていく仕事を考えるうえで、私が思い浮かべるのは、フェルマーの最終定理と、広中平祐の特異点解消定理です。 1．フェルマーの最終定理を読む人が増えるまでアンドリュ</description>
+    </item>
+    <item>
+      <title>工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想</title>
+      <link>https://anond.hatelabo.jp/20261122140104</link>
+      <pubDate>2026/11/22 14:01</pubDate>
+      <description>アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。 「リーマン…</description>
+    </item>
+    <item>
+      <title>AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？</title>
+      <link>https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</link>
+      <pubDate>2026/11/22 15:09</pubDate>
+      <description>JSConf 2026</description>
+    </item>
+    <item>
+      <title>アンソロピック上場「AIの予見性向上」「荒い相場続く」　運用大手CIO - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB206ZC0Q6A121C2000000/</link>
+      <pubDate>2026/11/22 00:05</pubDate>
+      <description>JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…</description>
+    </item>
+    <item>
+      <title>アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/</link>
+      <pubDate>2026/11/21 11:33</pubDate>
+      <description>横軸を時間とし、上段に人、下段にエージェントを置いた図です。人の指示、エージェントの実行、人の確認が交互に3回続きます。2回目と3回目の間に、人が離席している区間があります。この区間では、エージェントも停止しています。課題ごとに人の入力が必要です。 離席 人 課題ごとに人の入力が必要 エージェント 時間 停止 指示 実行 確認 指示 実行 確認 指示 実行 確認 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人は、左端で意図を作成し、中ほどで論点に回答し、右端でマージを判断します。エージェントは、左端でバックログと論点を生成し、そこから分岐して、複数の課題を3本のレーンで並列に実装とレビューします。3本のレーンは、開始と終了の時刻がずれながら重なり合って進みます。人が離席している区間でも、レーンは止まりません。各レーンの出力は、右端のレビュー待ちにたまり、そこから人のマージの</description>
+    </item>
+    <item>
+      <title>Google、新AI「Gemini 4 Neon」提供開始　最上位モデルに迫る性能　コストも削減</title>
+      <link>https://japan.cnet.com/article/35255129/</link>
+      <pubDate>2026/11/19 11:45</pubDate>
+      <description>Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的な生成AIを日常的に活用していることと思います。学業や研究だけでなく、学生生活上のさまざまな悩みについてもまた、AIに相談している人はたくさんいることでしょう。AIは、24時間365日、いつでも相談できます。人ではないので、どう思われるかなど、相手から返ってくる反応を気にする必要がありません。それゆえ、相談に際しての不安や恥を感じさせにくく、人に相談するよりもハードルが低いです。また、大抵のAIサービスは、人に寄り添うよう設計されており、優しい言葉が返ってくることが多いです。明確なアドバイスや、</description>
+    </item>
+    <item>
+      <title>「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/aefda3ab1f30619a8c87ba32e24b53de7f20ad80</link>
+      <pubDate>2026/11/19 13:29</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/034983a0e7a7520c30b4499ea0a365d60dc53ed5/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2157%2F922%2Fdisney00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>トレードオフをAIと比較し、技術選定の判断を行う | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-04</link>
+      <pubDate>2026/11/19 08:56</pubDate>
+      <description>韓国政府は11月19日、大学入試の全国共通試験「大学修学能力試験（修能）」に合わせ、スマートフォン向けの緊急災害速報を全国に送った。試験開始前の午前8時30分に送った1回目の速報で、全国9つの市・道で受験生が提出していなかったスマートフォン22台が見つかった。韓国教育部が同日午前の会見で、午前10時時点の集計として明らかにした。 2027年度の修能は全国1312会場で実施され、教育部によると受験者は約55万人。試験会場へのスマートフォンやスマートウォッチ、AI機能を搭載したスマートグラスなどの持ち込みは禁じられている。持参した場合は、電源を切って1時間目の開始前に試験監督者へ提出する必要がある。未提出のまま所持していると、その時点で不正行為として扱われる。 緊急速報の警報音で未提出の端末を探す 教育部と行政安全部が使ったのは、韓国の災害警報のうち、利用者が受信を拒否できない種類の通知だ。対</description>
+    </item>
   </channel>
 </rss>
