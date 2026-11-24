@@ -277448,5 +277448,92 @@ June 6, 2026</description>
       <pubDate>2026/11/20 14:57</pubDate>
       <description>人工知能（AI）の力を借りて、167年来の難問「リーマン予想」を証明した――。米国の数学者が20日明らかにした発表で、数学界に衝撃が走っている。リーマン予想とはそもそもどんな難問なのか。証明を発表し…</description>
     </item>
+    <item>
+      <title>GoogleがAIの性能測定ツール「gBench」をオープンソース化</title>
+      <link>https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/</link>
+      <pubDate>2026/11/24 12:53</pubDate>
+      <description>OpenAIは11月20日、自社のAIモデルの出力を無断で集めて別のモデルの学習に使う「敵対的蒸留」への対策を公開しました。新しいGPT-6.2 AstraとGPT-6.2 Solで防御を強め、モデルの内部の思考過程を抜き取る攻撃の成功率を、54.0%から0.2%に下げたとしています。 蒸留は、あるモデルの出力を別のモデルの学習データにする一般的な手法です。OpenAIが問題にしているのは、これを無断で行い、元のモデルにあった安全策を引き継がないまま能力だけを写し取ることです。たとえばOpenAIのモデルは、サイバー攻撃を手伝うよう求められると断ります。しかし、その出力を学習して脆弱性を見つける能力だけを写し取った別のモデルには、この歯止めがありません。元のモデルなら断る攻撃の手助けをそのまま引き受けてしまうおそれがあるというわけです。 特に防御しようとしているのは、モデルが答えを出すまで</description>
+    </item>
+    <item>
+      <title>DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/</link>
+      <pubDate>2026/11/24 12:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/82421bf1c22cc8aa6d4512bd7f5f085088e86519/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2158%2F698%2Fo01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ソフトバンク、「ITmedia」運営会社の売却検討　AI関連事業に集中 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/</link>
+      <pubDate>2026/11/24 17:42</pubDate>
+      <description>葬祭ブランド「さがみ典礼」を展開するアルファクラブ武蔵野は11月24日、AI仏壇「コハコ」を発売しました。価格は49万5000円（税込）で、公式サイトで販売します。 コハコは、故人を偲んで手を合わせるという仏壇の役割に、AIやセンサーを組み合わせた製品です。本体は幅180×奥行180×高さ251mm、重さ約4.5kgで、天然木を使用しています。 使い方は、まずスマートフォンから専用サイト「マイコハコ」に写真や動画を登録すると、Wi-Fi経由で本体に自動で同期します。登録した写真や動画はAIが内容を解析してタグ付け・分類し、特徴に応じた評価をスコアリング。コハコはこのスコアをもとに表示する思い出を選びます。たとえば笑顔の写真は、料理や風景の写真よりも表示する頻度が増えます。 本体には人感センサー、天面のタッチセンサー、音声認識用のマイクを搭載。人が前に立つと起動し、登録した呼び名で話しかける</description>
+    </item>
+    <item>
+      <title>OpenAIのアルトマンが「非常にまずい」と警告、AIエージェント時代に職場が整えるべき「6つの備え」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/108659</link>
+      <pubDate>2026/11/24 13:25</pubDate>
+      <description>23日、米半導体大手エヌビディアの株価が30％を超える値上がりを記録した/Spencer Platt/Getty Images （CNN） 米半導体大手エヌビディアの株価は23日、同社がジェンスン・フアン氏を最高経営責任者（CEO）兼社長に即日復帰させたと発表したことを受け、30％超急騰した。1日の上昇率としては過去3番目の大きさだった。 エヌビディア株は一時36.6％高となり、その後やや上げ幅を縮めて31.48％高で取引を終えた。上昇率は2003年以来の大きさで、時価総額は1日で9520億ドル（約151兆円）増加した。 GDSウェルス・マネジメントのグレン・スミス最高投資責任者（CIO）は「ジェンスン・フアン氏をCEOに復帰させるという衝撃的な決定は、ここ数週間低迷していたAI（人工知能）関連株にとって、大きな不透明要因の解消につながる」とメモに記した。 この発表を受け、すでに堅調だった</description>
+    </item>
+    <item>
+      <title>OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表</title>
+      <link>https://gigazine.net/news/20261124-openai-shirudo/</link>
+      <pubDate>2026/11/24 11:51</pubDate>
+      <description>こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミング言語、Lean Lean というプログラミング言語をご存知でしょうか？ このところ AI で Lean を使って数学などですごい成果が続々と発表されていて、つい先日も Claude を使ってリーマン予想を Lean により証明できたとの発表（Lean コミュニティによる検証の声明）がありました。Lean の名前を聞いたことがある方も多いのではないでしょうか。 数学の定理を証明できる言語となると、普段使っているプログラミング言語とはまったく異なるパラダイムの</description>
+    </item>
+    <item>
+      <title>今週のはてなブックマーク数ランキング（2026年11月第4週） - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2026/11/24/123553</link>
+      <pubDate>2026/11/24 12:36</pubDate>
+      <description>AI創作プラットフォーム「PixAI」が、ずんだもんなど4キャラクターに対応した公式コラボLoRA「ずん子・ずんだもん達」を公開した。 東北ずん子・ずんだもんプロジェクトから公式素材の提供を受けて制作し、権利元による公式監修を経たAIプロジェクトとなる。 ずんだもん、東北ずん子、東北きりたん、東北イタコの4キャラクターに対応し、PixAI上で誰でもLoRAデータを利用できる。 東北ずん子・ずんだもんプロジェクトの小田恭央さんは、公式LoRAを提供する狙いについて、AI生成を楽しみたいユーザーと、自身の絵柄を模倣されたくないイラストレーターの双方を意識した取り組みだと説明している。 【画像】LoRAデータを利用できる4キャラクター公式素材から制作したLoRA「ずん子・ずんだもん達」LoRAは、画像生成AIに特定のキャラクターや表現などの特徴を追加で学習させるために用いられる仕組み／追加モデル</description>
+    </item>
+    <item>
+      <title>1年以内に他社も「もうGitは限界」　1日3万マージに激増のAnthropicが明かす「AIエージェント規模」開発インフラ構築の裏側</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news020.html</link>
+      <pubDate>2026/11/24 08:24</pubDate>
+      <description>多くの開発者が「Claude Code」やOpenAIの「Codex」といった人工知能（AI）ベースのコーディングツールを利用するようになった今でも、コードをプッシュする前に自分の目で確認したいと考える開発者はいる。だが、より大胆でエージェントを積極的に利用するタイプの開発者なら、コーディングの最終ステップをAIに任せることに抵抗がないかもしれない。Anthropicが発表した新機能は、そのような開発者のためのツールだ。 米国時間11月23日にベータ版として発表された「Claude Ship」は、「Claudeでプルリクエストをレビューし、修正を加え、チームのポリシーで許可されているものを承認できるようにする」ものだと、Anthropicは述べている。ターゲットは、開発スピードを上げたいと考えている開発者や、すでにコーディング作業の大部分をエージェントに任せている開発者だ。 Claude</description>
+    </item>
+    <item>
+      <title>カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意のない裸の描写を禁止するルールに違反しています」とのこと…「ヌード」ルがダメらしい</title>
+      <link>https://togetter.com/li/2774298</link>
+      <pubDate>2026/11/24 11:51</pubDate>
+      <description>LAN内のデバイスにAI処理を割り振れるNVIDIA製ツール「NVIDIA Personal AI Router(PAIR)」について、テクノロジーメディアのLTT Labsがレビューを行い、使用感や課題について考察しています。 NVIDIA PAIR Can&amp;#39;t Cluster | LTT Labs https://www.lttlabs.com/articles/2026/11/12/nvidia-pair PAIRはローカルデバイス上でAIアプリケーションやエージェントを実行するためのプログラムで、特に複数のハードウェアを持つユーザーにとって便利なソリューションを提供します。PAIRの主な機能はローカルネットワーク上の他のマシンに大規模言語モデル(LLM)のタスクを送信することです。手元のデバイスで直接LLMを実行するのではなくネットワーク上の他のマシンにリクエストを送信し、送信先の</description>
+    </item>
+    <item>
+      <title>Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://z.ai/blog/glm-5.4</link>
+      <pubDate>2026/11/24 06:10</pubDate>
+      <description>米CrowdStrikeは11月23日（現地時間）、米Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値を約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認した。取引完了はCrowdStrikeの2028会計年度（2027年2月～2028年1月）の後半になる見込み。 CrowdStrikeは、クラウドベースのセキュリティ基盤「Falcon」を提供している。Falconは、PCやサーバなどのエンドポイント、クラウド上のサーバ、ID、データを、端末に導入する1つの軽量なエージェントで守る仕組みだ。2024年7月には、このFalconのエージェントへの更新に不具合があり、世界中のWindows端末が起動できなくなる障害を起こした。最近では米AnthropicのAI防御プロジェクト「Project Glasswing」に参加す</description>
+    </item>
+    <item>
+      <title>ブラックフライデー先行セール！「Google AI Plus/Pro」最大50%引き</title>
+      <link>https://jetstream.blog/2026/11/23/google-ai-plus-pro-black-friday-early-sale-2026/</link>
+      <pubDate>2026/11/23 20:01</pubDate>
+      <description>【読売新聞】　文化庁がマンガやアニメなどの無断複製対策の一環として、人工知能（ＡＩ）を活用した自動検知システムで見つけたＸ（旧ツイッター）の疑わしい投稿のうち、８割超が著作権を侵害する違法な投稿だったことが明らかになった。政府は、マ</description>
+    </item>
+    <item>
+      <title>「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しすると……／ボタン連打でもいいみたい【やじうまの杜】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158556.html</link>
+      <pubDate>2026/11/24 08:16</pubDate>
+      <description>こんにちは。Kuniwak です。 最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TLA+ や Alloy、Z3 など）で検証できるようになりました。 このような方法を「バイブ形式手法」と呼ぶこととして、その危うさとうまく付き合うための手順と実験で確かめたその効果1を説明します。 その手順を大雑把にいうと、(1) オラクルの言語化、(2) 感度分析、(3) 忠実さ2の検査、の3つです。 この記事で伝えたいこと この記事で伝えたいことは、バイブ形式手法ではあなたが認識している保証範囲と 実際の保証範囲がずれる ことがあるということと、そのため何が検査され何が検査から漏れるのかを把握するための手順の紹介、という2点です。 なお言うまでもなく、形式手法に無知なままバイブで形式手法するより理解して形式手法する方がよっぽど効果が高くコストも低いと私は考えていま</description>
+    </item>
+    <item>
+      <title>Introducing Claude Ship | Claude by Anthropic</title>
+      <link>https://claude.com/resources/articles/introducing-claude-ship</link>
+      <pubDate>2026/11/24 06:17</pubDate>
+      <description>A workflow that turns existing source code into &amp;quot;AI-friendly specifications&amp;quot; for AI agents to use Version: 2.2.1 / License: MIT-0 日本語版: README_ja.md The documents under docs/ and the rules the AI agent follows are currently written in Japanese. reverse-spec-flow creates specifications for AI agents to read and use from the source code of an application that has no specifications, has outdated ones</description>
+    </item>
+    <item>
+      <title>ホワイトハッカー、ダサぃ。 — El Kentaro</title>
+      <link>https://buymeacoffee.com/elkentaro/leyebimeji</link>
+      <pubDate>2026/11/23 19:35</pubDate>
+      <description>AIが数学の難問を次々と攻略するなか，またしても「本当なら大ニュースだ」と言いたくなる知らせが飛び込んできた。Anthropicに所属する数学者であるアルポゲ（Levent Alpöge）が20日に自身のウェブサイトで公開した主張は，早くも世界に波紋を広げている。 「クロードと共同で，リーマン予想の証明を見つけたと考えている」とアルポゲは書いた。クロードはAnthropicが開発する大規模言語モデルだ。アルポゲがあわせて公開したのは，クロードがLeanで記述した証明だった。Leanはプログラミング言語の一種であり，証明を支える数学的な推論に矛盾や誤りがないかを確かめるために使われる。ほかの数学者たちも独立した検証を急いでおり，まだ予備的で非公式ではあるが，証明は正しそうだという反応が出始めている。（編集部注：Leanの公式アカウントは22日未明，少なくともLeanによる今回の証明が必要な検</description>
+    </item>
+    <item>
+      <title>「Google Pics」が画像生成・編集の品質を飛躍させる最新モデル「Nano Banana 2.1」へアップグレード／高精細な編集で、対象物以外の周囲に加わる不自然な変更が減少</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157849.html</link>
+      <pubDate>2026/11/19 15:28</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
   </channel>
 </rss>
