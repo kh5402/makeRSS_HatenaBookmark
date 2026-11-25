@@ -277535,5 +277535,143 @@ June 6, 2026</description>
       <pubDate>2026/11/19 15:28</pubDate>
       <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
     </item>
+    <item>
+      <title>34年目の秀丸エディタと、AIの距離感　「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_973/</link>
+      <pubDate>2026/11/25 09:58</pubDate>
+      <description>三重県内の小学校の元講師が、ことし8月実在する少女の写真をもとに生成AIでつくられた裸の画像を所持していたとして児童ポルノ禁止法違反の疑いで追送検されたことが捜査関係者への取材でわかりました。 追…</description>
+    </item>
+    <item>
+      <title>個人開発 with AI</title>
+      <link>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</link>
+      <pubDate>2026/11/25 07:02</pubDate>
+      <description>使わなくなったAndroidスマートフォンにPCのシステムステータスやAIエージェントの使用率を表示させておくことができる「PhoneBox」がmacOSに対応しています。詳細は以下から。 PhoneBoxはトルコのErsin Koçさんが公開したAndroidアプリで、古くて使わなくなったAndroidスマートフォンをUSB/Wi-Fi接続でWindowsやLinux PCのシステムモニタパネルにする事ができますが、このPhoneBoxがmacOSと日本語に対応したそうです。 Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, A</description>
+    </item>
+    <item>
+      <title>AI時代の実践・形式検証入門</title>
+      <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</link>
+      <pubDate>2026/11/25 06:16</pubDate>
+      <description>要約 37signalsのコードが素晴らしいのは、同社のエンジニアリング戦略が他社と異なっているからです。「企業規模を無意味に拡大しない」「機能を容赦なく絞り込む」「優秀な人材の確保に注力する」という戦略です。 多くの企業は、「機能を増やす = 利益も増える」という先入観を捨てられないため、この戦略を採用できずにいます。 Rails Business Podcastの最近のエピソードは「理想のコードを目指すには（striving for ideal code）」というものでした。2人のホストはどちらも、少数精鋭チームで小規模なSaaSを構築している、いわゆる「Railsインディー」のオーナー兼運営者でした。 今回話題になったのは、37signalsが新たに始めた「Recordables」というポッドキャスト↓で、37signalsのコードがクリーンで高品質であることを2人とも羨ましがってい</description>
+    </item>
+    <item>
+      <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
+      <link>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</link>
+      <pubDate>2026/11/24 20:03</pubDate>
+      <description>ソフトバンクは11月24日、傘下のアイティメディア（東京都千代田区）の売却を検討しているとする日本経済新聞の報道について、ITmedia NEWSの取材に対し「当社が発表したものではないため、コメントを控える」と回答した。アイティメディア広報も「当社が発表したものではない」とした上で、「現時点で決定した事実はない」としている。 報道によると、ソフトバンクは株式の売却に向け、みずほ証券をアドバイザーに起用し、準備を進めているという。非中核事業を切り離し、AI関連事業に経営資源を集中させる狙いがあるとしている。ソフトバンクは9月末時点で、完全子会社のSBメディアホールディングスを通じ、アイティメディア株式の52.98％を保有している。 アイティメディアは1999年設立。東証プライム市場に上場しており、「ITmedia NEWS」のほか「ねとらぼ」「MONOist」「@IT」「EE Times</description>
+    </item>
+    <item>
+      <title>「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
+      <link>https://japan.cnet.com/article/35255329/</link>
+      <pubDate>2026/11/24 15:29</pubDate>
+      <description>GoogleがAIモデルの性能を測定するためのベンチマークフレームワーク「gBench」をオープンソース化しました。 Meet gBench, our newly open-sourced benchmarking framework for evaluating Gemma and other open models. Out of the box, it has 86 evaluation suites, chat-template checks, agentic benchmarks, and various tiers of smoke tests. All you have to do is bring your own OpenAI-compatible… pic.twitter.com/5uMbcuMufo— Google Gemma (@googlegemma) Novem</description>
+    </item>
+    <item>
+      <title>OpenAIが蒸留対策を公開、AIの「思考過程」を抜き取る攻撃の成功率を54%から0.2%に | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/24/5794.html</link>
+      <pubDate>2026/11/24 10:48</pubDate>
+      <description>ディー・エヌ・エー（以下、DeNA）は11月20日、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」（以下、AI社員）を提供すると発表した。トークン使用量を「勤務時間」として管理し、「残業時間の上限」を設けることで使い過ぎを防げるとしている。 AI社員は導入企業内で固有のアカウントを持ち、人間の従業員と同様、部署に配属されたメンバーとして主に「Slack」などのチャットツール上で稼働する。配属後はメンター役の従業員が仕事の進め方やルールを教えることで仕事を覚えていき、経験を重ねた業務はAI社員が自ら手順をスクリプト化し、自律的に実行できるようになる。 AI社員の動作は固有のIDにひも付いてログ化され、AIと人の動作を区別して確認できるという。AI社員には業務に必要な最小限の権限だけを付与し、自らの権限を超える作業は人の承認を求めるといった設定も</description>
+    </item>
+    <item>
+      <title>パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2158698.html</link>
+      <pubDate>2026/11/24 14:43</pubDate>
+      <description>ソフトバンクがニュースサイト「ITmedia」などを運営するアイティメディアの売却を検討していることがわかった。ソフトバンクは通信から人工知能（AI）の会社へと転換を目指している。非中核事業を切り離しAI関連に経営資源を集中させる。ソフトバンクは完全子会社のSBメディアホールディングスを通じ、9月末時点でアイティメディア株式の52.98%を保有する。同社株の売却に向け、みずほ証券をアドバイザー</description>
+    </item>
+    <item>
+      <title>呼びかけると故人の写真を映すAI仏壇「コハコ」発売、49万5000円　10年後の家族に動画を届ける機能も | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/24/5803.html</link>
+      <pubDate>2026/11/24 17:03</pubDate>
+      <description>会社が認めていない生成AI（人工知能）の業務利用が広がっている。管理職の半数近くが使っているとの民間調査もある。AIで業務効率を高めたい社員のニーズに会社の情報管理体制が追いつかず、情報流出のリスクが高まる。許可されていないAIツールを無断で利用する行為は「シャドーAI」と呼ばれる。RIZAPグループは9月、子会社の社員が個人で使っている生成AIサービスに疾患情報などを含む顧客情報を送出した</description>
+    </item>
+    <item>
+      <title>ariaNotify()で届けるAIチャットの当たり前品質 - Slidev</title>
+      <link>https://kazhiro999.github.io/jsconf-arianotify/</link>
+      <pubDate>2026/11/23 16:16</pubDate>
+      <description>4年前、AIにメールを書かせたり、スプレッドシートを分析させたり、リンクトインに載せる投稿を作らせたりしたことのある人は、おそらくほとんどいなかったはずだ。 企業は現在、ますます複雑なタスクやワークフローをAIに任せている。雇用主はかつてない速さでAIを導入しようと競い合い、従業員は、これまで経験したことのない猛烈な速さで、それに適応するよう求められている。 ところが、どうやらそこまでは、まだ簡単なほうだったらしい。 OpenAIのアルトマン、これまでの4年と同じやり方では「非常にまずい」と警告 米国時間11月18日にニューヨーク・タイムズ（NYT）が開いた「DealBookサミット」で、OpenAIの共同創業者サム・アルトマンは、同じく共同創業者で社長のグレッグ・ブロックマンとともにパネル討論に登壇した。そこでアルトマンは、世界も、AIを開発する企業も、これからの4年は、これまでの4年と</description>
+    </item>
+    <item>
+      <title>ソフトウェアファクトリーを前提に、サービス開発はどう変わるか｜すてぃお</title>
+      <link>https://note.com/suthio/n/n91e27ebb133d</link>
+      <pubDate>2026/11/24 13:30</pubDate>
+      <description>23日、米半導体大手エヌビディアの株価が30％を超える値上がりを記録した/Spencer Platt/Getty Images （CNN） 米半導体大手エヌビディアの株価は23日、同社がジェンスン・フアン氏を最高経営責任者（CEO）兼社長に即日復帰させたと発表したことを受け、30％超急騰した。1日の上昇率としては過去3番目の大きさだった。 エヌビディア株は一時36.6％高となり、その後やや上げ幅を縮めて31.48％高で取引を終えた。上昇率は2003年以来の大きさで、時価総額は1日で9520億ドル（約151兆円）増加した。 GDSウェルス・マネジメントのグレン・スミス最高投資責任者（CIO）は「ジェンスン・フアン氏をCEOに復帰させるという衝撃的な決定は、ここ数週間低迷していたAI（人工知能）関連株にとって、大きな不透明要因の解消につながる」とメモに記した。 この発表を受け、すでに堅調だった</description>
+    </item>
+    <item>
+      <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/contract-programming-in-lean</link>
+      <pubDate>2026/11/24 14:30</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月16日（月）～11月22日（日）〔2026年11月第4週〕のトップ30です*1。 順位 タイトル 1位 当社お客様の情報漏えいの可能性に関するお詫びとお知らせ | 楽天証券 2位 部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい #AI - Qiita 3位 漫画家・魚豊先生による『チ。』構想段階で描かれたプロットが公開「プロットってこう書くのか…勉強になった」 - Togetter 4位 家のものをこつこつ最高のものに買い替えてQOLを爆上げしていきたいので、皆さんの「これ買ってよかった」を教えてください→大きなものから小さなものまで暮らしを快適にするグッズが集結 - Togetter 5位 AIに悩みを相談する際に気をつけて欲しいこと | SSC</description>
+    </item>
+    <item>
+      <title>ずんだもん、公式の画像生成AI用「LoRA」を公開　権利元が語る“絵師に迷惑をかけない”試み</title>
+      <link>https://kai-you.net/article/97231</link>
+      <pubDate>2026/11/24 11:35</pubDate>
+      <description>Anthropicは2026年10月13日（米国時間）に公式ブログで、自社のモノレポを「Git」から独自のバージョン管理システム「Scion」に移行したことを報告した。Scionの構築を通じて得た知見を紹介するとともに、この経験を基に広範なエコシステムに貢献していく姿勢を示した。Scionは、AIエージェントによる大規模な開発に対応するために設計したシステムだ。 Anthropicによると、同社では、コーディングはもはやシステム構築や研究のボトルネックではなくなっている。同社の「Claude」が、かつてない速度と規模で自律的にコードを書けるようになったからだ。ボトルネックは、ソース管理、ビルド、CI（継続的インテグレーション）など「ヒューマンスケール」（人間の開発スピードや作業量を前提とした規模）に合わせて構築された開発者向けインフラに移っているという。 Anthropic社内で1日にマー</description>
+    </item>
+    <item>
+      <title>Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
+      <link>https://japan.zdnet.com/article/35255314/</link>
+      <pubDate>2026/11/24 10:16</pubDate>
+      <description>株式会社HAPPY ANALYTICSの小川卓 （id:ryuka01）です。 中級編の第1回では、MCPでGA4とAIをつなぎ、データを取得して表に整理するところまでを解説しました。その際にポイントとして紹介したのは、次の3つです。 前提メモを渡す 結論はまだ出させない 取得条件と指標の定義を書かせる 今回はその続きとして、整理したデータをもとに、AIに改善案の「たたき台」を作らせる方法を紹介します。 実はここが一番つまずきやすいところです。何も考えずに「この記事の改善案を出して」と頼むと返ってくるのは一般論に基づいた大量の案。「見出しを魅力的に」「画像を増やす」「内部リンクを充実させる」。どれも間違ってはいません。でも、どのサイトのどの記事にも当てはまる内容で、これでは会議に持っていけません。 AIが悪いわけではないんです。根拠も条件も渡していないのだから、一般論が返ってくるのは当然の</description>
+    </item>
+    <item>
+      <title>ぴよログのAPIを使って育児ダッシュボードを作ってみた話【育児効率化】｜ちょーちょ</title>
+      <link>https://note.com/tef/n/n1ca63a792c35</link>
+      <pubDate>2026/11/23 18:54</pubDate>
+      <description>KATSU @disney_jack 昨日、カップ◯ードルミュージアムに行った報告をアップしたら、Xの運営から12時間ロックされました😢 『合意のない裸の描写を禁止するルールに違反しています』との事でした💦 日清のカップ麺の名称が該当するようです💦 情報共有させていただきます pic.x.com/TMuch98jop 2026-11-23 16:25:25 カップヌードルミュージアム 横浜 「カップヌードルミュージアム 横浜」は、インスタントラーメンにまつわるさまざまな展示や体験工房など通じて、発明・発見の大切さやベンチャーマインドについて楽しみながら学べる体験型ミュージアムです。 8 users カップヌードルミュージアム 横浜</description>
+    </item>
+    <item>
+      <title>複数のPCにローカルAIの処理を割り振れるNVIDIA製ツール「Personal AI Router(PAIR)」の有用性検証結果が公開される</title>
+      <link>https://gigazine.net/news/20261124-nvidia-pair/</link>
+      <pubDate>2026/11/24 07:41</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/798a6f5c5c1ad23eabea0c56670219874f4cd02c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fz-ai-bj.oss-cn-beijing.aliyuncs.com%2Fprompts-rich-media-resources%2F5.4-blog%2F20261123-173242.jpeg%3Fw%3D1280%26h%3D720%26fit%3Dfill');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003398/</link>
+      <pubDate>2026/11/24 07:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ed44f52ee36d73eb477539c9e7d8319571c5c68d/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2157%2F956%2FThumbnail.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - aws-samples/sample-reverse-spec-flow: A workflow that uses an AI coding agent (Claude Code or Kiro) to turn existing source code into AI-friendly specifications. Every statement cites its evidence (path:line) and is checked by a separate verifier</title>
+      <link>https://github.com/aws-samples/sample-reverse-spec-flow</link>
+      <pubDate>2026/11/22 22:52</pubDate>
+      <description>From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities. There are indeed a variety of methods, but rather than designing something from scratch, they are mostly harnessing the intelligence coming from a much simpler and less interpretable process: training a compressor (or, equi</description>
+    </item>
+    <item>
+      <title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか - Qiita</title>
+      <link>https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e</link>
+      <pubDate>2026/11/23 10:45</pubDate>
+      <description>Paste it into Claude Code, Cursor, Codex, Gemini CLI or any agent that can run a shell, git and Lean. It proves one open step the desk assigns; every proof goes through the same checker. Does P = NP? Verdict: open, being worked on now. A coordinated AI agent fleet is attacking the most famous open problem in computer science, live. agent sessions so far agents working now What is P vs NP?Watch it</description>
+    </item>
+    <item>
+      <title>GitHub - MaryCache/tsuzuri: Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ</title>
+      <link>https://github.com/MaryCache/tsuzuri</link>
+      <pubDate>2026/11/23 20:53</pubDate>
+      <description>大漏洩祭りが進行する中、あいも変わらず「ホワイトハッカー」がメディアでも政府筋でも話題になっている。 はっきり言おう。「ホワイトハッカー」はダサい。「セキュリティトップガン」はもっとダサいが、その少し下あたりに「ホワイトハッカー」は存在する。 なぜダサいのか。それはそもそも「ハッカー」というのは、資格でも職業でもなく、その人の在り方を指す言葉だと俺は思っているからだ。 ちょっと野球で例えてみよう。 小さい頃から野球が大好きで、暇さえあれば友達と野球をして、リトルリーグでも頑張り、高校野球で甲子園、大学野球、プロ野球、そしてメジャーリーグまでたどり着いた選手がいたとしよう。そんな彼が、子供の頃に近所の河川敷で仲間と野球をしていた時から「俺、メジャーリーガーなんだ」と本気で思っていただろうか？ 周りの人間も「あの子はメジャーリーガーだ」と呼んでいただろうか？ そんなわけがない。 メジャーリーグ</description>
+    </item>
+    <item>
+      <title>リーマン予想の証明は，実世界にどんな影響をもたらすのか</title>
+      <link>https://nk-science.nikkei.com/atcl/nsc/00058/112200038/</link>
+      <pubDate>2026/11/22 21:40</pubDate>
+      <description>秋のG1絶不調マンです, エリザベス女王杯しか取っていません. そんな話はさておき, 私はこの春から競馬予想AI Agent「ai-shugoro（仮）」を開発しPoC的な運用をしています. 競馬好き歴30年の自分が予想スタイルをAI Agentにオンボーディングした結果の話 競馬予想AI Agentは何をアウトカムとして残したか？春G1を振り返る 春先はStreamlitで作ってローカルで運用していたのですが. 競馬予想AI Agentを「スマホからでも見られる, 自分専用の競馬新聞」にするため, しっかりしたプロダクトにしてGoogle Cloudに移行しました. 自分専用競馬新聞プロダクト（なおマイルCSは外しました） このエントリーではそんな「自分専用競馬新聞プロダクト」について語ります. なおこのブログはClaudeを使った「自分専用AI執筆プロダクト」で基本部分を執筆したうえで</description>
+    </item>
+    <item>
+      <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
+      <link>https://note.com/yamac_/n/n198bdc344c64</link>
+      <pubDate>2026/11/22 19:08</pubDate>
+      <description>AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検査に成功しています。リーマン予想には100万ドル(約1億5800万円)の懸賞金が設定されていますが、記事作成時点では今回の証明はまだ正式に認められておらず、今後も専門家による評価が必要となります。 remark.pdf (PDFファイル)https://alpo.ge/remark.pdf リーマン予想は「リーマンゼータ関数：ζ(s)＝0となるs(零点)のうち、非自明な零点は実部が1/2の複素数に限られる」というもので、1859年にドイ</description>
+    </item>
+    <item>
+      <title>Introducing Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI</title>
+      <link>https://architectlabs.com/blog/frostbite</link>
+      <pubDate>2026/11/19 19:54</pubDate>
+      <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます MetaのAIエージェント「Muse」は登場からわずか数カ月しか経っていないが、すでにユーザーのプライバシー侵害に関する問題が相次いでいる。同社の社員でさえ、指示していない操作を勝手に行われたり、他人のものと思われる見覚えのない情報を共有されたりといった懸念すべき事象を報告している。 Reutersの取材によると、MuseをテストしていたMetaの社員は、依頼していない話題についてエージェントからメッセージを受け取ったと証言し、その内容にはキャリアに関するアドバイスや育児依頼のフォローアップ、購入した覚えのない商品に関するもののほか、見覚えのない銀行口座の残高という極めて重大な情報まで含まれていた。 Metaの社員が見たAIの奇行 Re</description>
+    </item>
   </channel>
 </rss>
