@@ -277918,5 +277918,121 @@ June 6, 2026</description>
       <pubDate>2026/11/24 06:53</pubDate>
       <description>OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart. We’re inviting developers, security researchers, and infrastructure operators across the ind</description>
     </item>
+    <item>
+      <title>ファクトチェックセンターが衆院選期間に誤情報　AI鵜呑み、れいわ大石氏の架空発言掲載</title>
+      <link>https://www.sankei.com/article/20261126-IAIWQ5GJCZBRLNFFDXLEY3YDU4/?outputType=asynd</link>
+      <pubDate>2026/11/26 11:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2c942bc845a91aa19573ac5c28796b3ae9dc7a07/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F364%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開</title>
+      <link>https://gigazine.net/news/20261126-anthropic-claude-api-rust/</link>
+      <pubDate>2026/11/26 11:08</pubDate>
+      <description>株式会社アンドパッド フェロー 柴田 博志 2022年11月に株式会社アンドパッドに入社。Rubyコミッタ、RubyGemsとBundlerのリードメンテナ。Rakeやruby-buildなど多数のOSSのメンテナ、ruby-lang.orgのroot管理者として、プログラミング言語Rubyの開発を支える基盤を統括している。Rubyの開発をフルタイムの業務として担当。 @hsbt AIが作業の多くを引き受けるようになって、悲しいことに、仕事で一番遅い工程は私の判断を待つ時間になりました。RubyのCIで落ちたジョブの調査は、ログを読んで怪しいコミットの範囲を出すところまでAIが済ませます。そこから先、直すのか様子を見るのかを私が決めるまで、AIは待っているだけです。 ゴールドラットが『ザ・ゴール』で示した制約理論では、ボトルネックを1つ解消すると、次に遅い工程が新たなボトルネックになります</description>
+    </item>
+    <item>
+      <title>米国の小学校で今学期になって毎日AI生成された気持ち悪い歌が放送、クラスのみんなが嫌がっているので娘が先生に話したところ「聞かなくていいよ。耳を塞いで」と言われた</title>
+      <link>https://togetter.com/li/2775074</link>
+      <pubDate>2026/11/26 10:51</pubDate>
+      <description>米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。 脆弱性の発見数が急増 Microsoftが11月の月例更新プログラムで修正した脆弱性は計1093件に上る。うち63件が、深刻度の最も高い「緊急」の分類だった。Outlookのなりすましの脆弱性（深刻度「警告」）は、更新プログラムが公開された時点で悪用が確認されていた。 米セキュリティニュースサイトのKrebs On Securityによると、Microsoftが26年に入って修正した脆弱性は、これで5100件を突破した。1年前の平均が月に平均100件前後だったこ</description>
+    </item>
+    <item>
+      <title>Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape</title>
+      <link>https://www.keisuke69.net/entry/2026/11/26/085248</link>
+      <pubDate>2026/11/26 09:25</pubDate>
+      <description>XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況は今後変わる可能性がありますのでご了承ください。 Museとは そもそもMetaはFacebookやInstagram、メタバースのイメージが強いですが、AI事業にも参入していました。Llamaなどオープンウェイトでのモデル提供もあったのですが、性能的にパッとしなかったのであまり話題になることは少なかったのです。 2026年からMetaも本格的にAIを開発することを宣言、Meta AIアシスタントのみでの提供の</description>
+    </item>
+    <item>
+      <title>「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/26/news015.html</link>
+      <pubDate>2026/11/26 07:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bbdab75e13a6a75c9e4fa33758e821409fd690f1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F286%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
+      <link>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</link>
+      <pubDate>2026/11/26 00:09</pubDate>
+      <description>Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しました。 下記は、Alphabet傘下でGoogleのAI研究開発を行っているGoogle Deepmind所属のPhilipp Schmid氏のポストです。 Google Workspace MCP servers and gwscli are GA today. No Enterprise plan or billing card needed with the new 1-click Personal mode setup. - 8 servers: Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat,</description>
+    </item>
+    <item>
+      <title>「ソフトウェアファクトリー」とは結局何か　OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html</link>
+      <pubDate>2026/11/25 10:07</pubDate>
+      <description>Modeling Forum 2026 におけるトークスライドです モデリングの前と後、そして実際のモデリングをコモディティ化しています イベント概要：https://umtp-japan.org/event-seminar/mf2026/78668 CQRS+ES実践ガイド：https://…</description>
+    </item>
+    <item>
+      <title>AI-DLC最前線のCognitive Surrenderに陥らないチーム作り</title>
+      <link>https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc</link>
+      <pubDate>2026/11/25 20:22</pubDate>
+      <description>現地時間の2026年11月23日、Anthropicが「企業がAIを導入すると仕事の進め方や雇用はどう変わるのか」を調べた報告書「Working with AI」を公開しました。 Working with AI https://www.anthropic.com/research/working-with-ai How is AI diffusing through businesses? We spent two months interviewing 58 Anthropic customers, ranging from dentists’ offices to start-ups to hedge funds. Today, we release our new report on how AI is changing jobs and organizations.— Peter</description>
+    </item>
+    <item>
+      <title>GitHub Copilot が切り拓くエージェント時代の開発ワークフロー</title>
+      <link>https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2</link>
+      <pubDate>2026/11/25 16:56</pubDate>
+      <description>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそう...?） そして、これを見てください！！ これまでは、みんな定期実行のタスクを組んで、10 分おきに Slack や GitHub を見に行かせています。これでも動くには動くんですが、最大 10 分のラグが出ますし、何も起きていない時間帯もずっと空回りし続けます。 そこで MuseKnock という OSS を作りました。Cloudflare Workers へデプロイし、Webhook を受</description>
+    </item>
+    <item>
+      <title>AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念</title>
+      <link>https://gigazine.net/news/20261125-anthropic-openai-employees-fear-unreleased-ai-models/</link>
+      <pubDate>2026/11/25 20:43</pubDate>
+      <description>【読売新聞】　出版取次大手「日販グループホールディングス」の子会社が米ＡＩ（人工知能）開発企業「アンソロピック」に日本の書籍を無断で販売していた問題で、これらの書籍に、絶版となった書籍が複数含まれていたことがわかった。取引はアンソロ</description>
+    </item>
+    <item>
+      <title>pstack とは何か｜pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
+      <link>https://zenn.dev/karamage/books/50c18e52e7d19e/viewer/845d0c</link>
+      <pubDate>2026/11/24 17:58</pubDate>
+      <description>「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の調達支援や情報収集を進めているとのことです。 China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal - The New York Times https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html AIの開発には膨大な計算能力が必要となるため、高性能な半導体をいかに確保するか</description>
+    </item>
+    <item>
+      <title>AI時代の実践・形式検証入門</title>
+      <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/edit?slide=id.p1</link>
+      <pubDate>2026/11/25 08:23</pubDate>
+      <description>AI企業のAnthropicが2026年11月24日、ClaudeのアーティファクトをMacやWindowsのデスクトップアプリとしてインストールできる新機能「Install as app(アプリとしてインストール)」のベータ版を公開しました。Claudeとの対話を通じて作成したアプリを独立したウィンドウで起動できるほか、PC内のファイルへのアクセスやシステム通知なども可能になります。 Turn artifacts into Mac and Windows apps | Claude by Anthropic https://claude.com/ja/resources/articles/install-as-app Claudeの「アーティファクト」はユーザーの指示に応じて生成したウェブページやグラフ、インタラクティブなツールなどをチャットとは別の領域に表示する機能です。Anthrop</description>
+    </item>
+    <item>
+      <title>Turn artifacts into Mac and Windows apps</title>
+      <link>https://claude.com/resources/articles/install-as-app</link>
+      <pubDate>2026/11/25 09:27</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/cbb69f7425a15d2b7e3563e795da993e954c4a02/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F034%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得</title>
+      <link>https://gigazine.net/news/20261124-amazon-acquire-decart/</link>
+      <pubDate>2026/11/24 21:30</pubDate>
+      <description>友達のブログが AI slop だらけになって、がっかりしていませんか？ この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。 とはいえ、アンチAIだった私ですら、最近はブログのほとんどを Claude Code に書いてもらっています。先日公開したこちらの記事もそうです。 人に出せる品質まで仕上げたやり方を、この記事を例に紹介します！ 書く前の準備 性能の高いハーネスとモデルを使う 私は Claude Code と Opus 5.5 で書いています。下書きの質はハーネスとモデルの性能でかなり変わるので、まずは性能の高いものを選びます。 このあと紹介するスキルも、Claude Code が自分で読み込んで守ってくれる前提で書いています。 スキルでAIの癖を潰しておく</description>
+    </item>
+    <item>
+      <title>AI に文章を書かせるときは、ネストした箇条書きで取捨選択させる - id:onk のはてなブログ</title>
+      <link>https://onk.hatenablog.jp/entry/2026/11/25/022804</link>
+      <pubDate>2026/11/25 10:35</pubDate>
+      <description>米Anthropicは11月24日（現地時間）、AIアシスタント「Claude」で作成した「アーティファクト」（Artifacts）を、macOSおよびWindows向けのデスクトップアプリとしてインストールできる機能「Install as app」を発表した。Mac／Windows向けのClaudeアプリで、全プランを対象にβ版として順次提供する。 アーティファクトは、Claudeとの対話の中で生成されるチャートやWebページなどの成果物だ。Anthropicによると、当初は人と共有するための成果物という位置付けだったが、現在は日常業務のツールとしても使われているという。例えば、カレンダーやメールから定期的に情報を取り込む会議準備ページや、その日に発送する注文の管理ツールなどだ。同社のエンジニア、フェリックス・リーゼバーグ氏は、Install as appをWeb上で動作するインタラクテ</description>
+    </item>
+    <item>
+      <title>AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003430/</link>
+      <pubDate>2026/11/25 08:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html</link>
+      <pubDate>2026/11/24 14:43</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/afd7de091f814e71d09d466f97ab3cbc5a986088/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F877%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
