@@ -278034,5 +278034,194 @@ June 6, 2026</description>
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/afd7de091f814e71d09d466f97ab3cbc5a986088/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F877%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
+    <item>
+      <title>Jev で実現する Generative UI</title>
+      <link>https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</link>
+      <pubDate>2026/11/26 21:42</pubDate>
+      <description>OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2 Astra Solves a Historical Mystery https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the process of research and discovery we’re alrea</description>
+    </item>
+    <item>
+      <title>MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道</title>
+      <link>https://gigazine.net/news/20261126-muse-amazon-discuss/</link>
+      <pubDate>2026/11/26 19:04</pubDate>
+      <description>KINCHO 大日本除虫菊株式会社【公式】 @KINCHO_jp 本社受付に鎮座する「蚊」の写真にAI疑惑があることから、疑惑を晴らすべく、大きさ比較のためキンチョール（防除用医薬部外品）を口吻のあたりに置いて撮影してみましたが、あまり意味がない気がしています。 この巨大な鉄のオブジェは、金属彫刻家の内山翔二郎さん（@UchiyamaShojiro）の作品です。 pic.x.com/iZ03pn17B6 2026-11-19 10:14:35</description>
+    </item>
+    <item>
+      <title>SSDでGPUメモリをペタバイト級に拡張、キオクシアとNVIDIAがAI向けの実証</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159567.html</link>
+      <pubDate>2026/11/26 19:21</pubDate>
+      <description>NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 2 California companies are buying Nvidia&amp;#39;s most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals. - CBS News https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/ 問題の企業はいずれもカリフォルニアに拠点を構えている「RiCloud AI」と「Aivres」です。 ◆RiCloud AI RiCl</description>
+    </item>
+    <item>
+      <title>AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す</title>
+      <link>https://gigazine.net/news/20261126-frostbite-cpu/</link>
+      <pubDate>2026/11/26 14:48</pubDate>
+      <description>OpenAIのサイト公開機能「Sites」を利用している人は、ホスティング料金に注意が必要だ。OpenAIの公式案内によると、ホスティングは2027年1月31日まで無料で、2月1日からPlus・Pro・Businessの月間利用枠を超えた分について課金が始まる予定だ。 Sitesは、ChatGPTやCodexに指示することで、Webサイトやアプリを作成・公開できる機能。ホスティングは公開したサイトへのアクセスやデータの保存などに費用がかかり、アクセス数やデータの保存容量に応じてクレジットを消費することになる。 月間のホスティング利用枠は、Plusが125クレジット、Proが375クレジット、Businessが1席あたり125クレジット。複数のサイトを公開している場合も、サイトごとに利用枠が付与されるわけではなく、すべてのサイトで利用枠を共有する。 ホスティング料金の目安は、空のデータベース</description>
+    </item>
+    <item>
+      <title>深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘</title>
+      <link>https://gigazine.net/news/20261126-nvidia-chip-china/</link>
+      <pubDate>2026/11/26 16:05</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>24KBの「LLM専用OS」が登場　全てアセンブリでLinuxを排し、llama.cppより最大54%高速 | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/26/5824.html</link>
+      <pubDate>2026/11/26 15:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5364a9d49462d4ecac406a04e032ff1c1d225de/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F488%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>GitHub - alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.</title>
+      <link>https://github.com/alesha-pro/llm.asm</link>
+      <pubDate>2026/11/26 12:47</pubDate>
+      <description>テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。 PenGPT: A Generative Transformer for Handwriting and Sketches https://greydanus.github.io/2026/11/12/pengpt/ PenGPTは1255人の筆者による49万5590語の手書きデータおよび10の公開データセットから抽出した47万7670点のスケッチをスキャンすることでトレーニングされています。各学習シーケンスには、1人の書き手による最大4つの単語が含まれているため、モデルは後の単語が前の単語に似ていることを学習し、一貫性のある手書き文字を生成できます。 PenGPTはグレイダナス氏が公開しているウェブページから試すことができます。ページにアクセスしたら、ま</description>
+    </item>
+    <item>
+      <title>日本ファクトチェックセンターが誤情報を掲載、AI（NotebookLM）が抽出した発言を確認せず掲載</title>
+      <link>https://japan.cnet.com/article/35255447/</link>
+      <pubDate>2026/11/26 15:42</pubDate>
+      <description>オーストラリア議会が「デジタル注意義務法(Digital Duty of Care Act)」を可決しました。ネット上で被害を受けた場合、これまで個人が対応するのは難しく行政による執行を待つことになっていましたが、デジタル注意義務法は個人が直接訴える権利を認めるもので、被害を受けた人はサービス運営企業をオーストラリアの裁判所に直接訴えることが可能になります。違反が認められた際の制裁金は最大で全世界売上高の5％となっています。 Digital duty of care: Australians will be able to sue big tech platforms for online harm - The University of Sydney https://www.sydney.edu.au/news-opinion/news/2026/11/25/digital-duty-o</description>
+    </item>
+    <item>
+      <title>旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/26/news033.html</link>
+      <pubDate>2026/11/26 12:15</pubDate>
+      <description>こんにちは。Assuredクラウド評価事業部でエンジニアリングマネージャーを務めている田所です。 この記事では、2026年11月26日に私がアーキテクチャカンファレンス2026に登壇させていただいた内容をご紹介します。 アーキテクチャカンファレンスとは、ソフトウェアアーキテクチャについての技術カンファレンスです。 今年は「事業を継続し進化するアーキテクチャの意思決定・技術・組織」をテーマに、各スピーカーの知見や事例の共有が行われました。 私はそこで、AIが書いたコードを人がどう理解し続けるかという話題を中心に発表しました。 AIが書いたPRを、自分の言葉で説明できますかまず最初に、二つ質問をさせてください。 一つ目は「みなさまはこの一か月で、AIが書いたPRを承認したことはありますか」。 多くの方が、あると答えるのではないでしょうか。 では、二つ目は「そのPRがなぜその設計になっているかを</description>
+    </item>
+    <item>
+      <title>CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる</title>
+      <link>https://anond.hatelabo.jp/20261126144022</link>
+      <pubDate>2026/11/26 14:40</pubDate>
+      <description>マークダウンエディタ「Obsidian」の開発チームは11月26日（日本時間）、エージェント向けの「コネクタ」機能を発表した。Obsidianの「Vault」（ファイル保管庫の単位）内の操作方法やWebページからマークダウン形式のテキストを抽出する方法、ファイル形式などをエージェントに指示するスキル集としてオープンソースで公開されている。 このスキル集を使うことで、米OpenAIの「ChatGPT」や「dots」、米Anthropicの「Claude」、米Googleの「Google Antigravity」、米SpaceXAIの「Grok Bot」、米Metaの「Muse」など「あらゆるAIエージェントにObisidianを接続できる」と開発チームは説明している。 これらのスキルを使用するには「Obsidian CLI」が有効になっているObisidianデスクトップアプリが必要になる。</description>
+    </item>
+    <item>
+      <title>Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003479/</link>
+      <pubDate>2026/11/26 13:45</pubDate>
+      <description>GoogleはオープンウェイトモデルのGemma 4シリーズを公開しており、誰でも無料でダウンロードしてローカルで実行したりファインチューニングを実行したりできます。新たに、Gemma 4シリーズのファインチューニング関連情報をまとめたページが公開されました。 Fine-tune Gemma 4 models - Gemma Docs https://gemma.ai/tuning/ Want to fine-tune Gemma 4 on your own data, audio, receipts, or reasoning tasks? Our new fine-tuning hub is live on https://t.co/4O19qNkIke: 17 guides and 40+ illustrations covering the entire training pipe</description>
+    </item>
+    <item>
+      <title>GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003460/</link>
+      <pubDate>2026/11/26 12:22</pubDate>
+      <description>Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 google-research/cogentic_research_papers at master · google-research/google-research · GitHub https://github.com/google-research/google-research/tree/master/cogentic_research_papers Google&amp;#39;s Cogentic AI Releases Six Math Papers In One Day, Including A Proven Fast Algorithm For</description>
+    </item>
+    <item>
+      <title>ソフトバンクG、時価総額35兆円喪失　AI株安が「三重苦」に - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB256GF0V21C26A1000000/</link>
+      <pubDate>2026/11/26 07:21</pubDate>
+      <description>米Anthropicのダリオ・アモデイCEOは11月25日（現地時間）、Xに長文を投稿し、米Axiosの報道に反論した。この報道は、超知能AIに人間の意思決定権の一部を委ねるべきだと同氏が考えているとするものだった。アモデイ氏は「人間の自由意志をAIシステムに明け渡すべきだとは考えていない。私がそう考えているという主張はばかげている」と述べた。 AIの能力が人間を大幅に上回る「超知能」（superintelligence）の実現を見据え、AI業界では、人間が社会の意思決定の主体であり続けるためにはどうすべきかという議論が活発になっている。 米OpenAIで戦略的未来構想を担当するディーン・ボール氏は18日、「The Silent Consensus」（暗黙の合意）と題する論考を公開した。AIが人間よりも効率的に企業経営や研究開発を行えるようになれば、人間は市場競争の論理に従って次々と意思決</description>
+    </item>
+    <item>
+      <title>日本人の“相づちと間”を再現した会話AI「Haru-4B」を国内ベンチャーが無償公開。Sidon活用。電話で会話できる（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/26/5819.html</link>
+      <pubDate>2026/11/26 09:31</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c0fd97cdac06b758552a7c404ce447601d16a76b/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2158%2F896%2FMW_gfp8_04_01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン</title>
+      <link>https://bunshun.jp/articles/-/93682</link>
+      <pubDate>2026/11/26 10:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/81b76e86951f55f02a7a81245c1f69cd89d3ff89/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2158%2F342%2F04.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ | ギズモード・ジャパン</title>
+      <link>https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</link>
+      <pubDate>2026/11/26 05:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2c942bc845a91aa19573ac5c28796b3ae9dc7a07/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F364%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003468/</link>
+      <pubDate>2026/11/26 09:44</pubDate>
+      <description>AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9月にサービスを停止することなくRust版へ移行。リクエスト当たりのCPU使用量を約70％削減することに成功しています。 Migrating our Messages API to Rust \ Anthropic https://www.anthropic.com/research/migrating-api-to-rust Anthropicが2023年に開発したMessages APIは外部の開発者だけでなくClaude CodeなどのAnthropic自身のサービスでも利用されています。開発当初はリクエストをAIモデルに渡して応答を返すというシンプ</description>
+    </item>
+    <item>
+      <title>自分用の PaaS アプリを作った - tricknotesのぼうけんのしょ</title>
+      <link>https://tricknotes.hateblo.jp/entry/2026/11/26/000000</link>
+      <pubDate>2026/11/26 10:32</pubDate>
+      <description>株式会社アンドパッド フェロー 柴田 博志 2022年11月に株式会社アンドパッドに入社。Rubyコミッタ、RubyGemsとBundlerのリードメンテナ。Rakeやruby-buildなど多数のOSSのメンテナ、ruby-lang.orgのroot管理者として、プログラミング言語Rubyの開発を支える基盤を統括している。Rubyの開発をフルタイムの業務として担当。 @hsbt AIが作業の多くを引き受けるようになって、悲しいことに、仕事で一番遅い工程は私の判断を待つ時間になりました。RubyのCIで落ちたジョブの調査は、ログを読んで怪しいコミットの範囲を出すところまでAIが済ませます。そこから先、直すのか様子を見るのかを私が決めるまで、AIは待っているだけです。 ゴールドラットが『ザ・ゴール』で示した制約理論では、ボトルネックを1つ解消すると、次に遅い工程が新たなボトルネックになります</description>
+    </item>
+    <item>
+      <title>脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003446/</link>
+      <pubDate>2026/11/26 10:09</pubDate>
+      <description>日本語 | English キャラクターの絵を、ブラウザで動かす 2D アバターです。絵 1 枚から、自分のキャラクターのモデルも作れます。 A 2D avatar that runs in your browser, with tools to build your own model from one character picture. パーツに分けた絵を WebGL2 でメッシュ変形して、顔の向き・視線・まばたき・表情・口・髪と飾りの揺れを、毎フレーム描きます。専用のモデリングソフトは要りません。動かすのに要るのは、Python とブラウザだけです。 同梱の「クラゲちゃん」と「チワちゃん」のうち、チワちゃんは、キャラクターの絵 1 枚から、このリポジトリの道具と手順で、最後まで通して作ったモデルです。 ▶ ブラウザで試す: https://rotejin.github.io/Kes</description>
+    </item>
+    <item>
+      <title>MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev</title>
+      <link>https://dev.sin5d.com/meta-muse-usage</link>
+      <pubDate>2026/11/26 07:53</pubDate>
+      <description>The ext-skills repository contains the published specification for the official Skills extension (io.modelcontextprotocol/skills). SEP-2640 is Final. The Skills Over MCP Working Group maintains the extension. SDK and host support is still being implemented; see the client support matrix and implementations list for current coverage. The Skills extension allows MCP servers to expose workflow instru</description>
+    </item>
+    <item>
+      <title>Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗</title>
+      <link>https://zenn.dev/canly/articles/40e773759da8f8</link>
+      <pubDate>2026/11/24 20:37</pubDate>
+      <description>連載目次 2026年、「ソフトウェアファクトリー（Software Factory）」という言葉を、AIによるソフトウェア開発の文脈で見掛けるようになった。OpenAIやUberに加え、国内ではfreeeも取り組みを公開した。6月末のAI Engineer World’s Fair（米国サンフランシスコで毎年開かれるAI開発者向けカンファレンス）では、同名の講演トラックも設けられた。 各社に共通するのは、開発者がAIエージェントに作業を一つずつ頼んで結果を確認する使い方ではなく、仕事の割り当てから実装、検証までを一連の工程としてつなぎ、人が見ていなくても回る仕組みにする発想だ。工場が作るのは、アプリ丸ごとというより、機能追加や不具合修正といった「変更」である。 よく引かれる定義を示したのが、Googleでの開発者向け活動で知られ、現在はAnthropicでClaude Codeに携わるアデ</description>
+    </item>
+    <item>
+      <title>AI導入事例の多くはコスト削減ではなく生産性の向上と加速によって価値を生み出しており、AIで構築されたアプリ100件のうち80％が手作業を自動化していることがAnthropicのレポートで明らかに</title>
+      <link>https://gigazine.net/news/20261125-anthropic-working-with-ai/</link>
+      <pubDate>2026/11/25 14:39</pubDate>
+      <description>防衛省は年内に予定する安全保障関連3文書の改定に合わせ、自衛官の定数を削減する検討に入った。部隊編成の基本となる定数を実際の自衛官の数に近づけることで運用の効率を高める。司令機能は人工知能（AI）を導入し必要な人手を減らす。自衛官の定数は防衛省設置法で24万7154人と定める。実際は21万8000人弱にとどまる。1割が欠員状態だ。防衛省は3文書の中で定数を減らす方針を明記し充足率を高める。陸上</description>
+    </item>
+    <item>
+      <title>Uber陣営の6人乗り高級ロボタクシー、無人での公道試験を開始</title>
+      <link>https://japan.cnet.com/article/35255367/</link>
+      <pubDate>2026/11/25 11:21</pubDate>
+      <description>スピーカー紹介 William Zhang AI GTM Lead | GitHub Copilot プロフィール カナダでソフトウェアエンジニアとしてキャリアを開始。現在は GitHub の AI GTM Lead として APAC の GitHub Copilot 導入を推進し、企業の開発生産性向上と AI を活用する開発文化の醸成を支援しています。 主な活動 [email protected] @moulongzhang /in/moulongzhang GitHub ウェビナーやハンズオンワークショップの企画・登壇 仕事以外では 韓国語を学習中 /moulongzhang LinkedIn 技術の理解から、現場での実践へ。 slide expiration _ END OF JULY 2025 Agenda 本日の流れ CHANGES IN 2026 01 GitHub を取り巻く</description>
+    </item>
+    <item>
+      <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
+      <link>https://zenn.dev/codehex/articles/33bc6ee330b880</link>
+      <pubDate>2026/11/25 15:40</pubDate>
+      <description>最近、新興のターミナルをよく見かけます。libghostty（ターミナル関係のライブラリ）が出てしばらく経ち、AIを使ってすぐ作れるからだと思います。 御多分に漏れず筆者も自作して使い続け、かれこれ2か月ぐらい経ちました。 というわけで、「最近ターミナル増えているけどどれ使おうかなぁ」と悩んでる人に、「自分で作ってみるのも楽しいかも？」と新たな 悩みのタネ 選択肢を増やせたらなぁと思いこの記事は書いてます。 人によって重視するものや日々のワークフローは違うので 人によって最適なターミナル は異なると思います。あとこの記事は「自作するなんて面倒！」という意見を否定するものではありません（というかそれはそう）。 ## libghosttyがあればねGhosttyのエンジン的な存在であるlibghosttyを使えば、自作ターミナルが作れます。 エスケープシーケンスや画面状態の管理など、 面倒なと</description>
+    </item>
+    <item>
+      <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+      <link>https://zenn.dev/henteko/articles/ed8d1458246d7a</link>
+      <pubDate>2026/11/25 17:07</pubDate>
+      <description>25日の東京株式市場で日経平均株価は大幅に反落し、終値は前日比1633円01銭（2.78%）安の5万7011円62銭だった。下げ幅は一時2100円を超えた。前日の米ハイテク株安を受け、人工知能（AI）・半導体株が再び売られた。巨額のAI投資を巡る持続可能性などへの懸念は晴れず、市場ではフジクラをはじめ最高値からの下落率が7割を超えた銘柄が続出した。米エヌビディア最高経営責任者（CEO）へのジ</description>
+    </item>
+    <item>
+      <title>Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った</title>
+      <link>https://zenn.dev/nexta_/articles/a3ff76a9f98f1c</link>
+      <pubDate>2026/11/25 02:54</pubDate>
+      <description>AIエージェントをテストする際は、外部から隔離された「サンドボックス」という環境で稼働させることがあります。しかし、OpenAIのAIエージェントがHugging Faceをハッキングしてしまった件のように、サンドボックス自体に欠陥がありAIエージェントが密かに抜け出してしまう例も少なくありません。こうした欠陥のある状況でAIエージェントがどう行動するかを評価する手法「Siren」をAnthropicが考案し、その仕組みを解説しました。 Measuring and mitigating agent sandbox escape with Siren https://safeguards.anthropic.com/2026/siren/ Anthropicによると、過去にAIエージェントがサンドボックスから脱出する事例を調べたところ、共通して「サンドボックスの外側にある何かがタスクの完了に</description>
+    </item>
+    <item>
+      <title>EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
+      <link>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</link>
+      <pubDate>2026/11/25 14:26</pubDate>
+      <description>技術情報の収集手段は、検索エンジンや動画、SNS（ソーシャルネットワーキングサービス）など多様化している。“チャッピー”の愛称で呼ばれるOpenAIの「ChatGPT」など、生成AIへの質問も情報収集の手段として広く使われるようになった。一方で情報源が多様化するほど、どの情報源で何を追うかを判断する手間も増える。こうした中、エンジニアの間で“情報収集疲れ”が広がっている。 ITキャリア支援を手掛けるキッカケクリエイションは2026年6月、技術情報を週1回以上収集するエンジニア323人を対象に「ITエンジニアの情報収集疲れに関する実態調査」を実施し、その結果を同年10月21日に公表した。3年前と比べて情報源の数が増えたとの回答は75.9％に上り、情報源の多様化によって技術情報の収集に負担を感じることがあるとの回答も76.1％に達した。 ChatGPTでも及ばない、エンジニアが頼る情報源は？</description>
+    </item>
+    <item>
+      <title>アンソロピック株一時14%安、公開価格下回る　収益化や債務懸念が重荷 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN2301I0T21C26A1000000/</link>
+      <pubDate>2026/11/25 08:19</pubDate>
+      <description>この文章は、Claudeを用いてリーマン予想を証明したという発表がなされる前に書き始めたものです。もうすこし時間をかけてから完成させ公開する予定でしたが、このニュースが世の中に与える影響を考えると、なるべく早く公開しておくことに意味があると考え、少し急いで書き上げました。したがって、多少、荒削りのところもあるかもしれません。どうか温かい目で見ていただければと思います。 仮にリーマン予想をAIが解決したのだとすれば、私個人は、それは非常に興味深く学術的に価値あることだと思いますし、率直に言って興奮します。しかしながら、それは下記に述べる「自明化の芸術としての数学（Mathematics as the Art of Trivialization）」という数学という営みの重要な目的（のひとつ）に向けた、出発点に過ぎません。 ＊＊＊ この文章では、数学は何を目的とするどのような営みなのか（あるいは</description>
+    </item>
+    <item>
+      <title>Claude Code の /ship を図解する</title>
+      <link>https://zenn.dev/peoplex_blog/articles/claude-code-ship</link>
+      <pubDate>2026/11/25 03:03</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a8ba3b4f96700afe3bc8bb9fcfb6a40f8610c5e1/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2158%2F884%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
   </channel>
 </rss>
