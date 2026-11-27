@@ -278583,5 +278583,149 @@ June 6, 2026</description>
       <pubDate>2026/11/26 14:32</pubDate>
       <description>生成AIがホテルの検索から予約、決済まで自律的にこなす「AIエージェント」の利用に注目が集まる今、旅行会社の存在意義が根本から問われている。 円安や燃油高で日本人の海外旅行がコロナ禍前の水準に戻りきらない中、価格競争や団体ツアーの時代は終わり、一人一人の好みに合わせた高付加価値な旅が求められている。 消費者は情報収集でAIを活用している。しかし、AIは当然ながら「おいしい」という感覚を持たず、顧客の言葉の裏にある本音までは読み取れない。そんなAIに、旅の全てを任せることはできるのか？ 旅行博「ツーリズムEXPOジャパン」で日本旅行業協会（JATA）が主催したシンポジウムでは、旅行業界におけるAIに奪われる業務と、人間にしか生み出せない価値の境界線について語った。 AIをテーマとした海外旅行シンポジウム「ツーリズムEXPOジャパン」に合わせて開催された日本旅行業協会（JATA）主催のパネルデ</description>
     </item>
+    <item>
+      <title>【資料公開】コードを書くAI、アーキテクチャーを決める組織</title>
+      <link>https://www.ryuzee.com/contents/blog/14629</link>
+      <pubDate>2026/11/27 20:42</pubDate>
+      <description>公開者によればLeanのコードと付属文書を書いたのはClaude。旧版の証明方法を踏襲しながら多くの中間段階で異なる証明を採用している。コードの整理に加えて数学的な論証そのものにも手が入った。 両版が証明するのは従来版と一致する5つの数学的命題。リーマンゼータ関数の自明でない零点（関数の値が0になる点）の実部が1/2に等しいというリーマン予想に加え、ディリクレL関数に関する一般化リーマン予想も含まれる。 証明の正しさをどう確かめたか旧版は既に複数の独立した検証を通過している。今回は書き直された証明について改めて数学的命題の一致と論理的な正しさが検査された。 米マサチューセッツ工科大学（MIT）の数学者アンドリュー・サザーランド（Andrew Sutherland）氏は両版の独立検証結果を公開した。Lean 4.35.0と数学ライブラリーのMathlibを使い、可読性重視版の803モジュール</description>
+    </item>
+    <item>
+      <title>サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録</title>
+      <link>https://gigazine.net/news/20261127-payphone-on-pacific-island/</link>
+      <pubDate>2026/11/27 15:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aeab3d146812e94b079259f8d382c920a92ee26c/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2159%2F777%2Fdotnet.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く</title>
+      <link>https://gigazine.net/news/20261127-talkie-ai-chat-app/</link>
+      <pubDate>2026/11/27 15:05</pubDate>
+      <description>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2. 何を見せるか：コンテキスト設計 指示を書き足すほど効きにくくなる理由 入口は「地図」に留め、手順と詳細はあとから読む コマンドの長い出力を会話に入れない コメントの中身を、あるべき場所へ移す 推測の代わりに一次ソースへ届かせる 3. どう逸脱を止めるか：決定論的ガードレール 文章の約束と、機械で止める仕組みの違い 操作の前後で介入する（フックによる遮断と即時フィードバック） 検査と Git フックをひとつの定義にまとめる モジュール境界を依存解析で守る ツー</description>
+    </item>
+    <item>
+      <title>Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog</title>
+      <link>https://tech.kickflow.co.jp/entry/2026/11/27/154920</link>
+      <pubDate>2026/11/27 16:33</pubDate>
+      <description>2027-11-26 に開催したイベント、「ISUCON2026 優勝AIエージェント、8時間分の生ログを眺める会 sponsored by HERP」で投影した資料です。 ステートマシン・レプリケーションという手法を紹介し、AIエージェントがin-memory化のために書いたコードの設計を解説し…</description>
+    </item>
+    <item>
+      <title>『Slay the Spire 2』のアセンション10に“80％勝てるAI”は、エリートにカチこみしっかり休む。それと毒デッキをやけに擦る。なぜ？弱みはどこ？研究者に訊いた - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/interviewsjp/20261127-481245/</link>
+      <pubDate>2026/11/27 10:17</pubDate>
+      <description>AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。 AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI Review - Phoronix https://www.phoronix.com/review/amd-epyc-9006-7601 Zen 1世代EPYCプロセッサ「Naples」は2017年6月に出荷開始。そしてZen 6世代のEPYC 9006「Venice」SP7プロセッサは2026年11月に出荷開始されました。</description>
+    </item>
+    <item>
+      <title>破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
+      <link>https://gigazine.net/news/20261127-character-ai-asset-sale/</link>
+      <pubDate>2026/11/27 11:45</pubDate>
+      <description>はじめに Rustは、C言語やC++が抱えるメモリ安全性の問題の多くを、所有権や借用といった言語仕様によって防止することを特徴とするプログラミング言語です。ガベージコレクションを必要とせず、実行性能を維持しながらメモリ安全性を確保できることから、OSや組み込みソフトウェアの開発において、C言語に代わる存在として期待されてきました。 しかし、生成AIの登場によって、プログラミング言語の評価基準そのものが変化しています。従来は言語仕様によって解決することに大きな価値があった問題を、AIによる実装支援や検証によって低コストで解決できるようになったためです。 さらに、現在もC言語が使われている領域の特性、標準ライブラリへの依存度の低さ、既存のソフトウェア資産や開発環境の成熟度まで考慮すると、成熟したC言語の開発環境が利用できる領域においてRustを選ぶ合理性は、AIの登場によってむしろ低下する方向</description>
+    </item>
+    <item>
+      <title>日本のものづくり、AIでカイゼンを　現場に眠る「暗黙知」は宝の山 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCD05B430V01C26A1000000/</link>
+      <pubDate>2026/11/27 09:05</pubDate>
+      <description>ごーとんカップとは なぜ今年は AI 禁止にしたのか 出した問題の紹介 GitHub Actions のシークレット問題 WAF ログ × プロンプトインジェクション問題 その他 当日の様子 結果 参加者の声 終わったあとに起きたこと 最後に カミナシでセキュリティエンジニアをしているいちび (@itiB_S144) です。 みなさん、最後に AI なしでコードやコマンドを書いたのはいつでしょうか。ここ数年の AI ツールの成長は凄まじく、もうなくてはならないものとなりました。 そんな AI に浸かりきった社内メンバーに活を入れるべく、AI デトックスをする 3 時間半を企画しました。カミナシのエンジニア向けセキュリティ競技会「ごーとんカップ 2026」です。毎年開催しており、今年で 4 回目の開催になります。 過去の開催の様子はこちらの記事で紹介しています。 2023: カミナシのセキュ</description>
+    </item>
+    <item>
+      <title>「人間に指示を出すより楽」生成AIを“パシリにして”25歳で年収2000万円、Geminiの勧めでタイに移住…若き女性経営者が“従業員を雇わないワケ” | 文春オンライン</title>
+      <link>https://bunshun.jp/articles/-/93683</link>
+      <pubDate>2026/11/26 11:40</pubDate>
+      <description>Fine-tuning large language models (LLMs) for downstream tasks is an essential stage of modern AI deployment. Reinforcement learning (RL) has emerged as the dominant fine-tuning paradigm, underpinning many state-of-the-art LLMs. In contrast, evolution strategies (ES) has largely been overlooked due to the widespread belief that it does not scale to modern model sizes. This paper overturns this assu</description>
+    </item>
+    <item>
+      <title>Claude Artifact</title>
+      <link>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</link>
+      <pubDate>2026/11/26 22:47</pubDate>
+      <description>sponsored AI時代の個人PCのセキュリティ、どうしたらいい？ にズバリ答える sponsored LiberNovo「Omni Pro」「Omni Gen」「Omni SE」 LiberNovoの次世代ワークチェア、自分はどれを選ぶのが正解なのかを徹底解説 sponsored ブラックフライデーでUGREEN製品をお得にゲットしよう！ sponsored 「ベンダー丸投げ」でも成功する条件とは？ 元旦ビューティ工業の情シスさんに聞く 守りのIT管理者から「変化のトリガー」への進化 ― 現場の情シスさんが模索するこれからの役割 sponsored MSI「Prestige 14 Flip AI+ Vincent van Gogh Edition」レビュー ゴッホの名画「星月夜」「ローヌ川の星月夜」を質感まで再現した14型2in1ノートパソコン。GPU強化でベース機＋2万円は本当に買</description>
+    </item>
+    <item>
+      <title>女の子キャラ振り向き系dreamcoreについて - nomolkのブログ</title>
+      <link>https://nomolk.hatenablog.com/entry/2026/11/27/013158</link>
+      <pubDate>2026/11/27 02:22</pubDate>
+      <description>2029-11-26 に開催された『アーキテクチャカンファレンス 2026』での登壇資料です。 https://conference.findy-code.io/conferences/architecture-con-2026/40/sessions/862</description>
+    </item>
+    <item>
+      <title>国立大学図書館協会シンポジウム「大学図書館×AI ～大学図書館はAI for Scienceとどのように関わるか～」開催のご案内 | 国立大学図書館協会</title>
+      <link>https://www.janul.jp/ja/news/20261124</link>
+      <pubDate>2026/11/26 18:39</pubDate>
+      <description>Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it yourself.</description>
+    </item>
+    <item>
+      <title>パンフレットを「Gemini Notebook」に取り込んで旅行計画を練る！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/homewifi/2158748.html</link>
+      <pubDate>2026/11/26 07:36</pubDate>
+      <description>2026/11/26 NIKKEI Tech Talk #51「デザインと開発を、もっと近くに〜チームで育てるUX/UI〜」で話したスライドです。 https://nikkei.connpass.com/event/412181/ ■テーマ ・AIで開発が速くなり、良し悪しの判断がデザイナーに…</description>
+    </item>
+    <item>
+      <title>AIとアーカイブ録音で故サッカー解説者ジョン・モトソンを「EA SPORTS FC」で蘇らせる、家族の許可あり</title>
+      <link>https://gigazine.net/news/20261126-ai-john-motson/</link>
+      <pubDate>2026/11/26 16:32</pubDate>
+      <description>OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 The Matrix Multiplication Exponent Is Nine Fourths | alphaXiv https://www.alphaxiv.org/abs/2611.matrix-multiplication-exponent-lower-bound As part of the October 6 release we had a particularly clean advance on the matrix multiplicatio</description>
+    </item>
+    <item>
+      <title>llm.asm/02-baremetal-os at main · alesha-pro/llm.asm</title>
+      <link>https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</link>
+      <pubDate>2026/11/26 12:48</pubDate>
+      <description>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skills, run tasks, and more with Claude | Claude MCP turns two! What started as a protocol for connecting AI apps to tools and data is evolving to standardize how agents communicate and orch</description>
+    </item>
+    <item>
+      <title>ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告</title>
+      <link>https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/</link>
+      <pubDate>2026/11/26 22:05</pubDate>
+      <description>「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/ 1つ前のスライドも…</description>
+    </item>
+    <item>
+      <title>HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT</title>
+      <link>https://scottaaronson.blog/?p=10379</link>
+      <pubDate>2026/11/26 09:33</pubDate>
+      <description>よくある失敗パターン 実装した機能にバグが見つかったが、処理の流れを理解しておらず、どこから調べればいいか見当がつかなかった コードレビューで「ここの処理はなぜ必要なの？」と聞かれ「AIが生成したコードなので…」としか答えられなかった 仕様変更の工数を聞かれたとき、どこをどれだけ変えればいいか見当もつかず、自分で実装したはずなのにコードを調べ直すことになった これらは、「⁠動いた」という結果だけで思考を止めてしまった典型的な例です。とりあえず動くだけのコードを積み上げ続けると、将来的に誰も変更できず、保守もできない「ブラックボックス」が生まれてしまいます。そうした「理解の負債」が蓄積すると、プロジェクト全体の生産性も下がっていきます。 ただし、常にすべてのコードに対して、自分の言葉で説明できるまで深掘りする必要はありません。納期が迫っているときや、緊急対応が必要なとき、あるいは一度だけ使う</description>
+    </item>
+    <item>
+      <title>AIで“見たことない面白い”ゲームはどうしたら作れるか ～清水亮氏の「AIゲームセンター」構想が実際に遊べる形になった！【AIフェスティバル 2026】／自分のひと言でゲームの世界そのものが変わるシューティングをはじめ、5作品と「未来のプリクラ」を体験【特集・集中企画】</title>
+      <link>https://forest.watch.impress.co.jp/docs/special/2159141.html</link>
+      <pubDate>2026/11/26 13:41</pubDate>
+      <description>AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 Exclusive: Meta and Amazon discuss ending Muse blockade; ads, search emerge as key issues | Fortune https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/ Amazonは、Museが認証情報を取得・保存しているように見えること、注文履歴などのアカウント情報にもアクセスできることから、プライバシ</description>
+    </item>
+    <item>
+      <title>ブラックフライデーでGoogle AIサブスク半額、Pro月額より年2万円お得。YouTubeプレミアムLiteやGoogle Health特典も | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/11/25/5816.html</link>
+      <pubDate>2026/11/26 07:45</pubDate>
+      <description>KINCHO 大日本除虫菊株式会社【公式】 @KINCHO_jp 本社受付に鎮座する「蚊」の写真にAI疑惑があることから、疑惑を晴らすべく、大きさ比較のためキンチョール（防除用医薬部外品）を口吻のあたりに置いて撮影してみましたが、あまり意味がない気がしています。 この巨大な鉄のオブジェは、金属彫刻家の内山翔二郎さん（@UchiyamaShojiro）の作品です。 pic.x.com/iZ03pn17B6 2026-11-19 10:14:35</description>
+    </item>
+    <item>
+      <title>Introducing Search for Agents</title>
+      <link>https://blog.cloudflare.com/search-for-agents/</link>
+      <pubDate>2026/11/26 12:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf5314466a761b207525c916be4b42f45875aab/backend=imagemagick;height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2159%2F567%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI時代、Rubyのメンテナは何を判断するのか？ 判断を毎回やり直さない「ルール化」の思考法 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_962/</link>
+      <pubDate>2026/11/26 09:59</pubDate>
+      <description>maiya🕊️ @mhutam03 AIをできるだけ使わないようにと指導されているはずの小学校で、今学期になってから毎日AI生成された気持ち悪い歌が放送されていてクラスのみんなが嫌がってると娘が言うので、生徒会でそれ止めるように提言しなよと言ったところ、先生に直接話してきたらしい娘が 2026-11-25 12:48:21 maiya🕊️ @mhutam03 You don’t have to listen. Just plug your ears. と言われたらしい。 連休明けたら殴り込みに行く。 2026-11-25 12:48:22</description>
+    </item>
+    <item>
+      <title>【Mac Info】 macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html</link>
+      <pubDate>2026/11/26 09:38</pubDate>
+      <description>米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。 脆弱性の発見数が急増 Microsoftが11月の月例更新プログラムで修正した脆弱性は計1093件に上る。うち63件が、深刻度の最も高い「緊急」の分類だった。Outlookのなりすましの脆弱性（深刻度「警告」）は、更新プログラムが公開された時点で悪用が確認されていた。 米セキュリティニュースサイトのKrebs On Securityによると、Microsoftが26年に入って修正した脆弱性は、これで5100件を突破した。1年前の平均が月に平均100件前後だったこ</description>
+    </item>
+    <item>
+      <title>GitHub - rotejin/Keshin2D: キャラクターの絵をブラウザで動かす 2D アバター。絵 1 枚から、自分のキャラクターのモデルも作れます</title>
+      <link>https://github.com/rotejin/Keshin2D</link>
+      <pubDate>2026/11/25 23:40</pubDate>
+      <description>今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたいと思ったときは、LLMプロバイダが直接出しているAPIの方が使い勝手がいい。最新モデルをすぐ試せるし、ドキュメントもSDKも本家がいちばん早い。逆にBedrock経由にすると、AWSアカウントが要る、IAMの権限設計が要る、と手間が増える。僕はアプリケーション開発の文脈でIAM認証を使うのがあまり好きじゃなくて、たしかAuroraにも同じような機能があったと思うんだけど、アプリケーション側がAWSに寄っていく感じがどうも苦手だ。 とはいえ、これはちゃんと比較した結果というよ</description>
+    </item>
+    <item>
+      <title>現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html</link>
+      <pubDate>2026/11/25 07:19</pubDate>
+      <description>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供 AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、AIエージェントはMCP経由でMCPサーバからつねに最新のスキルを取得できるようになります。また、必要なときだけスキルを読み込めるためコンテキストの節約にもなります。 下図はMCPの開発を主導するAnthropicのブログ「MCP servers can now ship skills, run tasks, and more with Claude」からの引用です。 AIエージェントと外部ツールをつなぐMCP MCPはAIエージェントと外部ツ</description>
+    </item>
   </channel>
 </rss>
