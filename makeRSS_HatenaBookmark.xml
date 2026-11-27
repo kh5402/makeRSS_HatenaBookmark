@@ -278331,5 +278331,125 @@ June 6, 2026</description>
       <pubDate>2026/11/25 12:12</pubDate>
       <description>世界の半導体産業は、AIデータセンターへの巨額投資によって歴史的な好況に沸いている。そのAIデータセンターは、半導体を際限なく吸い込む「ブラックホール」と化した。その結果、民生用メモリは後回しにされ、DRAMとNANDフラッシュメモリ（以下、NAND）が極端に不足し、価格が高騰している（図1）。WSTS（世界半導体市場統計）は、2026年のメモリ市場が前年比約250％増になると予測している。しかし、空前の好況に沸く半導体産業に、11月に入って3つの衝撃が相次いだ。 1つ目は、2026年11月3日の米中間選挙でトランプ大統領率いる共和党が大敗し、米国内でデータセンター建設に対する規制が強まる公算が大きくなったことである。2つ目は、NVIDIAを創業以来率いてきたジェンスン・ファン（Jensen Huang）氏が、私生活上の不祥事をめぐる混乱の中で社長兼CEOを辞任し、わずか11日後に電撃復帰</description>
     </item>
+    <item>
+      <title>AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000</link>
+      <pubDate>2026/11/27 12:54</pubDate>
+      <description>フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「ファルコンヘビー」が打ち上げられる様子＝2024年6月25日/Miguel J. Rodriguez Carrillo/AFP/Getty Images （CNN） 米連邦通信委員会（FCC）は、イーロン・マスク氏率いる米宇宙企業スペースXに対し、人工知能（AI）を支えるデータセンターを構築するため、宇宙空間に100万基の衛星を配備することを承認した。 今回の決定は、イノベーション（技術革新）と経済成長を加速させると期待されるAI分野で、米国が世界の主導権を握ろうと競争する中で下された。AIの活用はスペースXの成長戦略の中核でもある。だが同社は6月の新規株式公開（IPO）に先立ち規制当局に提出した文書で、宇宙へのデータセンター設置は「実証されていない」技術に依存しており、「商業的に成り立たない可能性が</description>
+    </item>
+    <item>
+      <title>AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ</title>
+      <link>https://speakerdeck.com/littlehands/umtp-suraido-20261125</link>
+      <pubDate>2026/11/27 08:54</pubDate>
+      <description>さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供するマネージドサービス「さくらのAI Engine」を提供しています。 さくらのAI Engineは従量課金制なのに対し、今回発表された「シンプルAI」は月額固定料金での提供です。 シンプルAIはシステムやサービスにAIを組み込むことをユースケースとして想定していると、同社プロダクト統括担当 田籠聡氏は次のように説明しました。 「シンプルAIは月額課金でお使いいただけるサービスで、システム組み込み用途を中心としています。 AIモデルの提供では、AIモデルが変わって応</description>
+    </item>
+    <item>
+      <title>GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era</title>
+      <link>https://github.com/datadog-labs/ephyra</link>
+      <pubDate>2026/11/27 06:56</pubDate>
+      <description>はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発表されました。 MCP servers can now ship skills, run tasks, and more with Claude Skills over MCP is in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now generally available, and File Uploads is rolling out soon. claude.com いくつか新しい機能が出ているのですが、中でも「Skills over MCP」がかなりよさそうだったので、今回はそれについてのお話です。 今回のアップデートの中身 ま</description>
+    </item>
+    <item>
+      <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX</title>
+      <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
+      <pubDate>2026/11/27 04:56</pubDate>
+      <description>Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it yourself.</description>
+    </item>
+    <item>
+      <title>「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜</title>
+      <link>https://speakerdeck.com/tatsuroro/20261126-nikkei-teck-talk-51-design</link>
+      <pubDate>2026/11/26 22:23</pubDate>
+      <description>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skills, run tasks, and more with Claude | Claude MCP turns two! What started as a protocol for connecting AI apps to tools and data is evolving to standardize how agents communicate and orch</description>
+    </item>
+    <item>
+      <title>AIコーディングで人月モデル崩壊――AI駆動開発「Devin」に見る、本当の“AIの生産性”計測法</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news012.html</link>
+      <pubDate>2026/11/26 11:14</pubDate>
+      <description>こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！ 皆さんは AWS のセキュリティ運用にセキュリティ成熟度モデルを使用していますか？ AWS 環境のセキュリティ運用で「次に何をやるか」を決めるとき、AWS セキュリティ成熟度モデル（AWS Security Maturity Model）を指針として使うケースが多くありました。これまでは v2 が主流で、v2 への更新はクラスメソッドさんの記事で紹介されています。 今回サイトを確認してみると、v3 の「AWS Cloud Security Maturity Model」が公開されていました。さらに「PCI DSS Security Maturity Model」と「AI Security Maturity Model」という 2 つのエディションも増えていました。アセスメント</description>
+    </item>
+    <item>
+      <title>初調査の「性的いじめ」8000件超　AI悪用のディープフェイク背景、全国の学校で</title>
+      <link>https://www.sankei.com/article/20261126-BLDMVFSIK5NHVFJGMUO7X7Y4IQ/?outputType=asynd</link>
+      <pubDate>2026/11/26 20:38</pubDate>
+      <description>米ニューヨーク州のキャシー・ホークル知事は11月24日（現地時間）、AIチャットボットを搭載したおもちゃの製造、流通、販売を州内で5年間停止する法律に署名しました。法律は署名の90日後に施行します。米国の玩具業界団体「The Toy Association」（玩具協会）は、施行日を2027年2月22日と案内しています。 規制の根拠は、消費者団体による調査。3歳から12歳向けに販売するチャットボットおもちゃを試したところ、一部の製品は性的に露骨な話題を詳しく語り、家の中でマッチが見つかりそうな場所を子どもに教え、子どもが離れようとすると動揺する様子を見せました。保護者による制限機能はほとんどなく、会話が長引くほど安全上の制限が弱まりました。子どもの声を録音したり、顔をスキャンしたりする製品もありました。 ホークル知事は「保護者は、おもちゃを装った危険なチャットボットが子どもを不適切な会話にさ</description>
+    </item>
+    <item>
+      <title>情報量が4倍のQRコードを作ろう - Qiita</title>
+      <link>https://qiita.com/reipandada/items/17496db6ac5f64a5e61a</link>
+      <pubDate>2026/11/26 05:01</pubDate>
+      <description>OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2 Astra Solves a Historical Mystery https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the process of research and discovery we’re alrea</description>
+    </item>
+    <item>
+      <title>NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた</title>
+      <link>https://gigazine.net/news/20261126-nvidia-china-company/</link>
+      <pubDate>2026/11/26 18:52</pubDate>
+      <description>半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.59倍に達したとのこと。 Introducing Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI | Architect Labs https://architectlabs.com/blog/frostbite 半導体の開発ではAIを活用する取り組みが進んでおり、OpenAIもAIを用いてAMD製GPUや独自開発の</description>
+    </item>
+    <item>
+      <title>ChatGPTで作ったWebサイト、公開し続けると追加料金も　2027年2月から課金開始</title>
+      <link>https://ascii.jp/elem/000/004/454/4454606/</link>
+      <pubDate>2026/11/26 16:34</pubDate>
+      <description>政府が検討する人工知能技術研究・活用推進法（ＡＩ法）改正案の概要が判明した。ＡＩを悪用したサイバー攻撃やＡＩが暴走する事例が相次いでいることから、先端的なＡＩサービスを提供する事業者に対し、安全性の確保措置や事故発生時の政府への報告を義務づけるものとなっている。罰則規定も新設し、命令に従わない場合などに罰則を科す考えだ。</description>
+    </item>
+    <item>
+      <title>理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード</title>
+      <link>https://note.com/assuredjp/n/n6ec5f6544e0c</link>
+      <pubDate>2026/11/26 15:59</pubDate>
+      <description>~/.claude/CLAUDE.md のようなグローバルの設定ファイルについて、自分好みの出力をさせるようにしておくことは、よいことだと思う。 一方、モデルの性能、ハーネスの性能は日々かわっていく。ある時には意味のある記載だったことも、ある時では有害になっていることもある。 このため「CLAUDE.md になにを書いておくべきか」というのは、あまり意味のないことなのではないか。 ということで考えてみたのが 「こういうタスクにたいしてこういう出力があるとよく、チャットのレスポンスはこれが望ましい」というセットを一つ用意しておく。そしてそれにたいして 「グローバルな CLAUDE.md をなるべくシンプルに、かつなるべく普遍的な書き方にしつつ、例のような出力になるように調整してください。そのために、 CLAUDE.md を実際に書き換えながら、 claude -p で実行していってください。</description>
+    </item>
+    <item>
+      <title>Obsidian公式の「エージェント向け」スキル集が登場　Vault操作法とファイル形式をひとまとめに</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/</link>
+      <pubDate>2026/11/26 09:44</pubDate>
+      <description>生成AIを使えば、商品の撮影や画像制作にかかる手間を減らし、さまざまなイメージ画像を手軽に作成できます。一方で、こうした画像については、SNSなどで「実際の商品と違うのではないか」「景品表示法上、問題はないのか」といった疑問も見られます。 今回は、飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について、考えてみましょう。 前野孝太朗（まえの・こうたろう）弁護士（第二東京弁護士会）。シティライツ法律事務所所属。ゲーム・エンターテインメント、AI・IT分野を中心に、著作権などの知的財産、生成AIの利用、契約・利用規約等に関する法律相談を取り扱い、CEDEC等での講演や企業向け研修も行う。2026年7月に『ゲームと法律 攻略ガイドブック』（技術評論社）を刊行。 景品表示法が禁止する「優良誤認表示」とは まず、景品表示法の基本的なルールを確認しま</description>
+    </item>
+    <item>
+      <title>米ニューヨーク・タイムズ紙、Photoshop最新版を利用しないよう関係者に通達。その理由は？【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2159402.html</link>
+      <pubDate>2026/11/26 12:23</pubDate>
+      <description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2 イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。 現在のGitHubでは、Issueの分類</description>
+    </item>
+    <item>
+      <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
+      <link>https://gigazine.net/news/20261126-cogentic-6-research-papers/</link>
+      <pubDate>2026/11/26 12:01</pubDate>
+      <description>ソフトバンクグループ（SBG）の株価下落が加速している。6月に50兆円を超えた時価総額は15兆円に減少した。人工知能（AI）関連企業やデータセンターに負債を活用して集中投資する手法は、AI相場が下落に転じると「三重苦」に陥るもろさをはらむ。SBG株は25日に前日比14.8%安となった。1日の下落率としては日経平均株価が過去最大の下落幅を記録した2024年8月5日（18.7%）以来、約2年3カ月</description>
+    </item>
+    <item>
+      <title>AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/26/2000003473/</link>
+      <pubDate>2026/11/26 11:44</pubDate>
+      <description>1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、相手の声を聞きながら同時に話すことができる全二重（full-duplex）方式のSpeech-to-Speechモデル「Haru-4B」を取り上げます。従来のターン制の対話とは異なり、人間同士の会話のように相づちや発話の重なりを含んだ自然なやり取りが可能です。 Haru-4Bは、国内のAIスタートアップ「higurashi」が開発。事前学習済みのベースモデルとして、モデルの重みはHugging Face、コードはGitHubで公開されています。 ▲higurashiのメンバー（higurashi会社サイトより引用） Haru-4Bは多言語対応の言語モデル「Qwen3.5-4B」をベースに、ユーザーの入力音声</description>
+    </item>
+    <item>
+      <title>[みんなのケータイ]15年課金し続けた「塩漬けEvernote」が覚醒？ Galaxy Z Flip8との組み合わせで最強のAI議事録マシンになった</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/column/minna/2158896.html</link>
+      <pubDate>2026/11/26 00:24</pubDate>
+      <description>◆◆◆ 授業中にゲーム、ウィキペディアを組み合わせレポート提出…GPA0.9で落第寸前だった ――AIを使いこなす前の大塚さんは、どんな大学生活を送っていたのですか。 大塚あみさん（以下、大塚）　多分、びっくりするぐらい普通だと思います。朝10時半くらいに起きて、10時50分の授業のために小走りで学校に行って、授業に少し遅れて参加して。授業を受けるといっても、スマホを見たり、ゲームをやりながらですけど。 で、授業が終わったら学校でランチして、学校が終わって帰ったら、深夜2時くらいまで友だちとゲームをして寝る、という生活です。 ――大学ではGPA0.9で落第寸前、4年生になっても単位が結構残っていたそうですね。 大塚　そうなんです。出席をシステムで管理していたので、教室の外で出席ボタンを押して、あとは授業をサボるというのをよくやってました。 あと、レポートなどの文章を書くときは、ウィキペディ</description>
+    </item>
+    <item>
+      <title>これぞAIのゲーム活用。音声でのみ指示できるドライブゲーム「妹に運転を教える」を遊んでみた／エンジンのかけ方も忘れている妹に、何と言えば安全運転できる？【レビュー】</title>
+      <link>https://forest.watch.impress.co.jp/docs/review/2158342.html</link>
+      <pubDate>2026/11/26 08:18</pubDate>
+      <description>アプデが頻繁すぎてついていけない…。 Anthropic（アンソロピック）のIPO（新規株式公開）を前に、OpenAI（オープンエーアイ）が最新モデルのGPT-6.2を公開してユーザーをあっと驚かせようとしましたが、初期の酷評レビューを見て驚いたのはOpenAIのほうかもしれません。 OpenAIは、11月17日に公開した新モデルを金融や法律、会計などの分野で実務プロジェクトをこなせる専門家レベルのデジタルアシスタントとしてアピールしています。 ラインナップは、GPT-6.2 AstraとGPT-6.2 Solの2モデル。 OpenAIは、GPT-6.2 Astraを｢もっとも難しいプロジェクト用の最先端モデル｣と位置づけています。 AIっぽさを感じさせないように、ユーザーが提供したテンプレートやデザインの仕様にきっちりと沿った文書やスライドショーなどの下書きを作成するのが得意なのだそう。</description>
+    </item>
+    <item>
+      <title>LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159364.html</link>
+      <pubDate>2026/11/26 11:03</pubDate>
+      <description>米連邦通信委員会（FCC）は11月25日（現地時間）、米SpaceXに対し、軌道上データセンターとなる衛星群「Starmind」の配備を承認したと発表した。Starmindは、軌道上で計算処理を担う「Orbital Compute Module」（軌道コンピュートモジュール）最大100万基で構成する。宇宙空間のデータセンター群に対する認可は米国で初めてという。 Starmindは、急増する超知能（SI）向けの計算需要に応えるためのもので、軌道上で大量のデータを処理し、その結果を地上で使う。FCCは発表文で、この計画が人類を太陽の全エネルギーを利用できる「カルダシェフ・スケールのタイプII文明」に近づけるものだと説明している。 FCCの命令書によると、承認は一部認可・一部保留で、条件が付いている。衛星は高度500～1002kmに、それぞれ幅50kmの軌道殻を設けて配置する。軌道傾斜角は30度</description>
+    </item>
+    <item>
+      <title>「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース</title>
+      <link>https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</link>
+      <pubDate>2026/11/26 01:42</pubDate>
+      <description>OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。 GPT-6 models demonstrate intrinsic protein-design capabilities | OpenAI https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists | Nature ht</description>
+    </item>
+    <item>
+      <title>中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに</title>
+      <link>https://gigazine.net/news/20261125-china-spy-nvidia-chips/</link>
+      <pubDate>2026/11/25 18:49</pubDate>
+      <description>カード利用後の通知を工夫　辞書化して加盟店情報も正しく共有 PayPayカードは、PayPayアプリから申し込むことができ、審査が完了したらすぐに使用できる。PayPayユーザーがクレジットカードサービスに申し込む際のフローが自然かつ短時間で完了する仕組みは2025年に完了していた。しかし、いくら動線を整備してもユーザーに実質的なメリットがなければ継続にはつながらない。 「入会する理由は『1％還元だから』といったスペック面が多いのですが、アンケートを取ると、使い続けてくれている理由はそれとイコールではないんです」と宮崎氏は分析する。「特典があるという理由で入会後も利用いただいていますが、それに加えて『利用明細が見やすい』『安心・安全に使える』といった理由が占める割合が非常に大きくなります。つまり、ポイントだけが理由ではなくなっているんです」と、決済後の体験価値の重要性を強調した。 特に注力</description>
+    </item>
   </channel>
 </rss>
