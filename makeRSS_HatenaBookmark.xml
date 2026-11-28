@@ -278787,5 +278787,59 @@ June 6, 2026</description>
       <pubDate>2026/11/26 13:00</pubDate>
       <description>ホーム お知らせ 国立大学図書館協会シンポジウム「大学図書館×AI　～大学図書館はAI for Scienceとどのように関わるか～」開催のご案内 国立大学図書館協会シンポジウム「大学図書館×AI　～大学図書館はAI for Scienceとどのように関わるか～」開催のご案内 国立大学図書館協会では、下記のとおり、シンポジウム「大学図書館×AI　～大学図書館はAI for Scienceとどのように関わるか～」を開催いたします。 ぜひご参加ください。 1.趣旨 AI for Science、ことに生成AIに関して、大学図書館がどのように関わるかは、近年、大きなテーマとなっている。今回はその大テーマの中でも、生成AIの構築を切り口に考えてみたい。生成AIの構築には「学習データ」の存在が不可欠である。AIプラットフォーマは高品質の学習データを求めて競争しているところであり、今、注目を集めている</description>
     </item>
+    <item>
+      <title>生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ</title>
+      <link>https://tjo.hatenablog.com/entry/2026/11/28/185602</link>
+      <pubDate>2026/11/28 19:03</pubDate>
+      <description>JJUG CCC 2026 Fall, Room A&amp;amp;B 13:15 - 14:00 セッション資料</description>
+    </item>
+    <item>
+      <title>AI音声による虚偽通報が深刻化</title>
+      <link>https://gigazine.net/news/20261128-fake-911-call-ai/</link>
+      <pubDate>2026/11/28 08:02</pubDate>
+      <description>Claude Codeによってデータサイエンティスト業務を効率化する方法論をまとめました。プロジェクトナレッジを溜める方法論から、ナレッジベースの作り方、AI時代のレビューしやすい分析コードのまとめかた（Claude.md）など多岐にわたって筆者が実践している方法論を書いています。</description>
+    </item>
+    <item>
+      <title>古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる</title>
+      <link>https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</link>
+      <pubDate>2026/11/28 08:24</pubDate>
+      <description>Claude Codeに実装やレビュー対応を任せていると、作業の途中でちょっと別のことを聞きたくなったり、別の案も試したくなったりすることがあります。 また、テストやCIが終わるのを待っている間に手が止まってしまうことも多いです。 そういった時に使えるコマンドがClaude Codeにはいくつか用意されていますが、/btw、/branch、/forkなど名前が似ていて最初はどれを使えばいいか迷いました。 今回は普段よく使っているものを中心にそれぞれの違いと使い分けをまとめてみました。 /btw 作業を止めずに横から質問することができるコマンドです。 回答は画面に小さく表示されてメインの作業はそのまま進みます。 Claudeが作業している最中でも使える 質問と回答はメインの会話の履歴に残らない ファイルの読み込みやコマンドの実行はせず、それまでの会話の内容だけで答える メインの会話に残らない</description>
+    </item>
+    <item>
+      <title>組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知</title>
+      <link>https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/</link>
+      <pubDate>2026/11/27 17:07</pubDate>
+      <description>2026年11月26日より開催の「アーキテクチャConference 2026」の登壇資料です。 https://architecture-con.findy-tools.io/2026 ▼関連情報 AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human…</description>
+    </item>
+    <item>
+      <title>Photoshop2027、画像に付加されるAI生成情報について – Automation Skill</title>
+      <link>https://ten-artai.com/2026/11/7314/</link>
+      <pubDate>2026/11/27 23:33</pubDate>
+      <description>ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報告が英語です。 4 回目は特に目立ちました。私は返答の中の 1 文を音声で読み上げる仕組みを使っています。その読み上げ用の文も英語になり、日本語の音声が英語を読み始めました。 原因 4 回目をたどると、こうでした。 きっかけは、英語で届くシステムの促し「The user hasn&amp;#39;t heard from you in a while — say in a few words what you&amp;#39;re doing」。これに英語の一言で答えた 一度英語を書くと、その後の自分の文に引きずられて英語が続いた 背景には、英語のスキル説明・検索結果・ツール出力が大量に流れる長い会話があった そして一番の反省は、過去の失敗を「ルールはもうあるから」で済ませて、仕組みを足さなかったことです。 指示ファ</description>
+    </item>
+    <item>
+      <title>「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果</title>
+      <link>https://gigazine.net/news/20261127-ai-doesnt-deter/</link>
+      <pubDate>2026/11/27 17:30</pubDate>
+      <description>最近のAI関連のニュースでは、人間離れした成果が次々に出ている。 167年間どの天才数学者も解けなかったリーマン予想をAnthropicのClaudeが約1,700万行のコードで形式証明したかと思えば、OpenAIのGPT-6.2 Astraは200年以上も作者不明だった1808年のスケッチブックの描き手をたった22分で突き止めた。さらに新興企業のArchitect Labsは、AIに非ノイマン型の新しいCPU「Frostbite」を回路からコンパイラまで丸ごと設計させて、電力効率4.59倍を叩き出したという。 AI開発の勢力図を見ても動きが激しい。今年の夏頃までは「安い中国のオープンモデルがすぐ米国勢に追いついてタダ同然にする」と言われていたのに、この秋に入ってまた米国の最先端モデルが中国勢との差を広げ始めた。外には出さない社内専用の最上位モデルを自社の研究開発に投入して、人間とAIのタ</description>
+    </item>
+    <item>
+      <title>「Gemini Notebook」でノートや調査資料からインタラクティブなサイトを生成可能に／</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2159542.html</link>
+      <pubDate>2026/11/26 17:24</pubDate>
+      <description>毎朝規則正しく巡回してくれる Devin こんにちは。エンジニアの芳賀です。 ループエンジニアリング、流行ってますね！ さて、2026年11月17日、Cognition が Devin の新機能「Devin Bots」を発表しました。 ひと言でいうと、タスク単位ではなく成果単位で Devin に仕事を任せる機能です。 ということで、発表を見て早速 Bot を1体作り、kickflow のリポジトリのパフォーマンス改善を任せてみました。 やったのは、チャットで Bot の質問に答えることだけです。 コードも設定ファイルも書いていません。 作り始めてから約25分で、最初の PR が届きました。 いまは毎朝6時に、Bot が Datadog と Sentry の本番データとコードを調べ、改善の issue と PR を作っています。 マージ前の PR での計測ですが、効果を示せるものもあります。</description>
+    </item>
+    <item>
+      <title>ローカルLLMによるデジタルフォレンジック支援ハーネスの設計と実装</title>
+      <link>https://speakerdeck.com/sumeshi/design-and-implementation-of-a-local-llm-harness-for-digital-forensics-ja</link>
+      <pubDate>2026/11/26 13:32</pubDate>
+      <description>フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「ファルコンヘビー」が打ち上げられる様子＝2024年6月25日/Miguel J. Rodriguez Carrillo/AFP/Getty Images （CNN） 米連邦通信委員会（FCC）は、イーロン・マスク氏率いる米宇宙企業スペースXに対し、人工知能（AI）を支えるデータセンターを構築するため、宇宙空間に100万基の衛星を配備することを承認した。 今回の決定は、イノベーション（技術革新）と経済成長を加速させると期待されるAI分野で、米国が世界の主導権を握ろうと競争する中で下された。AIの活用はスペースXの成長戦略の中核でもある。だが同社は6月の新規株式公開（IPO）に先立ち規制当局に提出した文書で、宇宙へのデータセンター設置は「実証されていない」技術に依存しており、「商業的に成り立たない可能性が</description>
+    </item>
+    <item>
+      <title>GitHub - lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis</title>
+      <link>https://github.com/lsernau/grh-lean</link>
+      <pubDate>2026/11/26 14:17</pubDate>
+      <description>開発者のAlexey Fateev氏は11月26日（日本時間）、言語モデル「Qwen3-0.6B」を動かすためだけのOS「asm-llm-os.elf」をXで発表しました。PCや仮想マシンを起動すると、そのままチャット画面が立ち上がります。OS本体のサイズは2万4252バイト（約24KB）です。コードはGitHubで公開しており、ライセンスはMITです。 このOSは、LinuxもWindowsも使いません。Fateev氏はブートからドライバ、推論エンジンまでのすべてをx86-64のアセンブリ言語（NASM）で記述しました。CやRustのコードは含まず、libcなどのランタイムにも依存しません。 サポートするドライバは、シリアルポート（COM1）、80×25文字のVGAテキスト画面、PS/2キーボード、時間計測、ACPIによる電源オフだけです。ディスクのドライバは持たず、OSとモデルをすべて</description>
+    </item>
   </channel>
 </rss>
